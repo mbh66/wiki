@@ -12,7 +12,7 @@ epistemic_status: "stub"
 ---
 
 
-A framework for community activation developed by [[ezio-gori|Ezio Gori]]. iACT addresses the coordination question at the [[bioplace|BioPlace]] layer: how a cluster of parcels and the people working them move from individual holdings to a coordinated community field that a [[biohub|BioHub]] can hold.
+A framework for community activation developed by [[gori-ezio|Ezio Gori]]. iACT addresses the coordination question at the [[bioplace|BioPlace]] layer: how a cluster of parcels and the people working them move from individual holdings to a coordinated community field that a [[biohub|BioHub]] can hold.
 
 ## Related terms
 
@@ -22,7 +22,7 @@ A framework for community activation developed by [[ezio-gori|Ezio Gori]]. iACT 
 
 ## Sources and associated figures
 
-- [[ezio-gori|Ezio Gori]]
+- [[gori-ezio|Ezio Gori]]
 
 ## Provenance
 

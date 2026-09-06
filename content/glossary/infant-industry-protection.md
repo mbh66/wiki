@@ -30,9 +30,9 @@ List's argument is explicitly stage-based. Protection is a temporary development
 
 ## Sources
 
-- [[sources/list-national-system|List, F. (1841). *The National System of Political Economy*]]
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
+- List, F. (1841). *[[sources/list-national-system|The National System of Political Economy]]*
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
 
 ## Provenance
 
-Borrowed from List (1841). See [[friedrich-list|Friedrich List]] for biographical context.
+Borrowed from List (1841). See [[list-friedrich|Friedrich List]] for biographical context.

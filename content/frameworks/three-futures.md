@@ -93,22 +93,22 @@ If the choice is real, and Graves insisted it was, then the determining variable
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[second-tier-thinking|Second Tier Thinking (glossary)]]
 - [[threefolding|Threefolding (glossary)]]
-- [[clare-graves|Clare Graves]]
-- [[rudolf-steiner|Rudolf Steiner]]
-- [[lynn-margulis|Lynn Margulis]]
-- [[elisabet-sahtouris|Elisabet Sahtouris]]
-- [[nafeez-ahmed|Nafeez Ahmed]]
-- [[peter-turchin|Peter Turchin]]
+- [[graves-clare|Clare Graves]]
+- [[steiner-rudolf|Rudolf Steiner]]
+- [[margulis-lynn|Lynn Margulis]]
+- [[sahtouris-elisabet|Elisabet Sahtouris]]
+- [[ahmed-nafeez|Nafeez Ahmed]]
+- [[turchin-peter|Peter Turchin]]
 
 ## Sources
 
 - Graves, C.W. (1974). "Human Nature Prepares for a Momentous Leap." *The Futurist*, April 1974, 72-87.
 - Graves, C.W. (1970). "Levels of Existence: An Open System Theory of Values." *Journal of Humanistic Psychology*, 10(2), 131-155.
-- [[sources/tainter-collapse-complex-societies|Tainter, J. (1988). *The Collapse of Complex Societies*]]
+- Tainter, J. (1988). *[[sources/tainter-collapse-complex-societies|The Collapse of Complex Societies]]*
 - Turchin, P. (2003). *Historical Dynamics*.
 - Ahmed, N.M. (2025). "Planetary phase shift as a new systems framework." *Foresight*, 27(2).
 - Zuboff, S. (2019). *The Age of Surveillance Capitalism*.
-- [[sources/margulis-symbiotic-planet|Margulis, L. (1998). *Symbiotic Planet*]]
+- Margulis, L. (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*
 - Sahtouris, E. (2000). *EarthDance*.
 - Steiner, R. (1919). *The Threefold Commonwealth*.
 

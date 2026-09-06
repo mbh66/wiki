@@ -25,4 +25,4 @@ The book-length treatment of the Commitment Pooling Protocol and Ruddick's fifte
 ## Cited by
 
 - [[concepts/commitment-pooling|Commitment Pooling]]
-- [[will-ruddick|Will Ruddick]]
+- [[ruddick-will|Will Ruddick]]

@@ -25,5 +25,5 @@ The founding text of the Water [[glossary/retention-economics|Retention]] Landsc
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
-- [[michal-kravcik|Michal Kravčík]]
+- [[kravcik-michal|Michal Kravčík]]
 - [[glossary/water-retention-landscape|Water Retention Landscape (glossary)]]

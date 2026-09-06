@@ -23,27 +23,27 @@ Four subfolders (theorists, practitioners, ancestors, historical-practitioners) 
 
 Representative entry points into the framework's intellectual lineage:
 
-- [[david-ronfeldt|David Ronfeldt]]. [[content/glossary/timn|TIMN framework]].
-- [[elinor-ostrom|Elinor Ostrom]]. [[glossary/commons|Commons]] governance.
-- [[karl-polanyi|Karl Polanyi]]. The [[glossary/double-movement|double movement]].
-- [[elisabet-sahtouris|Elisabet Sahtouris]]. Evolutionary biology as coordination substrate.
-- [[benjamin-life|Benjamin Life]]. [[glossary/bioregional-economics|Bioregional economics]].
-- [[michel-bauwens|Michel Bauwens]]. [[glossary/cosmo-local-production|Cosmo-local production]], [[glossary/transvestment|transvestment]].
-- [[will-ruddick|Will Ruddick]]. Grassroots Economics, commitment pooling in the field.
-- [[lynn-margulis|Lynn Margulis]]. [[glossary/endosymbiosis|Endosymbiosis]]; the biological precedent for [[glossary/mycelial-consciousness|Mycelial Consciousness]].
-- [[vladimir-vernadsky|Vladimir Vernadsky]]. Biogeochemistry; the scientific formulation of the [[glossary/geosphere|geosphere]] / biosphere / [[glossary/noosphere|noosphere]] stratigraphy.
-- [[eva-gladek|Eva Gladek]]. The Metabolic field mapping.
+- [[ronfeldt-david|David Ronfeldt]]. [[content/glossary/timn|TIMN framework]].
+- [[ostrom-elinor|Elinor Ostrom]]. [[glossary/commons|Commons]] governance.
+- [[polanyi-karl|Karl Polanyi]]. The [[glossary/double-movement|double movement]].
+- [[sahtouris-elisabet|Elisabet Sahtouris]]. Evolutionary biology as coordination substrate.
+- [[life-benjamin|Benjamin Life]]. [[glossary/bioregional-economics|Bioregional economics]].
+- [[bauwens-michel|Michel Bauwens]]. [[glossary/cosmo-local-production|Cosmo-local production]], [[glossary/transvestment|transvestment]].
+- [[ruddick-will|Will Ruddick]]. Grassroots Economics, commitment pooling in the field.
+- [[margulis-lynn|Lynn Margulis]]. [[glossary/endosymbiosis|Endosymbiosis]]; the biological precedent for [[glossary/mycelial-consciousness|Mycelial Consciousness]].
+- [[vernadsky-vladimir|Vladimir Vernadsky]]. Biogeochemistry; the scientific formulation of the [[glossary/geosphere|geosphere]] / biosphere / [[glossary/noosphere|noosphere]] stratigraphy.
+- [[gladek-eva|Eva Gladek]]. The Metabolic field mapping.
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/people/index|Wiki Home]]
 - [[sources/index|Sources]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]
 
 ## Sources
 
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance
 

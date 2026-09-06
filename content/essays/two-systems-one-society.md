@@ -31,13 +31,13 @@ These are not gaps the Market form is on its way to filling. They are structural
 
 This is the boundary of the Market form, not its failure. The Economy does what it does within that boundary and cannot be asked to do what lies outside. Asking the Economy to price watershed function at scale is like asking a hammer to be a wrench: the tool works; the request is the mistake.
 
-[[karl-polanyi|Karl Polanyi]] named the general form of this argument in 1944 as the [[glossary/fictitious-commodities|fictitious commodities]]: land, labor, and money were not produced for the market and cannot be fully subordinated to it without damaging the substrate they sit on. The BioConomy is what Polanyi's [[glossary/double-movement|double movement]] looks like at bioregional scale.
+[[polanyi-karl|Karl Polanyi]] named the general form of this argument in 1944 as the [[glossary/fictitious-commodities|fictitious commodities]]: land, labor, and money were not produced for the market and cannot be fully subordinated to it without damaging the substrate they sit on. The BioConomy is what Polanyi's [[glossary/double-movement|double movement]] looks like at bioregional scale.
 
 ## What the BioConomy is
 
 The BioConomy is the coordination-support system that runs alongside the Economy and holds what the Economy structurally cannot. It works through different signals.
 
-**Commitment pooling** replaces spot price as the coordinating signal. Actors publish forward promises about what they will produce (retained baseflow, restored infiltration, biodiversity recovery, cultural transmission). The pool aggregates the promises. The pool becomes the collateral against which coordination and exchange happen. [[will-ruddick|Will Ruddick]] and Grassroots Economics have developed this at community scale over a decade of field work. The wiki's argument is that the same logic scales to the watershed and the bioregion.
+**Commitment pooling** replaces spot price as the coordinating signal. Actors publish forward promises about what they will produce (retained baseflow, restored infiltration, biodiversity recovery, cultural transmission). The pool aggregates the promises. The pool becomes the collateral against which coordination and exchange happen. [[ruddick-will|Will Ruddick]] and Grassroots Economics have developed this at community scale over a decade of field work. The wiki's argument is that the same logic scales to the watershed and the bioregion.
 
 **Tender compacts** replace contracts of sale. A [[glossary/biohub|BioHub]] tenders its services to counterparties through a [[glossary/tender-compact|Tender Compact]] that specifies the outcome (not the activity), the verification methodology, and the payment terms. The compact establishes what the parties owe each other in a form neither can unilaterally change.
 

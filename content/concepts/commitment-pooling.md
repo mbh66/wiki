@@ -15,7 +15,7 @@ Commitment pooling is the coordination mechanism through which distributed actor
 
 At the community level, participants pool labor, goods, services, and ecological work into a shared structure, and draw from the pool by membership and contribution. At the bioregional level, multiple communities, landowners, municipalities, and conservation bodies pool coordinated landscape-scale commitments (catchment restoration, invasive clearing, demand reduction) into a service that can be contracted, verified, and paid for by an external beneficiary.
 
-The first is the province of the commitment pool as developed by [[will-ruddick|Will Ruddick]] and the Grassroots Economics Foundation. The second is the province of water funds, performance-based bonds, and payment-for-ecosystem-services instruments like the Greater Cape Town Water Fund. The [[biohub|BioHub]] is the coordination layer that connects the two.
+The first is the province of the commitment pool as developed by [[ruddick-will|Will Ruddick]] and the Grassroots Economics Foundation. The second is the province of water funds, performance-based bonds, and payment-for-ecosystem-services instruments like the Greater Cape Town Water Fund. The [[biohub|BioHub]] is the coordination layer that connects the two.
 
 ## The deep history
 
@@ -27,11 +27,11 @@ The pattern is near-universal. Irish Meitheal, Finnish Talkoot, Norwegian Dugnad
 
 Commitment pooling draws on two intellectual streams.
 
-The first is [[promise-theory|Promise Theory]], developed by [[mark-burgess|Mark Burgess]] and [[jan-bergstra|Jan Bergstra]]. Promise Theory models cooperation as a system built from voluntary, autonomous commitments between agents. An agent can promise only what it controls. Coordination emerges from the pattern of promises, and not from external enforcement. This is the formal architecture: pooling works because participants make binding forward promises, and the pattern of promises becomes a coordination substrate.
+The first is [[promise-theory|Promise Theory]], developed by [[burgess-mark|Mark Burgess]] and [[bergstra-jan|Jan Bergstra]]. Promise Theory models cooperation as a system built from voluntary, autonomous commitments between agents. An agent can promise only what it controls. Coordination emerges from the pattern of promises, and not from external enforcement. This is the formal architecture: pooling works because participants make binding forward promises, and the pattern of promises becomes a coordination substrate.
 
 The second is Ruddick's own protocol, set out in his 2023 paper in the *International Journal of Community Currency Research* and developed at book length in *Grassroots Economics: Reflection and Practice* (2025). The Commitment Pooling Protocol has four functions: [[curation-valuation-limitation-exchange|curation]] (what commitments are admissible to the pool), valuation (how their relative worth is assessed), limitation (how capacity is managed so the pool does not overextend), and exchange (how commitments circulate through fee and settlement logic).
 
-As the economist [[leanne-ussher|Leanne Ussher]] observed, the commitment pool bears a structural resemblance to the clearing union John Maynard Keynes proposed in 1941: an accounting system based on trade balance and reciprocity, with no national currency required. Keynes argued that anchoring international coordination to gold or sterling would propagate persistent trade imbalances, speculative capital, and economic instability. An accounting system with a clearing mechanism would suffice. The commitment pool operates on the same insight at community scale.
+As the economist [[ussher-leanne|Leanne Ussher]] observed, the commitment pool bears a structural resemblance to the clearing union John Maynard Keynes proposed in 1941: an accounting system based on trade balance and reciprocity, with no national currency required. Keynes argued that anchoring international coordination to gold or sterling would propagate persistent trade imbalances, speculative capital, and economic instability. An accounting system with a clearing mechanism would suffice. The commitment pool operates on the same insight at community scale.
 
 ## Community-level practice
 
@@ -68,7 +68,7 @@ This connection matters because it determines who captures the value. Standard [
 - [[mweria|Mweria (glossary)]]
 - [[promise-theory|Promise Theory (glossary)]]
 - [[curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange (glossary)]]
-- [[will-ruddick|Will Ruddick]]
+- [[ruddick-will|Will Ruddick]]
 
 - [[templates/index|The Templates]]
 - [[templates/value-proposition-template|BioConomy Value Proposition Template]]
@@ -77,11 +77,11 @@ This connection matters because it determines who captures the value. Standard [
 - [[glossary/alignment-compact|Alignment Compact]]
 ## Sources
 
-- [[sources/burgess-thinking-in-promises|Burgess, M. (2015). *Thinking in Promises*]]
+- Burgess, M. (2015). *[[sources/burgess-thinking-in-promises|Thinking in Promises]]*
 - [[sources/ruddick-commitment-pooling-2023|Ruddick, W. O. (2023). "Commitment Pooling: An Economic Protocol Inspired by Ancestral Wisdom"]]
-- [[sources/ruddick-grassroots-economics-2025|Ruddick, W. O. (2025). *Grassroots Economics: Reflection and Practice*]]
-- [[sources/tnc-gctwf-business-case|The Nature Conservancy (2018). *Greater Cape Town Water Fund Business Case*]]
-- [[sources/gctwf-sustainable-funding|Greater Cape Town Water Fund (2021). *Sustainable Funding Strategy*]]
+- Ruddick, W. O. (2025). *[[sources/ruddick-grassroots-economics-2025|Grassroots Economics: Reflection and Practice]]*
+- The Nature Conservancy (2018). *[[sources/tnc-gctwf-business-case|Greater Cape Town Water Fund Business Case]]*
+- Greater Cape Town Water Fund (2021). *[[sources/gctwf-sustainable-funding|Sustainable Funding Strategy]]*
 
 ## Provenance
 

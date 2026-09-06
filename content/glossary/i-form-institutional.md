@@ -21,8 +21,8 @@ Coordination through hierarchy, codified rules, and formalized authority, where 
 
 ## Sources and associated figures
 
-- [[georges-duby|Georges Duby]]
-- [[robert-scott|Robert Scott]]
+- [[duby-georges|Georges Duby]]
+- [[scott-robert|Robert Scott]]
 
 ## Provenance
 

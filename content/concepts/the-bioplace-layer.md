@@ -47,11 +47,11 @@ This is what makes the difference between an [[glossary/economy|economy]] and a 
 
 The practice knowledge that populates the BioPlace layer draws on several overlapping lineages.
 
-[[glossary/permaculture|Permaculture]], articulated by [[bill-mollison|Bill Mollison]] and David Holmgren in Australia from the late 1970s, gives the design system for parcel-scale regenerative production. [[andrew-millison|Andrew Millison]] carries this teaching into contemporary public education. [[richard-perkins|Richard Perkins]] at Ridgedale Permaculture in Sweden works the commercial edge of the field, showing that permaculture-designed holdings can operate as viable farm businesses.
+[[glossary/permaculture|Permaculture]], articulated by [[mollison-bill|Bill Mollison]] and David Holmgren in Australia from the late 1970s, gives the design system for parcel-scale regenerative production. [[millison-andrew|Andrew Millison]] carries this teaching into contemporary public education. [[perkins-richard|Richard Perkins]] at Ridgedale Permaculture in Sweden works the commercial edge of the field, showing that permaculture-designed holdings can operate as viable farm businesses.
 
-Keyline design and pattern-based water distribution from [[p-a-yeomans|P. A. Yeomans]] sits inside this lineage and connects the BioPlace to the [[glossary/water-retention-landscape|water retention landscape]] work of [[peter-andrews|Peter Andrews]], [[michal-kravcik|Michal Kravcik]], and [[zach-weiss|Zach Weiss]].
+Keyline design and pattern-based water distribution from [[yeomans-p-a|P. A. Yeomans]] sits inside this lineage and connects the BioPlace to the [[glossary/water-retention-landscape|water retention landscape]] work of [[andrews-peter|Peter Andrews]], [[kravcik-michal|Michal Kravcik]], and [[weiss-zach|Zach Weiss]].
 
-Community activation frameworks such as [[ezio-gori|Ezio Gori]]'s [[glossary/iact-framework|iACT]] address the coordination side of the BioPlace layer: how a cluster of parcels and their people move from individual holdings to a coordinated community field a BioHub can hold.
+Community activation frameworks such as [[gori-ezio|Ezio Gori]]'s [[glossary/iact-framework|iACT]] address the coordination side of the BioPlace layer: how a cluster of parcels and their people move from individual holdings to a coordinated community field a BioHub can hold.
 
 Indigenous and communal stewardship traditions carry the deepest continuity in this layer. Where tenure has held, the human-land relationship at parcel scale has run across generations, and much of what permaculture articulates as design principle these traditions have carried as practice.
 
@@ -69,11 +69,11 @@ Indigenous and communal stewardship traditions carry the deepest continuity in t
 
 ## Sources and associated figures
 
-- [[bill-mollison|Bill Mollison]]
-- [[andrew-millison|Andrew Millison]]
-- [[richard-perkins|Richard Perkins]]
-- [[p-a-yeomans|P. A. Yeomans]]
-- [[ezio-gori|Ezio Gori]]
+- [[mollison-bill|Bill Mollison]]
+- [[millison-andrew|Andrew Millison]]
+- [[perkins-richard|Richard Perkins]]
+- [[yeomans-p-a|P. A. Yeomans]]
+- [[gori-ezio|Ezio Gori]]
 
 ## Provenance
 

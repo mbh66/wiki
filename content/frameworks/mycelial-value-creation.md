@@ -71,12 +71,12 @@ The five layers are not additive in the way conventional national accounts add s
 
 ## Sources
 
-- [[sources/margulis-symbiotic-planet|Margulis, L. (1998). *Symbiotic Planet*]]
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
-- [[sources/life-bioregional-economics|Life, B. (2026). *An Introduction to Bioregional Economics (Part I)*]]
-- [[sources/landua-roland-regenerative-enterprise|Landua, G. and Roland, E. (2013). *Regenerative Enterprise*]]
-- [[sources/fullerton-regenerative-capitalism|Fullerton, J. (2015). *Regenerative Capitalism*]]
-- [[sources/raworth-doughnut-economics|Raworth, K. (2017). *Doughnut Economics*]]
+- Margulis, L. (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
+- Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
+- Landua, G. and Roland, E. (2013). *[[sources/landua-roland-regenerative-enterprise|Regenerative Enterprise]]*
+- Fullerton, J. (2015). *[[sources/fullerton-regenerative-capitalism|Regenerative Capitalism]]*
+- Raworth, K. (2017). *[[sources/raworth-doughnut-economics|Doughnut Economics]]*
 
 ## Provenance
 

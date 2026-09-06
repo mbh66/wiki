@@ -77,8 +77,8 @@ If you are new to the [[bioconomy|BioConomy]] framework, read [[essays/what-is-a
 
 ## Sources
 
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
-- [[sources/ruddick-commitment-pooling-2023|Ruddick, W. (2023). *Commitment Pooling*]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
+- Ruddick, W. (2023). *[[sources/ruddick-commitment-pooling-2023|Commitment Pooling]]*
 
 ## Provenance
 

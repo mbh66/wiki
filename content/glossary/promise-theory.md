@@ -20,9 +20,9 @@ A formal framework (Burgess and Bergstra) modeling cooperation as a system built
 
 ## Sources and associated figures
 
-- [[mark-burgess|Mark Burgess]]
-- [[jan-bergstra|Jan Bergstra]]
-- [[leanne-ussher|Leanne Ussher]]
+- [[burgess-mark|Mark Burgess]]
+- [[bergstra-jan|Jan Bergstra]]
+- [[ussher-leanne|Leanne Ussher]]
 
 ## Provenance
 

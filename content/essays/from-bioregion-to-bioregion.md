@@ -57,7 +57,7 @@ A BioRegion can hold cultural, ecological, and economic commitments across the p
 
 ## When a bioregion is not yet a BioRegion
 
-The most common case, by far. Almost every bioregion on earth today has the ecological-cultural coherence and lacks the coordination architecture. The [[eva-gladek|Metabolic]] mapping of 152 initiatives in mid-2026 identifies the bioregions where the coordinating work is under way, and even there the work is at various stages of completion.
+The most common case, by far. Almost every bioregion on earth today has the ecological-cultural coherence and lacks the coordination architecture. The [[gladek-eva|Metabolic]] mapping of 152 initiatives in mid-2026 identifies the bioregions where the coordinating work is under way, and even there the work is at various stages of completion.
 
 A bioregion is not yet a BioRegion where:
 
@@ -90,7 +90,7 @@ The shift from *bioregion* to *BioRegion* doesn't happen overnight. It is the ac
 
 ## Sources
 
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance
 

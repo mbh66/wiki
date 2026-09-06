@@ -20,7 +20,7 @@ John Fullerton's framework (2015) arguing that the universal patterns and princi
 
 ## Sources and associated figures
 
-- [[john-fullerton|John Fullerton]]
+- [[fullerton-john|John Fullerton]]
 
 ## Provenance
 

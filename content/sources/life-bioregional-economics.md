@@ -23,4 +23,4 @@ The fullest current specification of bioregional economics as a discipline. Life
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[glossary/two-machines|Two Machines (glossary)]]
 - [[glossary/bioregional-economics|Bioregional Economics (glossary)]]
-- [[benjamin-life|Benjamin Life]]
+- [[life-benjamin|Benjamin Life]]

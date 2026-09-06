@@ -14,7 +14,7 @@ epistemic_status: "documented-framework"
 
 The economic framework organized around the maximization of flow. Value is measured by what moves through a system: capital, trade volume, output, employment, exchange. The aggregate measures that track this framework (GDP, growth rate, return on investment, market capitalization) treat velocity of flow as the primary indicator of economic health.
 
-The theoretical foundations were laid by [[adam-smith|Adam Smith]] and [[david-ricardo|David Ricardo]] and elaborated by the classical, neoclassical, monetarist, and neoliberal schools that followed. The institutional expressions include free trade agreements, floating exchange rates, deregulated capital flows, and the treatment of land, labor, and money as commodities. Polanyi called the last of these the fictitious commodities and identified their unrestricted marketization as the destabilizing move of modern economics.
+The theoretical foundations were laid by [[smith-adam|Adam Smith]] and [[ricardo-david|David Ricardo]] and elaborated by the classical, neoclassical, monetarist, and neoliberal schools that followed. The institutional expressions include free trade agreements, floating exchange rates, deregulated capital flows, and the treatment of land, labor, and money as commodities. Polanyi called the last of these the fictitious commodities and identified their unrestricted marketization as the destabilizing move of modern economics.
 
 Throughput Economics was structurally fit for the acceleration phase of the industrial S-curve. Rapid expansion into new territory, new markets, and new energy sources rewarded the mechanisms that maximized flow. The framework became maladaptive when the curve entered deceleration, because maximizing throughput against bounded conditions degrades the substrate on which throughput depends. The framework is not wrong. It is phase-specific, and its phase is ending.
 
@@ -28,10 +28,10 @@ Throughput Economics was structurally fit for the acceleration phase of the indu
 
 ## Sources
 
-- [[sources/smith-wealth-of-nations|Smith, A. (1776). *The Wealth of Nations*]]
-- [[sources/ricardo-principles|Ricardo, D. (1817). *Principles of Political Economy and Taxation*]]
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
+- Smith, A. (1776). *[[sources/smith-wealth-of-nations|The Wealth of Nations]]*
+- Ricardo, D. (1817). *[[sources/ricardo-principles|Principles of Political Economy and Taxation]]*
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
 
 ## Provenance
 

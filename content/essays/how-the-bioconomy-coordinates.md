@@ -9,13 +9,13 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-Every coordination model relies on assumptions about how information moves between the [[evolution-of-coordination-nodes|coordination nodes]] that make society function. The [[what-is-a-bioconomy|BioConomy]] relies on one assumption in particular. Coordination happens through changes to a shared medium that every actor can read, and the medium itself is the coordination. [[francis-heylighen|Francis Heylighen]] calls this mechanism [[concepts/stigmergy|stigmergy]] and argues it is the coordination concept the modern moment most requires.
+Every coordination model relies on assumptions about how information moves between the [[evolution-of-coordination-nodes|coordination nodes]] that make society function. The [[what-is-a-bioconomy|BioConomy]] relies on one assumption in particular. Coordination happens through changes to a shared medium that every actor can read, and the medium itself is the coordination. [[heylighen-francis|Francis Heylighen]] calls this mechanism [[concepts/stigmergy|stigmergy]] and argues it is the coordination concept the modern moment most requires.
 
 ## The mechanism
 
 Stigmergy is the pattern by which termite mounds get built, ant trails get followed, and Wikipedia articles converge on usable form without a central editor. An actor performs a local action. The action leaves a trace in the shared environment. The trace is read by the next actor, who responds to what the trace shows and leaves a modified trace of their own. No central plan needs to circulate. The environment carries the coordination.
 
-[[francis-heylighen|Heylighen]] argues that this mechanism scales in ways that hierarchical planning and communicative negotiation do not. Coordination becomes a property of the substrate. Intelligence sits in the interaction between the actors and their environment, with the environment holding part of what a central mind would otherwise have to hold.
+[[heylighen-francis|Heylighen]] argues that this mechanism scales in ways that hierarchical planning and communicative negotiation do not. Coordination becomes a property of the substrate. Intelligence sits in the interaction between the actors and their environment, with the environment holding part of what a central mind would otherwise have to hold.
 
 The BioConomy adopts this reasoning as its operating premise. Where the [[glossary/m-form-market|Market form]] coordinates through price signals and the [[glossary/i-form-institutional|Institutional form]] coordinates through hierarchy and rule, the [[glossary/e-form-emergent|Emergent form]] coordinates through published traces in a shared knowledge medium. The medium is a network of interlinked BioHub wikis. The trace is the [[coordination-surface|coordination surface]] each wiki publishes.
 
@@ -72,7 +72,7 @@ The coordination work is reading peer wikis (the [[wiki-network/index|wiki netwo
 - [[sources/heylighen-stigmergy-universal-mechanism|Heylighen, F. (2016). Stigmergy as a universal coordination mechanism.]]
 	- Also see https://francisheylighen.substack.com/p/stigmergy-the-most-important-concept
 - [[sources/grasse-nest-reconstruction|Grassé, P.-P. (1959). La reconstruction du nid et les coordinations inter-individuelles chez Bellicositermes natalensis et Cubitermes sp.]]
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks* (RAND P-7967)]]
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]* (RAND P-7967)
 
 ## Provenance
 

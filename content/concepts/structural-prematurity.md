@@ -35,15 +35,15 @@ The falsification test is straightforward: track whether the current wave of res
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[retention-economics|Retention Economics (glossary)]]
 - [[s-curve|S-Curve (glossary)]]
-- [[alexander-hamilton|Alexander Hamilton]]
-- [[friedrich-list|Friedrich List]]
-- [[thomas-sankara|Thomas Sankara]]
-- [[mohammad-mosaddegh|Mohammad Mosaddegh]]
+- [[hamilton-alexander|Alexander Hamilton]]
+- [[list-friedrich|Friedrich List]]
+- [[sankara-thomas|Thomas Sankara]]
+- [[mosaddegh-mohammad|Mohammad Mosaddegh]]
 
 ## Sources
 
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
-- [[sources/reinert-how-rich-countries-got-rich|Reinert, E. (2007). *How Rich Countries Got Rich and Why Poor Countries Stay Poor*]]
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
+- Reinert, E. (2007). *[[sources/reinert-how-rich-countries-got-rich|How Rich Countries Got Rich and Why Poor Countries Stay Poor]]*
 
 ## Provenance
 

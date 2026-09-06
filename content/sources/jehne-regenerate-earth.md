@@ -24,5 +24,5 @@ Jehne's body of work bridging soil biology and hydrology. The Soil Carbon Sponge
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
-- [[walter-jehne|Walter Jehne]]
+- [[jehne-walter|Walter Jehne]]
 - [[glossary/soil-carbon-sponge|Soil Carbon Sponge (glossary)]]

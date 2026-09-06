@@ -11,7 +11,7 @@ updated: 2026-09-04
 epistemic_status: "documented-framework"
 ---
 
-Indirect coordination in which traces one agent leaves in a shared environment stimulate further activity by the same or other agents. Coined by the French zoologist [[pierre-paul-grasse|Pierre-Paul Grassé]] in 1959, from Greek *stigma* (mark) and *ergon* (work), to describe how termites build complex mounds without central direction. [[francis-heylighen|Francis Heylighen]] later extended the concept to human coordination, including Wikipedia and open-source software. Within the BioConomy corpus, stigmergy names the mechanism by which instruments like the [[bioscore|BioScore]], the [[tenderable-services-portfolio|Tenderable Services Portfolio]], and the Templates carry coordination without central command.
+Indirect coordination in which traces one agent leaves in a shared environment stimulate further activity by the same or other agents. Coined by the French zoologist [[grasse-pierre-paul|Pierre-Paul Grassé]] in 1959, from Greek *stigma* (mark) and *ergon* (work), to describe how termites build complex mounds without central direction. [[heylighen-francis|Francis Heylighen]] later extended the concept to human coordination, including Wikipedia and open-source software. Within the BioConomy corpus, stigmergy names the mechanism by which instruments like the [[bioscore|BioScore]], the [[tenderable-services-portfolio|Tenderable Services Portfolio]], and the Templates carry coordination without central command.
 
 ## Related terms
 
@@ -29,5 +29,5 @@ Indirect coordination in which traces one agent leaves in a shared environment s
 
 ## Sources
 
-- [[sources/grasse-nest-reconstruction|Grassé, P.-P. (1959). *La reconstruction du nid et les coordinations inter-individuelles chez Bellicositermes natalensis et Cubitermes sp.*]]
-- [[sources/heylighen-stigmergy-universal-mechanism|Heylighen, F. (2016). *Stigmergy as a universal coordination mechanism.*]]
+- Grassé, P.-P. (1959). *[[sources/grasse-nest-reconstruction|La reconstruction du nid et les coordinations inter-individuelles chez Bellicositermes natalensis et Cubitermes sp.]]*
+- Heylighen, F. (2016). *[[sources/heylighen-stigmergy-universal-mechanism|Stigmergy as a universal coordination mechanism.]]*

@@ -35,7 +35,7 @@ The falsification test is that frameworks judged structurally premature during a
 
 ## Sources
 
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
 
 ## Provenance
 

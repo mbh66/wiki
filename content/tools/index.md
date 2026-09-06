@@ -24,6 +24,6 @@ One page per tool. Each entry names what the tool does, who builds it, its prici
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/tools/index|Wiki Home]]
 - [[glossary/biostack|BioStack]]
-- [[related-wikis/index|Related Wikis]]
+- [[content/wiki-related/index|Related Wikis]]

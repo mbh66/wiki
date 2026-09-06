@@ -71,7 +71,7 @@ This is the largest unproven parameter of the framework. The Valley of Grace pro
 ## Sources
 
 - Bollier, D. and Helfrich, S. (2019). *Free, Fair, and Alive: The Insurgent Power of the Commons*.
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
 
 ## Provenance
 

@@ -37,7 +37,7 @@ Ecological and cultural boundaries rarely align cleanly. A catchment may cover p
 
 The [[templates/bioregion-establishment-template|BioRegion Establishment Template]] treats the divergence as a feature to be resolved by the founding cohort, not by the AI or by any external authority. Where indigenous or first-nation authority is involved, consent work with the authorities concerned governs the resolution. Where the divergence is substantial enough that no single boundary reconciles it, the bioregion may be defined at a scale that holds both, or the coordination may be structured so that two bioregions with overlapping territory each recognize the other.
 
-The [[polycentricity|polycentric]] answer, drawn from [[elinor-ostrom|Elinor Ostrom]]'s work on [[glossary/commons|commons]] governance, is that coordination at multiple scales can coexist. A catchment-scale bioregion and a heritage-scale bioregion can share territory without one subsuming the other, provided the coordination bodies working in each recognize the other's authority in its own domain.
+The [[polycentricity|polycentric]] answer, drawn from [[ostrom-elinor|Elinor Ostrom]]'s work on [[glossary/commons|commons]] governance, is that coordination at multiple scales can coexist. A catchment-scale bioregion and a heritage-scale bioregion can share territory without one subsuming the other, provided the coordination bodies working in each recognize the other's authority in its own domain.
 
 ## Scale
 
@@ -96,10 +96,10 @@ The bioregion is where the ecology and the finance meet. It is the scale at whic
 
 ## Sources
 
-- [[sources/kravcik-water-recovery|Kravčík, M. et al. *Water for the Recovery of the Climate*]]
-- [[sources/jehne-regenerate-earth|Jehne, W. *Regenerate Earth*]]
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
-- [[sources/life-bioregional-economics|Life, B. (2026). *An Introduction to Bioregional Economics (Part I)*]]
+- Kravčík, M. et al. *[[sources/kravcik-water-recovery|Water for the Recovery of the Climate]]*
+- Jehne, W. *[[sources/jehne-regenerate-earth|Regenerate Earth]]*
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
+- Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
 - [[sources/richardson-planetary-boundaries|Richardson et al. (2023). Earth beyond six of nine planetary boundaries]]
 
 ## Provenance

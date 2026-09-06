@@ -29,8 +29,8 @@ Polanyi observed the double movement in the nineteenth and early twentieth centu
 
 ## Sources
 
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
 
 ## Provenance
 
-Borrowed from Polanyi (1944). See [[karl-polanyi|Karl Polanyi]] for biographical context.
+Borrowed from Polanyi (1944). See [[polanyi-karl|Karl Polanyi]] for biographical context.

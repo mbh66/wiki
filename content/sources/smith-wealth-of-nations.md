@@ -21,5 +21,5 @@ Smith's foundational text and the seed of what this wiki calls [[throughput-econ
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[adam-smith|Adam Smith]]
+- [[smith-adam|Adam Smith]]
 - [[throughput-economics|Throughput Economics (glossary)]]

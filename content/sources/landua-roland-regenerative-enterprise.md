@@ -19,5 +19,5 @@ The origin of the Eight Forms of Capital ontology (social, material, financial, 
 ## Cited by
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
-- [[gregory-landua|Gregory Landua]]
-- [[ethan-roland|Ethan Roland]]
+- [[landua-gregory|Gregory Landua]]
+- [[roland-ethan|Ethan Roland]]

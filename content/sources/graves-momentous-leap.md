@@ -26,4 +26,4 @@ The paper in which Clare Graves identified three possible outcomes for human civ
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[mycelial-consciousness|Mycelial Consciousness]]
 - [[second-tier-thinking|Second Tier Thinking (glossary)]]
-- [[clare-graves|Clare Graves]]
+- [[graves-clare|Clare Graves]]

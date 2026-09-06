@@ -22,5 +22,5 @@ Reinert generalizes the [[glossary/retention-economics|retention]]-tradition doc
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[erik-reinert|Erik Reinert]]
-- [[friedrich-list|Friedrich List]]
+- [[reinert-erik|Erik Reinert]]
+- [[list-friedrich|Friedrich List]]

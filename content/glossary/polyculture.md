@@ -32,10 +32,10 @@ Polyculture returns to modern agriculture through the [[permaculture|permacultur
 
 ## Sources and associated figures
 
-- [[bill-mollison|Bill Mollison]]
-- [[sepp-holzer|Sepp Holzer]]
-- [[richard-perkins|Richard Perkins]]
-- [[andrew-millison|Andrew Millison]]
+- [[mollison-bill|Bill Mollison]]
+- [[holzer-sepp|Sepp Holzer]]
+- [[perkins-richard|Richard Perkins]]
+- [[millison-andrew|Andrew Millison]]
 
 ## Provenance
 

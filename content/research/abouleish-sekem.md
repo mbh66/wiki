@@ -114,8 +114,8 @@ The counterfactual is illuminating: had Abouleish, at some point during SEKEM's 
 - [[transvestment|Transvestment]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
-- [[ibrahim-abouleish|Ibrahim Abouleish]]
-- [[rudolf-steiner|Rudolf Steiner]]
+- [[abouleish-ibrahim|Ibrahim Abouleish]]
+- [[steiner-rudolf|Rudolf Steiner]]
 - [[threefolding|Threefolding (glossary)]]
 
 ## Sources

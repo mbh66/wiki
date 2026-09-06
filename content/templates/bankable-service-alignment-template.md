@@ -9,7 +9,7 @@ source_documents: ["Bankable_Service_Alignment_Template_v0_1.md"]
 epistemic_status: "documented-framework"
 ---
 
-The fourth template in the [[index|founding suite]]. Maps the [[biohub|BioHub]]'s [[retention-logic|retention services]] onto a specific financial instrument: a nature-linked [[performance-based-bond|performance-based bond]], a [[payment-for-ecosystem-services-pes|payment for ecosystem services]] mechanism, a biodiversity credit instrument, a carbon market mechanism, a water fund structure, or comparable outcomes-based finance instrument. Produces three outputs: the [[glossary/alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[glossary/alignment-compact|Alignment Compact]].
+The fourth template in the [[content/templates/index|founding suite]]. Maps the [[biohub|BioHub]]'s [[retention-logic|retention services]] onto a specific financial instrument: a nature-linked [[performance-based-bond|performance-based bond]], a [[payment-for-ecosystem-services-pes|payment for ecosystem services]] mechanism, a biodiversity credit instrument, a carbon market mechanism, a water fund structure, or comparable outcomes-based finance instrument. Produces three outputs: the [[glossary/alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[glossary/alignment-compact|Alignment Compact]].
 
 ## Overview
 
@@ -37,7 +37,7 @@ Do not run this template against an instrument that does not purchase services t
 - The nine outputs of the three establishment templates.
 - [[glossary/biostack|BioStack]] and [[glossary/bioconomy|BioConomy]] foundational document.
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
-- Commitment pooling document (the [[will-ruddick|Ruddick]] and Burgess-Bergstra basis).
+- Commitment pooling document (the [[ruddick-will|Ruddick]] and Burgess-Bergstra basis).
 - Target instrument documentation: all publicly available material on the specific financial instrument or instrument class the BioHub is targeting.
 
 ## The three prompts
@@ -111,7 +111,7 @@ The three outputs feed:
 
 ## Related pages
 
-- [[index|The Templates]]
+- [[content/templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
@@ -130,9 +130,9 @@ The three outputs feed:
 
 ## Sources
 
-- [[sources/tnc-gctwf-business-case|The Nature Conservancy (2018). *Greater Cape Town Water Fund: Business Case*]]
-- [[sources/gctwf-sustainable-funding|Greater Cape Town Water Fund. *Sustainable Funding for Nature-Based Solutions*]]
-- [[sources/power-seefeld-biofi|Power, S. and Seefeld, L. *BioFi: Bioregional Finance for the Regenerative Economy*]]
+- The Nature Conservancy (2018). *[[sources/tnc-gctwf-business-case|Greater Cape Town Water Fund: Business Case]]*
+- Greater Cape Town Water Fund. *[[sources/gctwf-sustainable-funding|Sustainable Funding for Nature-Based Solutions]]*
+- Power, S. and Seefeld, L. *[[sources/power-seefeld-biofi|BioFi: Bioregional Finance for the Regenerative Economy]]*
 - [[sources/lemaitre-2019|Le Maitre, D. et al. (2019). Water yield from invasive alien plant control]]
 - [[sources/van-wilgen-2008|van Wilgen, B. et al. (2008). Invasive alien plants and ecosystem services]]
 

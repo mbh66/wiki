@@ -32,8 +32,8 @@ The American System is a growth-phase framework, nationalist and industrial in i
 
 ## Sources
 
-- [[sources/hamilton-report-on-manufactures|Hamilton, A. (1791). *Report on the Subject of Manufactures*]]
-- [[sources/carey-harmony-of-interests|Carey, H. C. (1851). *The Harmony of Interests*]]
+- Hamilton, A. (1791). *[[sources/hamilton-report-on-manufactures|Report on the Subject of Manufactures]]*
+- Carey, H. C. (1851). *[[sources/carey-harmony-of-interests|The Harmony of Interests]]*
 
 ## Provenance
 

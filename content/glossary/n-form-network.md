@@ -28,8 +28,8 @@ The +N form is the fourth of Ronfeldt's original TIMN sequence and the one curre
 
 ## Sources and associated figures
 
-- [[david-ronfeldt|David Ronfeldt]]
-- [[zuboff-surveillance-capitalism|Zuboff, S. (2019). *The Age of Surveillance Capitalism*]]
+- [[ronfeldt-david|David Ronfeldt]]
+- Zuboff, S. (2019). *[[zuboff-surveillance-capitalism|The Age of Surveillance Capitalism]]*
 - [[ronfeldt-ballooning-noosphere|Ronfeldt, D. (2025). "Rethinking What 'Tribes' and 'Networks' Are Good For"]]
 
 ## Provenance

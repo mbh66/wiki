@@ -92,7 +92,7 @@ The answers to the four prompts are not a plan. They are the initial read. The [
 
 ## Sources
 
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance
 

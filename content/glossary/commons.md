@@ -20,7 +20,7 @@ A shared resource governed by its users through collectively agreed rules, as di
 
 ## Sources and associated figures
 
-- [[elinor-ostrom|Elinor Ostrom]]
+- [[ostrom-elinor|Elinor Ostrom]]
 
 ## Provenance
 

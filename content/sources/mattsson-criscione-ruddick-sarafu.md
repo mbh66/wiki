@@ -20,4 +20,4 @@ The canonical open dataset on the Sarafu Network, documenting circulation of a d
 
 - [[research/pooling-across-timn|Pooling Across TIMN]]
 - [[commitment-pooling|Commitment Pooling]]
-- [[will-ruddick|Will Ruddick]]
+- [[ruddick-will|Will Ruddick]]

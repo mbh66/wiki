@@ -9,7 +9,7 @@ source_documents: ["BioHub_Identity_Template.md"]
 epistemic_status: "documented-framework"
 ---
 
-The first template in the [[index|founding suite]]. Establishes the [[biohub|BioHub]] itself: its name, its cohort, its entity form, its patronage architecture, its position in the emerging global field, its intellectual lineage, and its governance. Produces three outputs: the [[glossary/identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[glossary/founding-compact|Founding Compact]].
+The first template in the [[content/templates/index|founding suite]]. Establishes the [[biohub|BioHub]] itself: its name, its cohort, its entity form, its patronage architecture, its position in the emerging global field, its intellectual lineage, and its governance. Produces three outputs: the [[glossary/identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[glossary/founding-compact|Founding Compact]].
 
 ## Overview
 
@@ -84,7 +84,7 @@ Preserve the vocabulary and conventions established here across the suite.
 
 ## Related pages
 
-- [[index|The Templates]]
+- [[content/templates/index|The Templates]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
@@ -101,10 +101,10 @@ Preserve the vocabulary and conventions established here across the suite.
 
 ## Sources
 
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks*]]
-- [[sources/ruddick-commitment-pooling-2023|Ruddick, W. (2023). *Commitment Pooling*]]
-- [[sources/burgess-thinking-in-promises|Burgess, M. (2015). *Thinking in Promises*]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*
+- Ruddick, W. (2023). *[[sources/ruddick-commitment-pooling-2023|Commitment Pooling]]*
+- Burgess, M. (2015). *[[sources/burgess-thinking-in-promises|Thinking in Promises]]*
 
 ## Provenance
 

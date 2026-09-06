@@ -9,7 +9,7 @@ source_documents: ["BioRegion_Establishment_Template.md"]
 epistemic_status: "documented-framework"
 ---
 
-The second template in the [[index|founding suite]]. Establishes the [[bioregion|BioRegion]] within which the [[biohub|BioHub]] operates: its boundaries, its ecological and cultural profiles, the coordination bodies active within it, and the governance principles under which coordination happens. Produces three outputs: the BioRegion Definition, the BioRegion Atlas, and the BioRegion Charter.
+The second template in the [[content/templates/index|founding suite]]. Establishes the [[bioregion|BioRegion]] within which the [[biohub|BioHub]] operates: its boundaries, its ecological and cultural profiles, the coordination bodies active within it, and the governance principles under which coordination happens. Produces three outputs: the BioRegion Definition, the BioRegion Atlas, and the BioRegion Charter.
 
 ## Overview
 
@@ -86,7 +86,7 @@ Once the BioRegion Definition is produced, update Section 8 of the Identity Stat
 
 ## Related pages
 
-- [[index|The Templates]]
+- [[content/templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
@@ -101,10 +101,10 @@ Once the BioRegion Definition is produced, update Section 8 of the Identity Stat
 
 ## Sources
 
-- [[sources/kravcik-water-recovery|Kravčík, M. et al. *Water for the Recovery of the Climate*]]
-- [[sources/jehne-regenerate-earth|Jehne, W. *Regenerate Earth*]]
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
+- Kravčík, M. et al. *[[sources/kravcik-water-recovery|Water for the Recovery of the Climate]]*
+- Jehne, W. *[[sources/jehne-regenerate-earth|Regenerate Earth]]*
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance
 

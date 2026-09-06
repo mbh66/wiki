@@ -25,6 +25,6 @@ Polanyi's account of the rise and self-destruction of nineteenth-century market 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[karl-polanyi|Karl Polanyi]]
+- [[polanyi-karl|Karl Polanyi]]
 - [[fictitious-commodities|Fictitious Commodities (glossary)]]
 - [[double-movement|Double Movement (glossary)]]

@@ -94,7 +94,7 @@ The project's coordination happens through GitHub (github.com/mbh66/biohubs) for
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/index|Wiki Home]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[essays/ai-quick-engage|AI Quick-Engage]]
 - [[templates/index|The Templates]]

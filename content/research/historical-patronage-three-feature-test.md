@@ -126,8 +126,8 @@ Four consolidated findings emerge from the five clusters.
 
 - Haupt, M. (2026). *EA Patronage Research Brief*.
 - Haupt, M. (2026). *EA Patron Project Criteria*.
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
 - Gutas, D. (1998). *Greek Thought, Arabic Culture*.
 - Berman, C.H. (2000). *The Cistercian Evolution*.
 - O'Malley, J. (1993). *The First Jesuits*.

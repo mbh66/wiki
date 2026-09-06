@@ -19,4 +19,4 @@ Schumacher's foundational text on appropriate scale, intermediate technology, an
 ## Cited by
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
-- [[e-f-schumacher|E.F. Schumacher]]
+- [[schumacher-e-f|E.F. Schumacher]]

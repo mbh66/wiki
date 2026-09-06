@@ -28,9 +28,9 @@ The theory's failure mode, from a retention-economics perspective, is that it te
 
 ## Sources
 
-- [[sources/ricardo-principles|Ricardo, D. (1817). *On the Principles of Political Economy and Taxation*]]
-- [[sources/reinert-how-rich-countries-got-rich|Reinert, E. (2007). *How Rich Countries Got Rich and Why Poor Countries Stay Poor*]]
+- Ricardo, D. (1817). *[[sources/ricardo-principles|On the Principles of Political Economy and Taxation]]*
+- Reinert, E. (2007). *[[sources/reinert-how-rich-countries-got-rich|How Rich Countries Got Rich and Why Poor Countries Stay Poor]]*
 
 ## Provenance
 
-Borrowed from Ricardo (1817). See [[david-ricardo|David Ricardo]] for biographical context.
+Borrowed from Ricardo (1817). See [[ricardo-david|David Ricardo]] for biographical context.

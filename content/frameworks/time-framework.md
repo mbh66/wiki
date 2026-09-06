@@ -13,7 +13,7 @@ Human societies have produced four broad forms of coordination over the past fiv
 
 ## The origin
 
-TIME builds on the [[timn-framework|TIMN Framework]] developed by RAND analyst [[david-ronfeldt|David Ronfeldt]], first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution* (RAND P-7967) and developed further in his 2025 Substack series *Rethinking What 'Tribes' and 'Networks' Are Good For*. Ronfeldt argues that each form gained strength at a different rate and matured in a different historical epoch, that each rests on its predecessors, and that each is tied to a distinct information and communications revolution.
+TIME builds on the [[timn-framework|TIMN Framework]] developed by RAND analyst [[ronfeldt-david|David Ronfeldt]], first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution* (RAND P-7967) and developed further in his 2025 Substack series *Rethinking What 'Tribes' and 'Networks' Are Good For*. Ronfeldt argues that each form gained strength at a different rate and matured in a different historical epoch, that each rests on its predecessors, and that each is tied to a distinct information and communications revolution.
 
 TIME retains Ronfeldt's first three forms and renames his fourth. Where Ronfeldt writes Networks (+N), TIME writes Emergent (+E). The renaming reflects a practical reality: the word "network" has been stretched to cover everything from Roman trade routes to social media platforms, and its meaning has thinned to the point of unusability in a coordination context. Emergent names what the fourth form actually does. The analytical framework is unchanged, and the vocabulary is sharpened.
 
@@ -21,7 +21,7 @@ TIME retains Ronfeldt's first three forms and renames his fourth. Where Ronfeldt
 
 ### T: Tribes
 
-Kinship, identity, belonging. Coordination through shared story, loyalty, and reciprocal obligation. The organizing logic is loyalty. This is the oldest coordination form, and it still runs underneath everything else. A sports team's fanbase, a diaspora community, a family gathering at a funeral: each operates through T-form coordination. The characteristic physical expression of the T form is the sacred site, the place where, in [[mircea-eliade|Mircea Eliade]]'s terms, the sacred breaks into profane space and consecrates a fixed point around which community life organizes. See [[t-form-tribal|T form (Tribal)]] for the glossary entry.
+Kinship, identity, belonging. Coordination through shared story, loyalty, and reciprocal obligation. The organizing logic is loyalty. This is the oldest coordination form, and it still runs underneath everything else. A sports team's fanbase, a diaspora community, a family gathering at a funeral: each operates through T-form coordination. The characteristic physical expression of the T form is the sacred site, the place where, in [[eliade-mircea|Mircea Eliade]]'s terms, the sacred breaks into profane space and consecrates a fixed point around which community life organizes. See [[t-form-tribal|T form (Tribal)]] for the glossary entry.
 
 ### I: Institutions
 
@@ -72,7 +72,7 @@ The shift TIME asks of its users is perceptual before it is operational. A pract
 - [[timn-framework|The TIMN Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
-- [[david-ronfeldt|David Ronfeldt]]
+- [[ronfeldt-david|David Ronfeldt]]
 - [[glossary/t-form-tribal|T form (Tribal)]]
 - [[glossary/i-form-institutional|I form (Institutional)]]
 - [[glossary/m-form-market|M form (Market)]]
@@ -80,8 +80,8 @@ The shift TIME asks of its users is perceptual before it is operational. A pract
 
 ## Sources
 
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks* (RAND P-7967)]]
-- [[sources/eliade-sacred-profane|Eliade, M. (1957). *The Sacred and the Profane*]]
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]* (RAND P-7967)
+- Eliade, M. (1957). *[[sources/eliade-sacred-profane|The Sacred and the Profane]]*
 
 ## Provenance
 

@@ -110,13 +110,13 @@ The absence of a mature +N portable symbol is the strongest single indicator of 
 
 ## Sources
 
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks*]]
-- [[sources/eliade-sacred-profane|Eliade, M. (1957). *The Sacred and the Profane*]]
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*
+- Eliade, M. (1957). *[[sources/eliade-sacred-profane|The Sacred and the Profane]]*
 - [[sources/orie-yoruba-scarification|Orie, O.O. (2011). "The Structure and Function of Yoruba Facial Scarification"]]
 - [[sources/bromberger-football-worldview|Bromberger, C. (1995). "Football as World-View and as Ritual"]]
-- [[sources/duby-age-of-cathedrals|Duby, G. (1981). *The Age of the Cathedrals*]]
-- [[sources/scott-gothic-enterprise|Scott, R.A. (2003). *The Gothic Enterprise*]]
-- [[sources/willis-form-follows-finance|Willis, C. (1995). *Form Follows Finance*]]
+- Duby, G. (1981). *[[sources/duby-age-of-cathedrals|The Age of the Cathedrals]]*
+- Scott, R.A. (2003). *[[sources/scott-gothic-enterprise|The Gothic Enterprise]]*
+- Willis, C. (1995). *[[sources/willis-form-follows-finance|Form Follows Finance]]*
 
 ## Provenance
 

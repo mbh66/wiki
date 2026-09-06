@@ -97,19 +97,19 @@ Three implications for any bioregional restoration project.
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[water-retention-landscape|Water Retention Landscape (glossary)]]
 - [[concepts/water-as-compound-asset|Water as a Compound Asset]]
-- [[michal-kravcik|Michal Kravčík]]
-- [[walter-jehne|Walter Jehne]]
+- [[kravcik-michal|Michal Kravčík]]
+- [[jehne-walter|Walter Jehne]]
 
 ## Sources
 
-- [[sources/morris-2014-bioprecipitation|Morris, C.E. et al. (2014). "Bioprecipitation: a feedback cycle linking Earth history, ecosystem dynamics and land use through biological ice nucleators in the atmosphere." *Global Change Biology*, 20(2), 341-351]]
+- Morris, C.E. et al. (2014). "[[sources/morris-2014-bioprecipitation|Bioprecipitation: a feedback cycle linking Earth history, ecosystem dynamics and land use through biological ice nucleators in the atmosphere]]." *Global Change Biology*, 20(2), 341-351
 - Millán, M. et al. (2005). *Journal of Climate*.
 - Millán, M. (2014). *Journal of Hydrology*.
 - Lyons, T.J. (2002). "Clouds prefer native vegetation." *Meteorology and Atmospheric Physics*.
 - Nair, U.S. et al. (2011). *Journal of Geophysical Research: Atmospheres*.
-- [[sources/van-wyk-1987|Van Wyk, D.B. (1987). "Some effects of afforestation on streamflow in the Western Cape Province." *Water SA*]]
-- [[sources/lemaitre-2019|Le Maitre, D.C. et al. (2019). "Impacts of invasive Australian acacias on the fynbos biome." *Water SA*, 45(4)]]
-- [[sources/mills-cowling-2013|Mills, A.J., Cowling, R.M. et al. (2013). "Restoring the fauna and flora of transformed renosterveld." *Conservation Letters*]]
+- Van Wyk, D.B. (1987). "[[sources/van-wyk-1987|Some effects of afforestation on streamflow in the Western Cape Province]]." *Water SA*
+- Le Maitre, D.C. et al. (2019). "[[sources/lemaitre-2019|Impacts of invasive Australian acacias on the fynbos biome]]." *Water SA*, 45(4)
+- Mills, A.J., Cowling, R.M. et al. (2013). "[[sources/mills-cowling-2013|Restoring the fauna and flora of transformed renosterveld]]." *Conservation Letters*
 - Van Wilgen, B.W. et al. (2008). "The economic consequences of alien plant invasions." *Journal of Environmental Management*.
 - Blamey, R.C. et al. (2021). *Journal of Hydrometeorology*.
 - Keys, P.W. et al. (2016). *PLOS ONE*.

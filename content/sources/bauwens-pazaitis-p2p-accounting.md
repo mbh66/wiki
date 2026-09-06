@@ -19,4 +19,4 @@ The P2P Foundation's proposal for an accounting infrastructure adequate to a cir
 ## Cited by
 
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
-- [[michel-bauwens|Michel Bauwens]]
+- [[bauwens-michel|Michel Bauwens]]

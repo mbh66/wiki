@@ -19,31 +19,31 @@ The wiki treats the modern economic history of the last two and a half centuries
 
 ### Throughput Economics
 
-[[throughput-economics|Throughput Economics]] measures value by what moves through a system: capital, trade volume, output, employment, exchange. Its theoretical foundations were laid by [[adam-smith|Adam Smith]] and [[david-ricardo|David Ricardo]] and elaborated by the classical, neoclassical, monetarist, and neoliberal schools that followed. Its institutional expressions include free trade agreements, floating exchange rates, deregulated capital flows, and the treatment of land, labor, and money as commodities.
+[[throughput-economics|Throughput Economics]] measures value by what moves through a system: capital, trade volume, output, employment, exchange. Its theoretical foundations were laid by [[smith-adam|Adam Smith]] and [[ricardo-david|David Ricardo]] and elaborated by the classical, neoclassical, monetarist, and neoliberal schools that followed. Its institutional expressions include free trade agreements, floating exchange rates, deregulated capital flows, and the treatment of land, labor, and money as commodities.
 
 Throughput was structurally fit for the acceleration phase because rapid expansion into new territory, new markets, and new energy sources rewarded the mechanisms that maximized flow. Its historical achievements are real: the industrial world was built through it. Its failure mode arrives during deceleration, when maximizing flow degrades the substrate on which flow depends.
 
-Key texts: Smith, *The Wealth of Nations* (1776); Ricardo, *On the Principles of Political [[glossary/economy|Economy]] and Taxation* (1817); [[karl-polanyi|Polanyi]], *The Great Transformation* (1944, as critique).
+Key texts: Smith, *The Wealth of Nations* (1776); Ricardo, *On the Principles of Political [[glossary/economy|Economy]] and Taxation* (1817); [[polanyi-karl|Polanyi]], *The Great Transformation* (1944, as critique).
 
 ### Retention Economics
 
 [[retention-economics|Retention Economics]] measures value by what stays inside a system: productive capacity, capital, skills, resource sovereignty. Its core mechanisms include protective tariffs, state investment in domestic manufacturing and infrastructure, publicly funded education oriented toward productive capacity, and nationally directed credit.
 
-The theoretical lineage runs from [[alexander-hamilton|Hamilton]]'s *Report on Manufactures* (1791) through [[henry-carey|Carey]]'s *Harmony of Interests* (1851) and [[friedrich-list|List]]'s *National System of Political Economy* (1841). The tradition was implemented by [[abraham-lincoln|Lincoln]] in the United States, by Bismarck in Germany, and later by post-war East Asian developmental states. It was defeated in the periphery ([[enrico-mattei|Mattei]], [[mohammad-mosaddegh|Mosaddegh]], [[thomas-sankara|Sankara]]) by external intervention rather than by persuasion.
+The theoretical lineage runs from [[hamilton-alexander|Hamilton]]'s *Report on Manufactures* (1791) through [[carey-henry|Carey]]'s *Harmony of Interests* (1851) and [[list-friedrich|List]]'s *National System of Political Economy* (1841). The tradition was implemented by [[lincoln-abraham|Lincoln]] in the United States, by Bismarck in Germany, and later by post-war East Asian developmental states. It was defeated in the periphery ([[mattei-enrico|Mattei]], [[mosaddegh-mohammad|Mosaddegh]], [[sankara-thomas|Sankara]]) by external intervention rather than by persuasion.
 
 Retention Economics is a growth-phase framework. It is nationalist, growth-oriented, and ecologically blind. It sought to win the growth game inside the nation-state rather than to transcend it. Its structural principle (value measured by what stays) is nevertheless the precursor logic that Regenerative Economics inherits.
 
-Key texts: Hamilton (1791); List (1841); Carey (1851); [[sources/chang-kicking-away-the-ladder|Chang, *Kicking Away the Ladder* (2002)]]; [[sources/reinert-how-rich-countries-got-rich|Reinert, *How Rich Countries Got Rich* (2007)]].
+Key texts: Hamilton (1791); List (1841); Carey (1851); Chang, *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]* (2002); Reinert, *[[sources/reinert-how-rich-countries-got-rich|How Rich Countries Got Rich]]* (2007).
 
 ### Regenerative Economics
 
 [[regenerative-economics|Regenerative Economics]] measures value by the health of living systems over time: soil, water, biodiversity, community capacity, cultural coherence, and the ecological function that supports all of them. The framework treats the economy as a subsystem of the biosphere rather than the biosphere as a subsystem of the economy.
 
-Regenerative Economics extends Retention along four dimensions. It incorporates ecological limits, drawing on the [[planetary-boundaries|planetary boundaries framework]] (Rockström, Steffen, Richardson) and physical constraints of energy return ([[eroi|EROI]]) and material throughput. It incorporates commons governance, drawing on [[elinor-ostrom|Elinor Ostrom]]'s empirical work on how communities self-govern shared resources (see [[sources/ostrom-governing-commons|*Governing the Commons*, 1990]]). It operates at bioregional rather than national scale, treating watersheds, foodsheds, and ecosystems as the relevant unit of coordination. And it treats coordination as primarily cooperative rather than competitive.
+Regenerative Economics extends Retention along four dimensions. It incorporates ecological limits, drawing on the [[planetary-boundaries|planetary boundaries framework]] (Rockström, Steffen, Richardson) and physical constraints of energy return ([[eroi|EROI]]) and material throughput. It incorporates commons governance, drawing on [[ostrom-elinor|Elinor Ostrom]]'s empirical work on how communities self-govern shared resources (see *[[sources/ostrom-governing-commons|Governing the Commons]]*, 1990). It operates at bioregional rather than national scale, treating watersheds, foodsheds, and ecosystems as the relevant unit of coordination. And it treats coordination as primarily cooperative rather than competitive.
 
 BioConomy is one coordination architecture within this broader framework, focused on the practical question of how bioregions build the institutions, currencies, and stewardship arrangements that let regenerative logic become operational.
 
-Key texts: Ostrom, *Governing the Commons* (1990); [[sources/richardson-planetary-boundaries|Richardson et al., 2023]]; [[sources/brockway-eroi|Brockway et al., 2019]]; [[sources/tainter-collapse-complex-societies|Tainter, *The Collapse of Complex Societies* (1988)]].
+Key texts: Ostrom, *Governing the Commons* (1990); [[sources/richardson-planetary-boundaries|Richardson et al., 2023]]; [[sources/brockway-eroi|Brockway et al., 2019]]; Tainter, *[[sources/tainter-collapse-complex-societies|The Collapse of Complex Societies]]* (1988).
 
 ## The through-line
 
@@ -72,15 +72,15 @@ The mapping is programmatic rather than definitional. Its purpose is to operatio
 - [[retention-economics|Retention Economics (glossary)]]
 - [[regenerative-economics|Regenerative Economics (glossary)]]
 - [[bioconomy|BioConomy (glossary)]]
-- [[karl-polanyi|Karl Polanyi]]
-- [[elinor-ostrom|Elinor Ostrom]]
+- [[polanyi-karl|Karl Polanyi]]
+- [[ostrom-elinor|Elinor Ostrom]]
 
 ## Sources
 
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
-- [[sources/reinert-how-rich-countries-got-rich|Reinert, E. (2007). *How Rich Countries Got Rich and Why Poor Countries Stay Poor*]]
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
+- Reinert, E. (2007). *[[sources/reinert-how-rich-countries-got-rich|How Rich Countries Got Rich and Why Poor Countries Stay Poor]]*
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
 
 ## Provenance
 

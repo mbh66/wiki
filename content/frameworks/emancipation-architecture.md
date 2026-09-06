@@ -97,9 +97,9 @@ The Valley of Grace prototype at Genadendal (in South Africa's Western Cape, a b
 
 - Haupt, M. (2026). *III Emancipation Architecture* (Movement III of the three-movement Emancipation Architecture, March 2026).
 - Steiner, R. (1919). *The Threefold Commonwealth*.
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
 - [[sources/ruddick-commitment-pooling-2023|Ruddick, W.O. (2023). "Commitment Pooling"]]
-- [[sources/power-seefeld-biofi|Power, S. and Seefeld, L., et al. (2024). *Bioregional Financing Facilities*]]
+- Power, S. and Seefeld, L., et al. (2024). *[[sources/power-seefeld-biofi|Bioregional Financing Facilities]]*
 
 ## Provenance
 

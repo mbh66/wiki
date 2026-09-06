@@ -79,9 +79,9 @@ The thesis is offered as an interpretive frame that makes better sense of the pa
 
 ## Sources
 
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
-- [[sources/reinert-how-rich-countries-got-rich|Reinert, E. (2007). *How Rich Countries Got Rich and Why Poor Countries Stay Poor*]]
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
+- Reinert, E. (2007). *[[sources/reinert-how-rich-countries-got-rich|How Rich Countries Got Rich and Why Poor Countries Stay Poor]]*
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
 
 ## Provenance
 

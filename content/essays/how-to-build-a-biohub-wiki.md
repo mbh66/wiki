@@ -162,7 +162,7 @@ The bioregion code has two parts: a realm prefix and a bioregion number. To find
 
 3. **Combine them.** The code is the lowercase realm prefix followed by the bioregion number, with no separator. A BioHub in the Laikipia Plateau sits in Afrotropic bioregion 10 (East African Montane Forests & Grasslands), so the code is `at10`. A BioHub in the Xingu basin sits in Neotropic bioregion 1 (Amazonian Forests & Grasslands), so the code is `nt1`.
 
-The [[research/resolve-ecoregions-2017|RESOLVE Ecoregions 2017]] page on this wiki lists all 847 ecoregions that form the spatial foundation for these bioregion groupings.
+The [[research/resolve-ecoregions-2017|RESOLVE Ecoregions]] page on this wiki lists all 847 ecoregions that form the spatial foundation for these bioregion groupings.
 
 ### What you will need
 
@@ -253,6 +253,14 @@ Write the coordination surface from the Readiness Diagnostic, Gap Register, and 
 
 The wiki grows from there. Each new alignment run adds to the alignments folder. Each policy adoption adds to the policy index. Each monitoring cycle updates the data pages. Each coordination milestone adds to the journal. The coordination surface is revised as offers and seeks change. And each revision is legible to every peer BioHub whose AI agent reads the site.
 
+### Citation format
+
+Quartz does not render markdown formatting inside wikilink display text. A source cited as `[[sources/margulis-symbiotic-planet|Margulis, L. (1998). *Symbiotic Planet*]]` shows up on the built site with the asterisks visible.
+
+Write citations with the author unlinked, the title linked, and any italics on the outside of the brackets. For books and standalone works: `Margulis, L. (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*`. For journal articles, link the article title and leave the journal in italics outside the brackets: `Morris, C.E. et al. (2014). "[[sources/morris-2014-bioprecipitation|Bioprecipitation: a feedback cycle...]]." *Global Change Biology*, 20(2), 341-351`.
+
+The link wraps the specific work being cited. Nothing formatted sits inside the brackets.
+
 ## Related pages
 
 - [[essays/what-is-a-biohub|What Is a BioHub]]
@@ -273,8 +281,8 @@ The wiki grows from there. Each new alignment run adds to the alignments folder.
 
 ## Sources
 
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks* (RAND P-7967)]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]* (RAND P-7967)
 - Dinerstein, E. et al. (2017). *An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm*. BioScience, 67(6), 534-545. [RESOLVE Ecoregions 2017](https://developers.google.com/earth-engine/datasets/catalog/RESOLVE_ECOREGIONS_2017).
 - One Earth (2023). *Bioregions 2023*. [oneearth.org/bioregions-2023](https://www.oneearth.org/bioregions-2023/).
 
@@ -283,6 +291,8 @@ The wiki grows from there. Each new alignment run adds to the alignments folder.
 Written 30 August 2026 as the operational companion to the four-template founding suite. The essay describes how a BioHub publishes its local knowledge for inter-BioHub coordination, drawing on the wiki layout specification produced in conversation with the BioConomy editorial team. The interoperability conventions (consistent folder names, controlled frontmatter vocabulary, dual-layer readability, the coordination surface as handshake page) are proposed standards. The first BioHub to publish a wiki using this layout is invited to feed refinements back through the project's GitHub repository at `github.com/mbh66/biohubs`.
 
 ### Changes from prior version
+
+Revised 6 September 2026. Added a Citation Format subsection under Getting Started. Rationale: Quartz does not render markdown formatting inside wikilink display text, so citations written as `[[sources/slug|Author (Year). *Title*]]` render on the built site with the asterisks visible. The subsection specifies the corrected shape for both books and journal articles, with the author unlinked, the title linked, and any italics on the outside of the brackets.
 
 Revised 3 September 2026. The Getting Started section now includes a subdomain naming convention using ISO country codes, One Earth Bioregions Framework codes (built on the RESOLVE Ecoregions 2017 dataset), and a BioHub slug. Added a complete AI-assisted setup prompt that non-technical coordinators can paste into any AI assistant to be walked through Quartz installation, GitHub repository creation, GitHub Actions deployment, and custom domain configuration. Added a command summary for experienced users. Sources updated to include the RESOLVE Ecoregions dataset and One Earth Bioregions Framework.
 

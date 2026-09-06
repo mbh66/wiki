@@ -67,7 +67,7 @@ A retail chain (Eroski) organized as a consumer-worker hybrid cooperative, where
 
 ## The bioregional extension
 
-[[benjamin-life|Benjamin Life]]'s *Introduction to Bioregional Economics* extends the Mondragón pattern beyond industrial production into the full range of bioregional needs. In Life's construction, each sector that a bioregional economy requires is served by a cooperative whose members are its users and workers: a food cooperative, a housing cooperative, an energy cooperative, a health cooperative, a childcare cooperative, an education cooperative, a building materials cooperative, a communications cooperative. The cooperatives federate through shared infrastructure (financing, logistics, training, data, quality assurance) that no single cooperative could build alone. Value circulates within the federation. Network effects compound as the federation grows. Community wealth accumulates in the cooperative structure.
+[[life-benjamin|Benjamin Life]]'s *Introduction to Bioregional Economics* extends the Mondragón pattern beyond industrial production into the full range of bioregional needs. In Life's construction, each sector that a bioregional economy requires is served by a cooperative whose members are its users and workers: a food cooperative, a housing cooperative, an energy cooperative, a health cooperative, a childcare cooperative, an education cooperative, a building materials cooperative, a communications cooperative. The cooperatives federate through shared infrastructure (financing, logistics, training, data, quality assurance) that no single cooperative could build alone. Value circulates within the federation. Network effects compound as the federation grows. Community wealth accumulates in the cooperative structure.
 
 The Emancipation Architecture developed for the Overberg BioHub specifies seventeen cooperative entities organized across the full spectrum of bioregional production, from food and agriculture through building materials, transport, communications, health, and mutual insurance, all coordinated through a [[bioregional-financing-facility-bff|Bioregional Financing Facility]] and a shared currency system. The architecture is theoretical but detailed, and it demonstrates what a full-spectrum bioregional federation looks like when designed from first principles for a specific geography.
 
@@ -92,7 +92,7 @@ Mondragón's history reveals the minimum conditions for a functioning federation
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
 - [[federated-cooperative|Federated cooperative (glossary)]]
 - [[bioregional-financing-facility-bff|Bioregional Financing Facilities (glossary)]]
-- [[benjamin-life|Benjamin Life]]
+- [[life-benjamin|Benjamin Life]]
 
 ## Sources
 
@@ -100,7 +100,7 @@ Mondragón's history reveals the minimum conditions for a functioning federation
 - [[sources/mondragon-annual-reports|Mondragón Corporation. Annual Reports, 2024 to 2025]]
 - [[sources/freundlich-mondragon-experience|Freundlich, F. "The Mondragón Cooperative Experience: Notes on History, Scope and Structure"]]
 - [[sources/imaz-emaldi-laboral-kutxa|Imaz Alias, O. & Emaldi Abasolo, J. "Laboral Kutxa: The Governance of a Multistakeholder Credit Cooperative"]]
-- [[sources/life-bioregional-economics|Life, B. (2026). *An Introduction to Bioregional Economics (Part I)*]]
+- Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
 
 ## Provenance
 

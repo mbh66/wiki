@@ -35,7 +35,7 @@ Concepts are listed alphabetically by slug. No formal sub-structure. Where a con
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/concepts/index|Wiki Home]]
 - [[glossary/index|Glossary]]
 - [[frameworks/index|Frameworks]]
 - [[essays/index|Essays]]
@@ -43,7 +43,7 @@ Concepts are listed alphabetically by slug. No formal sub-structure. Where a con
 
 ## Sources
 
-- [[sources/life-bioregional-economics|Life, B. (2026). *An Introduction to Bioregional Economics (Part I)*]]
+- Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
 
 ## Provenance
 

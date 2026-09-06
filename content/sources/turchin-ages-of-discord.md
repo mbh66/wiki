@@ -24,4 +24,4 @@ Full-length application of structural-demographic theory to American history. Pr
 ## Cited by
 
 - [[frameworks/three-futures|The Three Futures]]
-- [[peter-turchin|Peter Turchin]]
+- [[turchin-peter|Peter Turchin]]

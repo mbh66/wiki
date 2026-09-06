@@ -24,7 +24,7 @@ Coordination through price signals, exchange, and competition between self-inter
 
 ## Sources and associated figures
 
-- [[carol-willis|Carol Willis]]
+- [[willis-carol|Carol Willis]]
 
 ## Provenance
 

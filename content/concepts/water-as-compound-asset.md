@@ -69,13 +69,13 @@ A functioning +E layer produces measurable outputs beyond water: soil carbon, bi
 
 ## Sources
 
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks*]]
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
-- [[sources/tnc-gctwf-business-case|The Nature Conservancy (2018). *Greater Cape Town Water Fund Business Case*]]
-- [[sources/lemaitre-2019|Le Maitre, D.C. et al. (2019). *Impacts of invasive Australian acacias on the fynbos biome*]]
-- [[sources/van-wyk-1987|Van Wyk, D.B. (1987). *Some effects of afforestation on streamflow*]]
-- [[sources/morris-2014-bioprecipitation|Morris, C.E. et al. (2014). *Bioprecipitation*]]
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
+- The Nature Conservancy (2018). *[[sources/tnc-gctwf-business-case|Greater Cape Town Water Fund Business Case]]*
+- Le Maitre, D.C. et al. (2019). *[[sources/lemaitre-2019|Impacts of invasive Australian acacias on the fynbos biome]]*
+- Van Wyk, D.B. (1987). *[[sources/van-wyk-1987|Some effects of afforestation on streamflow]]*
+- Morris, C.E. et al. (2014). *[[sources/morris-2014-bioprecipitation|Bioprecipitation]]*
 
 ## Provenance
 

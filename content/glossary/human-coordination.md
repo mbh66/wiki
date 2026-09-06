@@ -22,7 +22,7 @@ The ways humans organize collective action.
 
 ## Sources and associated figures
 
-- [[david-ronfeldt|David Ronfeldt]]
+- [[ronfeldt-david|David Ronfeldt]]
 
 ## Provenance
 

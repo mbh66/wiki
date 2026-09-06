@@ -24,4 +24,4 @@ Fullerton's articulation of the eight principles of a regenerative economy: righ
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[glossary/regenerative-capitalism|Regenerative Capitalism (glossary)]]
-- [[john-fullerton|John Fullerton]]
+- [[fullerton-john|John Fullerton]]

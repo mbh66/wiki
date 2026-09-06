@@ -25,6 +25,6 @@ Ostrom's empirical demonstration that common-pool resources can be sustainably s
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[elinor-ostrom|Elinor Ostrom]]
+- [[ostrom-elinor|Elinor Ostrom]]
 - [[regenerative-economics|Regenerative Economics (glossary)]]
 - [[polycentricity|Polycentricity (glossary)]]

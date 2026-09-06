@@ -39,8 +39,8 @@ The [[frameworks/three-feature-test|Three-Feature Test]] describes the move as g
 
 ## Sources and associated figures
 
-- [[silke-helfrich|Silke Helfrich]]
-- [[david-bollier|David Bollier]]
+- [[helfrich-silke|Silke Helfrich]]
+- [[bollier-david|David Bollier]]
 - Bollier, D. and Helfrich, S. (2019). *Free, Fair, and Alive: The Insurgent Power of the Commons*.
 
 ## Provenance

@@ -30,7 +30,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/research/index|Wiki Home]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]
 - [[sources/index|Sources]]
@@ -38,7 +38,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 
 ## Sources
 
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
 
 ## Provenance
 

@@ -21,8 +21,8 @@ Rudolf Steiner's structural separation of society into three spheres, each with 
 ## Related pages
 
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
-- [[rudolf-steiner|Rudolf Steiner]]
+- [[steiner-rudolf|Rudolf Steiner]]
 
 ## Sources
 
-- [[sources/steiner-threefold-commonwealth|Steiner, R. (1919). *The Threefold Commonwealth*]]
+- Steiner, R. (1919). *[[sources/steiner-threefold-commonwealth|The Threefold Commonwealth]]*

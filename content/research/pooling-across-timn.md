@@ -133,12 +133,12 @@ Three findings.
 - [[mweria|Mweria (glossary)]]
 - [[curation-valuation-limitation-exchange|Curation, Valuation, Limitation, Exchange (glossary)]]
 - [[federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
-- [[will-ruddick|Will Ruddick]]
+- [[ruddick-will|Will Ruddick]]
 
 ## Sources
 
 - [[sources/ruddick-commitment-pooling-2023|Ruddick, W.O. (2023). "Commitment Pooling"]]
-- [[sources/ruddick-grassroots-economics-2025|Ruddick, W.O. (2025). *Grassroots Economics: Reflection and Practice*]]
+- Ruddick, W.O. (2025). *[[sources/ruddick-grassroots-economics-2025|Grassroots Economics: Reflection and Practice]]*
 - Mattsson, C. E. S., Criscione, T., and Ruddick, W. O. (2022). "Circulation of a Digital Community Currency." *Scientific Data* (Nature). arXiv:2207.08941.
 - Mqamelo, Z. (2022). "Community Currencies as Crisis Response: Results from a Randomized Control Trial in Kenya." *Frontiers in Blockchain*, 5.
 - Ruddick, W. O. (2011). "Eco-Pesa." *International Journal of Community Currency Research*, 15(A), 1-12.

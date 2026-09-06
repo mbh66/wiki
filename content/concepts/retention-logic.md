@@ -66,10 +66,10 @@ The distinction matters at the design stage. Regeneration is the direction of tr
 
 ## Sources
 
-- [[sources/life-bioregional-economics|Life, B. (2026). *An Introduction to Bioregional Economics (Part I)*]]
-- [[sources/fullerton-regenerative-capitalism|Fullerton, J. (2015). *Regenerative Capitalism*]]
-- [[sources/raworth-doughnut-economics|Raworth, K. (2017). *Doughnut Economics*]]
-- [[sources/landua-roland-regenerative-enterprise|Landua, G. and Roland, E. (2013). *Regenerative Enterprise*]]
+- Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
+- Fullerton, J. (2015). *[[sources/fullerton-regenerative-capitalism|Regenerative Capitalism]]*
+- Raworth, K. (2017). *[[sources/raworth-doughnut-economics|Doughnut Economics]]*
+- Landua, G. and Roland, E. (2013). *[[sources/landua-roland-regenerative-enterprise|Regenerative Enterprise]]*
 
 ## Provenance
 

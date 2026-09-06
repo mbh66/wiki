@@ -9,7 +9,7 @@ source_documents: ["BioConomy_Value_Proposition_Template.md"]
 epistemic_status: "documented-framework"
 ---
 
-The third and terminal establishment template in the [[index|founding suite]]. Establishes what the [[biohub|BioHub]] tenders into markets, on what [[retention-logic|retention]] terms, to which counterparties and participants. Produces three outputs: the Value Proposition Statement, the Value Proposition Evidence Pack, and the [[glossary/tender-compact|Tender Compact]].
+The third and terminal establishment template in the [[content/templates/index|founding suite]]. Establishes what the [[biohub|BioHub]] tenders into markets, on what [[retention-logic|retention]] terms, to which counterparties and participants. Produces three outputs: the Value Proposition Statement, the Value Proposition Evidence Pack, and the [[glossary/tender-compact|Tender Compact]].
 
 ## Overview
 
@@ -31,7 +31,7 @@ Do not run this template as a discovery exercise for a BioHub still forming or s
 - The three BioRegion outputs: BioRegion Definition, BioRegion Atlas, BioRegion Charter.
 - [[glossary/biostack|BioStack]] and [[glossary/bioconomy|BioConomy]] foundational document.
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
-- Commitment pooling document (the [[will-ruddick|Ruddick]] and Burgess-Bergstra basis, and the local adaptation).
+- Commitment pooling document (the [[ruddick-will|Ruddick]] and Burgess-Bergstra basis, and the local adaptation).
 
 The Metabolic BioHubs Best Practices Research Brief is inherited through the Field and Lineage Positioning document. Prior essays and research establishing the BioHub's positioning are inherited through the Identity documents.
 
@@ -104,7 +104,7 @@ Where a specific financial instrument (a nature-linked [[glossary/performance-ba
 
 ## Related pages
 
-- [[index|The Templates]]
+- [[content/templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
@@ -121,10 +121,10 @@ Where a specific financial instrument (a nature-linked [[glossary/performance-ba
 
 ## Sources
 
-- [[sources/ruddick-commitment-pooling-2023|Ruddick, W. (2023). *Commitment Pooling*]]
-- [[sources/burgess-thinking-in-promises|Burgess, M. (2015). *Thinking in Promises*]]
-- [[sources/fullerton-regenerative-capitalism|Fullerton, J. (2015). *Regenerative Capitalism*]]
-- [[sources/life-bioregional-economics|Life, B. (2026). *An Introduction to Bioregional Economics (Part I)*]]
+- Ruddick, W. (2023). *[[sources/ruddick-commitment-pooling-2023|Commitment Pooling]]*
+- Burgess, M. (2015). *[[sources/burgess-thinking-in-promises|Thinking in Promises]]*
+- Fullerton, J. (2015). *[[sources/fullerton-regenerative-capitalism|Regenerative Capitalism]]*
+- Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
 
 ## Provenance
 

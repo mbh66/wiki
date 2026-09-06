@@ -117,7 +117,7 @@ The loophole closure is a design feature, not a punishment. It is what makes the
 
 - Haupt, M. (2026). *EA Patron Project Criteria*.
 - Haupt, M. (2026). *III Emancipation Architecture*.
-- [[sources/power-seefeld-biofi|Power, S. and Seefeld, L., et al. (2024). *Bioregional Financing Facilities*]]
+- Power, S. and Seefeld, L., et al. (2024). *[[sources/power-seefeld-biofi|Bioregional Financing Facilities]]*
 
 ## Provenance
 

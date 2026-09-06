@@ -20,4 +20,4 @@ Eliade's classic phenomenological account of how the sacred breaks into profane 
 
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[mircea-eliade|Mircea Eliade]]
+- [[eliade-mircea|Mircea Eliade]]

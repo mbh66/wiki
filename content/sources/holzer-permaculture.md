@@ -23,4 +23,4 @@ Holzer's book-length treatment of the water [[glossary/retention-economics|reten
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
-- [[sepp-holzer|Sepp Holzer]]
+- [[holzer-sepp|Sepp Holzer]]

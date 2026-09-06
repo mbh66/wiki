@@ -29,7 +29,7 @@ Some frameworks are borrowed and used with a specific technical sense (TIMN from
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/frameworks/index|Wiki Home]]
 - [[concepts/index|Concepts]]
 - [[glossary/index|Glossary]]
 - [[research/index|Research]]
@@ -38,7 +38,7 @@ Some frameworks are borrowed and used with a specific technical sense (TIMN from
 
 ## Sources
 
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks*]]
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*
 
 ## Provenance
 

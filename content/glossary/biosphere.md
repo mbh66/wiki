@@ -12,7 +12,7 @@ epistemic_status: "documented-framework"
 ---
 
 
-The living layer of the Earth: the thin film of organisms and organic processes that sits between the [[glossary/geosphere|Geosphere]] below and the [[glossary/noosphere|Noosphere]] above. The term was introduced by geologist Eduard Suess in 1875 and formalized as a scientific concept by [[vladimir-vernadsky|Vladimir Vernadsky]] in *The Biosphere* (1926), which established life as a geological force on par with the movement of continents and the circulation of the atmosphere. Vernadsky's central finding: the composition of the atmosphere, the distribution of sedimentary rock, the chemistry of the oceans, and the cycles of most reactive elements are products of biological activity, not the setting in which biology happens.
+The living layer of the Earth: the thin film of organisms and organic processes that sits between the [[glossary/geosphere|Geosphere]] below and the [[glossary/noosphere|Noosphere]] above. The term was introduced by geologist Eduard Suess in 1875 and formalized as a scientific concept by [[vernadsky-vladimir|Vladimir Vernadsky]] in *The Biosphere* (1926), which established life as a geological force on par with the movement of continents and the circulation of the atmosphere. Vernadsky's central finding: the composition of the atmosphere, the distribution of sedimentary rock, the chemistry of the oceans, and the cycles of most reactive elements are products of biological activity, not the setting in which biology happens.
 
 In the BioConomy corpus, the Biosphere is the middle stratum in Vernadsky's three-sphere stratigraphy. It is what the [[glossary/geosphere|Geosphere]] becomes when organized by life, and it is what the [[glossary/noosphere|Noosphere]] depends on but does not produce. The [[glossary/biohub|BioHub]] operates at the seam between the three spheres: it holds a specific watershed's Biosphere (soil biology, hydrological function, biodiversity, ecosystem processes) in trust, publishes what that Biosphere contains and requires through its wiki, and organizes the coordination work needed to keep the Biosphere functioning as the substrate the Noosphere and the wider human economy depend on. The [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]] (water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, coordination-as-employment) names six domains where Biospheric function becomes contractable to external counterparties.
 
@@ -29,8 +29,8 @@ In the BioConomy corpus, the Biosphere is the middle stratum in Vernadsky's thre
 ## Sources and associated figures
 
 - Suess, E. (1875). *Die Entstehung der Alpen*. Vienna: Braumüller. First use of the term "biosphere."
-- [[sources/vernadsky-biosphere|Vernadsky, V. I. (1926). *The Biosphere*]]. Translated by D. B. Langmuir. Copernicus, 1998.
-- [[vladimir-vernadsky|Vladimir Vernadsky]]
+- Vernadsky, V. I. (1926). *[[sources/vernadsky-biosphere|The Biosphere]]*. Translated by D. B. Langmuir. Copernicus, 1998.
+- [[vernadsky-vladimir|Vladimir Vernadsky]]
 
 ## Provenance
 

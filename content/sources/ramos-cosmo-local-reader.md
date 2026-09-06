@@ -19,4 +19,4 @@ The edited volume documenting over 40 cases and 12 analytical essays that span m
 ## Cited by
 
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
-- [[michel-bauwens|Michel Bauwens]]
+- [[bauwens-michel|Michel Bauwens]]

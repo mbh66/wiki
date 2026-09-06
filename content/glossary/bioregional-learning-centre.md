@@ -24,10 +24,10 @@ It is a community-facing learning lab for real-world resilience and inspiration,
 
 ## Sources and associated figures
 
-- [[donella-meadows|Donella Meadows]]
-- [[joe-brewer|Joe Brewer]]
-- [[penny-heiple|Penny Heiple]]
-- [[isabel-carlisle|Isabel Carlisle]]
+- [[meadows-donella|Donella Meadows]]
+- [[brewer-joe|Joe Brewer]]
+- [[heiple-penny|Penny Heiple]]
+- [[carlisle-isabel|Isabel Carlisle]]
 
 ## Provenance
 

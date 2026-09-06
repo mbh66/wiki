@@ -13,7 +13,7 @@ The nine documents the three establishment templates produce, and the three addi
 
 ## Overview
 
-The [[index|founding suite]] produces documents in a consistent tripartite pattern. Each template's Prompt 3 delivers three documents: a short formal Statement or Definition, a long referential Evidence Pack or Atlas, and a short co-signed Compact or Charter. Across the three establishment templates, this yields nine outputs. The fourth template adds three more per instrument aligned.
+The [[content/templates/index|founding suite]] produces documents in a consistent tripartite pattern. Each template's Prompt 3 delivers three documents: a short formal Statement or Definition, a long referential Evidence Pack or Atlas, and a short co-signed Compact or Charter. Across the three establishment templates, this yields nine outputs. The fourth template adds three more per instrument aligned.
 
 Twelve documents in total for a [[glossary/biohub|BioHub]] aligned to one instrument. Fifteen for a BioHub aligned to two. And so on.
 
@@ -61,7 +61,7 @@ The three-layer coordination stack ([[glossary/founding-compact|Founding Compact
 
 ## Related pages
 
-- [[index|The Templates]]
+- [[content/templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]

@@ -19,5 +19,5 @@ Raworth's framework for an economics bounded above by the ecological ceiling (th
 ## Cited by
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
-- [[kate-raworth|Kate Raworth]]
+- [[raworth-kate|Kate Raworth]]
 - [[glossary/planetary-boundaries|Planetary Boundaries (glossary)]]

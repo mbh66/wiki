@@ -20,7 +20,7 @@ Elinor Ostrom's thesis that overlapping, semi-autonomous centers of governance p
 
 ## Sources and associated figures
 
-- [[elinor-ostrom|Elinor Ostrom]]
+- [[ostrom-elinor|Elinor Ostrom]]
 
 ## Provenance
 

@@ -23,5 +23,5 @@ Develops the structural-demographic theory of political instability, tested quan
 ## Cited by
 
 - [[frameworks/three-futures|The Three Futures]]
-- [[peter-turchin|Peter Turchin]]
-- [[joseph-tainter|Joseph Tainter]]
+- [[turchin-peter|Peter Turchin]]
+- [[tainter-joseph|Joseph Tainter]]

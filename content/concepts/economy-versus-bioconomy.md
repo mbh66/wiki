@@ -95,11 +95,11 @@ Together these three contributions close the gap between diagnosis and disciplin
 
 ## Sources
 
-- [[sources/life-bioregional-economics|Life, B. (2026). *An Introduction to Bioregional Economics (Part I)*]]
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
+- Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
 - [[sources/richardson-planetary-boundaries|Richardson et al. (2023). Earth beyond six of nine planetary boundaries]]
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
 
 ## Provenance
 

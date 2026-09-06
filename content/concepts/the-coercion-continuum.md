@@ -75,7 +75,7 @@ The claim's strength is not its historical inevitability but its structural spec
 
 - Hudson, M. (2018). *and forgive them their debts: Lending, Foreclosure and Redemption from Bronze Age Finance to the Jubilee Year*.
 - Graeber, D. (2011). *Debt: The First 5,000 Years*.
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
 - Lietaer, B. (2001). *The Future of Money*.
 - Webb, D.R. (2023). *The Great Taking*.
 

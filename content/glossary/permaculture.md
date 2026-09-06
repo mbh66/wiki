@@ -12,7 +12,7 @@ epistemic_status: "stub"
 ---
 
 
-A design system for regenerative human settlement and land use, articulated by [[bill-mollison|Bill Mollison]] and David Holmgren in Australia in the late 1970s. Permaculture draws on ecological pattern, indigenous land practice, and systems thinking to lay out how a parcel of land and the people living on it can produce food, shelter, energy, and community capacity while building the substrate they depend on.
+A design system for regenerative human settlement and land use, articulated by [[mollison-bill|Bill Mollison]] and David Holmgren in Australia in the late 1970s. Permaculture draws on ecological pattern, indigenous land practice, and systems thinking to lay out how a parcel of land and the people living on it can produce food, shelter, energy, and community capacity while building the substrate they depend on.
 
 The design principles carry across scales, from a household garden to a whole [[bioregion|BioRegion]]. Within the [[biostack|BioStack]], permaculture is one of the primary practice lineages populating the [[bioplace|BioPlace]] layer.
 
@@ -25,9 +25,9 @@ The design principles carry across scales, from a household garden to a whole [[
 
 ## Sources and associated figures
 
-- [[bill-mollison|Bill Mollison]]
-- [[andrew-millison|Andrew Millison]]
-- [[richard-perkins|Richard Perkins]]
+- [[mollison-bill|Bill Mollison]]
+- [[millison-andrew|Andrew Millison]]
+- [[perkins-richard|Richard Perkins]]
 
 ## Provenance
 

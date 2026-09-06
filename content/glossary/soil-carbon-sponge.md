@@ -20,7 +20,7 @@ Walter Jehne's framework linking soil biology to water retention and hydrologica
 
 ## Sources and associated figures
 
-- [[walter-jehne|Walter Jehne]]
+- [[jehne-walter|Walter Jehne]]
 
 ## Provenance
 

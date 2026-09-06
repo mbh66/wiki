@@ -24,5 +24,5 @@ Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a
 ## Cited by
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
-- [[michel-bauwens|Michel Bauwens]]
+- [[bauwens-michel|Michel Bauwens]]
 - [[glossary/p4p-peer-for-peer|P4P (Peer FOR Peer) (glossary)]]

@@ -29,11 +29,11 @@ For a fuller explanation, see the framework, [[evolution-of-coordination-nodes]]
 
 ## Sources and associated figures
 
-- [[christian-bromberger|Christian Bromberger]]
-- [[mircea-eliade|Mircea Eliade]]
-- [[carol-willis|Carol Willis]]
-- [[georges-duby|Georges Duby]]
-- [[robert-scott|Robert Scott]]
+- [[bromberger-christian|Christian Bromberger]]
+- [[eliade-mircea|Mircea Eliade]]
+- [[willis-carol|Carol Willis]]
+- [[duby-georges|Georges Duby]]
+- [[scott-robert|Robert Scott]]
 
 ## Provenance
 

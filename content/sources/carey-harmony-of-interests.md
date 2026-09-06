@@ -21,6 +21,6 @@ Carey's central theoretical statement, contrasting the "British System" of laiss
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[henry-carey|Henry Carey]]
-- [[abraham-lincoln|Abraham Lincoln]]
+- [[carey-henry|Henry Carey]]
+- [[lincoln-abraham|Abraham Lincoln]]
 - [[american-system|American System (glossary)]]

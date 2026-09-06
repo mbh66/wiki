@@ -59,8 +59,8 @@ The claim is that a comparable window is currently open, and closing. What Cassi
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[the-coercion-continuum|The Coercion Continuum]]
 - [[transvestment|Transvestment (glossary)]]
-- [[silke-helfrich|Silke Helfrich]]
-- [[david-bollier|David Bollier]]
+- [[helfrich-silke|Silke Helfrich]]
+- [[bollier-david|David Bollier]]
 
 ## Sources
 

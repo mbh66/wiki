@@ -22,5 +22,5 @@ The 2023 update to the planetary boundaries framework originally proposed by Roc
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[katherine-richardson|Katherine Richardson]]
+- [[richardson-katherine|Katherine Richardson]]
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]

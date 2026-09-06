@@ -20,4 +20,4 @@ Peer-reviewed synthesis integrating Holling's [[glossary/adaptive-cycle|adaptive
 
 - [[frameworks/three-futures|The Three Futures]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
-- [[nafeez-ahmed|Nafeez Ahmed]]
+- [[ahmed-nafeez|Nafeez Ahmed]]

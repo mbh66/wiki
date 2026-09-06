@@ -63,7 +63,7 @@ Each framework arrives at the same structural observation from its own evidence 
 
 ## The S-Curve and the Current Threshold
 
-[[roger-briggs|Roger P. Briggs]]' application of the logistic growth principle to civilizational scale provides the quantitative frame. The 12,000-year growth curve since the Neolithic Revolution is entering its deceleration phase. This is not an environmental claim. It is a mathematical property of logistic growth in any complex adaptive system. The growth assumption embedded in every pension fund, business plan, national budget, and retirement strategy is structurally compromised.
+[[briggs-roger|Roger P. Briggs]]' application of the logistic growth principle to civilizational scale provides the quantitative frame. The 12,000-year growth curve since the Neolithic Revolution is entering its deceleration phase. This is not an environmental claim. It is a mathematical property of logistic growth in any complex adaptive system. The growth assumption embedded in every pension fund, business plan, national budget, and retirement strategy is structurally compromised.
 
 The transition from the fourth to the fifth stage (Material to Mycelial) corresponds to the inflection point on this curve. It is the point at which the competitive, extractive logic that drove the steep ascent can no longer navigate the conditions of deceleration. The biological precedent, as Sahtouris demonstrates, is that mature ecosystems are characterized by mutual aid, not competition. The civilizational parallel: the shift from Material to Mycelial Consciousness is not optional idealism but the structural requirement of the S-curve's deceleration phase.
 

@@ -13,7 +13,7 @@ Longer-form arguments and published pieces that develop the [[glossary/bioconomy
 
 ## Overview
 
-Essays are written to be read from start to finish. They present the framework's key positions in the voice they are most likely to be published in. A first-time reader arrives via the [[index|wiki home]] and lands on the four orientation essays. Subsequent essays extend into specific applications: how a coordinator engages a [[glossary/bioregion|bioregion]], and how a human directs an AI at the corpus.
+Essays are written to be read from start to finish. They present the framework's key positions in the voice they are most likely to be published in. A first-time reader arrives via the [[content/essays/index|wiki home]] and lands on the four orientation essays. Subsequent essays extend into specific applications: how a coordinator engages a [[glossary/bioregion|bioregion]], and how a human directs an AI at the corpus.
 
 Essays here are polished. Working drafts and exploratory notes stay in project knowledge and do not enter the wiki. Where an essay has been superseded by a newer one, the newer one carries.
 
@@ -38,7 +38,7 @@ Once the orientation set is read:
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/essays/index|Wiki Home]]
 - [[templates/index|The Templates]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]
@@ -46,7 +46,7 @@ Once the orientation set is read:
 
 ## Sources
 
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance
 

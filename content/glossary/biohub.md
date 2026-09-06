@@ -28,7 +28,7 @@ A BioHub is a bioregional coordination body that convenes the people, institutio
 
 ## Sources and associated figures
 
-- [[eva-gladek|Eva Gladek]]
+- [[gladek-eva|Eva Gladek]]
 
 ## Provenance
 

@@ -28,8 +28,8 @@ The concept is foundational to BioConomy's framing. Where the historical [[reten
 
 ## Sources
 
-- [[sources/polanyi-great-transformation|Polanyi, K. (1944). *The Great Transformation*]]
+- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
 
 ## Provenance
 
-Borrowed from Polanyi (1944) and preserved with Polanyi's original meaning. See [[karl-polanyi|Karl Polanyi]] for biographical context.
+Borrowed from Polanyi (1944) and preserved with Polanyi's original meaning. See [[polanyi-karl|Karl Polanyi]] for biographical context.

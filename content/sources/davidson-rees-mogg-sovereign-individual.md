@@ -12,7 +12,7 @@ updated: 2026-09-05
 source_project: "BioConomy"
 ---
 
-Davidson, J. D., and Rees-Mogg, W. (1997). *The Sovereign Individual: Mastering the Transition to the Information Age*. New York: Simon & Schuster. ISBN: 978-0-684-83272-2. Reissued 2020 with a preface by [[peter-thiel|Peter Thiel]].
+Davidson, J. D., and Rees-Mogg, W. (1997). *The Sovereign Individual: Mastering the Transition to the Information Age*. New York: Simon & Schuster. ISBN: 978-0-684-83272-2. Reissued 2020 with a preface by [[thiel-peter|Peter Thiel]].
 
 Davidson (an American private investor and newsletter publisher) and Rees-Mogg (the former editor of *The Times* of London and a life peer, father of the British MP Jacob Rees-Mogg) argued that strong cryptography, digital money, and portable individual wealth would erode the modern nation-state's monopoly on violence and taxation by the early twenty-first century. The book predicted the emergence of a class of "sovereign individuals" able to exit mass democracy by placing their assets, identities, and productive activity beyond state reach. It predicted the collapse of high-tax welfare states, jurisdictional competition for mobile capital, the decline of representative democracy, and, most specifically, the emergence of privately issued cyber-currency (using that term explicitly) as the medium through which the exit would occur.
 
@@ -36,7 +36,7 @@ The book's normative frame welcomes these developments as liberatory for the cla
 
 ## The Thiel preface
 
-The 2020 Simon & Schuster reissue carries a preface by Peter Thiel, framed as a retrospective on how much of the book has come true. The preface is short but definitive on Thiel's relationship to the argument. He treats the book as prophetic and treats his own operational program (the companies documented on his [[peter-thiel|person page]]) as an implementation of the vision the book described. For the wiki's argument that Thiel is the individual through whom the four surveillance-capitalism layers converge, the preface is the primary-source evidence in Thiel's own voice.
+The 2020 Simon & Schuster reissue carries a preface by Peter Thiel, framed as a retrospective on how much of the book has come true. The preface is short but definitive on Thiel's relationship to the argument. He treats the book as prophetic and treats his own operational program (the companies documented on his [[thiel-peter|person page]]) as an implementation of the vision the book described. For the wiki's argument that Thiel is the individual through whom the four surveillance-capitalism layers converge, the preface is the primary-source evidence in Thiel's own voice.
 
 ## Contested points
 
@@ -48,9 +48,9 @@ The book's own predictions are not politically neutral, and the wiki does not tr
 ## Cited by
 
 - [[concepts/surveillance-capitalism|Surveillance Capitalism]]
-- [[peter-thiel|Peter Thiel]]
+- [[thiel-peter|Peter Thiel]]
 - [[research/promise-theory-across-timn|Promise Theory Across TIMN]]
 
 ## Provenance
 
-Written 5 September 2026 to complete the citation trail from the [[concepts/surveillance-capitalism|Surveillance Capitalism]] concept page and the [[peter-thiel|Peter Thiel]] person page. The book was published in 1997 by Simon & Schuster and reissued in 2020 with a preface by Peter Thiel. The prediction list is drawn from the book's own chapter arguments. The reading of the book as founding narrative for the four-layer surveillance-capitalism architecture is Michael Haupt's synthesis (MS); the individual predictions and the fact of the Thiel preface are IC to the primary text.
+Written 5 September 2026 to complete the citation trail from the [[concepts/surveillance-capitalism|Surveillance Capitalism]] concept page and the [[thiel-peter|Peter Thiel]] person page. The book was published in 1997 by Simon & Schuster and reissued in 2020 with a preface by Peter Thiel. The prediction list is drawn from the book's own chapter arguments. The reading of the book as founding narrative for the four-layer surveillance-capitalism architecture is Michael Haupt's synthesis (MS); the individual predictions and the fact of the Thiel preface are IC to the primary text.

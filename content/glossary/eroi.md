@@ -30,7 +30,7 @@ The relevant measurement for economic analysis is the finished-fuel (final-stage
 
 ## Sources
 
-- [[sources/brockway-eroi|Brockway et al. (2019). Estimation of global final-stage EROI for fossil fuels. *Nature Energy*]]
+- Brockway et al. (2019). [[sources/brockway-eroi|Estimation of global final-stage EROI for fossil fuels]]. *Nature Energy*
 
 ## Provenance
 

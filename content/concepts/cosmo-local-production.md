@@ -15,7 +15,7 @@ Cosmo-local production is the pattern in which what is light travels globally an
 
 The global [[glossary/economy|economy]] moves heavy things around the planet to move light things around the planet. Raw materials cross oceans to become goods in factories, which cross oceans again to reach consumers, accompanied at every stage by intellectual property, logistics data, and financial instruments that could have moved at the speed of light without any of the ships. The current global system of production and trade uses roughly two-thirds of its resource expenditure on transport, and not on making. The ratio tells you where the design error is.
 
-Cosmo-local production inverts the ratio. The formulation, developed by [[michel-bauwens|Michel Bauwens]], Vasilis Kostakis, and colleagues at the P2P Foundation and refined through José Ramos's editorial work on the *Cosmo-Local Reader* (2021), rests on a single structural principle: what is light is global; what is heavy is local.
+Cosmo-local production inverts the ratio. The formulation, developed by [[bauwens-michel|Michel Bauwens]], Vasilis Kostakis, and colleagues at the P2P Foundation and refined through José Ramos's editorial work on the *Cosmo-Local Reader* (2021), rests on a single structural principle: what is light is global; what is heavy is local.
 
 ## The three rules
 
@@ -65,14 +65,14 @@ Ruddick's Grassroots Economics protocol operates on the same cosmo-local logic: 
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
-- [[michel-bauwens|Michel Bauwens]]
+- [[bauwens-michel|Michel Bauwens]]
 - [[cosmo-local-production|Cosmo-local production (glossary)]]
 
 ## Sources
 
 - [[sources/kostakis-design-global-manufacture-local|Kostakis, V., Niaros, V., Dafermos, G., & Bauwens, M. (2015). "Design Global, Manufacture Local"]]
-- [[sources/ramos-cosmo-local-reader|Ramos, J., Ede, S., Bauwens, M., & Wong, G. (eds.) (2021). *The Cosmo-Local Reader*]]
-- [[sources/bauwens-pazaitis-p2p-accounting|Bauwens, M., & Pazaitis, A. (2019). *P2P Accounting for Planetary Survival*]]
+- Ramos, J., Ede, S., Bauwens, M., & Wong, G. (eds.) (2021). *[[sources/ramos-cosmo-local-reader|The Cosmo-Local Reader]]*
+- Bauwens, M., & Pazaitis, A. (2019). *[[sources/bauwens-pazaitis-p2p-accounting|P2P Accounting for Planetary Survival]]*
 - [[sources/kostakis-niaros-giotitsas-2023|Kostakis, V., Niaros, V., & Giotitsas, C. (2023). "Beyond Global Versus Local"]]
 
 ## Provenance

@@ -19,4 +19,4 @@ The foundational text of the Keyline Design method. Yeomans developed a systemat
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
-- [[p-a-yeomans|P.A. Yeomans]]
+- [[yeomans-p-a|P.A. Yeomans]]

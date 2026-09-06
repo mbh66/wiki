@@ -24,5 +24,5 @@ The founding specification of the Bioregional Financing Facility (BFF) architect
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[glossary/bioregional-financing-facility-bff|Bioregional Financing Facility (BFF) (glossary)]]
-- [[samantha-power|Samantha Power]]
-- [[leon-seefeld|Leon Seefeld]]
+- [[power-samantha|Samantha Power]]
+- [[seefeld-leon|Leon Seefeld]]

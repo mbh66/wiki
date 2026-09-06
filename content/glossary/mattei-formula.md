@@ -30,4 +30,4 @@ The formula ran against the standard 50-50 split offered by the Anglo-American m
 
 ## Provenance
 
-Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*. See [[enrico-mattei|Enrico Mattei]] for biography.
+Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*. See [[mattei-enrico|Enrico Mattei]] for biography.

@@ -21,5 +21,5 @@ Burgess's book-length treatment of Promise Theory, co-developed with Jan Bergstr
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[glossary/promise-theory|Promise Theory (glossary)]]
 - [[glossary/commitment-pool|Commitment pool (glossary)]]
-- [[mark-burgess|Mark Burgess]]
-- [[jan-bergstra|Jan Bergstra]]
+- [[burgess-mark|Mark Burgess]]
+- [[bergstra-jan|Jan Bergstra]]

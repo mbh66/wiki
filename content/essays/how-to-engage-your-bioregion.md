@@ -92,8 +92,8 @@ Where a BioHub has run the four templates and produced its own outputs, the outp
 
 ## Sources
 
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
-- [[sources/ruddick-commitment-pooling-2023|Ruddick, W. (2023). *Commitment Pooling*]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
+- Ruddick, W. (2023). *[[sources/ruddick-commitment-pooling-2023|Commitment Pooling]]*
 
 ## Provenance
 

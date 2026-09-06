@@ -22,8 +22,8 @@ Coordination through kinship, identity, belonging, and reciprocal obligation, wh
 
 ## Sources and associated figures
 
-- [[mircea-eliade|Mircea Eliade]]
-- [[christian-bromberger|Christian Bromberger]]
+- [[eliade-mircea|Mircea Eliade]]
+- [[bromberger-christian|Christian Bromberger]]
 
 ## Provenance
 

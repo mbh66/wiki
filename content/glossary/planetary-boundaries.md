@@ -31,8 +31,8 @@ The framework is one of the two ecological premises (with [[eroi|EROI]] collapse
 
 ## Sources
 
-- [[sources/richardson-planetary-boundaries|Richardson et al. (2023). Earth beyond six of nine planetary boundaries. *Science Advances* 9, eadh2458]]
+- Richardson et al. (2023). [[sources/richardson-planetary-boundaries|Earth beyond six of nine planetary boundaries]]. *Science Advances* 9, eadh2458
 
 ## Provenance
 
-Borrowed from Rockström et al. (2009), Steffen et al. (2015), and Richardson et al. (2023). See [[katherine-richardson|Katherine Richardson]] for biographical context on the 2023 update lead.
+Borrowed from Rockström et al. (2009), Steffen et al. (2015), and Richardson et al. (2023). See [[richardson-katherine|Katherine Richardson]] for biographical context on the 2023 update lead.

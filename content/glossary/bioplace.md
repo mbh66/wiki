@@ -36,9 +36,9 @@ A BioPlace can be a quarter-hectare urban plot or a hundred-hectare mixed holdin
 
 ## Sources and associated figures
 
-- [[bill-mollison|Bill Mollison]]
-- [[andrew-millison|Andrew Millison]]
-- [[richard-perkins|Richard Perkins]]
+- [[mollison-bill|Bill Mollison]]
+- [[millison-andrew|Andrew Millison]]
+- [[perkins-richard|Richard Perkins]]
 
 ## Provenance
 

@@ -23,4 +23,4 @@ The founding text of biogeochemistry. Vernadsky demonstrated that living matter 
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[essays/from-geosphere-to-noosphere|From Geosphere to Noosphere]]
-- [[vladimir-vernadsky|Vladimir Vernadsky]]
+- [[vernadsky-vladimir|Vladimir Vernadsky]]

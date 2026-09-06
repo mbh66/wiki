@@ -38,9 +38,9 @@ The tool is in public preview at the time of writing. Pricing after the preview 
 - [[glossary/permaculture|Permaculture]]
 - [[concepts/the-bioplace-layer|The BioPlace Layer]]
 - [[tools/bioplace/index|BioPlace Tools]]
-- [[bill-mollison|Bill Mollison]]
-- [[andrew-millison|Andrew Millison]]
-- [[richard-perkins|Richard Perkins]]
+- [[mollison-bill|Bill Mollison]]
+- [[millison-andrew|Andrew Millison]]
+- [[perkins-richard|Richard Perkins]]
 
 ## Provenance
 

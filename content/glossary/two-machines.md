@@ -41,7 +41,7 @@ The term also differs from [[extractive|extractive]] as a general descriptor. Ex
 
 ## Sources and associated figures
 
-- [[benjamin-life|Benjamin Life]]
+- [[life-benjamin|Benjamin Life]]
 
 ## Provenance
 

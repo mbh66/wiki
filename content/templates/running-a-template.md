@@ -9,7 +9,7 @@ source_documents: ["BioHub_Identity_Template.md", "BioRegion_Establishment_Templ
 epistemic_status: "documented-framework"
 ---
 
-The shared mechanics that apply to every template in the [[index|founding suite]]: what a template is, what the cohort work between prompts does, how to run the prompts across different deep research platforms, and the evidentiary discipline every template requires.
+The shared mechanics that apply to every template in the [[content/templates/index|founding suite]]: what a template is, what the cohort work between prompts does, how to run the prompts across different deep research platforms, and the evidentiary discipline every template requires.
 
 ## What a template is
 
@@ -105,7 +105,7 @@ The three layers should be internally consistent and cross-referenced. The Chart
 
 ## Related pages
 
-- [[index|The Templates]]
+- [[content/templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]

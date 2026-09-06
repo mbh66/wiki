@@ -19,4 +19,4 @@ Bromberger's fieldwork on football supporter culture in Marseille, Naples, and T
 ## Cited by
 
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[christian-bromberger|Christian Bromberger]]
+- [[bromberger-christian|Christian Bromberger]]

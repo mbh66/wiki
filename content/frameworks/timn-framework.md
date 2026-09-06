@@ -9,7 +9,7 @@ source_documents: ["TIMN_Framework_Notion_Export"]
 epistemic_status: "documented-framework"
 ---
 
-TIMN is a theoretical framework that categorizes the evolution of societal organization into four fundamental forms: Tribes (T), Institutions (I), Markets (M), and Networks (N). It was developed by RAND analyst [[david-ronfeldt|David Ronfeldt]] and first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution*.
+TIMN is a theoretical framework that categorizes the evolution of societal organization into four fundamental forms: Tribes (T), Institutions (I), Markets (M), and Networks (N). It was developed by RAND analyst [[ronfeldt-david|David Ronfeldt]] and first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution*.
 
 ## Overview
 
@@ -54,13 +54,13 @@ In the concept-building portion of his more recent writing, Ronfeldt argues that
 ## Related pages
 
 - [[frameworks/time-framework|The TIME Framework]]
-- [[david-ronfeldt|David Ronfeldt]]
+- [[ronfeldt-david|David Ronfeldt]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[glossary/human-coordination|Human Coordination]]
 
 ## Sources
 
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution* (RAND P-7967)]]
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution]]* (RAND P-7967)
 - Ronfeldt, D. (2025). *Rethinking What 'Tribes' and 'Networks' Are Good For* (Substack series, four parts and three appendices).
 
 ## Provenance

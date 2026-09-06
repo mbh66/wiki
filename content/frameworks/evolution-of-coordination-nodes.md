@@ -28,7 +28,7 @@ The thesis can be stated simply: if you know what a coordination form optimizes 
 
 ## The Sacred Site (T form)
 
-The [[t-form-tribal|Tribal]] coordination form organizes through kinship, loyalty, and belonging. Its physical expression is the sacred site: a place where, in [[mircea-eliade|Mircea Eliade]]'s terms, the sacred breaks into profane space and consecrates a fixed point around which community life organizes.
+The [[t-form-tribal|Tribal]] coordination form organizes through kinship, loyalty, and belonging. Its physical expression is the sacred site: a place where, in [[eliade-mircea|Mircea Eliade]]'s terms, the sacred breaks into profane space and consecrates a fixed point around which community life organizes.
 
 The examples span cultures and geographies. Uluru rises 348 meters above the Australian central desert, higher than the Eiffel Tower, carrying over 40 sacred sites and 11 Dreaming trails along a single formation. Songlines are sung pathways that encode creation stories, ecological knowledge, navigation, and law; one route runs roughly 3,500 kilometers from the central desert to the eastern coast. Polynesian marae are open-air ceremonial platforms found across the Pacific; the Taputapuatea marae on Raiatea, a UNESCO World Heritage site, marks the point where the world of the living intersects the world of ancestors and gods. The Osun-Osogbo Sacred Grove in Nigeria contains forty shrines and nine worship points along the river Osun, described by UNESCO as a symbol of identity for all Yoruba people and the wider diaspora. A century ago every Yoruba town had such a grove. Most have vanished.
 
@@ -38,15 +38,15 @@ The legibility signal is the totem, the clan mark, the scarification pattern. Yo
 
 The [[decoupling-risk|decoupling risk]]: the mark can be worn without the underlying kinship or obligation. Imitation, appropriation, hollow display.
 
-The T form is the oldest coordination form. It emerged first, with the symbolic revolution of language and early writing. There was no prior coordination form collapsing beneath it. And the T form persists inside everything that came after. [[christian-bromberger|Christian Bromberger]]'s 1995 fieldwork in Marseille, Naples, and Turin analyzed football supporter culture as a society constructed on pseudo-kinship, with the stadium as ritual space, the jersey as clan mark, the anthem as ritual song, face paint as body marking, and a pre-match fast recalling the fast before communion. The tribal form is never left behind. It runs underneath.
+The T form is the oldest coordination form. It emerged first, with the symbolic revolution of language and early writing. There was no prior coordination form collapsing beneath it. And the T form persists inside everything that came after. [[bromberger-christian|Christian Bromberger]]'s 1995 fieldwork in Marseille, Naples, and Turin analyzed football supporter culture as a society constructed on pseudo-kinship, with the stadium as ritual space, the jersey as clan mark, the anthem as ritual song, face paint as body marking, and a pre-match fast recalling the fast before communion. The tribal form is never left behind. It runs underneath.
 
 ## The Cathedral (+I form)
 
 The [[i-form-institutional|institutional]] coordination form organizes through legitimacy, authority, and hierarchy. Its physical expression is the cathedral: a new form encoding a new coordination logic, built during and after the collapse of the Western Roman Empire's administrative order.
 
-The cathedral emerged gradually. After Rome fell, church-building revived under monasticism, producing the Romanesque style (round arches, thick walls, small windows). The Gothic breakthrough came at Abbot Suger's abbey church of Saint-Denis, dedicated in 1144, which introduced the luminous stained glass and soaring height that contemporaries had never seen. The style spread in a construction boom across the next century and a half: Sens, Noyon, Senlis, Laon, Notre-Dame de Paris, Chartres (rebuilt from 1194), Reims, Amiens, Beauvais. [[robert-scott|Robert Scott]]'s *The Gothic Enterprise* records that every bishop felt compelled to outdo his peers, with height as the primary competitive dimension.
+The cathedral emerged gradually. After Rome fell, church-building revived under monasticism, producing the Romanesque style (round arches, thick walls, small windows). The Gothic breakthrough came at Abbot Suger's abbey church of Saint-Denis, dedicated in 1144, which introduced the luminous stained glass and soaring height that contemporaries had never seen. The style spread in a construction boom across the next century and a half: Sens, Noyon, Senlis, Laon, Notre-Dame de Paris, Chartres (rebuilt from 1194), Reims, Amiens, Beauvais. [[scott-robert|Robert Scott]]'s *The Gothic Enterprise* records that every bishop felt compelled to outdo his peers, with height as the primary competitive dimension.
 
-For a 12th-century peasant, the cathedral was by an enormous margin the tallest, largest, brightest structure in the lived environment. Chartres was built on a hill; its builders worked to lighten the walls so that strong rays of light shone directly into the nave, with light understood as the expression of the Divine, and the building meant to evoke the celestial Jerusalem. The stained-glass windows were glass Bibles, teaching the illiterate the full scriptural sequence from creation through judgment. [[georges-duby|Georges Duby]]'s *The Age of the Cathedrals* traces the Gothic impulse to the striving of 11th-century monks and scholars to grasp the concealed order of the universe.
+For a 12th-century peasant, the cathedral was by an enormous margin the tallest, largest, brightest structure in the lived environment. Chartres was built on a hill; its builders worked to lighten the walls so that strong rays of light shone directly into the nave, with light understood as the expression of the Divine, and the building meant to evoke the celestial Jerusalem. The stained-glass windows were glass Bibles, teaching the illiterate the full scriptural sequence from creation through judgment. [[duby-georges|Georges Duby]]'s *The Age of the Cathedrals* traces the Gothic impulse to the striving of 11th-century monks and scholars to grasp the concealed order of the universe.
 
 The cathedral compressed the entire civilizational claim of the institutional order into stone, glass, and acoustic space. The legibility signal is the crown, the seal, the coat of arms: a single emblem compressing legitimate authority. The portable symbol is the uniform, the flag, the seal carried on the document.
 
@@ -60,7 +60,7 @@ The [[m-form-market|market]] coordination form organizes through price, exchange
 
 The physical lineage runs from medieval market towns and guild halls through the early-modern bourses to the industrial skyscraper. The Antwerp Bourse (1531) is widely considered the first purpose-built commodity exchange; its galleried form became the model for London's Royal Exchange, Amsterdam, and Rotterdam. After Antwerp fell in 1585, Amsterdam replaced it, and the Dutch East India Company pioneered continuous trading in joint-stock shares.
 
-The skyscraper is the market form's equivalent of the cathedral: competition encoded in vertical scale. [[carol-willis|Carol Willis]]'s *Form Follows Finance* argues that skyscraper form is driven by land values, zoning, and speculative real-estate cycles. The tallest-building record migrated from New York (Woolworth Building, 1913; Empire State Building, 1931, tallest for nearly 40 years) to Chicago (Sears Tower, 1973) to Asia and the Gulf (Petronas Towers 1998, Taipei 101 in 2004, Burj Khalifa in 2010), with later record-holders promoted by governments to advertise their cities on the global market stage.
+The skyscraper is the market form's equivalent of the cathedral: competition encoded in vertical scale. [[willis-carol|Carol Willis]]'s *Form Follows Finance* argues that skyscraper form is driven by land values, zoning, and speculative real-estate cycles. The tallest-building record migrated from New York (Woolworth Building, 1913; Empire State Building, 1931, tallest for nearly 40 years) to Chicago (Sears Tower, 1973) to Asia and the Gulf (Petronas Towers 1998, Taipei 101 in 2004, Burj Khalifa in 2010), with later record-holders promoted by governments to advertise their cities on the global market stage.
 
 The trading floor was the operational node. Open outcry, conducted in pits through shouting and hand signals, dominated commodity and securities trading for over 150 years. The Chicago Board of Trade standardized the practice from 1848. The sensory intensity was total. A CME veteran described the opening bell to the Futures Industry Association: the hum building as people arrived, then pandemonium breaking loose when the grain markets opened. It was often a multigenerational family business.
 
@@ -74,7 +74,7 @@ The market form's nodes are emptying. Its legibility signal is decoupling from t
 
 The [[e-form-emergent|Emergent]] coordination form organizes through reciprocity, [[glossary/commons|commons]] stewardship, and pooled commitments at the scale of the watershed or [[glossary/bioregion|bioregion]]. Its physical expression is the [[biohub|bioregional hub]]: a place-anchored coordination point that organizes activity around a defined living system.
 
-Concentrating nodes include [[joe-brewer|Joe Brewer]] and [[penny-heiple|Penny Heiple]]'s Design School for Regenerating Earth (organized around bioregions and a network of learning exchanges), Regenerate Cascadia (founded 2023, now supporting 10 landscape groups with 43 landscape stewards and an online community of over 600 individuals from more than 150 organizations), and the growing set of BioHubs documented in the Metabolic assessment. The Cascadia bioregion is defined by watersheds rather than political borders, stretching more than 2,500 kilometers along the Pacific Rim.
+Concentrating nodes include [[brewer-joe|Joe Brewer]] and [[heiple-penny|Penny Heiple]]'s Design School for Regenerating Earth (organized around bioregions and a network of learning exchanges), Regenerate Cascadia (founded 2023, now supporting 10 landscape groups with 43 landscape stewards and an online community of over 600 individuals from more than 150 organizations), and the growing set of BioHubs documented in the Metabolic assessment. The Cascadia bioregion is defined by watersheds rather than political borders, stretching more than 2,500 kilometers along the Pacific Rim.
 
 The hypothesis is that the E form's awe is produced by the visible recovery of a living system: a degraded watershed regenerating, a species count climbing, a community feeding itself from its own soil. The bioregional literature supports this framing. The E form has not yet produced a singular awe-inducing structure comparable to the cathedral or the skyscraper. That absence is honest evidence of the form's immaturity, and it is not a gap to be papered over.
 
@@ -107,14 +107,14 @@ The first three columns of this analysis (T, +I, +M) rest on documented facts an
 
 ## Sources
 
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks* (RAND P-7967)]]
-- [[sources/eliade-sacred-profane|Eliade, M. (1957). *The Sacred and the Profane*]]
-- [[sources/duby-age-of-cathedrals|Duby, G. (1981). *The Age of the Cathedrals*]]
-- [[sources/scott-gothic-enterprise|Scott, R. (2003). *The Gothic Enterprise*]]
-- [[sources/willis-form-follows-finance|Willis, C. (1995). *Form Follows Finance*]]
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]* (RAND P-7967)
+- Eliade, M. (1957). *[[sources/eliade-sacred-profane|The Sacred and the Profane]]*
+- Duby, G. (1981). *[[sources/duby-age-of-cathedrals|The Age of the Cathedrals]]*
+- Scott, R. (2003). *[[sources/scott-gothic-enterprise|The Gothic Enterprise]]*
+- Willis, C. (1995). *[[sources/willis-form-follows-finance|Form Follows Finance]]*
 - [[sources/orie-yoruba-scarification|Orie, O. O. (2011). "The Structure and Function of Yoruba Facial Scarification"]]
 - [[sources/bromberger-football-worldview|Bromberger, C. (1995). "Football as World-View and as Ritual"]]
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance
 

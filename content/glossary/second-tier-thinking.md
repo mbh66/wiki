@@ -20,7 +20,7 @@ Clare Graves's term for the psychological capacity required for the Momentous Le
 ## Related pages
 
 - [[frameworks/three-futures|The Three Futures]]
-- [[clare-graves|Clare Graves]]
+- [[graves-clare|Clare Graves]]
 
 ## Sources
 

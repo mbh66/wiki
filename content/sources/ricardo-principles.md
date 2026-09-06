@@ -26,5 +26,5 @@ Ricardo's *Principles* formalized political economy into a system of laws and in
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[david-ricardo|David Ricardo]]
+- [[ricardo-david|David Ricardo]]
 - [[comparative-advantage|Comparative Advantage (glossary)]]

@@ -33,17 +33,17 @@ The first is **debt-based money**. Money enters the economy as interest-bearing 
 
 The second is **the shareholder corporation**. A productive enterprise owned by shareholders whose legal claim is to maximum financial return is structurally required to extract value from its labor force, its supply chain, and its ecological base. This is not a moral failing of individual shareholders. It is the operating logic of the ownership form. An enterprise that prioritizes ecological regeneration or community wealth-building over shareholder return is, under current corporate law in most jurisdictions, in breach of its fiduciary duty.
 
-Together these are what [[benjamin-life|Benjamin Life]] calls the [[two-machines|Two Machines]]. They are not incidental features of the global economy. They are the architecture. A BioConomy is not a reformed Economy operating on retention values. It is a different architecture, built on different institutional forms: [[federated-cooperative|federated cooperatives]] instead of shareholder corporations, [[commitment-pool|commitment pools]] instead of debt-issued money at every scale where a substitute is possible, and coordination through [[e-form-emergent|+E emergent forms]] alongside the market and the state.
+Together these are what [[life-benjamin|Benjamin Life]] calls the [[two-machines|Two Machines]]. They are not incidental features of the global economy. They are the architecture. A BioConomy is not a reformed Economy operating on retention values. It is a different architecture, built on different institutional forms: [[federated-cooperative|federated cooperatives]] instead of shareholder corporations, [[commitment-pool|commitment pools]] instead of debt-issued money at every scale where a substitute is possible, and coordination through [[e-form-emergent|+E emergent forms]] alongside the market and the state.
 
 ## Two phases of a growth curve
 
 Every living system follows an [[s-curve|S-curve]]: slow growth at first, then rapid, then slow. The human body grows slowly as an embryo, rapidly as a teenager, and slows down during adulthood. The same pattern repeats in every living system, including the economic system every society depends on.
 
-The steep middle of the economic S-curve rewards throughput. Growth is the point, and the mechanisms that maximize flow (trade volume, GDP, return on capital) are structurally fit for that phase. This is how "economy" has been used since [[adam-smith|Adam Smith]] and [[david-ricardo|David Ricardo]]. It served its purpose. It built the industrial world.
+The steep middle of the economic S-curve rewards throughput. Growth is the point, and the mechanisms that maximize flow (trade volume, GDP, return on capital) are structurally fit for that phase. This is how "economy" has been used since [[smith-adam|Adam Smith]] and [[ricardo-david|David Ricardo]]. It served its purpose. It built the industrial world.
 
 But the growth curve does not remain steep. As a system matures, the logic that suited acceleration begins to work against it. Extraction against limits degrades the capacity to reproduce. Maximizing flow drains the substrate that made flow possible. A mature system requires a different measure: value counted by what stays in place. Soil, water, biodiversity, skill, community capacity, cultural coherence. This is the BioConomy.
 
-The developmental arc supporting this claim is centuries old. It runs from [[alexander-hamilton|Alexander Hamilton]] (1755-1804) and [[friedrich-list|Friedrich List]] (1789-1846) through [[abraham-lincoln|Abraham Lincoln]] (1809-1865) and [[thomas-sankara|Thomas Sankara]] (1949-1987), and its treatment on this wiki sits in [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]. The full evidence base for why the moment is now ripe sits in the [[research/growth-economics|S-Curve research brief]].
+The developmental arc supporting this claim is centuries old. It runs from [[hamilton-alexander|Alexander Hamilton]] (1755-1804) and [[list-friedrich|Friedrich List]] (1789-1846) through [[lincoln-abraham|Abraham Lincoln]] (1809-1865) and [[sankara-thomas|Thomas Sankara]] (1949-1987), and its treatment on this wiki sits in [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]. The full evidence base for why the moment is now ripe sits in the [[research/growth-economics|S-Curve research brief]].
 
 ## The four dimensions the BioConomy extends
 
@@ -53,7 +53,7 @@ The BioConomy extends the retention tradition along four dimensions the historic
 
 **Ecological limits.** The economy is bounded by what the landscape can sustain. The boundary is enforced by design rather than discovered by crisis. The [[planetary-boundaries|planetary boundaries]] framework specifies what the limits are.
 
-**Commons governance.** Coordination happens through governance forms that are neither the market nor the state. [[elinor-ostrom|Elinor Ostrom]]'s empirical work on the commons showed that communities can govern shared resources sustainably at scales the market and the state cannot reach. The BioConomy treats commons governance as a first-class coordination form.
+**Commons governance.** Coordination happens through governance forms that are neither the market nor the state. [[ostrom-elinor|Elinor Ostrom]]'s empirical work on the commons showed that communities can govern shared resources sustainably at scales the market and the state cannot reach. The BioConomy treats commons governance as a first-class coordination form.
 
 **Bioregional rather than national scale.** The unit of coordination is the [[bioregion|BioRegion]], not the nation state. Watersheds, biomes, and cultural territories do not follow political borders, and coordinating at the wrong scale produces coordination that cannot hold what it claims to hold. See [[essays/what-is-a-bioregion|What Is a BioRegion]] and [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
 
@@ -75,17 +75,17 @@ Similar architectures are emerging around biodiversity credits under the TNFD di
 
 Four bodies of work carry the economic architecture a functioning BioConomy draws on.
 
-[[concepts/commitment-pooling|Commitment Pooling]] describes the structure through which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange. The theory draws on Burgess, Bergstra, and [[will-ruddick|Ruddick]]. At the community level, the practice is operational in multiple bioregions through the Grassroots Economics protocol. At the bioregional level, pooling takes the form of coordinated landscape-scale commitments tendered into market instruments: water funds, performance-based bonds, and payment-for-ecosystem-services contracts. The BioHub is the coordination layer through which the two scales meet.
+[[concepts/commitment-pooling|Commitment Pooling]] describes the structure through which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange. The theory draws on Burgess, Bergstra, and [[ruddick-will|Ruddick]]. At the community level, the practice is operational in multiple bioregions through the Grassroots Economics protocol. At the bioregional level, pooling takes the form of coordinated landscape-scale commitments tendered into market instruments: water funds, performance-based bonds, and payment-for-ecosystem-services contracts. The BioHub is the coordination layer through which the two scales meet.
 
-[[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on Benjamin Life's foundational definition, [[john-fullerton|John Fullerton]]'s eight principles of [[glossary/regenerative-capitalism|regenerative capitalism]], [[kate-raworth|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
+[[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on Benjamin Life's foundational definition, [[fullerton-john|John Fullerton]]'s eight principles of [[glossary/regenerative-capitalism|regenerative capitalism]], [[raworth-kate|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
 
 [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]] examines how cooperatives within a bioregion retain and circulate value internally through federated structures. The Mondragón and SEKEM precedents are the primary case material.
 
-[[concepts/cosmo-local-production|Cosmo-Local Production]] carries the formulation from [[michel-bauwens|Michel Bauwens]]: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this wiki is the global-facing layer. The catchment restoration and cooperative production in each bioregion is the place-based layer.
+[[concepts/cosmo-local-production|Cosmo-Local Production]] carries the formulation from [[bauwens-michel|Michel Bauwens]]: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this wiki is the global-facing layer. The catchment restoration and cooperative production in each bioregion is the place-based layer.
 
 ## Where the BioConomy is legible
 
-The BioConomy is not yet a fully instantiated system anywhere on earth. It is legible in patches: the Basque cooperative federation around Mondragón, the water-fund economics of the Greater Cape Town Water Fund, the SEKEM initiative in Egypt, the Grassroots Economics protocols in East Africa, the cooperative production networks in Emilia-Romagna, the resource-nationalist programs in the Sahel gathered around [[ibrahim-traore|Ibrahim Traoré]] since 2022, and the 152-initiative field mapped by [[eva-gladek|Eva Gladek]] and colleagues at Metabolic in mid-2026.
+The BioConomy is not yet a fully instantiated system anywhere on earth. It is legible in patches: the Basque cooperative federation around Mondragón, the water-fund economics of the Greater Cape Town Water Fund, the SEKEM initiative in Egypt, the Grassroots Economics protocols in East Africa, the cooperative production networks in Emilia-Romagna, the resource-nationalist programs in the Sahel gathered around [[traore-ibrahim|Ibrahim Traoré]] since 2022, and the 152-initiative field mapped by [[gladek-eva|Eva Gladek]] and colleagues at Metabolic in mid-2026.
 
 Each of these is a partial instantiation. None yet holds the full BioStack (BioHub, BioRegion, BioConomy) as an integrated architecture. The current period is when the pieces begin to be assembled into working wholes. The [[templates/index|four-template founding suite]] this wiki carries is one attempt at making the assembly reproducible.
 
@@ -112,16 +112,16 @@ Each of these is a partial instantiation. None yet holds the full BioStack (BioH
 
 ## Sources
 
-- [[sources/life-bioregional-economics|Life, B. (2026). *An Introduction to Bioregional Economics (Part I)*]]
-- [[sources/fullerton-regenerative-capitalism|Fullerton, J. (2015). *Regenerative Capitalism*]]
-- [[sources/raworth-doughnut-economics|Raworth, K. (2017). *Doughnut Economics*]]
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
-- [[sources/reinert-how-rich-countries-got-rich|Reinert, E. (2007). *How Rich Countries Got Rich and Why Poor Countries Stay Poor*]]
+- Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
+- Fullerton, J. (2015). *[[sources/fullerton-regenerative-capitalism|Regenerative Capitalism]]*
+- Raworth, K. (2017). *[[sources/raworth-doughnut-economics|Doughnut Economics]]*
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
+- Reinert, E. (2007). *[[sources/reinert-how-rich-countries-got-rich|How Rich Countries Got Rich and Why Poor Countries Stay Poor]]*
 - [[sources/richardson-planetary-boundaries|Richardson et al. (2023). Earth beyond six of nine planetary boundaries]]
 - [[sources/brockway-eroi|Brockway et al. (2019). Global final-stage EROI for fossil fuels]]
-- [[sources/tainter-collapse-complex-societies|Tainter, J. (1988). *The Collapse of Complex Societies*]]
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
+- Tainter, J. (1988). *[[sources/tainter-collapse-complex-societies|The Collapse of Complex Societies]]*
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance
 

@@ -20,5 +20,5 @@ The first systematic assessment of the global [[glossary/biohub|BioHub]] field. 
 
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[eva-gladek|Eva Gladek]]
+- [[gladek-eva|Eva Gladek]]
 - [[glossary/biohub-field-sense|BioHub (field sense) (glossary)]]

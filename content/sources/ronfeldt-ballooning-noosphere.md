@@ -29,4 +29,4 @@ The paper references the BioConomy project directly, citing Michael Haupt's Fram
 - [[glossary/geosphere|Geosphere]]
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
-- [[sources/ronfeldt-timn|Ronfeldt (1996). *Tribes, Institutions, Markets, Networks*]]
+- Ronfeldt (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*

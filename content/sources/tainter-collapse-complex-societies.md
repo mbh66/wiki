@@ -22,4 +22,4 @@ Tainter's argument that societies solve easy problems first, so each added incre
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[joseph-tainter|Joseph Tainter]]
+- [[tainter-joseph|Joseph Tainter]]

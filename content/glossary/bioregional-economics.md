@@ -29,13 +29,13 @@ The study and practice of designing regenerative, cooperatively owned, place-bas
 
 ## Sources and associated figures
 
-- [[benjamin-life|Benjamin Life]]
-- [[herman-daly|Herman Daly]]
-- [[e-f-schumacher|E.F. Schumacher]]
-- [[donella-meadows|Donella Meadows]]
-- [[wendell-berry|Wendell Berry]]
-- [[gregory-landua|Gregory Landua]]
-- [[ethan-roland|Ethan Roland]]
+- [[life-benjamin|Benjamin Life]]
+- [[daly-herman|Herman Daly]]
+- [[schumacher-e-f|E.F. Schumacher]]
+- [[meadows-donella|Donella Meadows]]
+- [[berry-wendell|Wendell Berry]]
+- [[landua-gregory|Gregory Landua]]
+- [[roland-ethan|Ethan Roland]]
 
 ## Provenance
 

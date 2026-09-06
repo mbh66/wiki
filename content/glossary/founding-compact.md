@@ -55,8 +55,8 @@ The Compact's structure follows the Identity Template's Prompt 3 specification:
 
 ## Sources
 
-- [[sources/ruddick-commitment-pooling-2023|Ruddick, W. (2023). *Commitment Pooling*]]
-- [[sources/burgess-thinking-in-promises|Burgess, M. (2015). *Thinking in Promises*]]
+- Ruddick, W. (2023). *[[sources/ruddick-commitment-pooling-2023|Commitment Pooling]]*
+- Burgess, M. (2015). *[[sources/burgess-thinking-in-promises|Thinking in Promises]]*
 
 ## Provenance
 

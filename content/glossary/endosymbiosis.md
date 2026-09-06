@@ -21,9 +21,9 @@ The process by which one organism incorporates another (rather than digesting it
 ## Related pages
 
 - [[frameworks/three-futures|The Three Futures]]
-- [[lynn-margulis|Lynn Margulis]]
+- [[margulis-lynn|Lynn Margulis]]
 
 ## Sources
 
-- [[sources/margulis-symbiotic-planet|Margulis, L. (1998). *Symbiotic Planet*]]
+- Margulis, L. (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*
 - Margulis, L. (1970). *Origin of Eukaryotic Cells*.

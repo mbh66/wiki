@@ -21,5 +21,5 @@ The foundational document of the American [[glossary/retention-economics|retenti
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[alexander-hamilton|Alexander Hamilton]]
+- [[hamilton-alexander|Alexander Hamilton]]
 - [[american-system|American System (glossary)]]

@@ -67,15 +67,15 @@ The Mycelial Coordination framework is a working hypothesis. It is grounded in t
 - [[bioregion|BioRegion]]
 - [[bioconomy|BioConomy]]
 - [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
-- [[michel-bauwens|Michel Bauwens]]
-- [[david-ronfeldt|David Ronfeldt]]
+- [[bauwens-michel|Michel Bauwens]]
+- [[ronfeldt-david|David Ronfeldt]]
 
 ## Sources
 
-- [[sources/ronfeldt-timn|Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks*]]
+- Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*
 - Ronfeldt, D. (2025). *Rethinking What 'Tribes' and 'Networks' Are Good For* (Substack series).
-- [[sources/bauwens-peer-for-peer|Bauwens, M. (2026). *Understanding the Importance of the P4P Moment*]]
-- [[sources/gladek-metabolic-biohubs|Gladek, E. et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]
+- Bauwens, M. (2026). *[[sources/bauwens-peer-for-peer|Understanding the Importance of the P4P Moment]]*
+- Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance
 

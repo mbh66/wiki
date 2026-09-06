@@ -19,4 +19,4 @@ Willis's argument that skyscraper form is driven by land values, zoning, and spe
 ## Cited by
 
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[carol-willis|Carol Willis]]
+- [[willis-carol|Carol Willis]]

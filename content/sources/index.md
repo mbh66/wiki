@@ -21,18 +21,18 @@ The extraction convention is that a source page is written every time a work is 
 
 The sources most heavily cited across the corpus, useful as entry points into the framework's intellectual lineage:
 
-- [[sources/ronfeldt-timn|Ronfeldt (1996). *Tribes, Institutions, Markets, Networks*]]. The [[content/glossary/timn|TIMN framework]].
-- [[sources/ronfeldt-ballooning-noosphere|Ronfeldt (2026). *Our Planet's Ballooning Noosphere*]]. The tri-sphere holonic framework for the [[glossary/noosphere|Noosphere]].
-- [[sources/ostrom-governing-commons|Ostrom (1990). *Governing the Commons*]]. [[glossary/commons|Commons]] governance.
-- [[sources/polanyi-great-transformation|Polanyi (1944). *The Great Transformation*]]. The [[glossary/double-movement|double movement]] and [[glossary/fictitious-commodities|fictitious commodities]].
-- [[sources/richardson-planetary-boundaries|Richardson et al. (2023). *Earth beyond six of nine planetary boundaries*]]. The measurement anchor for planetary limits.
-- [[sources/gladek-metabolic-biohubs|Gladek et al. (2026). *BioHubs: A Pathway to Regional Resilience*]]. The field mapping of 152 initiatives.
-- [[sources/life-bioregional-economics|Life (2026). *An Introduction to Bioregional Economics (Part I)*]]. The foundational definition of [[glossary/bioregional-economics|bioregional economics]] as the wiki uses it.
-- [[sources/margulis-symbiotic-planet|Margulis (1998). *Symbiotic Planet*]]. The biological precedent for [[glossary/mycelial-consciousness|Mycelial Consciousness]].
+- Ronfeldt (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*. The [[content/glossary/timn|TIMN framework]].
+- Ronfeldt (2026). *[[sources/ronfeldt-ballooning-noosphere|Our Planet's Ballooning Noosphere]]*. The tri-sphere holonic framework for the [[glossary/noosphere|Noosphere]].
+- Ostrom (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*. [[glossary/commons|Commons]] governance.
+- Polanyi (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*. The [[glossary/double-movement|double movement]] and [[glossary/fictitious-commodities|fictitious commodities]].
+- Richardson et al. (2023). *[[sources/richardson-planetary-boundaries|Earth beyond six of nine planetary boundaries]]*. The measurement anchor for planetary limits.
+- Gladek et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*. The field mapping of 152 initiatives.
+- Life (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*. The foundational definition of [[glossary/bioregional-economics|bioregional economics]] as the wiki uses it.
+- Margulis (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*. The biological precedent for [[glossary/mycelial-consciousness|Mycelial Consciousness]].
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/sources/index|Wiki Home]]
 - [[people/index|People]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]

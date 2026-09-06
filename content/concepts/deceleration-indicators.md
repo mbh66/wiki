@@ -35,7 +35,7 @@ The Institute of International Finance Global Debt Monitor (February 2025) repor
 
 ### Diminishing returns to complexity
 
-Joseph Tainter's [[sources/tainter-collapse-complex-societies|*The Collapse of Complex Societies*]] (1988) argues that societies solve easy problems first, so each added increment of sociopolitical complexity yields declining marginal returns while costing more energy. Once marginal returns turn negative, collapse becomes a mathematical likelihood requiring only time. Tainter's own energy data: each inflation-adjusted dollar invested in United States energy production yielded roughly 2,250,000 BTUs in 1960 but only 1,845,000 BTUs by 1976. Patents per scientist have declined through the 20th century.
+Joseph Tainter's *[[sources/tainter-collapse-complex-societies|The Collapse of Complex Societies]]* (1988) argues that societies solve easy problems first, so each added increment of sociopolitical complexity yields declining marginal returns while costing more energy. Once marginal returns turn negative, collapse becomes a mathematical likelihood requiring only time. Tainter's own energy data: each inflation-adjusted dollar invested in United States energy production yielded roughly 2,250,000 BTUs in 1960 but only 1,845,000 BTUs by 1976. Patents per scientist have declined through the 20th century.
 
 ### Demographic transition
 
@@ -57,14 +57,14 @@ The individual indicators are robust. Their synthesis into a single civilization
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]
 - [[eroi|EROI (glossary)]]
 - [[deceleration-phase|Deceleration Phase (glossary)]]
-- [[katherine-richardson|Katherine Richardson]]
-- [[joseph-tainter|Joseph Tainter]]
+- [[richardson-katherine|Katherine Richardson]]
+- [[tainter-joseph|Joseph Tainter]]
 
 ## Sources
 
-- [[sources/richardson-planetary-boundaries|Richardson et al. (2023). Earth beyond six of nine planetary boundaries. *Science Advances* 9, eadh2458]]
-- [[sources/brockway-eroi|Brockway et al. (2019). Estimation of global final-stage EROI for fossil fuels. *Nature Energy*]]
-- [[sources/tainter-collapse-complex-societies|Tainter, J. (1988). *The Collapse of Complex Societies*]]
+- Richardson et al. (2023). [[sources/richardson-planetary-boundaries|Earth beyond six of nine planetary boundaries]]. *Science Advances* 9, eadh2458
+- Brockway et al. (2019). [[sources/brockway-eroi|Estimation of global final-stage EROI for fossil fuels]]. *Nature Energy*
+- Tainter, J. (1988). *[[sources/tainter-collapse-complex-societies|The Collapse of Complex Societies]]*
 
 ## Provenance
 

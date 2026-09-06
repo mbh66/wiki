@@ -34,11 +34,11 @@ Retention Economics is a growth-phase framework with a critical distinction from
 
 ## Sources
 
-- [[sources/hamilton-report-on-manufactures|Hamilton, A. (1791). *Report on the Subject of Manufactures*]]
-- [[sources/list-national-system|List, F. (1841). *The National System of Political Economy*]]
-- [[sources/carey-harmony-of-interests|Carey, H. C. (1851). *The Harmony of Interests*]]
-- [[sources/chang-kicking-away-the-ladder|Chang, H. J. (2002). *Kicking Away the Ladder*]]
-- [[sources/reinert-how-rich-countries-got-rich|Reinert, E. (2007). *How Rich Countries Got Rich and Why Poor Countries Stay Poor*]]
+- Hamilton, A. (1791). *[[sources/hamilton-report-on-manufactures|Report on the Subject of Manufactures]]*
+- List, F. (1841). *[[sources/list-national-system|The National System of Political Economy]]*
+- Carey, H. C. (1851). *[[sources/carey-harmony-of-interests|The Harmony of Interests]]*
+- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
+- Reinert, E. (2007). *[[sources/reinert-how-rich-countries-got-rich|How Rich Countries Got Rich and Why Poor Countries Stay Poor]]*
 
 ## Provenance
 

@@ -12,9 +12,9 @@ epistemic_status: "documented-framework"
 
 Indirect coordination in which traces left by one agent's activity in a shared environment stimulate further activity by the same or other agents. The traces do the work of communication. No agent needs to hold the whole plan; each responds to what the environment shows.
 
-The term was coined by the French zoologist [[pierre-paul-grasse|Pierre-Paul Grassé]] in 1959, from Greek *stigma* (mark) and *ergon* (work), to describe how termites build complex mounds without central direction. Each termite deposits a pheromone-marked pellet, the deposit changes the local field, and the changed field triggers the next termite's action. Ant pheromone trails, bee comb construction, and slime-mould foraging all operate this way.
+The term was coined by the French zoologist [[grasse-pierre-paul|Pierre-Paul Grassé]] in 1959, from Greek *stigma* (mark) and *ergon* (work), to describe how termites build complex mounds without central direction. Each termite deposits a pheromone-marked pellet, the deposit changes the local field, and the changed field triggers the next termite's action. Ant pheromone trails, bee comb construction, and slime-mould foraging all operate this way.
 
-[[francis-heylighen|Francis Heylighen]] and others at the Free University of Brussels extended the concept to human coordination in the early 2000s. Wikipedia, open-source software, and the open commons more broadly operate stigmergically. A contributor sees the current state of the shared artifact, adds what the state calls for, and leaves the modified state for the next contributor. The shared substrate carries the coordination.
+[[heylighen-francis|Francis Heylighen]] and others at the Free University of Brussels extended the concept to human coordination in the early 2000s. Wikipedia, open-source software, and the open commons more broadly operate stigmergically. A contributor sees the current state of the shared artifact, adds what the state calls for, and leaves the modified state for the next contributor. The shared substrate carries the coordination.
 
 Two variants are usually distinguished. *Quantitative stigmergy* uses continuous gradient signals (a pheromone concentration, a page-edit count, an issue-tracker priority score). *Qualitative stigmergy* uses discrete triggers where a threshold shape or structural feature releases a different class of action (a mound wall reaching a certain height triggers a new construction stage; a git branch reaching a certain state triggers a merge review).
 
@@ -50,8 +50,8 @@ Retention-accounting frames are stigmergic as well. They make visible what conve
 
 ## Sources and associated figures
 
-- [[pierre-paul-grasse|Pierre-Paul Grassé]]
-- [[francis-heylighen|Francis Heylighen]]
+- [[grasse-pierre-paul|Pierre-Paul Grassé]]
+- [[heylighen-francis|Francis Heylighen]]
 
 ## Sources
 

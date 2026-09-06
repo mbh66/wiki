@@ -37,7 +37,7 @@ Terms with everyday meanings that a reader can look up elsewhere (subsidy, easem
 
 ## Related pages
 
-- [[index|Wiki Home]]
+- [[content/glossary/index|Wiki Home]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]
 - [[essays/index|Essays]]

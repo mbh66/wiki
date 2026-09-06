@@ -19,5 +19,5 @@ The formal paper introducing the Commitment Pooling Protocol. Ruddick sets out t
 ## Cited by
 
 - [[concepts/commitment-pooling|Commitment Pooling]]
-- [[will-ruddick|Will Ruddick]]
+- [[ruddick-will|Will Ruddick]]
 - [[glossary/curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange (glossary)]]

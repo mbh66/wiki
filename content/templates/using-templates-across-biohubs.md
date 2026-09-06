@@ -9,7 +9,7 @@ source_documents: ["BioHub_Identity_Template.md", "BioRegion_Establishment_Templ
 epistemic_status: "documented-framework"
 ---
 
-The [[index|founding suite]] is not one-shot. More than one [[biohub|BioHub]] can operate within a single [[bioregion|BioRegion]]. A BioHub aligned to a water bond may later run the [[bankable-service-alignment-template|Bankable Service Alignment Template]] again against a biodiversity credit instrument. This page covers the conventions for both cases.
+The [[content/templates/index|founding suite]] is not one-shot. More than one [[biohub|BioHub]] can operate within a single [[bioregion|BioRegion]]. A BioHub aligned to a water bond may later run the [[bankable-service-alignment-template|Bankable Service Alignment Template]] again against a biodiversity credit instrument. This page covers the conventions for both cases.
 
 ## Multi-BioHub coordination within a BioRegion
 
@@ -67,7 +67,7 @@ This is a working area. Global precedent is thin. Where the overlap is substanti
 
 ## Related pages
 
-- [[index|The Templates]]
+- [[content/templates/index|The Templates]]
 - [[running-a-template|Running a Template]]
 - [[the-nine-outputs|The Nine Outputs]]
 - [[biohub-identity-template|BioHub Identity Template]]

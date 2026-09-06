@@ -38,10 +38,10 @@ Regenerative Economics is the framework structurally fit for the deceleration an
 
 ## Sources
 
-- [[sources/ostrom-governing-commons|Ostrom, E. (1990). *Governing the Commons*]]
-- [[sources/richardson-planetary-boundaries|Richardson et al. (2023). Earth beyond six of nine planetary boundaries. *Science Advances* 9, eadh2458]]
-- [[sources/brockway-eroi|Brockway et al. (2019). Estimation of global final-stage EROI for fossil fuels. *Nature Energy*]]
-- [[sources/tainter-collapse-complex-societies|Tainter, J. (1988). *The Collapse of Complex Societies*]]
+- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
+- Richardson et al. (2023). [[sources/richardson-planetary-boundaries|Earth beyond six of nine planetary boundaries]]. *Science Advances* 9, eadh2458
+- Brockway et al. (2019). [[sources/brockway-eroi|Estimation of global final-stage EROI for fossil fuels]]. *Nature Energy*
+- Tainter, J. (1988). *[[sources/tainter-collapse-complex-societies|The Collapse of Complex Societies]]*
 
 ## Provenance
 

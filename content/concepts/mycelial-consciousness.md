@@ -57,14 +57,14 @@ Mycelial Consciousness is the psychological substrate the [[frameworks/three-fut
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[second-tier-thinking|Second Tier Thinking (glossary)]]
 - [[stretch-collaboration|Stretch Collaboration (glossary)]]
-- [[clare-graves|Clare Graves]]
-- [[lynn-margulis|Lynn Margulis]]
-- [[elisabet-sahtouris|Elisabet Sahtouris]]
+- [[graves-clare|Clare Graves]]
+- [[margulis-lynn|Lynn Margulis]]
+- [[sahtouris-elisabet|Elisabet Sahtouris]]
 
 ## Sources
 
 - Graves, C.W. (1974). "Human Nature Prepares for a Momentous Leap." *The Futurist*, April 1974.
-- [[sources/margulis-symbiotic-planet|Margulis, L. (1998). *Symbiotic Planet*]]
+- Margulis, L. (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*
 - Sahtouris, E. (2000). *EarthDance: Living Systems in Evolution*.
 
 ## Provenance
