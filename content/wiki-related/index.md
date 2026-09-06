@@ -1,12 +1,17 @@
 ---
-title: "Related Wikis"
-aliases: ["related wikis", "companion wikis"]
-tags: ["landing", "orientation", "related-wikis"]
+title: Wikis Related
+aliases:
+  - related wikis
+  - companion wikis
+tags:
+  - landing
+  - orientation
+  - related-wikis
 created: 2026-09-04
 updated: 2026-09-04
-source_project: "BioConomy"
+source_project: BioConomy
 source_documents: []
-epistemic_status: "documented-framework"
+epistemic_status: documented-framework
 ---
 
 Public knowledge commons whose scope overlaps the BioConomy corpus. Each entry says what the wiki covers, who runs it, where its treatment goes deeper than this one, and where the intellectual traffic between the two projects flows.
