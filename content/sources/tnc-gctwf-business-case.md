@@ -20,3 +20,4 @@ The founding business case for the Greater Cape Town Water Fund. TNC and the Cit
 
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/bioregional-economics|Bioregional Economics]]
+- [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]

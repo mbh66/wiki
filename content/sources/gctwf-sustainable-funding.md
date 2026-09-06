@@ -19,3 +19,4 @@ The GCTWF's strategy document setting out the funding pathway from initial publi
 ## Cited by
 
 - [[concepts/commitment-pooling|Commitment Pooling]]
+- [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]

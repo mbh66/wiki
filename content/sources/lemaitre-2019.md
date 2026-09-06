@@ -19,3 +19,4 @@ Le Maitre and colleagues' quantification of the ongoing water-yield loss from in
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
+- [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
