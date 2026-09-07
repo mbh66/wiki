@@ -17,7 +17,7 @@ epistemic_status: documented-framework
 
 | The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place.<br><br>Tap on any layer for a definition: | The conventional economy's nesting is set by administrative boundary and ownership.<br><br>Tap on any layer to see the difference: |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![[BioConomyHolons.excalidraw]]                                                                                                                                  | ![[EconomyHolons.excalidraw]]                                                                                                      |
+| ![[BioConomyHolons.excalidraw]]                                                                                                                                  | ![[EConomyHolons.excalidraw]]                                                                                                      |
 
 # Why Now?
 
