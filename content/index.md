@@ -19,11 +19,14 @@ You're in the right place to explore the emerging, parallel BioConomy.
 
 # What's the Difference Between the Economy and the BioConomy?
 
-| The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place.<br><br>Tap on or hover over any term for a definition: | The conventional economy's nesting is set by administrative boundary and ownership.<br><br>Tap on any term to see the difference:      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| - [[bioconomy\|BioConomy]]<br>- [[bioregion\|BioRegion]]<br>- [[biohub\|BioHub]]<br>- [[bioplace\|BioPlace]]<br>                                                              | - [[global-economy\|Global Economy]]<br>- [[nation-state\|Nation-state]]<br>- [[municipality\|Municipality]]<br>- [[company\|Company]] |
-| ![[bioconomy-holons.png\|\|350]]                                                                                                                                              | ![[economy-holons.png\|\|350]]                                                                                                         |
 
+| The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place. Tap on or hover over any term for a definition: | The conventional economy's nesting is set by administrative boundary and ownership. Tap on any term to see the difference: |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [[bioconomy]]                                                                                                                                                          | [[global-economy]]                                                                                                         |
+| [[bioregion]]                                                                                                                                                          | [[nation-state]]                                                                                                           |
+| [[biohub]]                                                                                                                                                             | [[municipality]]                                                                                                           |
+| [[bioplace]]                                                                                                                                                           | [[company]]                                                                                                                |
+| ![[bioconomy-holons.png]]                                                                                                                                              | ![[economy-holons.png]]                                                                                                    |
 
 # Why Now?
 
