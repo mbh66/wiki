@@ -1,6 +1,7 @@
 ---
 title: Economy
 aliases:
+  - extractive
 tags:
   - glossary
   - core-concept
@@ -29,6 +30,9 @@ _BioConomy_ restores the household frame at the scale of a living region. It tre
 
 ## Related terms
 
+- [[economy-versus-bioconomy|Economy vs BioConomy]]
+- [[throughput-economics|Throughput Economics]]
+- [[regenerative-economics|Regenerative Economics]]
 - [[bioconomy|BioConomy]]
 - [[bioplace|BioPlace]]
 - [[bioregion|BioRegion]]

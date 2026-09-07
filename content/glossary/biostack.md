@@ -12,7 +12,9 @@ epistemic_status: "documented-framework"
 ---
 
 
-A BioStack is the nested structure through which bioregional coordination takes hold. Three geographic scales sit inside a coordination architecture that lets those scales function together as an economy.
+A BioStack is the nested structure through which bioregional coordination takes hold. Four geographic scales sit inside a coordination architecture that lets those scales function together as an economy.
+
+![[BioConomyHolons.excalidraw]]
 
 - **[[bioplace|BioPlace]]**: The smallest scale of the stack, where humans meet a specific piece of land directly and shape their activity to its rhythms.
 - **[[biohub|BioHub]]**: The scale at which place-based coordination makes a [[bioregion|BioRegion]] function as a coherent unit.
