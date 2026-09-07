@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Parallel Economy: the BioConomy"
+title: This is the BioConomy
 aliases:
   - home
   - landing page
@@ -22,7 +22,7 @@ You're in the right place to explore the emerging, parallel BioConomy.
 | The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place.<br><br>Tap on any term for a definition: | The conventional economy's nesting is set by administrative boundary and ownership.<br><br>Tap on any term to see the difference:      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | - [[bioconomy\|BioConomy]]<br>- [[bioregion\|BioRegion]]<br>- [[biohub\|BioHub]]<br>- [[bioplace\|BioPlace]]<br>                                                | - [[global-economy\|Global Economy]]<br>- [[nation-state\|Nation-state]]<br>- [[municipality\|Municipality]]<br>- [[company\|Company]] |
-| ![[BioConomyHolons.excalidraw.light.svg\|350]]                                                                                                                  | ![[EConomyHolons.excalidraw.light.svg\|350]]                                                                                           |
+| ![[bioconomy-holons.svg\|\|350]]                                                                                                                                | ![[economy-holons.svg\|\|350]]                                                                                                         |
 
 
 # Why Now?
@@ -34,7 +34,7 @@ The way society has organized itself has evolved over time through four distinct
 - [[m-form-market|Markets]]
 - [[e-form-emergent|Emergent]]
 
-![[TIME.excalidraw.light.png]]
+![[TIME-holons.svg]]
 
 - In the **Economy**, under the dominant [[glossary/m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
 - In the **BioConomy**, under the [[glossary/e-form-emergent|Emergent form]], people relate to those same Institutions and Markets as **providers**, supplying the outcomes those Institutions and Markets need and cannot produce internally.
