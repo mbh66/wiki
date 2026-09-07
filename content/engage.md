@@ -1,12 +1,17 @@
 ---
-title: "Welcome to the BioConomy Wiki"
-aliases: ["home", "landing page", "wiki home"]
-tags: ["landing", "orientation"]
+title: How to Navigate the BioConomy Wiki
+aliases:
+  - home
+  - landing page
+  - wiki home
+tags:
+  - landing
+  - orientation
 created: 2026-08-24
 updated: 2026-08-27
-source_project: "BioConomy"
+source_project: BioConomy
 source_documents: []
-epistemic_status: "documented-framework"
+epistemic_status: documented-framework
 ---
 
 This wiki documents the [[bioconomy|BioConomy]] framework: a coordination architecture for economies organized around [[bioregion|BioRegions]]. 

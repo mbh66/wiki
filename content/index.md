@@ -1,5 +1,5 @@
 ---
-title: "Two Parallels: Economy and BioConomy"
+title: "Welcome to the Parallel Economy: the BioConomy"
 aliases:
   - home
   - landing page
@@ -13,21 +13,32 @@ source_project: BioConomy
 source_documents: []
 epistemic_status: documented-framework
 ---
-# What's the Difference Between Economy and BioConomy?
+## Welcome!
 
-| The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place.<br><br>Tap on any layer for a definition: | The conventional economy's nesting is set by administrative boundary and ownership.<br><br>Tap on any layer to see the difference: |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![[BioConomyHolons.excalidraw]]                                                                                                                                  | ![[EConomyHolons.excalidraw]]                                                                                                      |
+You're in the right place to explore the emerging, parallel BioConomy.
+
+# What's the Difference Between the Economy and the BioConomy?
+
+| The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place.<br><br>Tap on any term for a definition: | The conventional economy's nesting is set by administrative boundary and ownership.<br><br>Tap on any term to see the difference:      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| - [[bioconomy\|BioConomy]]<br>- [[bioregion\|BioRegion]]<br>- [[biohub\|BioHub]]<br>- [[bioplace\|BioPlace]]<br>                                                | - [[global-economy\|Global Economy]]<br>- [[nation-state\|Nation-state]]<br>- [[municipality\|Municipality]]<br>- [[company\|Company]] |
+| ![[BioConomyHolons.excalidraw.light.svg\|350]]                                                                                                                  | ![[EConomyHolons.excalidraw.light.svg\|350]]                                                                                           |
+
 
 # Why Now?
 
-The way society has organized itself has evolved over time. Tap on any layer for a definition:
+The way society has organized itself has evolved over time through four distinct forms. Tap on each form for an explanation:
 
-![[TIME.excalidraw]]
+- [[t-form-tribal|Tribes]]
+- [[i-form-institutional|Institutions]]
+- [[m-form-market|Markets]]
+- [[e-form-emergent|Emergent]]
 
-- Under the dominant [[glossary/m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
-- Under the [[glossary/e-form-emergent|Emergent form]], people relate to those same Institutions and Markets as **providers**, supplying the outcomes those Institutions and Markets need and cannot produce internally.
+![[TIME.excalidraw.light.png]]
 
-This wiki exists to provide everything required to operate effectively in the Emergent space.
+- In the **Economy**, under the dominant [[glossary/m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
+- In the **BioConomy**, under the [[glossary/e-form-emergent|Emergent form]], people relate to those same Institutions and Markets as **providers**, supplying the outcomes those Institutions and Markets need and cannot produce internally.
+
+This wiki exists to provide everything required to operate effectively in the BioConomy.
 
 To learn how to use the wiki, visit [[engage|Three ways to engage with the wiki]]
