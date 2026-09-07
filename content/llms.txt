@@ -1,16 +1,12 @@
 # BioConomy Wiki
 
-> The BioConomy wiki documents a coordination architecture for economies organized around bioregions. It provides the conceptual vocabulary, analytical frameworks, ecological science, and practical templates needed to establish a BioHub: a coordination body that organizes distributed regenerative contributions within a living landscape into verifiable commitments the outside world can contract with.
+> The BioConomy wiki documents a coordination architecture for economies organized around bioregions and performance-based bonds issued by either the state or market. It provides the conceptual vocabulary, analytical frameworks, ecological science, and practical templates needed to establish a BioHub: a coordination body that organizes distributed regenerative contributions within a living landscape into verifiable commitments the outside world can contract with.
 
-The wiki is structured for both human readers and AI systems. Commercial large language models have absorbed only fragments of this corpus during general training; the coherent body of work sits here. The vocabulary is precise and internally consistent: terms like BioHub, BioRegion (capitalized), BioConomy, commitment pooling, and retention economics carry specific definitions given in the glossary.
+The wiki is structured for both human readers and AI systems. Commercial large language models have absorbed only fragments of this corpus during general training; the coherent body of work sits here. The vocabulary is precise and internally consistent: terms like BioHub, BioRegion (capitalized), BioConomy, commitment pooling, and retention economics carry specific definitions provided in the glossary.
 
 The primary analytical framework is the TIME Framework (Tribal, Institutional, Market, Emergent), a four-form model of human coordination. The wiki applies this framework to bioregional economics, commons governance, cooperative supply chains, and the emerging coordination form the BioHub represents.
 
-The wiki targets practitioners working at the bioregional scale who want to apply this framework in their own geographies. Four AI-assisted templates (the founding suite) translate the conceptual material into structured outputs a BioHub cohort can run.
-
-## Coordination surface
-
-- [Coordination Surface](https://wiki.bioconomy.earth/coordination-surface): What the BioConomy project offers, what it seeks, which financial-instrument classes are in scope, and how to make contact. The structured handshake page a peer BioHub wiki (or an AI agent scanning on its behalf) reads to determine whether coordination is worth exploring.
+The wiki targets practitioners working at the bioregional scale who want to apply this framework in their own geographies. Four AI-assisted templates (the founding suite) translate the conceptual material into structured outputs a BioHub cohort can run. The objective is to eqip any BioHub with the tools and skills they need to stimulate a BioConomy in their region by tapping into performance-based bonds that bootstrap a vibrant local economy.
 
 ## Orientation essays
 
@@ -27,6 +23,7 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 ## Concepts
 
 - [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling): The structure through which participants make binding forward promises that become the basis for coordination and exchange
+- [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds): The first capital-markets instrument through which a BioHub can convert restored catchment yield into a bankable revenue stream.
 - [Bioregional Economics](https://wiki.bioconomy.earth/concepts/bioregional-economics): The discipline of designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes
 - [Federated Cooperative Supply Chains](https://wiki.bioconomy.earth/concepts/federated-cooperative-supply-chains): How cooperatives within a bioregion retain and circulate value internally through federated structures
 - [Cosmo-Local Production](https://wiki.bioconomy.earth/concepts/cosmo-local-production): Share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally

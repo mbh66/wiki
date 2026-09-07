@@ -24,7 +24,7 @@ epistemic_status: documented-framework
 ---
 
 
-An analytical vocabulary that names four coordination forms (Tribal, Institutional, Market, and Emergent), built on [[ronfeldt-david|David Ronfeldt]]'s [[content/glossary/timn|TIMN]] model with the fourth form renamed from *Networks* to *Emergent*. For more detail, see [[time-framework|TIME Framework]]. *"It's about TIME."*
+An analytical vocabulary that names four coordination forms (Tribal, Institutional, Market, and Emergent), built on [[ronfeldt-david|David Ronfeldt]]'s [[glossary/timn|TIMN]] model with the fourth form renamed from *Networks* to *Emergent*. For more detail, see [[time-framework|TIME Framework]]. *"It's about TIME."*
 
 ## Related terms
 
