@@ -37,7 +37,7 @@ Representative entry points into the framework's intellectual lineage:
 ## Related pages
 
 - [[content/people/index|Wiki Home]]
-- [[sources/index|Sources]]
+- [[content/sources/index|Sources]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]
 

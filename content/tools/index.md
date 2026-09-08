@@ -14,6 +14,7 @@ Software and services that support the work of building a BioConomy. Each tool s
 ## Organized by BioStack layer
 
 - [[tools/bioplace/index|BioPlace Tools]]. Software and services for the parcel-scale human-land layer.
+- [[tools/ai/index|AI Tools]]. Skills and automations used in building and maintaining the wiki.
 - BioHub Tools (folder to be added when the first tool arrives).
 - BioRegion Tools (folder to be added when the first tool arrives).
 - BioConomy Tools (folder to be added when the first tool arrives).

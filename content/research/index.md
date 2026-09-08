@@ -33,7 +33,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 - [[content/research/index|Wiki Home]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]
-- [[sources/index|Sources]]
+- [[content/sources/index|Sources]]
 - [[templates/index|The Templates]]
 
 ## Sources

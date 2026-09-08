@@ -14,7 +14,7 @@ source_documents: []
 epistemic_status: documented-framework
 ---
 
-Public knowledge commons whose scope overlaps the BioConomy corpus. Each entry says what the wiki covers, who runs it, where its treatment goes deeper than this one, and where the intellectual traffic between the two projects flows.
+Open knowledge commons whose scope overlaps the BioConomy corpus. Each entry says what the wiki covers, who runs it, where its treatment goes deeper than this one, and where the intellectual traffic between the two projects flows.
 
 ## Overview
 
@@ -34,6 +34,6 @@ One page per external wiki. Each entry sits under a short slug (the wiki's commo
 ## Related pages
 
 - [[content/wiki-related/index|Wiki Home]]
-- [[sources/index|Sources]]
+- [[content/sources/index|Sources]]
 - [[glossary/index|Glossary]]
 - [[concepts/index|Concepts]]
