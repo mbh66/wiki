@@ -28,11 +28,12 @@ This wiki exists to help those navigating the liminal space between the Market a
 
 If you're new to the bioregional [[regenerative]] movement, read these orientation essays first. Together they quickly orientate you within the framework the wiki adopts.
 
-- [[evolution-of-coordination-nodes|Evolution of Human Coordination]]
+- [[evolution-of-coordination-nodes|Evolution of Human Coordination]] (The TIME model)
 - [[essays/what-is-a-biohub|What Is a BioHub?]]
 - [[essays/what-is-a-bioregion|What Is a BioRegion?]]
 - [[essays/what-is-a-bioconomy|What Is a BioConomy?]] (and how it differs from the [[economy|Economy]])
 - [[essays/from-bioregion-to-bioregion|From a bioregion to a BioRegion]] (and how to tell the difference)
+- [[consensus-is-not-the-bottleneck|Why the TIME is now]] (expanding on the current Copernican moment)
 
 ### 2. AI Quick-engage
 

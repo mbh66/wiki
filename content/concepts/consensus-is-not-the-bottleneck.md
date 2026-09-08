@@ -19,7 +19,7 @@ The analogy is instructive, but not in the way its authors intend.
 
 Copernicus published *De revolutionibus* in 1543. Kepler corrected the orbital geometry in 1609. Newton provided the gravitational mechanics in 1687. The consensus the authors invoke was not a single event. It was a sequence in which each correction exposed the limits of the previous one. Copernicus moved the center but kept circular orbits. Kepler supplied the ellipses but lacked a causal account. Newton closed the system with a physics that explained why the ellipses held. Consensus arrived not because people were finally persuaded by Copernicus, but because Newton's synthesis rendered the old model computationally unworkable.
 
-The lesson is not that paradigm shifts take a long time. It is that the shift completes when the new framework does something the old one cannot. The question for any economic alternative is not "how long until consensus?" but "what can this framework do that the incumbent cannot deliver?"
+> The lesson for today is that a paradigm shift clicks into place once the framework that replaces the old **accomplishes something useful to society in a way that the old paradigm could not**. The question for any economic alternative isn't "how long until consensus?" but "what can this framework do that the incumbent cannot deliver?"
 
 ## What MMT corrects, and where it stops
 
