@@ -6,7 +6,7 @@ The wiki is structured for both human readers and AI systems. Commercial large l
 
 The primary analytical framework is the TIME Framework (Tribal, Institutional, Market, Emergent), a four-form model of human coordination. The wiki applies this framework to bioregional economics, commons governance, cooperative supply chains, and the emerging coordination form the BioHub represents.
 
-The wiki targets practitioners working at the bioregional scale who want to apply this framework in their own geographies. Four AI-assisted templates (the founding suite) translate the conceptual material into structured outputs a BioHub cohort can run. The objective is to eqip any BioHub with the tools and skills they need to stimulate a BioConomy in their region by tapping into performance-based bonds that bootstrap a vibrant local economy.
+The wiki targets practitioners working at the bioregional scale who want to apply this framework in their own geographies. Four AI-assisted templates (the founding suite) translate the conceptual material into structured outputs a BioHub cohort can run. The objective is to equip any BioHub with the tools and skills they need to stimulate a BioConomy in their region by tapping into performance-based bonds that bootstrap a vibrant local economy.
 
 ## Orientation essays
 
@@ -14,52 +14,104 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 - [What Is a BioRegion](https://wiki.bioconomy.earth/essays/what-is-a-bioregion): The living landscape defined by watershed, soil, and ecological boundaries rather than political ones
 - [What Is a BioConomy](https://wiki.bioconomy.earth/essays/what-is-a-bioconomy): The coordination architecture for economies organized around bioregional retention of value, distinct from the extractive Economy
 - [From a Bioregion to a BioRegion](https://wiki.bioconomy.earth/essays/from-bioregion-to-bioregion): The transition from a geography that asks for funding (needy) to one that makes commitments to those who need its services (needed)
+- [From Geosphere to Noosphere](https://wiki.bioconomy.earth/essays/from-geosphere-to-noosphere): The arc from mineral substrate through living systems to coordinated planetary intelligence
+- [Two Systems, One Society](https://wiki.bioconomy.earth/essays/two-systems-one-society): How the Economy and the BioConomy coexist and relate in the same society
+- [How the BioConomy Coordinates](https://wiki.bioconomy.earth/essays/how-the-bioconomy-coordinates): The stigmergic coordination model that distinguishes the BioConomy from conventional economic organization
 
-## Essays
+## Practical essays
 
-- [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents to diagnose where your bioregion still runs on the Economy
+- [How to Build a BioHub Wiki](https://wiki.bioconomy.earth/essays/how-to-build-a-biohub-wiki): Layout, structure, and content standards for a BioHub's operational wiki
 - [How to Engage Your Bioregion](https://wiki.bioconomy.earth/essays/how-to-engage-your-bioregion): The bridge from orientation to the practical founding-suite templates
+- [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents
+- [PROUT and the BioConomy](https://wiki.bioconomy.earth/essays/prout-and-the-bioconomy): The relationship between Sarkar's Progressive Utilization Theory and the BioConomy framework
 
-## Concepts
+## Concepts (28 entries)
 
-- [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling): The structure through which participants make binding forward promises that become the basis for coordination and exchange
-- [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds): The first capital-markets instrument through which a BioHub can convert restored catchment yield into a bankable revenue stream.
-- [Bioregional Economics](https://wiki.bioconomy.earth/concepts/bioregional-economics): The discipline of designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes
-- [Federated Cooperative Supply Chains](https://wiki.bioconomy.earth/concepts/federated-cooperative-supply-chains): How cooperatives within a bioregion retain and circulate value internally through federated structures
-- [Cosmo-Local Production](https://wiki.bioconomy.earth/concepts/cosmo-local-production): Share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally
-- [Carbon-Silicon Partnership](https://wiki.bioconomy.earth/concepts/carbon-silicon-partnership): The complementary relationship between computational infrastructure (silicon intelligence) and lived, situated, relational knowledge (carbon intelligence)
-- [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes): The operational science of catchment restoration, soil hydrology, and sustained baseflow
+Core coordination and economic concepts. Key entries:
 
-## Frameworks
+- [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling): Binding forward promises as the basis for coordination and exchange
+- [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds): Capital-markets instrument converting restored catchment yield into bankable revenue
+- [Bioregional Economics](https://wiki.bioconomy.earth/concepts/bioregional-economics): Designing regenerative, cooperatively owned, place-based economies within carrying capacity
+- [Federated Cooperative Supply Chains](https://wiki.bioconomy.earth/concepts/federated-cooperative-supply-chains): How cooperatives retain and circulate value through federated structures
+- [Cosmo-Local Production](https://wiki.bioconomy.earth/concepts/cosmo-local-production): Share knowledge globally, produce regeneratively in place
+- [Carbon-Silicon Partnership](https://wiki.bioconomy.earth/concepts/carbon-silicon-partnership): Complementary relationship between computational and situated knowledge
+- [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes): Operational science of catchment restoration and soil hydrology
+- [The Coercion Continuum](https://wiki.bioconomy.earth/concepts/the-coercion-continuum): Five phases of monetary coercion from chattel slavery to property redefinition
+- [Transvestment](https://wiki.bioconomy.earth/concepts/transvestment): Value regime crossing between the Economy and the BioConomy
+- [Surveillance Capitalism](https://wiki.bioconomy.earth/concepts/surveillance-capitalism): Digital enclosure as the third future scenario
+- [Consensus Is Not the Bottleneck](https://wiki.bioconomy.earth/concepts/consensus-is-not-the-bottleneck): Why paradigm transitions do not require majority agreement
+- [Stigmergy](https://wiki.bioconomy.earth/concepts/stigmergy): Indirect coordination through environmental traces
+- [The BioPlace Layer](https://wiki.bioconomy.earth/concepts/the-bioplace-layer): The human-land coordination interface
+- [Bioregional Addressing](https://wiki.bioconomy.earth/concepts/bioregional-addressing): Addressing systems rooted in ecological rather than political boundaries
 
-- [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework): Tribal, Institutional, Market, and Emergent forms of human coordination, the primary analytical vocabulary throughout the wiki
-- [The Evolution of Coordination Nodes](https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes): The physical structures each coordination form has produced as it matured, from sacred site to bioregional hub
+Full concepts index: https://wiki.bioconomy.earth/concepts/
+
+## Frameworks (12 entries)
+
+- [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework): Tribal, Institutional, Market, and Emergent forms of human coordination
+- [The TIMN Framework](https://wiki.bioconomy.earth/frameworks/timn-framework): Ronfeldt's original formulation (Tribes, Institutions, Markets, Networks)
+- [The Emancipation Architecture](https://wiki.bioconomy.earth/frameworks/emancipation-architecture): Bioregional demurrage currency, RPI, commons trusts, and transvestment pathways
+- [The Three Futures](https://wiki.bioconomy.earth/frameworks/three-futures): Termination, Technofeudalism, or Transcendence
+- [Mycelial Value Creation](https://wiki.bioconomy.earth/frameworks/mycelial-value-creation): The economic logic of the emerging paradigm
+- [The Five Transvestment Pathways](https://wiki.bioconomy.earth/frameworks/five-transvestment-pathways): Pathways A through E for crossing between value regimes
+- [The Three-Feature Test](https://wiki.bioconomy.earth/frameworks/three-feature-test): Diagnostic for whether a project qualifies as a patron project
+- [The S-Curve Thesis](https://wiki.bioconomy.earth/frameworks/s-curve-thesis): Structural mapping of the deceleration phase
+- [The Three Lineages](https://wiki.bioconomy.earth/frameworks/three-lineages): Throughput, Retention, and Regenerative economic traditions
+- [The Evolution of Coordination Nodes](https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes): Physical structures each coordination form has produced
+- [The Physical Manifestations of TIMN](https://wiki.bioconomy.earth/frameworks/timn-physical-manifestations): Structural rhymes across the four coordination forms
+- [Farmer-Forger-Founder-Framer](https://wiki.bioconomy.earth/frameworks/farmer-forger-founder-framer): Four archetypes of production across the TIME sequence
 
 ## Templates
 
 - [BioHub Identity Template](https://wiki.bioconomy.earth/templates/biohub-identity-template): AI-assisted template for establishing a BioHub's identity and coordination mandate
-- [BioRegion Establishment Template](https://wiki.bioconomy.earth/templates/bioregion-establishment-template): AI-assisted template for defining and establishing a BioRegion's boundaries and governance
-- [BioConomy Value Proposition Template](https://wiki.bioconomy.earth/templates/value-proposition-template): AI-assisted template for articulating a BioRegion's value proposition to external partners
-- [Bankable Service Alignment Template](https://wiki.bioconomy.earth/templates/bankable-service-alignment-template): AI-assisted template for aligning bioregional services with fundable instruments
+- [BioRegion Establishment Template](https://wiki.bioconomy.earth/templates/bioregion-establishment-template): AI-assisted template for defining a BioRegion's boundaries and governance
+- [BioConomy Value Proposition Template](https://wiki.bioconomy.earth/templates/value-proposition-template): AI-assisted template for articulating a BioRegion's value proposition
+- [Bankable Service Alignment Template](https://wiki.bioconomy.earth/templates/bankable-service-alignment-template): AI-assisted template for aligning services with fundable instruments
 - [Running a Template](https://wiki.bioconomy.earth/templates/running-a-template): How to use the three-prompt sequence with a deep-research AI platform
-- [The Nine Outputs](https://wiki.bioconomy.earth/templates/the-nine-outputs): The deliverables the four-template founding suite produces
+- [The Nine Outputs](https://wiki.bioconomy.earth/templates/the-nine-outputs): The deliverables the founding suite produces
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
+
+## Research (10 briefs)
+
+- [The S-Curve Thesis and the Retention Counter-Tradition](https://wiki.bioconomy.earth/research/growth-economics): The foundational research brief (55KB)
+- [Historical Patronage and the Three-Feature Test](https://wiki.bioconomy.earth/research/historical-patronage-three-feature-test): Cross-cluster patronage analysis
+- [Ibrahim Abouleish and SEKEM](https://wiki.bioconomy.earth/research/abouleish-sekem): Case study assessed against the Three-Feature Test
+- [Pooling Across TIMN](https://wiki.bioconomy.earth/research/pooling-across-timn): Comparative analysis of pooling mechanisms across coordination forms
+- [Promise Theory Across TIMN](https://wiki.bioconomy.earth/research/promise-theory-across-timn): What has each TIMN form promised society?
+- [Bioprecipitation](https://wiki.bioconomy.earth/research/bioprecipitation): Vegetation-rainfall feedback and biological ice nucleation
+- [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain): Moravian pedagogical lineage from Comenius to George Schmidt
+- [Corporate Partnerships with Protected Area Management](https://wiki.bioconomy.earth/research/corporate-partnerships-protected-areas): TNFD-aligned partnership brief
+- [The BioHub as Where the Noosphere Lands](https://wiki.bioconomy.earth/research/biohub-noosphere-research-brief): Working memo on noosphere and BioHub convergence
+- [RESOLVE Ecoregions](https://wiki.bioconomy.earth/research/resolve-ecoregions): Spatial dataset underpinning BioHub addressing
 
 ## Glossary
 
-- [Glossary index](https://wiki.bioconomy.earth/glossary/): Short definitions of the specialized vocabulary used across the wiki, including BioHub, BioRegion, BioConomy, regenerative, extractive, commons, retention economics, and other coined or borrowed terms
+- [Glossary index](https://wiki.bioconomy.earth/glossary/): 118 controlled vocabulary entries used across both the wiki and BioHubs sites
 
 ## People
 
-- [People index](https://wiki.bioconomy.earth/people/): Thinkers, practitioners, and collaborators whose work feeds the BioConomy corpus
+- [People index](https://wiki.bioconomy.earth/people/): 80 entries across five categories: ancestors (23), theorists (37), practitioners (17), historical practitioners (2), indigenous (1)
 
 ## Sources
 
-- [Sources index](https://wiki.bioconomy.earth/sources/): Books, papers, and external works cited across the wiki, each with a note on what the work argues and why it matters here
+- [Sources index](https://wiki.bioconomy.earth/sources/): 83 annotated bibliography entries, each stating what the work argues and why it matters here
 
-## Research
+## Funding
 
-- [Research index](https://wiki.bioconomy.earth/research/): Briefs on specific questions from water governance to protective illiquidity, grounded in evidence and source material
+- [Funding sources](https://wiki.bioconomy.earth/funding/): Grant and funding instrument documentation (GEF SGP CSO Challenge Program)
+
+## Wiki Network
+
+- [Wiki Network index](https://wiki.bioconomy.earth/wiki-network/): Cross-references to active BioHub sites (at12-overberg, at12-vog)
+
+## Related Wikis
+
+- [Related wikis](https://wiki.bioconomy.earth/wiki-related/): Companion knowledge commons (biohubs.earth, bioregioning.earth, Omniharmonic wiki, P2P Foundation wiki)
+
+## Tools
+
+- [AI tooling](https://wiki.bioconomy.earth/tools/ai/): Wiki extraction guide for AI-assisted content creation
+- [BioPlace layer](https://wiki.bioconomy.earth/tools/bioplace/): BioPlace spatial tools documentation
 
 ## Optional
 

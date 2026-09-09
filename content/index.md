@@ -19,25 +19,31 @@ You're in the right place to explore the emerging, parallel BioConomy.
 
 # What's the Difference Between the Economy and the BioConomy?
 
+
 | The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place. | The conventional economy’s nesting is set by administrative boundaries and ownership. Tabled here for easy comparison. |
-| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| ![[bioconomy-holons.png]]                                                                                              | ![[economy-holons.png]]                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
 
-**In a highly functioning society, both BioConomy and Economy operate in parallel.**
+| ![[bioconomy-holons.png]] | ![[economy-holons.png]] |
+| ------------------------- | ----------------------- |
 
-| Tap on or hover over any term for a definition: | Hover over any term to explore the differences: |
-| ----------------------------------------------- | ----------------------------------------------- |
-| [[bioconomy\|BioConomy]]                        | [[global-economy\|Global Economy]]              |
-| [[bioregion\|BioRegion]]                        | [[nation-state\|Nation-state]]                  |
-| [[biohub\|BioHub]]                              | [[municipality\|Municipality]]                  |
-| [[bioplace\|BioPlace]]                          | [[company\|Company]]                            |
+> **In a highly functioning society, both BioConomy and Economy operate in parallel. The Economy coordinates the mechanical factory, and the BioConomy coordinates the ecological factory.**
+
+| Emergent                                                                                          | Familiar                                                                          |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Tap on or hover over any term for an explanation of how each nested layer supports the BioConomy: | Hover over any term to explore the key differences between BioConomy and Economy: |
+| [[bioconomy\|BioConomy]]                                                                          | [[global-economy\|Global Economy]]                                                |
+| [[bioregion\|BioRegion]]                                                                          | [[nation-state\|Nation-state]]                                                    |
+| [[biohub\|BioHub]]                                                                                | [[municipality\|Municipality]]                                                    |
+| [[bioplace\|BioPlace]]                                                                            | [[company\|Company]]                                                              |
+| [[factory-ecological\|Ecological Factory]]                                                        | [[factory-mechanical\|Mechanical Factory]]                                        |
 
 # Why Now?
 
-The way society has organized itself has evolved over time through four distinct forms. 
+The way society has organized itself has evolved over time through four distinct forms. In a highly functioning society, all four forms are represented, in balance:
 
-| ![[TIME-holons.png]] |
-| :------------------: |
+|        ![[TIME-holons.png]]         |
+| :---------------------------------: |
+| The Evolution of Human Coordination |
 
 Tap on or hover over each form for an explanation:
 
