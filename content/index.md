@@ -19,25 +19,32 @@ You're in the right place to explore the emerging, parallel BioConomy.
 
 # What's the Difference Between the Economy and the BioConomy?
 
+| The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place. | The conventional economy’s nesting is set by administrative boundaries and ownership. Tabled here for easy comparison. |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| ![[bioconomy-holons.png]]                                                                                              | ![[economy-holons.png]]                                                                                                |
 
-| The BioConomy is determined by ecology: watershed, soil type, and the culture found within the living system of place. <br><br>Tap on or hover over any term for a definition: | The conventional economy’s nesting is set by administrative boundaries and ownership. Tabled here for easy comparison. <br><br>Hover over any term to explore the differences: |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[bioconomy\|BioConomy]]                                                                                                                                                       | [[global-economy\|Global Economy]]                                                                                                                                             |
-| [[bioregion\|BioRegion]]                                                                                                                                                       | [[nation-state\|Nation-state]]                                                                                                                                                 |
-| [[biohub\|BioHub]]                                                                                                                                                             | [[municipality\|Municipality]]                                                                                                                                                 |
-| [[bioplace\|BioPlace]]                                                                                                                                                         | [[company\|Company]]                                                                                                                                                           |
-| ![[bioconomy-holons.png]]                                                                                                                                                      | ![[economy-holons.png]]                                                                                                                                                        |
+**In a highly functioning society, both BioConomy and Economy operate in parallel.**
+
+| Tap on or hover over any term for a definition: | Hover over any term to explore the differences: |
+| ----------------------------------------------- | ----------------------------------------------- |
+| [[bioconomy\|BioConomy]]                        | [[global-economy\|Global Economy]]              |
+| [[bioregion\|BioRegion]]                        | [[nation-state\|Nation-state]]                  |
+| [[biohub\|BioHub]]                              | [[municipality\|Municipality]]                  |
+| [[bioplace\|BioPlace]]                          | [[company\|Company]]                            |
 
 # Why Now?
 
-The way society has organized itself has evolved over time through four distinct forms. Tap on or hover over each form for an explanation:
+The way society has organized itself has evolved over time through four distinct forms. 
+
+| ![[TIME-holons.png]] |
+| :------------------: |
+
+Tap on or hover over each form for an explanation:
 
 - [[t-form-tribal|Tribes]]
 - [[i-form-institutional|Institutions]]
 - [[m-form-market|Markets]]
 - [[e-form-emergent|Emergent]]
-
-![[TIME-holons.png | center]]
 
 - In the **Economy**, under the dominant [[glossary/m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
 - In the **BioConomy**, under the [[glossary/e-form-emergent|Emergent form]], people relate to those same Institutions and Markets as **providers**, supplying the outcomes those Institutions and Markets need and cannot produce internally.
