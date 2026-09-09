@@ -1,0 +1,599 @@
+<title>Wiki & BioHubs Migration</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=DM+Mono:wght@400&display=swap');
+
+  :root {
+    --bg: #faf9f6;
+    --surface: #f0eee9;
+    --border: #ddd9d0;
+    --text: #2c2a25;
+    --text-secondary: #6b6760;
+    --accent: #4f6142;
+    --accent-light: rgba(79, 97, 66, 0.08);
+    --phase-wiki: #4f6142;
+    --phase-biohubs: #6e4e2e;
+    --phase-dns: #3d5a80;
+    --tag-bg: #e8e5de;
+    --tag-text: #55524b;
+    --check: #4f6142;
+    --font-body: 'DM Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'DM Mono', 'SF Mono', 'Consolas', monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1a1917;
+      --surface: #252420;
+      --border: #3a3832;
+      --text: #e0ddd6;
+      --text-secondary: #9b978e;
+      --accent: #7a9a6d;
+      --accent-light: rgba(122, 154, 109, 0.1);
+      --phase-wiki: #7a9a6d;
+      --phase-biohubs: #c2a676;
+      --phase-dns: #7da1c4;
+      --tag-bg: #2e2d28;
+      --tag-text: #b0ada5;
+      --check: #7a9a6d;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #1a1917;
+    --surface: #252420;
+    --border: #3a3832;
+    --text: #e0ddd6;
+    --text-secondary: #9b978e;
+    --accent: #7a9a6d;
+    --accent-light: rgba(122, 154, 109, 0.1);
+    --phase-wiki: #7a9a6d;
+    --phase-biohubs: #c2a676;
+    --phase-dns: #7da1c4;
+    --tag-bg: #2e2d28;
+    --tag-text: #b0ada5;
+    --check: #7a9a6d;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    line-height: 1.6;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 4rem;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin: 0 0 0.25rem;
+    text-wrap: balance;
+  }
+
+  .subtitle {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin: 0 0 2.5rem;
+  }
+
+  .current-state {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .current-state h2 {
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-secondary);
+    margin: 0 0 0.75rem;
+  }
+
+  .state-row {
+    display: flex;
+    gap: 0.5rem;
+    align-items: baseline;
+    padding: 0.3rem 0;
+    font-size: 0.9rem;
+  }
+
+  .state-label {
+    color: var(--text-secondary);
+    min-width: 5.5rem;
+    flex-shrink: 0;
+  }
+
+  .state-value {
+    font-family: var(--font-mono);
+    font-size: 0.82rem;
+    word-break: break-all;
+  }
+
+  .arrow-block {
+    text-align: center;
+    padding: 1rem 0;
+    color: var(--text-secondary);
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+
+  .target-state {
+    background: var(--accent-light);
+    border: 1px solid var(--accent);
+    border-radius: 6px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .target-state h2 {
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin: 0 0 0.75rem;
+  }
+
+  .phase {
+    margin-bottom: 2rem;
+  }
+
+  .phase-header {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 1rem;
+  }
+
+  .phase-number {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    font-weight: 400;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.15rem 0.5rem;
+    color: var(--text-secondary);
+  }
+
+  .phase-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .phase[data-phase="wiki"] .phase-title { color: var(--phase-wiki); }
+  .phase[data-phase="biohubs"] .phase-title { color: var(--phase-biohubs); }
+  .phase[data-phase="dns"] .phase-title { color: var(--phase-dns); }
+
+  .step-group {
+    margin-bottom: 1.25rem;
+  }
+
+  .step-group-label {
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-secondary);
+    margin-bottom: 0.4rem;
+  }
+
+  .step {
+    display: flex;
+    gap: 0.6rem;
+    padding: 0.4rem 0;
+    align-items: flex-start;
+    font-size: 0.9rem;
+  }
+
+  .step-check {
+    width: 16px;
+    height: 16px;
+    border: 1.5px solid var(--border);
+    border-radius: 3px;
+    flex-shrink: 0;
+    margin-top: 3px;
+  }
+
+  .step-text {
+    flex: 1;
+  }
+
+  .step-text code {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 0.1rem 0.35rem;
+  }
+
+  .step-detail {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    margin-top: 0.15rem;
+  }
+
+  .cmd-block {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 0.75rem 1rem;
+    margin: 0.5rem 0 0.75rem 1.5rem;
+    overflow-x: auto;
+  }
+
+  .cmd-block code {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    line-height: 1.7;
+    color: var(--text);
+    white-space: pre;
+  }
+
+  .note {
+    background: var(--accent-light);
+    border-left: 3px solid var(--accent);
+    padding: 0.75rem 1rem;
+    margin: 1rem 0;
+    font-size: 0.85rem;
+    border-radius: 0 4px 4px 0;
+  }
+
+  .note-label {
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .divider {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2rem 0;
+  }
+
+  .tag {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 500;
+    background: var(--tag-bg);
+    color: var(--tag-text);
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    vertical-align: middle;
+    margin-left: 0.25rem;
+  }
+</style>
+
+<h1>Wiki & BioHubs Migration Plan</h1>
+<p class="subtitle">Reorganizing the folder structure, GitHub repos, and DNS for wiki.bioconomy.earth and biohubs.bioconomy.earth</p>
+
+<div class="current-state">
+  <h2>Current State</h2>
+  <div class="state-row">
+    <span class="state-label">Folder</span>
+    <span class="state-value">/Documents/biohubs/</span>
+  </div>
+  <div class="state-row">
+    <span class="state-label">Content</span>
+    <span class="state-value">/Documents/biohubs/content/</span>
+  </div>
+  <div class="state-row">
+    <span class="state-label">Repo</span>
+    <span class="state-value">mbh66/biohubs (branch v5)</span>
+  </div>
+  <div class="state-row">
+    <span class="state-label">Domain</span>
+    <span class="state-value">wiki.bioconomy.earth</span>
+  </div>
+  <div class="state-row">
+    <span class="state-label">Obsidian</span>
+    <span class="state-value">.obsidian/ at project root</span>
+  </div>
+</div>
+
+<div class="arrow-block">↓</div>
+
+<div class="target-state">
+  <h2>Target State</h2>
+  <div class="state-row">
+    <span class="state-label">Wiki</span>
+    <span class="state-value">/Documents/wiki/ → mbh66/wiki → wiki.bioconomy.earth</span>
+  </div>
+  <div class="state-row">
+    <span class="state-label">BioHubs</span>
+    <span class="state-value">/Documents/biohubs/ → mbh66/biohubs → biohubs.bioconomy.earth</span>
+  </div>
+</div>
+
+<hr class="divider">
+
+<!-- PHASE 1 -->
+<div class="phase" data-phase="wiki">
+  <div class="phase-header">
+    <span class="phase-number">Phase 1</span>
+    <h3 class="phase-title">Rename the wiki repo and folder</h3>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">GitHub</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Rename repo <code>mbh66/biohubs</code> → <code>mbh66/wiki</code>
+        <div class="step-detail">Settings → General → Repository name. GitHub auto-redirects the old URL, so existing links and the upstream remote won't break immediately.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">Local</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Rename folder <code>/Documents/biohubs</code> → <code>/Documents/wiki</code>
+        <div class="step-detail">Close Obsidian first so it doesn't hold file locks.</div>
+      </div>
+    </div>
+    <div class="cmd-block"><code>mv ~/Documents/biohubs ~/Documents/wiki</code></div>
+
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Update the git remote origin URL
+      </div>
+    </div>
+    <div class="cmd-block"><code>cd ~/Documents/wiki
+git remote set-url origin https://github.com/mbh66/wiki.git</code></div>
+
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Reopen the vault in Obsidian from the new path
+        <div class="step-detail">Open Obsidian → "Open another vault" → Browse → select <code>/Documents/wiki</code>. All vault settings in <code>.obsidian/</code> travel with the folder, so nothing else changes.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">Quartz config</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        No changes needed
+        <div class="step-detail"><code>baseUrl</code> stays <code>wiki.bioconomy.earth</code>. The CNAME file stays as is. The GitHub Actions workflow stays as is. The only thing that changed is where the folder lives on your machine and what the repo is called on GitHub.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">Verify</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Push a small commit from the renamed folder and confirm the GitHub Actions build runs
+      </div>
+    </div>
+    <div class="cmd-block"><code>cd ~/Documents/wiki
+git add -A && git commit -m "test: verify build after repo rename"
+git push origin v5</code></div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Confirm <code>wiki.bioconomy.earth</code> still loads
+        <div class="step-detail">Check GitHub → repo Settings → Pages to verify the custom domain is still configured. The rename preserves Pages settings, but verify.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="note">
+    <div class="note-label">Sequence note</div>
+    <p style="margin:0.3rem 0 0">Complete Phase 1 and verify the wiki still builds before touching anything else. The rename frees up the name "biohubs" on GitHub for the new repo.</p>
+  </div>
+</div>
+
+<hr class="divider">
+
+<!-- PHASE 2 -->
+<div class="phase" data-phase="biohubs">
+  <div class="phase-header">
+    <span class="phase-number">Phase 2</span>
+    <h3 class="phase-title">Create the BioHubs site</h3>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">GitHub</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Create new repo <code>mbh66/biohubs</code> on GitHub
+        <div class="step-detail">Empty repo, no README. This reclaims the name freed by the rename in Phase 1.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">Local setup</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Initialize a fresh Quartz v5 project for biohubs
+      </div>
+    </div>
+    <div class="cmd-block"><code>cd ~/Documents
+npx @jackyzha0/create-quartz biohubs
+cd biohubs
+git remote add origin https://github.com/mbh66/biohubs.git</code></div>
+
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Create the CNAME file
+      </div>
+    </div>
+    <div class="cmd-block"><code>echo "biohubs.bioconomy.earth" > CNAME</code></div>
+
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Edit <code>quartz.config.yaml</code>
+        <div class="step-detail">Set <code>baseUrl: biohubs.bioconomy.earth</code>. Copy the theme colors from the wiki config if you want visual consistency, or set new ones for biohubs. Enable the <code>cname</code> plugin.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">Content structure</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Create the biohub content folders
+      </div>
+    </div>
+    <div class="cmd-block"><code>mkdir -p content/at12-vog content/at12-overberg</code></div>
+
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Create <code>content/index.md</code> as the biohubs landing page
+        <div class="step-detail">This becomes <code>biohubs.bioconomy.earth/</code>. An index listing all biohubs, with links to each.</div>
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Create <code>content/at12-vog/index.md</code> and <code>content/at12-overberg/index.md</code>
+        <div class="step-detail">These become <code>biohubs.bioconomy.earth/at12-vog</code> and <code>.../at12-overberg</code>. Each biohub folder will hold its own pages, and the index serves as the biohub's landing page.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">GitHub Actions</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Copy the deploy workflow from the wiki repo
+        <div class="step-detail">Copy <code>.github/workflows/deploy.yml</code> from <code>/Documents/wiki</code> into the new biohubs project. No changes needed; the workflow is generic Quartz.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">Governance <span class="tag">optional now</span></div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Add a <code>CODEOWNERS</code> file for per-biohub review gates
+      </div>
+    </div>
+    <div class="cmd-block"><code># .github/CODEOWNERS
+# Each biohub folder requires approval from its team
+/content/at12-vog/    @mbh66
+/content/at12-overberg/ @mbh66</code></div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Enable branch protection on the default branch
+        <div class="step-detail">Settings → Branches → Add rule for <code>v5</code>. Require pull request reviews, require CODEOWNERS review. This prevents direct pushes to other teams' folders.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">Obsidian</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Open <code>/Documents/biohubs</code> as a second vault in Obsidian
+        <div class="step-detail">You'll have two vaults: "wiki" and "biohubs". Wikilinks within each vault resolve normally. Cross-wiki links (biohub page linking to a wiki concept) won't resolve in Obsidian but will need to be full URLs in the published site.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">Deploy</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Push to GitHub and enable Pages
+      </div>
+    </div>
+    <div class="cmd-block"><code>cd ~/Documents/biohubs
+git add -A
+git commit -m "initial biohubs site with at12-vog and at12-overberg"
+git push -u origin v5</code></div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Enable GitHub Pages
+        <div class="step-detail">Settings → Pages → Source: GitHub Actions. The custom domain will be set in the DNS phase.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="divider">
+
+<!-- PHASE 3 -->
+<div class="phase" data-phase="dns">
+  <div class="phase-header">
+    <span class="phase-number">Phase 3</span>
+    <h3 class="phase-title">DNS and domain configuration</h3>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">At your DNS provider (for bioconomy.earth)</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Verify <code>wiki.bioconomy.earth</code> CNAME still points correctly
+        <div class="step-detail">Should be a CNAME to <code>mbh66.github.io</code>. The repo rename doesn't affect this because GitHub Pages resolves by the CNAME file inside the repo, not the repo name.</div>
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Add CNAME record: <code>biohubs.bioconomy.earth</code> → <code>mbh66.github.io</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="step-group">
+    <div class="step-group-label">GitHub Pages custom domain</div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        In the <code>mbh66/biohubs</code> repo, go to Settings → Pages → Custom domain
+        <div class="step-detail">Enter <code>biohubs.bioconomy.earth</code>. GitHub will verify the DNS and provision a TLS certificate. This can take a few minutes. Check "Enforce HTTPS".</div>
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-check"></div>
+      <div class="step-text">
+        Verify both sites load
+        <div class="step-detail"><code>wiki.bioconomy.earth</code> serves the wiki. <code>biohubs.bioconomy.earth</code> serves the biohubs landing. <code>biohubs.bioconomy.earth/at12-vog</code> loads the Valley of Grace biohub.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="note">
+    <div class="note-label">GitHub Pages constraint</div>
+    <p style="margin:0.3rem 0 0">GitHub allows one custom domain per repo. Two repos under the same GitHub account can each have their own custom subdomain of the same apex domain (<code>wiki.bioconomy.earth</code> and <code>biohubs.bioconomy.earth</code>) without conflict. Each repo's CNAME file tells GitHub which domain maps to which repo.</p>
+  </div>
+</div>
+
+<hr class="divider">
+
+<div style="color:var(--text-secondary); font-size:0.85rem; line-height:1.6;">
+  <strong style="color:var(--text);">Estimated time:</strong> 30 to 45 minutes if DNS propagation is fast. Phase 1 is 5 minutes of actual work. Phase 2 is 15 to 20 minutes. Phase 3 depends on your DNS provider's propagation speed.<br><br>
+  <strong style="color:var(--text);">Rollback:</strong> If anything breaks the wiki, renaming the repo back to "biohubs" and the folder back to <code>/Documents/biohubs</code> restores the original state completely. The new biohubs repo is independent and can be deleted without affecting the wiki.
+</div>

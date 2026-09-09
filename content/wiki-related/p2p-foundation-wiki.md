@@ -15,6 +15,8 @@ epistemic_status: "documented-fact"
 
 The knowledge commons of the Foundation for Peer-to-Peer Alternatives, documenting peer production, open cooperativism, and commons-based governance across two decades of movement work. The wiki's motto states its posture directly: *Together we know everything, together we have everything.* [[bauwens-michel|Michel Bauwens]] is the founding intellectual figure. An international network of researchers, activists, and practitioners maintains and extends it.
 
+[P2P Foundation Wiki](https://wiki.p2pfoundation.net/index.php/Main_Page)
+
 ## Editorial approach
 
 The P2P Foundation Wiki functions as a curated clearinghouse rather than an open free-for-all. Content passes through a network of contributors who track live initiatives, emerging theory, and historical precedent in the peer-to-peer and commons field. The framing is transitional: the wiki treats capitalist market dominance as one phase in a longer arc and positions commons-centric alternatives as the successor architecture. This is close enough to the BioConomy corpus's own posture that citations and cross-references travel easily between the two.

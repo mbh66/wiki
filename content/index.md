@@ -37,7 +37,7 @@ The way society has organized itself has evolved over time through four distinct
 - [[m-form-market|Markets]]
 - [[e-form-emergent|Emergent]]
 
-![[TIME-holons.png]]
+![[TIME-holons.png | center]]
 
 - In the **Economy**, under the dominant [[glossary/m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
 - In the **BioConomy**, under the [[glossary/e-form-emergent|Emergent form]], people relate to those same Institutions and Markets as **providers**, supplying the outcomes those Institutions and Markets need and cannot produce internally.

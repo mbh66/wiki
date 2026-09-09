@@ -22,10 +22,11 @@ The BioConomy corpus stands inside a network of aligned wikis. Several long-runn
 
 ## Currently listed
 
-- [[p2p-foundation-wiki|P2P Foundation Wiki]] (wiki.p2pfoundation.net). [[bauwens-michel|Michel Bauwens]]'s long-running knowledge commons for peer production, open cooperativism, commons governance, and cosmolocalism.
-- [[omniharmonic-wiki|Omniharmonic]] (wiki.omniharmonic.com). [[life-benjamin|Benjamin Life]]'s Quartz-based research wiki on bioregional governance, regenerative accelerationism, and the meta-crisis.
-- [[biohubs-earth|BioHubs.earth]] (biohubs.earth). Metabolic-led research publication and interactive directory documenting 152 BioHub initiatives across 44 countries.
-- [[bioregioning-earth|Bioregioning Earth]] (bioregioning.earth). Public knowledge base mapping 110 bioregional actors and initiatives across ten thematic areas.
+- **[BioConomy Discussions](https://github.com/mbh66/wiki/discussions)**. The place to ask questions, suggest corrections, and engage with other BioNeers.
+- **[[p2p-foundation-wiki|P2P Foundation Wiki]]** ([wiki.p2pfoundation.net](https://wiki.p2pfoundation.net/index.php/Main_Page)). [[bauwens-michel|Michel Bauwens]]'s long-running knowledge commons for peer production, open cooperativism, commons governance, and cosmolocalism.
+- **[[omniharmonic-wiki|Omniharmonic]]** ([wiki.omniharmonic.com](https://wiki.omniharmonic.com)). [[life-benjamin|Benjamin Life]]'s Quartz-based research wiki on bioregional governance, regenerative accelerationism, and the meta-crisis.
+- **[[biohubs-earth|BioHubs.earth]]** ([biohubs.earth](https://biohubs.earth)). Metabolic-led research publication and interactive directory documenting 152 BioHub initiatives across 44 countries.
+- **[[bioregioning-earth|Bioregioning Earth]]** ([bioregioning.earth](https://bioregioning.earth)). Public knowledge base mapping 110 bioregional actors and initiatives across ten thematic areas.
 
 ## How the folder is organized
 
