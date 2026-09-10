@@ -77,3 +77,29 @@ The BioConomy metabolizes several older lineages. David Ronfeldt's [[time-framew
 PROUT sits alongside these lineages as a serious body of thought that reached, well before the BioConomy synthesis was formed, conclusions the BioConomy also holds: the stewardship principle, the cooperative form, the localized production commitment, the refusal of the capitalism/communism binary. On these throughlines the debt is direct and it deserves to be named.
 
 The departures matter because they specify what the BioConomy adds that Sarkar's text does not contain. The (+T+I+M)^+N Test names PROUT as a +N overlay on an intact +M substrate. The Cheapest Available Behavior Thesis reads PROUT's reliance on ethically formed leaders as a reproducible failure mode. The evolutionary framing shifts the whole project from moral prescription to phase-change description. 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/prout-and-the-bioconomy/",
+  "headline": "PROUT and the BioConomy",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-09-05",
+  "dateModified": "2026-09-05",
+  "keywords": [
+    "essay",
+    "source-lineage",
+    "prout",
+    "emancipation-architecture",
+    "substrate-hypothesis"
+  ]
+}
+</script>

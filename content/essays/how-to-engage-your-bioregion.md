@@ -98,3 +98,28 @@ Where a BioHub has run the four templates and produced its own outputs, the outp
 ## Provenance
 
 Written as the bridge essay between the orientation piece (*What Is a BioHub*) and the templates folder. Draws on the four template documents in the VoG as Patron Project Prototype knowledge base for the substance of what each template does and requires. The distinction between what is [[glossary/needed|needed]] and what is not needed before starting is drawn from the templates' own "When to Run This Template" sections. The contribution channel named at the end reflects the current published wiki architecture; the wiki editors may direct contributions elsewhere as the project's governance develops.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/how-to-engage-your-bioregion/",
+  "headline": "How to Engage Your Bioregion",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-08-26",
+  "dateModified": "2026-08-26",
+  "keywords": [
+    "essay",
+    "orientation",
+    "biohub",
+    "founding-suite"
+  ]
+}
+</script>

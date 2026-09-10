@@ -36,3 +36,17 @@ Clay belongs on this list because his American System was the first attempt to i
 ## Provenance
 
 Extracted from Section 2, Cluster A of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/clay-henry/",
+  "name": "Henry Clay (1777-1852)",
+  "description": "Kentucky senator, Speaker of the House, Secretary of State, and three-time presidential candidate. Clay articulated the American System after the War of 1812, integrating three pillars into a coherent developmental program: protective tariffs (notably the Tariff of 1816 and the Tariff of 1824), a national bank (the Second Bank of the United States), and federally funded internal improvements including roads and canals. Abraham Lincoln later described himself as \"an old Henry Clay tariff whig.\"",
+  "alternateName": [
+    "american system",
+    "great compromiser"
+  ]
+}
+</script>

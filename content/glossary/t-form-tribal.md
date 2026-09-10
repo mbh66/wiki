@@ -51,3 +51,25 @@ The T form coordinates through identity; the [[i-form-institutional|I form]] coo
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, coordination node, BioStack position, and contrast with adjacent forms added 7 September 2026, drawing on the Coordination Node entry, the BioStack framing, and the TIME framework glossary entries.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-form-tribal/",
+  "name": "T form (Tribal)",
+  "description": "Coordination through kinship, identity, belonging, and reciprocal obligation, where access to resources follows from membership in a group.",
+  "termCode": "t-form-tribal",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/t-form-tribal/",
+  "alternateName": [
+    "T-form",
+    "Tribal form",
+    "tribal form"
+  ]
+}
+</script>

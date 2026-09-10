@@ -77,3 +77,29 @@ The coordination work is reading peer wikis (the [[wiki-network/index|wiki netwo
 ## Provenance
 
 Written 4 September 2026 as the grounding essay that explains the BioConomy's coordination model to a reader arriving from the orientation essays and asking how the pieces fit. It names stigmergy as the mechanism the design has been assuming, positions it as the coordination technology of the [[glossary/e-form-emergent|Emergent form]] alongside price signals in the M form and hierarchy in the I form, and treats the coordination-surface file at each BioHub wiki as the specific stigmergic substrate the network publishes. Draws on Francis Heylighen's 2016 argument that stigmergy is the coordination concept the modern moment most requires.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/how-the-bioconomy-coordinates/",
+  "headline": "How the BioConomy Coordinates",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-09-04",
+  "dateModified": "2026-09-04",
+  "keywords": [
+    "essay",
+    "orientation",
+    "coordination",
+    "e-form",
+    "stigmergy"
+  ]
+}
+</script>

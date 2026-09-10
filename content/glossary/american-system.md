@@ -38,3 +38,24 @@ The American System is a growth-phase framework, nationalist and industrial in i
 ## Provenance
 
 Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/american-system/",
+  "name": "American System",
+  "description": "The integrated developmental program articulated by Henry Clay after the War of 1812 and implemented most fully by Abraham Lincoln during the Civil War. Three pillars: protective tariffs, a national bank, and federally funded internal improvements.",
+  "termCode": "american-system",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/american-system/",
+  "alternateName": [
+    "clay's american system",
+    "lincoln program"
+  ]
+}
+</script>

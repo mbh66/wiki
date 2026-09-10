@@ -28,3 +28,26 @@ Heylighen's second paper in the same volume (*Stigmergy as a universal coordinat
 ## Provenance
 
 Source page created September 2026 as part of the Stigmergy addition.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/heylighen-stigmergy-universal-mechanism/",
+  "name": "Stigmergy as a universal coordination mechanism",
+  "author": {
+    "@type": "Person",
+    "name": "Francis Heylighen"
+  },
+  "datePublished": "2016",
+  "sameAs": "https://doi.org/10.1016/j.cogsys.2015.12.002",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The paper in which Heylighen lifted stigmergy out of its entomological setting and set it out as a general theory of self-organized coordination across biological, cognitive, and social systems. Heylighen defined the mechanism by its components (agents, actions, environment, marks, conditions for response), distinguished quantitative from qualitative variants, and showed how the same pattern that builds a termite mound underwrites Wikipedia, open-source software, scientific collaboration, and market price signals."
+  }
+}
+</script>

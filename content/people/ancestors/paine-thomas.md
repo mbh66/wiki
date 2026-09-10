@@ -55,3 +55,18 @@ Paine's later career illustrates the limits of the story he built. _The Age of R
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the collective-story lineage supporting the MMT/S-curve research brief preparation.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/paine-thomas/",
+  "name": "Thomas Paine (1737-1809)",
+  "description": "English-born political theorist, pamphleteer, and revolutionary, whose _Common Sense_ (January 1776) supplied the collective story that made American independence thinkable and whose subsequent works (_Rights of Man_, 1791; _The Age of Reason_, 1794; _Agrarian Justice_, 1797) extended the argument to republican government, religious liberty, and the redistribution of landed wealth. Paine arrived in Philadelphia in late 1774 with a letter of introduction from Benjamin Franklin. Within fourteen months he had written the most influential political pamphlet in American history.",
+  "alternateName": [
+    "common sense paine",
+    "rights of man",
+    "agrarian justice"
+  ]
+}
+</script>

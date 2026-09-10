@@ -24,3 +24,31 @@ The 2023 update to the planetary boundaries framework originally proposed by Roc
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[richardson-katherine|Katherine Richardson]]
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/richardson-planetary-boundaries/",
+  "name": "Earth beyond six of nine planetary boundaries",
+  "author": {
+    "@type": "Person",
+    "name": "Katherine Richardson, Will Steffen, Wolfgang Lucht, Jørgen Bendtsen, Sarah E. Cornell, Jonathan F. Donges, Markus Drüke, Ingo Fetzer, Govindasamy Bala, Werner von Bloh, Georg Feulner, Stephanie Fiedler, Dieter Gerten, Tom Gleeson, Matthias Hofmann, Willem Huiskamp, Matti Kummu, Chinchu Mohan, David Nogués-Bravo, Stefan Petri, Miina Porkka, Stefan Rahmstorf, Sibyll Schaphoff, Kirsten Thonicke, Arne Tobian, Vili Virkki, Lan Wang-Erlandsson, Lisa Weber, Johan Rockström"
+  },
+  "datePublished": "2023",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Science Advances"
+  },
+  "sameAs": "https://doi.org/10.1126/sciadv.adh2458",
+  "url": "https://www.science.org/doi/10.1126/sciadv.adh2458",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The 2023 update to the planetary boundaries framework originally proposed by Rockström and colleagues in 2009 and extended by Steffen et al. in 2015. The paper finds that six of the nine boundaries are now transgressed: climate change, biosphere integrity, land-system change, freshwater change, biogeochemical (nitrogen and phosphorus) flows, and novel entities. The paper's own summary: this planetary boundaries framework update finds that six of the nine boundaries are transgressed, suggesting that Earth is now well outside the safe operating space for humanity."
+  }
+}
+</script>

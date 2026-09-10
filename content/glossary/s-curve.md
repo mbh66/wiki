@@ -43,3 +43,25 @@ Applied to human civilization, the Logistic Growth Principle frames the industri
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/s-curve/",
+  "name": "S-Curve (Logistic Growth Principle)",
+  "description": "A mathematical pattern first described by Pierre-François Verhulst in 1838 to model population growth in a bounded environment. Plotted over time, the curve traces an elongated S: slow initial growth, a steep middle phase of rapid expansion, and a gradual leveling as the system approaches the carrying capacity of its context.",
+  "termCode": "s-curve",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/s-curve/",
+  "alternateName": [
+    "sigmoid",
+    "ontogenetic",
+    "logistic growth"
+  ]
+}
+</script>

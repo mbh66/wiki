@@ -299,3 +299,29 @@ Revised 3 September 2026. The Getting Started section now includes a subdomain n
 Revised 5 September 2026. Added an Entities folder to the wiki layout, described in the What the Wiki Publishes and Populating the Wiki sections and shown in the folder structure. Added `entity` to the shared page-type vocabulary. Rationale: BioHubs operate inside institutional environments where municipalities, government departments, church bodies, consultancies, and community organizations are named repeatedly across the historical record and the current coordination context. A factual reference page for each such party lets a human coordinator and a peer BioHub's AI agent disambiguate acronyms and trace institutional continuity without having to reconstruct context from prose. Added a second Entities paragraph specifying the line between Entities and Partners as physical domicile inside the BioRegion, with the entities folder holding pages for parties domiciled inside and the partners folder holding pages for parties domiciled elsewhere.
 
 Revised 4 September 2026. Removed ISO country codes from the subdomain naming convention. The scheme is now `{bioregion}-{slug}.bioconomy.earth`. Rationale: country codes belong to the addressing layer of the Economy. The BioConomy anchors its addressing to the biosphere. Added a paragraph explaining the choice and linking to the new [[concepts/bioregional-addressing|Bioregional Addressing]] concept page. Updated examples throughout to the country-free form (`at12-vog`, `at10-laikipia`, `nt1-xingu`). The Cape Shrublands bioregion example was updated to `at12` to match the codes in use across the current wiki network.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/how-to-build-a-biohub-wiki/",
+  "headline": "How to Build a BioHub Wiki",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-08-30",
+  "dateModified": "2026-09-05",
+  "keywords": [
+    "essay",
+    "orientation",
+    "biohub",
+    "coordination",
+    "wiki"
+  ]
+}
+</script>

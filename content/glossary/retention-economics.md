@@ -43,3 +43,24 @@ Retention Economics is a growth-phase framework with a critical distinction from
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/retention-economics/",
+  "name": "Retention Economics",
+  "description": "The economic framework organized around keeping productive capacity, capital, skills, and value within a defined community or nation. Value is measured by what stays. Core mechanisms include protective tariffs, state investment in domestic manufacturing and infrastructure, publicly funded education oriented toward productive capacity, and nationally directed credit.",
+  "termCode": "retention-economics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/retention-economics/",
+  "alternateName": [
+    "retention",
+    "value retention"
+  ]
+}
+</script>

@@ -122,3 +122,23 @@ The loophole closure is a design feature, not a punishment. It is what makes the
 ## Provenance
 
 Extracted from *EA Patron Project Criteria.md*, with the five pathways stated in the same document. Pathway-specific precedents (CLT, WIR, Patagonia Purpose Trust, Wörgl, Sarafu) are drawn from the sources cited on each pathway. The sequencing recommendation and the reverse-transvestment loophole treatment are synthesized from Criteria plus cross-references in Movement III.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/five-transvestment-pathways/",
+  "name": "The Five Transvestment Pathways",
+  "description": "The Five Transvestment Pathways are the specific mechanisms by which a wealth holder's assets migrate from an incumbent regime of value into the emerging commons-based order. Each pathway serves a distinct patron profile and uses a distinct combination of legal, financial, and monetary instruments.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-08-25",
+  "creativeWorkStatus": "documented-framework",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

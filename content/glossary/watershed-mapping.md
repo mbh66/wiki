@@ -21,3 +21,20 @@ Tools for delineating the drainage boundary, stream network, and land cover of t
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Resource`. Promoted to the glossary during extraction (see the extraction report for the rationale). First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/watershed-mapping/",
+  "name": "Watershed Mapping",
+  "description": "Tools for delineating the drainage boundary, stream network, and land cover of the catchment a BioHub coordinates around, using digital elevation models and geographic information systems.",
+  "termCode": "watershed-mapping",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/watershed-mapping/"
+}
+</script>

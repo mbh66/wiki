@@ -41,3 +41,17 @@ His MycoFi framework draws a structural analogy between fungal mycelial networks
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, MycoFi framework, digital library PDF, and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/emmett-jeff/",
+  "name": "Jeff Emmett",
+  "description": "Canadian token engineering researcher who coined the term P4P (Peer FOR Peer), naming the transition from peer-to-peer digital exchange to place-based, community-to-community coordination. Creator of the MycoFi framework, which applies mycelial network logic to decentralized finance and community coordination.",
+  "alternateName": [
+    "Jeff Emmett",
+    "Emmett"
+  ]
+}
+</script>

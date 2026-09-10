@@ -33,3 +33,25 @@ The Momentous Leap is not one more step on a developmental ladder. It is a categ
 ## Sources
 
 - [[sources/graves-human-nature-prepares|Graves, C.W. (1974). Human Nature Prepares for a Momentous Leap]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/momentous-leap/",
+  "name": "Momentous Leap",
+  "description": "Clare Graves's term for the threshold between First Tier and Second Tier consciousness: \"the most difficult, but at the same time the most exciting transition the human race has faced to date.\"",
+  "termCode": "momentous-leap",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/momentous-leap/",
+  "alternateName": [
+    "the momentous leap",
+    "Graves's leap",
+    "the leap"
+  ]
+}
+</script>

@@ -104,3 +104,23 @@ The Valley of Grace prototype at Genadendal (in South Africa's Western Cape, a b
 ## Provenance
 
 Extracted from *III Emancipation Architecture* (Movement III, Michael Haupt, March 2026). The Movement III document is dense and technical (approximately 280KB); this page provides an overview and directs readers to the source for the full argument and appendices. The six structural inversions and the constellational architecture are the EA's own synthesis; the individual legal, financial, and governance mechanics are drawn from the sources cited above and from the appendices of Movement III itself. The unresolved-parameter section is presented as such, per the EA's own honest treatment in the source.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/emancipation-architecture/",
+  "name": "The Emancipation Architecture",
+  "description": "The Emancipation Architecture (EA) is the operative engineering design for Mycelial Patronage: the first monetary design in post-Neolithic history explicitly constructed to serve freedom rather than extraction. It is Movement III of the three-movement architecture, and it answers the question that Movements I and II leave open: what must be built?",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-08-25",
+  "creativeWorkStatus": "documented-framework",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

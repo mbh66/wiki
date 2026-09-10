@@ -19,3 +19,13 @@ Author of Sacred Economics, which examines the mythic layer underlying the mark
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/eisenstein-charles/",
+  "name": "Charles Eisenstein",
+  "description": "Author of Sacred Economics, which examines the mythic layer underlying the market economy and the argument that money can be redesigned to circulate rather than accumulate."
+}
+</script>

@@ -55,3 +55,25 @@ A compnay abstracts from place. A multinational can move production to wherever 
 ## Provenance
 
 Written 7 September 2026 as a glossary entry mapping the conventional economy's ground-level unit to the BioConomy's equivalent ([[bioplace|BioPlace]]). Structural inference drawn from the Economy versus BioConomy concept page, the Two Machines entry, and the BioStack framing.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/company/",
+  "name": "Company",
+  "description": "The smallest unit of productive activity in the conventional Economy. A company or firm is a site of production defined by ownership and legal incorporation, organized to generate financial return for its shareholders.",
+  "termCode": "company",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/company/",
+  "alternateName": [
+    "shareholder corporation",
+    "the firm",
+    "business-as-usual"
+  ]
+}
+</script>

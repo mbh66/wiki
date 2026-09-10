@@ -21,3 +21,30 @@ Raworth's framework for an economics bounded above by the ecological ceiling (th
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[raworth-kate|Kate Raworth]]
 - [[glossary/planetary-boundaries|Planetary Boundaries (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/raworth-doughnut-economics/",
+  "name": "Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist",
+  "author": {
+    "@type": "Person",
+    "name": "Kate Raworth"
+  },
+  "datePublished": "2017",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Random House Business"
+  },
+  "url": "https://www.kateraworth.com/doughnut/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Raworth's framework for an economics bounded above by the ecological ceiling (the planetary boundaries beyond which the economy must not push) and below by the social foundation (the minimum standard of living below which no one should fall). The book supplies the operating-space frame that bioregional economics inherits and makes operational at the scale of a specific watershed, community, food system, and energy budget."
+  }
+}
+</script>

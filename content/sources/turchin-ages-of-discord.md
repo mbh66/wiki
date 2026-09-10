@@ -25,3 +25,29 @@ Full-length application of structural-demographic theory to American history. Pr
 
 - [[frameworks/three-futures|The Three Futures]]
 - [[turchin-peter|Peter Turchin]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/turchin-ages-of-discord/",
+  "name": "Ages of Discord: A Structural-Demographic Analysis of American History",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Turchin"
+  },
+  "datePublished": "2016",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Beresta Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Full-length application of structural-demographic theory to American history. Predicts the instability of the 2020s based on elite overproduction, popular immiseration, and state fiscal distress. Extends Turchin's earlier *Historical Dynamics* framework and confirms the 2010 *Nature* prediction. For the Three Futures framework, the book provides the case-study application of the structural-demographic mechanism to the specific civilization the framework's readers are most likely to be operating within."
+  }
+}
+</script>

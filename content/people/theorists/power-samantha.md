@@ -36,3 +36,16 @@ Power's background spans the World Bank, Johns Hopkins SAIS, and extensive field
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Finance for Gaia, BFF launch, digital library PDF added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/power-samantha/",
+  "name": "Samantha Power",
+  "description": "American nature finance specialist and ecological economist. Founder and Principal Consultant of Finance for Gaia, based in Oakland, California. Lead architect (with Leon Seefeld and colleagues at Dark Matter Labs and the Buckminster Fuller Institute) of the Bioregional Financing Facilities framework.",
+  "alternateName": [
+    "Samantha Power"
+  ]
+}
+</script>

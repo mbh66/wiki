@@ -75,3 +75,25 @@ The E form also recovers something the [[t-form-tribal|T form]] carried and the 
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, coordination node, BioStack position, and contrast with adjacent forms added 7 September 2026, drawing on the Coordination Node entry, the BioStack framing, the Economy/BioConomy glossary entries, and the Economy versus BioConomy concept page. The Compacts section was preserved from the original entry.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/e-form-emergent/",
+  "name": "E form (Emergent)",
+  "description": "Coordination through pooled commitments toward outcomes no single actor can produce alone, organized at the scale of the watershed or bioregion.",
+  "termCode": "e-form-emergent",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/e-form-emergent/",
+  "alternateName": [
+    "E-form",
+    "Emergent form",
+    "emergent form"
+  ]
+}
+</script>

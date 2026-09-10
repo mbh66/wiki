@@ -76,3 +76,17 @@ The [[glossary/bioconomy|BioConomy]] project's intellectual life was shaped in p
 ## Provenance
 
 Extracted from references in *I The Three Futures* (Emancipation Architecture Movement I) and cross-references across the BioConomy project knowledge base. Enriched August 27, 2026 from the Roam Research graph (MichaelHaupt): full dates, extended biography, quotes, additional works, digital library PDFs and epub, and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/sahtouris-elisabet/",
+  "name": "Elisabet Sahtouris (1936-2024)",
+  "description": "Greek-American evolutionary biologist and futurist (January 23, 1936 - December 1, 2024) whose work extends Lynn Margulis's endosymbiotic biology into a general principle of civilizational maturation: that mature ecosystems, and by extension mature societies, are characterized by mutual aid and cooperative negotiation rather than by hostile competition.",
+  "alternateName": [
+    "Elisabet Sahtouris",
+    "Sahtouris"
+  ]
+}
+</script>

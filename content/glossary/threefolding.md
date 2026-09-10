@@ -26,3 +26,25 @@ Rudolf Steiner's structural separation of society into three spheres, each with 
 ## Sources
 
 - Steiner, R. (1919). *[[sources/steiner-threefold-commonwealth|The Threefold Commonwealth]]*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/threefolding/",
+  "name": "Threefolding",
+  "description": "Rudolf Steiner's structural separation of society into three spheres, each with its own operating principle. Cultural life is governed by freedom. Rights life is governed by equality. Economic life is governed by fraternity. The three principles are structurally incompatible when applied universally to a single unified system. Only institutional differentiation, each sphere operating according to its own logic while cooperating with the others, makes all three simultaneously realizable. Steiner identified *liberté, égalité, fraternité* as the unconscious prophecy of what conscious threefolding would achieve.",
+  "termCode": "threefolding",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/threefolding/",
+  "alternateName": [
+    "threefolding",
+    "threefold social order",
+    "Dreigliederung"
+  ]
+}
+</script>

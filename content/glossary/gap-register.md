@@ -36,3 +36,23 @@ A backlog holds a queue of work to be done. The Gap Register holds a structured 
 ## Provenance
 
 Extracted from the *BioConomy Value Proposition Template* v0.2 and the *Bankable Service Alignment Template* v0.1 in the VoG as Patron Project Prototype knowledge base, where the Gap Register is specified in the Prompt 2 output structure of each template.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/gap-register/",
+  "name": "Gap Register",
+  "description": "The structured list of build-outs and research tasks a BioHub must complete to reach readiness for a specific tender or a specific financial instrument. Produced by the Prompt 2 evidence pack in the BioConomy Value Proposition Template and the Bankable Service Alignment Template.",
+  "termCode": "gap-register",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/gap-register/",
+  "alternateName": [
+    "gap inventory"
+  ]
+}
+</script>

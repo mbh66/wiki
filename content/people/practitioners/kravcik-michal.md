@@ -50,3 +50,18 @@ His work connects to the [[glossary/biotic-pump|Biotic Pump]] concept and provid
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Goldman Prize, Slovak program, digital library PDFs, and cross-references added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/kravcik-michal/",
+  "name": "Michal Kravcik",
+  "description": "Slovak hydrologist, Co-Founder and Initiative Lead at WATERHOLISTIC, and winner of the 1999 Goldman Environmental Prize. Kravcik developed the New Water Paradigm and led one of the largest community-scale water retention programs in Europe.",
+  "alternateName": [
+    "Michal Kravčík",
+    "Kravcik",
+    "Kravčík"
+  ]
+}
+</script>

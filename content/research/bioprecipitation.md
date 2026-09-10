@@ -118,3 +118,19 @@ Three implications for any bioregional restoration project.
 ## Provenance
 
 Extracted from Section 4 of *Water_as_Compound_TIME_Asset.md* in the [[glossary/bioconomy|BioConomy]] project. The critical correction for the winter-rainfall Cape context is preserved and is the version of the bioprecipitation claim this wiki treats as canonical. The general mechanism (biological ice nucleation seeding precipitation) is documented across the peer-reviewed literature; its regional applicability is what varies. Any bioregional project outside the fynbos biome should assess the local evidence base before relying on either the bioprecipitation mechanism or the Millán two-legged thesis in its own restoration hydrology claims.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/bioprecipitation/",
+  "headline": "Bioprecipitation",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-08-25",
+  "dateModified": "2026-08-27",
+  "creativeWorkStatus": "documented-fact"
+}
+</script>

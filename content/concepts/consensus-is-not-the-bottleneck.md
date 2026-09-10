@@ -107,3 +107,25 @@ The BioConomy's response to "ahead is a long uphill battle to consensus" is: the
 ## Provenance
 
 Drafted for the BioConomy wiki, September 2026, in response to "The Copernican Moment" (Our Public Monopoly, 4 September 2026). The critique of the consensus assumption is a wiki-native contribution. The MMT operational descriptions draw on the essay's own exposition; the BioConomy counter-argument draws on the Emancipation Architecture, the TIME framework, and the FR31PB deal structure as documented elsewhere in this wiki. The structural prematurity and Alpha Window readings are wiki-native applications of those frameworks and should not be attributed to the essay's authors.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/consensus-is-not-the-bottleneck/",
+  "name": "Consensus Is Not the Bottleneck",
+  "description": "The assumption that a new economic paradigm must first win intellectual consensus before it can operate is itself a holdover from the paradigm it claims to replace. The BioConomy does not wait for consensus. It responds to market signals that already exist.",
+  "termCode": "consensus-is-not-the-bottleneck",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/consensus-is-not-the-bottleneck/",
+  "alternateName": [
+    "beyond consensus",
+    "Copernican fallacy",
+    "paradigm shift timing"
+  ]
+}
+</script>

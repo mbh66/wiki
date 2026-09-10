@@ -46,3 +46,20 @@ An analytical vocabulary that names four coordination forms (Tribal, Institution
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Research, Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/time/",
+  "name": "TIME and TIMN",
+  "description": "An analytical vocabulary that names four coordination forms (Tribal, Institutional, Market, and Emergent), built on David Ronfeldt's TIMN model with the fourth form renamed from *Networks* to *Emergent*. For more detail, see TIME Framework. *\"It's about TIME.\"*",
+  "termCode": "time",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/time/"
+}
+</script>

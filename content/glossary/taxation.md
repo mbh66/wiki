@@ -45,3 +45,25 @@ For the BioConomy, taxation is the benchmark any alternative demand driver must 
 - Wray, L.R. (1998). *Understanding Modern Money*; (2015). *Modern Money Theory: A Primer*, 2nd ed.
 - Kelton, S. (2020). *The Deficit Myth*.
 - Barnes, L. and Hicks, T. (2022). "Are Policy Analogies Persuasive?" *British Journal of Political Science* 52(3).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/taxation/",
+  "name": "Taxation",
+  "description": "The primary demand driver for fiat currency. In the orthodox telling, taxation is how the state collects revenue it then spends. MMT reverses the sequence: for a government issuing its own free-floating, non-convertible currency, the state spends first and taxes afterward. Taxation removes currency from circulation; it does not supply the state with funds it lacked.",
+  "termCode": "taxation",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/taxation/",
+  "alternateName": [
+    "taxation",
+    "tax obligation",
+    "taxes fund government"
+  ]
+}
+</script>

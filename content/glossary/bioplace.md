@@ -63,3 +63,20 @@ The +E transition does not reform the firm. It substitutes a different form at t
 ## Provenance
 
 Coined September 2026 as an addition to the BioStack framing. Contrast with the Firm and TIME framework analysis added 7 September 2026, drawing on the Economy versus BioConomy concept page, the Two Machines entry, and the TIME framework glossary entries.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/bioplace/",
+  "name": "BioPlace",
+  "description": "A BioPlace is the smallest scale of the BioStack. It is a parcel of land worked in direct relationship with the living system it belongs to, where human presence shapes activity to the rhythms of the specific ground.",
+  "termCode": "bioplace",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/bioplace/"
+}
+</script>

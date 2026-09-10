@@ -31,3 +31,24 @@ The inanimate physical Earth: rock, water, air, the mineral substrate on which t
 ## Provenance
 
 Created 30 August 2026 as a glossary companion to the essay *From Geosphere to Noosphere*. The term is standard in Earth science; its integration with the BioConomy corpus's coordination and consciousness frameworks is original to this wiki.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/geosphere/",
+  "name": "Geosphere",
+  "description": "The inanimate physical Earth: rock, water, air, the mineral substrate on which the Biosphere and the Noosphere rest. The term originates with nineteenth-century geology and was formalized in its layered relationship to the Biosphere and Noosphere by Vladimir Vernadsky in 1926. In the BioConomy corpus, the Geosphere is what a BioHub's monitoring, Atlas profiles, and BioScore sub-scores measure and document. The BioHub wiki translates Geospheric reality into Noospheric knowledge by publishing that documentation in structured, machine-readable form. The Tenderable Services Portfolio names six domains where the Noosphere's service to the Geosphere becomes contractable.",
+  "termCode": "geosphere",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/geosphere/",
+  "alternateName": [
+    "geosphere",
+    "physical earth"
+  ]
+}
+</script>

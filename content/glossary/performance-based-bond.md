@@ -42,3 +42,25 @@ The instrument's diagnostic property, in [[frameworks/time-framework|TIME]] term
 ## Provenance
 
 Initial entry extracted from the BioHub Glossary CSV export (Notion, August 2026); expanded 6 September 2026 to add the split-promise reading, cross-links to the concept page, and the connection to Promise Theory, TIME, and the Emancipation Architecture. The technical definition follows standard capital-markets usage; the diagnostic reading is wiki-native and belongs on the concept page.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/performance-based-bond/",
+  "name": "Performance-based bond",
+  "description": "A debt instrument in which a portion of investor returns is contingent on independently verified ecological or social outcomes. The base coupon behaves like a standard investment-grade note and is settled from the issuer's balance sheet. A performance premium is settled by outcomes funders (development finance institutions, foundations, corporate ESG allocators) only when an independent verification agent confirms that the contracted outcome has been produced.",
+  "termCode": "performance-based-bond",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/performance-based-bond/",
+  "alternateName": [
+    "performance bond",
+    "outcomes-based bond",
+    "nature-linked bond"
+  ]
+}
+</script>

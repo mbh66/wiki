@@ -69,3 +69,26 @@ Graves's developmental framework is documented through peer-reviewed research (*
 ## Provenance
 
 Extracted from the BioConomy project. The Momentous Leap is the structural foundation of Movement I (The Three Futures), which opens with Graves's 1974 paper and builds the entire civilizational analysis around his three scenarios. V2_Mycelial_Thesis.md extends the framework into economic value theory. The endosymbiosis precedent is developed in Movement I's Transcendence section.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/the-momentous-leap/",
+  "name": "The Momentous Leap",
+  "description": "The Momentous Leap is Clare Graves's term for the threshold between First Tier and Second Tier consciousness, which he described as \"the most difficult, but at the same time the most exciting transition the human race has faced to date.\"",
+  "termCode": "the-momentous-leap",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/the-momentous-leap/",
+  "alternateName": [
+    "momentous leap",
+    "First Tier to Second Tier",
+    "Graves's leap",
+    "the leap"
+  ]
+}
+</script>

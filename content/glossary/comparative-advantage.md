@@ -34,3 +34,24 @@ The theory's failure mode, from a retention-economics perspective, is that it te
 ## Provenance
 
 Borrowed from Ricardo (1817). See [[ricardo-david|David Ricardo]] for biographical context.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/comparative-advantage/",
+  "name": "Comparative Advantage",
+  "description": "David Ricardo's 1817 theory that nations maximize aggregate output by specializing in what they produce relatively most efficiently and trading for the rest. The proposition is mathematically sound as a statement about relative efficiency and became the theoretical foundation for two centuries of trade liberalization.",
+  "termCode": "comparative-advantage",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/comparative-advantage/",
+  "alternateName": [
+    "ricardian trade",
+    "specialization"
+  ]
+}
+</script>

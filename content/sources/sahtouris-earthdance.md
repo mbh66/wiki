@@ -33,3 +33,30 @@ Sahtouris's framework converges with M.G. Taylor's systems architecture on the [
 - [[concepts/three-futures|Three Futures]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[glossary/mycelial-consciousness|Mycelial Consciousness]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/sahtouris-earthdance/",
+  "name": "EarthDance",
+  "author": {
+    "@type": "Person",
+    "name": "Elisabet Sahtouris"
+  },
+  "datePublished": "2000",
+  "publisher": {
+    "@type": "Organization",
+    "name": "iUniversity Press"
+  },
+  "url": "https://www.amazon.com/dp/0595130674",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "!https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2F13ubJ6tcgI.pdf?alt=media&token=94f6846b-f56a-4e2a-a760-d55c8780d744"
+  }
+}
+</script>

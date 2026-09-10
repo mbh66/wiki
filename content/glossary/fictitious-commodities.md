@@ -33,3 +33,23 @@ The concept is foundational to BioConomy's framing. Where the historical [[reten
 ## Provenance
 
 Borrowed from Polanyi (1944) and preserved with Polanyi's original meaning. See [[polanyi-karl|Karl Polanyi]] for biographical context.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/fictitious-commodities/",
+  "name": "Fictitious Commodities",
+  "description": "Karl Polanyi's term for anything treated as a market commodity that is not produced for the market. Land is nature. Labor is human activity. Money is a token of exchange or state finance. None of the three is created for sale, and treating them as commodities would (per Polanyi) demolish people, business, and nature unless countervailing protections were built.",
+  "termCode": "fictitious-commodities",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/fictitious-commodities/",
+  "alternateName": [
+    "land labor money"
+  ]
+}
+</script>

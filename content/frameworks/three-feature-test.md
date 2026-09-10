@@ -132,3 +132,23 @@ The [[mycelial-patronage|Mycelial Patronage]] framework is the specific applicat
 ## Provenance
 
 Extracted from *EA Patron Project Criteria.md* and *EA Patronage Research Brief.md* in the [[glossary/bioconomy|BioConomy]] project. The test itself is stated in the Criteria document; the historical anchors are drawn from the Research Brief's Cluster 1-5 analysis. The failure-mode classification is drawn from Cluster 5 of the Research Brief. This page condenses the material to serve as a working diagnostic; readers wanting the full historical evidence should read the associated research brief.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/three-feature-test/",
+  "name": "The Three-Feature Test for Patron Projects",
+  "description": "The Three-Feature Test is the master diagnostic for evaluating whether a patron project meets the structural conditions historically associated with durable civilizational reform. It is derived from a cross-cluster analysis of successful and failed patronage cases across roughly 1,500 years of documented history.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-08-25",
+  "creativeWorkStatus": "documented-framework",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

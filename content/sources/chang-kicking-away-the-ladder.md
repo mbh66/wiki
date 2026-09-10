@@ -27,3 +27,30 @@ Chang documents that Britain and the United States, the supposed homes of free t
 - [[carey-henry|Henry Carey]]
 - [[list-friedrich|Friedrich List]]
 - [[chang-ha-joon|Ha-Joon Chang]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/chang-kicking-away-the-ladder/",
+  "name": "Kicking Away the Ladder: Development Strategy in Historical Perspective",
+  "author": {
+    "@type": "Person",
+    "name": "Ha-Joon Chang"
+  },
+  "datePublished": "2002",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Anthem Press"
+  },
+  "url": "https://anthempress.com/kicking-away-the-ladder-pb",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Chang documents that Britain and the United States, the supposed homes of free trade, used tariff protection, subsidies, and directed credit to develop their industries when they were in catching-up positions, and later denied developing countries the same tools. The title is Friedrich List's phrase for the practice of a developed country pulling up the developmental ladder behind itself. The book is the primary contemporary economic-history reference for the claim that retention mechanisms were the historical norm for successful industrializers and not, as neoliberal doctrine implies, deviations from a free-trade default. Chang's causal attributions of specific growth outcomes to specific tariffs are contested by orthodox economic historians (Irwin in particular), but the underlying documentation is not in dispute."
+  }
+}
+</script>

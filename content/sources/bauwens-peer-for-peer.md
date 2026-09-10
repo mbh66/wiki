@@ -26,3 +26,30 @@ Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[bauwens-michel|Michel Bauwens]]
 - [[glossary/p4p-peer-for-peer|P4P (Peer FOR Peer) (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/bauwens-peer-for-peer/",
+  "name": "Peer FOR Peer: The Emerging Third Attractor",
+  "author": {
+    "@type": "Person",
+    "name": "Michel Bauwens"
+  },
+  "datePublished": "2026",
+  "publisher": {
+    "@type": "Organization",
+    "name": "P2P Foundation"
+  },
+  "url": "https://blog.p2pfoundation.net/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of regenerative projects. The essay names the Archipelago of Regenerative Projects framing and reads the wider bioregional and regenerative movement as a converging third attractor alongside states and markets."
+  }
+}
+</script>

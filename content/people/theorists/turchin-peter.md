@@ -61,3 +61,17 @@ For the [[frameworks/three-futures|Three Futures]] framework, Turchin's work pro
 ## Provenance
 
 Extracted from references in *I The Three Futures*. Enriched August 2027 from the Roam Research graph (MichaelHaupt): additional works, digital library PDFs, and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/turchin-peter/",
+  "name": "Peter Turchin",
+  "description": "Russian-American evolutionary biologist and complexity scientist whose structural-demographic theory identifies the specific mechanisms of political instability in complex societies: elite overproduction, popular immiseration, and state fiscal distress. In a 2010 *Nature* paper, he correctly predicted the peak of political instability in the United States in the early 2020s.",
+  "alternateName": [
+    "Peter Turchin",
+    "Turchin"
+  ]
+}
+</script>

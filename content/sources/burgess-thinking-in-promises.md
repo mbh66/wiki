@@ -24,3 +24,30 @@ Burgess's book-length treatment of Promise Theory, co-developed with Jan Bergstr
 - [[burgess-mark|Mark Burgess]]
 - [[bergstra-jan|Jan Bergstra]]
 - [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/burgess-thinking-in-promises/",
+  "name": "Thinking in Promises: Designing Systems for Cooperation",
+  "author": {
+    "@type": "Person",
+    "name": "Mark Burgess"
+  },
+  "datePublished": "2015",
+  "publisher": {
+    "@type": "Organization",
+    "name": "O'Reilly Media"
+  },
+  "url": "https://markburgess.org/TIpromises.html",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Burgess's book-length treatment of Promise Theory, co-developed with Jan Bergstra. Promise Theory models cooperation as a system built from voluntary, autonomous commitments between agents. An agent can promise only what it controls. Coordination emerges from the pattern of promises, and not from external enforcement. The theory supplies the formal architecture beneath Will Ruddick's Commitment Pooling Protocol and, through it, beneath the community-scale coordination substrate used across the Grassroots Economics network."
+  }
+}
+</script>

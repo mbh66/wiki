@@ -53,3 +53,17 @@ Marx's fiscal thinking is less developed than Smith's or Ricardo's, because he t
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the collective-story lineage supporting the MMT/S-curve research brief preparation.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/marx-karl/",
+  "name": "Karl Marx (1818-1883)",
+  "description": "German philosopher, economist, and revolutionary, author of _Das Kapital_ (Volume I, 1867; Volumes II and III published posthumously by Engels in 1885 and 1894) and, with Friedrich Engels, _The Communist Manifesto_ (1848). Marx spent most of his productive life in London, researching in the British Museum's reading room while living in poverty. His work is the most thorough structural critique of capitalist production ever produced, and it shares with the system it critiques the deepest assumption of the acceleration phase: that industrial production is the engine of history.",
+  "alternateName": [
+    "das kapital",
+    "labor theory of value marx"
+  ]
+}
+</script>

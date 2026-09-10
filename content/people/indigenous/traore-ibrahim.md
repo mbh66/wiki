@@ -37,3 +37,17 @@ Traoré belongs on this list because, if the [[frameworks/s-curve-thesis|S-Curve
 ## Provenance
 
 Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*. Debt-clearing claim treated as unverified per VOA fact-check.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/indigenous/traore-ibrahim/",
+  "name": "Ibrahim Traoré (b. 1988)",
+  "description": "Captain of the Burkinabè armed forces, transitional president of Burkina Faso since the September 2022 coup, and the leader most explicitly framing his program as a revival of Thomas Sankara's project. Traoré's government has pursued a resource-nationalist agenda combining a new mining code, state ownership of key mineral assets, and a regional realignment away from ECOWAS and (potentially) the CFA franc.",
+  "alternateName": [
+    "burkina faso 2022",
+    "AES alliance of sahel states"
+  ]
+}
+</script>

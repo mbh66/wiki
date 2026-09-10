@@ -105,3 +105,25 @@ Mondragón's history reveals the minimum conditions for a functioning federation
 ## Provenance
 
 Extracted from *Federated Cooperative Supply Chains* (Notion export, September 2026). Voice preserved; em dashes replaced. The Overberg-specific Emancipation Architecture reference was retained because it is discussed at framework level (a design pattern), and not as Valley-of-Grace local material.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/federated-cooperative-supply-chains/",
+  "name": "Federated Cooperative Supply Chains",
+  "description": "A single cooperative serves its members. A federation of cooperatives serves a bioregion. Federated cooperative supply chains connect autonomous cooperatives through shared infrastructure so that value generated in one sector circulates through the others rather than leaking out of the bioregion entirely.",
+  "termCode": "federated-cooperative-supply-chains",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/federated-cooperative-supply-chains/",
+  "alternateName": [
+    "federated cooperatives",
+    "cooperative federation",
+    "federated supply chain"
+  ]
+}
+</script>

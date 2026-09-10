@@ -48,3 +48,24 @@ The falsification test is straightforward: track whether the current wave of res
 ## Provenance
 
 Coined within this wiki as an interpretive frame for the retention lineage documented in the *Research Brief: The S-Curve Thesis*. This is a Structural Inference in the brief's own terms.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/structural-prematurity/",
+  "name": "Structural Prematurity",
+  "description": "An idea is structurally premature when it correctly diagnoses a problem but is offered against the prevailing gradient of a phase that selects for the opposite response.",
+  "termCode": "structural-prematurity",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/structural-prematurity/",
+  "alternateName": [
+    "premature diagnosis",
+    "early but right"
+  ]
+}
+</script>

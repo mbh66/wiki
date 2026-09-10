@@ -35,3 +35,24 @@ In the BioConomy corpus, the Biosphere is the middle stratum in Vernadsky's thre
 ## Provenance
 
 Created 2 September 2026 to complete the three-sphere stratigraphy alongside the existing [[glossary/geosphere|Geosphere]] and [[glossary/noosphere|Noosphere]] pages. The term is standard in Earth science; its integration with the BioConomy corpus's coordination frameworks is original to this wiki.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/biosphere/",
+  "name": "Biosphere",
+  "description": "The living layer of the Earth: the thin film of organisms and organic processes that sits between the Geosphere below and the Noosphere above. The term was introduced by geologist Eduard Suess in 1875 and formalized as a scientific concept by Vladimir Vernadsky in *The Biosphere* (1926), which established life as a geological force on par with the movement of continents and the circulation of the atmosphere. Vernadsky's central finding: the composition of the atmosphere, the distribution of sedimentary rock, the chemistry of the oceans, and the cycles of most reactive elements are products of biological activity, not the setting in which biology happens.",
+  "termCode": "biosphere",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/biosphere/",
+  "alternateName": [
+    "biosphere",
+    "sphere of life"
+  ]
+}
+</script>

@@ -46,3 +46,24 @@ The [[coordination-node|coordination node]] analysis makes the shift visible arc
 ## Provenance
 
 Written 7 September 2026 as a glossary entry mapping the conventional economy's local coordination unit to the BioConomy's equivalent ([[biohub|BioHub]]). Structural inference drawn from the Economy versus BioConomy concept page, the Coordination Node entry, and the TIME framework.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/municipality/",
+  "name": "Municipality",
+  "description": "The administrative unit that coordinates local economic activity in the conventional Economy, defined by political boundary.",
+  "termCode": "municipality",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/municipality/",
+  "alternateName": [
+    "municipal economy",
+    "local government"
+  ]
+}
+</script>

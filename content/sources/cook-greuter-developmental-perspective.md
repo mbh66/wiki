@@ -19,3 +19,30 @@ Cook-Greuter's empirical data provides the quantitative ground for the BioConomy
 
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/cook-greuter-developmental-perspective/",
+  "name": "Making the Case for a Developmental Perspective",
+  "author": {
+    "@type": "Person",
+    "name": "Susanne R. Cook-Greuter"
+  },
+  "datePublished": "2004",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Industrial and Commercial Training"
+  },
+  "sameAs": "https://doi.org/10.1108/00197850410563902",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Documents the empirical distribution of adult developmental stages in professional populations through sentence completion testing. Finds that later developmental stages (corresponding to what the BioConomy thesis calls Mycelial Consciousness) represent a small but measurable portion of the population. These later stages are characterized by increased comfort with ambiguity, paradox, and systems-level thinking."
+  }
+}
+</script>

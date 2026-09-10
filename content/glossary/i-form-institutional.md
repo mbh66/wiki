@@ -57,3 +57,25 @@ The I form coordinates through hierarchy; the [[m-form-market|M form]] coordinat
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, coordination node, BioStack position, and contrast with adjacent forms added 7 September 2026, drawing on the Coordination Node entry, the BioStack framing, and the Economy/BioConomy glossary entries.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/i-form-institutional/",
+  "name": "I form (Institutional)",
+  "description": "Coordination through hierarchy, codified rules, and formalized authority, where legitimacy determines who governs and how resources are allocated.",
+  "termCode": "i-form-institutional",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/i-form-institutional/",
+  "alternateName": [
+    "I-form",
+    "Institutional form",
+    "institutional form"
+  ]
+}
+</script>

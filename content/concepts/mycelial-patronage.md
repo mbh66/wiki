@@ -76,3 +76,25 @@ This is the largest unproven parameter of the framework. The Valley of Grace pro
 ## Provenance
 
 Extracted from *EA Patron Project Criteria.md* and *EA Patronage Research Brief.md* in the [[glossary/bioconomy|BioConomy]] project. The three features test and the cross-cluster historical analysis it rests on are treated in full in [[research/historical-patronage-three-feature-test|the associated research brief]]. This page focuses on Mycelial Patronage as the operational form the criteria call for. The Overberg-specific application at the end of the source documents has been excluded from this international-audience version.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/mycelial-patronage/",
+  "name": "Mycelial Patronage",
+  "description": "Mycelial Patronage is the form of patronage that carries the three features of every durable historical patronage case (constitutive investment, embedding in the emerging order, a replication mechanism that survives the founder) while dissolving the hierarchical structure that every prior case shared.",
+  "termCode": "mycelial-patronage",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/mycelial-patronage/",
+  "alternateName": [
+    "mycelial patronage",
+    "constitutive patronage",
+    "distributed patronage"
+  ]
+}
+</script>

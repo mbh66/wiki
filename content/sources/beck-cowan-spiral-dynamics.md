@@ -23,3 +23,29 @@ The corpus draws on Spiral Dynamics primarily through Graves's original research
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[glossary/first-tier|First Tier]]
 - [[glossary/second-tier|Second Tier]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/beck-cowan-spiral-dynamics/",
+  "name": "Spiral Dynamics",
+  "author": {
+    "@type": "Person",
+    "name": "Don Edward Beck and Christopher C. Cowan"
+  },
+  "datePublished": "1996",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blackwell Publishing"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Popularization and extension of Clare W. Graves's emergent cyclical theory of adult development. Introduces the color-coded value systems (Beige, Purple, Red, Blue, Orange, Green, Yellow, Turquoise) that made Graves's research accessible to organizational and leadership audiences. The critical structural distinction is between First Tier systems (Beige through Green), where each level believes its worldview is the only correct one, and Second Tier systems (Yellow and above), where the developmental sequence itself becomes visible."
+  }
+}
+</script>

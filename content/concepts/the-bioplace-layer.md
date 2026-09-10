@@ -78,3 +78,25 @@ Indigenous and communal stewardship traditions carry the deepest continuity in t
 ## Provenance
 
 Written 4 September 2026 as a concept-level treatment of the BioPlace layer of the BioStack. The layer was added to the BioStack framing in September 2026 to name the parcel-scale human-land relationship that carries retention logic at the smallest unit. This page consolidates the reasoning for the addition and its practice lineages.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/the-bioplace-layer/",
+  "name": "The BioPlace Layer",
+  "description": "The BioPlace is the smallest layer of the BioStack and the scale at which a BioConomy meets the ground. Without this layer the coordination architecture floats above the substrate it claims to steward.",
+  "termCode": "the-bioplace-layer",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/the-bioplace-layer/",
+  "alternateName": [
+    "bioplace layer",
+    "bioplace concept",
+    "the human-land layer"
+  ]
+}
+</script>

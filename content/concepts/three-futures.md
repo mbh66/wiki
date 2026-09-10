@@ -70,3 +70,26 @@ The Three Futures framework rests on Graves's documented research (peer-reviewed
 ## Provenance
 
 Extracted from Movement I of the Emancipation Architecture (The Three Futures, synced Google Doc). This document is the canonical source for the Three Futures analysis. V2_Mycelial_Thesis.md provides the value-theory extension. The nomenclature (Termination, Technofeudalism, Transcendence) is the corpus's alliterative adaptation of Graves's original descriptions.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/three-futures/",
+  "name": "Three Futures",
+  "description": "The Three Futures are the three structural possibilities facing human civilization, first identified by Clare Graves in 1974 and developed in the BioConomy corpus as the foundational analysis of Movement I: Termination, Technofeudalism, or Transcendence.",
+  "termCode": "three-futures",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/three-futures/",
+  "alternateName": [
+    "the three futures",
+    "Termination Technofeudalism Transcendence",
+    "three scenarios",
+    "Graves scenarios"
+  ]
+}
+</script>

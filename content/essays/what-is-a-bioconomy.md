@@ -128,3 +128,28 @@ Each of these is a partial instantiation. None yet holds the full BioStack (BioH
 Written as the third of three orientation essays commissioned by the wiki's engagement pathway. Absorbs the "Why?" and "Why Now?" material from `content/index.md` (which the home-page rewrite removes) and extends it with the BioConomy-Economy contrast, the retention-tradition inheritance, and the four dimensions the BioConomy adds to the historical tradition. Draws on `concepts/bioregional-economics.md` for the Two Machines diagnosis and the needy-to-needed argument, `concepts/bioconomy-developmental-arc.md` for the historical arc and the four extensions, and `concepts/retention-logic.md` for the retention framing.
 
 Updated 27 August 2026 to align the four-dimensions section and the needy-to-needed passage with the bioregion / BioRegion case-sensitive convention (the unit of coordination and the needed-by-society form are both the BioRegion), and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/what-is-a-bioconomy/",
+  "headline": "What Is a BioConomy",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-08-26",
+  "dateModified": "2026-08-27",
+  "keywords": [
+    "essay",
+    "orientation",
+    "bioconomy",
+    "core-framework"
+  ]
+}
+</script>

@@ -23,3 +23,31 @@ Tainter's argument that societies solve easy problems first, so each added incre
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[tainter-joseph|Joseph Tainter]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/tainter-collapse-complex-societies/",
+  "name": "The Collapse of Complex Societies",
+  "author": {
+    "@type": "Person",
+    "name": "Joseph A. Tainter"
+  },
+  "datePublished": "1988",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cambridge University Press"
+  },
+  "sameAs": "https://doi.org/10.1017/CBO9780511621344",
+  "url": "https://www.cambridge.org/core/books/collapse-of-complex-societies/85D9A1BD3F5D8D9A82D74FE5F84A8E5B",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Tainter's argument that societies solve easy problems first, so each added increment of sociopolitical complexity yields declining marginal returns while costing more energy to sustain; once marginal returns turn negative, collapse becomes a rational response. The book develops the case across the Western Roman Empire, the Classic Maya, and the Chacoan cultures, and supplies energy-accounting data (BTUs per inflation-adjusted dollar of United States energy production, 1960 to 1976; patents per scientist through the twentieth century) that anchor the deceleration argument in measurable form."
+  }
+}
+</script>

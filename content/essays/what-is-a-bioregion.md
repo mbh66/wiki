@@ -107,3 +107,28 @@ The bioregion is where the ecology and the finance meet. It is the scale at whic
 Written as the second of three orientation essays commissioned by the wiki's engagement pathway. Draws on `glossary/bioregion.md` (one-line stub extended into essay-length treatment), the *BioRegion Establishment Template* v0.2 in the VoG as Patron Project Prototype knowledge base (for the definition of the bioregion as a coordination object and the size classifications), `concepts/bioregional-economics.md` and `concepts/water-retention-landscapes.md` for the ecological and economic substance, and `concepts/retention-logic.md` for the retention framing at the end.
 
 Updated 27 August 2026 to introduce the bioregion (lowercase, the underlying ecological-cultural unit) and BioRegion (capitalized, the formally coordinated form) case-sensitive convention in the opening definition, to tighten the third paragraph so it does the ecological-coherence work the opening no longer needs to repeat, and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/what-is-a-bioregion/",
+  "headline": "What Is a BioRegion",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-08-26",
+  "dateModified": "2026-08-27",
+  "keywords": [
+    "essay",
+    "orientation",
+    "bioregion",
+    "bioconomy"
+  ]
+}
+</script>

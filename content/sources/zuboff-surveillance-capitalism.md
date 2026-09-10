@@ -20,3 +20,29 @@ Documents the emergence of an economic logic in which human behavioural data bec
 
 - [[frameworks/three-futures|The Three Futures]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/zuboff-surveillance-capitalism/",
+  "name": "The Age of Surveillance Capitalism",
+  "author": {
+    "@type": "Person",
+    "name": "Shoshana Zuboff"
+  },
+  "datePublished": "2019",
+  "publisher": {
+    "@type": "Organization",
+    "name": "PublicAffairs"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Documents the emergence of an economic logic in which human behavioural data becomes raw material for prediction products, demonstrating that surveillance and behavioural modification can be industrialized at planetary scale. Traces the transition from the Ford-era mass production regime through Google's discovery of behavioral surplus to the contemporary platform infrastructure of continuous prediction and behavioral modification. For the Three Futures framework, Zuboff's work is the primary source on the operational mechanics of the Technofeudalism trajectory: how the infrastructure of the Network age (distributed computing, real-time data, platform architecture) can be subordinated to the logic of the Market (efficiency, extraction, control)."
+  }
+}
+</script>

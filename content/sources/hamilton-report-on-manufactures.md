@@ -23,3 +23,30 @@ The foundational document of the American [[glossary/retention-economics|retenti
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[hamilton-alexander|Alexander Hamilton]]
 - [[american-system|American System (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/hamilton-report-on-manufactures/",
+  "name": "Report on the Subject of Manufactures",
+  "author": {
+    "@type": "Person",
+    "name": "Alexander Hamilton"
+  },
+  "datePublished": "1791",
+  "publisher": {
+    "@type": "Organization",
+    "name": "United States Treasury Department"
+  },
+  "url": "https://founders.archives.gov/documents/Hamilton/01-10-02-0001-0007",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The foundational document of the American retention tradition. Hamilton makes a broad-ranging case for government promotion of manufacturing through protective tariffs, direct bounties (subsidies) for infant industries, and federally funded internal improvements. Nearly every tariff recommendation in the *Report* was adopted by Congress in early 1792, though the bounty recommendations were rejected. The *Report* is the ancestor of Clay's American System, Carey's *Harmony of Interests*, List's *National System*, and Lincoln's Civil War program."
+  }
+}
+</script>

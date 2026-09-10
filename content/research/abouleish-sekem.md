@@ -131,3 +131,19 @@ The counterfactual is illuminating: had Abouleish, at some point during SEKEM's 
 ## Provenance
 
 Extracted from *Abouleish_Research_Brief_EA_Patron_Criteria.md* in the [[glossary/bioconomy|BioConomy]] project. The scope note on Gudrun Abouleish is preserved from the source. The Right Livelihood Award citation is directly from the Right Livelihood Award Foundation website. Additional recognitions are independently sourced from the awarding bodies. The three-feature assessment applies the criteria in [[frameworks/three-feature-test|The Three-Feature Test]] page; the classification of SEKEM as exemplar rather than EA-instance is the source's own conclusion and is retained here. Digital library and external links added from Roam Research graph (pages: SEKEM, WSACC, Ibrahim Abouleish, Helmy Abouleish), August 2026.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/abouleish-sekem/",
+  "headline": "Ibrahim Abouleish and SEKEM Assessed Against the Three-Feature Test",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-08-25",
+  "dateModified": "2026-08-27",
+  "creativeWorkStatus": "documented-framework"
+}
+</script>

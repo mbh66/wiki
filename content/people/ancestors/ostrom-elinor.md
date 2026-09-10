@@ -63,3 +63,17 @@ These principles provide the empirical foundation for the [[glossary/bioconomy|B
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, eight design principles, Ruddick connection, digital library PDF, and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/ostrom-elinor/",
+  "name": "Elinor Ostrom (1933-2012)",
+  "description": "American political economist (1933-2012) and Nobel laureate in economics (2009) whose empirical work on commons governance established the eight design principles for long-enduring commons and the polycentricity thesis. Her work was associated with the New Institutional Economics and the resurgence of political economy.",
+  "alternateName": [
+    "Elinor Ostrom",
+    "Lin Ostrom"
+  ]
+}
+</script>

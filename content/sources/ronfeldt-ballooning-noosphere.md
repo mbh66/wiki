@@ -30,3 +30,29 @@ The paper references the BioConomy project directly, citing Michael Haupt's Fram
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
 - Ronfeldt (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/ronfeldt-ballooning-noosphere/",
+  "name": "Our Planet's Ballooning Noosphere",
+  "author": {
+    "@type": "Person",
+    "name": "David Ronfeldt"
+  },
+  "datePublished": "2026",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Unpublished"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Extends Ronfeldt's earlier work on the Noosphere and noopolitik by proposing a tri-sphere \"holonic framework\" that treats the Geosphere, biosphere, and noosphere as an entangled set rather than studying any sphere in isolation. The paper draws on Arthur Koestler's concept of the holon (a whole that is simultaneously part of a larger whole) to argue that patterns recurring across all three spheres can serve as a predictive theorem: if a significant formation or process appeared during geosphere evolution and a structural-functional equivalent recurred during biosphere evolution, then something equivalent will recur during noosphere evolution."
+  }
+}
+</script>

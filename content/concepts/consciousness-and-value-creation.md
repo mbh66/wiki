@@ -97,3 +97,26 @@ The component claims are established by peer-reviewed evidence from each domain.
 ## Provenance
 
 Extracted from Movement II of the Emancipation Architecture (Mycelial Value Creation), which is the canonical treatment of this thesis. V2_Mycelial_Thesis.md in project knowledge is an earlier version of the same document. The thesis is flagged by the author as original synthesis: the individual domains provide independent evidence; their integration into a single coherent argument about consciousness-dependent value creation is the original contribution.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/consciousness-and-value-creation/",
+  "name": "Consciousness and Value Creation",
+  "description": "Value creation is consciousness-dependent. Steiner's V2 (the application of human intelligence to human labor) is not a fixed process but a function of the consciousness that performs it, transforming structurally as consciousness evolves from Material to Mycelial.",
+  "termCode": "consciousness-and-value-creation",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/consciousness-and-value-creation/",
+  "alternateName": [
+    "V2 transformation",
+    "consciousness-dependent value",
+    "value creation and consciousness",
+    "Material V2 and Mycelial V2"
+  ]
+}
+</script>

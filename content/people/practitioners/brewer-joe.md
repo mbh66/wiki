@@ -42,3 +42,17 @@ Brewer started Earth Regenerators, a study group and community of practice aroun
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, quote, digital library PDF, and cross-references added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/brewer-joe/",
+  "name": "Joe Brewer",
+  "description": "American integrative scholar and practitioner in the field of culture design. Co-founder (with Penny Heiple) of the Design School for Regenerating Earth, organizing bioregional learning ecosystems and Bioregional Resource Hubs globally. Founder and executive director of the Center for Applied Cultural Evolution.",
+  "alternateName": [
+    "Joe Brewer",
+    "Brewer"
+  ]
+}
+</script>

@@ -51,3 +51,17 @@ Mill belongs on this list because he consolidated the collective coordination st
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the collective-story lineage supporting the MMT/S-curve research brief preparation.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/mill-john-stuart/",
+  "name": "John Stuart Mill (1806-1873)",
+  "description": "English philosopher, political economist, member of Parliament, and the most influential liberal thinker of the nineteenth century. Son of James Mill, who educated him according to a rigorous Benthamite program from infancy. His _A System of Logic_ (1843) codified inductive reasoning. His _On Liberty_ (1859) remains a foundational text of liberal political philosophy. His _Principles of Political Economy_ (1848) was the standard economics textbook in English-speaking universities for nearly half a century, going through seven editions in his lifetime and dominating instruction until Marshall displaced it in the 1890s.",
+  "alternateName": [
+    "J.S. Mill",
+    "principles of political economy mill"
+  ]
+}
+</script>

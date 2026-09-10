@@ -75,3 +75,16 @@ TIMN is, in his own summary, a story about getting these four forms combined aga
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 Enrichment pass (August 2026): the Career, Four Forms, Information-Revolution Schema, Other Writings, and Sources sections were added from the *David Ronfeldt.md* Notion export. The one-sentence definition, the Related Pages list, and the Substack Updates list were preserved as previously written. Digital library PDF added from Roam Research graph (MichaelHaupt), August 2027.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/ronfeldt-david/",
+  "name": "David Ronfeldt",
+  "description": "RAND analyst who developed the TIMN framework (Tribes, Institutions, Markets, Networks) for analyzing societal evolution, on which the TIME framework builds.",
+  "alternateName": [
+    "TIMN"
+  ]
+}
+</script>

@@ -20,3 +20,31 @@ Irwin and Chepeliev's general-equilibrium reassessment of the 1846 repeal of the
 
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/irwin-chepeliev-corn-laws/",
+  "name": "The Economic Consequences of Sir Robert Peel: A Quantitative Assessment of the Repeal of the Corn Laws",
+  "author": {
+    "@type": "Person",
+    "name": "Douglas A. Irwin, Maksym G. Chepeliev"
+  },
+  "datePublished": "2020",
+  "publisher": {
+    "@type": "Organization",
+    "name": "National Bureau of Economic Research"
+  },
+  "sameAs": "https://doi.org/10.3386/w28142",
+  "url": "https://www.nber.org/papers/w28142",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Irwin and Chepeliev's general-equilibrium reassessment of the 1846 repeal of the British Corn Laws. The 1815 Corn Laws had imposed an average duty of 28 percent on imported grain. The 2020 paper concludes that the aggregate welfare effects of repeal were negligible, due to an offsetting terms-of-trade impact, but that the distributional consequences were progressive: the welfare of the top 10 percent of income earners declined while the bottom 90 percent benefited from cheaper food. The paper is a critical primary reference on the specific case that Britain, having achieved industrial dominance, then adopted free trade, and is one of the strongest orthodox economic-history rebuttals of over-strong tariff-growth causal claims."
+  }
+}
+</script>

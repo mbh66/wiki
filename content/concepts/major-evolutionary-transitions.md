@@ -93,3 +93,26 @@ The MET sequence is a structural inference: each component framework is independ
 ## Provenance
 
 Extracted from the BioConomy project's consciousness evolution material. The MET sequence appears across multiple documents, with its fullest treatment in V2_Mycelial_Thesis.md (Part 4: Consciousness Evolution and the Transformation of Value) and The_Last_Empire_and_the_First_Planetary_Organism.md (convergence table mapping nine frameworks onto four historical phases). The Arc of Economic Thought Research Brief provides the explicit naming of the five stages. The Substrate Hypothesis Research Brief contributes the Sahtouris maturation framework. The naming convention (Mimetic, Magical, Mythic, Material, Mycelial) is original to the corpus.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/major-evolutionary-transitions/",
+  "name": "Major Evolutionary Transitions",
+  "description": "The Major Evolutionary Transitions (MET) is the BioConomy corpus's developmental sequence for human consciousness and coordination: Mimetic, Magical, Mythic, Material, and Mycelial. The fifth transition is currently underway.",
+  "termCode": "major-evolutionary-transitions",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/major-evolutionary-transitions/",
+  "alternateName": [
+    "MET",
+    "evolutionary transitions",
+    "Mimetic to Mycelial",
+    "five transitions"
+  ]
+}
+</script>

@@ -36,3 +36,17 @@ Carey belongs on this list because he was the [[glossary/retention-economics|ret
 ## Provenance
 
 Extracted from Section 2, Cluster A of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/carey-henry/",
+  "name": "Henry C. Carey (1793-1879)",
+  "description": "Philadelphia publisher, coal and iron investor, and the most influential American economist of the mid-nineteenth century. Carey's *The Harmony of Interests: Agricultural, Manufacturing, and Commercial* (1851) contrasted the \"British System\" of laissez-faire with the \"American System\" of tariff protection and government-encouraged domestic production. He became an economic adviser to Abraham Lincoln and to Treasury Secretary Salmon P. Chase during the Civil War, and helped shape Justin Morrill's tariff of 1861.",
+  "alternateName": [
+    "harmony of interests",
+    "carey concentrations"
+  ]
+}
+</script>

@@ -30,3 +30,30 @@ Paine's fiscal reasoning within _Common Sense_ is straightforward: he calculated
 - [[smith-adam|Adam Smith]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/paine-common-sense/",
+  "name": "Common Sense",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Paine"
+  },
+  "datePublished": "1776",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Robert Bell (first edition); W. and T. Bradford (expanded edition)"
+  },
+  "url": "https://www.gutenberg.org/ebooks/147",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The most widely read political pamphlet of the American Revolution, with an estimated 500,000 copies sold in a colonial population of roughly 2.5 million. Paine argued that hereditary monarchy was an absurdity, that reconciliation with Britain was impractical, and that republican self-governance was the natural condition of a free society. The pamphlet did not discover these propositions. It made them feel obvious to a mass audience. George Washington reported that it was \"working a powerful change in the minds of many men.\""
+  }
+}
+</script>

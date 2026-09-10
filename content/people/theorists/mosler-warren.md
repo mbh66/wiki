@@ -58,3 +58,17 @@ The parable does not appear in Mosler's published books in this form. It is a le
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the MMT/Chartalist lineage mapping for the MMT/S-curve research brief.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/mosler-warren/",
+  "name": "Warren Mosler (1949-)",
+  "description": "American hedge fund manager, bond trader, and autodidact monetary theorist. Mosler is the practitioner-origin of Modern Monetary Theory. He arrived at the core MMT propositions not through the academic lineage (Knapp, Innes, Lerner) but through the operational experience of trading government bonds in the 1970s and 1980s. His 1993 paper _Soft Currency Economics_ circulated informally for years before its wider publication and stated, from the bond market's own vantage point, what the Chartalists had stated from the vantage point of monetary history: a sovereign government that issues its own floating-rate, non-convertible currency cannot involuntarily default on obligations denominated in that currency, because it is the monopoly issuer of the currency.",
+  "alternateName": [
+    "soft currency economics",
+    "mosler economics"
+  ]
+}
+</script>

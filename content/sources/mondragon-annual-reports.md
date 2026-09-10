@@ -19,3 +19,30 @@ The current annual reports of the Mondragón Corporation, documenting a federati
 ## Cited by
 
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/mondragon-annual-reports/",
+  "name": "Annual Reports 2024-2025",
+  "author": {
+    "@type": "Organization",
+    "name": "Mondragón Corporation"
+  },
+  "datePublished": "2025",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mondragón Corporation"
+  },
+  "url": "https://www.mondragon-corporation.com/en/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Mondragón Corporation. Annual Reports, 2024-2025. mondragon-corporation.com."
+  }
+}
+</script>

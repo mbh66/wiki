@@ -51,3 +51,18 @@ For the BioConomy corpus, Minsky's contribution is the demonstration that the th
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the MMT/Chartalist lineage mapping for the MMT/S-curve research brief.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/minsky-hyman/",
+  "name": "Hyman Minsky (1919-1996)",
+  "description": "American economist, professor at Washington University in St. Louis from 1965 until his death, student of Joseph Schumpeter at Harvard and of Wassily Leontief. Minsky's central work, the Financial Instability Hypothesis (developed across multiple papers from the 1960s onward, consolidated in _Stabilizing an Unstable Economy_, 1986), argued that financial crises are not exogenous shocks to an otherwise stable system. They are endogenous products of the system's own success. Stability breeds instability. Extended periods of calm encourage increasingly speculative financial behavior until the structure collapses under its own leverage.",
+  "alternateName": [
+    "financial instability hypothesis",
+    "minsky moment",
+    "stabilizing an unstable economy"
+  ]
+}
+</script>

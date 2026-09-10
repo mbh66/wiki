@@ -6,6 +6,7 @@ created: 2026-09-01
 updated: 2026-08-25
 source_project: "BioConomy"
 source_documents: ["The_TIME_Framework_Notion_Export"]
+creator: "David Ronfeldt"
 epistemic_status: "documented-framework"
 ---
 
@@ -86,3 +87,27 @@ The shift TIME asks of its users is perceptual before it is operational. A pract
 ## Provenance
 
 Extracted from *The TIME Framework* (Notion export, September 2026). Voice preserved; em dashes replaced. Internal cross-references to the Evolution of Coordination Nodes page and to the glossary entries for each of the four forms were made explicit here.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/time-framework/",
+  "name": "The TIME Framework",
+  "description": "Human societies have produced four broad forms of coordination over the past five thousand years. Each emerged in sequence. Each solved problems the prior forms could not solve. Each externalized costs onto the substrate the next form would have to organize. All four now operate simultaneously in every geography on earth. TIME is the framework that helps us explore each form.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-09-01",
+  "creativeWorkStatus": "documented-framework",
+  "creator": {
+    "@type": "Person",
+    "name": "David Ronfeldt"
+  },
+  "contributor": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

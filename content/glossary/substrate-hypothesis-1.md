@@ -95,3 +95,25 @@ The hypothesis does not claim that substrate change is sufficient for civilizati
 ## Provenance
 
 Written 10 September 2026 as the concept-level treatment of the Substrate Hypothesis. The hypothesis is the author's original synthesis of the M.G. Taylor Corporation workshop methodology and Elisabet Sahtouris's evolutionary biology; the convergence with Meadows's systems science and Zimbardo's social psychology is documented in the wiki's related concept pages. The glossary entry at [[glossary/substrate-hypothesis]] carries the short definition. The individual source traditions are credited as inputs; the integration across them is the author's contribution.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis-1/",
+  "name": "The Substrate Hypothesis",
+  "description": "# The Substrate Hypothesis",
+  "termCode": "substrate-hypothesis-1",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis-1/",
+  "alternateName": [
+    "substrate hypothesis",
+    "coordination is a property of substrate",
+    "substrate precedes sentiment"
+  ]
+}
+</script>

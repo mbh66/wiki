@@ -45,3 +45,17 @@ The eight principles of regenerative economics are: right relationship, innovati
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, eight principles, digital library PDF, and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/fullerton-john/",
+  "name": "John Fullerton",
+  "description": "American unconventional economist, impact investor, writer, and founder and president of the Capital Institute. Author of *Regenerative Capitalism* and the eight principles of a regenerative economy.",
+  "alternateName": [
+    "John Fullerton",
+    "John B. Fullerton"
+  ]
+}
+</script>

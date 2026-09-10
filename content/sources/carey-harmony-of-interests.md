@@ -24,3 +24,30 @@ Carey's central theoretical statement, contrasting the "British System" of laiss
 - [[carey-henry|Henry Carey]]
 - [[lincoln-abraham|Abraham Lincoln]]
 - [[american-system|American System (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/carey-harmony-of-interests/",
+  "name": "The Harmony of Interests: Agricultural, Manufacturing, and Commercial",
+  "author": {
+    "@type": "Person",
+    "name": "Henry C. Carey"
+  },
+  "datePublished": "1851",
+  "publisher": {
+    "@type": "Organization",
+    "name": "J. S. Skinner"
+  },
+  "url": "https://oll.libertyfund.org/titles/carey-the-harmony-of-interests",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Carey's central theoretical statement, contrasting the \"British System\" of laissez-faire with the \"American System\" of tariff protection and government-encouraged domestic production. The book advances the theory of \"concentrations,\" under which manufacturing should be located close to agricultural production to minimize exchange costs. It rejects the Ricardian \"iron laws\" and Malthusian pessimism as anti-human and anti-republican, and argues that wealth grows fastest where labor is most empowered. Directly influential on Lincoln's economic advisers and on the Morrill Tariff of 1861."
+  }
+}
+</script>

@@ -19,3 +19,28 @@ Freundlich's working-paper overview of the Mondragón Corporation's history, sco
 ## Cited by
 
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/freundlich-mondragon-experience/",
+  "name": "The Mondragón Cooperative Experience: Notes on History, Scope and Structure",
+  "author": {
+    "@type": "Person",
+    "name": "Fred Freundlich"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "International Centre for Cooperative Management, Working Paper Series"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Freundlich, F. \"The Mondragón Cooperative Experience: Notes on History, Scope and Structure.\" International Centre for Cooperative Management, Working Paper Series."
+  }
+}
+</script>

@@ -43,3 +43,30 @@ Both absences are appropriate for the book's scope (a founding history), and the
 ## Provenance
 
 Written 5 September 2026 to complete the citation trail from the [[thiel-peter|Peter Thiel]] person page. Soni's book is the primary source for the PayPal founding narrative and for the 1999 launch-remark quotation that the Thiel page cites. Bibliographic details and page references are IC to the primary text.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/soni-the-founders/",
+  "name": "The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon Valley",
+  "author": {
+    "@type": "Person",
+    "name": "Jimmy Soni"
+  },
+  "datePublished": "2022",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simon & Schuster"
+  },
+  "url": "https://www.simonandschuster.com/books/The-Founders/Jimmy-Soni/9781982138097",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Soni's book is the fullest documentary account of PayPal's founding (Confinity in December 1998; the March 2000 merger with Elon Musk's X.com; the October 2002 eBay acquisition) and of the subsequent trajectories of the \"PayPal Mafia\" (Peter Thiel, Elon Musk, Max Levchin, Reid Hoffman, David Sacks, Roelof Botha, Keith Rabois, Luke Nosek, and others). It draws on more than 300 interviews and unrestricted access to the founders' internal documents, email archives, and product artifacts. The book is not hagiography; Soni is clear about the internal conflicts, the near-collapses, and the strategic reversals. It is also not adversarial. The founders sat for the interviews, which sets an upper bound on how sharply it reads their political and philosophical program."
+  }
+}
+</script>

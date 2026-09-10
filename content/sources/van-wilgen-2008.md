@@ -21,3 +21,29 @@ Estimates total invasive-related runoff reductions in the fynbos and grassland b
 - [[research/bioprecipitation|Bioprecipitation]]
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[concepts/water-as-compound-asset|Water as a Compound Asset]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/van-wilgen-2008/",
+  "name": "The economic consequences of alien plant invasions",
+  "author": {
+    "@type": "Person",
+    "name": "Brian W. Van Wilgen et al."
+  },
+  "datePublished": "2008",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Journal of Environmental Management"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Estimates total invasive-related runoff reductions in the fynbos and grassland biomes of South Africa at levels significant to national water security. Provides peer-reviewed grounding for the claim that clearing invasive alien plants restores runoff and infiltration in Mediterranean-climate biomes. For the Bioprecipitation research brief and for the Water Retention Landscapes concept, this paper is one of the anchor references for the defensible +E claim: coordinated landscape restoration co-produces usable water yield (streamflow, infiltration, soil moisture)."
+  }
+}
+</script>

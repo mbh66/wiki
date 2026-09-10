@@ -26,3 +26,30 @@ In the BioConomy corpus, Graves's levels provide the developmental psychology fo
 - [[glossary/first-tier|First Tier]]
 - [[glossary/second-tier|Second Tier]]
 - [[glossary/material-consciousness|Material Consciousness]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/graves-levels-of-existence/",
+  "name": "Levels of Existence",
+  "author": {
+    "@type": "Person",
+    "name": "Clare W. Graves"
+  },
+  "datePublished": "1970",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Journal of Humanistic Psychology"
+  },
+  "sameAs": "https://doi.org/10.1177/002216787001000205",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The foundational peer-reviewed publication of Graves's emergent cyclical theory of adult human development. Based on over twenty years of empirical research studying how human value systems evolve under changing conditions of existence. Documents that human value systems develop through identifiable stages, each producing qualitatively different orientations toward competition, cooperation, individual agency, and collective responsibility."
+  }
+}
+</script>

@@ -36,3 +36,20 @@ The commitment pool operates at two scales in the founding-suite templates. At t
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/commitment-pool/",
+  "name": "Commitment pool",
+  "description": "A structure in which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange.",
+  "termCode": "commitment-pool",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/commitment-pool/"
+}
+</script>

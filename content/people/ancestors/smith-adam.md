@@ -45,3 +45,16 @@ Smith belongs on this list because [[glossary/bioconomy|BioConomy]] inherits wha
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Updated September 2026 with the collective-story framing from the MMT/S-curve research brief preparation.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/smith-adam/",
+  "name": "Adam Smith (1723-1790)",
+  "description": "Scottish moral philosopher, professor at the University of Glasgow, and author of _The Theory of Moral Sentiments_ (1759) and _An Inquiry into the Nature and Causes of the Wealth of Nations_ (1776). Smith is usually remembered for a single phrase from the second book, the \"invisible hand,\" which described how self-interested actors coordinating through markets could produce outcomes benefiting the whole. That phrase became the theoretical seed of what this wiki calls Throughput Economics.",
+  "alternateName": [
+    "invisible hand"
+  ]
+}
+</script>

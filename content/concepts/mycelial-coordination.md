@@ -80,3 +80,25 @@ The Mycelial Coordination framework is a working hypothesis. It is grounded in t
 ## Provenance
 
 Extracted from *Overberg_BioHub_Founding_Brief_v0.3.md* (Section 9) and *TIMN Nodes Comparative Analysis.md*. The Bauwens quote about mycelial networks is drawn from his 16 August 2026 P4P essay, where he cites Michael Haupt's TIMN reading directly. The seven distinguishing features are synthesized from the source documents; each feature can be traced back to at least two independent sources in the corpus.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/mycelial-coordination/",
+  "name": "Mycelial Coordination",
+  "description": "Mycelial Coordination is the operating pattern of the Emergent (E) form: decentralized, bioregional, adaptive coordination organized around whole-system health rather than around competition or extraction.",
+  "termCode": "mycelial-coordination",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/mycelial-coordination/",
+  "alternateName": [
+    "mycelial coordination",
+    "mycelial networks",
+    "mycelial form"
+  ]
+}
+</script>

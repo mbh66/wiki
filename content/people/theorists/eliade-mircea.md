@@ -20,3 +20,13 @@ Romanian-born historian of religion whose concept of hierophany (the sacred brea
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/eliade-mircea/",
+  "name": "Mircea Eliade",
+  "description": "Romanian-born historian of religion whose concept of hierophany (the sacred breaking into profane space) provides the analytical frame for the T-form sacred site."
+}
+</script>

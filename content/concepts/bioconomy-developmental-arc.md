@@ -100,3 +100,25 @@ The figures were not wrong. They were early. The curve caught up.
 ## Provenance
 
 Extracted from the *Research Brief: The S-Curve Thesis, the Retention Counter-Tradition, and the Emergence of Regenerative Economics* (BioConomy project, August 2026). This page is the concept-level distillation of that brief's structural thesis. The brief itself is preserved verbatim at [[research/growth-economics|research/growth-economics]] with its full epistemic tagging. The developmental-arc framing is a Structural Inference in the brief's own terms, and this page inherits that status.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/bioconomy-developmental-arc/",
+  "name": "The BioConomy Developmental Arc",
+  "description": "BioConomy is the mature form of a coordination logic first articulated more than two centuries ago, held down through the acceleration phase of the industrial S-curve by the very conditions that made throughput logic fit, and now becoming structurally necessary as that curve enters deceleration.",
+  "termCode": "bioconomy-developmental-arc",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/bioconomy-developmental-arc/",
+  "alternateName": [
+    "long arc of retention",
+    "developmental arc",
+    "why now"
+  ]
+}
+</script>

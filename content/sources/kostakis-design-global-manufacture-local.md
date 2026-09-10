@@ -21,3 +21,30 @@ The foundational academic paper for the cosmo-local production framework. The au
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
 - [[glossary/cosmo-local-production|Cosmo-local production (glossary)]]
 - [[bauwens-michel|Michel Bauwens]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/kostakis-design-global-manufacture-local/",
+  "name": "Design Global, Manufacture Local: Exploring the Contours of an Emerging Productive Model",
+  "author": {
+    "@type": "Person",
+    "name": "Vasilis Kostakis, Vasilis Niaros, George Dafermos, and Michel Bauwens"
+  },
+  "datePublished": "2015",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Futures 73: 126-135"
+  },
+  "url": "https://wiki.p2pfoundation.net/Design_Global,_Manufacture_Local",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The foundational academic paper for the cosmo-local production framework. The authors argue that a new productive model is emerging in which knowledge, designs, and protocols are shared through global digital commons while physical production stays local, using distributed fabrication technologies and cooperative governance. The paper draws on cases from FarmHack, Wikispeed, and the Wikihouse project."
+  }
+}
+</script>

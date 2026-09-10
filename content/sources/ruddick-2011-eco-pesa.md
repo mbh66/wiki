@@ -21,3 +21,29 @@ Ruddick's first published evaluation of an ecological earn-and-spend community c
 - [[research/pooling-across-timn|Pooling Across TIMN]]
 - [[commitment-pooling|Commitment Pooling]]
 - [[ruddick-will|Will Ruddick]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/ruddick-2011-eco-pesa/",
+  "name": "Eco-Pesa: An Evaluation of a Complementary Currency Programme in Kenya's Informal Settlements",
+  "author": {
+    "@type": "Person",
+    "name": "William O. Ruddick"
+  },
+  "datePublished": "2011",
+  "publisher": {
+    "@type": "Organization",
+    "name": "International Journal of Community Currency Research, 15(A), 1-12"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Ruddick's first published evaluation of an ecological earn-and-spend community currency, launched in three informal settlements in Kongowea (Kisumu Ndogo, Shauri Yako, Mnazi Mmoja) in partnership with the Green World Campaign. Seventy-five registered businesses (approximately 75 percent women-owned). Documented outcomes: approximately $4,176 of trade facilitated by $352 in circulation; 22 percent average increase in participating business income; 20 tonnes of waste collected; three youth-led tree nurseries; total program cost $4,698 over seven months. Residents earned Eco-Pesa through waste-collection events. This is the earliest documented ecological earn-and-spend design in Ruddick's lineage and Phase 1 of the three-phase evolution that culminated in Commitment Pooling."
+  }
+}
+</script>

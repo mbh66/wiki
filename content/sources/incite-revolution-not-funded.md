@@ -20,3 +20,29 @@ Anthology documenting how foundations act as "'cooling-out' agencies, delaying a
 
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/incite-revolution-not-funded/",
+  "name": "The Revolution Will Not Be Funded: Beyond the Non-Profit Industrial Complex",
+  "author": {
+    "@type": "Person",
+    "name": "INCITE! Women of Color Against Violence"
+  },
+  "datePublished": "2007",
+  "publisher": {
+    "@type": "Organization",
+    "name": "South End Press (2007), Duke University Press (2017)"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Anthology documenting how foundations act as \"'cooling-out' agencies, delaying and preventing more radical, structural change.\" Andrea Smith recounts INCITE!'s own experience of capture: the Ford Foundation's 30 July 2004 letter reversing a $100,000 grant \"because of our organization's statement of support for the Palestinian liberation struggle,\" triggering a \"major financial crisis\" that forced INCITE! to raise $60,000 in weeks. The book is the primary reference on the non-profit industrial complex thesis and, for the Three-Feature Test, on the specific mechanism through which NGO capture occurs."
+  }
+}
+</script>

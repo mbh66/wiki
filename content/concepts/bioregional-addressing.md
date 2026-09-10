@@ -62,3 +62,25 @@ Bioregional addressing extends past URLs. Currency codes (ZA-FiCom is a first-ge
 ## Provenance
 
 Written 4 September 2026 as the concept-level treatment of the BioConomy's addressing scheme and its rejection of country-code prefixes. Names the addressing choice as substrate design: the address itself carries the coordination logic the architecture wants to instill. Companion to the naming-convention update in [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]] made on the same date. The concept was named to give the habit somewhere to sit in the corpus so subsequent addressing decisions (currencies, credentials, service catalogues) can cite the same rationale.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/bioregional-addressing/",
+  "name": "Bioregional Addressing",
+  "description": "Every coordination architecture chooses a primary addressing unit, and the choice carries the architecture's assumptions about who counts as a coordinating actor. The Economy uses the nation-state. Every phone number, tax ID, currency, and legal jurisdiction pins its identifier to a country code first. The BioConomy uses the BioRegion. Every BioHub wiki address, currency, service catalogue, and coordination surface pins its identifier to a bioregion code first.",
+  "termCode": "bioregional-addressing",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/bioregional-addressing/",
+  "alternateName": [
+    "bioregional addressing",
+    "biospheric addressing",
+    "address by bioregion"
+  ]
+}
+</script>

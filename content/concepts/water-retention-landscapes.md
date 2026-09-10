@@ -107,3 +107,25 @@ There is a related but distinct body of research on whether intact vegetation co
 ## Provenance
 
 Extracted from *Water Retention Landscapes* (Notion export, September 2026). Voice preserved; em dashes replaced. The bioprecipitation caveat was preserved verbatim as an epistemic qualifier.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/water-retention-landscapes/",
+  "name": "Water Retention Landscapes",
+  "description": "A Water Retention Landscape is a landscape whose soil, vegetation, and water infrastructure have been restored or maintained so that rainfall is captured, held, and released slowly. The concept is both a description of how healthy landscapes function and a practice of restoring degraded landscapes to that function.",
+  "termCode": "water-retention-landscapes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/water-retention-landscapes/",
+  "alternateName": [
+    "water retention landscape",
+    "WRL",
+    "catchment restoration"
+  ]
+}
+</script>

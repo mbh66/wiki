@@ -33,3 +33,16 @@ Chang belongs on this list as one of the two contemporary economic historians (w
 ## Provenance
 
 Extracted from Section 1 of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/chang-ha-joon/",
+  "name": "Ha-Joon Chang (b. 1963)",
+  "description": "South Korean institutional economist, currently at SOAS University of London, previously at the University of Cambridge. Chang is the leading contemporary documentarian of the historical pattern that every country that industrialized did so behind protective tariffs, state investment, and directed credit before adopting free-trade doctrine once dominant. His *Kicking Away the Ladder: Development Strategy in Historical Perspective* (2002) built the case in explicit dialogue with Friedrich List, from whom the \"ladder\" metaphor is drawn.",
+  "alternateName": [
+    "kicking away the ladder"
+  ]
+}
+</script>

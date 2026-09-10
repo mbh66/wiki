@@ -139,3 +139,19 @@ Four consolidated findings emerge from the five clusters.
 ## Provenance
 
 Extracted from *EA Patronage Research Brief.md* in the [[glossary/bioconomy|BioConomy]] project. The source document is roughly 25,000 words; this brief condenses the historical analysis to the cluster-level findings, retaining the anchor cases and the specific structural claims each case supports. Readers wanting the full case detail should consult the source. All contemporary financial figures (FTX Future Fund disbursements, Compartamos IPO proceeds, SKS IPO proceeds) are drawn from the source's named primary and reputable secondary references (TIME, CGAP, FinDev Gateway, Associated Press, INCITE! own account) and are individually attributed there.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/historical-patronage-three-feature-test/",
+  "headline": "Historical Patronage and the Three-Feature Test",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-08-25",
+  "dateModified": "2026-08-25",
+  "creativeWorkStatus": "academic-inference"
+}
+</script>

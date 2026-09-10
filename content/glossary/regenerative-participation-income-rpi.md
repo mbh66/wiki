@@ -29,3 +29,24 @@ RPI decouples access to money from participation in a labor market and inverts t
 ## Sources
 
 - Haupt, M. (2026). *III Emancipation Architecture*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/regenerative-participation-income-rpi/",
+  "name": "Regenerative Participation Income (RPI)",
+  "description": "The Emancipation Architecture's monetary primitive: an income floor earned through verified regenerative activities (ecological restoration, community coordination, caregiving, cultural transmission), denominated in a bioregionally issued demurrage currency, non-hoardable by design, bioregionally specific, and interconnected through mycelial clearing mechanisms that enable trade between bioregions without a single global unit.",
+  "termCode": "regenerative-participation-income-rpi",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/regenerative-participation-income-rpi/",
+  "alternateName": [
+    "RPI",
+    "regenerative participation income"
+  ]
+}
+</script>

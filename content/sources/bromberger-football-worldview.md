@@ -20,3 +20,29 @@ Bromberger's fieldwork on football supporter culture in Marseille, Naples, and T
 
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[bromberger-christian|Christian Bromberger]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/bromberger-football-worldview/",
+  "name": "Football as World-View and as Ritual",
+  "author": {
+    "@type": "Person",
+    "name": "Christian Bromberger"
+  },
+  "datePublished": "1995",
+  "publisher": {
+    "@type": "Organization",
+    "name": "French Cultural Studies 6(18): 293-311"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Bromberger's fieldwork on football supporter culture in Marseille, Naples, and Turin, analyzed as a society constructed on pseudo-kinship. The stadium as ritual space, the jersey as clan mark, the anthem as ritual song, face paint as body marking, a pre-match fast recalling the fast before communion: the paper is the standard reference for the persistence of the T form inside contemporary secular institutions and supports the framework's claim that the tribal form is never left behind, it runs underneath."
+  }
+}
+</script>

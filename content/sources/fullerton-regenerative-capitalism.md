@@ -25,3 +25,30 @@ Fullerton's articulation of the eight principles of a regenerative economy: righ
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[glossary/regenerative-capitalism|Regenerative Capitalism (glossary)]]
 - [[fullerton-john|John Fullerton]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/fullerton-regenerative-capitalism/",
+  "name": "Regenerative Capitalism: How Universal Principles and Patterns Will Shape Our New Economy",
+  "author": {
+    "@type": "Person",
+    "name": "John Fullerton"
+  },
+  "datePublished": "2015",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Capital Institute"
+  },
+  "url": "https://capitalinstitute.org/regenerative-capitalism/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Fullerton's articulation of the eight principles of a regenerative economy: right relationship, innovative and adaptive, wealth viewed holistically, empowered participation, honors community and place, edge-effect abundance, robust circulatory flow, and seeks balance. The paper provides the closest existing theoretical canon for what a post-extractive economy looks like at the level of design principles, and it is one of the foundational reference points of the bioregional economics discipline."
+  }
+}
+</script>

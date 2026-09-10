@@ -37,3 +37,17 @@ Lincoln was assassinated by John Wilkes Booth on 14 April 1865. The assassinatio
 ## Provenance
 
 Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/lincoln-abraham/",
+  "name": "Abraham Lincoln (1809-1865)",
+  "description": "Sixteenth President of the United States, from 4 March 1861 to his assassination on 14 April 1865, and the executive who implemented the most coherent retention-economics program in United States history. Lincoln was formed intellectually by Henry Clay's American System (he described himself as \"an old Henry Clay tariff whig\") and advised through the Civil War years by Henry Carey and Treasury Secretary Salmon P. Chase. His wartime legislative program was, in effect, the Hamiltonian retention framework executed at scale under the pressure of national survival.",
+  "alternateName": [
+    "greenbacks",
+    "civil war retention program"
+  ]
+}
+</script>

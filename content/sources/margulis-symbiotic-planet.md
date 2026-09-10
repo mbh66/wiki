@@ -28,3 +28,29 @@ Accessible synthesis of Lynn Margulis's endosymbiotic thesis and its implication
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[margulis-lynn|Lynn Margulis]]
 - [[sahtouris-elisabet|Elisabet Sahtouris]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/margulis-symbiotic-planet/",
+  "name": "Symbiotic Planet: A New Look at Evolution",
+  "author": {
+    "@type": "Person",
+    "name": "Lynn Margulis"
+  },
+  "datePublished": "1998",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Basic Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Accessible synthesis of Lynn Margulis's endosymbiotic thesis and its implications for understanding evolution as driven by integration and cooperation, not only by competition. Margulis established that the major transitions in the evolution of life (prokaryotes to eukaryotes, single-celled to multicellular) were driven by symbiogenesis: formerly competing organisms became structurally incorporated into new, higher-order organisms whose capabilities exceeded anything either partner could achieve alone. The book provides the biological precedent for the Transcendence trajectory in the Emancipation Architecture and for the endosymbiotic framing of Mycelial Consciousness."
+  }
+}
+</script>

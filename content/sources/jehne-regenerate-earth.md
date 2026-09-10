@@ -26,3 +26,29 @@ Jehne's body of work bridging soil biology and hydrology. The Soil Carbon Sponge
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[jehne-walter|Walter Jehne]]
 - [[glossary/soil-carbon-sponge|Soil Carbon Sponge (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/jehne-regenerate-earth/",
+  "name": "Regenerate Earth and the Soil Carbon Sponge framework",
+  "author": {
+    "@type": "Person",
+    "name": "Walter Jehne"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Regenerate Earth"
+  },
+  "url": "https://www.regenerateearth.org/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Jehne, W. *Regenerate Earth* and the Soil Carbon Sponge framework."
+  }
+}
+</script>

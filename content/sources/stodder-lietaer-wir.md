@@ -20,3 +20,29 @@ Econometric analysis of WIR Bank turnover from 1948 to 2013, documenting that WI
 
 - [[research/pooling-across-timn|Pooling Across TIMN]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/stodder-lietaer-wir/",
+  "name": "The Macro-Stability of Swiss WIR-Bank Credits: Balance, Velocity, and Leverage",
+  "author": {
+    "@type": "Person",
+    "name": "James Stodder and Bernard Lietaer"
+  },
+  "datePublished": "2016",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Comparative Economic Studies, 58(4), 570-605"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Econometric analysis of WIR Bank turnover from 1948 to 2013, documenting that WIR turnover is countercyclical: firms use it more in recessions, and the countercyclical multiplier on WIR expenditures is highly leveraged relative to WIR's turnover share of the Swiss economy. WIR turnover reached 1.43 billion Swiss francs in 2013, with membership exceeding 50,000 businesses (approximately 17 percent of all Swiss businesses). For the Pooling Across TIMN research brief and for the Five Transvestment Pathways framework (specifically Pathway B on currency-reserve capitalization), Stodder and Lietaer's paper is the primary quantitative source on how mutual-credit currency functions under macroeconomic stress."
+  }
+}
+</script>

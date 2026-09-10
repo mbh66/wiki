@@ -35,3 +35,25 @@ The relevant measurement for economic analysis is the finished-fuel (final-stage
 ## Provenance
 
 Standard technical term in energy economics; used here in the sense established by Brockway et al. (2019).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/eroi/",
+  "name": "EROI (Energy Return on Investment)",
+  "description": "The ratio of energy delivered by an energy source to the energy invested in obtaining it. A high EROI means the source delivers a large net energy surplus available for economic work. A low EROI approaches a \"net energy cliff\" at which additional exploitation of the source yields little or no surplus.",
+  "termCode": "eroi",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/eroi/",
+  "alternateName": [
+    "energy return on energy invested",
+    "EROEI",
+    "net energy"
+  ]
+}
+</script>

@@ -20,3 +20,13 @@ Author of The Gothic Enterprise, documenting the competitive construction dynam
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/scott-robert/",
+  "name": "Robert Scott",
+  "description": "Author of The Gothic Enterprise, documenting the competitive construction dynamics among medieval cathedral-building bishops."
+}
+</script>

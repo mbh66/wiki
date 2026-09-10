@@ -64,3 +64,25 @@ The Substrate Hypothesis says coordination is a property of substrate. The conce
 - [[consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[cheapest-available-behavior|Cheapest Available Behavior Thesis]]
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/money-theories-as-coordination-stories/",
+  "name": "Money Theories as Coordination Stories",
+  "description": "# Money Theories as Coordination Stories",
+  "termCode": "money-theories-as-coordination-stories",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/money-theories-as-coordination-stories/",
+  "alternateName": [
+    "monetary stories",
+    "coordination stories in money theory",
+    "the public story of money"
+  ]
+}
+</script>

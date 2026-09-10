@@ -115,3 +115,23 @@ If the choice is real, and Graves insisted it was, then the determining variable
 ## Provenance
 
 Extracted from *I The Three Futures* (Emancipation Architecture Movement I, Michael Haupt, March 2026). The three scenarios are Graves's; the renaming (Termination, Technofeudalism, Transcendence) is the EA's. The three-empires structural argument and the Steinerian synthesis are the EA's synthesis and are presented as such. Movement I's document was read in full for this extraction; the essay's own reference list has been preserved and expanded into source pages where those works are not yet in the wiki.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/three-futures/",
+  "name": "The Three Futures",
+  "description": "The Three Futures names the three trajectories the American psychologist Clare W. Graves identified in 1974 as live structural possibilities for human civilization: Termination, Technofeudalism, and Transcendence. Fifty-two years later, all three remain in motion. Each has institutional infrastructure being built in its service.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-08-25",
+  "creativeWorkStatus": "documented-framework",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

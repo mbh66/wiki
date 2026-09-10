@@ -21,3 +21,24 @@ A market mechanism in which a beneficiary of an ecological service (such as a do
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/payment-for-ecosystem-services-pes/",
+  "name": "Payment for ecosystem services (PES)",
+  "description": "A market mechanism in which a beneficiary of an ecological service (such as a downstream city) pays an upstream provider for measurable maintenance or restoration of that service.",
+  "termCode": "payment-for-ecosystem-services-pes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/payment-for-ecosystem-services-pes/",
+  "alternateName": [
+    "Payment for ecosystem services",
+    "PES"
+  ]
+}
+</script>

@@ -113,3 +113,30 @@ The choice worth arguing about is those choices' details. Not the systems' exist
 ## Provenance
 
 Written 2 September 2026 as the first in a five-essay on-ramp sequence to the wiki's operational material. Its purpose is to defuse the "so you're anti-market" objection before it arrives and to place the [[glossary/economy|Economy]] and the [[glossary/bioconomy|BioConomy]] as parallel coordinating systems that a mature society requires together. Draws on the parallel-systems argument developed in the research memo of the same date and on the client-provider inversion introduced there.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/two-systems-one-society/",
+  "headline": "Two Systems, One Society",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-09-02",
+  "dateModified": "2026-09-02",
+  "keywords": [
+    "essay",
+    "orientation",
+    "economy",
+    "bioconomy",
+    "coordination",
+    "time-framework"
+  ]
+}
+</script>

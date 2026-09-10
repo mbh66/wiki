@@ -73,3 +73,23 @@ The Farmer-Forger-Founder-Framer sequence is the author's original framework and
 ## Provenance
 
 Extracted from Movement II of the Emancipation Architecture (Mycelial Value Creation), Part 6: The Synthesis. V2_Mycelial_Thesis.md contains the canonical treatment. The sequence also appears in the Category of One Framework v2 in its commercial context. The author explicitly flags this as original contribution in the methodological notes: "The Farmer -> Forger -> Founder -> Framer sequence mapped to V2's transformation. This is the author's framework and represents the central original contribution of the thesis."
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/farmer-forger-founder-framer/",
+  "name": "Farmer-Forger-Founder-Framer",
+  "description": "The Farmer-Forger-Founder-Framer sequence maps the progressive abstraction of production across the Major Evolutionary Transitions, from the application of labor to nature through the application of consciousness to consciousness itself.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-28",
+  "datePublished": "2026-03-14",
+  "creativeWorkStatus": "working-hypothesis",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

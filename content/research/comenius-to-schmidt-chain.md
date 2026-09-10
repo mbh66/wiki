@@ -163,3 +163,19 @@ Three implications for wiki readers working outside the Moravian tradition:
 ## Provenance
 
 Extracted from *Comenius_to_Schmidt_Chain.md* in the [[glossary/bioconomy|BioConomy]] project. The Baviaanskloof/Genadendal site-specific outcomes and the Ward 2 project applications from the source have been removed for this international-audience version. The chain itself, the evidentiary status table, and the inferential-link discussion are preserved. The Clauser (1961) source remains the key unread work; any subsequent research pass that obtains it should update the epistemic status of the pedagogical-lineage claim. Zachary Stein section, digital library, and external links added from Roam Research graph (pages: John Comenius, Time Between Worlds, Zachary Stein), August 2026.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain/",
+  "headline": "The Comenius-to-Schmidt Chain",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-08-25",
+  "dateModified": "2026-08-27",
+  "creativeWorkStatus": "academic-inference"
+}
+</script>

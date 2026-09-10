@@ -36,3 +36,18 @@ Mattei died in a plane crash near Bascapè in the province of Pavia on 27 Octobe
 ## Provenance
 
 Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/historical-practitioners/mattei-enrico/",
+  "name": "Enrico Mattei (1906-1962)",
+  "description": "Italian Partisan commander during the Second World War, later commissioner of the state petroleum agency AGIP and founding president of ENI (Ente Nazionale Idrocarburi) from 1953 until his death in 1962. Mattei was appointed to AGIP after the war with instructions to liquidate the Fascist-era agency. Instead he expanded exploration in the Po Valley, discovered commercial natural gas at Caviaga in 1946 and Cortemaggiore in 1949, and built the pipeline infrastructure that supplied Italian industry with cheap domestic energy through the post-war economic miracle. Italians called ENI \"a state within the state.\"",
+  "alternateName": [
+    "ENI",
+    "mattei formula",
+    "state within a state"
+  ]
+}
+</script>

@@ -86,3 +86,24 @@ This connection matters because it determines who captures the value. Standard [
 ## Provenance
 
 Extracted from *Commitment Pooling* (Notion export, September 2026). Voice preserved; em dashes replaced. External URLs from the source's Sources block are held on the individual source pages, per the wiki's citation discipline.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/commitment-pooling/",
+  "name": "Commitment Pooling",
+  "description": "Commitment pooling is the coordination mechanism through which distributed actors make binding forward promises to one another and hold those promises as a shared resource. Pooling is among the oldest forms of human economic organization. What is new is the recognition that it operates at two distinct scales in bioregional work, and that each scale requires a different architecture while sharing the same coordination logic.",
+  "termCode": "commitment-pooling",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/commitment-pooling/",
+  "alternateName": [
+    "commitment pool practice",
+    "pooling"
+  ]
+}
+</script>

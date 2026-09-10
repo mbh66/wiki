@@ -20,3 +20,30 @@ The primary academic reference on Outspan International's position as single-des
 
 - [[research/pooling-across-timn|Pooling Across TIMN]]
 - [[federated-cooperative-supply-chains|Federated Cooperative Supply Chains (concept)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/mather-1999-outspan/",
+  "name": "Agro-commodity Chains, Market Power and Territory: Re-Regulating South African Citrus Exports in the 1990s",
+  "author": {
+    "@type": "Person",
+    "name": "Charles Mather"
+  },
+  "datePublished": "1999",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Geoforum, 30(1), 61-70"
+  },
+  "sameAs": "https://doi.org/10.1016/S0016-7185(98)00033-5",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The primary academic reference on Outspan International's position as single-desk export agent for South African citrus in the 1990s. Documents Outspan's dominance of the counter-season trade from the southern hemisphere (approximately 50 percent of total supply), its infrastructure investments in specialized fruit terminals at Durban and Port Elizabeth, and its negotiated bargaining power over shipping schedules with the South African Railways and Harbours Department. The paper's structural analysis of how statutory single-desk marketing arrangements enable cooperative pooling is the primary reference for the Pooling Across TIMN research brief's treatment of Outspan as a mature +M pooling case."
+  }
+}
+</script>

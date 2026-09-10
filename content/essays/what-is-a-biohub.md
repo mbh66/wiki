@@ -83,3 +83,28 @@ This wiki is a guide for establishing your own. The four-template [[templates/in
 Extracted from *Getting Started in a BioHub* (Notion export, September 2026). The personal note and Overberg-specific framing in the source have been trimmed for the international-audience wiki, per extraction instructions. Section headings preserve the source's organization; internal Notion links have been resolved to wikilinks against the current wiki structure or noted for future resolution.
 
 Updated 27 August 2026 to align the needed-by-society sentence with the bioregion / BioRegion case-sensitive convention (the commitment-making state is the BioRegion, not the bare bioregion) and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/what-is-a-biohub/",
+  "headline": "What Is a BioHub",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-09-01",
+  "dateModified": "2026-08-27",
+  "keywords": [
+    "essay",
+    "orientation",
+    "biohub",
+    "bioconomy"
+  ]
+}
+</script>

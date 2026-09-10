@@ -52,3 +52,26 @@ MMT was ignored by mainstream economics for decades, criticized in a concentrate
 - [[functional-finance|Functional Finance]]. Lerner's fiscal component.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/modern-monetary-theory/",
+  "name": "Modern Monetary Theory",
+  "description": "# Modern Monetary Theory",
+  "termCode": "modern-monetary-theory",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/modern-monetary-theory/",
+  "alternateName": [
+    "MMT",
+    "Modern Money Theory",
+    "neo-Chartalism",
+    "Kansas City approach"
+  ]
+}
+</script>

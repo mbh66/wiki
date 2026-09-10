@@ -24,3 +24,30 @@ RMB's Martin Potgieter framed the deal as "a R2.5 billion market signal that nat
 
 - [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
 - [[glossary/performance-based-bond|Performance-based bond (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/rmb-cape-water-bond-launch/",
+  "name": "RMB Launches Africa's First Nature-Linked Outcomes-Based Bond",
+  "author": {
+    "@type": "Organization",
+    "name": "Rand Merchant Bank"
+  },
+  "datePublished": "2026",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rand Merchant Bank / FirstRand"
+  },
+  "url": "https://www.rmb.co.za/news/rmb-launches-africas-first-naturelinked-outcomesbased-bond",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The announcement of the Cape Water Performance-Based Bond (JSE ticker FR31PB), arranged and structured by Rand Merchant Bank and issued by FirstRand Bank. R2.5 billion in size, five-year implementation period, and the first capital-markets instrument globally in which a commercial-bank-issued bond ties investor returns to independently verified ecological restoration outcomes."
+  }
+}
+</script>

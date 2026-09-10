@@ -41,3 +41,27 @@ Mycelial Consciousness is not a rejection of [[glossary/material-consciousness|M
 - [[sources/gebser-ever-present-origin|Gebser, J. (1949/1985). The Ever-Present Origin]]
 - [[sources/sahtouris-earthdance|Sahtouris, E. (2000). EarthDance]]
 - [[sources/graves-human-nature-prepares|Graves, C.W. (1974). Human Nature Prepares for a Momentous Leap]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/mycelial-consciousness/",
+  "name": "Mycelial Consciousness",
+  "description": "The emerging form of consciousness characterized by aperspectival, relational, distributed awareness, corresponding to Gebser's integral structure, Graves's Second Tier, and Kegan's self-transforming mind. Named for the biological template of mycorrhizal networks.",
+  "termCode": "mycelial-consciousness",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/mycelial-consciousness/",
+  "alternateName": [
+    "mycelial consciousness",
+    "Mycelial",
+    "integral consciousness",
+    "aperspectival consciousness",
+    "distributed consciousness"
+  ]
+}
+</script>

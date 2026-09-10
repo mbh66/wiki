@@ -127,3 +127,23 @@ The BioHub, as a coordination form, is one answer to the missing-middle question
 ## Provenance
 
 Extracted from *Bioregional Economics* (Notion export, September 2026). Voice preserved; em dashes replaced. Internal Notion references have been resolved to wikilinks against the existing glossary and people pages. The document is treated as a concept-level page rather than an essay because it lays out the discipline's structural definition rather than an argument for a specific position.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/bioregional-economics/",
+  "name": "Bioregional Economics",
+  "description": "Bioregional economics is the study and practice of designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The discipline is young. Its founding literature is still being written, its institutional forms are still being tested, and its relationship to both established economic thought and the broader regenerative movement is still being negotiated.",
+  "termCode": "bioregional-economics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/bioregional-economics/",
+  "alternateName": [
+    "bioregional economics discipline"
+  ]
+}
+</script>

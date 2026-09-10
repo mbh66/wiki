@@ -19,3 +19,13 @@ Practitioner and educator who extended [[holzer-sepp|Holzer]]'s water [[glossary
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/weiss-zach/",
+  "name": "Zach Weiss",
+  "description": "Practitioner and educator who extended Holzer's water retention methods through the Water Stories project."
+}
+</script>

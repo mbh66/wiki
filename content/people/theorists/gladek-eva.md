@@ -20,3 +20,13 @@ Lead author of BioHubs: A Pathway to Regional Resilience (Metabolic, May 2026)
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/gladek-eva/",
+  "name": "Eva Gladek",
+  "description": "Lead author of BioHubs: A Pathway to Regional Resilience (Metabolic, May 2026), the first systematic assessment of the global BioHub field across 152 initiatives."
+}
+</script>

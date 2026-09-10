@@ -19,3 +19,13 @@ Australian engineer and author of *Water for Every Farm*, who developed the Key
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/yeomans-p-a/",
+  "name": "P.A. Yeomans",
+  "description": "Australian engineer and author of *Water for Every Farm*, who developed the Keyline Design method for distributing water across agricultural landscapes through planned cultivation patterns."
+}
+</script>

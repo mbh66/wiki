@@ -25,3 +25,20 @@ John Fullerton's framework (2015) arguing that the universal patterns and princi
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell was unlabeled in the CSV export. Promoted to the glossary during extraction (see the extraction report for the rationale). First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/regenerative-capitalism/",
+  "name": "Regenerative Capitalism",
+  "description": "John Fullerton's framework (2015) arguing that the universal patterns and principles governing healthy living systems can and must be used as a model for economic system design, specified through eight principles of regenerative vitality.",
+  "termCode": "regenerative-capitalism",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/regenerative-capitalism/"
+}
+</script>

@@ -21,3 +21,29 @@ The BioConomy corpus maps Kegan's orders onto its framework: the fourth order (s
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[frameworks/farmer-forger-founder-framer|Farmer-Forger-Founder-Framer]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/kegan-in-over-our-heads/",
+  "name": "In Over Our Heads",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Kegan"
+  },
+  "datePublished": "1994",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Harvard University Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Documents five orders of consciousness, with transitions between them producing qualitatively different capacities for systems thinking, perspective-taking, and holding paradox. Kegan's central argument is that the demands of modern institutional life already exceed the developmental capacity of most adults."
+  }
+}
+</script>

@@ -34,3 +34,17 @@ Reinert belongs on this list because he supplies the mechanism that makes the [[
 ## Provenance
 
 Extracted from Section 1 of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/reinert-erik/",
+  "name": "Erik Reinert (b. 1949)",
+  "description": "Norwegian economist, founder of The Other Canon Foundation, and the historian who has done the most to reconstruct the pre-classical developmental tradition running from Renaissance Italy through the Cameralists and the American System. His *How Rich Countries Got Rich and Why Poor Countries Stay Poor* (2007) generalizes the retention-tradition documentation across five centuries.",
+  "alternateName": [
+    "other canon",
+    "how rich countries got rich"
+  ]
+}
+</script>

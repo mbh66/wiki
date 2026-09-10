@@ -86,3 +86,23 @@ The thesis is offered as an interpretive frame that makes better sense of the pa
 ## Provenance
 
 The framework is the analytical contribution of the *Research Brief: The S-Curve Thesis* and is flagged as Structural Inference in the brief itself.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/s-curve-thesis/",
+  "name": "The S-Curve Thesis",
+  "description": "The S-Curve Thesis is the analytical claim that every historical retention-economics figure worked during the steep acceleration phase of the industrial S-curve, or at its approach, and that this timing determined their fate: retention succeeded when it coincided with a nation's own catch-up industrialization and failed where it challenged the throughput order's access to peripheral resources.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-08-25",
+  "creativeWorkStatus": "structural-inference",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

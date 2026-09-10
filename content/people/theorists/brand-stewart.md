@@ -65,3 +65,17 @@ Brand's later work has been controversial. *Whole Earth Discipline* (2009) argue
 ## Provenance
 
 Written 2 September 2026 as the counterpart to the [[berry-wendell|Wendell Berry]] ancestor page. Brand is the figure whose satellite view Garfield's Berry eulogy pairs with Berry's ground view, and whose *How Buildings Learn* layered-timescales frame informs the wiki's Evolution of Coordination Nodes. The page was created when the Berry / Brand complementarity became load-bearing for the on-ramp essay sequence being developed alongside the research memo of the same date.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/brand-stewart/",
+  "name": "Stewart Brand (1938- )",
+  "description": "American writer, editor, and organizer (born 1938) whose *Whole Earth Catalog*, cofounding of the Long Now Foundation, and continuing work on tools, buildings, and deep time have shaped the planetary-scale view of coordination the wiki calls the satellite view. Brand's contribution to the BioConomy corpus is the counterpart to Wendell Berry's ground view: the two together are the pair of postures a healthy BioHub holds simultaneously.",
+  "alternateName": [
+    "Stewart Brand",
+    "Brand"
+  ]
+}
+</script>

@@ -314,3 +314,19 @@ The research brief that grounds the [[concepts/bioconomy-developmental-arc|BioCo
 ## Provenance
 
 Ported verbatim from the internal research brief authored August 2026, with em dashes replaced (per wiki editorial rules) and inline wikilinks left to a subsequent auto-linking pass. Epistemic tags are the brief's own and are preserved unchanged.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/growth-economics/",
+  "headline": "Research Brief: The S-Curve Thesis, the Retention Counter-Tradition, and the Emergence of Regenerative Economics",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-08-24",
+  "dateModified": "2026-08-25",
+  "creativeWorkStatus": "mixed"
+}
+</script>

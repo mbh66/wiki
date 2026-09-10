@@ -23,3 +23,29 @@ In the BioConomy corpus, Gebser's mental-rational structure corresponds to [[glo
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[glossary/material-consciousness|Material Consciousness]]
 - [[glossary/mycelial-consciousness|Mycelial Consciousness]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/gebser-ever-present-origin/",
+  "name": "The Ever-Present Origin",
+  "author": {
+    "@type": "Person",
+    "name": "Jean Gebser"
+  },
+  "datePublished": "1949",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ohio University Press (English translation, 1985)"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Gebser, J. (1949/1985). *The Ever-Present Origin.* Ohio University Press. ISBN: 978-0-8214-0776-1."
+  }
+}
+</script>

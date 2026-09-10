@@ -35,3 +35,24 @@ The Washington Consensus is the paradigm case of throughput-economics doctrine b
 ## Provenance
 
 Borrowed from Williamson (1989). Extracted from Section 1 of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/washington-consensus/",
+  "name": "Washington Consensus",
+  "description": "The ten policy prescriptions of liberalization, privatization, and deregulation named by economist John Williamson in 1989 and imposed via IMF and World Bank structural adjustment loans on crisis-hit developing countries through the 1980s and 1990s.",
+  "termCode": "washington-consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/washington-consensus/",
+  "alternateName": [
+    "structural adjustment",
+    "williamson consensus"
+  ]
+}
+</script>

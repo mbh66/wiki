@@ -6,6 +6,7 @@ created: 2026-09-01
 updated: 2026-08-25
 source_project: "BioConomy"
 source_documents: ["TIMN_Framework_Notion_Export"]
+creator: "David Ronfeldt"
 epistemic_status: "documented-framework"
 ---
 
@@ -66,3 +67,27 @@ In the concept-building portion of his more recent writing, Ronfeldt argues that
 ## Provenance
 
 Extracted from *[[content/glossary/timn|TIMN Framework]]* (Notion export, September 2026). The Ronfeldt 2025 Substack references were preserved from the source and are treated as primary but non-book sources: they update the framework's terminology without altering its analytical structure. The overlapping content with the TIME Framework page has been kept minimal here to avoid duplication; TIME is the wiki's working vocabulary.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/timn-framework/",
+  "name": "The TIMN Framework",
+  "description": "TIMN is a theoretical framework that categorizes the evolution of societal organization into four fundamental forms: Tribes (T), Institutions (I), Markets (M), and Networks (N). It was developed by RAND analyst David Ronfeldt and first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution*.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-09-01",
+  "creativeWorkStatus": "documented-framework",
+  "creator": {
+    "@type": "Person",
+    "name": "David Ronfeldt"
+  },
+  "contributor": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

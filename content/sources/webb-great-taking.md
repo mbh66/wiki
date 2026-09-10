@@ -19,3 +19,30 @@ Documents the legal redefinition of securities ownership across jurisdictions an
 ## Cited by
 
 - [[frameworks/three-futures|The Three Futures]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/webb-great-taking/",
+  "name": "The Great Taking",
+  "author": {
+    "@type": "Person",
+    "name": "David Rogers Webb"
+  },
+  "datePublished": "2023",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Self-published"
+  },
+  "url": "https://thegreattaking.com",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Documents the legal redefinition of securities ownership across jurisdictions and the creation of a creditor-priority hierarchy that subordinates retail investors to institutional counterparties. Key legal instruments treated: the 1994 revision of UCC Article 8 (replacing securities ownership with \"security entitlements,\" subordinate to the intermediary's secured creditors); the 2005 Bankruptcy Safe Harbor provisions (exempting transfers to \"protected persons\" from avoidance as fraudulent conveyances in bankruptcy); the EU Financial Collateral Directive; the Hague Convention on the Law Applicable to Certain Rights in Respect of Securities Held with an Intermediary. For the Three Futures framework, Webb's book supplies the primary reference on the legal architecture underlying the Technofeudalism trajectory."
+  }
+}
+</script>

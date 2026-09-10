@@ -42,3 +42,17 @@ His [[glossary/commitment-pool|Commitment Pooling]] protocol formalizes the logi
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, CIC and PATH License, digital library PDFs added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/ruddick-will/",
+  "name": "Will Ruddick",
+  "description": "American development economist focusing on currency innovation in East Africa. Founder of Grassroots Economics and the Commitment Pooling Protocol, drawing on the Mweria rotating labor tradition of coastal Kenya. Creator of the PATH License (Public Awareness and Transparent Heritage) and developer of CIC (Community Inclusion Currencies).",
+  "alternateName": [
+    "Will Ruddick",
+    "Ruddick"
+  ]
+}
+</script>

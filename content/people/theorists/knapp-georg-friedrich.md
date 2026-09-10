@@ -48,3 +48,17 @@ Knapp's work disappeared from mainstream economics for most of the twentieth cen
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the MMT/Chartalist lineage mapping for the MMT/S-curve research brief.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/knapp-georg-friedrich/",
+  "name": "Georg Friedrich Knapp (1842-1926)",
+  "description": "German economist and statistician, professor at the University of Strasbourg, author of _Staatliche Theorie des Geldes_ (_The State Theory of Money_, 1905). Knapp argued that money is a creature of law, not a commodity that emerged from barter. The state defines the unit of account, declares what instruments satisfy obligations to the state (especially tax obligations), and thereby determines what functions as money within its jurisdiction. He coined the term \"chartalism\" (from the Latin _charta_, a token or ticket) for this position: money is a token validated by the state, not a commodity valued for its material content.",
+  "alternateName": [
+    "state theory of money",
+    "chartalism"
+  ]
+}
+</script>

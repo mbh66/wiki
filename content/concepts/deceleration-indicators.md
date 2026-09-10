@@ -69,3 +69,24 @@ The individual indicators are robust. Their synthesis into a single civilization
 ## Provenance
 
 Extracted from Section 3 of the *Research Brief: The S-Curve Thesis*. Individual indicators are Documented Fact or Academic Inference; the S-curve synthesis is Structural Inference and is flagged as the brief's hypothesis rather than its proof.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/deceleration-indicators/",
+  "name": "Deceleration Indicators",
+  "description": "The empirical evidence that the industrial S-curve is entering the deceleration and maturation phase, drawn from planetary-boundary science, energy accounting, distributional data, debt statistics, and complexity theory.",
+  "termCode": "deceleration-indicators",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/deceleration-indicators/",
+  "alternateName": [
+    "end of growth",
+    "S-curve inflection"
+  ]
+}
+</script>

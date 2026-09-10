@@ -19,3 +19,30 @@ The archival corpus of the young Catholic priest whose 1943 arrival in the town 
 ## Cited by
 
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/arizmendiarrieta-writings/",
+  "name": "Archival Writings",
+  "author": {
+    "@type": "Person",
+    "name": "José María Arizmendiarrieta"
+  },
+  "datePublished": "1943",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mondragón Corporation"
+  },
+  "url": "https://www.mondragon-corporation.com/en/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Arizmendiarrieta, J. M. Archival writings held by the Mondragón Corporation."
+  }
+}
+</script>

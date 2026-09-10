@@ -67,3 +67,25 @@ The [[frameworks/s-curve-thesis|S-curve thesis]] and the *[[sources/meadows-limi
 ## Provenance
 
 Written 9 September 2026 as a paired glossary entry with [[factory-mechanical|Factory, Mechanical]]. The productive framing of ecological systems and the observation about the word "factory" belonging by default to the mechanical domain are drawn from the Two Factories concept note (September 2026).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/factory-ecological/",
+  "name": "Factory, Ecological",
+  "description": "A living system understood as a production system: a watershed that produces water, a grassland that sequesters carbon, a wetland that purifies effluent, or a fynbos hillslope that produces genetic material, pollination services, fire regulation, and soil stabilization. The ecological factory's outputs are inputs to industrial civilization. They are not amenities. They are not externalities. They are production.",
+  "termCode": "factory-ecological",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/factory-ecological/",
+  "alternateName": [
+    "ecological factory",
+    "carbon factory",
+    "the ecological factory"
+  ]
+}
+</script>

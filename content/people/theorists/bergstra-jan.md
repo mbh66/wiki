@@ -20,3 +20,13 @@ Logician and co-developer (with Burgess) of Promise Theory as a formal framework
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/bergstra-jan/",
+  "name": "Jan Bergstra",
+  "description": "Logician and co-developer (with Burgess) of Promise Theory as a formal framework for autonomous agent coordination."
+}
+</script>

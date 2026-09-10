@@ -37,3 +37,17 @@ His work at r3.0 (Redesign for Resilience and Regeneration) focuses on developin
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, organizational affiliations, digital library PDFs added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/baue-bill/",
+  "name": "Bill Baue",
+  "description": "American systemic transformation consultant and internationally recognized expert on ThriveAbility, Sustainability Context, and Online Stakeholder Engagement. Baue designs systemic transformation at global, company, and community levels. He is a Senior Director at r3.0 with Ralph Thurm.",
+  "alternateName": [
+    "Bill Baue",
+    "Baue"
+  ]
+}
+</script>

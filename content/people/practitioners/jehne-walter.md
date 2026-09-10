@@ -41,3 +41,17 @@ For the [[glossary/bioconomy|BioConomy]], Jehne's work demonstrates that water r
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, CSIRO and UN affiliations, digital library PDFs added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/jehne-walter/",
+  "name": "Walter Jehne",
+  "description": "Australian soil microbiologist and innovation strategist who developed the Soil Carbon Sponge framework, linking soil biology to water retention and hydrological cycle restoration. Jehne has immense field and research experience in soils, grasslands, agriculture, and forests at local, national, and international levels.",
+  "alternateName": [
+    "Walter Jehne",
+    "Jehne"
+  ]
+}
+</script>

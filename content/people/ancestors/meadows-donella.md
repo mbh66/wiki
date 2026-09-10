@@ -76,3 +76,17 @@ In 1995, [[daly-herman|Herman Daly]] and Meadows defined criteria for authentic 
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Dancing with Systems principles, selected works, digital library PDF, external links, and cross-references added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/meadows-donella/",
+  "name": "Donella Meadows (1941-2001)",
+  "description": "American environmental scientist, educator, and writer (1941-2001). Lead author of *The Limits to Growth* (1972) and *Thinking in Systems: A Primer*, and author of the influential article \"Leverage Points: Places to Intervene in a System.\" Meadows developed the leverage points framework for intervening in complex systems and the \"Dancing with Systems\" principles for working within them.",
+  "alternateName": [
+    "Donella Meadows",
+    "Dana Meadows"
+  ]
+}
+</script>

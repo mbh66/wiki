@@ -161,3 +161,19 @@ International precedents for governance design: Gonarezhou (co-management board)
 ## Provenance
 
 Extracted from *Corporate Partnerships with Protected Area Management, Citizen Science, and Nature-Related Disclosures.md* in the [[glossary/bioconomy|BioConomy]] project. The 20-company assessment specifics are drawn from the WWF SA 2026 report; the Sibanye, Nedbank, and Sanlam adoption dates are drawn from public announcements. The Paddavlei case is the strongest single South African precedent for a corporate-fundable, PAMP-aligned intervention; other TMF-funded projects are named for context. The citizen-science-to-TNFD pathway is presented as an opportunity, not as an established practice, per the honest state of the evidence.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/corporate-partnerships-protected-areas/",
+  "headline": "Corporate Partnerships with Protected Area Management, Citizen Science, and Nature-Related Disclosures",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-08-25",
+  "dateModified": "2026-08-25",
+  "creativeWorkStatus": "documented-fact"
+}
+</script>

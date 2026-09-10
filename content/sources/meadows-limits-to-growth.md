@@ -24,3 +24,29 @@ For the BioConomy corpus, *Limits to Growth* matters on three counts. First, it 
 
 - [[concepts/two-factories|The Two Factories]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/meadows-limits-to-growth/",
+  "name": "The Limits to Growth",
+  "author": {
+    "@type": "Person",
+    "name": "Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, William W. Behrens III"
+  },
+  "datePublished": "1972",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Universe Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Commissioned by the Club of Rome and produced at MIT using the World3 systems-dynamics model, *The Limits to Growth* is the first computational demonstration that exponential material growth on a finite planet produces overshoot and collapse unless the growth trajectory is deliberately altered. The model tracked five variables (population, industrial output, food production, resource depletion, pollution) and ran twelve scenarios. The \"standard run,\" which assumed no major policy changes, projected overshoot and decline in the mid-twenty-first century. The \"stabilized world\" scenarios showed that early action on resource efficiency, pollution abatement, and population stabilization could produce a sustainable equilibrium, but only if undertaken before the system crossed critical thresholds."
+  }
+}
+</script>

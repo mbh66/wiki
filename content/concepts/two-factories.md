@@ -115,3 +115,28 @@ The maturity argument strengthens this position. A civilization entering the S-c
 ## Provenance
 
 Written 9 September 2026 as a concept-level wiki entry. Draws on the "Two Factories" concept note (September 2026), itself a response to Bauwens' essay on Chinese planetary industrialization. The two-factory frame, the living-systems maturity argument (Silicon decelerates, Carbon accelerates), and the reframing of cosmo-localism are the author's structural inferences. The TIME-form analysis of each factory's coordination requirements extends Ronfeldt's framework; the extension is the author's, not Ronfeldt's. The connection between Limits to Growth, degrowth, and the S-curve thesis as convergent descriptions of the same inflection point is an original synthesis.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/two-factories/",
+  "name": "The Two Factories",
+  "description": "There are two co-equal forms of production, not one. The mechanical factory (cities, automation, AI, industrial supply chains) and the ecological factory (watersheds, soils, biodiversity, climate regulation). A functioning civilization requires both in full measure. Each has its own logic, its own knowledge system, its own coordination form, and its own irreplaceable operators. The city cannot run the ecological factory. The bioregion cannot run the mechanical factory. Neither is subordinate. Both are interdependent, and the interdependence is structural.",
+  "termCode": "two-factories",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/two-factories/",
+  "alternateName": [
+    "two factories",
+    "mechanical factory",
+    "ecological factory",
+    "silicon factory",
+    "carbon factory",
+    "two-factory frame"
+  ]
+}
+</script>

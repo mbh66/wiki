@@ -54,3 +54,23 @@ A contract binds two counterparties on the terms they have negotiated. The Tende
 ## Provenance
 
 Extracted from the *BioConomy Value Proposition Template* v0.2 in the VoG as Patron Project Prototype knowledge base, where the Tender Compact is specified as the third of the template's three Prompt 3 outputs.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/tender-compact/",
+  "name": "Tender Compact",
+  "description": "The governance and commitment document co-signed by a BioHub's cohort and, where applicable, by counterparty and participant representatives. Produced by Prompt 3 of the BioConomy Value Proposition Template. Establishes what the BioHub commits to tender, on what retention terms, to which counterparties and participants.",
+  "termCode": "tender-compact",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/tender-compact/",
+  "alternateName": [
+    "tender commitment document"
+  ]
+}
+</script>

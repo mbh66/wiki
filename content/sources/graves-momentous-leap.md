@@ -27,3 +27,29 @@ The paper in which Clare Graves identified three possible outcomes for human civ
 - [[mycelial-consciousness|Mycelial Consciousness]]
 - [[second-tier-thinking|Second Tier Thinking (glossary)]]
 - [[graves-clare|Clare Graves]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/graves-momentous-leap/",
+  "name": "Human Nature Prepares for a Momentous Leap",
+  "author": {
+    "@type": "Person",
+    "name": "Clare W. Graves"
+  },
+  "datePublished": "1974",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Futurist, April 1974, 72-87"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The paper in which Clare Graves identified three possible outcomes for human civilization (regression, fixation, and the Momentous Leap itself) and described the transition from First Tier to Second Tier thinking as the most significant threshold in human psychological development. The paper's three possibilities are the direct anchor for the Emancipation Architecture's Three Futures framing (Termination, Technofeudalism, Transcendence). Graves was writing in 1974 and identified the decade of the 1980s as when the Technofeudalism trajectory would move visibly toward realization. The three trajectories remain in motion fifty-two years later, each with substantially more institutional infrastructure supporting it than Graves could have imagined."
+  }
+}
+</script>

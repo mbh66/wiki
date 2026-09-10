@@ -59,3 +59,17 @@ Briggs was introduced to the broader network through [[sources/sahtouris-earthda
 ## Provenance
 
 Compiled from the Roger Briggs page in Michael Haupt's Roam Research graph, cross-referenced with citations across the BioConomy project knowledge including Movement I (The Three Futures), Crisis Codes Iran Part Three, The Arc of Economic Thought Research Brief, and the Cognitive MET, Evolution of Consciousness, and Haupt Thesis pages in Roam. All biographical and relational claims sourced from Roam entries written or curated by Michael Haupt.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/briggs-roger/",
+  "name": "Roger Briggs",
+  "description": "Roger P. Briggs is an American physicist turned deep-time historian whose work synthesizes paleoanthropology, cognitive psychology, and evolutionary theory into a unified account of consciousness evolution across civilizational scale. He is co-founder of The Planet Project and author of two books that trace the full arc from cosmic origins to the present developmental threshold.",
+  "alternateName": [
+    "Briggs",
+    "Roger P. Briggs"
+  ]
+}
+</script>

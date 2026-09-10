@@ -80,3 +80,25 @@ A functioning +E layer produces measurable outputs beyond water: soil carbon, bi
 ## Provenance
 
 Extracted from *Water_as_Compound_TIME_Asset.md* in the [[glossary/bioconomy|BioConomy]] project. Site-specific Valley of Grace framing and quantitative anchors from the project's own catchment have been removed for this international-audience version. The T/I/M/E structural argument and the four documented case types (acequias, subak, leiwater, GCTWF and Cape Water Bond) are preserved. The critical correction on fynbos and rainfall generation is preserved and is the version of the +E claim this wiki treats as canonical.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/water-as-compound-asset/",
+  "name": "Water as a Compound Asset",
+  "description": "Water held simultaneously under all four TIME coordination logics is more valuable and more resilient than water held under any single logic. This is the compound-asset thesis, and it is the design principle for water governance in a functioning BioHub.",
+  "termCode": "water-as-compound-asset",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/water-as-compound-asset/",
+  "alternateName": [
+    "water compound asset",
+    "compound water asset",
+    "four-form water governance"
+  ]
+}
+</script>

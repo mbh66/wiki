@@ -47,3 +47,17 @@ Kelton's work is significant for the collective-story thesis in one further resp
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the MMT/Chartalist lineage mapping for the MMT/S-curve research brief.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/kelton-stephanie/",
+  "name": "Stephanie Kelton (1969-)",
+  "description": "American economist, professor at Stony Brook University, former chief economist on the US Senate Budget Committee (Democratic staff, 2015), and economic advisor to Bernie Sanders's 2016 and 2020 presidential campaigns. Kelton's _The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy_ (2020) is the work that brought MMT from academic heterodoxy to mass-market public discourse. The book was a _New York Times_ bestseller and the first MMT text to reach a general readership at scale.",
+  "alternateName": [
+    "the deficit myth",
+    "deficit myth"
+  ]
+}
+</script>

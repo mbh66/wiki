@@ -22,3 +22,30 @@ Ronfeldt's TIMN framework also informs the corpus's analysis of [[concepts/three
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[concepts/three-futures|Three Futures]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/ronfeldt-timn/",
+  "name": "Tribes, Institutions, Markets, Networks",
+  "author": {
+    "@type": "Person",
+    "name": "David Ronfeldt"
+  },
+  "datePublished": "1996",
+  "publisher": {
+    "@type": "Organization",
+    "name": "RAND Corporation"
+  },
+  "url": "https://www.rand.org/pubs/papers/P7967.html",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Proposes that human societies evolve through four successive forms of organization: Tribes (kinship-based), Institutions (hierarchical authority), Markets (competitive exchange), and Networks (distributed coordination). Each form does not replace the previous one but layers on top of it; a mature society integrates all four. Societies that fail to develop the next form, or that allow one form to dominate the others, become dysfunctional."
+  }
+}
+</script>

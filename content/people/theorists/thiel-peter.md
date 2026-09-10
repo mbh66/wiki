@@ -87,3 +87,17 @@ Read as a portfolio, these are separate decisions. Read as a program, they compo
 ## Provenance
 
 Written 5 September 2026 as the person page called for by the [[concepts/surveillance-capitalism|Surveillance Capitalism]] concept page. Placed under people/theorists rather than practitioners because Thiel's public role is primarily as an essayist, political funder, and author (*Zero to One*, the *Sovereign Individual* preface, the *Cato Unbound* essay); the operational program his companies execute is treated on the surveillance-capitalism concept page. The composite reading (Thiel as the individual through whom the four surveillance-capitalism layers converge) is Michael Haupt's synthesis and is presented as MS throughout. Individual company founding dates, funding amounts, contract awards, and campaign disclosures are IC to the sources cited.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/thiel-peter/",
+  "name": "Peter Thiel (1967- )",
+  "description": "American investor, entrepreneur, and political funder (born 11 October 1967, Frankfurt) whose companies (PayPal, Palantir, Founders Fund) and stated political program are the operational carriers of the *Sovereign Individual* thesis into twenty-first-century American life. Thiel is the individual through whom the four layers of the widened surveillance-capitalism architecture converge: platform ad-tech (Facebook, where he was the first outside investor and a board member from 2005 to 2022), the state-linked data-fusion complex (Palantir), the private cryptocurrency substrate (PayPal's founding thesis, Founders Fund's early Bitcoin exposure), and the political-capital rail (his Trump 2016 endorsement, the Vance and Masters Senate campaigns, and downstream administrative influence during the second Trump term).",
+  "alternateName": [
+    "Peter Thiel",
+    "Thiel"
+  ]
+}
+</script>

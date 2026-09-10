@@ -46,3 +46,26 @@ Metallism is a substrate description: money's value comes from the metal that ba
 - [[cheapest-available-behavior|The Cheapest Available Behavior Thesis]]. Under gold-standard metallism, hoarding metal was the cheapest available behavior; under fiat with tax obligation, acquiring the state's unit is.
 - [[functional-finance|Functional Finance]]. The fiscal doctrine that treats metallist accounting-identity concerns as normatively empty.
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment of the coordination story.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/metallism/",
+  "name": "Metallism",
+  "description": "# Metallism",
+  "termCode": "metallism",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/metallism/",
+  "alternateName": [
+    "commodity theory of money",
+    "hard money doctrine",
+    "bullionism",
+    "metallist tradition"
+  ]
+}
+</script>

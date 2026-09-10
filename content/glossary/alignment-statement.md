@@ -51,3 +51,23 @@ The [[tender-compact|Tender Compact]] establishes what the BioHub tenders across
 ## Provenance
 
 Extracted from the *Bankable Service Alignment Template* v0.1 in the VoG as Patron Project Prototype knowledge base, where the Alignment Statement is specified as the first of the template's three Prompt 3 outputs.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/alignment-statement/",
+  "name": "Alignment Statement",
+  "description": "The short, formal document a BioHub coordinator sends to a financial instrument's arranger, verification agent, or implementation partner as first contact. Produced by Prompt 3 of the Bankable Service Alignment Template. Maps the BioHub's retention services onto the target instrument's architecture.",
+  "termCode": "alignment-statement",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/alignment-statement/",
+  "alternateName": [
+    "instrument alignment statement"
+  ]
+}
+</script>

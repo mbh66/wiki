@@ -69,3 +69,25 @@ The thesis does not predict the direction of civilizational change. It predicts 
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The story layer that lowers the cost of compliance with the underlying substrate.
 - [[structural-prematurity|Structural Prematurity]]. What happens when a correct idea arrives against a substrate that makes attention to it expensive.
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment of the substrate-versus-story distinction.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/cheapest-available-behavior/",
+  "name": "The Cheapest Available Behavior Thesis",
+  "description": "# The Cheapest Available Behavior Thesis",
+  "termCode": "cheapest-available-behavior",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/cheapest-available-behavior/",
+  "alternateName": [
+    "cheapest available behavior",
+    "CAB thesis",
+    "path of least resistance in substrate"
+  ]
+}
+</script>

@@ -24,3 +24,29 @@ The founding text of biogeochemistry. Vernadsky demonstrated that living matter 
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[essays/from-geosphere-to-noosphere|From Geosphere to Noosphere]]
 - [[vernadsky-vladimir|Vladimir Vernadsky]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/vernadsky-biosphere/",
+  "name": "The Biosphere",
+  "author": {
+    "@type": "Person",
+    "name": "Vladimir Vernadsky"
+  },
+  "datePublished": "1926",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Copernicus Books (English edition, 1998)"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The founding text of biogeochemistry. Vernadsky demonstrated that living matter is not a passive occupant of the earth's surface but the principal agent that has shaped its outer layers over geological time: the composition of the atmosphere, the distribution of sedimentary rock, the chemistry of the oceans, and the cycles of most reactive elements are products of biological activity. The book established the biosphere as a stratum with its own energetics, its own metabolism, and its own historical trajectory, comparable in weight and consequence to the geosphere below it. Vernadsky later extended the framework to the noosphere in *Scientific Thought as a Planetary Phenomenon* (1938) and the 1945 *American Scientist* essay, giving the wiki's three-sphere stratigraphy its primary-source anchor."
+  }
+}
+</script>

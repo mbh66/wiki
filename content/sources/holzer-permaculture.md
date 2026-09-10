@@ -24,3 +24,29 @@ Holzer's book-length treatment of the water [[glossary/retention-economics|reten
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[holzer-sepp|Sepp Holzer]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/holzer-permaculture/",
+  "name": "Sepp Holzer's Permaculture: A Practical Guide to Small-Scale, Integrative Farming and Gardening",
+  "author": {
+    "@type": "Person",
+    "name": "Sepp Holzer"
+  },
+  "datePublished": "2011",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chelsea Green"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Holzer's book-length treatment of the water retention and integrated production methods he developed at the Krameterhof, a mountain farm at 1,500 meters elevation in the Austrian Alps. The book documents terraces, retention ponds, and hugelkultur beds that capture rainfall, raise local humidity, and extend the growing season in alpine conditions, demonstrating that water retention practice works in cold, steep, and high-altitude terrain."
+  }
+}
+</script>

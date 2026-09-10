@@ -40,3 +40,20 @@ The study and practice of designing regenerative, cooperatively owned, place-bas
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/bioregional-economics/",
+  "name": "Bioregional Economics",
+  "description": "The study and practice of designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes (Benjamin Life, 2026).",
+  "termCode": "bioregional-economics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/bioregional-economics/"
+}
+</script>

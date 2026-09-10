@@ -39,3 +39,17 @@ For the [[frameworks/three-futures|Three Futures]] framework, Ahmed's work provi
 ## Provenance
 
 Extracted from references in *I The Three Futures*. Full biographical detail is a candidate for a subsequent enrichment pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/ahmed-nafeez/",
+  "name": "Nafeez Ahmed",
+  "description": "British-Pakistani systems analyst and investigative journalist whose Planetary Phase Shift framework provides the peer-reviewed synthesis integrating Holling's adaptive cycle with phase transition theory across the five foundational sectors of civilization's production system (energy, transport, food, information, materials).",
+  "alternateName": [
+    "Nafeez Ahmed",
+    "Nafeez Mosaddeq Ahmed"
+  ]
+}
+</script>

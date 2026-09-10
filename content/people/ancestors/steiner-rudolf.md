@@ -52,3 +52,17 @@ Steiner is also the founder of anthroposophy (the philosophical basis for Waldor
 ## Provenance
 
 Extracted from references across *I The Three Futures* and *EA Patron Project Criteria.md* in the [[glossary/bioconomy|BioConomy]] project. Full biographical detail is a candidate for a subsequent enrichment pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/steiner-rudolf/",
+  "name": "Rudolf Steiner (1861-1925)",
+  "description": "Austrian philosopher and social reformer whose threefold social order (*Dreigliederung*) provides the structural architecture for the Emancipation Architecture. Freedom in cultural life. Equality in rights life. Fraternity in economic life. These three principles are structurally incompatible when applied universally to a single unified system; only differentiation, each sphere operating according to its own logic while cooperating with the others, makes all three simultaneously realisable.",
+  "alternateName": [
+    "Rudolf Steiner",
+    "Steiner"
+  ]
+}
+</script>

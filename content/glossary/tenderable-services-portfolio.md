@@ -47,3 +47,24 @@ A single-product pitch focuses attention on one offer. The portfolio framing kee
 ## Provenance
 
 Extracted from the *BioConomy Value Proposition Template* v0.2 in the VoG as Patron Project Prototype knowledge base, where the six-service portfolio is specified in Panel 3 of the BioConomy Value Proposition Canvas and treated as the working structure throughout the template.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/tenderable-services-portfolio/",
+  "name": "Tenderable Services Portfolio",
+  "description": "The portfolio of services a BioHub tenders into markets, each with its retention logic and contractable form named. Populated in Panel 3 of the BioConomy Value Proposition Canvas and specified in the Value Proposition Statement produced by the BioConomy Value Proposition Template.",
+  "termCode": "tenderable-services-portfolio",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/tenderable-services-portfolio/",
+  "alternateName": [
+    "services portfolio",
+    "six-service portfolio"
+  ]
+}
+</script>

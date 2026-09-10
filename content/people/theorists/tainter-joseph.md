@@ -34,3 +34,17 @@ Tainter belongs on this list because the diminishing-returns-to-complexity argum
 ## Provenance
 
 Extracted from Section 3 of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/tainter-joseph/",
+  "name": "Joseph Tainter (b. 1949)",
+  "description": "American anthropologist and archaeologist, currently at Utah State University, and the leading contemporary theorist of societal collapse as a rational response to declining marginal returns on sociopolitical complexity. His *The Collapse of Complex Societies* (1988) develops the argument across cases from the Western Roman Empire, the Classic Maya, and the Chacoan cultures.",
+  "alternateName": [
+    "diminishing returns to complexity",
+    "collapse"
+  ]
+}
+</script>

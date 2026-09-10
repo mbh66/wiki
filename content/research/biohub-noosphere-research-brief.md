@@ -167,3 +167,18 @@ That is the thesis in one figure: the BioHub is the node where the noosphere lan
 Wiki files: `frameworks/timn-framework.md`, `frameworks/time-framework.md`, `frameworks/evolution-of-coordination-nodes.md`, `concepts/commitment-pooling.md`, `concepts/mycelial-coordination.md`, `essays/how-to-build-a-biohub-wiki.md`, `essays/ai-quick-engage.md`, `essays/what-is-a-biohub.md`, `glossary/geosphere.md`, `glossary/noosphere.md`, `glossary/threefolding.md`, `glossary/e-form-emergent.md`, `sources/ronfeldt-timn.md`, `sources/ronfeldt-ballooning-noosphere.md`, `people/ancestors/wendell-berry.md`, `people/ancestors/rudolf-steiner.md`, `research/corporate-partnerships-protected-areas.md`.
 
 External: Vernadsky, *The Biosphere* (1926) and *Scientific Thought as a Planetary Phenomenon* (1938); Teilhard de Chardin, *The Phenomenon of Man*; Édouard Le Roy, Collège de France lectures (early 1920s), for the coinage of "noosphere"; Steiner, *Towards Social Renewal* / *The Threefold Social Order* (GA 23, 1919); Schillace, *The Network Always Beats the Castle* (Sunday Letters from Sam, June 2026); Berry, *Standing by Words* and *Manifesto: The Mad Farmer Liberation Front*; Brand, *Whole Earth Catalog*, *How Buildings Learn*, *The Clock of the Long Now*; Ronfeldt, *Tribes, Institutions, Markets, Networks* (RAND P-7967, 1996) and *Rethinking What 'Tribes' and 'Networks' Are Good For* (davidronfeldt.substack.com, 2025); Ruddick, *Commitment Pooling to Build Economic Commons* (Grassroots Economics, 2023–2025); Garfield, *RIP Wendell Berry* (michaelgarfield.substack.com, September 1 2026).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/biohub-noosphere-research-brief/",
+  "headline": "The BioHub as Where the Noosphere Lands",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-09-02",
+  "creativeWorkStatus": "working-memo"
+}
+</script>

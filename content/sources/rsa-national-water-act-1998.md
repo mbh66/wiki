@@ -24,3 +24,30 @@ The Act supplies the +[[glossary/i-form-institutional|I-form]] framing beneath b
 
 - [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
 - [[concepts/water-as-compound-asset|Water as a Compound Asset]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/rsa-national-water-act-1998/",
+  "name": "National Water Act 36 of 1998",
+  "author": {
+    "@type": "Person",
+    "name": "Republic of South Africa"
+  },
+  "datePublished": "1998",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Government of South Africa"
+  },
+  "url": "https://www.gov.za/documents/national-water-act",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "South Africa's post-apartheid water statute, and one of the most structurally advanced pieces of national water legislation drafted anywhere. The Act places all surface and groundwater in national trust under the custodianship of the Minister of Water Affairs and reserves first-priority allocation for two protected quantities: the Basic Human Needs Reserve, sufficient for basic human consumption, and the Ecological Reserve, the quantity and quality of water required to protect aquatic ecosystems and secure ecologically sustainable development and use of the water resource."
+  }
+}
+</script>

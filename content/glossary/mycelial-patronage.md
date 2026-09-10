@@ -44,3 +44,24 @@ Mycelial Patronage is not regenerative capitalism (which retains private ownersh
 ## Provenance
 
 Enrichment pass (August 2026): the extended definition, contrast with adjacent terms, and related pages sections were added from *EA Patron Project Criteria.md* and the associated research brief. The one-sentence definition and the term type were preserved from the earlier first-pass entry.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/mycelial-patronage/",
+  "name": "Mycelial Patronage",
+  "description": "A funding architecture in which capital enters the commons substrate and becomes the substrate, carrying three features found in every historical patronage form that endured: constitutive investment, embedding in the emerging order, and a replication mechanism that survives the founder.",
+  "termCode": "mycelial-patronage",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/mycelial-patronage/",
+  "alternateName": [
+    "mycelial patronage",
+    "constitutive patronage"
+  ]
+}
+</script>

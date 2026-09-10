@@ -27,3 +27,30 @@ The founding text of the Water [[glossary/retention-economics|Retention]] Landsc
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[kravcik-michal|Michal Kravčík]]
 - [[glossary/water-retention-landscape|Water Retention Landscape (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/kravcik-water-recovery/",
+  "name": "Water for the Recovery of the Climate: A New Water Paradigm",
+  "author": {
+    "@type": "Person",
+    "name": "Michal Kravčík et al."
+  },
+  "datePublished": "2007",
+  "publisher": {
+    "@type": "Organization",
+    "name": "People and Water NGO, Slovakia"
+  },
+  "url": "https://www.waterparadigm.org/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The founding text of the Water Retention Landscape tradition. The book argues that the global water cycle has been disrupted by land degradation at continental scale (deforestation, soil compaction, wetland drainage, impermeable surface expansion), shortening the residence time of rainwater on land and reducing continental moisture recycling. The global-climate thesis remains contested; the local and catchment-scale claims (restored soil holds more water, releases it more slowly, and produces higher sustained baseflow) are robustly supported."
+  }
+}
+</script>

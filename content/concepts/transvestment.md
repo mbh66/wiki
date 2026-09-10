@@ -69,3 +69,25 @@ The claim is that a comparable window is currently open, and closing. What Cassi
 ## Provenance
 
 Extracted from *EA Patron Project Criteria.md* and *EA Patronage Research Brief.md* in the [[glossary/bioconomy|BioConomy]] project. The concept's origin in Bollier and Helfrich is preserved; the operational development in the EA context is presented as the specific application this wiki treats. The Cassiodorus/Boethius anchor is drawn from the Research Brief's Cluster 5 case analysis.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/transvestment/",
+  "name": "Transvestment",
+  "description": "Transvestment is capital crossing between value regimes: the structural move by which a wealth holder's assets migrate from one system of value into another. In the Emancipation Architecture context, transvestment is the move from private financial capital denominated in the declining extractive order into commons-held structures denominated in the emerging bioregional order.",
+  "termCode": "transvestment",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/transvestment/",
+  "alternateName": [
+    "transvestment",
+    "value regime crossing",
+    "capital crossing"
+  ]
+}
+</script>

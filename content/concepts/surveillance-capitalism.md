@@ -98,3 +98,25 @@ Palantir's own contracts are individually documented, but the interpretive claim
 ## Provenance
 
 Written 5 September 2026 to widen the surveillance-capitalism concept beyond Zuboff and place it in the concepts folder alongside [[concepts/the-coercion-continuum|The Coercion Continuum]]. The page consolidates references that were previously scattered across the [[frameworks/three-futures|Three Futures]] framework, the [[research/promise-theory-across-timn|Promise Theory Across TIMN]] brief, and the [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]] framework, and provides the wiki-level location where Recommendation 2 of the Promise Theory brief can be discharged: the Palantir attribution now sits here, cited to its own primary sources, and can be linked from other pages rather than re-argued in each one. The four-layer synthesis (platforms + Palantir-scale fusion + programmable CBDCs + politically-captured crypto) is Michael Haupt's construction and is presented as MS throughout. The individual layer facts (Palantir contracts, CBDC deployment counts, Fairshake PAC spending, WLF and USD1 launches) are IC to the sources cited. The Peter Thiel author page referenced in Related Pages does not yet exist in the wiki; a first-pass entry can be extracted from Soni (2022) and Thiel's own preface to the 2020 *Sovereign Individual* reissue.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/surveillance-capitalism/",
+  "name": "Surveillance Capitalism",
+  "description": "Surveillance capitalism, in Shoshana Zuboff's original definition, is the economic logic that \"unilaterally claims human experience as free raw material for translation into behavioral data.\" This page widens the concept beyond Zuboff's account of platform advertising to include three linked infrastructures that jointly implement the same logic at planetary scale: the intelligence-industry data-fusion complex anchored by Palantir Technologies, the sovereign programmable-money layer now emerging as central bank digital currencies (CBDCs), and the private cryptocurrency substrate whose political capture completes the circuit. The synthesis reading, developed for the Emancipation Architecture corpus, is that these three infrastructures form the substrate on which the technofeudal trajectory of the Three Futures framework runs.",
+  "termCode": "surveillance-capitalism",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/surveillance-capitalism/",
+  "alternateName": [
+    "surveillance capitalism",
+    "instrumentarian power",
+    "digital enclosure"
+  ]
+}
+</script>

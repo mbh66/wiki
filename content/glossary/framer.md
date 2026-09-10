@@ -36,3 +36,25 @@ The Framer is not a teacher, coach, or consultant in the conventional sense. Tho
 
 - [[sources/kegan-in-over-our-heads|Kegan, R. (1994). In Over Our Heads]]
 - [[sources/graves-human-nature-prepares|Graves, C.W. (1974). Human Nature Prepares for a Momentous Leap]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/framer/",
+  "name": "Framer",
+  "description": "The fourth archetype in the Farmer-Forger-Founder-Framer sequence: the person whose domain of production is consciousness itself, who creates the conditions under which distributed intelligence can emerge.",
+  "termCode": "framer",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/framer/",
+  "alternateName": [
+    "framer",
+    "the Framer",
+    "Framer archetype"
+  ]
+}
+</script>

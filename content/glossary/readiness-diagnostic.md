@@ -50,3 +50,24 @@ A go/no-go decision test decides whether to proceed. The Readiness Diagnostic de
 ## Provenance
 
 Extracted from the *BioConomy Value Proposition Template* v0.2 and the *Bankable Service Alignment Template* v0.1 in the VoG as Patron Project Prototype knowledge base, where the Readiness Diagnostic is specified in the Prompt 2 output structure of each template.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/readiness-diagnostic/",
+  "name": "Readiness Diagnostic",
+  "description": "The categorization applied to a BioHub's services (in the BioConomy Value Proposition Template) or its alignment pathways to a specific financial instrument (in the Bankable Service Alignment Template). Categorizes each into ready now, ready after specified build-out, or not ready (with the not-ready category further specified as speculative-pending-research or structurally-not-ready).",
+  "termCode": "readiness-diagnostic",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/readiness-diagnostic/",
+  "alternateName": [
+    "service readiness diagnostic",
+    "alignment readiness diagnostic"
+  ]
+}
+</script>

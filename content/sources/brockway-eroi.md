@@ -23,3 +23,31 @@ The Brockway et al. paper is the primary contemporary measurement of energy retu
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[eroi|EROI (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/brockway-eroi/",
+  "name": "Estimation of global final-stage energy-return-on-investment for fossil fuels with comparison to renewable energy sources",
+  "author": {
+    "@type": "Person",
+    "name": "Paul E. Brockway, Anne Owen, Lina I. Brand-Correa, Lukas Hardt"
+  },
+  "datePublished": "2019",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Nature Energy"
+  },
+  "sameAs": "https://doi.org/10.1038/s41560-019-0425-z",
+  "url": "https://www.nature.com/articles/s41560-019-0425-z",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The Brockway et al. paper is the primary contemporary measurement of energy return on investment (EROI) at the finished-fuel (rather than well-head) stage. At the finished-fuel stage the global EROI for fossil fuels is about 6 to 1 and declining, approaching what the authors call a net-energy cliff. Earlier well-head measurements had returned much higher figures (Gagnon et al. 2009 report global oil-and-gas EROI for publicly traded companies falling from 30 to 1 in 1995 to about 18 to 1 by 2006). The 2019 paper's central contribution is that the final-stage measurement is the physically relevant one, since it captures the energy actually available for economic work after processing, refining, and delivery."
+  }
+}
+</script>

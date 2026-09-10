@@ -36,3 +36,18 @@ Mosaddegh belongs on this list because his defeat is the clearest twentieth-cent
 ## Provenance
 
 Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*. Coup acknowledgment documented by the National Security Archive (2013).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/mosaddegh-mohammad/",
+  "name": "Mohammad Mosaddegh (1882-1967)",
+  "description": "Iranian jurist, member of the Majlis, and prime minister from April 1951 to August 1953. Mosaddegh presided over the nationalization of the Anglo-Iranian Oil Company (AIOC, later BP), passed by both houses of the Iranian parliament in 1951 on the arithmetic that AIOC paid Iran only about 16 percent of profits and that the British government received more in taxes from AIOC than Iran received in royalties. Anglo-Iranian's own profit in 1950 alone exceeded the total royalties it had paid Iran over the previous half century. Mosaddegh's government sought to audit AIOC's books. The company refused. Britain rejected a 50-50 split and organized a global boycott of Iranian oil.",
+  "alternateName": [
+    "mosaddeq",
+    "anglo-iranian oil nationalization",
+    "operation ajax"
+  ]
+}
+</script>

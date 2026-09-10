@@ -58,3 +58,18 @@ Beck and Cowan's *Spiral Dynamics* (1996) was the primary vehicle through which 
 ## Provenance
 
 Extracted from references in *I The Three Futures* (Emancipation Architecture Movement I). Enriched August 2027 from the Roam Research graph (MichaelHaupt): digital library PDFs added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/graves-clare/",
+  "name": "Clare Graves (1914-1986)",
+  "description": "American psychologist (1914-1986) whose emergent cyclical theory of adult human development identifies the sequence of value systems by which individuals and societies respond to changing conditions of existence. His 1974 paper \"Human Nature Prepares for a Momentous Leap\" identified three possible outcomes for human civilization (Termination, Technofeudalism, Transcendence in the Emancipation Architecture's renaming), and remains the anchor text for Movement I of the Emancipation Architecture.",
+  "alternateName": [
+    "Clare Graves",
+    "Clare W. Graves",
+    "Graves"
+  ]
+}
+</script>

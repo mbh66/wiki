@@ -23,3 +23,30 @@ Smith's foundational text and the seed of what this wiki calls [[throughput-econ
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[smith-adam|Adam Smith]]
 - [[throughput-economics|Throughput Economics (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/smith-wealth-of-nations/",
+  "name": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "author": {
+    "@type": "Person",
+    "name": "Adam Smith"
+  },
+  "datePublished": "1776",
+  "publisher": {
+    "@type": "Organization",
+    "name": "W. Strahan and T. Cadell"
+  },
+  "url": "https://www.econlib.org/library/Smith/smWN.html",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Smith's foundational text and the seed of what this wiki calls Throughput Economics. The book introduces the \"invisible hand,\" the analysis of the division of labor, and the case for reducing state interference in the market. Smith's own framework was broader than the phrase suggests: he was suspicious of merchants and manufacturers, whom he described as combining against the public whenever they met, and he treated moral sentiments and the ordered care of dependents as the substrate on which markets rested. He wrote at the base of the industrial S-curve, when the mechanisms he described were becoming structurally fit and when the ecological limits that would later bound them were nowhere in sight."
+  }
+}
+</script>

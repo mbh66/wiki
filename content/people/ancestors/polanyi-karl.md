@@ -47,3 +47,16 @@ Polanyi belongs on this list because BioConomy operates within his frame. The pr
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): digital library PDF and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/polanyi-karl/",
+  "name": "Karl Polanyi (1886-1964)",
+  "description": "Hungarian economic historian and social theorist, educated in Budapest and Vienna, later a professor at Columbia University. His most influential work, _The Great Transformation_ (1944), was written during the collapse of the nineteenth-century liberal order and published as the postwar settlement was being negotiated. The book is one of the twentieth century's foundational critiques of market society, and it supplies much of the theoretical vocabulary that BioConomy draws on.",
+  "alternateName": [
+    "great transformation"
+  ]
+}
+</script>

@@ -45,3 +45,17 @@ His work with Jose Ramos on "Placing the Commons in a Temporal Framework: The Co
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Commons Strategies Group, cosmo-local framework, digital library PDFs, and cross-references added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/bauwens-michel/",
+  "name": "Michel Bauwens",
+  "description": "Belgian theorist based in Thailand. Founder of the [Foundation for Peer-to-Peer Alternatives](http://p2pfoundation.net/Main_Page) (P2P Foundation), developer of the cosmo-local production framework and the Archipelago of Regenerative Projects framing. Co-author of the August 2026 P4P essay citing the BioHub coordination-nodes work.",
+  "alternateName": [
+    "Michel Bauwens",
+    "Bauwens"
+  ]
+}
+</script>

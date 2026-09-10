@@ -943,3 +943,16 @@ Source: Dinerstein, E. et al. (2017). "An Ecoregion-Based Approach to Protecting
 |---:|---|---|
 | 0 | Rock and Ice | N/A |
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/resolve-ecoregions/",
+  "headline": "RESOLVE Ecoregions",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

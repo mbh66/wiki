@@ -42,3 +42,23 @@ _BioConomy_ restores the household frame at the scale of a living region. It tre
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/economy/",
+  "name": "Economy",
+  "description": "From the Greek _oikonomia_: the management of a household. The root meaning is the ordered care of a shared living arrangement, including what is grown, stored, shared, repaired, and passed on. In this older sense, an economy is inseparable from the place it inhabits and the people who inhabit it.",
+  "termCode": "economy",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/economy/",
+  "alternateName": [
+    "extractive"
+  ]
+}
+</script>

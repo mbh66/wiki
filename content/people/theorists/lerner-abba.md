@@ -49,3 +49,17 @@ Lerner's position in the MMT lineage is that of the figure who stated the operat
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the MMT/Chartalist lineage mapping for the MMT/S-curve research brief.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/lerner-abba/",
+  "name": "Abba Lerner (1903-1982)",
+  "description": "Russian-born British-American economist, student of Hayek at the London School of Economics (though he rejected Hayek's conclusions), later professor at various American universities including Johns Hopkins, Michigan State, and Florida State. Lerner is the intellectual bridge between Knapp's Chartalism and Modern Monetary Theory. His 1943 paper \"Functional Finance and the Federal Debt\" (_Social Research_) and his 1947 elaboration in _The Economics of Control_ stated the operational logic of sovereign currency with a directness that would not be equaled until Warren Mosler arrived at the same conclusions from the bond-trading floor fifty years later.",
+  "alternateName": [
+    "functional finance",
+    "lerner functional finance"
+  ]
+}
+</script>

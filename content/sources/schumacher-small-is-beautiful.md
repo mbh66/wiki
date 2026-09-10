@@ -20,3 +20,29 @@ Schumacher's foundational text on appropriate scale, intermediate technology, an
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[schumacher-e-f|E.F. Schumacher]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/schumacher-small-is-beautiful/",
+  "name": "Small Is Beautiful: A Study of Economics as if People Mattered",
+  "author": {
+    "@type": "Person",
+    "name": "E.F. Schumacher"
+  },
+  "datePublished": "1973",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blond & Briggs"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Schumacher's foundational text on appropriate scale, intermediate technology, and an economics measured by the flourishing of people and places rather than aggregate throughput. A field ancestor whose work predates the bioregional economics label but whose ideas run through the discipline's later contributions. Practitioners entering the field encounter Schumacher through the door of scale: the argument that the right size for a productive enterprise is the size at which it can be governed by its stewards, and not the size at which its efficiency is maximized."
+  }
+}
+</script>

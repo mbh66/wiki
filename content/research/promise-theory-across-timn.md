@@ -202,3 +202,19 @@ The window in which a voluntary promise architecture can consolidate alongside t
 ## Provenance
 
 Written 5 September 2026 as the Promise Theory analytical layer over the existing [[research/pooling-across-timn|Pooling Across TIMN]] research. The empirical pooling cases (Outspan, Sunkist, WIR, Sardex, Eco-Pesa, Sarafu, commitment pooling) sit in the companion brief; this brief supplies the promise-to-imposition diagnostic that reads those cases as instances of a general structural arc. The synthesis mapping Promise Theory onto the TIMN and TIME sequences is the author's own construction and is presented as such throughout. Burgess, Ronfeldt, and Ruddick are each cited for their own claims and are not attributed the composite argument. Epistemic markers (IC, MS, TBV, Speculative Projection) apply per section.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/promise-theory-across-timn/",
+  "headline": "Promise Theory Across TIMN: What Has Each Form Promised Society?",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-09-05",
+  "dateModified": "2026-09-05",
+  "creativeWorkStatus": "structural-inference"
+}
+</script>

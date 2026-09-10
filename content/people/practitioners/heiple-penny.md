@@ -20,3 +20,13 @@ Co-founder (with Brewer) of the Design School for Regenerating Earth.
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/heiple-penny/",
+  "name": "Penny Heiple",
+  "description": "Co-founder (with Brewer) of the Design School for Regenerating Earth."
+}
+</script>

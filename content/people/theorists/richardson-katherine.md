@@ -34,3 +34,16 @@ Richardson belongs on this list because the 2023 update is the single most impor
 ## Provenance
 
 Extracted from Section 3 of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/richardson-katherine/",
+  "name": "Katherine Richardson",
+  "description": "Professor of Biological Oceanography at the University of Copenhagen and leader of the Sustainability Science Centre there. Richardson led the 29-author team, including Johan Rockström, that produced the 2023 update to the planetary boundaries framework originally proposed by Rockström and colleagues in 2009 and updated by Steffen et al. in 2015.",
+  "alternateName": [
+    "planetary boundaries update"
+  ]
+}
+</script>

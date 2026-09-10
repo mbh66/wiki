@@ -119,3 +119,23 @@ The first three columns of this analysis (T, +I, +M) rest on documented facts an
 ## Provenance
 
 Extracted from *The Evolution of Coordination Nodes* (Notion export, September 2026). Voice preserved; em dashes replaced with periods, commas, or parentheses as fits the sentence. The evidentiary-status caveat in the source was preserved verbatim.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes/",
+  "name": "The Evolution of Coordination Nodes",
+  "description": "The way humans have coordinated their activities has evolved over time through four fundamental forms: **Tribes (T)**, **Institutions (I)**, **Markets (M)**, and **Networks (N)**.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-09-01",
+  "creativeWorkStatus": "structural-inference",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

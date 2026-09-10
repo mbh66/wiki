@@ -28,3 +28,30 @@ Polanyi's account of the rise and self-destruction of nineteenth-century market 
 - [[polanyi-karl|Karl Polanyi]]
 - [[fictitious-commodities|Fictitious Commodities (glossary)]]
 - [[double-movement|Double Movement (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/polanyi-great-transformation/",
+  "name": "The Great Transformation: The Political and Economic Origins of Our Time",
+  "author": {
+    "@type": "Person",
+    "name": "Karl Polanyi"
+  },
+  "datePublished": "1944",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Beacon Press"
+  },
+  "url": "http://www.beacon.org/The-Great-Transformation-P72.aspx",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Polanyi's account of the rise and self-destruction of nineteenth-century market society and of the double movement by which societies generate protective counter-reactions to the commodification of land, labor, and money. The book supplies two concepts that BioConomy uses at its foundations: the fictitious commodities (land, labor, money are not produced for the market and cannot be fully subordinated to it without demolishing the substrate) and the double movement (as markets extend, society generates protective institutions in response). Contemporary retention economics, resource nationalism, food-sovereignty movements, and bioregional economics can be read as expressions of the double movement at planetary scale."
+  }
+}
+</script>

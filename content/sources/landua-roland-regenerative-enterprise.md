@@ -21,3 +21,29 @@ The origin of the Eight Forms of Capital ontology (social, material, financial, 
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[landua-gregory|Gregory Landua]]
 - [[roland-ethan|Ethan Roland]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/landua-roland-regenerative-enterprise/",
+  "name": "Regenerative Enterprise: Optimizing for Multi-Capital Abundance",
+  "author": {
+    "@type": "Person",
+    "name": "Gregory Landua and Ethan Roland"
+  },
+  "datePublished": "2013",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Appleseed Permaculture"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The origin of the Eight Forms of Capital ontology (social, material, financial, living, intellectual, experiential, spiritual, and cultural). The framework expanded the accounting frame beyond money and is the intellectual precursor to Landua's subsequent work on Regen Network, which extends the ontology into verifiable ecological accounting infrastructure and on-chain measurement and verification systems."
+  }
+}
+</script>

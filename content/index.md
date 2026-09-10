@@ -62,3 +62,18 @@ To learn how to use the wiki, visit [[engage|Three ways to engage with the wiki]
 ## Provenance
 
 Created 07 September 2026 as a simplified diagramatic wiki landing page. Updated 8 September 2026 to balance character count in the Difference table so that images are approximately equal.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://wiki.bioconomy.earth/#website",
+  "name": "BioConomy Wiki",
+  "url": "https://wiki.bioconomy.earth/",
+  "description": "The knowledge commons for economies organized around bioregions and performance-based bonds. Concepts, frameworks, research, glossary, and source annotations for the emerging BioConomy.",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en"
+}
+</script>

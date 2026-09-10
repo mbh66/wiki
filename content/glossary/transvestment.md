@@ -46,3 +46,24 @@ The [[frameworks/three-feature-test|Three-Feature Test]] describes the move as g
 ## Provenance
 
 Enrichment pass (August 2026): the extended definition, contrast with adjacent terms, and related pages sections were added from *EA Patron Project Criteria.md* and the associated concept page. The one-sentence definition, the sources and associated figures list, and the term type were preserved from the earlier first-pass entry.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/transvestment/",
+  "name": "Transvestment",
+  "description": "Capital flowing from extractive to regenerative circuits without expectation of financial return in the original terms, as distinct from investment. In the Emancipation Architecture, transvestment is the structural move by which a wealth holder's assets migrate from the declining extractive order into commons-held structures denominated in the emerging bioregional order.",
+  "termCode": "transvestment",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/transvestment/",
+  "alternateName": [
+    "transvestment",
+    "value regime crossing"
+  ]
+}
+</script>

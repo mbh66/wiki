@@ -27,3 +27,24 @@ The process by which one organism incorporates another (rather than digesting it
 
 - Margulis, L. (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*
 - Margulis, L. (1970). *Origin of Eukaryotic Cells*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/endosymbiosis/",
+  "name": "Endosymbiosis",
+  "description": "The process by which one organism incorporates another (rather than digesting it), producing a new, higher-order organism whose capabilities exceed anything either partner could achieve alone. Lynn Margulis established that the mitochondrion originated as a free-living bacterium engulfed and incorporated by an ancestral eukaryotic cell, and that the same pattern accounts for chloroplasts and for the major transitions in the evolution of life. For the Emancipation Architecture, endosymbiosis is the biological precedent for the Transcendence trajectory: formerly competing entities structurally incorporated into new wholes.",
+  "termCode": "endosymbiosis",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/endosymbiosis/",
+  "alternateName": [
+    "endosymbiosis",
+    "symbiogenesis"
+  ]
+}
+</script>

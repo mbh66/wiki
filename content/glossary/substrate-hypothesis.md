@@ -30,3 +30,24 @@ For the Emancipation Architecture, the substrate hypothesis is the design princi
 ## Sources
 
 - Haupt, M. (2026). *EA Patronage Research Brief*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis/",
+  "name": "The Substrate Hypothesis",
+  "description": "Coordination is a property of substrate. Durable civilizational reform requires a portable operating code embedded in a substrate that survives the founder, not intensified effort from the founder or their institution alone.",
+  "termCode": "substrate-hypothesis",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis/",
+  "alternateName": [
+    "substrate hypothesis",
+    "coordination is a property of substrate"
+  ]
+}
+</script>

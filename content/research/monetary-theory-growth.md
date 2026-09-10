@@ -177,3 +177,19 @@ The lesson the precedents deliver is uncomfortable for any deliberate story-tran
 - European Commission 2023 Strategic Foresight Report (€620 billion/year figure); European Central Bank (June 2024); Greenpeace European Unit analysis of revised EU fiscal rules. Institutional reports plus advocacy source (Greenpeace flagged as advocacy).
 - Demurrage currency: socioeco.org "Comment on the Wörgl Experiment"; occupyschoolofmoney.com Chapter 16; Bank of England summary of Gesell. Mixed-quality sources; the fourteen-fold velocity claim originates in Gesellian accounts and should be treated as movement-sourced.
 - Nixon Shock: Federal Reserve History, "Gold Convertibility Ends" (August 15, 1971). Institutional primary-source account.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/monetary-theory-growth/",
+  "headline": "Research Brief: Monetary Theory as Substrate for Growth Phase",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-09-10",
+  "dateModified": "2026-09-10",
+  "creativeWorkStatus": "mixed"
+}
+</script>

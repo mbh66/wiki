@@ -27,3 +27,16 @@ The term has since travelled far beyond entomology. It now names one of the mech
 ## Provenance
 
 Stub entry created September 2026 as part of the Stigmergy addition. Enrichment to follow.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/grasse-pierre-paul/",
+  "name": "Pierre-Paul Grassé (1895-1985)",
+  "description": "French zoologist and specialist in termite behavior who coined the term stigmergy in 1959 to describe the indirect coordination he observed in mound construction by *Bellicositermes natalensis* and *Cubitermes* species. Grassé's insight was that termites do not communicate directly to build their complex mounds. Each termite responds to the pheromone-marked state of the construction site left by earlier work, and the site itself carries the coordination.",
+  "alternateName": [
+    "P.-P. Grassé"
+  ]
+}
+</script>

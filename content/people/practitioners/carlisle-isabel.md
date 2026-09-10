@@ -19,3 +19,13 @@ The British founder and director of the Bioregional Learning Centre BLC in Devon
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/carlisle-isabel/",
+  "name": "Isabel Carlisle",
+  "description": "The British founder and director of the Bioregional Learning Centre BLC in Devon, UK."
+}
+</script>

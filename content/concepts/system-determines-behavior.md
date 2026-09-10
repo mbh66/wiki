@@ -80,3 +80,25 @@ The claim also does not specify which system design is desirable. Meadows, Zimba
 ## Provenance
 
 Written September 2026 as a concept-level treatment connecting Donella Meadows's systems-science formulation to the wiki's Substrate Hypothesis and Cheapest Available Behavior frameworks. The convergence across three independent traditions (systems dynamics, workshop methodology, evolutionary biology) is the wiki's own synthesis; the individual claims are drawn from the sources cited above.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/system-determines-behavior/",
+  "name": "System Determines Behavior",
+  "description": "# System Determines Behavior",
+  "termCode": "system-determines-behavior",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/system-determines-behavior/",
+  "alternateName": [
+    "system determines behavior",
+    "systems cause their own behavior",
+    "structure determines behavior"
+  ]
+}
+</script>

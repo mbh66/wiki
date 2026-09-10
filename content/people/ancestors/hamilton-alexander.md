@@ -37,3 +37,17 @@ Hamilton belongs on this list as the paradigm case of [[structural-prematurity|S
 ## Provenance
 
 Extracted from Section 2, Cluster A of the *Research Brief: The S-Curve Thesis*. Documented Fact per Irwin (2004).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/hamilton-alexander/",
+  "name": "Alexander Hamilton (1755/57-1804)",
+  "description": "First United States Secretary of the Treasury under President Washington, principal author of *The Federalist Papers*, and the intellectual originator of what later became the American System of political economy. Hamilton was born in the West Indies, orphaned early, and rose through the Continental Army as Washington's aide-de-camp. His federal financial architecture (assumption of state debts, the First Bank of the United States, the tariff and revenue system) shaped the constitutional order in ways that outlived him.",
+  "alternateName": [
+    "report on manufactures",
+    "american system origins"
+  ]
+}
+</script>

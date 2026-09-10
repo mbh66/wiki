@@ -62,3 +62,24 @@ Retention-accounting frames are stigmergic as well. They make visible what conve
 ## Provenance
 
 Written 4 September 2026. Stigmergy names a mechanism the BioConomy corpus has been assuming without naming: substrate-mediated coordination in which changes to the shared environment carry the coordination load. This entry places the term in its biological origin, its extension to human coordination, and its specific application to the BioConomy instruments (BioScore, Tenderable Services Portfolio, the Templates, retention accounting) that operate stigmergically.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/stigmergy/",
+  "name": "Stigmergy",
+  "description": "Indirect coordination in which traces left by one agent's activity in a shared environment stimulate further activity by the same or other agents. The traces do the work of communication. No agent needs to hold the whole plan; each responds to what the environment shows.",
+  "termCode": "stigmergy",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/stigmergy/",
+  "alternateName": [
+    "stigmergy",
+    "stigmergic coordination"
+  ]
+}
+</script>

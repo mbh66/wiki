@@ -54,3 +54,17 @@ See [[research/abouleish-sekem|Ibrahim Abouleish and SEKEM Assessed Against the 
 ## Provenance
 
 Extracted from *Abouleish_Research_Brief_EA_Patron_Criteria.md*. The scope note distinguishing Ibrahim's documented record from Gudrun Abouleish's evidentially thin one is preserved in the associated research brief; Gudrun's role does not have a comparable independently documented biographical record.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/abouleish-ibrahim/",
+  "name": "Ibrahim Abouleish (1937-2017)",
+  "description": "Egyptian-Austrian pharmacologist (1937-2017) who founded SEKEM in 1977 on 70 hectares of desert land 60 km northeast of Cairo, developing it over four decades into a diversified group of biodynamic agricultural, pharmaceutical, food, and textile enterprises, alongside a school, medical center, vocational training center, arts school, and Heliopolis University for Sustainable Development.",
+  "alternateName": [
+    "Ibrahim Abouleish",
+    "SEKEM founder"
+  ]
+}
+</script>

@@ -19,3 +19,29 @@ Orie's linguistic and anthropological analysis of Yoruba facial scarification as
 ## Cited by
 
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/orie-yoruba-scarification/",
+  "name": "The Structure and Function of Yoruba Facial Scarification",
+  "author": {
+    "@type": "Person",
+    "name": "Olanike Ola Orie"
+  },
+  "datePublished": "2011",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Anthropological Linguistics 53(1): 15-33"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Orie's linguistic and anthropological analysis of Yoruba facial scarification as a system of encoded lineage. Patterns of one, three, or four stripes etched symmetrically into each cheek allowed observers to discern subethnic origin at a glance. The paper is the ethnographic reference the Evolution of Coordination Nodes framework uses to illustrate the T-form's legibility signal: a compressed mark on the body that carries clan affiliation across space."
+  }
+}
+</script>

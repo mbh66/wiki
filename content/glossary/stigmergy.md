@@ -31,3 +31,20 @@ Indirect coordination in which traces one agent leaves in a shared environment s
 
 - Grassé, P.-P. (1959). *[[sources/grasse-nest-reconstruction|La reconstruction du nid et les coordinations inter-individuelles chez Bellicositermes natalensis et Cubitermes sp.]]*
 - Heylighen, F. (2016). *[[sources/heylighen-stigmergy-universal-mechanism|Stigmergy as a universal coordination mechanism.]]*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/stigmergy/",
+  "name": "Stigmergy",
+  "description": "Indirect coordination in which traces one agent leaves in a shared environment stimulate further activity by the same or other agents. Coined by the French zoologist Pierre-Paul Grassé in 1959, from Greek *stigma* (mark) and *ergon* (work), to describe how termites build complex mounds without central direction. Francis Heylighen later extended the concept to human coordination, including Wikipedia and open-source software. Within the BioConomy corpus, stigmergy names the mechanism by which instruments like the BioScore, the Tenderable Services Portfolio, and the Templates carry coordination without central command.",
+  "termCode": "stigmergy",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/stigmergy/"
+}
+</script>

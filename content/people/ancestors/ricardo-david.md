@@ -53,3 +53,16 @@ Ricardo belongs on this list because comparative advantage is the single most co
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): digital library PDFs added. Updated September 2026 with the collective-story framing from the MMT/S-curve research brief preparation.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/ricardo-david/",
+  "name": "David Ricardo (1772-1823)",
+  "description": "English stockbroker, member of Parliament, and author of _On the Principles of Political Economy and Taxation_ (1817). Ricardo formalized political economy into a system of laws. His most influential contribution, the theory of comparative advantage, argued that nations gain by specializing in what they produce relatively most efficiently and trading for the rest. The argument became the theoretical foundation for two centuries of trade liberalization.",
+  "alternateName": [
+    "comparative advantage"
+  ]
+}
+</script>

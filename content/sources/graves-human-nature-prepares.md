@@ -24,3 +24,29 @@ This paper is the structural foundation of Movement I of the Emancipation Archit
 - [[glossary/second-tier|Second Tier]]
 - [[glossary/crisis-codes|Crisis Codes]]
 - [[glossary/mycelial-consciousness|Mycelial Consciousness]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/graves-human-nature-prepares/",
+  "name": "Human Nature Prepares for a Momentous Leap",
+  "author": {
+    "@type": "Person",
+    "name": "Clare W. Graves"
+  },
+  "datePublished": "1974",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Futurist"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The paper in which Graves identified the Three Futures (Termination, Technofeudalism, Transcendence, in the BioConomy corpus's nomenclature) and described the transition from First Tier to Second Tier thinking as \"the most difficult, but at the same time the most exciting transition the human race has faced to date.\" Graves described this threshold as \"the start of a new movement in the symphony of human history\" and characterized the gap as \"between getting and giving, taking and contributing, destroying and constructing.\""
+  }
+}
+</script>

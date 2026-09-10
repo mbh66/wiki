@@ -20,3 +20,13 @@ Lead architect (with Samantha Power and colleagues at Dark Matter Labs and the B
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/seefeld-leon/",
+  "name": "Leon Seefeld",
+  "description": "Lead architect (with Samantha Power and colleagues at Dark Matter Labs and the Buckminster Fuller Institute) of the Bioregional Financing Facilities framework."
+}
+</script>

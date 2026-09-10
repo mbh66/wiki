@@ -55,3 +55,23 @@ In the [[time|TIME]] framework, the global economy represents the [[m-form-marke
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, contrast with the Global Economy, and TIME framework analysis added 7 September 2026, drawing on the Economy versus BioConomy concept page, the BioStack entry, and the TIME and Two Machines glossary entries.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/bioconomy/",
+  "name": "BioConomy",
+  "description": "The economic system that emerges when bioregions coordinate their productive activity around renewable biological resources, ecological restoration, and the carrying capacity of their landscapes.",
+  "termCode": "bioconomy",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/bioconomy/",
+  "alternateName": [
+    "bio-conomy"
+  ]
+}
+</script>

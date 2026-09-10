@@ -31,3 +31,20 @@ _Throughput Economics_ is a specific application of this general measure: an eco
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/throughput/",
+  "name": "Throughput",
+  "description": "The rate at which material, energy, or information moves through a system per unit of time. A physical and engineering measure: barrels per day through a pipeline, packets per second through a network, tons per hour through a mill, patients per week through a clinic. Throughput describes flow across a boundary. It says nothing about what the flow builds, degrades, or leaves behind.",
+  "termCode": "throughput",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/throughput/"
+}
+</script>

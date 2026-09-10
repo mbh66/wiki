@@ -21,3 +21,13 @@ Developer of the [[glossary/iact-framework|iACT framework]] for community activa
 ## Provenance
 
 Stub entry created September 2026. Enrichment to follow.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/gori-ezio/",
+  "name": "Ezio Gori",
+  "description": "Developer of the iACT framework for community activation. Gori's work sits on the coordination side of the BioPlace layer, addressing how a cluster of parcels and the people working them move from individual holdings to a coordinated community field that a BioHub can hold."
+}
+</script>

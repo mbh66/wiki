@@ -20,3 +20,13 @@ Author of An Introduction to Bioregional Economics (2026), which provides the 
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/life-benjamin/",
+  "name": "Benjamin Life",
+  "description": "Author of An Introduction to Bioregional Economics (2026), which provides the discipline's fullest current specification, including the Two Machines diagnosis, the four pillars, and the missing-middle question."
+}
+</script>

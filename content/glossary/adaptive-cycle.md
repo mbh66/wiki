@@ -23,3 +23,24 @@ C. S. Holling's four-phase model of the dynamics of complex adaptive systems: gr
 
 - Holling, C.S. (2001). "Understanding the Complexity of Economic, Ecological, and Social Systems." *Ecosystems*, 4(5), 390-405.
 - Gunderson and Holling (2002). *Panarchy*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/adaptive-cycle/",
+  "name": "Adaptive Cycle",
+  "description": "C. S. Holling's four-phase model of the dynamics of complex adaptive systems: growth (r), conservation (K), release (Omega), and reorganization (alpha). Systems cycle through these phases as they mature, accumulate structure, undergo disturbance, and reorganize. The cycle is scale-invariant: the same pattern is observable in forests, in economies, in civilizations. In the Planetary Phase Shift framework, industrial civilization is entering the Omega (release) and alpha (reorganization) phases simultaneously across all five foundational sectors.",
+  "termCode": "adaptive-cycle",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/adaptive-cycle/",
+  "alternateName": [
+    "adaptive cycle",
+    "holling adaptive cycle"
+  ]
+}
+</script>

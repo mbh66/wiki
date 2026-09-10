@@ -38,3 +38,17 @@ List died by suicide on 30 November 1846, impoverished and marginalized. His ide
 ## Provenance
 
 Extracted from Section 2, Cluster A of the *Research Brief: The S-Curve Thesis*.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/list-friedrich/",
+  "name": "Friedrich List (1789-1846)",
+  "description": "German-American economist and journalist, exiled from Württemberg in 1825, resident in the United States from 1825 to 1832, and the intellectual bridge between Hamilton's American System and the German industrial takeoff under Bismarck. List directly studied the American System during his years in Pennsylvania and drew from it his conviction that economic doctrine had to be indexed to a nation's stage of development. His *Outlines of American Political Economy* (1827) previewed the framework he elaborated in *Das nationale System der politischen Ökonomie* (*The National System of Political Economy*, 1841).",
+  "alternateName": [
+    "national system",
+    "infant industry"
+  ]
+}
+</script>

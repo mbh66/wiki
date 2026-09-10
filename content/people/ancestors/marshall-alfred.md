@@ -50,3 +50,17 @@ Marshall belongs on this list as the figure who gave the collective coordination
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the collective-story lineage supporting the MMT/S-curve research brief preparation.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/marshall-alfred/",
+  "name": "Alfred Marshall (1842-1924)",
+  "description": "English economist, professor at the University of Cambridge, and author of _Principles of Economics_ (1890), the textbook that displaced Mill's _Principles_ and dominated economics instruction in the English-speaking world until the mid-twentieth century. Marshall trained as a mathematician at St John's College, Cambridge, and brought mathematical formalism into the discipline while deliberately relegating equations to footnotes and appendices. He wanted economics to be rigorous and accessible at the same time. He succeeded in making it feel like a natural science.",
+  "alternateName": [
+    "supply and demand",
+    "neoclassical economics marshall"
+  ]
+}
+</script>

@@ -64,3 +64,25 @@ The [[bioconomy|BioConomy]] does not reform the global economy. It operates in p
 ## Provenance
 
 Written 7 September 2026 as a glossary entry mapping the conventional economy's outermost coordination layer to the BioConomy's equivalent. Structural inference drawn from the Economy versus BioConomy concept page, the Two Machines entry, the Coercion Continuum entry, and the TIME framework.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/global-economy/",
+  "name": "Global Economy",
+  "description": "The outermost coordination layer of the conventional Economy: the system of international trade, capital flow, and monetary architecture through which nation-states and companies interact across borders.",
+  "termCode": "global-economy",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/global-economy/",
+  "alternateName": [
+    "international economy",
+    "global economic system",
+    "neoliberalism"
+  ]
+}
+</script>

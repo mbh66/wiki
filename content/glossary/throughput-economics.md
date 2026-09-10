@@ -36,3 +36,20 @@ Throughput Economics was structurally fit for the acceleration phase of the indu
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/throughput-economics/",
+  "name": "Throughput Economics",
+  "description": "The economic framework organized around the maximization of flow. Value is measured by what moves through a system: capital, trade volume, output, employment, exchange. The aggregate measures that track this framework (GDP, growth rate, return on investment, market capitalization) treat velocity of flow as the primary indicator of economic health.",
+  "termCode": "throughput-economics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/throughput-economics/"
+}
+</script>

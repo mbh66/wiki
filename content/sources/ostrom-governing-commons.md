@@ -28,3 +28,31 @@ Ostrom's empirical demonstration that common-pool resources can be sustainably s
 - [[ostrom-elinor|Elinor Ostrom]]
 - [[regenerative-economics|Regenerative Economics (glossary)]]
 - [[polycentricity|Polycentricity (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/ostrom-governing-commons/",
+  "name": "Governing the Commons: The Evolution of Institutions for Collective Action",
+  "author": {
+    "@type": "Person",
+    "name": "Elinor Ostrom"
+  },
+  "datePublished": "1990",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cambridge University Press"
+  },
+  "sameAs": "https://doi.org/10.1017/CBO9780511807763",
+  "url": "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Ostrom's empirical demonstration that common-pool resources can be sustainably self-governed by communities without either privatization or state control. Drawing on fieldwork in irrigation systems, fisheries, forests, and grazing commons across multiple continents, Ostrom identifies design principles that distinguish long-enduring commons arrangements from those that collapse. The book won her the Nobel Memorial Prize in Economic Sciences in 2009 and supplies the theory of commons governance that Regenerative Economics adds to the historical retention tradition. Where the retention figures theorized retention at the scale of the nation-state, Ostrom's work opens the scale of the commons: the watershed, the fishery, the forest, the coordination-node between the state and the market."
+  }
+}
+</script>

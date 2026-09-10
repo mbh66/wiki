@@ -97,3 +97,27 @@ The answers to the four prompts are not a plan. They are the initial read. The [
 ## Provenance
 
 Written 27 August 2026 for the "AI Quick-engage" section of the wiki's index page. The four prompts are constructed from the wiki's existing operational vocabulary (retention logic, the tenderable services portfolio, the readiness diagnostic, and the [[glossary/transvestment|transvestment]] pathways) and from the corporate-partnerships-protected-areas research brief. The prompts have not yet been run against a real BioHub. The first coordinator to run them is invited to feed the outputs back so the phrasing can be tuned.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/ai-quick-engage/",
+  "headline": "AI Quick-Engage",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-08-27",
+  "dateModified": "2026-08-27",
+  "keywords": [
+    "essay",
+    "orientation",
+    "ai-engagement"
+  ]
+}
+</script>

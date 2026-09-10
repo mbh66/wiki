@@ -74,3 +74,25 @@ The distinction matters at the design stage. Regeneration is the direction of tr
 ## Provenance
 
 Extracted from *BioConomy_and_the_BioStack.md* and *Water_as_Compound_TIME_Asset.md* in the BioConomy project. The concept is stated in both sources at length; this page synthesizes the treatment across them and links to the glossary entries that already exist for the individual terms.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/retention-logic/",
+  "name": "Retention Logic",
+  "description": "Retention logic is the operating principle of an economy measured by what it holds in place, restores, and passes on, rather than by the volume of what it converts and moves out.",
+  "termCode": "retention-logic",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/retention-logic/",
+  "alternateName": [
+    "retention",
+    "retention economics",
+    "value retention"
+  ]
+}
+</script>

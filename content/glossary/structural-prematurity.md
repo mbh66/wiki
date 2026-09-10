@@ -40,3 +40,24 @@ The falsification test is that frameworks judged structurally premature during a
 ## Provenance
 
 Coined within the BioConomy corpus as an interpretive frame for the retention lineage. See [[concepts/structural-prematurity|the concept page]] for extended treatment.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/structural-prematurity/",
+  "name": "Structural Prematurity",
+  "description": "An idea is structurally premature when it correctly diagnoses a problem but is offered against the prevailing gradient of a phase of the S-curve that selects for the opposite response.",
+  "termCode": "structural-prematurity",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/structural-prematurity/",
+  "alternateName": [
+    "structurally premature",
+    "premature diagnosis"
+  ]
+}
+</script>

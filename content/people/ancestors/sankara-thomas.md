@@ -35,3 +35,17 @@ Sankara was assassinated on 15 October 1987 in a coup led by his former ally Bla
 ## Provenance
 
 Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*. Assassination verdict per Burkinabè military tribunal, April 2022, reported by AP, France 24, and Al Jazeera.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/sankara-thomas/",
+  "name": "Thomas Sankara (1949-1987)",
+  "description": "Military officer and pan-African revolutionary, president of Burkina Faso from August 1983 until his assassination in October 1987. Sankara renamed the country \"Land of Upright People\" and pursued an integrated program of land nationalization and redistribution, mass vaccination (2.5 million children vaccinated against meningitis, yellow fever, and measles), a nationwide literacy campaign, road and rail construction, rejection of IMF and World Bank structural adjustment, and continent-wide debt repudiation. His speech to the Organisation of African Unity in Addis Ababa in July 1987 laid out the debt-repudiation case in full. He modeled austerity in government, selling the ministerial Mercedes fleet for Renault 5s and taking a modest official salary.",
+  "alternateName": [
+    "burkina faso 1983-87",
+    "land of upright people"
+  ]
+}
+</script>

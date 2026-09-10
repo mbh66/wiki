@@ -52,3 +52,17 @@ For the BioConomy corpus, Wray's significance is that he completed the intellect
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the MMT/Chartalist lineage mapping for the MMT/S-curve research brief.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/wray-l-randall/",
+  "name": "L. Randall Wray (1953-)",
+  "description": "American economist, professor at Bard College's Levy Economics Institute, former student of Hyman Minsky at Washington University in St. Louis. Wray is the academic systematizer of Modern Monetary Theory. His _Understanding Modern Money: The Key to Full Employment and Price Stability_ (1998) was the first book-length synthesis that connected Mosler's operational insights from the bond market to the Chartalist tradition (Knapp, Innes), Lerner's functional finance, Minsky's institutional analysis of banking, and Keynes's monetary theory. The book established MMT as a coherent research program with identifiable theoretical foundations, empirical claims, and policy implications.",
+  "alternateName": [
+    "understanding modern money",
+    "modern money theory wray"
+  ]
+}
+</script>

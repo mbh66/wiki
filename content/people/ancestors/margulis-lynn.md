@@ -59,3 +59,17 @@ For the [[frameworks/three-futures|Transcendence]] trajectory and the [[framewor
 ## Provenance
 
 Extracted from references in *I The Three Futures* (Emancipation Architecture Movement I). Enriched August 2027 from the Roam Research graph (MichaelHaupt): digital library PDF and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/margulis-lynn/",
+  "name": "Lynn Margulis (1938-2011)",
+  "description": "American evolutionary biologist (1938-2011) who established the endosymbiotic theory of eukaryotic cell evolution against fierce resistance from the neo-Darwinist establishment. Her work demonstrated that the major transitions in the evolution of life were driven by integration and symbiosis, not by competition alone, and provides the biological grounding for the Mycelial Consciousness framework.",
+  "alternateName": [
+    "Lynn Margulis",
+    "Margulis"
+  ]
+}
+</script>

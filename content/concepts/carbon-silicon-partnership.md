@@ -71,3 +71,25 @@ The partnership holds when each form of intelligence operates in its domain of s
 ## Provenance
 
 Extracted from *Carbon-Silicon Partnership* (Notion export, September 2026). Voice preserved; em dashes replaced with periods, commas, or parentheses as fits the sentence. The partnership framing is preserved as a working operational statement about how the wiki's own material was produced.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/carbon-silicon-partnership/",
+  "name": "Carbon-Silicon Partnership",
+  "description": "Two forms of intelligence are converging in bioregional work, and the relationship between them determines whether the work succeeds. The Carbon-Silicon Partnership names the productive relationship between human-made computational infrastructure and every other form of intelligence, and specifies the boundary each side must hold.",
+  "termCode": "carbon-silicon-partnership",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/carbon-silicon-partnership/",
+  "alternateName": [
+    "carbon silicon partnership",
+    "carbon-silicon",
+    "carbon intelligence silicon intelligence"
+  ]
+}
+</script>

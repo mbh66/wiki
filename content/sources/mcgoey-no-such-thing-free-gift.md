@@ -21,3 +21,29 @@ Supplies the structural mechanism for the observation that "the failure of phila
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
 - [[mycelial-patronage|Mycelial Patronage]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/mcgoey-no-such-thing-free-gift/",
+  "name": "No Such Thing as a Free Gift: The Gates Foundation and the Price of Philanthropy",
+  "author": {
+    "@type": "Person",
+    "name": "Linsey McGoey"
+  },
+  "datePublished": "2015",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Verso"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Supplies the structural mechanism for the observation that \"the failure of philanthropy is its own success\": the donor's indispensability grows in proportion to its inability to resolve the inequalities its presence compounds. McGoey argues that philanthropists' giving is aimed at preserving rather than redistributing wealth. For the Three-Feature Test, McGoey's analysis is the primary source on why philanthropic commons funding fails the constitutive-investment criterion: capital is retractable on the funder's schedule and accountable to the funder's metrics, making the funder's commitment conditional and reversible."
+  }
+}
+</script>

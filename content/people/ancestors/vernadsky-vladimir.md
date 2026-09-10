@@ -59,3 +59,18 @@ For the [[frameworks/time-framework|TIME Framework]] and the wiki's account of c
 ## Provenance
 
 Written 2 September 2026 to give the wiki's three-sphere argument its primary-source anchor. Vernadsky is the figure whose scientific formulation of the biosphere and noosphere the wiki depends on for its geosphere / biosphere / noosphere stratigraphy; the page was created when that dependency became load-bearing for the BioHub-as-landing-point argument developed in the research memo of the same date.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/vernadsky-vladimir/",
+  "name": "Vladimir Vernadsky (1863-1945)",
+  "description": "Russian and Ukrainian mineralogist and geochemist (1863-1945) who founded biogeochemistry and gave the biosphere its first systematic scientific formulation. His work established life as a geological force on par with the movement of continents and the circulation of the atmosphere, and gave the noosphere its scientific footing as a real planetary stratum.",
+  "alternateName": [
+    "Vladimir Vernadsky",
+    "Vladimir Ivanovich Vernadsky",
+    "Vernadsky"
+  ]
+}
+</script>

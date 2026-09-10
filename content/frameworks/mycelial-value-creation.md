@@ -81,3 +81,23 @@ The five layers are not additive in the way conventional national accounts add s
 ## Provenance
 
 Extracted from *II Mycelial Value Creation* (Emancipation Architecture Movement II, Michael Haupt, March 2026). The Movement II document is dense and technical; this page provides an overview and directs readers to the source for the full argument. The five-literatures framing and the five-layers operational structure are the EA's own synthesis and are presented as working hypotheses; each individual literature carries its own peer-reviewed grounding and is treated on the associated source pages.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/mycelial-value-creation/",
+  "name": "Mycelial Value Creation",
+  "description": "Mycelial Value Creation is Movement II of the three-movement Emancipation Architecture. It answers the question that Movement I (The Three Futures) leaves open: if the Momentous Leap is a shift in how human beings perceive their relationship to production, exchange, and each other, then what does the very meaning of economic value become under the consciousness required for Transcendence?",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-08-25",
+  "creativeWorkStatus": "documented-framework",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

@@ -121,3 +121,23 @@ The absence of a mature +N portable symbol is the strongest single indicator of 
 ## Provenance
 
 Extracted from *TIMN Nodes Comparative Analysis.md* in the [[glossary/bioconomy|BioConomy]] project. The structural rhymes across the four columns are the source document's own analysis. The +N column is presented, as in the source, with clear epistemic tagging (speculative projection for the awe-producing distillation object; structural inference for the BioScore-as-legibility-signal claim; documented fact for the observable properties of the current bioregional-hub initiatives). Ronfeldt himself has not made these specific claims about physical manifestations; the mapping is the author's structural inference and is presented as such.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/timn-physical-manifestations/",
+  "name": "The Physical Manifestations of TIMN",
+  "description": "Each of the four TIMN coordination forms produces a characteristic physical structure that compresses its invisible coordination logic into visible, awe-inducing form: the sacred site for T, the cathedral for +I, the skyscraper and index for +M, and the emerging bioregional hub with its BioScore for +N.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-08-25",
+  "creativeWorkStatus": "structural-inference",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

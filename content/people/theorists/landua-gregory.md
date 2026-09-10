@@ -19,3 +19,13 @@ Co-developer (with Ethan Roland) of the Eight Forms of Capital ontology and subs
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/landua-gregory/",
+  "name": "Gregory Landua",
+  "description": "Co-developer (with Ethan Roland) of the Eight Forms of Capital ontology and subsequent architect of the Regen Network's verifiable ecological accounting infrastructure."
+}
+</script>

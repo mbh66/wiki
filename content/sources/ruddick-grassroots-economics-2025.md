@@ -26,3 +26,30 @@ The book-length treatment of the Commitment Pooling Protocol and Ruddick's fifte
 
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[ruddick-will|Will Ruddick]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/ruddick-grassroots-economics-2025/",
+  "name": "Grassroots Economics: Reflection and Practice",
+  "author": {
+    "@type": "Person",
+    "name": "Will O. Ruddick"
+  },
+  "datePublished": "2025",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Grassroots Economics Foundation"
+  },
+  "url": "https://grassrootseconomics.org/book/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The book-length treatment of the Commitment Pooling Protocol and Ruddick's fifteen years of field practice, from Eco-Pesa in Mombasa (2010) through the Sarafu Network (2013 to 2023) to the current commitment pool phase (July 2023 onward). By the book's publication, the mechanism was operational across Kenya, Cameroon, and South Africa, covering over 80 communities and roughly 60,000 households."
+  }
+}
+</script>

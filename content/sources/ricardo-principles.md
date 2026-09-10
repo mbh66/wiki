@@ -28,3 +28,30 @@ Ricardo's *Principles* formalized political economy into a system of laws and in
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[ricardo-david|David Ricardo]]
 - [[comparative-advantage|Comparative Advantage (glossary)]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/ricardo-principles/",
+  "name": "On the Principles of Political Economy and Taxation",
+  "author": {
+    "@type": "Person",
+    "name": "David Ricardo"
+  },
+  "datePublished": "1817",
+  "publisher": {
+    "@type": "Organization",
+    "name": "John Murray"
+  },
+  "url": "https://www.econlib.org/library/Ricardo/ricP.html",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Ricardo's *Principles* formalized political economy into a system of laws and introduced the theory of comparative advantage, which argues that nations gain by specializing in what they produce relatively most efficiently and trading for the rest. The theory became the theoretical foundation for two centuries of trade liberalization. As a proposition about relative efficiency it is mathematically sound. As a policy prescription for a mature system it is what the Retention Economics tradition has spent two centuries pushing back against, because specialization at global scale strips regions of the productive diversity that lets them retain value locally."
+  }
+}
+</script>

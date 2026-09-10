@@ -35,3 +35,17 @@ Glazyev belongs on this list as a transmission point where the Hamilton-Carey-Li
 ## Provenance
 
 Extracted from Section 2, Clusters C and D of the *Research Brief: The S-Curve Thesis*. LaRouche-network content excluded from primary analytical weight per the brief's guardrails.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/glazyev-sergei/",
+  "name": "Sergei Glazyev (b. 1961)",
+  "description": "Russian economist, member of the Russian Academy of Sciences, adviser to President Putin from 2012, Minister for Integration and Macroeconomics of the Eurasian Economic Commission, and, per the source brief, State Secretary of the Union State of Russia and Belarus from 2025. Glazyev's published work critiques dollar hegemony and advocates a new monetary architecture organized around Eurasian integration, local-currency settlement between Russia and China, and a proposed commodity-backed settlement unit for BRICS+.",
+  "alternateName": [
+    "eurasian integration",
+    "physical economy revival"
+  ]
+}
+</script>

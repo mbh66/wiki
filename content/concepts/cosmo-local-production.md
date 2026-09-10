@@ -78,3 +78,25 @@ Ruddick's Grassroots Economics protocol operates on the same cosmo-local logic: 
 ## Provenance
 
 Extracted from *Cosmo-Local Production* (Notion export, September 2026). Voice preserved; em dashes replaced. External URLs from the source were kept on the source pages rather than in body prose.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/cosmo-local-production/",
+  "name": "Cosmo-Local Production",
+  "description": "Cosmo-local production is the pattern in which what is light travels globally and what is heavy stays local. Knowledge, designs, protocols, and research findings circulate freely across the planet through digital commons. Physical production (food, building materials, energy, textiles, manufactured goods) stays close to the place of need, using locally available materials, locally appropriate methods, and locally governed enterprises.",
+  "termCode": "cosmo-local-production",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/cosmo-local-production/",
+  "alternateName": [
+    "cosmo-local",
+    "cosmo-localism",
+    "design global manufacture local"
+  ]
+}
+</script>

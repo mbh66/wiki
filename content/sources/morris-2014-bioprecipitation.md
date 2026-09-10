@@ -19,3 +19,29 @@ The primary reference for the bioprecipitation hypothesis: that intact vegetatio
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/morris-2014-bioprecipitation/",
+  "name": "Bioprecipitation: a feedback cycle linking Earth history, ecosystem dynamics and land use through biological ice nucleators in the atmosphere",
+  "author": {
+    "@type": "Person",
+    "name": "C.E. Morris et al."
+  },
+  "datePublished": "2014",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Global Change Biology 20(2): 341-351"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The primary reference for the bioprecipitation hypothesis: that intact vegetation contributes to local rainfall through biological mechanisms including biogenic volatile organic compounds seeding cloud formation, ice-nucleation-active bacteria catalyzing precipitation, and mesoscale moisture recirculation. The hypothesis is scientifically coherent and represents a legitimate research frontier; it is not, however, established science in most biomes, and BioHub practitioners are advised to keep it separate from the defensible operational claim that coordinated landscape restoration co-produces usable water yield."
+  }
+}
+</script>

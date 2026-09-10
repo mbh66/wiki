@@ -21,3 +21,20 @@ The full spectrum of human-made computational infrastructure: telecommunications
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/intelligence-silicon/",
+  "name": "Intelligence, Silicon",
+  "description": "The full spectrum of human-made computational infrastructure: telecommunications, fiber-optic networks, satellite systems, the internet, large language models, and all associated compute power.",
+  "termCode": "intelligence-silicon",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/intelligence-silicon/"
+}
+</script>

@@ -36,3 +36,24 @@ List's argument is explicitly stage-based. Protection is a temporary development
 ## Provenance
 
 Borrowed from List (1841). See [[list-friedrich|Friedrich List]] for biographical context.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/infant-industry-protection/",
+  "name": "Infant Industry Protection",
+  "description": "Friedrich List's argument that backward countries cannot develop new industries in the presence of more advanced competitors without state intervention, especially tariff protection, until they are strong enough to compete. First articulated in *Outlines of American Political Economy* (1827) after List's years in the United States, and fully elaborated in *The National System of Political Economy* (1841).",
+  "termCode": "infant-industry-protection",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/infant-industry-protection/",
+  "alternateName": [
+    "list's infant industry argument",
+    "developmental protectionism"
+  ]
+}
+</script>

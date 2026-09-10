@@ -49,3 +49,23 @@ A pitch deck or fundraising pack is written to elicit money. The Identity Statem
 ## Provenance
 
 Extracted from the *BioHub Identity Template* v0.2 in the VoG as Patron Project Prototype knowledge base, where the Identity Statement is specified as the first of the template's three Prompt 3 outputs.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/identity-statement/",
+  "name": "Identity Statement",
+  "description": "The short, formal, foundational reference document a BioHub uses to introduce itself. Produced by Prompt 3 of the BioHub Identity Template. States who the BioHub is: name, founding cohort, anchor location, purpose, position within the field in brief, intellectual lineage in brief, entity form.",
+  "termCode": "identity-statement",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/identity-statement/",
+  "alternateName": [
+    "biohub identity statement"
+  ]
+}
+</script>

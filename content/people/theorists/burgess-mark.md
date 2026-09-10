@@ -20,3 +20,13 @@ Computer scientist and author of *Thinking in Promises* (2015), whose Promise 
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/burgess-mark/",
+  "name": "Mark Burgess",
+  "description": "Computer scientist and author of *Thinking in Promises* (2015), whose Promise Theory provides the formal architecture for modeling cooperation as a system of voluntary, autonomous commitments."
+}
+</script>

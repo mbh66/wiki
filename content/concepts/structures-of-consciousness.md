@@ -100,3 +100,26 @@ The individual developmental frameworks are documented through peer-reviewed res
 ## Provenance
 
 Extracted from the BioConomy project. Primary treatment in V2_Mycelial_Thesis.md (Part 4: Consciousness Evolution and the Transformation of Value), which presents all four developmental traditions and their convergence on the claim that V2 is consciousness-dependent. Movement I (The Three Futures, synced Google Doc) provides the Graves framework in its civilizational context. The Last Empire document provides the convergence table mapping all frameworks across historical phases. Belief Building provides the worldview literature foundation.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/structures-of-consciousness/",
+  "name": "Structures of Consciousness",
+  "description": "Structures of consciousness are the qualitatively distinct modes of awareness through which human beings perceive and organize their relationship to each other, to living systems, and to the conditions of their own existence. The BioConomy corpus draws on four independent developmental traditions that converge on the same structural claim: consciousness evolves through identifiable stages, and each stage produces fundamentally different economic logics.",
+  "termCode": "structures-of-consciousness",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/structures-of-consciousness/",
+  "alternateName": [
+    "consciousness evolution",
+    "developmental stages",
+    "consciousness development",
+    "developmental frameworks"
+  ]
+}
+</script>

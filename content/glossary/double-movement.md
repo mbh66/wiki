@@ -34,3 +34,24 @@ Polanyi observed the double movement in the nineteenth and early twentieth centu
 ## Provenance
 
 Borrowed from Polanyi (1944). See [[polanyi-karl|Karl Polanyi]] for biographical context.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/double-movement/",
+  "name": "Double Movement",
+  "description": "Karl Polanyi's term for the pattern by which, as market forces extend into new domains, society generates a protective counter-reaction to defend itself against commodification. Labor movements, environmental regulation, banking controls, welfare states, and cooperative institutions are all expressions of the counter-movement.",
+  "termCode": "double-movement",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/double-movement/",
+  "alternateName": [
+    "polanyi's double movement",
+    "protective counter-movement"
+  ]
+}
+</script>

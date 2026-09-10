@@ -51,3 +51,24 @@ The transition to [[e-form-emergent|+E]] coordination does not reform the nation
 ## Provenance
 
 Written 7 September 2026 as a glossary entry mapping the conventional economy's unit of coordination to the BioConomy's equivalent ([[bioregion|BioRegion]]). Structural inference drawn from the Economy versus BioConomy concept page, the Two Machines entry, and the TIME framework.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/nation-state/",
+  "name": "Nation-state",
+  "description": "The unit of economic coordination in the conventional Economy, defined by sovereign political boundary.",
+  "termCode": "nation-state",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/nation-state/",
+  "alternateName": [
+    "nation state",
+    "national economy"
+  ]
+}
+</script>

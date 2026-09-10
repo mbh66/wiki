@@ -25,3 +25,29 @@ Develops the structural-demographic theory of political instability, tested quan
 - [[frameworks/three-futures|The Three Futures]]
 - [[turchin-peter|Peter Turchin]]
 - [[tainter-joseph|Joseph Tainter]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/turchin-historical-dynamics/",
+  "name": "Historical Dynamics: Why States Rise and Fall",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Turchin"
+  },
+  "datePublished": "2003",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Princeton University Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Develops the structural-demographic theory of political instability, tested quantitatively across multiple civilizations. Identifies three interacting variables (elite overproduction, popular immiseration, state fiscal distress) whose interaction produces secular cycles of political instability. The theory is the analytical basis on which Turchin's 2010 *Nature* prediction of US political instability in the early 2020s rested. For the Three Futures framework, Historical Dynamics provides the peer-reviewed empirical grounding for the specific political-institutional mechanism of the Termination trajectory."
+  }
+}
+</script>

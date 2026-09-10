@@ -21,3 +21,16 @@ Founder of Ridgedale Permaculture in Sweden, a working farm and training centre 
 ## Provenance
 
 Stub entry created September 2026 as part of the BioPlace layer addition. Enrichment to follow.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/perkins-richard/",
+  "name": "Richard Perkins",
+  "description": "Founder of Ridgedale Permaculture in Sweden, a working farm and training centre that has become one of the reference sites for the commercial edge of the permaculture field. Perkins's work demonstrates that permaculture-designed holdings can operate as viable farm businesses at BioPlace scale, and his teaching materials have shaped a generation of European regenerative farmers.",
+  "alternateName": [
+    "Ridgedale Permaculture"
+  ]
+}
+</script>

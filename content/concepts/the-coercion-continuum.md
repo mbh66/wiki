@@ -82,3 +82,24 @@ The claim's strength is not its historical inevitability but its structural spec
 ## Provenance
 
 Extracted from *EA Patron Project Criteria.md* and cross-referenced against the *I The Three Futures* Emancipation Architecture document. The six-feature and six-inversion structure is the EA's own synthesis; the individual historical and legal claims are drawn from the sources cited above. Movements II and III of the EA treat the monetary design in greater technical detail; those documents remain the authoritative source for the specific mechanics of RPI issuance, demurrage rates, and inter-bioregional clearing.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/the-coercion-continuum/",
+  "name": "The Coercion Continuum",
+  "description": "The Coercion Continuum is the Emancipation Architecture's structural reading of the past twelve thousand years of monetary design as a single continuous lineage, each iteration of which has served extraction and social stratification. The EA's six structural inversions are the specific reversals of that lineage its monetary architecture proposes.",
+  "termCode": "the-coercion-continuum",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/the-coercion-continuum/",
+  "alternateName": [
+    "coercion continuum",
+    "twelve thousand year continuum"
+  ]
+}
+</script>

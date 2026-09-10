@@ -21,3 +21,30 @@ The canonical open dataset on the Sarafu Network, documenting circulation of a d
 - [[research/pooling-across-timn|Pooling Across TIMN]]
 - [[commitment-pooling|Commitment Pooling]]
 - [[ruddick-will|Will Ruddick]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/mattsson-criscione-ruddick-sarafu/",
+  "name": "Circulation of a Digital Community Currency",
+  "author": {
+    "@type": "Person",
+    "name": "Carolina E. S. Mattsson, Teodoro Criscione, William O. Ruddick"
+  },
+  "datePublished": "2022",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Scientific Data (Nature)"
+  },
+  "url": "https://arxiv.org/abs/2207.08941",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The canonical open dataset on the Sarafu Network, documenting circulation of a digital community currency in Kenyan informal settlements and rural areas. The dataset covers approximately 55,000 registered accounts and enables reproducible research on community-currency dynamics under crisis conditions (COVID-19). For the Pooling Across TIMN research brief and for the Commitment Pooling concept, this paper is the primary empirical grounding for the Sarafu case and one of the strongest evidentiary bases for the +N pooling form."
+  }
+}
+</script>

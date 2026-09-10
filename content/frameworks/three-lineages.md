@@ -85,3 +85,23 @@ The mapping is programmatic rather than definitional. Its purpose is to operatio
 ## Provenance
 
 Extracted from Sections 1, 2, and 4 of the *Research Brief: The S-Curve Thesis* and structured as a framework page that pairs each lineage with its Regenerative successor. The mapping table is a Structural Inference offered as a programmatic operationalization.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://wiki.bioconomy.earth/frameworks/three-lineages/",
+  "name": "Throughput, Retention, Regenerative: The Three Lineages",
+  "description": "Three economic frameworks span the industrial S-curve, each structurally fit for a different phase: Throughput for acceleration, Retention as the growth-phase counter-tradition, and Regenerative for the deceleration and maturation phase.",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "dateModified": "2026-08-25",
+  "datePublished": "2026-08-25",
+  "creativeWorkStatus": "structural-inference",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  }
+}
+</script>

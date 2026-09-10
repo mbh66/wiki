@@ -48,3 +48,17 @@ Berry's conviction that small-scale farming is essential to healthy local econom
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2026 from the Roam Research graph (MichaelHaupt): biographical detail, solving for pattern concept, selected works, digital library PDF, and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/berry-wendell/",
+  "name": "Wendell Berry (1934-2026)",
+  "description": "American novelist, poet, essayist, environmental activist, cultural critic, and farmer whose work on local adaptation, land stewardship, and the economics of community provides the agrarian intellectual foundation for bioregional practice. Closely identified with rural Kentucky, Berry developed many of his agrarian themes in the early essays of *The Gift of Good Land* and *The Unsettling of America*.",
+  "alternateName": [
+    "Wendell Berry",
+    "Wendell Erdman Berry"
+  ]
+}
+</script>

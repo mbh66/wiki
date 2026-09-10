@@ -15,3 +15,13 @@ Developer of the fractal sovereignty framework, identifying three interlocking s
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/pignot-sacha/",
+  "name": "Sacha Pignot",
+  "description": "Developer of the fractal sovereignty framework, identifying three interlocking scales (hyper-local, bioregional, cosmo-local) that map onto the BioHub's own scale architecture."
+}
+</script>

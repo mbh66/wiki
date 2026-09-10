@@ -114,3 +114,27 @@ The design question for a bioregional currency is whether the demand driver can 
 ## Provenance
 
 Written September 2026 as a concept-level treatment of sound finance, expanding the glossary entry at [[glossary/sound-finance|Sound Finance]]. The developmental arc from hut tax to fiscal orthodoxy synthesizes the chartalist lineage (Knapp, Innes, Lerner, Minsky, Wray, Mosler, Kelton) with the colonial taxation literature (Daunton, Callinicos) and the wiki's own Substrate Hypothesis and Coercion Continuum frameworks. The individual claims draw from the sources cited above; the synthesis across them is the wiki's own.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/sound-finance/",
+  "name": "Sound Finance",
+  "description": "# Sound Finance",
+  "termCode": "sound-finance",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/sound-finance/",
+  "alternateName": [
+    "sound finance",
+    "sound finance doctrine",
+    "Treasury view",
+    "fiscal orthodoxy",
+    "taxes fund government"
+  ]
+}
+</script>

@@ -19,3 +19,13 @@ Indian water conservationist whose johad rainwater harvesting work restored rive
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/singh-rajendra/",
+  "name": "Rajendra Singh",
+  "description": "Indian water conservationist whose johad rainwater harvesting work restored rivers across Rajasthan, demonstrating community-led catchment regeneration at scale."
+}
+</script>

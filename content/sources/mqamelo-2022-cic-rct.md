@@ -20,3 +20,29 @@ Possibly the first randomized control trial on community currencies. Documents t
 
 - [[research/pooling-across-timn|Pooling Across TIMN]]
 - [[commitment-pooling|Commitment Pooling]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/mqamelo-2022-cic-rct/",
+  "name": "Community Currencies as Crisis Response: Results from a Randomized Control Trial in Kenya",
+  "author": {
+    "@type": "Person",
+    "name": "Zaira Mqamelo"
+  },
+  "datePublished": "2022",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Frontiers in Blockchain, 5"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Possibly the first randomized control trial on community currencies. Documents that community inclusion currency (CIC) transfers of $30 equivalent were associated, two months later, with a $93.51 increase in wallet balance, $23.17 in monthly CIC income, $16.30 in monthly CIC spending, $6.31 in average trade size, and $28.43 in increased expenditure on food and water. Documents persistent gender differences favoring men. For the Pooling Across TIMN research brief and for any bioregional currency design, Mqamelo's RCT is the strongest available quasi-experimental evidence on how community currency affects household economic outcomes."
+  }
+}
+</script>

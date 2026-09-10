@@ -95,3 +95,29 @@ The shift from *bioregion* to *BioRegion* doesn't happen overnight. It is the ac
 ## Provenance
 
 Written 27 August 2026 as an addition to the orientation section, formalizing a distinction between "bioregion" (the underlying ecological-cultural unit) and "BioRegion" (a bioregion that has formally organized its coordination around the BioConomy framework) that the corpus had until now carried implicitly. The essay makes the case-sensitive convention already used across the existing pages readable to a first-time reader.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/from-bioregion-to-bioregion/",
+  "headline": "From a Bioregion to a BioRegion",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-08-27",
+  "dateModified": "2026-08-27",
+  "keywords": [
+    "essay",
+    "orientation",
+    "bioregion",
+    "biohub",
+    "bioconomy"
+  ]
+}
+</script>

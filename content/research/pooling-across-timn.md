@@ -148,3 +148,19 @@ Three findings.
 ## Provenance
 
 Extracted from *Pooling_Across_TIMN_Research_Brief.md* in the [[glossary/bioconomy|BioConomy]] project. Valley-of-Grace-specific implications from the source (Section 6) have been removed for this international-audience version. The structural mapping of pooling systems to TIMN coordination forms is the author's own inference and is presented as such; Ronfeldt has not made these specific claims. All empirical figures are attributed to the sources cited on each case.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/research/pooling-across-timn/",
+  "headline": "Pooling Across TIMN",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-08-25",
+  "dateModified": "2026-08-25",
+  "creativeWorkStatus": "structural-inference"
+}
+</script>

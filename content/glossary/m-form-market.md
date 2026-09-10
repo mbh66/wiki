@@ -65,3 +65,25 @@ The M form coordinates through competition; the [[e-form-emergent|E form]] coord
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, coordination node, BioStack position, and contrast with adjacent forms added 7 September 2026, drawing on the Coordination Node entry, the Two Machines entry, the Economy/BioConomy glossary entries, and the Economy versus BioConomy concept page.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-form-market/",
+  "name": "M form (Market)",
+  "description": "Coordination through price signals, exchange, and competition between self-interested actors.",
+  "termCode": "m-form-market",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/m-form-market/",
+  "alternateName": [
+    "M-form",
+    "Market form",
+    "market form"
+  ]
+}
+</script>

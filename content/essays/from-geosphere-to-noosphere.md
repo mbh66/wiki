@@ -128,3 +128,29 @@ The two are complementary. A digital twin of a watershed can model the hydrologi
 ## Provenance
 
 Written 30 August 2026 as a companion to the BioHub wiki layout essay. The planetary-layer framework (Geosphere, Biosphere, Noosphere) originates with Vernadsky and Teilhard de Chardin; its integration with the BioConomy corpus's developmental and coordination frameworks is original to this wiki. The claim that the BioHub wiki is the specific mechanism connecting Noospheric coordination to Geospheric reality at bioregional scale is a structural inference from the wiki layout specification and the existing corpus material on coordination nodes, mycelial coordination, and the Carbon-Silicon Partnership.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/essays/from-geosphere-to-noosphere/",
+  "headline": "From Geosphere to Noosphere",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "datePublished": "2026-08-30",
+  "dateModified": "2026-08-30",
+  "keywords": [
+    "essay",
+    "orientation",
+    "bioconomy",
+    "coordination",
+    "consciousness"
+  ]
+}
+</script>

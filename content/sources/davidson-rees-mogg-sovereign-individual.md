@@ -54,3 +54,30 @@ The book's own predictions are not politically neutral, and the wiki does not tr
 ## Provenance
 
 Written 5 September 2026 to complete the citation trail from the [[concepts/surveillance-capitalism|Surveillance Capitalism]] concept page and the [[thiel-peter|Peter Thiel]] person page. The book was published in 1997 by Simon & Schuster and reissued in 2020 with a preface by Peter Thiel. The prediction list is drawn from the book's own chapter arguments. The reading of the book as founding narrative for the four-layer surveillance-capitalism architecture is Michael Haupt's synthesis (MS); the individual predictions and the fact of the Thiel preface are IC to the primary text.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/davidson-rees-mogg-sovereign-individual/",
+  "name": "The Sovereign Individual: Mastering the Transition to the Information Age",
+  "author": {
+    "@type": "Person",
+    "name": "James Dale Davidson and William Rees-Mogg"
+  },
+  "datePublished": "1997",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simon & Schuster"
+  },
+  "url": "https://www.simonandschuster.com/books/The-Sovereign-Individual/James-Dale-Davidson/9780684832722",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Davidson (an American private investor and newsletter publisher) and Rees-Mogg (the former editor of *The Times* of London and a life peer, father of the British MP Jacob Rees-Mogg) argued that strong cryptography, digital money, and portable individual wealth would erode the modern nation-state's monopoly on violence and taxation by the early twenty-first century. The book predicted the emergence of a class of \"sovereign individuals\" able to exit mass democracy by placing their assets, identities, and productive activity beyond state reach. It predicted the collapse of high-tax welfare states, jurisdictional competition for mobile capital, the decline of representative democracy, and, most specifically, the emergence of privately issued cyber-currency (using that term explicitly) as the medium through which the exit would occur."
+  }
+}
+</script>

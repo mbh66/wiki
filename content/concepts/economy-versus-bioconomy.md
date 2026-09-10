@@ -104,3 +104,25 @@ Together these three contributions close the gap between diagnosis and disciplin
 ## Provenance
 
 Written 30 August 2026 as a concept-level page distinguishing BioConomy from the conventional economy. The five-axis structure (measurement, ownership, unit, money, substrate) is a structural inference synthesized from the existing corpus pages on Retention Logic, Bioregional Economics, the Three Lineages framework, the Two Machines glossary entry, and the BioConomy Developmental Arc. No new claims are introduced; the page organizes existing corpus material around the specific question of what makes BioConomy structurally different from the system it proposes to replace.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/economy-versus-bioconomy/",
+  "name": "Economy versus BioConomy",
+  "description": "The difference between an economy as the term is conventionally used and a BioConomy is a difference of operating logic, ownership form, unit of coordination, measurement instrument, and relationship to the living systems on which all production depends.",
+  "termCode": "economy-versus-bioconomy",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/economy-versus-bioconomy/",
+  "alternateName": [
+    "economy vs bioconomy",
+    "the difference",
+    "what makes bioconomy different"
+  ]
+}
+</script>

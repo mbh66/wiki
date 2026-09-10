@@ -22,3 +22,13 @@ Economist and author of Small Is Beautiful (1973), foundational to the appropr
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/ancestors/schumacher-e-f/",
+  "name": "E.F. Schumacher (1911–1977)",
+  "description": "Economist and author of Small Is Beautiful (1973), foundational to the appropriate-scale and place-based economics traditions."
+}
+</script>

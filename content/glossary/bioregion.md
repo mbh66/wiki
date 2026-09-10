@@ -54,3 +54,20 @@ In the [[time|TIME]] framework, the nation-state is the dominant [[i-form-instit
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, contrast with the Nation-state, and TIME framework analysis added 7 September 2026, drawing on the Economy versus BioConomy concept page, the BioStack entry, and the TIME framework glossary entries.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/bioregion/",
+  "name": "BioRegion",
+  "description": "A geographical area defined by ecological systems rather than political boundaries, functioning as the unit of economic coordination in a BioConomy.",
+  "termCode": "bioregion",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/bioregion/"
+}
+</script>

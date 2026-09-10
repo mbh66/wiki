@@ -103,3 +103,28 @@ The bond also does not, on its own, direct value to the communities doing the wo
 ## Provenance
 
 Drafted for the BioConomy wiki, September 2026, from the Greater Cape Town Water Fund briefing note in the project archive and the RMB launch announcement of 1 April 2026. The Promise Theory reading of the split-coupon structure is a wiki-native contribution and should not be attributed to Burgess and Bergstra, whose framework it applies. The FR31PB deal facts (tranche investors, sizes, dates, agents) are drawn from public RMB and TNC communications and should be verified against the JSE listing prospectus before quotation in external work.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/performance-based-water-bonds/",
+  "name": "Performance-Based Water Bonds",
+  "description": "The performance-based water bond is the first capital-markets instrument through which a BioHub can convert restored catchment yield into a bankable revenue stream. It is also, in the same motion, a signal that the +I-form and +M-form can no longer keep the promises they were built to keep. The signal and the instrument are the same event.",
+  "termCode": "performance-based-water-bonds",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/performance-based-water-bonds/",
+  "alternateName": [
+    "performance-based water bond",
+    "water bond",
+    "outcomes-based water bond",
+    "nature-linked bond",
+    "Cape Water Bond",
+    "FR31PB"
+  ]
+}
+</script>

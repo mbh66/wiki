@@ -24,3 +24,30 @@ Reinert generalizes the [[glossary/retention-economics|retention]]-tradition doc
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[reinert-erik|Erik Reinert]]
 - [[list-friedrich|Friedrich List]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/reinert-how-rich-countries-got-rich/",
+  "name": "How Rich Countries Got Rich and Why Poor Countries Stay Poor",
+  "author": {
+    "@type": "Person",
+    "name": "Erik S. Reinert"
+  },
+  "datePublished": "2007",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Constable"
+  },
+  "url": "https://www.othercanon.org",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Reinert generalizes the retention-tradition documentation across five centuries, from Renaissance Italy through the Cameralists to the modern Far East. His central mechanism is the distinction between increasing-returns activities (manufacturing) and diminishing-returns activities (raw-material extraction), and his central policy argument is that development requires state intervention, protection, and strategic investment aimed at moving a country into increasing-returns activities. Free trade is the luxury affordable only after a productive base is established. The book is the primary companion to Chang's *Kicking Away the Ladder* and, together with it, supplies most of the peer-reviewed economic-history basis for the retention lineage."
+  }
+}
+</script>

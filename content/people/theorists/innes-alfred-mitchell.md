@@ -50,3 +50,17 @@ Innes's destruction of the barter myth is separately significant for the BioCono
 ## Provenance
 
 Created September 2026 for the BioConomy wiki as part of the MMT/Chartalist lineage mapping for the MMT/S-curve research brief.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/innes-alfred-mitchell/",
+  "name": "Alfred Mitchell Innes (1864-1950)",
+  "description": "British diplomat and economist, author of two papers in _The Banking Law Journal_ that constitute the most radical early statement of the credit theory of money: \"What Is Money?\" (May 1913) and \"The Credit Theory of Exchange\" (January 1914). Innes served in the British diplomatic corps in Egypt, Uruguay, and the United States. His monetary writing was a sideline to his diplomatic career, and the papers vanished from economic discourse for most of the twentieth century before being rediscovered by the MMT school.",
+  "alternateName": [
+    "credit theory of money",
+    "what is money innes"
+  ]
+}
+</script>

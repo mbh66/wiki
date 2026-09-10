@@ -46,3 +46,18 @@ His approach is distinguished from mainstream permaculture by its scale and its 
 ## Provenance
 
 Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): full name, biographical detail, selected works, digital library PDF, and external links added.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://wiki.bioconomy.earth/people/practitioners/holzer-sepp/",
+  "name": "Sepp Holzer",
+  "description": "Austrian farmer, author, and international consultant for natural agriculture whose water retention landscape practice at the Krameterhof demonstrated large-scale rainwater harvesting and landscape hydration in temperate mountain terrain.",
+  "alternateName": [
+    "Sepp Holzer",
+    "Josef Holzer",
+    "Josef 'Sepp' Holzer"
+  ]
+}
+</script>

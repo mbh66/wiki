@@ -44,3 +44,26 @@ Sound finance is legally entrenched in the German Schuldenbremse (Basic Law Arti
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
 - [[s-curve-thesis|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/sound-finance/",
+  "name": "Sound Finance",
+  "description": "# Sound Finance",
+  "termCode": "sound-finance",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/sound-finance/",
+  "alternateName": [
+    "sound finance doctrine",
+    "balanced budget doctrine",
+    "Treasury view",
+    "fiscal orthodoxy"
+  ]
+}
+</script>

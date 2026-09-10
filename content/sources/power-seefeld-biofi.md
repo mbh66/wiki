@@ -26,3 +26,30 @@ The founding specification of the Bioregional Financing Facility (BFF) architect
 - [[glossary/bioregional-financing-facility-bff|Bioregional Financing Facility (BFF) (glossary)]]
 - [[power-samantha|Samantha Power]]
 - [[seefeld-leon|Leon Seefeld]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/power-seefeld-biofi/",
+  "name": "Bioregional Financing Facilities: Reimagining Finance to Regenerate Our Planet",
+  "author": {
+    "@type": "Person",
+    "name": "Samantha Power, Leon Seefeld, et al."
+  },
+  "datePublished": "2024",
+  "publisher": {
+    "@type": "Organization",
+    "name": "BioFi Project / Dark Matter Labs / Buckminster Fuller Institute"
+  },
+  "url": "https://biofi.earth/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The founding specification of the Bioregional Financing Facility (BFF) architecture. The report proposes a phased institutional model in which a bioregion builds four interlocking entities as it matures: a bioregional trust (holding inalienable commons assets), a venture studio (incubating regenerative enterprises), an investment company (channeling capital into place-based regenerative activity), and a bioregional bank (providing lending, savings, and currency functions). The entities are modular and phased, and the vision extends to every bioregion on earth."
+  }
+}
+</script>

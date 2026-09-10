@@ -41,3 +41,26 @@ Material Consciousness is to [[glossary/mycelial-consciousness|Mycelial Consciou
 
 - [[sources/gebser-ever-present-origin|Gebser, J. (1949/1985). The Ever-Present Origin]]
 - [[sources/graves-levels-of-existence|Graves, C.W. (1970). Levels of Existence]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/material-consciousness/",
+  "name": "Material Consciousness",
+  "description": "The form of consciousness that privileges analytical, perspectival, individual intelligence applied to commodified labor, corresponding to Gebser's mental-rational structure, Graves's First Tier value systems, and Kegan's self-authoring mind.",
+  "termCode": "material-consciousness",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/material-consciousness/",
+  "alternateName": [
+    "material consciousness",
+    "Material",
+    "mental-rational consciousness",
+    "perspectival consciousness"
+  ]
+}
+</script>

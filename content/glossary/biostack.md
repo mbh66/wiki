@@ -41,3 +41,20 @@ The three geographic scales nest inside one another. The fourth term is architec
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. Framing refined in September 2026 to distinguish the three geographic scales from the architectural fourth term, and to expand the BioPlace layer.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/biostack/",
+  "name": "BioStack",
+  "description": "A BioStack is the nested structure through which bioregional coordination takes hold. Four geographic scales sit inside a coordination architecture that lets those scales function together as an economy.",
+  "termCode": "biostack",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/biostack/"
+}
+</script>

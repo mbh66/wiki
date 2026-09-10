@@ -40,3 +40,25 @@ The wiki reads functional finance as a technical description of what fiscal poli
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. Functional finance is a technical description without a public coordination story attached.
 - [[structural-prematurity|Structural Prematurity]]. Functional finance as an inflection-point insight that waited eight decades for political conditions.
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/functional-finance/",
+  "name": "Functional Finance",
+  "description": "# Functional Finance",
+  "termCode": "functional-finance",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/functional-finance/",
+  "alternateName": [
+    "functional finance doctrine",
+    "Lerner's two laws",
+    "functional theory of fiscal policy"
+  ]
+}
+</script>

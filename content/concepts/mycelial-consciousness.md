@@ -70,3 +70,25 @@ Mycelial Consciousness is the psychological substrate the [[frameworks/three-fut
 ## Provenance
 
 Extracted from references in *Overberg_BioHub_Founding_Brief_v0.3.md* (Section 9.2) and cross-referenced with the coordinator's April 2025 [[glossary/framer|Framer]] OS essay on Mycelial Consciousness. Full essay text was not held in the project knowledge base; the framework material summarized here is drawn from the treatment across the Overberg brief and from the *I The Three Futures* Emancipation Architecture document. Enrichment from the essay text itself is a candidate for a subsequent pass.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/concepts/mycelial-consciousness/",
+  "name": "Mycelial Consciousness",
+  "description": "Mycelial Consciousness names the fifth Cognitive Major Evolutionary Transition: the shift from Material to Mycelial modes of perception, cognition, and coordination that the current civilizational transition is calling for and, in some places, already producing.",
+  "termCode": "mycelial-consciousness",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/concepts/mycelial-consciousness/",
+  "alternateName": [
+    "mycelial consciousness",
+    "fifth cognitive MET",
+    "mycelial mind"
+  ]
+}
+</script>

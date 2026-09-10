@@ -30,3 +30,25 @@ First Tier is not "inferior." It is the developmental ground from which [[glossa
 
 - [[sources/graves-levels-of-existence|Graves, C.W. (1970). Levels of Existence]]
 - [[sources/beck-cowan-spiral-dynamics|Beck, D.E. & Cowan, C.C. (1996). Spiral Dynamics]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/first-tier/",
+  "name": "First Tier",
+  "description": "The developmental levels before the Momentous Leap in Graves's framework (A-N through F-S, or Beige through Green in Spiral Dynamics), each characterized by the conviction that its worldview is the correct one.",
+  "termCode": "first-tier",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/first-tier/",
+  "alternateName": [
+    "first tier",
+    "First Tier thinking",
+    "First Tier consciousness"
+  ]
+}
+</script>

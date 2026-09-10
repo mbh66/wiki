@@ -28,3 +28,26 @@ The paper has been cited across ethology, artificial life, swarm robotics, and, 
 ## Provenance
 
 Source page created September 2026 as part of the Stigmergy addition.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/grasse-nest-reconstruction/",
+  "name": "La reconstruction du nid et les coordinations inter-individuelles chez Bellicositermes natalensis et Cubitermes sp. La théorie de la stigmergie",
+  "author": {
+    "@type": "Person",
+    "name": "Pierre-Paul Grassé"
+  },
+  "datePublished": "1959",
+  "sameAs": "https://doi.org/10.1007/BF02223791",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "The paper in which Grassé coined the term stigmergy and set out its first theoretical statement. Working with two termite species, Grassé asked how thousands of individuals with limited communication build mounds of such complexity and coherence. His answer reframed the coordination question: the mound itself, in its evolving pheromone-marked state, carries the information that guides each subsequent action. No termite holds the plan. Each responds to what the shared substrate shows. Grassé built the word from Greek *stigma* (mark) and *ergon* (work) to name this class of coordination."
+  }
+}
+</script>

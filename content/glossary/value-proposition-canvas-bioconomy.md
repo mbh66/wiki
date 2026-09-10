@@ -46,3 +46,25 @@ The Business Model Canvas describes revenue, cost, and channel structure. The Bi
 ## Provenance
 
 Extracted from the *BioConomy Value Proposition Template* v0.2 in the VoG as Patron Project Prototype knowledge base, where the six-panel canvas is specified as the working structure that populates the Value Proposition Statement.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/value-proposition-canvas-bioconomy/",
+  "name": "BioConomy Value Proposition Canvas",
+  "description": "The six-panel working structure that populates the Value Proposition Statement produced by the BioConomy Value Proposition Template. Frames value as retention services tendered by a coordinated BioRegion into markets already structured to purchase them, with substrate health as the mandatory measurement.",
+  "termCode": "value-proposition-canvas-bioconomy",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/value-proposition-canvas-bioconomy/",
+  "alternateName": [
+    "value proposition canvas",
+    "bioconomy canvas",
+    "six-panel canvas"
+  ]
+}
+</script>
