@@ -21,7 +21,7 @@ The extraction convention is that a source page is written every time a work is 
 
 The sources most heavily cited across the corpus, useful as entry points into the framework's intellectual lineage:
 
-- Ronfeldt (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*. The [[content/glossary/timn|TIMN framework]].
+- Ronfeldt (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*. The [[content/glossary/timn|TIMN framework]] and its evolution to the [[time-framework|TIME framework]].
 - Ronfeldt (2026). *[[sources/ronfeldt-ballooning-noosphere|Our Planet's Ballooning Noosphere]]*. The tri-sphere holonic framework for the [[glossary/noosphere|Noosphere]].
 - Ostrom (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*. [[glossary/commons|Commons]] governance.
 - Polanyi (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*. The [[glossary/double-movement|double movement]] and [[glossary/fictitious-commodities|fictitious commodities]].
