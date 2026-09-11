@@ -13,7 +13,7 @@ Bioprecipitation names the feedback loop through which vegetated landscapes emit
 
 ## Overview
 
-Two related claims about the relationship between vegetation and rainfall circulate in the bioregional and [[glossary/regenerative|regenerative]] agriculture literature. The first is that vegetated landscapes co-produce rainfall through biological ice nucleation (the bioprecipitation mechanism). The second is that vegetation and land use influence rainfall at mesoscale through moisture recycling and sea-breeze convection (the Millán "two-legged" climate thesis). Both mechanisms are real. Both have specific documented conditions under which they operate. Neither transfers automatically to every biome or every [[glossary/bioregion|bioregion]].
+Two related claims about the relationship between vegetation and rainfall circulate in the bioregional and [[regenerative|regenerative]] agriculture literature. The first is that vegetated landscapes co-produce rainfall through biological ice nucleation (the bioprecipitation mechanism). The second is that vegetation and land use influence rainfall at mesoscale through moisture recycling and sea-breeze convection (the Millán "two-legged" climate thesis). Both mechanisms are real. Both have specific documented conditions under which they operate. Neither transfers automatically to every biome or every [[bioregion|bioregion]].
 
 This brief presents the peer-reviewed evidence for each mechanism, identifies the specific biomes and conditions where each is well-supported, and specifies where the honest bioregional claim shifts from "vegetation generates rainfall" to "coordinated landscape restoration co-produces usable water yield (streamflow, infiltration, soil moisture)."
 
@@ -52,7 +52,7 @@ What IS robustly established for the fynbos biome, and by extension for other Me
 - Van Wilgen et al. (2008) estimated total invasive-related runoff reductions in the fynbos and grassland biomes at levels significant to national water security.
 - Mills, Cowling, et al. (2013) documented restoration outcomes for transformed renosterveld.
 
-**The defensible bioregional water claim is that coordinated landscape restoration co-produces usable water yield (streamflow, infiltration, soil-moisture [[glossary/retention-economics|retention]]), not that it makes rain.** Any stronger rainfall-generation claim should be flagged as unproven for the winter-rainfall Cape.
+**The defensible bioregional water claim is that coordinated landscape restoration co-produces usable water yield (streamflow, infiltration, soil-moisture [[retention-economics|retention]]), not that it makes rain.** Any stronger rainfall-generation claim should be flagged as unproven for the winter-rainfall Cape.
 
 ## What this means for bioregional project design
 
@@ -117,7 +117,7 @@ Three implications for any bioregional restoration project.
 
 ## Provenance
 
-Extracted from Section 4 of *Water_as_Compound_TIME_Asset.md* in the [[glossary/bioconomy|BioConomy]] project. The critical correction for the winter-rainfall Cape context is preserved and is the version of the bioprecipitation claim this wiki treats as canonical. The general mechanism (biological ice nucleation seeding precipitation) is documented across the peer-reviewed literature; its regional applicability is what varies. Any bioregional project outside the fynbos biome should assess the local evidence base before relying on either the bioprecipitation mechanism or the Millán two-legged thesis in its own restoration hydrology claims.
+Extracted from Section 4 of *Water_as_Compound_TIME_Asset.md* in the [[bioconomy|BioConomy]] project. The critical correction for the winter-rainfall Cape context is preserved and is the version of the bioprecipitation claim this wiki treats as canonical. The general mechanism (biological ice nucleation seeding precipitation) is documented across the peer-reviewed literature; its regional applicability is what varies. Any bioregional project outside the fynbos biome should assess the local evidence base before relying on either the bioprecipitation mechanism or the Millán two-legged thesis in its own restoration hydrology claims.
 
 <script type="application/ld+json">
 {

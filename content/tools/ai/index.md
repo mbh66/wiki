@@ -24,7 +24,7 @@ These are not general-purpose AI tools. They are purpose-built capabilities conf
 ## Related pages
 
 - [[tools/index|Tools]]
-- [[glossary/biostack|BioStack]]
+- [[biostack|BioStack]]
 
 ## Provenance
 

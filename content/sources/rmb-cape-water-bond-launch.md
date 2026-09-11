@@ -23,7 +23,7 @@ RMB's Martin Potgieter framed the deal as "a R2.5 billion market signal that nat
 ## Cited by
 
 - [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
-- [[glossary/performance-based-bond|Performance-based bond (glossary)]]
+- [[performance-based-bond|Performance-based bond (glossary)]]
 
 <script type="application/ld+json">
 {

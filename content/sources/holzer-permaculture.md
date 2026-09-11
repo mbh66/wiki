@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Holzer, S. (2011). *Sepp Holzer's Permaculture.* Chelsea Green.
 
-Holzer's book-length treatment of the water [[glossary/retention-economics|retention]] and integrated production methods he developed at the Krameterhof, a mountain farm at 1,500 meters elevation in the Austrian Alps. The book documents terraces, retention ponds, and hugelkultur beds that capture rainfall, raise local humidity, and extend the growing season in alpine conditions, demonstrating that water retention practice works in cold, steep, and high-altitude terrain.
+Holzer's book-length treatment of the water [[retention-economics|retention]] and integrated production methods he developed at the Krameterhof, a mountain farm at 1,500 meters elevation in the Austrian Alps. The book documents terraces, retention ponds, and hugelkultur beds that capture rainfall, raise local humidity, and extend the growing season in alpine conditions, demonstrating that water retention practice works in cold, steep, and high-altitude terrain.
 
 ## Digital library
 

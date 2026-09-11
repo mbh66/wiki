@@ -1,12 +1,19 @@
 ---
-title: "What Is a BioHub"
-aliases: ["getting started in a biohub", "getting started"]
-tags: ["essay", "orientation", "biohub", "bioconomy"]
+title: What Is a BioHub
+aliases:
+  - getting started in a biohub
+  - getting started
+tags:
+  - essay
+  - orientation
+  - biohub
+  - bioconomy
 created: 2026-09-01
-updated: 2026-08-27
-source_project: "BioConomy"
-source_documents: ["Getting_Started_in_a_BioHub_Notion_Export"]
-epistemic_status: "documented-framework"
+updated: 2026-09-10
+source_project: BioConomy
+source_documents:
+  - Getting_Started_in_a_BioHub_Notion_Export
+epistemic_status: documented-framework
 ---
 
 A [[biohub|BioHub]] is a coordination body anchored in a specific [[bioregion|BioRegion]]. It convenes the people, institutions, and economic actors whose activity shapes a living landscape, and it organizes their distributed contributions into verifiable commitments the outside world can contract with.
@@ -27,7 +34,7 @@ The BioHub is that form. This wiki is a guide for establishing your own.
 
 ## What the wiki covers
 
-The material here is the portion of the founding research base that applies to any bioregion engaging with the same coordination questions. It is not exhaustive. The fields it draws from ([[commons|commons governance]], [[bioregional-economics|bioregional economics]], cooperative finance, catchment hydrology, regenerative agriculture, and heritage-based education, among others) each carry deep literatures and active research communities. This site points practitioners to the main bodies of work that underpin the coordination forms now emerging, and it provides enough orientation to make the primary sources accessible.
+The material here is the portion of the founding research base that applies to any bioregion engaging with the same coordination questions. It is not exhaustive. The fields it draws from ([[commons|commons governance]], [[content/concepts/bioregional-economics|bioregional economics]], cooperative finance, catchment hydrology, regenerative agriculture, and heritage-based education, among others) each carry deep literatures and active research communities. This site points practitioners to the main bodies of work that underpin the coordination forms now emerging, and it provides enough orientation to make the primary sources accessible.
 
 The material is organized by topic, and each topic can be explored on its own. They can be read in any order.
 
@@ -43,7 +50,7 @@ Four bodies of work carry the economic architecture a functioning BioHub draws o
 
 [[concepts/commitment-pooling|Commitment Pooling]] describes the structure through which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange. The theory draws on Burgess, Bergstra, and Ruddick. At the community level, the practice is operational in multiple bioregions through the [[ruddick-will|Grassroots Economics]] protocol. At the bioregional level, pooling takes the form of coordinated landscape-scale commitments tendered into market instruments: water funds, performance-based bonds, and payment-for-ecosystem-services contracts. The BioHub is the coordination layer through which the two scales meet.
 
-[[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on [[life-benjamin|Benjamin Life]]'s foundational definition, [[fullerton-john|John Fullerton]]'s eight principles of [[glossary/regenerative-capitalism|regenerative capitalism]], [[raworth-kate|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
+[[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on [[life-benjamin|Benjamin Life]]'s foundational definition, [[fullerton-john|John Fullerton]]'s eight principles of [[regenerative-capitalism|regenerative capitalism]], [[raworth-kate|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
 
 [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]] examines how cooperatives within a bioregion retain and circulate value internally through federated structures. The Mondragón and SEKEM precedents are the primary case material.
 
@@ -81,8 +88,6 @@ This wiki is a guide for establishing your own. The four-template [[templates/in
 ## Provenance
 
 Extracted from *Getting Started in a BioHub* (Notion export, September 2026). The personal note and Overberg-specific framing in the source have been trimmed for the international-audience wiki, per extraction instructions. Section headings preserve the source's organization; internal Notion links have been resolved to wikilinks against the current wiki structure or noted for future resolution.
-
-Updated 27 August 2026 to align the needed-by-society sentence with the bioregion / BioRegion case-sensitive convention (the commitment-making state is the BioRegion, not the bare bioregion) and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
 
 <script type="application/ld+json">
 {

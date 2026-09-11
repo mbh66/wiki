@@ -21,9 +21,9 @@ The five literatures the framework rests on:
 
 - **Endosymbiotic biology** (Margulis, Sahtouris): integration rather than competition as the driver of complex organizational form.
 - **Mycelial network science** (Simard, Sheldrake, Stamets): distributed intelligence and reciprocal resource allocation in mature ecosystems.
-- **[[glossary/commons|Commons]] governance** (Ostrom, Bollier, Helfrich): the empirical demonstration that distributed coordination outperforms centralized allocation in the specific conditions of substrate-dependent value creation.
-- **[[glossary/bioregional-economics|Bioregional economics]]** (Life, Fullerton, Raworth): the design principles of place-based economies operating within landscape carrying capacity.
-- **Alternative monetary theory** (Lietaer, Ruddick, Cox): the empirical demonstration that non-[[glossary/extractive|extractive]] monetary designs are feasible and, under scarcity, more resilient than the dominant system.
+- **[[commons|Commons]] governance** (Ostrom, Bollier, Helfrich): the empirical demonstration that distributed coordination outperforms centralized allocation in the specific conditions of substrate-dependent value creation.
+- **[[content/glossary/a-e/bioregional-economics|Bioregional economics]]** (Life, Fullerton, Raworth): the design principles of place-based economies operating within landscape carrying capacity.
+- **Alternative monetary theory** (Lietaer, Ruddick, Cox): the empirical demonstration that non-[[extractive|extractive]] monetary designs are feasible and, under scarcity, more resilient than the dominant system.
 
 ## The core claim
 
@@ -35,27 +35,27 @@ This is a different claim from the marginalist theory that dominates contemporar
 
 The framework's name is drawn from the ecology of fungal mycelial networks. Suzanne Simard's decades-long research on the wood-wide web documented that in a mature forest, the mycelial layer connects trees across species boundaries. Nutrients, water, and information move through the network according to local need. A tree in low light or drought stress receives what it needs from trees with surplus, via the fungal partners it shares. There is no central regulator. The system distributes resources through the properties of the connections themselves.
 
-The Mycelial Value Creation framework does not claim that human economic systems will look like fungal networks in any literal sense. It claims that a system organized around substrate health, distributing resources according to local need, without a central allocator, is biologically possible and observably functional at scales far exceeding what any individual node could coordinate alone. If a forest can do it, the question is whether [[glossary/human-coordination|human coordination]] systems can be designed to do it too.
+The Mycelial Value Creation framework does not claim that human economic systems will look like fungal networks in any literal sense. It claims that a system organized around substrate health, distributing resources according to local need, without a central allocator, is biologically possible and observably functional at scales far exceeding what any individual node could coordinate alone. If a forest can do it, the question is whether [[human-coordination|human coordination]] systems can be designed to do it too.
 
 ## The consciousness prerequisite
 
-Mycelial Value Creation requires [[mycelial-consciousness|Mycelial Consciousness]] to operate. A network of actors each operating on Material Consciousness (getting, taking, extracting) will not produce mycelial value even if the coordination infrastructure is in place. The infrastructure will be captured by whichever actor arrives with the most extractive capacity first.
+Mycelial Value Creation requires [[content/concepts/mycelial-consciousness|Mycelial Consciousness]] to operate. A network of actors each operating on Material Consciousness (getting, taking, extracting) will not produce mycelial value even if the coordination infrastructure is in place. The infrastructure will be captured by whichever actor arrives with the most extractive capacity first.
 
 This is why the three movements of the Emancipation Architecture are inseparable. Movement I diagnoses the civilizational condition and identifies the psychological transition required. Movement II specifies the value theory that becomes possible under that transition. Movement III specifies the infrastructure that enables the transition to become durable. Each movement requires the others to function.
 
 ## Value in five layers
 
-The framework's operational structure identifies five layers of value that a mycelial [[glossary/economy|economy]] tracks simultaneously:
+The framework's operational structure identifies five layers of value that a mycelial [[economy|economy]] tracks simultaneously:
 
-**Ecological substrate value.** Soil carbon, water [[glossary/retention-economics|retention]], biodiversity, watershed function, the health of the living system on which everything else depends. Measured through [[bioscore|BioScore]] and related composite indicators.
+**Ecological substrate value.** Soil carbon, water [[retention-economics|retention]], biodiversity, watershed function, the health of the living system on which everything else depends. Measured through [[bioscore|BioScore]] and related composite indicators.
 
 **Community relational value.** The strength of the mutual obligations, trust networks, and coordination practices that hold a community together. Measured through participation in [[commitment-pool|commitment pools]] and through the density of reciprocal relationships.
 
-**Cultural coherence value.** Language, place-knowledge, ritual, the transmission of skill across generations. Measured through [[glossary/indigenous-knowledge|indigenous knowledge]] retention, cultural transmission rates, and the survival of place-specific practices.
+**Cultural coherence value.** Language, place-knowledge, ritual, the transmission of skill across generations. Measured through [[indigenous-knowledge|indigenous knowledge]] retention, cultural transmission rates, and the survival of place-specific practices.
 
 **Coordination infrastructure value.** The institutional capacity through which a community can coordinate its own activity. Measured through the presence and functionality of BioHubs, cooperatives, learning centers, and clearing layers.
 
-**Circulated market value.** The financial value that circulates within the [[glossary/bioregion|bioregion]], measured through [[federated-cooperative-supply-chains|federated cooperative flows]], through [[glossary/demurrage|demurrage]] currency velocity, and through the retention rate of production value within the bioregion.
+**Circulated market value.** The financial value that circulates within the [[bioregion|bioregion]], measured through [[federated-cooperative-supply-chains|federated cooperative flows]], through [[demurrage|demurrage]] currency velocity, and through the retention rate of production value within the bioregion.
 
 The five layers are not additive in the way conventional national accounts add sectors. They are interdependent. Circulated market value depends on coordination infrastructure, which depends on cultural coherence, which depends on community relational strength, which depends on ecological substrate health. Depletion of any single layer degrades all layers above it.
 
@@ -63,8 +63,8 @@ The five layers are not additive in the way conventional national accounts add s
 
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/three-futures|The Three Futures]]
-- [[mycelial-consciousness|Mycelial Consciousness]]
-- [[mycelial-coordination|Mycelial Coordination]]
+- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
+- [[content/concepts/mycelial-coordination|Mycelial Coordination]]
 - [[retention-logic|Retention Logic]]
 - [[commitment-pooling|Commitment Pooling]]
 - [[bioconomy|BioConomy]]

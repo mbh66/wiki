@@ -33,15 +33,15 @@ Gebser identifies five structures of consciousness, each characterized by qualit
 
 **Integral.** Consciousness achieves "aperspectival" awareness: the capacity to hold multiple perspectives simultaneously without being captured by any single one. Space and time become "diaphanous" (transparent, co-present). This is not a rejection of the mental-rational but an integration that includes and transcends it.
 
-Gebser's mental-rational structure corresponds to what the BioConomy corpus calls [[glossary/material-consciousness|Material Consciousness]]. His integral structure corresponds to [[glossary/mycelial-consciousness|Mycelial Consciousness]].
+Gebser's mental-rational structure corresponds to what the BioConomy corpus calls [[material-consciousness|Material Consciousness]]. His integral structure corresponds to [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
 
 ### Clare Graves: Levels of Existence
 
 Graves's empirical research, conducted over twenty years through studies of adult value systems, documents an emergent, cyclical pattern of human development. Value systems evolve through identifiable levels, each producing different orientations toward survival, power, order, achievement, community, and systems thinking.
 
-Graves's most consequential structural observation is the distinction between [[glossary/first-tier|First Tier]] and [[glossary/second-tier|Second Tier]] thinking. First Tier levels (A-N through F-S in his notation, corresponding to Beige through Green in the Spiral Dynamics color scheme) are each characterized by the conviction that their worldview is the correct one. They compete with and reject other levels. Second Tier (G-T, Yellow in Spiral Dynamics) is the first level that recognizes the legitimacy and partial truth of all previous levels.
+Graves's most consequential structural observation is the distinction between [[first-tier|First Tier]] and [[second-tier|Second Tier]] thinking. First Tier levels (A-N through F-S in his notation, corresponding to Beige through Green in the Spiral Dynamics color scheme) are each characterized by the conviction that their worldview is the correct one. They compete with and reject other levels. Second Tier (G-T, Yellow in Spiral Dynamics) is the first level that recognizes the legitimacy and partial truth of all previous levels.
 
-This threshold, which Graves called [[glossary/momentous-leap|the Momentous Leap]], is the developmental equivalent of the BioConomy's Material-to-Mycelial transition. It is "the most difficult, but at the same time the most exciting transition the human race has faced to date." The leap is from deficiency motivation to growth motivation, from getting to giving, from destroying to constructing.
+This threshold, which Graves called [[momentous-leap|the Momentous Leap]], is the developmental equivalent of the BioConomy's Material-to-Mycelial transition. It is "the most difficult, but at the same time the most exciting transition the human race has faced to date." The leap is from deficiency motivation to growth motivation, from getting to giving, from destroying to constructing.
 
 ### Robert Kegan: Orders of Consciousness
 
@@ -83,10 +83,10 @@ The individual developmental frameworks are documented through peer-reviewed res
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
-- [[glossary/material-consciousness|Material Consciousness]]
-- [[glossary/mycelial-consciousness|Mycelial Consciousness]]
-- [[glossary/second-tier|Second Tier]]
-- [[glossary/first-tier|First Tier]]
+- [[material-consciousness|Material Consciousness]]
+- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[second-tier|Second Tier]]
+- [[first-tier|First Tier]]
 
 ## Sources
 

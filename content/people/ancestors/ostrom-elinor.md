@@ -16,7 +16,7 @@ source_documents:
 epistemic_status: documented-fact
 ---
 
-American political economist (1933-2012) and Nobel laureate in economics (2009) whose empirical work on commons governance established the eight design principles for long-enduring commons and the [[glossary/polycentricity|polycentricity]] thesis. Her work was associated with the New Institutional Economics and the resurgence of political economy.
+American political economist (1933-2012) and Nobel laureate in economics (2009) whose empirical work on commons governance established the eight design principles for long-enduring commons and the [[polycentricity|polycentricity]] thesis. Her work was associated with the New Institutional Economics and the resurgence of political economy.
 
 ## Contribution
 
@@ -31,7 +31,7 @@ Ostrom's *Governing the Commons* (1990) was partly inspired by the errors in Gar
 7. Minimal recognition of rights to organize.
 8. Nested enterprises (for larger-scale resources).
 
-These principles provide the empirical foundation for the [[glossary/bioconomy|BioConomy]]'s approach to commons governance at bioregional scale. [[ruddick-will|Will Ruddick]]'s Commitment Pooling work at [[glossary/grassroots-economics|Grassroots Economics]] operationalizes Ostrom's principles in the context of community currencies, a connection Ruddick has explored publicly under the heading "Ostrom's Law in Action."
+These principles provide the empirical foundation for the [[bioconomy|BioConomy]]'s approach to commons governance at bioregional scale. [[ruddick-will|Will Ruddick]]'s Commitment Pooling work at [[glossary/grassroots-economics|Grassroots Economics]] operationalizes Ostrom's principles in the context of community currencies, a connection Ruddick has explored publicly under the heading "Ostrom's Law in Action."
 
 ## Selected works
 
@@ -48,8 +48,8 @@ These principles provide the empirical foundation for the [[glossary/bioconomy|B
 
 ## Related pages
 
-- [[glossary/polycentricity|Polycentricity]]
-- [[glossary/commons|Commons]]
+- [[polycentricity|Polycentricity]]
+- [[commons|Commons]]
 - [[regenerative-economics|Regenerative Economics]]
 - [[polanyi-karl|Karl Polanyi]]
 - [[ruddick-will|Will Ruddick]]
@@ -62,7 +62,7 @@ These principles provide the empirical foundation for the [[glossary/bioconomy|B
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, eight design principles, Ruddick connection, digital library PDF, and external links added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, eight design principles, Ruddick connection, digital library PDF, and external links added.
 
 <script type="application/ld+json">
 {

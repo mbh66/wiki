@@ -29,11 +29,11 @@ None of the 20 companies clearly disclosed governance of nature-related dependen
 
 The report references the King V Code on Corporate Governance, published late 2025 and effective 1 January 2026, as reinforcing board oversight of nature-related risks. It frames a shift away from "typical corporate social investment storytelling" toward robust nature-related risk management. This framing is the strategic opening a research brief proposing a PAMP partnership as an ESG/TNFD instrument (rather than CSR) can build on.
 
-The report does not highlight named protected-area investments. Its examples of nature-positive action center on water stewardship (WWF Water Risk Filter), [[glossary/regenerative|regenerative]] agriculture, sustainable sourcing and traceability, and NGO partnerships. Even South Africa's leading nature-finance report treats protected-area co-funding as an emerging, under-exploited opportunity rather than established practice.
+The report does not highlight named protected-area investments. Its examples of nature-positive action center on water stewardship (WWF Water Risk Filter), [[regenerative|regenerative]] agriculture, sustainable sourcing and traceability, and NGO partnerships. Even South Africa's leading nature-finance report treats protected-area co-funding as an emerging, under-exploited opportunity rather than established practice.
 
 ## Sibanye-Stillwater: the leading South African corporate nature-disclosure precedent
 
-Confirmed as a TNFD Adopter on 5 November 2025 (announced 24 November 2025); will align corporate reporting with TNFD from FY2026. Sibanye is the only South African-domiciled mining company among the 27 metals, mining, steel, and [[glossary/extractive|extractive]] sector adopters globally.
+Confirmed as a TNFD Adopter on 5 November 2025 (announced 24 November 2025); will align corporate reporting with TNFD from FY2026. Sibanye is the only South African-domiciled mining company among the 27 metals, mining, steel, and [[extractive|extractive]] sector adopters globally.
 
 Sibanye's site-based biodiversity footprint accounting using the Biological Diversity Protocol was described as "a world first for mining companies" in 2022 (ICMM). On the World Benchmarking Alliance Nature Benchmark scorecard, Sibanye ranks 7th out of 102 metals and mining peers. Its strongest performance is in the ecosystems and biodiversity area (top performer). Its weakest is in social inclusion and community impact (first quartile). Sibanye maintains management plans for its own locations adjacent to areas important for biodiversity and discloses species status against IUCN and SANBI Red Lists.
 
@@ -160,7 +160,7 @@ International precedents for governance design: Gonarezhou (co-management board)
 
 ## Provenance
 
-Extracted from *Corporate Partnerships with Protected Area Management, Citizen Science, and Nature-Related Disclosures.md* in the [[glossary/bioconomy|BioConomy]] project. The 20-company assessment specifics are drawn from the WWF SA 2026 report; the Sibanye, Nedbank, and Sanlam adoption dates are drawn from public announcements. The Paddavlei case is the strongest single South African precedent for a corporate-fundable, PAMP-aligned intervention; other TMF-funded projects are named for context. The citizen-science-to-TNFD pathway is presented as an opportunity, not as an established practice, per the honest state of the evidence.
+Extracted from *Corporate Partnerships with Protected Area Management, Citizen Science, and Nature-Related Disclosures.md* in the [[bioconomy|BioConomy]] project. The 20-company assessment specifics are drawn from the WWF SA 2026 report; the Sibanye, Nedbank, and Sanlam adoption dates are drawn from public announcements. The Paddavlei case is the strongest single South African precedent for a corporate-fundable, PAMP-aligned intervention; other TMF-funded projects are named for context. The citizen-science-to-TNFD pathway is presented as an opportunity, not as an established practice, per the honest state of the evidence.
 
 <script type="application/ld+json">
 {

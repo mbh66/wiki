@@ -16,13 +16,13 @@ source_documents:
 epistemic_status: "documented-fact"
 ---
 
-American development economist focusing on currency innovation in East Africa. Founder of [[glossary/grassroots-economics|Grassroots Economics]] and the Commitment Pooling Protocol, drawing on the [[glossary/mweria|Mweria]] rotating labor tradition of coastal Kenya. Creator of the PATH License (Public Awareness and Transparent Heritage) and developer of [[glossary/commitment-pool|CIC]] (Community Inclusion Currencies).
+American development economist focusing on currency innovation in East Africa. Founder of [[glossary/grassroots-economics|Grassroots Economics]] and the Commitment Pooling Protocol, drawing on the [[mweria|Mweria]] rotating labor tradition of coastal Kenya. Creator of the PATH License (Public Awareness and Transparent Heritage) and developer of [[commitment-pool|CIC]] (Community Inclusion Currencies).
 
 ## Contribution
 
 Ruddick's work demonstrates that community currencies can function as coordination infrastructure in low-income economies where national currency is scarce. The Grassroots Economics Foundation, operating in Kenya, has deployed community currencies across multiple communities, providing a medium of exchange that keeps value circulating locally rather than draining to urban centers.
 
-His [[glossary/commitment-pool|Commitment Pooling]] protocol formalizes the logic of mutual obligation that underlies traditional systems like Mweria. Where conventional currencies represent claims on abstract value, commitment pools represent claims on specific productive capacity within a defined community. The protocol has popularized a concrete mechanism for the kind of place-based economic coordination that [[glossary/bioregional-economics|bioregional economics]] requires.
+His [[commitment-pool|Commitment Pooling]] protocol formalizes the logic of mutual obligation that underlies traditional systems like Mweria. Where conventional currencies represent claims on abstract value, commitment pools represent claims on specific productive capacity within a defined community. The protocol has popularized a concrete mechanism for the kind of place-based economic coordination that [[content/glossary/a-e/bioregional-economics|bioregional economics]] requires.
 
 ## Digital library
 
@@ -32,16 +32,16 @@ His [[glossary/commitment-pool|Commitment Pooling]] protocol formalizes the logi
 
 ## Related pages
 
-- [[glossary/mweria|Mweria]]
-- [[glossary/curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange]]
-- [[glossary/commitment-pool|Commitment pool]]
+- [[mweria|Mweria]]
+- [[curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange]]
+- [[commitment-pool|Commitment pool]]
 - [[glossary/grassroots-economics|Grassroots Economics]]
 - [[ostrom-elinor|Elinor Ostrom]]
 - [[sources/ruddick-grassroots-economics-2025|Grassroots Economics]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, CIC and PATH License, digital library PDFs added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, CIC and PATH License, digital library PDFs added.
 
 <script type="application/ld+json">
 {

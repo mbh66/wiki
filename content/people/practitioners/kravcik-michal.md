@@ -22,7 +22,7 @@ Slovak hydrologist, Co-Founder and Initiative Lead at WATERHOLISTIC, and winner 
 
 Kravcik's central thesis, set out in *Water for the Recovery of the Climate: A New Water Paradigm* (2007, with Pokorný, Kohutiar, Kováč, and Tóth), argues that draining and sealing landscapes has degraded the small water cycle and that rainwater retention and landscape restoration can restore local hydrological cycles. The thesis, while advocacy-based rather than peer-reviewed, has influenced water policy across Central Europe.
 
-Under a Slovak government program informed by Kravcik's work, 488 communities implemented over 100,000 water retention measures across the landscape. This remains one of the most extensive practical demonstrations of the [[glossary/water-retention-landscape|Water Retention Landscape]] approach at national scale. Kravcik also developed the Global Action Plan (GAP) proposal for scaling water retention internationally.
+Under a Slovak government program informed by Kravcik's work, 488 communities implemented over 100,000 water retention measures across the landscape. This remains one of the most extensive practical demonstrations of the [[water-retention-landscape|Water Retention Landscape]] approach at national scale. Kravcik also developed the Global Action Plan (GAP) proposal for scaling water retention internationally.
 
 His work connects to the [[glossary/biotic-pump|Biotic Pump]] concept and provides practical evidence for the proposition that landscape-scale water retention is achievable through distributed community action rather than centralized engineering.
 
@@ -42,14 +42,14 @@ His work connects to the [[glossary/biotic-pump|Biotic Pump]] concept and provid
 
 ## Related pages
 
-- [[glossary/water-retention-landscape|Water Retention Landscape]]
+- [[water-retention-landscape|Water Retention Landscape]]
 - [[glossary/biotic-pump|Biotic Pump]]
 - [[jehne-walter|Walter Jehne]]
 - [[singh-rajendra|Rajendra Singh]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Goldman Prize, Slovak program, digital library PDFs, and cross-references added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Goldman Prize, Slovak program, digital library PDFs, and cross-references added.
 
 <script type="application/ld+json">
 {

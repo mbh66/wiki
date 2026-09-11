@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Jehne, W. *Regenerate Earth* and the Soil Carbon Sponge framework.
 
-Jehne's body of work bridging soil biology and hydrology. The Soil Carbon Sponge framework argues that soil organic carbon, maintained by microbial and fungal activity, creates the physical structure (soil aggregates, pore spaces, organic matter) that holds water. A soil with high organic carbon content and a functioning mycorrhizal network is structurally porous; a soil stripped of organic carbon and biological activity is structurally collapsed. Jehne's framing supplies the biological mechanism beneath the [[glossary/water-retention-landscape|Water Retention Landscape]] tradition.
+Jehne's body of work bridging soil biology and hydrology. The Soil Carbon Sponge framework argues that soil organic carbon, maintained by microbial and fungal activity, creates the physical structure (soil aggregates, pore spaces, organic matter) that holds water. A soil with high organic carbon content and a functioning mycorrhizal network is structurally porous; a soil stripped of organic carbon and biological activity is structurally collapsed. Jehne's framing supplies the biological mechanism beneath the [[water-retention-landscape|Water Retention Landscape]] tradition.
 
 ## Digital library
 
@@ -25,7 +25,7 @@ Jehne's body of work bridging soil biology and hydrology. The Soil Carbon Sponge
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[jehne-walter|Walter Jehne]]
-- [[glossary/soil-carbon-sponge|Soil Carbon Sponge (glossary)]]
+- [[soil-carbon-sponge|Soil Carbon Sponge (glossary)]]
 
 <script type="application/ld+json">
 {

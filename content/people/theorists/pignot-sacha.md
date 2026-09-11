@@ -10,7 +10,7 @@ epistemic_status: "documented-fact"
 ---
 
 
-Developer of the fractal sovereignty framework, identifying three interlocking scales (hyper-local, bioregional, cosmo-local) that map onto the [[glossary/biohub|BioHub]]'s own scale architecture.
+Developer of the fractal sovereignty framework, identifying three interlocking scales (hyper-local, bioregional, cosmo-local) that map onto the [[biohub|BioHub]]'s own scale architecture.
 
 ## Provenance
 

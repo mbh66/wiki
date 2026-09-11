@@ -9,7 +9,7 @@ source_documents: ["BioRegion_Establishment_Template.md"]
 epistemic_status: "documented-framework"
 ---
 
-The second template in the [[content/templates/index|founding suite]]. Establishes the [[bioregion|BioRegion]] within which the [[biohub|BioHub]] operates: its boundaries, its ecological and cultural profiles, the coordination bodies active within it, and the governance principles under which coordination happens. Produces three outputs: the BioRegion Definition, the BioRegion Atlas, and the BioRegion Charter.
+The second template in the [[templates/index|founding suite]]. Establishes the [[bioregion|BioRegion]] within which the [[biohub|BioHub]] operates: its boundaries, its ecological and cultural profiles, the coordination bodies active within it, and the governance principles under which coordination happens. Produces three outputs: the BioRegion Definition, the BioRegion Atlas, and the BioRegion Charter.
 
 ## Overview
 
@@ -19,14 +19,14 @@ The template runs after the [[biohub-identity-template|BioHub Identity Template]
 
 ## When to run this template
 
-Run this template after the Identity Template's three outputs are in hand and accepted by the cohort, and after the TIME Diagnostic has produced output identifying the coordination forms active in the coordinator's local environment. The anchor location is settled (from the [[glossary/identity-statement|Identity Statement]]). The cohort structure and decision-making forms are in place (from the [[glossary/founding-compact|Founding Compact]]).
+Run this template after the Identity Template's three outputs are in hand and accepted by the cohort, and after the TIME Diagnostic has produced output identifying the coordination forms active in the coordinator's local environment. The anchor location is settled (from the [[identity-statement|Identity Statement]]). The cohort structure and decision-making forms are in place (from the [[founding-compact|Founding Compact]]).
 
 Do not run this template as a first exercise for a coordinator with no prior grounding in the anchor location. Prompt 1 requires the coordinator to supply enough local context to give the AI a real starting point, on top of what is inherited from the Identity documents.
 
 ## Prerequisite documents
 
 - The three Identity outputs: Identity Statement, Field and Lineage Positioning, Founding Compact.
-- [[glossary/biostack|BioStack]] and [[glossary/bioconomy|BioConomy]] foundational document.
+- [[biostack|BioStack]] and [[bioconomy|BioConomy]] foundational document.
 - Framework of coordination forms (TIME, or an equivalent).
 - TIME Diagnostic output for the BioHub.
 - Any preliminary documents establishing the anchor location's ecological or cultural context that were not incorporated into the Identity documents.
@@ -48,7 +48,7 @@ The Metabolic BioHubs Best Practices Research Brief is inherited through the Fie
 
 **BioRegion Atlas.** Long, structured referential document. Thirty to sixty pages. Compiles the ecological, hydrological, jurisdictional, cultural, institutional, infrastructural, and climate profiles, the [[water-retention-landscapes|Water Retention Landscape]] baseline, the soil carbon baseline, the biodiversity inventory, and any specialized science threads (such as bioprecipitation research candidates). Structured for section-by-section reference use. This is the BioHub's operational knowledge base for planning specific coordination work.
 
-**BioRegion Charter.** Governance and commitment document. Five to ten pages. Establishes the BioRegion as a coordination object worthy of commitment. Articulates the principles under which coordination happens within it ([[retention-logic|retention logic]], [[subsidiarity|subsidiarity]], [[polycentricity|polycentricity]], [[commitment-pooling|commitment pooling]], honest gap-flagging). Recognizes prior custodial and coordination bodies with their authority intact. Sets out consent and custodial principles for cultural and [[glossary/indigenous-knowledge|indigenous knowledge]], multi-BioHub coordination protocols, provisions for co-signature by participating bodies, and provisions for revision and dissent. Used to convene formal coordination relationships.
+**BioRegion Charter.** Governance and commitment document. Five to ten pages. Establishes the BioRegion as a coordination object worthy of commitment. Articulates the principles under which coordination happens within it ([[retention-logic|retention logic]], [[subsidiarity|subsidiarity]], [[polycentricity|polycentricity]], [[commitment-pooling|commitment pooling]], honest gap-flagging). Recognizes prior custodial and coordination bodies with their authority intact. Sets out consent and custodial principles for cultural and [[indigenous-knowledge|indigenous knowledge]], multi-BioHub coordination protocols, provisions for co-signature by participating bodies, and provisions for revision and dissent. Used to convene formal coordination relationships.
 
 ## Cohort work between prompts
 
@@ -80,19 +80,19 @@ The Charter's multi-BioHub coordination protocols refine the working protocols e
 
 The three BioRegion outputs become prerequisite inputs to the third template. Attach all three (alongside the three Identity outputs) to the first prompt of the [[value-proposition-template|BioConomy Value Proposition Template]].
 
-The BioRegion Definition supplies the bioregion boundary, the coordination bodies recognized within, the jurisdictional overlays, and the multi-BioHub context. The BioRegion Atlas supplies the ecological, hydrological, jurisdictional, cultural, institutional, infrastructural, and climate profiles used to populate the [[glossary/value-proposition-canvas-bioconomy|Value Proposition Canvas]]'s Living Substrate panel; the [[glossary/water-retention-landscape|Water Retention Landscape]] baseline used for water yield tenders; the soil carbon baseline used for carbon sequestration tenders; the biodiversity inventory used for biodiversity data tenders; and the heritage anchor and cultural profile used for heritage and tourism tenders. The BioRegion Charter supplies the governance principles used to structure the [[glossary/retention-economics|Retention]] Guarantee, the consent and custodial principles applied to cultural and heritage tenders, and the multi-BioHub coordination protocols used for tender-level coordination.
+The BioRegion Definition supplies the bioregion boundary, the coordination bodies recognized within, the jurisdictional overlays, and the multi-BioHub context. The BioRegion Atlas supplies the ecological, hydrological, jurisdictional, cultural, institutional, infrastructural, and climate profiles used to populate the [[value-proposition-canvas-bioconomy|Value Proposition Canvas]]'s Living Substrate panel; the [[water-retention-landscape|Water Retention Landscape]] baseline used for water yield tenders; the soil carbon baseline used for carbon sequestration tenders; the biodiversity inventory used for biodiversity data tenders; and the heritage anchor and cultural profile used for heritage and tourism tenders. The BioRegion Charter supplies the governance principles used to structure the [[retention-economics|Retention]] Guarantee, the consent and custodial principles applied to cultural and heritage tenders, and the multi-BioHub coordination protocols used for tender-level coordination.
 
 Once the BioRegion Definition is produced, update Section 8 of the Identity Statement to complete the cross-reference opened at the founding.
 
 ## Related pages
 
-- [[content/templates/index|The Templates]]
+- [[templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[running-a-template|Running a Template]]
 - [[bioregion|BioRegion]]
-- [[bioregional-economics|Bioregional Economics]]
+- [[content/concepts/bioregional-economics|Bioregional Economics]]
 - [[watershed-mapping|Watershed Mapping]]
 - [[water-retention-landscapes|Water Retention Landscapes]]
 - [[strategic-water-source-area-swsa|Strategic Water Source Area]]

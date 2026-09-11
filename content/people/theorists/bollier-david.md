@@ -10,16 +10,16 @@ epistemic_status: "documented-fact"
 ---
 
 
-[[glossary/commons|Commons]] scholar who developed the transvestment concept and the buffer entity framework for bridging conventional finance and commons-based economies.
+[[commons|Commons]] scholar who developed the transvestment concept and the buffer entity framework for bridging conventional finance and commons-based economies.
 
 ## Related pages
 
-- [[glossary/transvestment|Transvestment]]
+- [[content/glossary/t-z/transvestment|Transvestment]]
 - [[helfrich-silke|Silke Helfrich]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

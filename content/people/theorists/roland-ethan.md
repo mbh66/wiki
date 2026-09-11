@@ -10,16 +10,16 @@ epistemic_status: "documented-fact"
 ---
 
 
-Co-developer (with Landua) of the Eight Forms of Capital ontology, expanding the accounting frame for [[glossary/regenerative-economics|regenerative economics]] beyond financial capital.
+Co-developer (with Landua) of the Eight Forms of Capital ontology, expanding the accounting frame for [[regenerative-economics|regenerative economics]] beyond financial capital.
 
 ## Related pages
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[roland-ethan|Ethan Roland]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

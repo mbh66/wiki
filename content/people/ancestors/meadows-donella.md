@@ -20,9 +20,9 @@ American environmental scientist, educator, and writer (1941-2001). Lead author 
 
 ## Contribution
 
-Meadows's *Limits to Growth*, commissioned by the Club of Rome, used system dynamics modeling to demonstrate that exponential growth in population and industrial output would overshoot planetary carrying capacity within a century. The study's core finding has held up across multiple thirty-year updates. Its significance for the [[glossary/bioconomy|BioConomy]] is that it gave the [[glossary/logistic-growth-principle|Logistic Growth Principle]] its first computational expression at civilizational scale.
+Meadows's *Limits to Growth*, commissioned by the Club of Rome, used system dynamics modeling to demonstrate that exponential growth in population and industrial output would overshoot planetary carrying capacity within a century. The study's core finding has held up across multiple thirty-year updates. Its significance for the [[bioconomy|BioConomy]] is that it gave the [[glossary/logistic-growth-principle|Logistic Growth Principle]] its first computational expression at civilizational scale.
 
-Her leverage points framework ranks twelve places to intervene in a system by effectiveness, from the least powerful (adjusting parameters like subsidies and taxes) to the most powerful (changing the paradigm out of which the system arises). The framework is foundational to the [[glossary/bioconomy|BioConomy]]'s approach to systemic transformation: working at the level of paradigm and purpose rather than at the level of parameters and buffers.
+Her leverage points framework ranks twelve places to intervene in a system by effectiveness, from the least powerful (adjusting parameters like subsidies and taxes) to the most powerful (changing the paradigm out of which the system arises). The framework is foundational to the [[bioconomy|BioConomy]]'s approach to systemic transformation: working at the level of paradigm and purpose rather than at the level of parameters and buffers.
 
 In "Dancing with Systems," Meadows articulated fourteen principles for working within complex systems:
 
@@ -62,8 +62,8 @@ In 1995, [[daly-herman|Herman Daly]] and Meadows defined criteria for authentic 
 
 ## Related pages
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
-- [[glossary/bioregional-learning-centre|Bioregional Learning Centre]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[bioregional-learning-centre|Bioregional Learning Centre]]
 - [[glossary/leverage-points|Leverage Points]]
 - [[glossary/limits-to-growth|The Limits to Growth]]
 - [[daly-herman|Herman Daly]]
@@ -75,7 +75,7 @@ In 1995, [[daly-herman|Herman Daly]] and Meadows defined criteria for authentic 
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Dancing with Systems principles, selected works, digital library PDF, external links, and cross-references added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Dancing with Systems principles, selected works, digital library PDF, external links, and cross-references added.
 
 <script type="application/ld+json">
 {

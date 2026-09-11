@@ -20,9 +20,9 @@ American novelist, poet, essayist, environmental activist, cultural critic, and 
 
 ## Contribution
 
-Berry coined the term "solving for pattern," which refers to a solution that addresses multiple problems instead of one. Solving for pattern arises naturally when one perceives problems as symptoms of systemic failure rather than as random errors requiring anodynes. The concept is foundational to the [[glossary/bioconomy|BioConomy]]'s approach to design: interventions that treat symptoms in isolation reproduce the conditions that generated those symptoms. Interventions that solve for pattern address the underlying structure.
+Berry coined the term "solving for pattern," which refers to a solution that addresses multiple problems instead of one. Solving for pattern arises naturally when one perceives problems as symptoms of systemic failure rather than as random errors requiring anodynes. The concept is foundational to the [[bioconomy|BioConomy]]'s approach to design: interventions that treat symptoms in isolation reproduce the conditions that generated those symptoms. Interventions that solve for pattern address the underlying structure.
 
-Berry's conviction that small-scale farming is essential to healthy local economies, and that strong local economies are essential to the survival of the species and the wellbeing of the planet, prefigures the [[glossary/bioregional-economics|bioregional economics]] framework by decades. His work makes the case not through systems modeling but through sustained attention to a single place over a lifetime of farming and writing.
+Berry's conviction that small-scale farming is essential to healthy local economies, and that strong local economies are essential to the survival of the species and the wellbeing of the planet, prefigures the [[content/glossary/a-e/bioregional-economics|bioregional economics]] framework by decades. His work makes the case not through systems modeling but through sustained attention to a single place over a lifetime of farming and writing.
 
 ## Selected works
 
@@ -42,12 +42,12 @@ Berry's conviction that small-scale farming is essential to healthy local econom
 
 ## Related pages
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[glossary/solving-for-pattern|Solving for Pattern]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2026 from the Roam Research graph (MichaelHaupt): biographical detail, solving for pattern concept, selected works, digital library PDF, and external links added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2026 from the Roam Research graph (MichaelHaupt): biographical detail, solving for pattern concept, selected works, digital library PDF, and external links added.
 
 <script type="application/ld+json">
 {

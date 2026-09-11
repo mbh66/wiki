@@ -16,13 +16,13 @@ source_documents:
 epistemic_status: "documented-fact"
 ---
 
-American animist, designer, ecologist, and creative technologist. Executive Director of [[glossary/regenerative-economics|Regen Foundation]], a US-based non-profit designing a just transition to sovereign [[glossary/regenerative-economics|regenerative economics]] through decentralized technologies of governance, sensing, and ownership. Part of the Regen Network.
+American animist, designer, ecologist, and creative technologist. Executive Director of [[regenerative-economics|Regen Foundation]], a US-based non-profit designing a just transition to sovereign [[regenerative-economics|regenerative economics]] through decentralized technologies of governance, sensing, and ownership. Part of the Regen Network.
 
 ## Contribution
 
 Smith's central construct is the **Ecological Institution**: a protocol-based entity designed to expand the legibility of the more-than-human world to anthropogenic infrastructures. The framework proposes that non-humans, ecosystems, and bioregions can be made legible to economic systems through durable attestations around the state of the world, rejecting the treatment of planetary health as an externality to financial calculus. He calls this approach "progressive formalism," leveraging anthropogenic forms (law, economy, information technology, governance) to transform the systems from which they originate toward a more inclusive world for all beings.
 
-The fundamental unit of an ecological institution is not an individual actor but a relational loop between an actor and their context, because they are not separable. This connects to the [[glossary/bioregional-economics|bioregional economics]] premise that coordination must be grounded in place and ecological relationship, not abstracted from it.
+The fundamental unit of an ecological institution is not an individual actor but a relational loop between an actor and their context, because they are not separable. This connects to the [[content/glossary/a-e/bioregional-economics|bioregional economics]] premise that coordination must be grounded in place and ecological relationship, not abstracted from it.
 
 Smith frames Regen Foundation's mission as undoing structural ignorance: the systematic blindness to ecological variables upon which long-term institutional survival depends. The practical strategy is to multiply the surface area by which the non-human world exerts pressure on human systems to change, through attestations that make consequences impossible to ignore.
 
@@ -40,10 +40,10 @@ Smith frames Regen Foundation's mission as undoing structural ignorance: the sys
 
 ## Related pages
 
-- [[glossary/regenerative-economics|Regenerative Economics]]
-- [[glossary/bioregional-economics|Bioregional Economics]]
-- [[glossary/commons|Commons]]
-- [[glossary/legibility-signal|Legibility Signal]]
+- [[regenerative-economics|Regenerative Economics]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[commons|Commons]]
+- [[legibility-signal|Legibility Signal]]
 - [[landua-gregory|Gregory Landua]]
 
 ## Provenance

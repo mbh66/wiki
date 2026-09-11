@@ -29,7 +29,7 @@ These are necessary corrections. They clear intellectual debris. But they do not
 
 The essay's implied policy trajectory runs like this: once enough economists, policymakers, and citizens understand that the federal budget is not a household budget, the political space opens for sovereign spending on climate, inequality, and technological unemployment. The paradigm shift is an intellectual event, and the policy follows from the understanding.
 
-The BioConomy reads the same evidence and draws a different conclusion. The obstacle to mobilizing resources for ecological restoration is not that policymakers misunderstand sovereign currency mechanics. The obstacle is that the existing [[m-form-market|monetary substrate]] makes extraction the [[glossary/substrate-hypothesis|cheapest available behavior]]. Correcting the intellectual model of the substrate does not change the substrate's incentive structure. A government that perfectly understands MMT and spends accordingly still denominates its spending in a currency whose design rewards throughput over retention. The spending flows through market-form intermediaries. The ecological value it targets gets priced in the unit of account that makes extraction competitive. The correction is real. The coordination problem persists.
+The BioConomy reads the same evidence and draws a different conclusion. The obstacle to mobilizing resources for ecological restoration is not that policymakers misunderstand sovereign currency mechanics. The obstacle is that the existing [[m-form-market|monetary substrate]] makes extraction the [[content/glossary/m-s/substrate-hypothesis|cheapest available behavior]]. Correcting the intellectual model of the substrate does not change the substrate's incentive structure. A government that perfectly understands MMT and spends accordingly still denominates its spending in a currency whose design rewards throughput over retention. The spending flows through market-form intermediaries. The ecological value it targets gets priced in the unit of account that makes extraction competitive. The correction is real. The coordination problem persists.
 
 ## The BioConomy's alternative: respond to the signal
 
@@ -45,7 +45,7 @@ That is a market signal. Capital has restructured its own instruments because th
 
 ## BioHubs as the delivery layer
 
-A [[biohub|BioHub]] is a bioregional coordination body that convenes the people, institutions, and economic actors whose activity shapes a living landscape and organizes their distributed contributions into verifiable commitments the outside world can contract with. The distinction between [[glossary/needed-vs-needy|needed and needy]] is the structural hinge: a bioregion that asks for funding is needy; a BioRegion that tenders verified ecological services into a market already structured to purchase them is needed.
+A [[biohub|BioHub]] is a bioregional coordination body that convenes the people, institutions, and economic actors whose activity shapes a living landscape and organizes their distributed contributions into verifiable commitments the outside world can contract with. The distinction between [[needed-vs-needy|needed and needy]] is the structural hinge: a bioregion that asks for funding is needy; a BioRegion that tenders verified ecological services into a market already structured to purchase them is needed.
 
 The FR31PB was designed as the first of a replicable series across South Africa's twenty-two Strategic Water Source Areas. Twenty-one remain. Each requires a coordination layer that can pool community-level [[concepts/commitment-pooling|commitments]] (labor, ecological monitoring, invasive clearing, demand reduction) into a bioregional-scale service verifiable by an independent technical agent and contractable by a capital-markets instrument. That coordination layer is what BioHubs provide.
 
@@ -65,7 +65,7 @@ The shift does not require a century of intellectual persuasion. It requires org
 
 ## The structural prematurity test
 
-The concept of [[glossary/structural-prematurity|structural prematurity]] offers a falsification condition: frameworks judged premature during the acceleration phase of the [[s-curve|S-curve]] should become structurally necessary during deceleration. If they do not, either the phase reading is wrong or the framework was mistaken on its merits.
+The concept of [[content/glossary/m-s/structural-prematurity|structural prematurity]] offers a falsification condition: frameworks judged premature during the acceleration phase of the [[s-curve|S-curve]] should become structurally necessary during deceleration. If they do not, either the phase reading is wrong or the framework was mistaken on its merits.
 
 The performance-based bond is evidence that the deceleration phase has arrived in water infrastructure. The +I and +M forms restructured their own promises because the promises stopped clearing. The BioConomy's coordination forms (commitment pooling, cooperative federation, bioregional compacts) were structurally premature when the throughput economy could still keep its water promises. They are structurally necessary now that it cannot.
 
@@ -73,7 +73,7 @@ The relevant comparison is not Copernicus waiting a century for consensus. It is
 
 ## The Alpha Window reading
 
-The [[glossary/alpha-window|Alpha Window]], the closing period during which assets and institutional energy can be repositioned from the declining order into the emerging one, applies directly. Every year a bioregion spends waiting for macroeconomic consensus is a year in which its ecological capacity continues to degrade, its coordination architecture remains unbuilt, and the instruments designed to pay for restoration go unfilled. The window is real, and it closes.
+The [[alpha-window|Alpha Window]], the closing period during which assets and institutional energy can be repositioned from the declining order into the emerging one, applies directly. Every year a bioregion spends waiting for macroeconomic consensus is a year in which its ecological capacity continues to degrade, its coordination architecture remains unbuilt, and the instruments designed to pay for restoration go unfilled. The window is real, and it closes.
 
 The BioConomy's response to "ahead is a long uphill battle to consensus" is: the battle for consensus is someone else's fight. The BioConomy's fight is organizational. It is won bioregion by bioregion, BioHub by BioHub, bond by bond.
 
@@ -87,12 +87,12 @@ The BioConomy's response to "ahead is a long uphill battle to consensus" is: the
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/three-feature-test|The (+T+I+M)^+N Test]]
-- [[glossary/alpha-window|Alpha Window]]
-- [[glossary/biohub|BioHub]]
-- [[glossary/needed-vs-needy|Needed vs. Needy]]
-- [[glossary/substrate-hypothesis|Substrate Hypothesis]]
-- [[glossary/structural-prematurity|Structural Prematurity]]
-- [[glossary/performance-based-bond|Performance-based bond]]
+- [[alpha-window|Alpha Window]]
+- [[biohub|BioHub]]
+- [[needed-vs-needy|Needed vs. Needy]]
+- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
+- [[content/glossary/m-s/structural-prematurity|Structural Prematurity]]
+- [[performance-based-bond|Performance-based bond]]
 
 ## Sources
 

@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Eliade, M. (1957). *The Sacred and the Profane: The Nature of Religion.* Trans. Willard R. Trask. New York: Harcourt, Brace & World.
 
-Eliade's classic phenomenological account of how the sacred breaks into profane space to consecrate a fixed point around which community life organizes. The book supplies the theoretical vocabulary for reading the [[glossary/t-form-tribal|T-form]] [[glossary/coordination-node|coordination node]] (sacred site, marae, sacred grove, songline anchor) as the physical expression of a coordination logic centered on belonging, kinship, and reciprocal obligation.
+Eliade's classic phenomenological account of how the sacred breaks into profane space to consecrate a fixed point around which community life organizes. The book supplies the theoretical vocabulary for reading the [[t-form-tribal|T-form]] [[coordination-node|coordination node]] (sacred site, marae, sacred grove, songline anchor) as the physical expression of a coordination logic centered on belonging, kinship, and reciprocal obligation.
 
 ## Cited by
 

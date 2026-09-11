@@ -14,8 +14,8 @@ Lead author of BioHubs: A Pathway to Regional Resilience (Metabolic, May 2026)
 
 ## Related pages
 
-- [[glossary/biohub|BioHub]]
-- [[glossary/biohub-field-sense|BioHub (field sense)]]
+- [[biohub|BioHub]]
+- [[biohub-field-sense|BioHub (field sense)]]
 
 ## Provenance
 

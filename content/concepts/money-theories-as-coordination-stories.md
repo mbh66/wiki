@@ -13,7 +13,7 @@ epistemic_status: structural-inference
 
 Every dominant money theory does two things at once. It describes how the monetary system works, and it carries a public story about who owes what to whom and why. The descriptive content is technical and confined to specialists (central bankers, treasury officials, bond traders, and economists). The story shapes voter behavior, fiscal politics, and everyday moral intuitions about debt, saving, taxation, and public expenditure. The story is the coordination surface of the theory.
 
-The concept extends the [[substrate-hypothesis|Substrate Hypothesis]]. Coordination is a property of substrate, and collective stories are substrate components. Money theories that persist at scale do so because they carry stories that produce coordination behavior in populations, whether or not the descriptive content of the theory is operationally accurate.
+The concept extends the [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]. Coordination is a property of substrate, and collective stories are substrate components. Money theories that persist at scale do so because they carry stories that produce coordination behavior in populations, whether or not the descriptive content of the theory is operationally accurate.
 
 ## The general pattern
 
@@ -27,7 +27,7 @@ The metallist tradition (Menger, Ricardo, Mill, and the classical schools genera
 
 ## The sound-finance story
 
-As metal backing weakened through the nineteenth and twentieth centuries and finally ended with the closing of the gold window on August 15, 1971, [[sound-finance|sound finance]] took metallism's place at the level of public discourse. The state's budget was analogous to a household's, taxes funded spending, and deficits were burdens transferred to future generations. The story survived the operational shift from metal to fiat because it continued to do the coordination work the earlier story had done. It manufactured demand for the currency through the tax obligation. It disciplined citizens into fiscal stakeholding. It framed scarcity as the binding constraint. It constrained deficit spending in ways that protected capital accumulation from redistributive pressure.
+As metal backing weakened through the nineteenth and twentieth centuries and finally ended with the closing of the gold window on August 15, 1971, [[content/concepts/sound-finance|sound finance]] took metallism's place at the level of public discourse. The state's budget was analogous to a household's, taxes funded spending, and deficits were burdens transferred to future generations. The story survived the operational shift from metal to fiat because it continued to do the coordination work the earlier story had done. It manufactured demand for the currency through the tax obligation. It disciplined citizens into fiscal stakeholding. It framed scarcity as the binding constraint. It constrained deficit spending in ways that protected capital accumulation from redistributive pressure.
 
 Barnes and Hicks's 2022 experimental work in the *British Journal of Political Science* found that the household-budget analogy is invoked ex post to justify austerity preferences already held, with no evidence that the analogy causes those preferences. The finding is consistent with the concept developed here. The story does its coordination work through the tax-obligation substrate that sits underneath it, and participants recruit the story to explain what the substrate has already forced them to do. Belief in the story's accuracy is downstream of the compliance the substrate produces.
 
@@ -53,14 +53,14 @@ The Substrate Hypothesis says coordination is a property of substrate. The conce
 
 ## See also
 
-- [[substrate-hypothesis|Substrate Hypothesis]]
+- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]
 - [[consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[sound-finance|Sound Finance]]
+- [[content/concepts/sound-finance|Sound Finance]]
 - [[modern-monetary-theory|Modern Monetary Theory]]
 - [[metallism|Metallism]]
 - [[t-form-tribal|T form (Tribal)]]
 - [[s-curve-thesis|S-Curve Thesis]]
-- [[structural-prematurity|Structural Prematurity]]
+- [[content/concepts/structural-prematurity|Structural Prematurity]]
 - [[consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[cheapest-available-behavior|Cheapest Available Behavior Thesis]]
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]

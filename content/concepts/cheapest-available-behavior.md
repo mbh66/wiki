@@ -13,7 +13,7 @@ epistemic_status: documented-framework
 
 Any coordination architecture produces behavioral incentives, and participants tend toward the behavior the architecture makes cheapest. Changing observed behavior at population scale requires substrate change. Attempts to change behavior through participant exhortation, moral reform, or educational campaigns show weak and transient effects while the substrate continues to make the target behavior cheap.
 
-The thesis is the operational corollary of the [[substrate-hypothesis|Substrate Hypothesis]]. If coordination is a property of substrate, as the Substrate Hypothesis claims, the mechanism by which the substrate produces coordination is the differential cost of behaviors within it. Participants search their available option set for the option with lowest aggregate cost given their constraints, and the aggregate distribution of behaviors is the sum of those searches. The thesis says this aggregate is well predicted by the substrate's cost structure.
+The thesis is the operational corollary of the [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]. If coordination is a property of substrate, as the Substrate Hypothesis claims, the mechanism by which the substrate produces coordination is the differential cost of behaviors within it. Participants search their available option set for the option with lowest aggregate cost given their constraints, and the aggregate distribution of behaviors is the sum of those searches. The thesis says this aggregate is well predicted by the substrate's cost structure.
 
 ## What "cheapest" covers
 
@@ -25,7 +25,7 @@ The claim is behavioral: it describes the path of least resistance in a given su
 
 Under the tax obligation of a fiat currency (see [[modern-monetary-theory|Modern Monetary Theory]] on the mechanism), the cheapest available behavior for a citizen is to acquire the state's unit of account. Acquiring alternative units carries a higher aggregate cost because the tax obligation cannot be discharged in them. This is why alternative currencies have historically struggled to gain traction in populations that have another cheap acquisition mechanism available.
 
-Under [[sound-finance|sound finance]] as legislated in the German Schuldenbremse, the cheapest available behavior for a federal minister is to propose expenditures that fit within the debt-brake ceiling. Proposals that exceed the ceiling require constitutional justification, exceptional votes, or judicial argument, all of which raise the aggregate cost of the proposal. The substrate makes ceiling-conforming behavior cheap and ceiling-breaching behavior expensive, and observed ministerial behavior tracks that structure.
+Under [[content/concepts/sound-finance|sound finance]] as legislated in the German Schuldenbremse, the cheapest available behavior for a federal minister is to propose expenditures that fit within the debt-brake ceiling. Proposals that exceed the ceiling require constitutional justification, exceptional votes, or judicial argument, all of which raise the aggregate cost of the proposal. The substrate makes ceiling-conforming behavior cheap and ceiling-breaching behavior expensive, and observed ministerial behavior tracks that structure.
 
 Under a demurrage currency (Wörgl 1932, or the Gesell tradition generally), the cheapest available behavior for a holder is to spend the unit before its face value declines. Holding is made costly by design. The fourteen-fold circulation velocity of Wörgl scrip relative to the national currency is the observable signature of the changed cost structure.
 
@@ -59,15 +59,15 @@ The thesis does not predict the direction of civilizational change. It predicts 
 
 ## See also
 
-- [[substrate-hypothesis|Substrate Hypothesis]]. The parent thesis.
+- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]. The parent thesis.
 - [[consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]. The discourse-level corollary.
 - [[coercion-continuum|The Coercion Continuum]]. The normative overlay the thesis itself does not supply.
 - [[retention-logic|Retention Logic]]. The behavioral pattern BioConomy substrate is designed to make cheap.
-- [[stigmergy|Stigmergy]]. A substrate mechanism that lowers coordination cost without direct communication.
+- [[content/concepts/stigmergy|Stigmergy]]. A substrate mechanism that lowers coordination cost without direct communication.
 - [[modern-monetary-theory|Modern Monetary Theory]]. The tax obligation as a substrate that makes currency acquisition cheap.
-- [[sound-finance|Sound Finance]]. The fiscal doctrine that makes budget-balance behavior cheap for treasury officials.
+- [[content/concepts/sound-finance|Sound Finance]]. The fiscal doctrine that makes budget-balance behavior cheap for treasury officials.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The story layer that lowers the cost of compliance with the underlying substrate.
-- [[structural-prematurity|Structural Prematurity]]. What happens when a correct idea arrives against a substrate that makes attention to it expensive.
+- [[content/concepts/structural-prematurity|Structural Prematurity]]. What happens when a correct idea arrives against a substrate that makes attention to it expensive.
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment of the substrate-versus-story distinction.
 
 <script type="application/ld+json">

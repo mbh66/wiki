@@ -14,12 +14,12 @@ Architectural historian whose *Form Follows Finance* argues that skyscraper fo
 
 ## Related pages
 
-- [[glossary/m-form-market|M form (Market)]]
-- [[glossary/coordination-node|Coordination Node]]
+- [[m-form-market|M form (Market)]]
+- [[coordination-node|Coordination Node]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

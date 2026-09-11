@@ -26,7 +26,7 @@ The program targets 12,000 hectares under restoration, 159,000 hectares under im
 
 ## Alignment with the BioConomy
 
-The CSO Challenge Program's mandate overlaps the wiki's subject matter at several points. Its emphasis on community-based ecosystem management and sustainable agriculture maps directly onto [[glossary/bioregional-economics|bioregional economics]] as practiced through [[concepts/biohub|BioHub]] coordination. The prioritization of Indigenous Peoples and traditional knowledge aligns with the wiki's treatment of [[glossary/commons|commons]] governance as a living institutional form rather than a policy abstraction. The grant scale (up to USD 300,000) sits in the range relevant to bioregional pilot projects: large enough to fund a multi-year coordination effort, small enough to require the kind of local institutional depth the [[frameworks/time-framework|TIME framework]] describes.
+The CSO Challenge Program's mandate overlaps the wiki's subject matter at several points. Its emphasis on community-based ecosystem management and sustainable agriculture maps directly onto [[content/glossary/a-e/bioregional-economics|bioregional economics]] as practiced through [[concepts/biohub|BioHub]] coordination. The prioritization of Indigenous Peoples and traditional knowledge aligns with the wiki's treatment of [[commons|commons]] governance as a living institutional form rather than a policy abstraction. The grant scale (up to USD 300,000) sits in the range relevant to bioregional pilot projects: large enough to fund a multi-year coordination effort, small enough to require the kind of local institutional depth the [[frameworks/time-framework|TIME framework]] describes.
 
 The program's theory of change, scaling proven solutions through civil society actors rather than state or market channels, is itself a +N coordination pattern: it routes resources through network-form organizations rather than through bilateral aid or market intermediaries.
 
@@ -35,3 +35,45 @@ The program's theory of change, scaling proven solutions through civil society a
 - [IUCN press release, October 2025](https://iucn.org/press-release/202510/new-gef-programme-set-deliver-grants-usd-300000-civil-society-led)
 - [GEF project page (ID 11757)](https://www.thegef.org/projects-operations/projects/11757)
 - [CSO Challenge Program website](https://csochallenge.org)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/funding/gef-sgp-cso-challenge-program/",
+  "name": "GEF SGP CSO Challenge Program",
+  "description": "A USD 10 million global grants facility funding civil society organizations with proven environmental solutions, implemented by IUCN and RTI International under GEF-8.",
+  "datePublished": "2026-09-08",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": {
+    "@type": "MonetaryGrant",
+    "name": "GEF SGP CSO Challenge Program",
+    "funder": [
+      {
+        "@type": "Organization",
+        "name": "Global Environment Facility"
+      },
+      {
+        "@type": "Organization",
+        "name": "IUCN"
+      },
+      {
+        "@type": "Organization",
+        "name": "RTI International"
+      }
+    ],
+    "url": "https://csochallenge.org"
+  },
+  "keywords": [
+    "funding-source",
+    "grants",
+    "civil-society",
+    "environment",
+    "biodiversity",
+    "regeneration"
+  ]
+}
+</script>

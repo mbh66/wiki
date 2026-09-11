@@ -20,7 +20,7 @@ Two variants are usually distinguished. *Quantitative stigmergy* uses continuous
 
 ## Relevance to the BioConomy
 
-Stigmergy is one of the mechanisms through which [[glossary/mycelial-coordination|Mycelial Coordination]] operates. The [[substrate-hypothesis|Substrate Hypothesis]] states that coordination is a property of the substrate. Stigmergy names a specific class of substrate-produced coordination that BioConomy design relies on.
+Stigmergy is one of the mechanisms through which [[content/glossary/m-s/mycelial-coordination|Mycelial Coordination]] operates. The [[content/concepts/substrate-hypothesis|Substrate Hypothesis]] states that coordination is a property of the substrate. Stigmergy names a specific class of substrate-produced coordination that BioConomy design relies on.
 
 Several BioConomy instruments are stigmergic by design.
 
@@ -34,8 +34,8 @@ Retention-accounting frames are stigmergic as well. They make visible what conve
 
 ## Related terms
 
-- [[glossary/mycelial-coordination|Mycelial Coordination]]
-- [[substrate-hypothesis|Substrate Hypothesis]]
+- [[content/glossary/m-s/mycelial-coordination|Mycelial Coordination]]
+- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]
 - [[e-form-emergent|E Form (Emergent)]]
 - [[legibility-signal|Legibility Signal]]
 - [[coordination-node|Coordination Node]]
@@ -44,7 +44,7 @@ Retention-accounting frames are stigmergic as well. They make visible what conve
 
 ## Related pages
 
-- [[glossary/stigmergy|Stigmergy (glossary)]]
+- [[content/glossary/m-s/stigmergy|Stigmergy (glossary)]]
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
 

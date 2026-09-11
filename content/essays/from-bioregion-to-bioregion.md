@@ -27,7 +27,7 @@ A bioregion is a physical and cultural fact. It has a watershed, a biome, a set 
 
 Most of the work is organized inside institutions that predate the bioregional framing: municipal governments, catchment agencies, farming cooperatives, NGOs, corporations, churches, and schools. Each of these operates on its own logic. The logics do not automatically compose into a coherent bioregional whole. Where they do compose, it is because specific individuals or specific compacts have made them compose, in specific times, for specific reasons.
 
-Bioregional coordination is not required for a bioregion to exist. A bioregion can persist for centuries as a coherent ecological-cultural unit while its [[glossary/human-coordination|human coordination]] stays fragmented, [[glossary/extractive|extractive]], or captured by outside logics. Cascadia is a bioregion. The Karoo is a bioregion. The Amazon watershed is a bioregion. Each has existed as a coherent unit for far longer than any coordination body that has attempted to hold it.
+Bioregional coordination is not required for a bioregion to exist. A bioregion can persist for centuries as a coherent ecological-cultural unit while its [[human-coordination|human coordination]] stays fragmented, [[extractive|extractive]], or captured by outside logics. Cascadia is a bioregion. The Karoo is a bioregion. The Amazon watershed is a bioregion. Each has existed as a coherent unit for far longer than any coordination body that has attempted to hold it.
 
 ## The BioRegion, and what has been added
 
@@ -41,7 +41,7 @@ The layer has four load-bearing components.
 
 **At least one convened cohort.** The Charter is signed by a named group of participants who have committed to the coordination work. A *bioregion* has residents. A *BioRegion* has a cohort.
 
-**A face to external counterparties.** A bioregion can host projects that individual actors take to funders. A BioRegion can tender coordinated services at bioregional scale, enter into performance-based contracts, and hold commitments its participants make jointly. The [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]] and the [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] are the instruments through which this happens.
+**A face to external counterparties.** A bioregion can host projects that individual actors take to funders. A BioRegion can tender coordinated services at bioregional scale, enter into performance-based contracts, and hold commitments its participants make jointly. The [[tenderable-services-portfolio|Tenderable Services Portfolio]] and the [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] are the instruments through which this happens.
 
 The four components together produce a coordination substrate that changes what the region can do.
 
@@ -49,7 +49,7 @@ The four components together produce a coordination substrate that changes what 
 
 A *BioRegion* can pool commitments across its actors and tender the pooled result. A *bioregion* can only host individual actors tendering their individual offers. The pooling capacity is the largest single functional difference.
 
-A *BioRegion* can be a counterparty to a nature-linked [[glossary/performance-based-bond|performance-based bond]], a water fund, or a payment-for-ecosystem-services contract at the scale the instrument is written for. A *bioregion* cannot. The instruments require a coordinating body with the standing to hold the commitment, and a bioregion by itself has no such body.
+A *BioRegion* can be a counterparty to a nature-linked [[performance-based-bond|performance-based bond]], a water fund, or a payment-for-ecosystem-services contract at the scale the instrument is written for. A *bioregion* cannot. The instruments require a coordinating body with the standing to hold the commitment, and a bioregion by itself has no such body.
 
 A *BioRegion* can coordinate with other BioRegions across the emerging global field. Peer BioRegions have comparable coordination architectures, comparable documents, and comparable commitments; they can share learning, second cohort members, and align around inter-bioregional trade. A *bioregion* has no equivalent peer network at the same scale.
 
@@ -62,8 +62,8 @@ The most common case, by far. Almost every bioregion on earth today has the ecol
 A bioregion is not yet a BioRegion where:
 
 - The work of the BioRegion Establishment Template has not been run. The boundary is felt but not chosen. The Atlas has not been assembled. The Charter has not been drafted.
-- A cohort has not been convened. Individual actors are doing [[glossary/regenerative|regenerative]] work and nobody has taken responsibility for the coordination layer between them.
-- The commitment to the BioConomy framework has not been made explicit. The region has adjacent commitments (to sustainability, to conservation, to regenerative agriculture, or to community wealth-building) and has not adopted [[glossary/retention-economics|retention]] logic as its organizing principle.
+- A cohort has not been convened. Individual actors are doing [[regenerative|regenerative]] work and nobody has taken responsibility for the coordination layer between them.
+- The commitment to the BioConomy framework has not been made explicit. The region has adjacent commitments (to sustainability, to conservation, to regenerative agriculture, or to community wealth-building) and has not adopted [[retention-economics|retention]] logic as its organizing principle.
 
 None of these are failings. They describe the ordinary state of a bioregion whose coordinating layer has not yet been built. The essay [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]] describes what building it looks like from the inside.
 
@@ -84,8 +84,8 @@ The shift from *bioregion* to *BioRegion* doesn't happen overnight. It is the ac
 - [[essays/ai-quick-engage|AI Quick-Engage]]
 - [[templates/index|The Templates]]
 - [[templates/bioregion-establishment-template|BioRegion Establishment Template]]
-- [[glossary/bioregion|Bioregion (glossary)]]
-- [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]]
+- [[bioregion|Bioregion (glossary)]]
+- [[tenderable-services-portfolio|Tenderable Services Portfolio]]
 - [[concepts/retention-logic|Retention Logic]]
 
 ## Sources

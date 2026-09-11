@@ -16,7 +16,7 @@ source_documents: []
 epistemic_status: documented-fact
 ---
 
-American writer, editor, and organizer (born 1938) whose *Whole Earth Catalog*, cofounding of the Long Now Foundation, and continuing work on tools, buildings, and deep time have shaped the planetary-scale view of coordination the wiki calls the satellite view. Brand's contribution to the BioConomy corpus is the counterpart to [[berry-wendell|Wendell Berry]]'s ground view: the two together are the pair of postures a healthy [[glossary/biohub|BioHub]] holds simultaneously.
+American writer, editor, and organizer (born 1938) whose *Whole Earth Catalog*, cofounding of the Long Now Foundation, and continuing work on tools, buildings, and deep time have shaped the planetary-scale view of coordination the wiki calls the satellite view. Brand's contribution to the BioConomy corpus is the counterpart to [[berry-wendell|Wendell Berry]]'s ground view: the two together are the pair of postures a healthy [[biohub|BioHub]] holds simultaneously.
 
 ## Contribution
 
@@ -24,9 +24,9 @@ Brand's first major intervention was the *Whole Earth Catalog* (1968-1972), orga
 
 Brand's second major intervention was the Long Now Foundation (co-founded 1996 with Danny Hillis, Brian Eno, and others). Long Now proposed that civilizations that plan on centuries and millennia coordinate differently from civilizations that plan on quarters and elections, and that the physical and institutional infrastructure of long-term thinking is worth building deliberately. The 10,000-Year Clock, the Rosetta Project, and Long Bets are the artefacts. The framing (deep time as a design constraint on present decisions) is what the wiki draws on.
 
-His book *How Buildings Learn* (1994) contains the observation that has traveled furthest into the wiki's own thinking: physical structures adapt over time, in layers that change on different timescales, and design that acknowledges this ages well while design that resists it ages badly. The layered-timescales frame maps directly onto the [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]]: each coordination node the wiki traces (Farm, Stock Market, Data Center, [[glossary/biohub|BioHub]]) operates at a different timescale, and each generates infrastructure at its own tempo.
+His book *How Buildings Learn* (1994) contains the observation that has traveled furthest into the wiki's own thinking: physical structures adapt over time, in layers that change on different timescales, and design that acknowledges this ages well while design that resists it ages badly. The layered-timescales frame maps directly onto the [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]]: each coordination node the wiki traces (Farm, Stock Market, Data Center, [[biohub|BioHub]]) operates at a different timescale, and each generates infrastructure at its own tempo.
 
-For the wiki, Brand's structural contribution is the satellite view: the capacity to see the earth as a single object and to coordinate tools, attention, and institutions at planetary scale. Brand's satellite view without Berry's ground view produces the [[glossary/noosphere|noosphere]] as it ballooned during the Data Center era, unlanded and technocratic. Berry's ground view without Brand's satellite view produces a localism that cannot coordinate at the scale planetary problems require. The wiki's argument is that both are required, and that the BioHub is where they meet without one erasing the other.
+For the wiki, Brand's structural contribution is the satellite view: the capacity to see the earth as a single object and to coordinate tools, attention, and institutions at planetary scale. Brand's satellite view without Berry's ground view produces the [[noosphere|noosphere]] as it ballooned during the Data Center era, unlanded and technocratic. Berry's ground view without Brand's satellite view produces a localism that cannot coordinate at the scale planetary problems require. The wiki's argument is that both are required, and that the BioHub is where they meet without one erasing the other.
 
 Brand's later work has been controversial. *Whole Earth Discipline* (2009) argued for nuclear power, urbanization, and cautious openness to geoengineering as ecological necessities. Some ecological readers regard this as a betrayal of his earlier position; others read it as consistent with a lifetime of following the evidence past ideological commitments. The wiki does not adjudicate the specific policy positions. It notes that Brand has consistently been willing to update, which is the epistemic virtue his work requires of its readers.
 
@@ -48,8 +48,8 @@ Brand's later work has been controversial. *Whole Earth Discipline* (2009) argue
 ## Related pages
 
 - [[berry-wendell|Wendell Berry]]
-- [[glossary/noosphere|Noosphere]]
-- [[glossary/biohub|BioHub]]
+- [[noosphere|Noosphere]]
+- [[biohub|BioHub]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[essays/from-geosphere-to-noosphere|From Geosphere to Noosphere]]

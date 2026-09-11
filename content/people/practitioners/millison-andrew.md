@@ -14,11 +14,11 @@ Permaculture educator at Oregon State University whose work on water design has 
 
 ## Related pages
 
-- [[glossary/water-retention-landscape|Water Retention Landscape]]
+- [[water-retention-landscape|Water Retention Landscape]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

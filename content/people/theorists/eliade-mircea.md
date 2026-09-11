@@ -14,12 +14,12 @@ Romanian-born historian of religion whose concept of hierophany (the sacred brea
 
 ## Related pages
 
-- [[glossary/t-form-tribal|T form (Tribal)]]
-- [[glossary/coordination-node|Coordination Node]]
+- [[t-form-tribal|T form (Tribal)]]
+- [[coordination-node|Coordination Node]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

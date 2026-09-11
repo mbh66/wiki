@@ -34,7 +34,7 @@ One page per external wiki. Each entry sits under a short slug (the wiki's commo
 
 ## Related pages
 
-- [[content/wiki-related/index|Wiki Home]]
-- [[content/sources/index|Sources]]
-- [[glossary/index|Glossary]]
+- [[engage|Wiki Home]]
+- [[sources/index|Sources]]
+- [[content/glossary/index|Glossary]]
 - [[concepts/index|Concepts]]

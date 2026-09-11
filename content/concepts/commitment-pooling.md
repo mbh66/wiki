@@ -1,12 +1,19 @@
 ---
-title: "Commitment Pooling"
-aliases: ["commitment pool practice", "pooling"]
-tags: ["concept", "bioconomy", "core-framework", "coordination"]
-created: 2026-09-01
-updated: 2026-08-25
-source_project: "BioConomy"
-source_documents: ["Commitment_Pooling_Notion_Export"]
-epistemic_status: "documented-framework"
+title: Commitment Pooling
+aliases:
+  - commitment pool practice
+  - pooling
+tags:
+  - concept
+  - bioconomy
+  - core-framework
+  - coordination
+created: 2026-08-25
+updated: 2026-09-01
+source_project: BioConomy
+source_documents:
+  - Commitment_Pooling_Notion_Export
+epistemic_status: documented-framework
 ---
 
 Commitment pooling is the coordination mechanism through which distributed actors make binding forward promises to one another and hold those promises as a shared resource. Pooling is among the oldest forms of human economic organization. What is new is the recognition that it operates at two distinct scales in bioregional work, and that each scale requires a different architecture while sharing the same coordination logic.
@@ -35,7 +42,7 @@ As the economist [[ussher-leanne|Leanne Ussher]] observed, the commitment pool b
 
 ## Community-level practice
 
-Ruddick's career traces the arc of the idea. His earliest work (Eco-Pesa, Mombasa, 2010 to 2011) used a complementary currency earned through waste-collection events: 75 registered businesses, approximately $4,176 of trade facilitated by $352 in circulation, a 22 percent average increase in participating business income, and 20 tonnes of waste collected over seven months. The Bangla-Pesa and Sarafu Network phase (2013 to 2023) aggregated local currencies into a digital system that grew from 8,354 registered accounts in January 2020 to almost 55,000 by June 2021, with transaction volumes spiking tenfold as COVID-19 constricted the formal [[glossary/economy|economy]].
+Ruddick's career traces the arc of the idea. His earliest work (Eco-Pesa, Mombasa, 2010 to 2011) used a complementary currency earned through waste-collection events: 75 registered businesses, approximately $4,176 of trade facilitated by $352 in circulation, a 22 percent average increase in participating business income, and 20 tonnes of waste collected over seven months. The Bangla-Pesa and Sarafu Network phase (2013 to 2023) aggregated local currencies into a digital system that grew from 8,354 registered accounts in January 2020 to almost 55,000 by June 2021, with transaction volumes spiking tenfold as COVID-19 constricted the formal [[economy|economy]].
 
 The pivot from community currencies to commitment pools marks the current phase. Since July 2023, Ruddick reports over 1,500 Mweria cycles across more than 50 groups, with 320 houses built and 400 farms developed. The mechanism is operational across Kenya, Cameroon, and South Africa, covering over 80 communities and roughly 60,000 households.
 
@@ -47,7 +54,7 @@ At the bioregional scale, pooling takes a different form. The coordination failu
 
 The Greater Cape Town Water Fund (GCTWF), established by The Nature Conservancy with the City of Cape Town in 2018 and registered as a separate legal entity in April 2023, is the bioregional-scale exemplar in the Cape. Its business case found that clearing invasive alien plants from 54,300 hectares in seven mountain catchments would yield annual water gains of 55 billion liters per year within six years, rising toward 100 billion liters per year by 2045, at roughly one-tenth the unit cost of desalination. The GCTWF coordinates across multiple landowners, catchment areas, and implementing organizations to deliver a service that no individual actor could provide: verified water yield from restored mountain catchments.
 
-The Cape Water [[glossary/performance-based-bond|Performance-Based Bond]] (JSE ticker FR31PB), listed on 17 April 2026, scales this coordination into a capital-markets instrument. The R2.5 billion issuance, arranged by Rand Merchant Bank and co-anchored by the International Finance Corporation, FSD Africa Investments, and Aluwani Capital Partners, links part of investors' returns to independently verified ecological restoration. Conservation Alpha serves as independent technical and verification agent. The Nature Conservancy South Africa implements the restoration work, channeling roughly USD 8.8 million to the GCTWF over five years. This is Africa's first nature-linked performance-based bond and the first outcomes-based bond by a commercial bank globally to tie investor returns to verified ecological restoration.
+The Cape Water [[performance-based-bond|Performance-Based Bond]] (JSE ticker FR31PB), listed on 17 April 2026, scales this coordination into a capital-markets instrument. The R2.5 billion issuance, arranged by Rand Merchant Bank and co-anchored by the International Finance Corporation, FSD Africa Investments, and Aluwani Capital Partners, links part of investors' returns to independently verified ecological restoration. Conservation Alpha serves as independent technical and verification agent. The Nature Conservancy South Africa implements the restoration work, channeling roughly USD 8.8 million to the GCTWF over five years. This is Africa's first nature-linked performance-based bond and the first outcomes-based bond by a commercial bank globally to tie investor returns to verified ecological restoration.
 
 The GCTWF model is, in TIME terms, an [[m-form-market|M-form]] transaction: pay a provider for a measured service. It is sophisticated, effective, and structurally important. It is also, by design, a payment for discrete units of service within an existing market and institutional framework.
 
@@ -57,7 +64,7 @@ The BioHub thesis is that these two scales of pooling belong inside a single coo
 
 At the community level, residents pool labor, food production, ecological monitoring, and restoration work through commitment pools governed by community stewardship. At the bioregional level, the coordinated output of those community pools (verified water yield, biodiversity data, carbon sequestration, demand reduction) becomes a service that can be tendered into instruments like the FR31PB bond series. The community holds its commitments as a pooled communal asset. The bioregional instrument provides the revenue mechanism. The BioHub is what connects the two: the coordination layer through which community-scale commitment pooling and bioregional-scale payment-for-ecosystem-services meet.
 
-This connection matters because it determines who captures the value. Standard [[payment-for-ecosystem-services-pes|PES]] pays upstream communities for a service; the community is a provider contracted by an external funder. The commitment-pool architecture inverts that relationship: the community itself contracts to provide watershed services through coordinated, landscape-scale restoration, holding the commitment as a pooled communal asset. The community is a counterparty, and not a subcontractor. The distinction is structural, and it determines whether the economic value of restoration circulates within the [[glossary/bioregion|bioregion]] or is extracted from it.
+This connection matters because it determines who captures the value. Standard [[payment-for-ecosystem-services-pes|PES]] pays upstream communities for a service; the community is a provider contracted by an external funder. The commitment-pool architecture inverts that relationship: the community itself contracts to provide watershed services through coordinated, landscape-scale restoration, holding the commitment as a pooled communal asset. The community is a counterparty, and not a subcontractor. The distinction is structural, and it determines whether the economic value of restoration circulates within the [[bioregion|bioregion]] or is extracted from it.
 
 ## Related pages
 
@@ -72,9 +79,9 @@ This connection matters because it determines who captures the value. Standard [
 
 - [[templates/index|The Templates]]
 - [[templates/value-proposition-template|BioConomy Value Proposition Template]]
-- [[glossary/founding-compact|Founding Compact]]
-- [[glossary/tender-compact|Tender Compact]]
-- [[glossary/alignment-compact|Alignment Compact]]
+- [[founding-compact|Founding Compact]]
+- [[tender-compact|Tender Compact]]
+- [[alignment-compact|Alignment Compact]]
 ## Sources
 
 - Burgess, M. (2015). *[[sources/burgess-thinking-in-promises|Thinking in Promises]]*

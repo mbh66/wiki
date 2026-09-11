@@ -20,11 +20,11 @@ American impact investing strategist and regenerative economic development pract
 
 ## Contribution
 
-Wendt's career traces the evolution of socially responsible investing from its early marginal position inside conventional brokerages (Sutro and Company, Smith Barney, Prudential Securities, UBS) through ESG portfolio design (Enright Premier Wealth Advisors, where he built the ESG and Impact Investing department from inception) to its current form as a recognized asset management discipline. That trajectory gives him institutional memory of how [[glossary/transvestment|transvestment]] pathways can be opened from inside conventional finance.
+Wendt's career traces the evolution of socially responsible investing from its early marginal position inside conventional brokerages (Sutro and Company, Smith Barney, Prudential Securities, UBS) through ESG portfolio design (Enright Premier Wealth Advisors, where he built the ESG and Impact Investing department from inception) to its current form as a recognized asset management discipline. That trajectory gives him institutional memory of how [[content/glossary/t-z/transvestment|transvestment]] pathways can be opened from inside conventional finance.
 
-In 2006 he co-founded Green Business Networking, the Los Angeles chapter of BALLE (Business Alliance for Local Living Economies), convening monthly gatherings of socially and environmentally conscious business owners for seventeen years. In 2008 he founded the Green Economy Think Tank, a non-profit that has produced over 150 forums, salons, and roundtables incorporating integral theory, systems science, biomimicry for finance, and [[glossary/regenerative-economics|regenerative economic]] thinking.
+In 2006 he co-founded Green Business Networking, the Los Angeles chapter of BALLE (Business Alliance for Local Living Economies), convening monthly gatherings of socially and environmentally conscious business owners for seventeen years. In 2008 he founded the Green Economy Think Tank, a non-profit that has produced over 150 forums, salons, and roundtables incorporating integral theory, systems science, biomimicry for finance, and [[regenerative-economics|regenerative economic]] thinking.
 
-He co-founded the Open Future Fund (2022), an initiative built around the concept of "contextual capital": blended approaches that apply the right forms of financial and non-financial capital at the right point in a project lifecycle, stewarded by and in alignment with the self-determined needs of local communities. The framing connects to [[glossary/bioregional-economics|bioregional economics]] and the [[glossary/retention-economics|retention economics]] premise that capital must serve place-based coordination.
+He co-founded the Open Future Fund (2022), an initiative built around the concept of "contextual capital": blended approaches that apply the right forms of financial and non-financial capital at the right point in a project lifecycle, stewarded by and in alignment with the self-determined needs of local communities. The framing connects to [[content/glossary/a-e/bioregional-economics|bioregional economics]] and the [[retention-economics|retention economics]] premise that capital must serve place-based coordination.
 
 In 2024 he founded GaiaVision LLC, a consultancy advising leaders on economic development, impact investing, and systems redesign.
 
@@ -36,10 +36,10 @@ In 2024 he founded GaiaVision LLC, a consultancy advising leaders on economic de
 
 ## Related pages
 
-- [[glossary/regenerative-economics|Regenerative Economics]]
-- [[glossary/bioregional-economics|Bioregional Economics]]
-- [[glossary/transvestment|Transvestment]]
-- [[glossary/retention-economics|Retention Economics]]
+- [[regenerative-economics|Regenerative Economics]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[content/glossary/t-z/transvestment|Transvestment]]
+- [[retention-economics|Retention Economics]]
 - [[fullerton-john|John Fullerton]]
 
 ## Provenance

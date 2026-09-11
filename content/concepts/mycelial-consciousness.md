@@ -17,7 +17,7 @@ Major Evolutionary Transitions in biology (Maynard Smith and Szathmáry, 1995) d
 
 Cognitive METs (Godfrey-Smith, Ginsburg and Jablonka) apply the same framework to cognition. They identify a sequence of transitions in how organisms perceive, learn, remember, and coordinate. The Mycelial Consciousness thesis proposes that human cognitive evolution is now at a fifth such transition, from Material Consciousness (the operating mode of the past twelve thousand years) to Mycelial Consciousness (the operating mode required to navigate what is emerging).
 
-The framework is a working hypothesis. It draws on Sahtouris and Margulis in biology, on Graves and Steiner in psychology and social philosophy, on Ronfeldt in coordination theory, and on the practitioner traditions (Bauwens on cosmo-local, Ruddick on commitment pooling, Life on [[glossary/bioregional-economics|bioregional economics]]) that are producing the observable expressions of the transition.
+The framework is a working hypothesis. It draws on Sahtouris and Margulis in biology, on Graves and Steiner in psychology and social philosophy, on Ronfeldt in coordination theory, and on the practitioner traditions (Bauwens on cosmo-local, Ruddick on commitment pooling, Life on [[content/glossary/a-e/bioregional-economics|bioregional economics]]) that are producing the observable expressions of the transition.
 
 ## The five stages
 
@@ -41,7 +41,7 @@ Stretch Collaboration is the practical form the capacity takes. It captures the 
 
 ## Relationship to Mycelial Coordination
 
-Mycelial Consciousness is the psychological and perceptual dimension; [[mycelial-coordination|Mycelial Coordination]] is the social and institutional dimension. The frameworks are complementary rather than sequential. Mycelial Consciousness is what makes Mycelial Coordination possible in practice, and Mycelial Coordination is the substrate in which Mycelial Consciousness matures.
+Mycelial Consciousness is the psychological and perceptual dimension; [[content/concepts/mycelial-coordination|Mycelial Coordination]] is the social and institutional dimension. The frameworks are complementary rather than sequential. Mycelial Consciousness is what makes Mycelial Coordination possible in practice, and Mycelial Coordination is the substrate in which Mycelial Consciousness matures.
 
 The relationship is analogous to the relationship between literacy and the printing press. Literacy is a cognitive capacity. The printing press is a coordination technology. Each enabled the other; neither would have taken hold without the other.
 
@@ -51,7 +51,7 @@ Mycelial Consciousness is the psychological substrate the [[frameworks/three-fut
 
 ## Related pages
 
-- [[mycelial-coordination|Mycelial Coordination]]
+- [[content/concepts/mycelial-coordination|Mycelial Coordination]]
 - [[frameworks/three-futures|The Three Futures]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[endosymbiosis|Endosymbiosis (glossary)]]
@@ -69,7 +69,7 @@ Mycelial Consciousness is the psychological substrate the [[frameworks/three-fut
 
 ## Provenance
 
-Extracted from references in *Overberg_BioHub_Founding_Brief_v0.3.md* (Section 9.2) and cross-referenced with the coordinator's April 2025 [[glossary/framer|Framer]] OS essay on Mycelial Consciousness. Full essay text was not held in the project knowledge base; the framework material summarized here is drawn from the treatment across the Overberg brief and from the *I The Three Futures* Emancipation Architecture document. Enrichment from the essay text itself is a candidate for a subsequent pass.
+Extracted from references in *Overberg_BioHub_Founding_Brief_v0.3.md* (Section 9.2) and cross-referenced with the coordinator's April 2025 [[framer|Framer]] OS essay on Mycelial Consciousness. Full essay text was not held in the project knowledge base; the framework material summarized here is drawn from the treatment across the Overberg brief and from the *I The Three Futures* Emancipation Architecture document. Enrichment from the essay text itself is a candidate for a subsequent pass.
 
 <script type="application/ld+json">
 {

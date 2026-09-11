@@ -9,19 +9,19 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-Every coordination architecture chooses a primary addressing unit, and the choice carries the architecture's assumptions about who counts as a coordinating actor. The [[glossary/economy|Economy]] uses the nation-state. Every phone number, tax ID, currency, and legal jurisdiction pins its identifier to a country code first. The BioConomy uses the [[glossary/bioregion|BioRegion]]. Every [[glossary/biohub|BioHub]] wiki address, currency, service catalogue, and coordination surface pins its identifier to a bioregion code first.
+Every coordination architecture chooses a primary addressing unit, and the choice carries the architecture's assumptions about who counts as a coordinating actor. The [[economy|Economy]] uses the nation-state. Every phone number, tax ID, currency, and legal jurisdiction pins its identifier to a country code first. The BioConomy uses the [[bioregion|BioRegion]]. Every [[biohub|BioHub]] wiki address, currency, service catalogue, and coordination surface pins its identifier to a bioregion code first.
 
 ## The addressing pattern
 
 A BioHub wiki lives at `{bioregion}-{slug}.bioconomy.earth`, where the bioregion code follows the One Earth Bioregions Framework (a two-letter realm prefix followed by a bioregion number) and the slug is a short name for the BioHub. The Valley of Grace BioHub in the Overberg publishes at `at12-vog.bioconomy.earth`. The Overberg BioRegion's coordinating entity publishes at `at12-overberg.bioconomy.earth`. The bioregion code sits at the front, and the BioHub identifier sits second. There is no country field.
 
-The absence is deliberate. Country codes are the addressing layer of the [[glossary/economy|Economy]] and inherit its assumptions: that a bounded territorial polity is the primary unit of coordination, that a passport determines who can act, that a border decides where a service ends. None of those hold in the [[glossary/e-form-emergent|E form]]. A watershed does not stop at a border. A coordination surface published on a BioHub wiki is read by peers on other continents in the same reading action a same-country peer reads it.
+The absence is deliberate. Country codes are the addressing layer of the [[economy|Economy]] and inherit its assumptions: that a bounded territorial polity is the primary unit of coordination, that a passport determines who can act, that a border decides where a service ends. None of those hold in the [[e-form-emergent|E form]]. A watershed does not stop at a border. A coordination surface published on a BioHub wiki is read by peers on other continents in the same reading action a same-country peer reads it.
 
 ## Why the choice matters
 
 The address a coordination architecture publishes is one of the traces the [[concepts/stigmergy|stigmergic]] pattern reads. When a coordinator arrives at `at12-vog.bioconomy.earth` and finds a bioregion code at the front and no country segment at all, the address itself says what the wiki is doing: coordinating at the scale of the living landscape the bioregion names, above the scale of the political jurisdiction that happens to contain that landscape today. When the same coordinator arrives at `za-at12-vog.bioconomy.earth`, the address says something different: this BioHub coordinates within a national frame, and the national frame is the primary sort. The pattern reproduces the coordination logic of the Economy inside the E form.
 
-The [[substrate-hypothesis|Substrate Hypothesis]] applies here as it applies everywhere. Coordination is a property of the substrate. Address is part of the substrate. An address that leads with a country code invites the coordination behavior countries expect. An address that leads with a bioregion code invites the coordination behavior the biosphere expects.
+The [[content/concepts/substrate-hypothesis|Substrate Hypothesis]] applies here as it applies everywhere. Coordination is a property of the substrate. Address is part of the substrate. An address that leads with a country code invites the coordination behavior countries expect. An address that leads with a bioregion code invites the coordination behavior the biosphere expects.
 
 ## What the addressing scheme actually holds
 
@@ -33,7 +33,7 @@ Where only one BioHub exists in a bioregion, the slug can be omitted: `at12.bioc
 
 Ruled out: any inter-BioHub coordination pattern that requires a country field to route or resolve. A BioHub in the Amazon and a BioHub in the Congo Basin read each other's coordination surfaces on the same terms as two BioHubs in the same watershed. The address itself makes no distinction.
 
-Enabled: coordination that scales from parcel to planet through one continuous addressing convention. A [[concepts/the-bioplace-layer|BioPlace]] belongs to a BioHub which belongs to a BioRegion which belongs to a realm which belongs to the biosphere. Every layer of the [[glossary/biostack|BioStack]] is addressable through the same convention, and every layer is discoverable by any peer without prior geopolitical context.
+Enabled: coordination that scales from parcel to planet through one continuous addressing convention. A [[concepts/the-bioplace-layer|BioPlace]] belongs to a BioHub which belongs to a BioRegion which belongs to a realm which belongs to the biosphere. Every layer of the [[biostack|BioStack]] is addressable through the same convention, and every layer is discoverable by any peer without prior geopolitical context.
 
 ## Where the habit shows up
 
@@ -42,14 +42,14 @@ Bioregional addressing extends past URLs. Currency codes (ZA-FiCom is a first-ge
 ## Related pages
 
 - [[concepts/stigmergy|Stigmergy]]
-- [[substrate-hypothesis|Substrate Hypothesis]]
+- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
 - [[concepts/the-bioplace-layer|The BioPlace Layer]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]
-- [[glossary/bioregion|BioRegion]]
-- [[glossary/biohub|BioHub]]
-- [[glossary/biostack|BioStack]]
+- [[bioregion|BioRegion]]
+- [[biohub|BioHub]]
+- [[biostack|BioStack]]
 - [[coordination-surface|Coordination Surface]]
 - [[wiki-network/index|Wiki Network]]
 

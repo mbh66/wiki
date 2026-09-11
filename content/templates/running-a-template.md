@@ -9,7 +9,7 @@ source_documents: ["BioHub_Identity_Template.md", "BioRegion_Establishment_Templ
 epistemic_status: "documented-framework"
 ---
 
-The shared mechanics that apply to every template in the [[content/templates/index|founding suite]]: what a template is, what the cohort work between prompts does, how to run the prompts across different deep research platforms, and the evidentiary discipline every template requires.
+The shared mechanics that apply to every template in the [[templates/index|founding suite]]: what a template is, what the cohort work between prompts does, how to run the prompts across different deep research platforms, and the evidentiary discipline every template requires.
 
 ## What a template is
 
@@ -35,7 +35,7 @@ Every template in the suite has cohort review steps between its prompts. Between
 
 The cohort work cannot be delegated to the AI. Three reasons:
 
-**The AI does not have the cohort's local knowledge.** A boundary that looks right on ecological grounds may cut through a heritage territory the cohort knows about but the AI does not. A counterparty the AI names as a plausible buyer may already have refused an approach from a peer [[glossary/biohub|BioHub]], and the cohort knows why.
+**The AI does not have the cohort's local knowledge.** A boundary that looks right on ecological grounds may cut through a heritage territory the cohort knows about but the AI does not. A counterparty the AI names as a plausible buyer may already have refused an approach from a peer [[biohub|BioHub]], and the cohort knows why.
 
 **The AI does not have standing to commit the cohort.** The Compacts are co-signed. Only the cohort can co-sign them. The AI can draft; it cannot commit.
 
@@ -79,7 +79,7 @@ Fabrication is out of scope. If a plausible source cannot be found, mark the cla
 
 Every template's Prompt 3 produces three documents. Reader learns the pattern once and recognizes it across the suite.
 
-**Statement or Definition.** Short, formal, foundational reference document. Five to ten pages. Prose-forward, formal register. Used to introduce the BioHub, the [[glossary/bioregion|BioRegion]], the value proposition, or the alignment to counterparties, funders, peer BioHubs, and instrument parties.
+**Statement or Definition.** Short, formal, foundational reference document. Five to ten pages. Prose-forward, formal register. Used to introduce the BioHub, the [[bioregion|BioRegion]], the value proposition, or the alignment to counterparties, funders, peer BioHubs, and instrument parties.
 
 **Evidence Pack or Atlas.** Long, structured referential document. Twenty-five to sixty pages depending on the template. Reference register. Structured for section-by-section reference use. Used to answer due diligence questions, prepare specific tenders, brief participants, and structure specific coordination work.
 
@@ -93,19 +93,19 @@ Each document ends when its content ends. No closing summary. No restatement of 
 
 The nine outputs of the three establishment templates are prerequisite inputs to the fourth. Attach all nine (alongside the target instrument documentation) to the first prompt of the Bankable Service Alignment Template.
 
-Within the establishment suite, each template's outputs feed the next. The BioRegion Establishment Template inherits the anchor location, cohort structure, and purpose statement from the [[glossary/identity-statement|Identity Statement]]; the global BioHub field baseline, intellectual lineage, and adjacent BioHubs from the Field and Lineage Positioning; and the cohort structure, decision-making forms, multi-BioHub coordination protocols, and custodial and consent principles from the Founding Compact. The [[glossary/bioconomy|BioConomy]] Value Proposition Template inherits from all six preceding outputs.
+Within the establishment suite, each template's outputs feed the next. The BioRegion Establishment Template inherits the anchor location, cohort structure, and purpose statement from the [[identity-statement|Identity Statement]]; the global BioHub field baseline, intellectual lineage, and adjacent BioHubs from the Field and Lineage Positioning; and the cohort structure, decision-making forms, multi-BioHub coordination protocols, and custodial and consent principles from the Founding Compact. The [[bioconomy|BioConomy]] Value Proposition Template inherits from all six preceding outputs.
 
 Preserve the vocabulary and conventions established across the suite. Where a term appears in one template, it appears in the same sense in all subsequent templates.
 
 ## The three-layer coordination stack
 
-Once all four templates have been run, the BioHub sits inside a three-layer coordination stack. The [[glossary/founding-compact|Founding Compact]] governs BioHub-level coordination. The BioRegion Charter governs BioRegion-level coordination. The [[glossary/tender-compact|Tender Compact]] and (where the fourth template has run) the [[glossary/alignment-compact|Alignment Compact]] govern tender-level coordination.
+Once all four templates have been run, the BioHub sits inside a three-layer coordination stack. The [[founding-compact|Founding Compact]] governs BioHub-level coordination. The BioRegion Charter governs BioRegion-level coordination. The [[tender-compact|Tender Compact]] and (where the fourth template has run) the [[alignment-compact|Alignment Compact]] govern tender-level coordination.
 
 The three layers should be internally consistent and cross-referenced. The Charter refines the Founding Compact's multi-BioHub protocols. The Tender Compact refines the Charter's multi-BioHub coordination for tender-specific purposes. The Alignment Compact refines the Tender Compact's provisions for instrument-specific readiness.
 
 ## Related pages
 
-- [[content/templates/index|The Templates]]
+- [[templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
@@ -113,9 +113,9 @@ The three layers should be internally consistent and cross-referenced. The Chart
 - [[the-nine-outputs|The Nine Outputs]]
 - [[using-templates-across-biohubs|Using Templates Across BioHubs]]
 - [[e-form-emergent|+E Coordination Form]]
-- [[glossary/founding-compact|Founding Compact]]
-- [[glossary/tender-compact|Tender Compact]]
-- [[glossary/alignment-compact|Alignment Compact]]
+- [[founding-compact|Founding Compact]]
+- [[tender-compact|Tender Compact]]
+- [[alignment-compact|Alignment Compact]]
 
 ## Provenance
 

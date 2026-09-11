@@ -19,7 +19,7 @@ Listing is a light-touch verification. The meta-wiki editorial team has read the
 
 ## Distinction from related-wikis
 
-The [[content/wiki-related/index|related-wikis folder]] holds external knowledge commons whose scope overlaps the BioConomy corpus (P2P Foundation, Omniharmonic, BioHubs.earth, Bioregioning Earth). Those are outside sources the corpus draws on.
+The [[wiki-related/index|related-wikis folder]] holds external knowledge commons whose scope overlaps the BioConomy corpus (P2P Foundation, Omniharmonic, BioHubs.earth, Bioregioning Earth). Those are outside sources the corpus draws on.
 
 This folder holds BioHub wikis inside the network. Each entry is a peer that publishes to the same layout convention, and coordination between the meta-wiki and each entry happens through the same reading-and-revising pattern that operates between any two peers.
 
@@ -36,12 +36,12 @@ The [[concepts/bioregional-addressing|bioregional addressing convention]] specif
 
 ## Related pages
 
-- [[content/wiki-network/index|Wiki Home]]
+- [[engage|Wiki Home]]
 - [[coordination-surface|Coordination Surface]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]
 - [[concepts/bioregional-addressing|Bioregional Addressing]]
-- [[content/wiki-related/index|Related Wikis]]
+- [[wiki-related/index|Related Wikis]]
 
 ## Provenance
 

@@ -17,7 +17,7 @@ source_documents: []
 epistemic_status: documented-fact
 ---
 
-Russian and Ukrainian mineralogist and geochemist (1863-1945) who founded biogeochemistry and gave the biosphere its first systematic scientific formulation. His work established life as a geological force on par with the movement of continents and the circulation of the atmosphere, and gave the [[glossary/noosphere|noosphere]] its scientific footing as a real planetary stratum.
+Russian and Ukrainian mineralogist and geochemist (1863-1945) who founded biogeochemistry and gave the biosphere its first systematic scientific formulation. His work established life as a geological force on par with the movement of continents and the circulation of the atmosphere, and gave the [[noosphere|noosphere]] its scientific footing as a real planetary stratum.
 
 ## Contribution
 
@@ -25,7 +25,7 @@ Vernadsky's central finding: living matter is not a passive occupant of the eart
 
 Vernadsky did not coin the word noosphere. That term came out of Édouard Le Roy's Paris lectures in the early 1920s, informed by conversations with Teilhard de Chardin. Vernadsky adopted the term and gave it its scientific formulation in *Scientific Thought as a Planetary Phenomenon* (1938) and the essay *The Biosphere and the Noösphere* (1945). His extension: the noosphere is a real geological stratum, not a metaphor. It is the layer of the biosphere transformed by scientific thought and human labor, with the same claim to physical existence as any other layer of the earth system. Where Teilhard's noosphere converged toward a mystical Omega Point, Vernadsky's remained resolutely material: a measurable, expanding, geochemically active layer.
 
-For the [[frameworks/time-framework|TIME Framework]] and the wiki's account of coordination-node evolution, Vernadsky's three-sphere stratigraphy (geosphere, biosphere, [[glossary/noosphere|noosphere]]) is the substrate on which the argument rests. The claim that the [[glossary/biohub|BioHub]] is where the noosphere reconnects to the biosphere and geosphere is a claim in Vernadsky's terms, not a metaphor borrowed from him.
+For the [[frameworks/time-framework|TIME Framework]] and the wiki's account of coordination-node evolution, Vernadsky's three-sphere stratigraphy (geosphere, biosphere, [[noosphere|noosphere]]) is the substrate on which the argument rests. The claim that the [[biohub|BioHub]] is where the noosphere reconnects to the biosphere and geosphere is a claim in Vernadsky's terms, not a metaphor borrowed from him.
 
 ## Selected works
 
@@ -43,8 +43,8 @@ For the [[frameworks/time-framework|TIME Framework]] and the wiki's account of c
 
 ## Related pages
 
-- [[glossary/geosphere|Geosphere]]
-- [[glossary/noosphere|Noosphere]]
+- [[geosphere|Geosphere]]
+- [[noosphere|Noosphere]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[essays/from-geosphere-to-noosphere|From Geosphere to Noosphere]]

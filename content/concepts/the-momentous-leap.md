@@ -15,7 +15,7 @@ The Momentous Leap is Clare Graves's term for the threshold between First Tier a
 
 In 1974, Graves published "Human Nature Prepares for a Momentous Leap" in *The Futurist*, drawing on over twenty years of empirical research into how human value systems evolve under changing conditions of existence. His conclusion was that human society was approaching not merely a transition to a new level of existence, but "the start of a new movement in the symphony of human history."
 
-The leap is from [[glossary/first-tier|First Tier]] to [[glossary/second-tier|Second Tier]] thinking. Every First Tier level of existence (corresponding to Beige through Green in the Spiral Dynamics color coding developed by Beck and Cowan) operates from deficiency motivation: it seeks to solve the problems created by its conditions of existence, and it believes its own worldview is the correct one. Each First Tier level competes with and rejects the others.
+The leap is from [[first-tier|First Tier]] to [[second-tier|Second Tier]] thinking. Every First Tier level of existence (corresponding to Beige through Green in the Spiral Dynamics color coding developed by Beck and Cowan) operates from deficiency motivation: it seeks to solve the problems created by its conditions of existence, and it believes its own worldview is the correct one. Each First Tier level competes with and rejects the others.
 
 Second Tier (beginning at G-T in Graves's notation, Yellow in Spiral Dynamics) is the first level that recognizes the legitimacy and partial truth of all previous levels. The leap is, in Graves's words, the gap "between getting and giving, taking and contributing, destroying and constructing. It is the gap between deficiency or deficit motivation and growth or abundance motivation."
 
@@ -23,17 +23,17 @@ Second Tier (beginning at G-T in Graves's notation, Yellow in Spiral Dynamics) i
 
 Graves identified three possible outcomes from this developmental threshold:
 
-**[[concepts/three-futures|Termination]].** A massive regression, potentially as far back as the conditions documented in Colin Turnbull's study of the Ik tribe of Uganda, if humanity fails to stabilize its weapons and endangered resources. Civilizational collapse as the empirically documented consequence of overshoot in complex adaptive systems.
+**[[frameworks/three-futures|Termination]].** A massive regression, potentially as far back as the conditions documented in Colin Turnbull's study of the Ik tribe of Uganda, if humanity fails to stabilize its weapons and endangered resources. Civilizational collapse as the empirically documented consequence of overshoot in complex adaptive systems.
 
-**[[concepts/three-futures|Technofeudalism]].** Graves described it as a vision resembling Orwell's *1984*: "tyrannic, manipulative government glossed over by a veneer of humanitarian sounding doublethink and moralistic rationalizations." He called this "a very real possibility in the next decade." He was writing in 1974.
+**[[frameworks/three-futures|Technofeudalism]].** Graves described it as a vision resembling Orwell's *1984*: "tyrannic, manipulative government glossed over by a veneer of humanitarian sounding doublethink and moralistic rationalizations." He called this "a very real possibility in the next decade." He was writing in 1974.
 
-**[[concepts/three-futures|Transcendence]].** The emergence of Second Tier thinking: a fundamentally different relationship between human beings and their conditions of existence.
+**[[frameworks/three-futures|Transcendence]].** The emergence of Second Tier thinking: a fundamentally different relationship between human beings and their conditions of existence.
 
 Fifty-two years after Graves's paper, all three possibilities are further advanced than he could have imagined. Each has institutional infrastructure being built in its service.
 
 ## The Leap and the BioConomy Thesis
 
-The BioConomy corpus identifies the Momentous Leap as the developmental equivalent of the transition from [[glossary/material-consciousness|Material Consciousness]] to [[glossary/mycelial-consciousness|Mycelial Consciousness]] in the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]] sequence. Graves provided the developmental psychology; Gebser provides the phenomenology of consciousness structures; Kegan provides the constructive-developmental framework; Sahtouris provides the biological precedent.
+The BioConomy corpus identifies the Momentous Leap as the developmental equivalent of the transition from [[material-consciousness|Material Consciousness]] to [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] in the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]] sequence. Graves provided the developmental psychology; Gebser provides the phenomenology of consciousness structures; Kegan provides the constructive-developmental framework; Sahtouris provides the biological precedent.
 
 The corpus's specific contribution is the claim that the Momentous Leap is not only a shift in values or perspective but a structural transformation of how economic value is created. Under First Tier (Material) consciousness, Steiner's V2 operates as individual intelligence applied to commodified labor, producing gains captured as private capital. Under Second Tier (Mycelial) consciousness, V2 transforms into distributed intelligence applied to ecological participation, producing regenerative capacity that circulates as relational wealth.
 
@@ -43,7 +43,7 @@ The biological precedent is endosymbiosis. Approximately 3.7 billion years ago, 
 
 The binding constraint on Transcendence is not technology, finance, or political will. It is whether enough people develop interpretive frameworks adequate to see what is ending and what is emerging, simultaneously, without collapsing one into the other. The BioConomy corpus calls this capacity "dual vision": witnessing what is composting while tending what is sprouting.
 
-This is why the [[glossary/framer|Framer]], the fourth archetype in the [[frameworks/farmer-forger-founder-framer|Farmer-Forger-Founder-Framer]] sequence, applies consciousness to consciousness itself. The Framer does not produce a product. The Framer produces the interpretive framework, the worldview, within which Mycelial V2 becomes possible.
+This is why the [[framer|Framer]], the fourth archetype in the [[frameworks/farmer-forger-founder-framer|Farmer-Forger-Founder-Framer]] sequence, applies consciousness to consciousness itself. The Framer does not produce a product. The Framer produces the interpretive framework, the worldview, within which Mycelial V2 becomes possible.
 
 ## Epistemic Status
 
@@ -51,13 +51,13 @@ Graves's developmental framework is documented through peer-reviewed research (*
 
 ## Related Pages
 
-- [[concepts/three-futures|Three Futures]]
+- [[frameworks/three-futures|Three Futures]]
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
-- [[glossary/second-tier|Second Tier]]
-- [[glossary/first-tier|First Tier]]
-- [[glossary/crisis-codes|Crisis Codes]]
+- [[second-tier|Second Tier]]
+- [[first-tier|First Tier]]
+- [[crisis-codes|Crisis Codes]]
 
 ## Sources
 

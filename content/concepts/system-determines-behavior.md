@@ -13,7 +13,7 @@ epistemic_status: documented-framework
 
 The structure of a system determines the behavior of its participants. Changing participants without changing structure produces the same behavior in new hands. Changing structure without changing participants produces new behavior from the same people. The claim is Donella Meadows's central thesis in *Thinking in Systems: A Primer* (2008, posthumous), and it runs as a load-bearing assumption through the systems-science tradition from Jay Forrester's industrial dynamics onward.
 
-The claim matters to the BioConomy wiki because it is a systems-science statement of the same structural insight the [[substrate-hypothesis|Substrate Hypothesis]] makes about monetary and coordination design. The two formulations arrive from different traditions and converge on the same operational conclusion: participant disposition is downstream of substrate, and changing behavior at population scale requires changing the system that participants inhabit.
+The claim matters to the BioConomy wiki because it is a systems-science statement of the same structural insight the [[content/concepts/substrate-hypothesis|Substrate Hypothesis]] makes about monetary and coordination design. The two formulations arrive from different traditions and converge on the same operational conclusion: participant disposition is downstream of substrate, and changing behavior at population scale requires changing the system that participants inhabit.
 
 ## The slinky demonstration
 
@@ -61,12 +61,12 @@ The claim also does not specify which system design is desirable. Meadows, Zimba
 
 ## See also
 
-- [[substrate-hypothesis|Substrate Hypothesis]]. The wiki's own formulation of the same claim.
+- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]. The wiki's own formulation of the same claim.
 - [[cheapest-available-behavior|The Cheapest Available Behavior Thesis]]. The operational mechanism by which system structure produces aggregate behavior.
 - [[consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]. Why correcting beliefs does not change behavior when the substrate is unchanged.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The legitimating stories that sit on top of system structures.
 - [[concepts/sound-finance|Sound Finance]]. The tax-obligation substrate as a case study in system-determined behavior.
-- [[structural-prematurity|Structural Prematurity]]. Why correct systemic insights fail to gain traction when the system selects against them.
+- [[content/concepts/structural-prematurity|Structural Prematurity]]. Why correct systemic insights fail to gain traction when the system selects against them.
 - [[coercion-continuum|The Coercion Continuum]]. The normative assessment the structural claim itself does not supply.
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]. The paradigm-level intervention the wiki proposes.
 

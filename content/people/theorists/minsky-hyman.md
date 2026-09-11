@@ -28,7 +28,7 @@ The 2008 financial crisis vindicated Minsky so completely that "Minsky moment" e
 
 Minsky's connection to the MMT lineage is direct. He was a student of Schumpeter, who emphasized the credit-creation role of banks. He built on Keynes's monetary theory (particularly the _Treatise on Money_ and Chapter 17 of the _General Theory_). He influenced [[wray-l-randall|L. Randall Wray]], who studied under him at Washington University and who carried Minsky's institutional analysis of money and banking into the MMT synthesis. Minsky understood that the monetary system is not a neutral medium through which real economic activity passes. It is a dynamic, unstable, institutionally constructed system whose form shapes the behavior it hosts. This is a substrate-level claim, though Minsky did not use that vocabulary.
 
-For the BioConomy corpus, Minsky's contribution is the demonstration that the throughput financial system is inherently self-destabilizing. The [[glossary/substrate-hypothesis|Substrate Hypothesis]] holds that coordination is a property of substrate. Minsky showed that the financial substrate of the acceleration phase produces, endogenously, the crises that periodically destroy the wealth it creates. The substrate does not merely enable throughput. It produces cycles of throughput and collapse. A coordination architecture for the [[glossary/deceleration-phase|deceleration phase]] must address this endogenous instability, and Minsky's work is the diagnostic that makes the instability visible.
+For the BioConomy corpus, Minsky's contribution is the demonstration that the throughput financial system is inherently self-destabilizing. The [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]] holds that coordination is a property of substrate. Minsky showed that the financial substrate of the acceleration phase produces, endogenously, the crises that periodically destroy the wealth it creates. The substrate does not merely enable throughput. It produces cycles of throughput and collapse. A coordination architecture for the [[deceleration-phase|deceleration phase]] must address this endogenous instability, and Minsky's work is the diagnostic that makes the instability visible.
 
 ## Related pages
 
@@ -38,7 +38,7 @@ For the BioConomy corpus, Minsky's contribution is the demonstration that the th
 - [[mosler-warren|Warren Mosler]]
 - [[wray-l-randall|L. Randall Wray]]
 - [[kelton-stephanie|Stephanie Kelton]]
-- [[glossary/substrate-hypothesis|Substrate Hypothesis]]
+- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]

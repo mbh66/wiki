@@ -12,7 +12,7 @@ source_documents: []
 epistemic_status: documented-framework
 ---
 
-Overview diagrams that orientate the [[glossary/bioconomy|BioConomy]] for a general audience.
+Overview diagrams that orientate the [[bioconomy|BioConomy]] for a general audience.
 
 
 

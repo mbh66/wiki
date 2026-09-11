@@ -9,9 +9,9 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-There is a common objection to the wiki's argument that arrives early. If you insist on a [[glossary/bioconomy|BioConomy]], are you against markets? The objection assumes a choice the wiki is not asking anyone to make.
+There is a common objection to the wiki's argument that arrives early. If you insist on a [[bioconomy|BioConomy]], are you against markets? The objection assumes a choice the wiki is not asking anyone to make.
 
-The BioConomy is not a replacement for the [[glossary/economy|Economy]]. The two are parallel coordinating systems, each keeping a different coordination form functional, both required by a mature society. The Economy keeps the [[glossary/m-form-market|Market form]] functional: prices, trade, capital allocation, wage labor, the apparatus that produces industrial goods and services at scale. The BioConomy keeps the [[glossary/e-form-emergent|Emergent form]] functional: commitment pooling, outcome instruments, tender compacts, place-anchored coordination against verified substrate outcomes.
+The BioConomy is not a replacement for the [[economy|Economy]]. The two are parallel coordinating systems, each keeping a different coordination form functional, both required by a mature society. The Economy keeps the [[m-form-market|Market form]] functional: prices, trade, capital allocation, wage labor, the apparatus that produces industrial goods and services at scale. The BioConomy keeps the [[e-form-emergent|Emergent form]] functional: commitment pooling, outcome instruments, tender compacts, place-anchored coordination against verified substrate outcomes.
 
 Neither system can do the other's work. That is the whole essay.
 
@@ -31,7 +31,7 @@ These are not gaps the Market form is on its way to filling. They are structural
 
 This is the boundary of the Market form, not its failure. The Economy does what it does within that boundary and cannot be asked to do what lies outside. Asking the Economy to price watershed function at scale is like asking a hammer to be a wrench: the tool works; the request is the mistake.
 
-[[polanyi-karl|Karl Polanyi]] named the general form of this argument in 1944 as the [[glossary/fictitious-commodities|fictitious commodities]]: land, labor, and money were not produced for the market and cannot be fully subordinated to it without damaging the substrate they sit on. The BioConomy is what Polanyi's [[glossary/double-movement|double movement]] looks like at bioregional scale.
+[[polanyi-karl|Karl Polanyi]] named the general form of this argument in 1944 as the [[fictitious-commodities|fictitious commodities]]: land, labor, and money were not produced for the market and cannot be fully subordinated to it without damaging the substrate they sit on. The BioConomy is what Polanyi's [[double-movement|double movement]] looks like at bioregional scale.
 
 ## What the BioConomy is
 
@@ -39,7 +39,7 @@ The BioConomy is the coordination-support system that runs alongside the Economy
 
 **Commitment pooling** replaces spot price as the coordinating signal. Actors publish forward promises about what they will produce (retained baseflow, restored infiltration, biodiversity recovery, cultural transmission). The pool aggregates the promises. The pool becomes the collateral against which coordination and exchange happen. [[ruddick-will|Will Ruddick]] and Grassroots Economics have developed this at community scale over a decade of field work. The wiki's argument is that the same logic scales to the watershed and the bioregion.
 
-**Tender compacts** replace contracts of sale. A [[glossary/biohub|BioHub]] tenders its services to counterparties through a [[glossary/tender-compact|Tender Compact]] that specifies the outcome (not the activity), the verification methodology, and the payment terms. The compact establishes what the parties owe each other in a form neither can unilaterally change.
+**Tender compacts** replace contracts of sale. A [[biohub|BioHub]] tenders its services to counterparties through a [[tender-compact|Tender Compact]] that specifies the outcome (not the activity), the verification methodology, and the payment terms. The compact establishes what the parties owe each other in a form neither can unilaterally change.
 
 **Outcome instruments** (watershed bonds, biodiversity credits, stewardship funds) replace internal accounting. Payment is tied to verified outcome in the substrate itself, not to compliance activity, and not to reports about activity. The instrument's signal is the substrate continuing to function. Anything that damages the substrate damages the signal and therefore damages the pool.
 
@@ -67,7 +67,7 @@ The retention of the watershed the farms depend on is coordinated through commit
 
 The two coexist in the same bioregion, held by the same people, often on the same farms. A farmer selling produce at market is participating in the Economy. The same farmer, as a member of the BioHub cohort, contributing to a keyline-design commitment pool that a downstream water utility is paying for, is participating in the BioConomy. There is no contradiction. The farmer's produce is priced. The farmer's contribution to watershed function is contracted through a different mechanism because a different mechanism is required.
 
-The [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]] names six domains where this coordination happens: water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, and coordination-as-employment. Each is a domain where the substrate produces something the Market form cannot price on its own and the BioConomy can hold through pooled commitment and outcome-based settlement.
+The [[tenderable-services-portfolio|Tenderable Services Portfolio]] names six domains where this coordination happens: water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, and coordination-as-employment. Each is a domain where the substrate produces something the Market form cannot price on its own and the BioConomy can hold through pooled commitment and outcome-based settlement.
 
 ## The two failure modes
 
@@ -96,13 +96,13 @@ The choice worth arguing about is those choices' details. Not the systems' exist
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
-- [[glossary/economy|Economy]]
-- [[glossary/bioconomy|BioConomy]]
-- [[glossary/m-form-market|M form (Market)]]
-- [[glossary/e-form-emergent|E form (Emergent)]]
-- [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]]
-- [[glossary/tender-compact|Tender Compact]]
-- [[glossary/needed-vs-needy|Needed versus Needy]]
+- [[economy|Economy]]
+- [[bioconomy|BioConomy]]
+- [[m-form-market|M form (Market)]]
+- [[e-form-emergent|E form (Emergent)]]
+- [[tenderable-services-portfolio|Tenderable Services Portfolio]]
+- [[tender-compact|Tender Compact]]
+- [[needed-vs-needy|Needed versus Needy]]
 
 ## Sources
 
@@ -112,7 +112,7 @@ The choice worth arguing about is those choices' details. Not the systems' exist
 
 ## Provenance
 
-Written 2 September 2026 as the first in a five-essay on-ramp sequence to the wiki's operational material. Its purpose is to defuse the "so you're anti-market" objection before it arrives and to place the [[glossary/economy|Economy]] and the [[glossary/bioconomy|BioConomy]] as parallel coordinating systems that a mature society requires together. Draws on the parallel-systems argument developed in the research memo of the same date and on the client-provider inversion introduced there.
+Written 2 September 2026 as the first in a five-essay on-ramp sequence to the wiki's operational material. Its purpose is to defuse the "so you're anti-market" objection before it arrives and to place the [[economy|Economy]] and the [[bioconomy|BioConomy]] as parallel coordinating systems that a mature society requires together. Draws on the parallel-systems argument developed in the research memo of the same date and on the client-provider inversion introduced there.
 
 <script type="application/ld+json">
 {

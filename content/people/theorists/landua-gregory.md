@@ -14,11 +14,11 @@ Co-developer (with Ethan Roland) of the Eight Forms of Capital ontology and subs
 
 ## Related pages
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

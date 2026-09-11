@@ -24,7 +24,7 @@ Born 1937 in Egypt, trained in pharmacology at the University of Graz (doctorate
 
 ## Institution-building
 
-Over four decades the single farm grew into a diversified enterprise formalized as a holding company structure in 2000: ATOS pharmaceutical (1986), ISIS Organic food (1997), NatureTex textiles (1998), a development foundation (1984), the Egyptian Biodynamic Association (1994, later chaired by his son Helmy), a school (1989), a medical center (1996), a vocational training center and arts school (1990), and Heliopolis University for Sustainable Development (chartered 2009, enrolling students from 2012). By 2025 the [[glossary/economy|Economy]] of Love standard developed through the EBDA had scaled to nearly 40,000 smallholder farmers.
+Over four decades the single farm grew into a diversified enterprise formalized as a holding company structure in 2000: ATOS pharmaceutical (1986), ISIS Organic food (1997), NatureTex textiles (1998), a development foundation (1984), the Egyptian Biodynamic Association (1994, later chaired by his son Helmy), a school (1989), a medical center (1996), a vocational training center and arts school (1990), and Heliopolis University for Sustainable Development (chartered 2009, enrolling students from 2012). By 2025 the [[economy|Economy]] of Love standard developed through the EBDA had scaled to nearly 40,000 smallholder farmers.
 
 ## Governance philosophy
 
@@ -36,13 +36,13 @@ The Right Livelihood Award (2003, sometimes called the Alternative Nobel Prize),
 
 ## Assessed against the Three-Feature Test
 
-See [[research/abouleish-sekem|Ibrahim Abouleish and SEKEM Assessed Against the Three-Feature Test]] for a full application of the [[frameworks/three-feature-test|Three-Feature Test]] criteria to SEKEM. Short version: Abouleish sits closer to the Medici position than to the Fugger position on the master diagnostic, but SEKEM's governance and capital remained family-held, which distinguishes the case from the full [[mycelial-patronage|Mycelial Patronage]] move the EA specifies.
+See [[research/abouleish-sekem|Ibrahim Abouleish and SEKEM Assessed Against the Three-Feature Test]] for a full application of the [[frameworks/three-feature-test|Three-Feature Test]] criteria to SEKEM. Short version: Abouleish sits closer to the Medici position than to the Fugger position on the master diagnostic, but SEKEM's governance and capital remained family-held, which distinguishes the case from the full [[content/concepts/mycelial-patronage|Mycelial Patronage]] move the EA specifies.
 
 ## Related pages
 
 - [[research/abouleish-sekem|Ibrahim Abouleish and SEKEM Assessed Against the Three-Feature Test]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
-- [[mycelial-patronage|Mycelial Patronage]]
+- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
 - [[steiner-rudolf|Rudolf Steiner]]
 - [[threefolding|Threefolding (glossary)]]
 

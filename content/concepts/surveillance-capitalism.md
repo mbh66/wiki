@@ -47,7 +47,7 @@ Surveillance capitalism, in the widened reading, is the current terminal phase o
 
 ## The alpha-window framing
 
-Michael Haupt's [[glossary/alpha-window|Alpha Window]] concept, developed in the Three Futures framework, applies here directly. The window in which a voluntary promise architecture (bioregional currency, [[concepts/commitment-pooling|commitment pooling]], [[glossary/regenerative-participation-income-rpi|Regenerative Participation Income]], [[frameworks/five-transvestment-pathways|transvestment pathways]]) can be built alongside the four-layer surveillance-capitalism substrate is open now, because the substrate is visibly assembling but not yet integrated. The window closes when integration completes: when platforms, fusion complex, programmable sovereign money, and the crypto-financed political capture are locked to each other and to the officeholders who protect them, each exit route becomes progressively harder to reach. The Alpha Window is not a metaphor. It is the temporal constraint the architecture is racing.
+Michael Haupt's [[alpha-window|Alpha Window]] concept, developed in the Three Futures framework, applies here directly. The window in which a voluntary promise architecture (bioregional currency, [[concepts/commitment-pooling|commitment pooling]], [[regenerative-participation-income-rpi|Regenerative Participation Income]], [[frameworks/five-transvestment-pathways|transvestment pathways]]) can be built alongside the four-layer surveillance-capitalism substrate is open now, because the substrate is visibly assembling but not yet integrated. The window closes when integration completes: when platforms, fusion complex, programmable sovereign money, and the crypto-financed political capture are locked to each other and to the officeholders who protect them, each exit route becomes progressively harder to reach. The Alpha Window is not a metaphor. It is the temporal constraint the architecture is racing.
 
 ## What is contested
 
@@ -66,12 +66,12 @@ Palantir's own contracts are individually documented, but the interpretive claim
 - [[research/promise-theory-across-timn|Promise Theory Across TIMN]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
-- [[glossary/alpha-window|Alpha Window (glossary)]]
-- [[glossary/coercion-continuum|Coercion Continuum (glossary)]]
-- [[glossary/n-form-network|N form (Network) (glossary)]]
-- [[glossary/i-form-institutional|I form (Institutional) (glossary)]]
-- [[glossary/m-form-market|M form (Market) (glossary)]]
-- [[glossary/e-form-emergent|E form (Emergent) (glossary)]]
+- [[alpha-window|Alpha Window (glossary)]]
+- [[coercion-continuum|Coercion Continuum (glossary)]]
+- [[n-form-network|N form (Network) (glossary)]]
+- [[i-form-institutional|I form (Institutional) (glossary)]]
+- [[m-form-market|M form (Market) (glossary)]]
+- [[e-form-emergent|E form (Emergent) (glossary)]]
 - [[thiel-peter|Peter Thiel]]
 
 ## Sources

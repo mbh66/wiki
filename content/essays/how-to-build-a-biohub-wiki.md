@@ -9,31 +9,31 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-A [[glossary/biohub|BioHub]] wiki is a standalone website that publishes a BioHub's local knowledge in a semi-structured form. Other BioHubs can read, both through human coordinators and through AI agents scanning for ways to combine efforts. This essay describes the layout, the conventions that make it interoperable across a [[glossary/bioregion|BioRegion]], and the reading pattern an AI agent follows when it arrives at a peer BioHub's wiki looking for collaboration.
+A [[biohub|BioHub]] wiki is a standalone website that publishes a BioHub's local knowledge in a semi-structured form. Other BioHubs can read, both through human coordinators and through AI agents scanning for ways to combine efforts. This essay describes the layout, the conventions that make it interoperable across a [[bioregion|BioRegion]], and the reading pattern an AI agent follows when it arrives at a peer BioHub's wiki looking for collaboration.
 
 ## Overview
 
-The [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]] traces the physical structures each coordination form produces as it matures: sacred site, cathedral, skyscraper, bioregional hub. The BioHub is the coordination node of the [[glossary/e-form-emergent|Emergent form]]. Its wiki is the knowledge layer of that node.
+The [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]] traces the physical structures each coordination form produces as it matures: sacred site, cathedral, skyscraper, bioregional hub. The BioHub is the coordination node of the [[e-form-emergent|Emergent form]]. Its wiki is the knowledge layer of that node.
 
 A single BioHub holds local knowledge no other BioHub holds: which sub-catchments are being restored, which monitoring methodology is producing usable data, which government frameworks the cohort has chosen to work within, which financial instruments the BioHub is aligning to, which services are contractable now and which are still in build-out. That knowledge is the raw material of inter-BioHub coordination. Without a structured way to publish it, peer BioHubs have to discover it through personal relationships and slow correspondence. With a structured wiki, an AI agent can read a peer BioHub's published knowledge in minutes and surface the specific complementarities a human coordinator would take weeks to identify.
 
-This is [[glossary/mycelial-coordination|mycelial coordination]] made operational. The biological analogy holds: in a mature forest, the mycelial layer connects trees across species boundaries, distributing nutrients and information according to local need, without a central regulator. BioHub wikis connected across a BioRegion do the same thing for coordination knowledge. Each node publishes what it holds. The network reads what each node publishes. Complementary capabilities surface through the reading.
+This is [[content/glossary/m-s/mycelial-coordination|mycelial coordination]] made operational. The biological analogy holds: in a mature forest, the mycelial layer connects trees across species boundaries, distributing nutrients and information according to local need, without a central regulator. BioHub wikis connected across a BioRegion do the same thing for coordination knowledge. Each node publishes what it holds. The network reads what each node publishes. Complementary capabilities surface through the reading.
 
 ## What the wiki publishes
 
 The wiki publishes the outputs of the [[templates/index|four-template founding suite]], organized for both human navigation and machine parsing. It assumes the founding suite has been completed and the nine establishment outputs exist. The content falls into eight areas.
 
-**Identity.** The three outputs of the [[templates/biohub-identity-template|BioHub Identity Template]]: the [[glossary/identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[glossary/founding-compact|Founding Compact]]. These tell a peer BioHub who you are, what intellectual lineage you draw on, how your cohort is governed, and what patronage architecture funds the work.
+**Identity.** The three outputs of the [[templates/biohub-identity-template|BioHub Identity Template]]: the [[identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[founding-compact|Founding Compact]]. These tell a peer BioHub who you are, what intellectual lineage you draw on, how your cohort is governed, and what patronage architecture funds the work.
 
 **BioRegion.** The three outputs of the [[templates/bioregion-establishment-template|BioRegion Establishment Template]]: the BioRegion Definition, the BioRegion Atlas (broken into ecological, hydrological, soil carbon, biodiversity, jurisdictional, cultural, institutional, infrastructure, and climate profiles), and the BioRegion Charter. These tell a peer BioHub where you work, what the living system contains, and what governance principles your coordination operates under.
 
-**Services.** The six-service [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]] from the [[templates/value-proposition-template|BioConomy Value Proposition Template]], with the Value Proposition Statement and the [[glossary/tender-compact|Tender Compact]]. Each service page carries its [[glossary/readiness-diagnostic|readiness status]], its [[glossary/retention-economics|retention]] logic, its monitoring and verification methodology, and its [[glossary/gap-register|gap register]] entries. These are the pages a peer BioHub's AI agent reads most closely, because they are where complementary capabilities surface.
+**Services.** The six-service [[tenderable-services-portfolio|Tenderable Services Portfolio]] from the [[templates/value-proposition-template|BioConomy Value Proposition Template]], with the Value Proposition Statement and the [[tender-compact|Tender Compact]]. Each service page carries its [[readiness-diagnostic|readiness status]], its [[retention-economics|retention]] logic, its monitoring and verification methodology, and its [[gap-register|gap register]] entries. These are the pages a peer BioHub's AI agent reads most closely, because they are where complementary capabilities surface.
 
-**Alignments.** One subfolder per financial instrument the BioHub has run the [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] against. Each subfolder holds the [[glossary/alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[glossary/alignment-compact|Alignment Compact]]. Where two BioHubs target subsequent tranches of the same instrument series, their alignment pages are where joint coordination begins.
+**Alignments.** One subfolder per financial instrument the BioHub has run the [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] against. Each subfolder holds the [[alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[alignment-compact|Alignment Compact]]. Where two BioHubs target subsequent tranches of the same instrument series, their alignment pages are where joint coordination begins.
 
 **Policy frameworks.** A dedicated index of every government framework the BioHub has chosen to embrace, organized by jurisdiction level (international, national, provincial, municipal) and by domain (water, biodiversity, land use, climate, cultural heritage, cooperative governance, finance). Each entry states the framework's name, the BioHub's adoption status, and links to the section of the Atlas, Charter, or Alignment Evidence Pack where the framework is treated in operational depth. Where a framework is substantial enough to warrant its own page (a national water act, a biodiversity offset regulation, a municipal spatial development framework), it gets one. The policy index is a coordination signal: two BioHubs operating under the same national water act have a natural basis for sharing compliance documentation, coordinating engagement with government agencies, and aligning verification methodologies.
 
-**Data.** Monitoring information: what is measured, where, how often, by what methodology. [[glossary/bioscore|BioScore]] sub-scores where the BioHub is enrolled with Guardians of Earth. Baselines from the Atlas. This section carries structured metadata an AI agent can parse to compare monitoring approaches across peer BioHubs.
+**Data.** Monitoring information: what is measured, where, how often, by what methodology. [[bioscore|BioScore]] sub-scores where the BioHub is enrolled with Guardians of Earth. Baselines from the Atlas. This section carries structured metadata an AI agent can parse to compare monitoring approaches across peer BioHubs.
 
 **Entities.** Reference pages for the institutional parties named across the BioHub's historical record and current coordination context: municipalities, government departments, church bodies, consultancies, community organizations, and other institutions the wiki refers to. Each entity page carries the factual record for the party (formation, mandate, actions taken, current position), so a reader arriving without context can situate every acronym and short name the wiki uses. Active partners with ongoing relationships to the BioHub get their fuller relational entry under Partners. A peer BioHub's AI agent uses the entities pages to disambiguate references it encounters in the historical record and to trace institutional continuity across time.
 
@@ -139,7 +139,7 @@ Examples: `at12-vog.bioconomy.earth`, `at10-laikipia.bioconomy.earth`, `nt1-xing
 
 Where only one BioHub exists in a bioregion, the slug can be omitted: `at12.bioconomy.earth`. Add the slug when a second BioHub registers in the same bioregion.
 
-The absence of a country field is deliberate. Country codes belong to the addressing layer of the [[glossary/economy|Economy]] and inherit its assumptions about who counts as a coordinating actor. The BioConomy anchors its addressing to the biosphere. The choice is treated at concept-level depth in [[concepts/bioregional-addressing|Bioregional Addressing]].
+The absence of a country field is deliberate. Country codes belong to the addressing layer of the [[economy|Economy]] and inherit its assumptions about who counts as a coordinating actor. The BioConomy anchors its addressing to the biosphere. The choice is treated at concept-level depth in [[concepts/bioregional-addressing|Bioregional Addressing]].
 
 #### Finding your bioregion code
 
@@ -274,10 +274,10 @@ The link wraps the specific work being cited. Nothing formatted sits inside the 
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
-- [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]]
-- [[glossary/readiness-diagnostic|Readiness Diagnostic]]
-- [[glossary/coordination-node|Coordination Node]]
-- [[glossary/bioscore|BioScore]]
+- [[tenderable-services-portfolio|Tenderable Services Portfolio]]
+- [[readiness-diagnostic|Readiness Diagnostic]]
+- [[coordination-node|Coordination Node]]
+- [[bioscore|BioScore]]
 
 ## Sources
 

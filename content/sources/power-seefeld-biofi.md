@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Power, S., Seefeld, L., et al. (2024). *Bioregional Financing Facilities: Reimagining Finance to Regenerate Our Planet.* BioFi Project, Dark Matter Labs, Buckminster Fuller Institute.
 
-The founding specification of the Bioregional Financing Facility (BFF) architecture. The report proposes a phased institutional model in which a [[glossary/bioregion|bioregion]] builds four interlocking entities as it matures: a bioregional trust (holding inalienable [[glossary/commons|commons]] assets), a venture studio (incubating [[glossary/regenerative|regenerative]] enterprises), an investment company (channeling capital into place-based regenerative activity), and a bioregional bank (providing lending, savings, and currency functions). The entities are modular and phased, and the vision extends to every bioregion on earth.
+The founding specification of the Bioregional Financing Facility (BFF) architecture. The report proposes a phased institutional model in which a [[bioregion|bioregion]] builds four interlocking entities as it matures: a bioregional trust (holding inalienable [[commons|commons]] assets), a venture studio (incubating [[regenerative|regenerative]] enterprises), an investment company (channeling capital into place-based regenerative activity), and a bioregional bank (providing lending, savings, and currency functions). The entities are modular and phased, and the vision extends to every bioregion on earth.
 
 ## Digital library
 
@@ -23,7 +23,7 @@ The founding specification of the Bioregional Financing Facility (BFF) architect
 ## Cited by
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
-- [[glossary/bioregional-financing-facility-bff|Bioregional Financing Facility (BFF) (glossary)]]
+- [[bioregional-financing-facility-bff|Bioregional Financing Facility (BFF) (glossary)]]
 - [[power-samantha|Samantha Power]]
 - [[seefeld-leon|Leon Seefeld]]
 

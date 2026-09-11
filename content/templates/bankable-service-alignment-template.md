@@ -9,7 +9,7 @@ source_documents: ["Bankable_Service_Alignment_Template_v0_1.md"]
 epistemic_status: "documented-framework"
 ---
 
-The fourth template in the [[content/templates/index|founding suite]]. Maps the [[biohub|BioHub]]'s [[retention-logic|retention services]] onto a specific financial instrument: a nature-linked [[performance-based-bond|performance-based bond]], a [[payment-for-ecosystem-services-pes|payment for ecosystem services]] mechanism, a biodiversity credit instrument, a carbon market mechanism, a water fund structure, or comparable outcomes-based finance instrument. Produces three outputs: the [[glossary/alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[glossary/alignment-compact|Alignment Compact]].
+The fourth template in the [[templates/index|founding suite]]. Maps the [[biohub|BioHub]]'s [[retention-logic|retention services]] onto a specific financial instrument: a nature-linked [[performance-based-bond|performance-based bond]], a [[payment-for-ecosystem-services-pes|payment for ecosystem services]] mechanism, a biodiversity credit instrument, a carbon market mechanism, a water fund structure, or comparable outcomes-based finance instrument. Produces three outputs: the [[alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[alignment-compact|Alignment Compact]].
 
 ## Overview
 
@@ -26,16 +26,16 @@ Run this template after the [[value-proposition-template|BioConomy Value Proposi
 - The nine outputs of the three establishment templates produced and accepted by the cohort.
 - At least one target financial instrument identified by name, issuer, or instrument class.
 - Access to the instrument's public documentation (prospectus, term sheet, implementation plan, verification methodology) or, where the instrument does not yet exist, access to comparable instruments in the same class.
-- A service from the [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]] that the target instrument is designed to purchase.
+- A service from the [[tenderable-services-portfolio|Tenderable Services Portfolio]] that the target instrument is designed to purchase.
 
-Do not run this template as a substitute for the establishment suite. A BioHub that has not established its identity, [[glossary/bioregion|BioRegion]], and value proposition cannot align with a financial instrument because it has nothing to align.
+Do not run this template as a substitute for the establishment suite. A BioHub that has not established its identity, [[bioregion|BioRegion]], and value proposition cannot align with a financial instrument because it has nothing to align.
 
-Do not run this template against an instrument that does not purchase services the BioHub offers. If the instrument purchases carbon offsets and the BioHub's carbon sequestration service is categorized as speculative pending research in the Value Proposition Evidence Pack's [[glossary/readiness-diagnostic|readiness diagnostic]], the alignment exercise is premature. Resolve the speculative categorization first through field research.
+Do not run this template against an instrument that does not purchase services the BioHub offers. If the instrument purchases carbon offsets and the BioHub's carbon sequestration service is categorized as speculative pending research in the Value Proposition Evidence Pack's [[readiness-diagnostic|readiness diagnostic]], the alignment exercise is premature. Resolve the speculative categorization first through field research.
 
 ## Prerequisite documents
 
 - The nine outputs of the three establishment templates.
-- [[glossary/biostack|BioStack]] and [[glossary/bioconomy|BioConomy]] foundational document.
+- [[biostack|BioStack]] and [[bioconomy|BioConomy]] foundational document.
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
 - Commitment pooling document (the [[ruddick-will|Ruddick]] and Burgess-Bergstra basis).
 - Target instrument documentation: all publicly available material on the specific financial instrument or instrument class the BioHub is targeting.
@@ -50,7 +50,7 @@ Do not run this template against an instrument that does not purchase services t
 
 ## The three outputs
 
-**Alignment Statement.** Short, formal document. Five to ten pages. Maps the BioHub's [[glossary/retention-economics|retention]] services onto the target instrument's architecture. States what the BioHub delivers, what the instrument purchases, how the two align, where the gaps are, and what makes the BioHub a credible counterparty. This is the document the BioHub coordinator sends to the instrument's arranger, verification agent, or implementation partner as first contact.
+**Alignment Statement.** Short, formal document. Five to ten pages. Maps the BioHub's [[retention-economics|retention]] services onto the target instrument's architecture. States what the BioHub delivers, what the instrument purchases, how the two align, where the gaps are, and what makes the BioHub a credible counterparty. This is the document the BioHub coordinator sends to the instrument's arranger, verification agent, or implementation partner as first contact.
 
 **Alignment Evidence Pack.** Long, structured referential document. Twenty-five to forty-five pages. Compiles the instrument research, verification methodology analysis, precedent instrument cases globally, the specific mapping between what the BioHub delivers and what the instrument purchases, regulatory and legal requirements, and price-discovery evidence specific to the instrument. The operational knowledge base for preparing the specific instrument-aligned tender.
 
@@ -62,14 +62,14 @@ Between Prompts 1 and 2, the coordinator convenes the cohort to review the align
 
 Between Prompts 2 and 3, the coordinator convenes the cohort to review the evidence pack, resolve tensions, confirm the build-out priorities, and agree on timeline commitments.
 
-Both cohort review steps operate under the decision-making forms established in the [[glossary/founding-compact|Founding Compact]]. Neither can be delegated to the AI. See [[running-a-template|Running a Template]] for the shared conventions.
+Both cohort review steps operate under the decision-making forms established in the [[founding-compact|Founding Compact]]. Neither can be delegated to the AI. See [[running-a-template|Running a Template]] for the shared conventions.
 
 ## The alignment map
 
 Prompt 1's central deliverable is the alignment map. For each outcome the instrument purchases, a two-column alignment shows what the BioHub delivers (from the bottom-up analysis of the establishment documents) and what the instrument requires (from the top-down analysis of the instrument documentation). Each row is categorized:
 
 - **Aligned.** The BioHub's current capacity meets the instrument's requirement. Cite the specific evidence from the establishment documents.
-- **Alignable.** The BioHub's capacity is oriented toward the requirement but does not yet meet it. Specify the gap and what build-out is [[glossary/needed|needed]].
+- **Alignable.** The BioHub's capacity is oriented toward the requirement but does not yet meet it. Specify the gap and what build-out is [[needed|needed]].
 - **Misaligned.** The BioHub's current work does not correspond to this requirement. State whether the misalignment is structural (the BioHub's retention logic conflicts with the instrument's design) or developmental (the capacity can be built but is not yet present).
 - **Not applicable.** The instrument requirement does not apply to this BioHub's context.
 
@@ -83,7 +83,7 @@ Verification is distinct from monitoring. Verification is the independent, third
 
 ## Retention meets market
 
-A performance-based bond operates on market logic (+M). The BioHub's Alignment Compact governs the relationship between the bond's market logic and the BioHub's retention logic (+E). The Compact ensures that the instrument's payment structure does not reduce the BioHub's coordination work to a contractor relationship. The BioHub tenders a service; it does not contract out its governance. This distinction is visible in the Alignment Compact's provisions on governance requirements, risk register, and relationship to the [[glossary/tender-compact|Tender Compact]].
+A performance-based bond operates on market logic (+M). The BioHub's Alignment Compact governs the relationship between the bond's market logic and the BioHub's retention logic (+E). The Compact ensures that the instrument's payment structure does not reduce the BioHub's coordination work to a contractor relationship. The BioHub tenders a service; it does not contract out its governance. This distinction is visible in the Alignment Compact's provisions on governance requirements, risk register, and relationship to the [[tender-compact|Tender Compact]].
 
 ## The Cape Water bond reference case
 
@@ -111,7 +111,7 @@ The three outputs feed:
 
 ## Related pages
 
-- [[content/templates/index|The Templates]]
+- [[templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
@@ -121,10 +121,10 @@ The three outputs feed:
 - [[bioregional-financing-facility-bff|Bioregional Financing Facility]]
 - [[strategic-water-source-area-swsa|Strategic Water Source Area]]
 - [[water-retention-landscape|Water Retention Landscape]]
-- [[glossary/alignment-statement|Alignment Statement]]
-- [[glossary/alignment-compact|Alignment Compact]]
-- [[glossary/readiness-diagnostic|Readiness Diagnostic]]
-- [[glossary/gap-register|Gap Register]]
+- [[alignment-statement|Alignment Statement]]
+- [[alignment-compact|Alignment Compact]]
+- [[readiness-diagnostic|Readiness Diagnostic]]
+- [[gap-register|Gap Register]]
 - [[e-form-emergent|+E Coordination Form]]
 - [[m-form-market|+M Coordination Form]]
 

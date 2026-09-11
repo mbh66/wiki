@@ -9,11 +9,11 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-The [[glossary/bioplace|BioPlace]] is the smallest layer of the [[glossary/biostack|BioStack]] and the scale at which a [[glossary/bioconomy|BioConomy]] meets the ground. Without this layer the coordination architecture floats above the substrate it claims to steward.
+The [[bioplace|BioPlace]] is the smallest layer of the [[biostack|BioStack]] and the scale at which a [[bioconomy|BioConomy]] meets the ground. Without this layer the coordination architecture floats above the substrate it claims to steward.
 
 ## Why the BioStack needs this layer
 
-A coordination architecture that skips the parcel scale can measure regeneration, finance it, and coordinate around it, and still leave the land itself under commercial or absentee logic. The [[glossary/biohub|BioHub]] convenes the coordination body. The [[glossary/bioregion|BioRegion]] holds the ecological economic unit. Neither of those names the specific hectare being worked. If no layer names the parcel where human hands meet a specific piece of ground, the whole stack sits on land that continues under [[glossary/extractive|extractive]] agriculture, and the retention claims sit downstream of that contradiction.
+A coordination architecture that skips the parcel scale can measure regeneration, finance it, and coordinate around it, and still leave the land itself under commercial or absentee logic. The [[biohub|BioHub]] convenes the coordination body. The [[bioregion|BioRegion]] holds the ecological economic unit. Neither of those names the specific hectare being worked. If no layer names the parcel where human hands meet a specific piece of ground, the whole stack sits on land that continues under [[extractive|extractive]] agriculture, and the retention claims sit downstream of that contradiction.
 
 The BioPlace layer closes that gap. It is where soil is built, water is held, biodiversity is supported, and a household or small collective enters into ongoing relationship with the specific ground they work.
 
@@ -23,7 +23,7 @@ Five markers identify one.
 
 1. *Human presence.* A BioPlace is worked by people who live in relationship with it. Absentee ownership with hired mechanical labor sits outside the category, regardless of practice.
 2. *Hand scale.* The unit of work is what a person or small group can carry out in direct contact with the ground. Machinery can assist. It does not set the scale of what is possible.
-3. *[[glossary/polyculture|Polyculture]] and closed loops where possible.* The parcel imitates the layered structure of the living systems it sits inside. Waste from one cycle feeds another. Diversity is a design feature.
+3. *[[polyculture|Polyculture]] and closed loops where possible.* The parcel imitates the layered structure of the living systems it sits inside. Waste from one cycle feeds another. Diversity is a design feature.
 4. *Cultural attachment.* The people working the BioPlace know the specific ground. They can name its seasons, its wildlife, its microclimates. This knowledge runs across generations where tenure permits.
 5. *Increasing substrate capacity.* The threshold test is directional. Over time the soil deepens, water is held longer, and species count rises. Yield per unit of external input goes up as the parcel matures. A BioPlace works with the land's own tendency toward complexity and increases the land's capacity to produce without external subsidy.
 
@@ -31,7 +31,7 @@ Five markers identify one.
 
 Three forms often get grouped with the BioPlace and belong in different categories.
 
-*The commercial farm.* A commercial farm depends on continued mechanical intervention against the landscape's tendency. It produces yield by drawing down soil, water, and biodiversity, and it prices those drawdowns as externalities. This is [[glossary/extractive|extractive]] agriculture at parcel scale.
+*The commercial farm.* A commercial farm depends on continued mechanical intervention against the landscape's tendency. It produces yield by drawing down soil, water, and biodiversity, and it prices those drawdowns as externalities. This is [[extractive|extractive]] agriculture at parcel scale.
 
 *The wilderness reserve.* A reserve holds land in regeneration by removing human presence. It is regenerative, and it is human-absent. The BioPlace is regenerative and human-present. Both matter to a BioRegion. They do different work.
 
@@ -39,33 +39,33 @@ Three forms often get grouped with the BioPlace and belong in different categori
 
 ## The reconnection function
 
-A generation raised in cities without land contact can join a BioConomy only if there are places to enter. BioPlaces are the entry points. Apprenticeships, work exchanges, permaculture design courses, and residencies at working BioPlaces re-establish the bodily knowledge a coordination economy needs from its participants. A [[glossary/biohub-field-sense|BioHub in the field sense]] often begins as a cluster of BioPlaces that have discovered each other and started to coordinate.
+A generation raised in cities without land contact can join a BioConomy only if there are places to enter. BioPlaces are the entry points. Apprenticeships, work exchanges, permaculture design courses, and residencies at working BioPlaces re-establish the bodily knowledge a coordination economy needs from its participants. A [[biohub-field-sense|BioHub in the field sense]] often begins as a cluster of BioPlaces that have discovered each other and started to coordinate.
 
-This is what makes the difference between an [[glossary/economy|economy]] and a [[glossary/bioconomy|BioConomy]] concrete at the smallest scale. An economy asks its participants to hold no particular relationship with any specific ground. A BioConomy assumes some of its participants are in direct relationship with specific ground, and builds the coordination architecture around that assumption.
+This is what makes the difference between an [[economy|economy]] and a [[bioconomy|BioConomy]] concrete at the smallest scale. An economy asks its participants to hold no particular relationship with any specific ground. A BioConomy assumes some of its participants are in direct relationship with specific ground, and builds the coordination architecture around that assumption.
 
 ## Practice lineages
 
 The practice knowledge that populates the BioPlace layer draws on several overlapping lineages.
 
-[[glossary/permaculture|Permaculture]], articulated by [[mollison-bill|Bill Mollison]] and David Holmgren in Australia from the late 1970s, gives the design system for parcel-scale regenerative production. [[millison-andrew|Andrew Millison]] carries this teaching into contemporary public education. [[perkins-richard|Richard Perkins]] at Ridgedale Permaculture in Sweden works the commercial edge of the field, showing that permaculture-designed holdings can operate as viable farm businesses.
+[[permaculture|Permaculture]], articulated by [[mollison-bill|Bill Mollison]] and David Holmgren in Australia from the late 1970s, gives the design system for parcel-scale regenerative production. [[millison-andrew|Andrew Millison]] carries this teaching into contemporary public education. [[perkins-richard|Richard Perkins]] at Ridgedale Permaculture in Sweden works the commercial edge of the field, showing that permaculture-designed holdings can operate as viable farm businesses.
 
-Keyline design and pattern-based water distribution from [[yeomans-p-a|P. A. Yeomans]] sits inside this lineage and connects the BioPlace to the [[glossary/water-retention-landscape|water retention landscape]] work of [[andrews-peter|Peter Andrews]], [[kravcik-michal|Michal Kravcik]], and [[weiss-zach|Zach Weiss]].
+Keyline design and pattern-based water distribution from [[yeomans-p-a|P. A. Yeomans]] sits inside this lineage and connects the BioPlace to the [[water-retention-landscape|water retention landscape]] work of [[andrews-peter|Peter Andrews]], [[kravcik-michal|Michal Kravcik]], and [[weiss-zach|Zach Weiss]].
 
-Community activation frameworks such as [[gori-ezio|Ezio Gori]]'s [[glossary/iact-framework|iACT]] address the coordination side of the BioPlace layer: how a cluster of parcels and their people move from individual holdings to a coordinated community field a BioHub can hold.
+Community activation frameworks such as [[gori-ezio|Ezio Gori]]'s [[iact-framework|iACT]] address the coordination side of the BioPlace layer: how a cluster of parcels and their people move from individual holdings to a coordinated community field a BioHub can hold.
 
 Indigenous and communal stewardship traditions carry the deepest continuity in this layer. Where tenure has held, the human-land relationship at parcel scale has run across generations, and much of what permaculture articulates as design principle these traditions have carried as practice.
 
 ## Related pages
 
-- [[glossary/bioplace|BioPlace]]
-- [[glossary/biostack|BioStack]]
+- [[bioplace|BioPlace]]
+- [[biostack|BioStack]]
 - [[tools/bioplace/index|BioPlace Tools]]
-- [[glossary/permaculture|Permaculture]]
-- [[glossary/iact-framework|iACT Framework]]
+- [[permaculture|Permaculture]]
+- [[iact-framework|iACT Framework]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
-- [[glossary/water-retention-landscape|Water Retention Landscape]]
-- [[glossary/extractive|Extractive]]
-- [[glossary/retention-economics|Retention Economics]]
+- [[water-retention-landscape|Water Retention Landscape]]
+- [[extractive|Extractive]]
+- [[retention-economics|Retention Economics]]
 
 ## Sources and associated figures
 

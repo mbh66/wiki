@@ -9,7 +9,7 @@ source_documents: ["BioHub_Identity_Template.md"]
 epistemic_status: "documented-framework"
 ---
 
-The first template in the [[content/templates/index|founding suite]]. Establishes the [[biohub|BioHub]] itself: its name, its cohort, its entity form, its patronage architecture, its position in the emerging global field, its intellectual lineage, and its governance. Produces three outputs: the [[glossary/identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[glossary/founding-compact|Founding Compact]].
+The first template in the [[templates/index|founding suite]]. Establishes the [[biohub|BioHub]] itself: its name, its cohort, its entity form, its patronage architecture, its position in the emerging global field, its intellectual lineage, and its governance. Produces three outputs: the [[identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[founding-compact|Founding Compact]].
 
 ## Overview
 
@@ -25,7 +25,7 @@ Do not run this template with a solo coordinator. The Founding Compact requires 
 
 ## Prerequisite documents
 
-- [[glossary/biostack|BioStack]] and [[glossary/bioconomy|BioConomy]] foundational document (definitions and dependency direction).
+- [[biostack|BioStack]] and [[bioconomy|BioConomy]] foundational document (definitions and dependency direction).
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
 - The [[sources/gladek-metabolic-biohubs|Metabolic BioHubs Best Practices Research Brief]] (May 2026), or the equivalent global field baseline document.
 - Any bioregional field-mapping documents in use (P4P Archipelago positioning, Design School for Regenerating Earth mappings, or equivalents).
@@ -64,7 +64,7 @@ Prompt 1 produces candidates on five dimensions. Each shapes what the BioHub can
 
 **Entity form.** Non-profit company, cooperative, foundation, informal association, hybrid stack. Each with its governance implications, patronage-holding implications, cost and complexity, and jurisdiction-specific precedents.
 
-**Patronage architecture.** [[mycelial-patronage|Mycelial Patronage]] ([[glossary/transvestment|transvestment]]-based, capital held in the [[glossary/commons|commons]] substrate); conventional grant model; member-funded; corporate partnership; hybrid architectures. Each with what it enables, what it constrains, and what it demands of the cohort.
+**Patronage architecture.** [[content/concepts/mycelial-patronage|Mycelial Patronage]] ([[content/glossary/t-z/transvestment|transvestment]]-based, capital held in the [[commons|commons]] substrate); conventional grant model; member-funded; corporate partnership; hybrid architectures. Each with what it enables, what it constrains, and what it demands of the cohort.
 
 **Cohort framing.** Solo coordinator with advisory circle; equal founding cohort with rotating coordination; tiered cohort with distinct roles; formal board plus operational team. Each with implications for decision-making, accountability, cohort expansion, and succession.
 
@@ -84,7 +84,7 @@ Preserve the vocabulary and conventions established here across the suite.
 
 ## Related pages
 
-- [[content/templates/index|The Templates]]
+- [[templates/index|The Templates]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
@@ -94,9 +94,9 @@ Preserve the vocabulary and conventions established here across the suite.
 - [[bioregion|BioRegion]]
 - [[frameworks/time-framework|TIME Framework]]
 - [[commitment-pooling|Commitment Pooling]]
-- [[mycelial-patronage|Mycelial Patronage]]
-- [[glossary/founding-compact|Founding Compact]]
-- [[glossary/identity-statement|Identity Statement]]
+- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
+- [[founding-compact|Founding Compact]]
+- [[identity-statement|Identity Statement]]
 - [[e-form-emergent|+E Coordination Form]]
 
 ## Sources

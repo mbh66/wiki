@@ -12,9 +12,9 @@ updated: 2026-08-27
 source_project: "BioConomy"
 ---
 
-Ostrom, E. (1990). *Governing the [[glossary/commons|Commons]]: The Evolution of Institutions for Collective Action*. Cambridge: Cambridge University Press.
+Ostrom, E. (1990). *Governing the [[commons|Commons]]: The Evolution of Institutions for Collective Action*. Cambridge: Cambridge University Press.
 
-Ostrom's empirical demonstration that common-pool resources can be sustainably self-governed by communities without either privatization or state control. Drawing on fieldwork in irrigation systems, fisheries, forests, and grazing commons across multiple continents, Ostrom identifies design principles that distinguish long-enduring commons arrangements from those that collapse. The book won her the Nobel Memorial Prize in Economic Sciences in 2009 and supplies the theory of commons governance that [[glossary/regenerative|Regenerative]] Economics adds to the historical [[glossary/retention-economics|retention]] tradition. Where the retention figures theorized retention at the scale of the nation-state, Ostrom's work opens the scale of the commons: the watershed, the fishery, the forest, the coordination-node between the state and the market.
+Ostrom's empirical demonstration that common-pool resources can be sustainably self-governed by communities without either privatization or state control. Drawing on fieldwork in irrigation systems, fisheries, forests, and grazing commons across multiple continents, Ostrom identifies design principles that distinguish long-enduring commons arrangements from those that collapse. The book won her the Nobel Memorial Prize in Economic Sciences in 2009 and supplies the theory of commons governance that [[regenerative|Regenerative]] Economics adds to the historical [[retention-economics|retention]] tradition. Where the retention figures theorized retention at the scale of the nation-state, Ostrom's work opens the scale of the commons: the watershed, the fishery, the forest, the coordination-node between the state and the market.
 
 ## Digital library
 

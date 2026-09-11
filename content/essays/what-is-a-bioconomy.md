@@ -9,7 +9,7 @@ source_documents: ["bioconomy.md", "bioconomy-developmental-arc.md", "retention-
 epistemic_status: "documented-framework"
 ---
 
-A [[bioconomy|BioConomy]] is the economic system that emerges when [[bioregion|bioregions]] coordinate their productive activity around renewable biological resources, ecological restoration, and the carrying capacity of their landscapes. It is a distinct organizing logic from what has been called the [[glossary/economy|Economy]] since Adam Smith and David Ricardo. This essay is the orientation to what a BioConomy is, why it is legible now, and how it differs from the Economy that preceded it.
+A [[bioconomy|BioConomy]] is the economic system that emerges when [[bioregion|bioregions]] coordinate their productive activity around renewable biological resources, ecological restoration, and the carrying capacity of their landscapes. It is a distinct organizing logic from what has been called the [[economy|Economy]] since Adam Smith and David Ricardo. This essay is the orientation to what a BioConomy is, why it is legible now, and how it differs from the Economy that preceded it.
 
 ## Overview
 
@@ -23,9 +23,9 @@ The BioConomy is that architecture. It nests three scales: [[biohub|BioHub]] (th
 
 The Economy, as the word has been used since the eighteenth century, is a coordination logic organized around [[throughput|throughput]]: the volume and velocity of matter, energy, and money moving through the system. GDP, sector growth, trade volume, and return on capital are the instruments through which throughput is measured. The Economy in this sense was fit for the steep middle of the industrial [[s-curve|S-curve]]. It rewarded rapid extraction, capital mobility, and expansion into new territory. It built the industrial world.
 
-The BioConomy is a coordination logic organized around [[retention-logic|retention]]: what stays in the landscape, in the community, and in the culture. [[glossary/retention-economics|Retention]] counts stock rather than flow. It rewards soil carbon that accumulates, water-holding capacity that is restored, biodiversity that recovers, community wealth that circulates locally, cultural knowledge that transmits across generations, and coordination capacity that grows without being captured. The BioConomy is fit for the [[deceleration-phase|deceleration phase]] of the S-curve, which the current period appears to be entering.
+The BioConomy is a coordination logic organized around [[retention-logic|retention]]: what stays in the landscape, in the community, and in the culture. [[retention-economics|Retention]] counts stock rather than flow. It rewards soil carbon that accumulates, water-holding capacity that is restored, biodiversity that recovers, community wealth that circulates locally, cultural knowledge that transmits across generations, and coordination capacity that grows without being captured. The BioConomy is fit for the [[deceleration-phase|deceleration phase]] of the S-curve, which the current period appears to be entering.
 
-The difference is structural, not moral. A throughput economy is not, by definition, [[glossary/extractive|extractive]]; a retention economy is not, by definition, generous. Each is a coordination form matched to a phase of the civilizational S-curve. Throughput was the operating logic that fit the steep ascent. Retention is the operating logic that fits the deceleration now underway.
+The difference is structural, not moral. A throughput economy is not, by definition, [[extractive|extractive]]; a retention economy is not, by definition, generous. Each is a coordination form matched to a phase of the civilizational S-curve. Throughput was the operating logic that fit the steep ascent. Retention is the operating logic that fits the deceleration now underway.
 
 Two structural features of the Economy make the transition necessary and difficult.
 
@@ -47,7 +47,7 @@ The developmental arc supporting this claim is centuries old. It runs from [[ham
 
 ## The four dimensions the BioConomy extends
 
-The retention tradition articulated the structural principle centuries ago. It could not articulate the ecological or [[glossary/commons|commons]] frame, because the necessary evidence had not accumulated and the necessary institutions had not been theorized. Ostrom's empirical work on the commons appears in 1990. The planetary boundaries framework appears in 2009. The final-stage energy return on investment collapse for fossil fuels is documented in 2019. The wage-productivity divergence extends through 2025.
+The retention tradition articulated the structural principle centuries ago. It could not articulate the ecological or [[commons|commons]] frame, because the necessary evidence had not accumulated and the necessary institutions had not been theorized. Ostrom's empirical work on the commons appears in 1990. The planetary boundaries framework appears in 2009. The final-stage energy return on investment collapse for fossil fuels is documented in 2019. The wage-productivity divergence extends through 2025.
 
 The BioConomy extends the retention tradition along four dimensions the historical tradition lacked.
 
@@ -61,7 +61,7 @@ The BioConomy extends the retention tradition along four dimensions the historic
 
 ## From needy to needed
 
-The [[glossary/regenerative|regenerative]] movement, taken as a whole, has operated from a dependency posture. Constantly underfunded, seeking grants, writing applications, trying to find creative ways to keep going. A bioregion that asks funders for money to do restoration work is [[needy|needy]]. A BioRegion that offers a verified ecological service to a market that has already signaled it will pay is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning economy.
+The [[regenerative|regenerative]] movement, taken as a whole, has operated from a dependency posture. Constantly underfunded, seeking grants, writing applications, trying to find creative ways to keep going. A bioregion that asks funders for money to do restoration work is [[needy|needy]]. A BioRegion that offers a verified ecological service to a market that has already signaled it will pay is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning economy.
 
 The signal is now on the table. In April 2026, FirstRand Bank listed the Cape Water [[performance-based-bond|Performance-Based Bond]] (JSE ticker FR31PB) at ZAR 2.5 billion, arranged by Rand Merchant Bank. A portion of investor returns is tied to independently verified ecological restoration in the mountain catchments that feed Cape Town's water supply. If bioregionally set targets are met, outcomes funders pay. If targets are not met, they do not. The bond is designed as the first in a replicable series covering South Africa's [[strategic-water-source-area-swsa|Strategic Water Source Areas]]. The architects built it to be copied.
 
@@ -77,7 +77,7 @@ Four bodies of work carry the economic architecture a functioning BioConomy draw
 
 [[concepts/commitment-pooling|Commitment Pooling]] describes the structure through which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange. The theory draws on Burgess, Bergstra, and [[ruddick-will|Ruddick]]. At the community level, the practice is operational in multiple bioregions through the Grassroots Economics protocol. At the bioregional level, pooling takes the form of coordinated landscape-scale commitments tendered into market instruments: water funds, performance-based bonds, and payment-for-ecosystem-services contracts. The BioHub is the coordination layer through which the two scales meet.
 
-[[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on Benjamin Life's foundational definition, [[fullerton-john|John Fullerton]]'s eight principles of [[glossary/regenerative-capitalism|regenerative capitalism]], [[raworth-kate|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
+[[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on Benjamin Life's foundational definition, [[fullerton-john|John Fullerton]]'s eight principles of [[regenerative-capitalism|regenerative capitalism]], [[raworth-kate|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
 
 [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]] examines how cooperatives within a bioregion retain and circulate value internally through federated structures. The Mondragón and SEKEM precedents are the primary case material.
 
@@ -125,7 +125,7 @@ Each of these is a partial instantiation. None yet holds the full BioStack (BioH
 
 ## Provenance
 
-Written as the third of three orientation essays commissioned by the wiki's engagement pathway. Absorbs the "Why?" and "Why Now?" material from `content/index.md` (which the home-page rewrite removes) and extends it with the BioConomy-Economy contrast, the retention-tradition inheritance, and the four dimensions the BioConomy adds to the historical tradition. Draws on `concepts/bioregional-economics.md` for the Two Machines diagnosis and the needy-to-needed argument, `concepts/bioconomy-developmental-arc.md` for the historical arc and the four extensions, and `concepts/retention-logic.md` for the retention framing.
+Written as the third of three orientation essays commissioned by the wiki's engagement pathway. Absorbs the "Why?" and "Why Now?" material from `index.md` (which the home-page rewrite removes) and extends it with the BioConomy-Economy contrast, the retention-tradition inheritance, and the four dimensions the BioConomy adds to the historical tradition. Draws on `concepts/bioregional-economics.md` for the Two Machines diagnosis and the needy-to-needed argument, `concepts/bioconomy-developmental-arc.md` for the historical arc and the four extensions, and `concepts/retention-logic.md` for the retention framing.
 
 Updated 27 August 2026 to align the four-dimensions section and the needy-to-needed passage with the bioregion / BioRegion case-sensitive convention (the unit of coordination and the needed-by-society form are both the BioRegion), and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
 

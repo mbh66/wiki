@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Kravčík, M., et al. (2007). *Water for the Recovery of the Climate: A New Water Paradigm.* People and Water NGO, Slovakia.
 
-The founding text of the Water [[glossary/retention-economics|Retention]] Landscape tradition. The book argues that the global water cycle has been disrupted by land degradation at continental scale (deforestation, soil compaction, wetland drainage, impermeable surface expansion), shortening the residence time of rainwater on land and reducing continental moisture recycling. The global-climate thesis remains contested; the local and catchment-scale claims (restored soil holds more water, releases it more slowly, and produces higher sustained baseflow) are robustly supported.
+The founding text of the Water [[retention-economics|Retention]] Landscape tradition. The book argues that the global water cycle has been disrupted by land degradation at continental scale (deforestation, soil compaction, wetland drainage, impermeable surface expansion), shortening the residence time of rainwater on land and reducing continental moisture recycling. The global-climate thesis remains contested; the local and catchment-scale claims (restored soil holds more water, releases it more slowly, and produces higher sustained baseflow) are robustly supported.
 
 ## Digital library
 
@@ -26,7 +26,7 @@ The founding text of the Water [[glossary/retention-economics|Retention]] Landsc
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[kravcik-michal|Michal Kravčík]]
-- [[glossary/water-retention-landscape|Water Retention Landscape (glossary)]]
+- [[water-retention-landscape|Water Retention Landscape (glossary)]]
 
 <script type="application/ld+json">
 {

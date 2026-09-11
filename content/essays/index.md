@@ -9,11 +9,11 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-Longer-form arguments and published pieces that develop the [[glossary/bioconomy|BioConomy]] position for a general audience.
+Longer-form arguments and published pieces that develop the [[bioconomy|BioConomy]] position for a general audience.
 
 ## Overview
 
-Essays are written to be read from start to finish. They present the framework's key positions in the voice they are most likely to be published in. A first-time reader arrives via the [[content/essays/index|wiki home]] and lands on the four orientation essays. Subsequent essays extend into specific applications: how a coordinator engages a [[glossary/bioregion|bioregion]], and how a human directs an AI at the corpus.
+Essays are written to be read from start to finish. They present the framework's key positions in the voice they are most likely to be published in. A first-time reader arrives via the [[essays/index|wiki home]] and lands on the four orientation essays. Subsequent essays extend into specific applications: how a coordinator engages a [[bioregion|bioregion]], and how a human directs an AI at the corpus.
 
 Essays here are polished. Working drafts and exploratory notes stay in project knowledge and do not enter the wiki. Where an essay has been superseded by a newer one, the newer one carries.
 
@@ -23,7 +23,7 @@ Read in this order:
 
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[essays/what-is-a-bioregion|What Is a BioRegion]]
-- [[essays/what-is-a-bioconomy|What Is a BioConomy]] (and how it differs from the [[glossary/economy|Economy]])
+- [[essays/what-is-a-bioconomy|What Is a BioConomy]] (and how it differs from the [[economy|Economy]])
 - [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]] (the case-sensitive convention explained)
 
 ## The engagement set
@@ -38,7 +38,7 @@ Once the orientation set is read:
 
 ## Related pages
 
-- [[content/essays/index|Wiki Home]]
+- [[engage|Wiki Home]]
 - [[templates/index|The Templates]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]

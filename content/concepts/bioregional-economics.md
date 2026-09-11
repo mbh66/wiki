@@ -1,19 +1,25 @@
 ---
-title: "Bioregional Economics"
-aliases: ["bioregional economics discipline"]
-tags: ["concept", "bioconomy", "core-framework", "economics"]
-created: 2026-09-01
-updated: 2026-08-25
-source_project: "BioConomy"
-source_documents: ["Bioregional_Economics_Notion_Export"]
-epistemic_status: "documented-framework"
+title: Bioregional Economics
+aliases:
+  - bioregional economics discipline
+tags:
+  - concept
+  - bioconomy
+  - core-framework
+  - economics
+created: 2026-08-25
+updated: 2026-09-01
+source_project: BioConomy
+source_documents:
+  - Bioregional_Economics_Notion_Export
+epistemic_status: documented-framework
 ---
 
-Bioregional economics is the study and practice of designing [[glossary/regenerative|regenerative]], cooperatively owned, place-based economies within the carrying capacity of their landscapes. The discipline is young. Its founding literature is still being written, its institutional forms are still being tested, and its relationship to both established economic thought and the broader regenerative movement is still being negotiated.
+Bioregional economics is the study and practice of designing [[regenerative|regenerative]], cooperatively owned, place-based economies within the carrying capacity of their landscapes. The discipline is young. Its founding literature is still being written, its institutional forms are still being tested, and its relationship to both established economic thought and the broader regenerative movement is still being negotiated.
 
 ## Overview
 
-The discipline carries an unresolved tension that this page addresses directly. The regenerative movement, taken as a whole, operates from a dependency posture: constantly underfunded, seeking grants, writing applications, and trying to find creative ways to keep going. Bioregional economics, if it is to function as an economic discipline and not only as an ethical critique, must resolve this. A [[glossary/bioregion|bioregion]] that asks funders for money to do restoration work is [[needy|needy]]. A bioregion that offers a verified ecological service to a market that has already signaled it will pay is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning [[glossary/economy|economy]].
+The discipline carries an unresolved tension that this page addresses directly. The regenerative movement, taken as a whole, operates from a dependency posture: constantly underfunded, seeking grants, writing applications, and trying to find creative ways to keep going. Bioregional economics, if it is to function as an economic discipline and not only as an ethical critique, must resolve this. A [[bioregion|bioregion]] that asks funders for money to do restoration work is [[needy|needy]]. A bioregion that offers a verified ecological service to a market that has already signaled it will pay is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning [[economy|economy]].
 
 ## The discipline defined
 
@@ -48,17 +54,17 @@ The two commitments are [[subsidiarity|subsidiarity]] (decisions made at the mos
 
 The discipline Life is defining draws on a specific intellectual lineage, and practitioners entering the field benefit from knowing where the ideas came from.
 
-[[fullerton-john|John Fullerton]] and the Capital Institute developed the *[[glossary/regenerative-capitalism|Regenerative Capitalism]]* framework and its eight principles of a regenerative economy: right relationship, innovative and adaptive, wealth viewed holistically, empowered participation, honors community and place, edge-effect abundance, robust circulatory flow, and seeks balance. Fullerton's work provides the closest existing theoretical canon for what a post-[[glossary/extractive|extractive]] economy looks like at the level of design principles.
+[[fullerton-john|John Fullerton]] and the Capital Institute developed the *[[regenerative-capitalism|Regenerative Capitalism]]* framework and its eight principles of a regenerative economy: right relationship, innovative and adaptive, wealth viewed holistically, empowered participation, honors community and place, edge-effect abundance, robust circulatory flow, and seeks balance. Fullerton's work provides the closest existing theoretical canon for what a post-[[extractive|extractive]] economy looks like at the level of design principles.
 
 [[raworth-kate|Kate Raworth]]'s *Doughnut Economics* (2017) provides the boundary conditions. The social foundation (the minimum standard of living below which no one should fall) and the ecological ceiling ([[planetary-boundaries|planetary boundaries]] above which the economy must not push) define the operating space. The bioregional scale is where those boundaries become operational: a specific watershed, a specific community, a specific food system, a specific energy budget.
 
 [[landua-gregory|Gregory Landua]] and [[roland-ethan|Ethan Roland]] developed the Eight Forms of Capital ontology (social, material, financial, living, intellectual, experiential, spiritual, and cultural), which expanded the accounting frame beyond money. Landua's subsequent work on Regen Network extends the ontology into verifiable ecological accounting infrastructure, connecting the theoretical frame to on-chain measurement and verification systems.
 
-[[schumacher-e-f|E.F. Schumacher]], [[daly-herman|Herman Daly]], [[meadows-donella|Donella Meadows]], [[berry-wendell|Wendell Berry]], and [[ostrom-elinor|Elinor Ostrom]] are field ancestors whose work predates the bioregional economics label but whose ideas run through every contribution named above. Schumacher on appropriate scale. Daly on steady-state economics. Meadows on systems dynamics and leverage points. Berry on the economics of local adaptation. Ostrom on [[glossary/commons|commons]] governance and the empirical refutation of the tragedy-of-the-commons assumption. Any practitioner entering the field will encounter these names repeatedly, and reading them in the original is worth the time.
+[[schumacher-e-f|E.F. Schumacher]], [[daly-herman|Herman Daly]], [[meadows-donella|Donella Meadows]], [[berry-wendell|Wendell Berry]], and [[ostrom-elinor|Elinor Ostrom]] are field ancestors whose work predates the bioregional economics label but whose ideas run through every contribution named above. Schumacher on appropriate scale. Daly on steady-state economics. Meadows on systems dynamics and leverage points. Berry on the economics of local adaptation. Ostrom on [[commons|commons]] governance and the empirical refutation of the tragedy-of-the-commons assumption. Any practitioner entering the field will encounter these names repeatedly, and reading them in the original is worth the time.
 
 ## The federated cooperative pattern
 
-The [[glossary/i-form-institutional|institutional form]] bioregional economics proposes for productive enterprise is the [[federated-cooperative|federated cooperative]]: cooperatives cooperating, with jointly capitalized shared infrastructure held by the federation rather than by any single cooperative, and mutual vesting so that every participant holds a stake in every other participant's flourishing.
+The [[i-form-institutional|institutional form]] bioregional economics proposes for productive enterprise is the [[federated-cooperative|federated cooperative]]: cooperatives cooperating, with jointly capitalized shared infrastructure held by the federation rather than by any single cooperative, and mutual vesting so that every participant holds a stake in every other participant's flourishing.
 
 The precedent is Mondragón. The Mondragón cooperative group in the Basque Country has operated for over seventy years, currently employing over 103,000 people across more than 120 autonomous cooperatives spanning industry, finance, retail, and knowledge sectors. It is the single most important existence proof that cooperative federation works at industrial scale over multiple generations.
 
@@ -86,13 +92,13 @@ What each site needs is a coordination body that can deliver verified restoratio
 
 This is where bioregional economics meets the [[biohub|BioHub]] concept. A bioregion that can coordinate landscape-scale restoration (alien clearing, soil rehabilitation, riparian repair, water-efficient agricultural transition) holds a service the market is already structured to purchase. The relationship with capital changes completely. You are no longer writing grant applications. You are tendering a service into a market that has already signaled it will pay. Capital is available and looking for somewhere to land. The bioregions that can demonstrate an Emergent coordination architecture to receive the capital will unlock what has been elusive so far.
 
-The shift from needy to needed also exposes a gap in the commitment pooling literature. [[ruddick-will|Will Ruddick]]'s work, covered on this site's [[concepts/commitment-pooling|Commitment Pooling]] page, demonstrates how a [[glossary/commitment-pool|commitment pool]] coordinates human reciprocity: labor, goods, services, and mutual obligation circulating within a community. What commitment pooling does not yet do, in its current form, is connect that reciprocity to the health of the living system the community inhabits. The commitments are social and economic, and they are not yet ecological. A bioregional commitment pool that includes ecological restoration (clearing invasive species, rehabilitating riparian corridors, transitioning to water-efficient agriculture) as a poolable commitment, verified against measurable watershed outcomes, is the mechanism through which a community's coordination capacity becomes a bankable service. The pool's output is not only internal circulation. It is a verified ecological yield that an external market is designed to purchase.
+The shift from needy to needed also exposes a gap in the commitment pooling literature. [[ruddick-will|Will Ruddick]]'s work, covered on this site's [[concepts/commitment-pooling|Commitment Pooling]] page, demonstrates how a [[commitment-pool|commitment pool]] coordinates human reciprocity: labor, goods, services, and mutual obligation circulating within a community. What commitment pooling does not yet do, in its current form, is connect that reciprocity to the health of the living system the community inhabits. The commitments are social and economic, and they are not yet ecological. A bioregional commitment pool that includes ecological restoration (clearing invasive species, rehabilitating riparian corridors, transitioning to water-efficient agriculture) as a poolable commitment, verified against measurable watershed outcomes, is the mechanism through which a community's coordination capacity becomes a bankable service. The pool's output is not only internal circulation. It is a verified ecological yield that an external market is designed to purchase.
 
 This is the structural argument that bioregional economics must absorb if it is to move from diagnosis to discipline. The Two Machines analysis is correct and necessary. The federated cooperative pattern is the right institutional form. The design principles are sound. What completes the architecture is the recognition that bioregions already hold what the market needs, and that the coordination to deliver it is the missing piece, and not the funding to attempt it.
 
 ## The cosmo-local pattern
 
-[[bauwens-michel|Michel Bauwens]] and the P2P Foundation contribute the [[cosmo-local-production|cosmo-local production]] framework, which specifies how a place-based economy connects to the global knowledge commons without losing its local anchorage. The formulation is direct: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this site is the global-facing layer. The catchment restoration, cooperative production, and stewardship agreements in each bioregion are the place-based layer. Knowledge circulates freely. Value circulates locally. The two layers reinforce each other.
+[[bauwens-michel|Michel Bauwens]] and the P2P Foundation contribute the [[content/concepts/cosmo-local-production|cosmo-local production]] framework, which specifies how a place-based economy connects to the global knowledge commons without losing its local anchorage. The formulation is direct: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this site is the global-facing layer. The catchment restoration, cooperative production, and stewardship agreements in each bioregion are the place-based layer. Knowledge circulates freely. Value circulates locally. The two layers reinforce each other.
 
 ## The missing middle
 

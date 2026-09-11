@@ -14,12 +14,12 @@ Lead architect (with Samantha Power and colleagues at Dark Matter Labs and the B
 
 ## Related pages
 
-- [[glossary/bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
+- [[bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
 - [[power-samantha|Samantha Power]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

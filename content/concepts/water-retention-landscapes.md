@@ -9,7 +9,7 @@ source_documents: ["Water_Retention_Landscapes_Notion_Export"]
 epistemic_status: "documented-framework"
 ---
 
-A Water [[glossary/retention-economics|Retention]] Landscape is a landscape whose soil, vegetation, and water infrastructure have been restored or maintained so that rainfall is captured, held, and released slowly. The concept is both a description of how healthy landscapes function and a practice of restoring degraded landscapes to that function.
+A Water [[retention-economics|Retention]] Landscape is a landscape whose soil, vegetation, and water infrastructure have been restored or maintained so that rainfall is captured, held, and released slowly. The concept is both a description of how healthy landscapes function and a practice of restoring degraded landscapes to that function.
 
 ## Overview
 
@@ -17,7 +17,7 @@ When rainfall lands on a functioning landscape, the soil holds it. Water enters 
 
 When rainfall lands on a degraded landscape, it leaves. Compacted soils, stripped of organic matter and biological structure, cannot absorb the volume. Water sheets across the surface as runoff, gathers velocity, erodes topsoil, floods lowland areas in pulses, and exits the catchment within hours. The same rainfall, the same volume of water, produces two entirely different hydrological outcomes depending on the condition of the soil it lands on.
 
-For [[biohub|BioHub]] practitioners, this is the operational science of catchment restoration: the set of interventions through which a [[glossary/bioregion|bioregion]]'s land surface becomes a functioning hydrological asset.
+For [[biohub|BioHub]] practitioners, this is the operational science of catchment restoration: the set of interventions through which a [[bioregion|bioregion]]'s land surface becomes a functioning hydrological asset.
 
 ## The founding text
 
@@ -65,7 +65,7 @@ The interventions that build a Water Retention Landscape operate across four sca
 
 The Water Retention Landscape tradition provides the general principles. Each bioregion requires a biome-specific evidence base grounding those principles in local conditions, local species, and local hydrology. The principles are universal. The application is always local.
 
-In the South African fynbos biome, for example, the peer-reviewed evidence base is specific and quantified. Van Wyk (1987) documented a 55% reduction in streamflow in fynbos catchments 23 years after pine invasion. Le Maitre et al. (2019) modeled that invasive alien plants already reduce the Western Cape Water Supply System's assured yield by approximately 38 million cubic meters per year, rising to approximately 130 million cubic meters per year within 45 years without clearing. Riparian pines consume roughly 200 mm per year more water than adjacent dryland fynbos. Nitrogen-fixing acacias alter nutrient-poor fynbos soils by adding nitrogen, shifting community composition and degrading the native vegetation's capacity to regenerate. Clearing followed by fynbos recovery reverses much of this, and active restoration (sowing native species, carbon amendment to immobilize excess soil nitrogen) is often [[glossary/needed|needed]] where dense invasion has depleted the soil seed bank.
+In the South African fynbos biome, for example, the peer-reviewed evidence base is specific and quantified. Van Wyk (1987) documented a 55% reduction in streamflow in fynbos catchments 23 years after pine invasion. Le Maitre et al. (2019) modeled that invasive alien plants already reduce the Western Cape Water Supply System's assured yield by approximately 38 million cubic meters per year, rising to approximately 130 million cubic meters per year within 45 years without clearing. Riparian pines consume roughly 200 mm per year more water than adjacent dryland fynbos. Nitrogen-fixing acacias alter nutrient-poor fynbos soils by adding nitrogen, shifting community composition and degrading the native vegetation's capacity to regenerate. Clearing followed by fynbos recovery reverses much of this, and active restoration (sowing native species, carbon amendment to immobilize excess soil nitrogen) is often [[needed|needed]] where dense invasion has depleted the soil seed bank.
 
 Renosterveld restoration rebuilds soil carbon alongside water retention. Mills and Cowling et al. (2013) measured intact renosterveld at 84 Mg C/ha versus actively farmed fields at 69 Mg C/ha in the Overberg, with fallowing recovering stocks to approximately 82 Mg C/ha. This creates a co-financing pathway: carbon credit revenues can be stacked on top of water-yield payments from the same restored hectare.
 

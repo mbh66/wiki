@@ -19,8 +19,8 @@ Burgess's book-length treatment of Promise Theory, co-developed with Jan Bergstr
 ## Cited by
 
 - [[concepts/commitment-pooling|Commitment Pooling]]
-- [[glossary/promise-theory|Promise Theory (glossary)]]
-- [[glossary/commitment-pool|Commitment pool (glossary)]]
+- [[promise-theory|Promise Theory (glossary)]]
+- [[commitment-pool|Commitment pool (glossary)]]
 - [[burgess-mark|Mark Burgess]]
 - [[bergstra-jan|Jan Bergstra]]
 - [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]

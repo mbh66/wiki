@@ -9,11 +9,11 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-Four prompts a careholder can run through a deep-research AI to see where their [[glossary/bioregion|bioregion]] still runs on the [[economy|Economy]] and where the shortest paths to funding [[glossary/retention-economics|retention]] work are. Written for someone who has read the orientation essays and wants a fast, useful answer before committing to the [[templates/index|four-template founding suite]].
+Four prompts a careholder can run through a deep-research AI to see where their [[bioregion|bioregion]] still runs on the [[economy|Economy]] and where the shortest paths to funding [[retention-economics|retention]] work are. Written for someone who has read the orientation essays and wants a fast, useful answer before committing to the [[templates/index|four-template founding suite]].
 
 ## Overview
 
-The four templates in the founding suite produce the documents a [[glossary/biohub|BioHub]] uses to establish itself. That work takes weeks. Before running it, a coordinator often needs a faster read: where does the bioregion currently leak value into the Economy, and where could it earn its first retention-linked revenue.
+The four templates in the founding suite produce the documents a [[biohub|BioHub]] uses to establish itself. That work takes weeks. Before running it, a coordinator often needs a faster read: where does the bioregion currently leak value into the Economy, and where could it earn its first retention-linked revenue.
 
 These four prompts produce that read in an afternoon. Attach the project documents you already hold. Planning documents, ecological or hydrological surveys, existing partnership summaries, cohort notes: anything that describes the bioregion in specific terms. Point the AI at https://wiki.bioconomy.earth. Run the prompts in order. Each prompt builds on the AI's answer to the previous one.
 
@@ -85,8 +85,8 @@ The answers to the four prompts are not a plan. They are the initial read. The [
 - [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]]
 - [[templates/index|The Templates]]
 - [[concepts/retention-logic|Retention Logic]]
-- [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]]
-- [[glossary/readiness-diagnostic|Readiness Diagnostic]]
+- [[tenderable-services-portfolio|Tenderable Services Portfolio]]
+- [[readiness-diagnostic|Readiness Diagnostic]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
 - [[research/corporate-partnerships-protected-areas|Corporate Partnerships in Protected-Area Landscapes]]
 
@@ -96,7 +96,7 @@ The answers to the four prompts are not a plan. They are the initial read. The [
 
 ## Provenance
 
-Written 27 August 2026 for the "AI Quick-engage" section of the wiki's index page. The four prompts are constructed from the wiki's existing operational vocabulary (retention logic, the tenderable services portfolio, the readiness diagnostic, and the [[glossary/transvestment|transvestment]] pathways) and from the corporate-partnerships-protected-areas research brief. The prompts have not yet been run against a real BioHub. The first coordinator to run them is invited to feed the outputs back so the phrasing can be tuned.
+Written 27 August 2026 for the "AI Quick-engage" section of the wiki's index page. The four prompts are constructed from the wiki's existing operational vocabulary (retention logic, the tenderable services portfolio, the readiness diagnostic, and the [[content/glossary/t-z/transvestment|transvestment]] pathways) and from the corporate-partnerships-protected-areas research brief. The prompts have not yet been run against a real BioHub. The first coordinator to run them is invited to feed the outputs back so the phrasing can be tuned.
 
 <script type="application/ld+json">
 {

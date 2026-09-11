@@ -14,12 +14,12 @@ Logician and co-developer (with Burgess) of Promise Theory as a formal framework
 
 ## Related pages
 
-- [[glossary/promise-theory|Promise Theory]]
+- [[promise-theory|Promise Theory]]
 - [[burgess-mark|Mark Burgess]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

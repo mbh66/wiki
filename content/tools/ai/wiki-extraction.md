@@ -405,3 +405,31 @@ The skill's power is in the constraints. A wiki that enforces consistent frontma
 ## Provenance
 
 Entry created 8 September 2026 documenting the wiki-extraction skill as used in constructing this wiki. Updated the same day to include the full implementation: SKILL.md workflow, all three reference files, failure modes, and build-your-own instructions. The skill's source is a Claude skill definition maintained by the wiki's author.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "@id": "https://wiki.bioconomy.earth/tools/ai/wiki-extraction/",
+  "name": "Wiki Extraction",
+  "description": "A Claude skill that extracts publishable content from a Claude project knowledge base into structured markdown files ready for a Quartz-based wiki.",
+  "applicationCategory": "AI Tool",
+  "operatingSystem": "Claude (Cowork)",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-09-08",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "keywords": [
+    "tool",
+    "ai",
+    "skill",
+    "extraction",
+    "quartz",
+    "wiki"
+  ]
+}
+</script>

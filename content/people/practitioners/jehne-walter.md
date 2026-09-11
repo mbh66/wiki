@@ -16,15 +16,15 @@ source_documents:
 epistemic_status: "documented-fact"
 ---
 
-Australian soil microbiologist and innovation strategist who developed the [[glossary/soil-carbon-sponge|Soil Carbon Sponge]] framework, linking soil biology to water [[glossary/retention-economics|retention]] and hydrological cycle restoration. Jehne has immense field and research experience in soils, grasslands, agriculture, and forests at local, national, and international levels.
+Australian soil microbiologist and innovation strategist who developed the [[soil-carbon-sponge|Soil Carbon Sponge]] framework, linking soil biology to water [[retention-economics|retention]] and hydrological cycle restoration. Jehne has immense field and research experience in soils, grasslands, agriculture, and forests at local, national, and international levels.
 
 ## Contribution
 
 Jehne served as a researcher at CSIRO (Australia's national science agency) and as Science Adviser to Australia's National Soil Advocate. He has also worked at the international level with United Nations agencies on soil and water restoration.
 
-His Soil Carbon Sponge framework identifies soil biology as the primary mechanism for water retention in landscapes. Healthy soils, rich in fungal hyphae and organic matter, act as sponges that absorb and hold rainfall, recharging aquifers and sustaining base flows in rivers. Degraded soils lose this capacity, converting rainfall into runoff and accelerating both drought and flood cycles. The framework connects soil health directly to the [[glossary/water-retention-landscape|Water Retention Landscape]] approach and provides the microbiological grounding for landscape-scale hydrological restoration.
+His Soil Carbon Sponge framework identifies soil biology as the primary mechanism for water retention in landscapes. Healthy soils, rich in fungal hyphae and organic matter, act as sponges that absorb and hold rainfall, recharging aquifers and sustaining base flows in rivers. Degraded soils lose this capacity, converting rainfall into runoff and accelerating both drought and flood cycles. The framework connects soil health directly to the [[water-retention-landscape|Water Retention Landscape]] approach and provides the microbiological grounding for landscape-scale hydrological restoration.
 
-For the [[glossary/bioconomy|BioConomy]], Jehne's work demonstrates that water retention is not primarily an engineering problem but a biological one. Restoring the soil carbon sponge is a precondition for restoring the small water cycle at bioregional scale.
+For the [[bioconomy|BioConomy]], Jehne's work demonstrates that water retention is not primarily an engineering problem but a biological one. Restoring the soil carbon sponge is a precondition for restoring the small water cycle at bioregional scale.
 
 ## Digital library
 
@@ -33,14 +33,14 @@ For the [[glossary/bioconomy|BioConomy]], Jehne's work demonstrates that water r
 
 ## Related pages
 
-- [[glossary/water-retention-landscape|Water Retention Landscape]]
-- [[glossary/soil-carbon-sponge|Soil Carbon Sponge]]
+- [[water-retention-landscape|Water Retention Landscape]]
+- [[soil-carbon-sponge|Soil Carbon Sponge]]
 - [[kravcik-michal|Michal Kravcik]]
 - [[andrews-peter|Peter Andrews]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, CSIRO and UN affiliations, digital library PDFs added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, CSIRO and UN affiliations, digital library PDFs added.
 
 <script type="application/ld+json">
 {

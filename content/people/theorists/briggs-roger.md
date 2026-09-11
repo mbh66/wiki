@@ -15,7 +15,7 @@ Roger P. Briggs is an American physicist turned deep-time historian whose work s
 
 Briggs provides two foundational contributions.
 
-The first is the application of the [[glossary/logistic-growth-principle|Logistic Growth Principle]] to civilizational scale. Every living system traces an S-curve: slow initial growth, accelerating expansion, deceleration, plateau, and reorganization at a different level. The twelve-thousand-year arc of agricultural and industrial civilization is in the deceleration phase of a logistic curve. The slowdown is observable in energy returns, demographic transitions, debt-to-GDP ratios, and the diminishing capacity of additional capital to produce growth. This quantitative frame underpins the BioConomy corpus's [[concepts/three-futures|Three Futures]] analysis and the urgency argument throughout Movement I of the Emancipation Architecture.
+The first is the application of the [[glossary/logistic-growth-principle|Logistic Growth Principle]] to civilizational scale. Every living system traces an S-curve: slow initial growth, accelerating expansion, deceleration, plateau, and reorganization at a different level. The twelve-thousand-year arc of agricultural and industrial civilization is in the deceleration phase of a logistic curve. The slowdown is observable in energy returns, demographic transitions, debt-to-GDP ratios, and the diminishing capacity of additional capital to produce growth. This quantitative frame underpins the BioConomy corpus's [[frameworks/three-futures|Three Futures]] analysis and the urgency argument throughout Movement I of the Emancipation Architecture.
 
 The second is the synthesis of Cognitive Major Evolutionary Transitions (Cognitive METs). Drawing on [[sources/gebser-ever-present-origin|Jean Gebser]], Merlin Donald, Arthur Young, and Ken Wilber, Briggs identifies five stages of human consciousness development: survival, magical, mythical, mental/material, and integral/emerging. The BioConomy corpus adopted and extended this synthesis into its own [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]] sequence (Mimetic, Magical, Mythic, Material, Mycelial), with Briggs's explicit agreement that these shifts qualify as cognitive METs.
 
@@ -35,7 +35,7 @@ As of May 2026, Briggs is working on the Positive Media Lab (positivemedialab.co
 
 ## Relationship to Other Thinkers
 
-Briggs operates at the intersection of several lineages represented in the BioConomy corpus. His consciousness evolution work draws directly on [[sources/gebser-ever-present-origin|Gebser's]] structures of consciousness and extends them through Donald's cognitive archaeology, Young's process theory, and Wilber's integral framework. His logistic growth analysis converges with Joseph Tainter's complexity collapse research, Peter Turchin's cliodynamics, and the Strauss-Howe generational theory, all of which inform the [[concepts/three-futures|Three Futures]] analysis.
+Briggs operates at the intersection of several lineages represented in the BioConomy corpus. His consciousness evolution work draws directly on [[sources/gebser-ever-present-origin|Gebser's]] structures of consciousness and extends them through Donald's cognitive archaeology, Young's process theory, and Wilber's integral framework. His logistic growth analysis converges with Joseph Tainter's complexity collapse research, Peter Turchin's cliodynamics, and the Strauss-Howe generational theory, all of which inform the [[frameworks/three-futures|Three Futures]] analysis.
 
 Briggs was introduced to the broader network through [[sources/sahtouris-earthdance|Elisabet Sahtouris]], Louis Herman, and Brian Swimme, placing him within the living-systems evolution lineage that provides the biological grounding for the corpus's maturation thesis.
 
@@ -49,10 +49,10 @@ Briggs was introduced to the broader network through [[sources/sahtouris-earthda
 ## Related Pages
 
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
-- [[concepts/three-futures|Three Futures]]
+- [[frameworks/three-futures|Three Futures]]
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
-- [[glossary/material-consciousness|Material Consciousness]]
-- [[glossary/mycelial-consciousness|Mycelial Consciousness]]
+- [[material-consciousness|Material Consciousness]]
+- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[sources/gebser-ever-present-origin|Gebser, J. (1949/1985). The Ever-Present Origin]]
 - [[sources/sahtouris-earthdance|Sahtouris, E. (2000). EarthDance]]
 

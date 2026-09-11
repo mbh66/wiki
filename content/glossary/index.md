@@ -15,29 +15,29 @@ Short definitions of the specialized vocabulary used across this wiki, from coin
 
 A glossary entry is 150 to 400 words. Each opens with a one-sentence definition, expands it in a paragraph or two, contrasts the term with adjacent terms where the term is often confused, and links to the concept or framework page that carries the fuller treatment. Glossary entries exist for four categories of term.
 
-**Coined.** Terms originated within the BioConomy corpus. Retention logic. The [[glossary/alpha-window|Alpha Window]]. [[glossary/mycelial-patronage|Mycelial Patronage]]. The [[glossary/threshold-guide|Threshold Guide]].
+**Coined.** Terms originated within the BioConomy corpus. Retention logic. The [[alpha-window|Alpha Window]]. [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]. The [[threshold-guide|Threshold Guide]].
 
-**Borrowed technical.** Terms taken from a source thinker and used with a specific meaning that differs from everyday usage. Transvestment (Bauwens). [[glossary/demurrage|Demurrage]] (Gesell). TIMN (Ronfeldt). [[glossary/panarchy|Panarchy]] (Holling and Gunderson). [[glossary/threefolding|Threefolding]] (Steiner).
+**Borrowed technical.** Terms taken from a source thinker and used with a specific meaning that differs from everyday usage. Transvestment (Bauwens). [[demurrage|Demurrage]] (Gesell). TIMN (Ronfeldt). [[panarchy|Panarchy]] (Holling and Gunderson). [[threefolding|Threefolding]] (Steiner).
 
-**Framework.** Named analytical structures referenced repeatedly across the corpus. The Emancipation Architecture. [[glossary/regenerative-participation-income-rpi|Regenerative Participation Income]]. The Coercion Continuum.
+**Framework.** Named analytical structures referenced repeatedly across the corpus. The Emancipation Architecture. [[regenerative-participation-income-rpi|Regenerative Participation Income]]. The Coercion Continuum.
 
-**Acronym.** Shorthand used more than three times across the corpus. RPI. EA. TIMN. [[glossary/biocultural-unit-bcu|BCU]]. TRANCRAA.
+**Acronym.** Shorthand used more than three times across the corpus. RPI. EA. TIMN. [[biocultural-unit-bcu|BCU]]. TRANCRAA.
 
 Terms with everyday meanings that a reader can look up elsewhere (subsidy, easement, catchment) are not given glossary entries.
 
 ## Where to start
 
-- [[glossary/bioconomy|BioConomy]]. The framework itself.
-- [[glossary/bioregion|Bioregion]]. The coordination unit.
-- [[glossary/biohub|BioHub]]. The coordination body.
-- [[glossary/retention-economics|Retention Economics]] and [[glossary/throughput-economics|Throughput Economics]]. The distinction the framework turns on.
-- [[content/glossary/timn|TIMN]]. The Tribal, Institutional, Market, Emergent coordination-form taxonomy.
-- [[glossary/coercion-continuum|The Coercion Continuum]]. The twelve-thousand-year monetary history.
-- [[glossary/transvestment|Transvestment]]. Capital movement from the [[glossary/economy|Economy]] into the BioConomy substrate.
+- [[bioconomy|BioConomy]]. The framework itself.
+- [[bioregion|Bioregion]]. The coordination unit.
+- [[biohub|BioHub]]. The coordination body.
+- [[retention-economics|Retention Economics]] and [[throughput-economics|Throughput Economics]]. The distinction the framework turns on.
+- [[timn|TIMN]]. The Tribal, Institutional, Market, Emergent coordination-form taxonomy.
+- [[coercion-continuum|The Coercion Continuum]]. The twelve-thousand-year monetary history.
+- [[content/glossary/t-z/transvestment|Transvestment]]. Capital movement from the [[economy|Economy]] into the BioConomy substrate.
 
 ## Related pages
 
-- [[content/glossary/index|Wiki Home]]
+- [[engage|Wiki Home]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]
 - [[essays/index|Essays]]

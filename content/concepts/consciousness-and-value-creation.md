@@ -15,7 +15,7 @@ Value creation is consciousness-dependent. Steiner's V2 (the application of huma
 
 This is the central original thesis of the BioConomy corpus, and it is the subject of Movement II of the Emancipation Architecture. The claim bridges Rudolf Steiner's economic theory (1922) with the consciousness evolution scholarship of Gebser, Graves, Kegan, and Cook-Greuter, grounded in five independent literatures that converge on the same structural conclusion.
 
-Every civilization rests on an implicit theory of value: an unexamined agreement about what counts as wealth, how it is created, and who may claim it. The theory governing the current system holds that value is created by applying increasingly sophisticated intelligence to human labor, producing gains measured in output per unit of effort. This theory is not wrong. It is incomplete. It describes value creation under one form of consciousness, [[glossary/material-consciousness|Material]], and mistakes that description for a universal law.
+Every civilization rests on an implicit theory of value: an unexamined agreement about what counts as wealth, how it is created, and who may claim it. The theory governing the current system holds that value is created by applying increasingly sophisticated intelligence to human labor, producing gains measured in output per unit of effort. This theory is not wrong. It is incomplete. It describes value creation under one form of consciousness, [[material-consciousness|Material]], and mistakes that description for a universal law.
 
 ## Steiner's Two Value-Creating Processes
 
@@ -33,9 +33,9 @@ V2 progressively displaces V1. Each application of intelligence to labor reduces
 
 The BioConomy thesis extends Steiner's framework across the [[concepts/structures-of-consciousness|developmental stages of consciousness]]:
 
-Under [[glossary/material-consciousness|Material Consciousness]], V2 operates as the application of *individual* intelligence to *commodified* labor, producing productivity gains that are captured as *private capital*.
+Under [[material-consciousness|Material Consciousness]], V2 operates as the application of *individual* intelligence to *commodified* labor, producing productivity gains that are captured as *private capital*.
 
-Under [[glossary/mycelial-consciousness|Mycelial Consciousness]], V2 undergoes a structural transformation. It becomes the application of *distributed* intelligence to *ecological participation*, producing *regenerative capacity* that circulates as *relational wealth*.
+Under [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]], V2 undergoes a structural transformation. It becomes the application of *distributed* intelligence to *ecological participation*, producing *regenerative capacity* that circulates as *relational wealth*.
 
 Every element of the equation changes:
 
@@ -64,7 +64,7 @@ The thesis draws on five independent literatures:
 
 ## The Farmer-Forger-Founder-Framer Sequence
 
-The progressive abstraction of production maps directly onto V2's transformation. The [[frameworks/farmer-forger-founder-framer|Farmer]] applies Labor to Nature (V1). The Forger applies individual Intelligence to Labor (Material V2). The Founder applies individual Intelligence to systems of production (late-stage Material V2). The [[glossary/framer|Framer]] applies consciousness to consciousness itself, creating the conditions under which distributed intelligence can emerge (Mycelial V2).
+The progressive abstraction of production maps directly onto V2's transformation. The [[frameworks/farmer-forger-founder-framer|Farmer]] applies Labor to Nature (V1). The Forger applies individual Intelligence to Labor (Material V2). The Founder applies individual Intelligence to systems of production (late-stage Material V2). The [[framer|Framer]] applies consciousness to consciousness itself, creating the conditions under which distributed intelligence can emerge (Mycelial V2).
 
 This is why the Framer's domain of production is consciousness. Without the Framer, communities default to Material V2 (concentrated intelligence, captured gains) even when they intend to operate differently.
 
@@ -82,9 +82,9 @@ The component claims are established by peer-reviewed evidence from each domain.
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[frameworks/farmer-forger-founder-framer|Farmer-Forger-Founder-Framer]]
-- [[glossary/material-consciousness|Material Consciousness]]
-- [[glossary/mycelial-consciousness|Mycelial Consciousness]]
-- [[glossary/framer|Framer]]
+- [[material-consciousness|Material Consciousness]]
+- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[framer|Framer]]
 
 ## Sources
 

@@ -17,7 +17,7 @@ source_documents:
 epistemic_status: documented-fact
 ---
 
-American evolutionary biologist (1938-2011) who established the endosymbiotic theory of eukaryotic cell evolution against fierce resistance from the neo-Darwinist establishment. Her work demonstrated that the major transitions in the evolution of life were driven by integration and symbiosis, not by competition alone, and provides the biological grounding for the [[mycelial-consciousness|Mycelial Consciousness]] framework.
+American evolutionary biologist (1938-2011) who established the endosymbiotic theory of eukaryotic cell evolution against fierce resistance from the neo-Darwinist establishment. Her work demonstrated that the major transitions in the evolution of life were driven by integration and symbiosis, not by competition alone, and provides the biological grounding for the [[content/concepts/mycelial-consciousness|Mycelial Consciousness]] framework.
 
 ## Contribution
 
@@ -46,7 +46,7 @@ For the [[frameworks/three-futures|Transcendence]] trajectory and the [[framewor
 
 ## Related pages
 
-- [[mycelial-consciousness|Mycelial Consciousness]]
+- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
 - [[frameworks/three-futures|The Three Futures]]
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[sahtouris-elisabet|Elisabet Sahtouris]]

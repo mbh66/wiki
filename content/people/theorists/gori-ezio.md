@@ -10,12 +10,12 @@ epistemic_status: "stub"
 ---
 
 
-Developer of the [[glossary/iact-framework|iACT framework]] for community activation. Gori's work sits on the coordination side of the [[glossary/bioplace|BioPlace]] layer, addressing how a cluster of parcels and the people working them move from individual holdings to a coordinated community field that a [[glossary/biohub|BioHub]] can hold.
+Developer of the [[iact-framework|iACT framework]] for community activation. Gori's work sits on the coordination side of the [[bioplace|BioPlace]] layer, addressing how a cluster of parcels and the people working them move from individual holdings to a coordinated community field that a [[biohub|BioHub]] can hold.
 
 ## Related pages
 
-- [[glossary/iact-framework|iACT Framework]]
-- [[glossary/biohub|BioHub]]
+- [[iact-framework|iACT Framework]]
+- [[biohub|BioHub]]
 - [[concepts/the-bioplace-layer|The BioPlace Layer]]
 
 ## Provenance

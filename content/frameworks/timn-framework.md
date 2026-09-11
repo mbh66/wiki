@@ -1,13 +1,21 @@
 ---
-title: "The TIMN Framework"
-aliases: ["TIMN", "Tribes Institutions Markets Networks", "Ronfeldt TIMN"]
-tags: ["framework", "coordination", "societal-evolution", "core-framework"]
-created: 2026-09-01
-updated: 2026-08-25
-source_project: "BioConomy"
-source_documents: ["TIMN_Framework_Notion_Export"]
-creator: "David Ronfeldt"
-epistemic_status: "documented-framework"
+title: The TIMN Framework
+aliases:
+  - TIMN
+  - Tribes Institutions Markets Networks
+  - Ronfeldt TIMN
+tags:
+  - framework
+  - coordination
+  - societal-evolution
+  - core-framework
+created: 2026-08-25
+updated: 2026-09-01
+source_project: BioConomy
+source_documents:
+  - TIMN_Framework_Notion_Export
+creator: David Ronfeldt
+epistemic_status: documented-framework
 ---
 
 TIMN is a theoretical framework that categorizes the evolution of societal organization into four fundamental forms: Tribes (T), Institutions (I), Markets (M), and Networks (N). It was developed by RAND analyst [[ronfeldt-david|David Ronfeldt]] and first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution*.
@@ -48,7 +56,7 @@ The framework highlights the necessity for societies to integrate all four forms
 
 ## Ronfeldt's own reconsideration
 
-Ronfeldt himself has questioned the use of the word "network" as the final iteration. His 2025 Substack series *Rethinking What 'Tribes' and 'Networks' Are Good For* revisits the framework and moves toward what he calls TIMN 2.0. The series is worth reading in full for practitioners who intend to work with the model.
+Ronfeldt himself has questioned the use of the word "Network" as the final iteration. His 2025 Substack series *Rethinking What 'Tribes' and 'Networks' Are Good For* revisits the framework and moves toward what he calls TIMN 2.0. The series is worth reading in full for practitioners who intend to work with the model.
 
 In the concept-building portion of his more recent writing, Ronfeldt argues that a new form beyond the four already named will have to solve problems the other forms have not solved well enough, or in fact problems the other forms may have created. This is the opening through which the wiki's argument for Bioregionalism and the [[e-form-emergent|Emergent]] form enters. The related concept of Monitory Democracy, proposed by philosopher John Keane, is a further oblique reference to civil society actors organizing beyond states and markets. Ronfeldt's own question about how such new activities aggregate, where the aggregations occur, and what kinds of organizations and clearing houses are required, has begun to be addressed by [[bioregional-financing-facility-bff|Bioregional Financing Facilities]].
 
@@ -57,16 +65,23 @@ In the concept-building portion of his more recent writing, Ronfeldt argues that
 - [[frameworks/time-framework|The TIME Framework]]
 - [[ronfeldt-david|David Ronfeldt]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[glossary/human-coordination|Human Coordination]]
+- [[human-coordination|Human Coordination]]
 
 ## Sources
 
 - Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution]]* (RAND P-7967)
-- Ronfeldt, D. (2025). *Rethinking What 'Tribes' and 'Networks' Are Good For* (Substack series, four parts and three appendices).
+- Ronfeldt, D. (2025). *Rethinking What 'Tribes' and 'Networks' Are Good For* (Substack series, four parts and three appendices):
+	- **Part 1**: [https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks](https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks)
+	- **Part 2**: [https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks-9ec](https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks-9ec)
+	- **Part 3**: [https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks-1bd](https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks-1bd)
+	- **Part 4**: [https://davidronfeldt.substack.com/p/toward-timn-20-preamble-bottom-lines](https://davidronfeldt.substack.com/p/toward-timn-20-preamble-bottom-lines)
+	- **Part 4a**: [https://davidronfeldt.substack.com/p/preferential-valences-and-valence](https://davidronfeldt.substack.com/p/preferential-valences-and-valence)
+	- **Part 4b**: [https://davidronfeldt.substack.com/p/finding-axes-biform-axes-and-the](https://davidronfeldt.substack.com/p/finding-axes-biform-axes-and-the)
+	- **Part 4c**: [https://davidronfeldt.substack.com/p/more-about-how-valence-and-valence](https://davidronfeldt.substack.com/p/more-about-how-valence-and-valence)
 
 ## Provenance
 
-Extracted from *[[content/glossary/timn|TIMN Framework]]* (Notion export, September 2026). The Ronfeldt 2025 Substack references were preserved from the source and are treated as primary but non-book sources: they update the framework's terminology without altering its analytical structure. The overlapping content with the TIME Framework page has been kept minimal here to avoid duplication; TIME is the wiki's working vocabulary.
+Extracted from *[[timn|TIMN Framework]]* (Notion export, September 2026). The Ronfeldt 2025 Substack references were preserved from the source and are treated as primary but non-book sources: they update the framework's terminology without altering its analytical structure. The overlapping content with the TIME Framework page has been kept minimal here to avoid duplication; TIME is the wiki's working vocabulary.
 
 <script type="application/ld+json">
 {

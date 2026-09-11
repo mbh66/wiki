@@ -41,3 +41,29 @@ The BioConomy corpus has not yet drawn on Bioregioning Earth material directly. 
 ## Provenance
 
 Entry created 4 September 2026 as part of the `related-wikis/` buildout. Substantive detail on the site's structure, content areas, and framing verified against the site's current main page on the same date.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/wiki-related/bioregioning-earth/",
+  "name": "Bioregioning Earth",
+  "description": "A public knowledge base mapping 110 bioregional actors and initiatives across ten thematic areas, documenting how communities learn to live and govern within the logic of place.",
+  "datePublished": "2026-09-04",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": {
+    "@type": "WebSite",
+    "name": "Bioregioning Earth",
+    "url": "https://bioregioning.earth"
+  },
+  "keywords": [
+    "related-wiki",
+    "bioregion",
+    "directory",
+    "regenerative"
+  ]
+}
+</script>

@@ -14,12 +14,12 @@ Computer scientist and author of *Thinking in Promises* (2015), whose Promise 
 
 ## Related pages
 
-- [[glossary/promise-theory|Promise Theory]]
+- [[promise-theory|Promise Theory]]
 - [[bergstra-jan|Jan Bergstra]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

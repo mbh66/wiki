@@ -20,11 +20,11 @@ American ecological and [[glossary/georgism|Georgist]] economist (1938-2022), em
 
 ## Contribution
 
-Daly's central contribution was to reframe economics around biophysical limits. Where neoclassical economics treats the economy as a closed circular flow of exchange value, Daly insisted it is an open subsystem of the finite biosphere, subject to the laws of thermodynamics. The economy takes in low-entropy resources and expels high-entropy waste. Growth in [[glossary/throughput|throughput]] beyond the regenerative capacity of the biosphere is not progress; it is what Daly called "uneconomic growth," where marginal costs exceed marginal benefits.
+Daly's central contribution was to reframe economics around biophysical limits. Where neoclassical economics treats the economy as a closed circular flow of exchange value, Daly insisted it is an open subsystem of the finite biosphere, subject to the laws of thermodynamics. The economy takes in low-entropy resources and expels high-entropy waste. Growth in [[throughput|throughput]] beyond the regenerative capacity of the biosphere is not progress; it is what Daly called "uneconomic growth," where marginal costs exceed marginal benefits.
 
 His Three Rules of Sustainability became a standard reference point for ecological accounting: renewable resources should not be harvested faster than they regenerate; waste emissions should not exceed the assimilative capacity of the environment; and non-renewable resources should be depleted no faster than renewable substitutes can be developed. In 1995, Daly and [[meadows-donella|Donella Meadows]] defined criteria for authentic sustainability that extended these principles into a broader assessment framework.
 
-The steady-state economics framework is one of the intellectual foundations of [[glossary/retention-economics|retention economics]] and [[glossary/bioregional-economics|bioregional economics]]. Daly belongs on this list because his work made legible the structural impossibility of infinite growth within a finite substrate, the same impossibility that the [[glossary/logistic-growth-principle|Logistic Growth Principle]] describes at civilizational scale.
+The steady-state economics framework is one of the intellectual foundations of [[retention-economics|retention economics]] and [[content/glossary/a-e/bioregional-economics|bioregional economics]]. Daly belongs on this list because his work made legible the structural impossibility of infinite growth within a finite substrate, the same impossibility that the [[glossary/logistic-growth-principle|Logistic Growth Principle]] describes at civilizational scale.
 
 ## Selected works
 
@@ -47,10 +47,10 @@ The steady-state economics framework is one of the intellectual foundations of [
 
 ## Related pages
 
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[glossary/ecological-economics|Ecological Economics]]
-- [[glossary/retention-economics|Retention Economics]]
-- [[glossary/throughput|Throughput]]
+- [[retention-economics|Retention Economics]]
+- [[throughput|Throughput]]
 - [[meadows-donella|Donella Meadows]]
 - [[polanyi-karl|Karl Polanyi]]
 
@@ -61,7 +61,7 @@ The steady-state economics framework is one of the intellectual foundations of [
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, selected works, digital library PDFs, external links, and cross-references added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, selected works, digital library PDFs, external links, and cross-references added.
 
 <script type="application/ld+json">
 {

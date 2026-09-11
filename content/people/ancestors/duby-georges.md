@@ -17,12 +17,12 @@ French medievalist whose The Age of the Cathedrals traces the Gothic impulse t
 
 ## Related pages
 
-- [[glossary/i-form-institutional|I form (Institutional)]]
-- [[glossary/coordination-node|Coordination Node]]
+- [[i-form-institutional|I form (Institutional)]]
+- [[coordination-node|Coordination Node]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

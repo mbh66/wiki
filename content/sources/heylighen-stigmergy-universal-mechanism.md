@@ -15,15 +15,15 @@ source_project: "BioConomy"
 
 Heylighen, F. (2016). *Stigmergy as a universal coordination mechanism I: Definition and components.* Cognitive Systems Research, 38, 4-13.
 
-The paper in which [[heylighen-francis|Heylighen]] lifted [[stigmergy|stigmergy]] out of its entomological setting and set it out as a general theory of self-organized coordination across biological, cognitive, and social systems. Heylighen defined the mechanism by its components (agents, actions, environment, marks, conditions for response), distinguished quantitative from qualitative variants, and showed how the same pattern that builds a termite mound underwrites Wikipedia, open-source software, scientific collaboration, and market price signals.
+The paper in which [[heylighen-francis|Heylighen]] lifted [[content/concepts/stigmergy|stigmergy]] out of its entomological setting and set it out as a general theory of self-organized coordination across biological, cognitive, and social systems. Heylighen defined the mechanism by its components (agents, actions, environment, marks, conditions for response), distinguished quantitative from qualitative variants, and showed how the same pattern that builds a termite mound underwrites Wikipedia, open-source software, scientific collaboration, and market price signals.
 
-Heylighen's second paper in the same volume (*Stigmergy as a universal coordination mechanism II: Varieties and evolution*) extends the taxonomy. The two together are the standard reference for the human-coordination extension of Grassé's original term and the theoretical anchor for treating instruments like the [[glossary/bioscore|BioScore]] and the [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]] as stigmergic signals.
+Heylighen's second paper in the same volume (*Stigmergy as a universal coordination mechanism II: Varieties and evolution*) extends the taxonomy. The two together are the standard reference for the human-coordination extension of Grassé's original term and the theoretical anchor for treating instruments like the [[bioscore|BioScore]] and the [[tenderable-services-portfolio|Tenderable Services Portfolio]] as stigmergic signals.
 
 ## Cited by
 
-- [[stigmergy|Stigmergy (glossary)]]
+- [[content/concepts/stigmergy|Stigmergy (glossary)]]
 - [[heylighen-francis|Francis Heylighen]]
-- [[glossary/mycelial-coordination|Mycelial Coordination (glossary)]]
+- [[content/glossary/m-s/mycelial-coordination|Mycelial Coordination (glossary)]]
 
 ## Provenance
 

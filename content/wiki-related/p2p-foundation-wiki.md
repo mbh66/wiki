@@ -23,9 +23,9 @@ The P2P Foundation Wiki functions as a curated clearinghouse rather than an open
 
 ## Where its coverage is strongest
 
-Peer production and open cooperativism. The wiki carries the fullest available treatment of open cooperativism as a form, including case studies (Enspiral, Sensorica, Mondragon, and dozens more), the theoretical work distinguishing it from conventional cooperatives, and the policy proposals that follow. BioConomy work on [[glossary/federated-cooperative|federated cooperatives]] should read from and cite this material.
+Peer production and open cooperativism. The wiki carries the fullest available treatment of open cooperativism as a form, including case studies (Enspiral, Sensorica, Mondragon, and dozens more), the theoretical work distinguishing it from conventional cooperatives, and the policy proposals that follow. BioConomy work on [[federated-cooperative|federated cooperatives]] should read from and cite this material.
 
-Cosmolocalism. Bauwens's [[glossary/cosmo-local-production|cosmo-local production]] framework has its most extensive documentation on this wiki, including its intellectual history, its case examples, and its relation to Fab Labs, distributed manufacturing, and digital commons.
+Cosmolocalism. Bauwens's [[content/glossary/a-e/cosmo-local-production|cosmo-local production]] framework has its most extensive documentation on this wiki, including its intellectual history, its case examples, and its relation to Fab Labs, distributed manufacturing, and digital commons.
 
 Commons governance. Extensive treatment of Ostrom's work, the enclosure history, commons-based peer production, and contemporary commons movements. Where the BioConomy corpus treats commons as an operating principle for a BioConomy, this wiki treats commons as a general political-economic form.
 
@@ -33,14 +33,14 @@ Peer property and legal architecture. Copyfarleft, the peer-production license, 
 
 ## Traffic between the wikis
 
-BioConomy pages that already draw on the P2P Foundation corpus include the [[concepts/mycelial-coordination|Mycelial Coordination]] concept page (which cites Bauwens's August 2026 P4P essay), the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] entry, the [[glossary/cosmo-local-production|cosmo-local production]] glossary entry, and the [[bauwens-michel|Michel Bauwens]] person page.
+BioConomy pages that already draw on the P2P Foundation corpus include the [[concepts/mycelial-coordination|Mycelial Coordination]] concept page (which cites Bauwens's August 2026 P4P essay), the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] entry, the [[content/glossary/a-e/cosmo-local-production|cosmo-local production]] glossary entry, and the [[bauwens-michel|Michel Bauwens]] person page.
 
-BioConomy pages that should probably grow explicit links to the P2P Foundation Wiki include [[glossary/federated-cooperative|federated cooperative]], [[glossary/commons|commons]], and any future entries on open value accounting or contributive accounting.
+BioConomy pages that should probably grow explicit links to the P2P Foundation Wiki include [[federated-cooperative|federated cooperative]], [[commons|commons]], and any future entries on open value accounting or contributive accounting.
 
 ## Related pages
 
 - [[bauwens-michel|Michel Bauwens]]
-- [[glossary/cosmo-local-production|Cosmo-local Production]]
+- [[content/glossary/a-e/cosmo-local-production|Cosmo-local Production]]
 - [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
 - Bauwens, M. (2026). *[[sources/bauwens-peer-for-peer|Understanding the Importance of the P4P Moment]]*
@@ -48,3 +48,33 @@ BioConomy pages that should probably grow explicit links to the P2P Foundation W
 ## Provenance
 
 Entry created 4 September 2026 as one of the two founding entries of the `related-wikis/` folder. Substantive detail on the wiki's editorial approach and content areas verified against the wiki's current main page on the same date.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/wiki-related/p2p-foundation-wiki/",
+  "name": "P2P Foundation Wiki",
+  "description": "The knowledge commons of the Foundation for Peer-to-Peer Alternatives, documenting peer production, open cooperativism, and commons-based governance across two decades of movement work.",
+  "datePublished": "2026-09-04",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": {
+    "@type": "WebSite",
+    "name": "P2P Foundation Wiki",
+    "url": "https://wiki.p2pfoundation.net/index.php/Main_Page",
+    "maintainer": {
+      "@type": "Organization",
+      "name": "Foundation for Peer-to-Peer Alternatives"
+    }
+  },
+  "keywords": [
+    "related-wiki",
+    "peer-production",
+    "commons",
+    "cosmolocalism"
+  ]
+}
+</script>

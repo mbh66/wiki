@@ -45,3 +45,47 @@ BioConomy pages that should probably grow explicit links to BioHubs.earth includ
 ## Provenance
 
 Entry created 4 September 2026 as part of the `related-wikis/` buildout. Substantive detail on the site's structure, operators, and content areas verified against the site's current main page on the same date.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/wiki-related/biohubs-earth/",
+  "name": "BioHubs.earth",
+  "description": "A collaborative research publication and interactive directory documenting 152 place-based regeneration initiatives across 44 countries.",
+  "datePublished": "2026-09-04",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": {
+    "@type": "WebSite",
+    "name": "BioHubs.earth",
+    "url": "https://biohubs.earth",
+    "maintainer": [
+      {
+        "@type": "Organization",
+        "name": "Metabolic"
+      },
+      {
+        "@type": "Organization",
+        "name": "Anura Capital"
+      },
+      {
+        "@type": "Organization",
+        "name": "Artistree"
+      },
+      {
+        "@type": "Organization",
+        "name": "Basin Collective"
+      }
+    ]
+  },
+  "keywords": [
+    "related-wiki",
+    "biohub",
+    "bioregion",
+    "regenerative"
+  ]
+}
+</script>

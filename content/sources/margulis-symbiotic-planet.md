@@ -24,7 +24,7 @@ Accessible synthesis of Lynn Margulis's endosymbiotic thesis and its implication
 
 - [[frameworks/three-futures|The Three Futures]]
 - [[frameworks/mycelial-value-creation|Mycelial Value Creation]]
-- [[mycelial-consciousness|Mycelial Consciousness]]
+- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[margulis-lynn|Lynn Margulis]]
 - [[sahtouris-elisabet|Elisabet Sahtouris]]

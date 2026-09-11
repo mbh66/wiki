@@ -48,3 +48,29 @@ Michael Haupt, Coordinator. Contact protocols published on the wiki's own coordi
 ## Provenance
 
 Entry created 4 September 2026 as the first BioHub wiki listed in the network folder. Content drawn from the Valley of Grace BioHub's coordination surface at `https://at12-vog.bioconomy.earth/coordination-surface` as published on the same date. The BioHub coordinator is invited to open a pull request when the coordination surface changes and this entry needs to be refreshed.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/wiki-network/at12-vog/",
+  "name": "Valley of Grace BioHub",
+  "description": "Wiki network entry for the Valley of Grace BioHub, operating in the Riviersonderend corridor of the Overberg region within the South African Cape Shrublands.",
+  "datePublished": "2026-09-04",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": {
+    "@type": "WebSite",
+    "name": "Valley of Grace BioHub Wiki",
+    "url": "https://at12-vog.bioconomy.earth"
+  },
+  "keywords": [
+    "wiki-network",
+    "biohub",
+    "overberg",
+    "cape-shrublands"
+  ]
+}
+</script>

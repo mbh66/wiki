@@ -17,8 +17,8 @@ epistemic_status: documented-framework
 This wiki documents the [[bioconomy|BioConomy]] framework: a coordination architecture for economies organized around [[bioregion|BioRegions]]. 
 
 Society organizes itself in four fundamental forms: **Tribes (T)**, **Institutions (I)**, **Markets (M)**, and **Emergent (E)**. 
-- Under the [[glossary/m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
-- Under the [[glossary/e-form-emergent|Emergent form]], E-form actors ([[glossary/biohub|BioHubs]], cooperatives, and the coordination nodes they organize) relate to those same Institutions and Markets as **providers**, supplying the substrate outcomes those Institutions and Markets need and cannot produce internally.
+- Under the [[m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
+- Under the [[e-form-emergent|Emergent form]], E-form actors ([[biohub|BioHubs]], cooperatives, and the coordination nodes they organize) relate to those same Institutions and Markets as **providers**, supplying the substrate outcomes those Institutions and Markets need and cannot produce internally.
 
 This wiki exists to help those navigating the liminal space between the Market and Emergent forms.
 
@@ -39,7 +39,7 @@ If you're new to the bioregional [[regenerative]] movement, read these orientati
 
 The wiki is written to be read by humans and by AI systems. Commercial large language models have absorbed only fragments of the BioConomy corpus during their general training; the coherent body of work sits here and is easily accessible for both machines and humans. We explain this in [[carbon-silicon-partnership|Carbon-Silicon Partnership]].
 
-[[essays/ai-quick-engage|AI Quick-Engage]] gives four prompts to copy into any deep-research AI platform alongside your own project documents. The prompts diagnose where your bioregion still runs on the [[economy|Economy]] and identify the shortest paths to funding [[glossary/retention-economics|retention]] work.
+[[essays/ai-quick-engage|AI Quick-Engage]] gives four prompts to copy into any deep-research AI platform alongside your own project documents. The prompts diagnose where your bioregion still runs on the [[economy|Economy]] and identify the shortest paths to funding [[retention-economics|retention]] work.
 
 Alternatively, simply point your AI chatbot at https://wiki.bioconomy.earth/llms.txt and ask any question you'd like.
 
@@ -51,21 +51,56 @@ If you're already familiar with this vocabulary and want to apply the BioConomy 
 
 The navigation on your left allows you to jump directly into whatever area of interest you have. The table below gives an overview of what to expect in each section, and each folder name links to its landing page.
 
-| Folder                                         | Contents                                                                                                                                                                                                             |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[[glossary/index\|Glossary]]**               | Short definitions of the specialized vocabulary used across this wiki, from coined terms to borrowed frameworks.                                                                                                     |
-| **[[concepts/index\|Concepts]]**               | The core ideas that organize the BioConomy thesis, each treated at enough depth to stand on its own.                                                                                                                 |
-| **[[frameworks/index\|Frameworks]]**           | Named analytical structures that give the concepts their working shape, with all the relevant supporting research.                                                                                                   |
-| **[[research/index\|Research]]**               | BioConomy Research Briefs on specific questions, from water governance to protective illiquidity, grounded in evidence and source material.                                                                          |
-| **[[essays/index\|Essays]]**                   | Longer-form arguments and published pieces that develop the BioConomy position for a general audience.                                                                                                               |
-| **[[content/sources/index\|Sources]]**         | The books, papers, and external works cited across the wiki, each with a short note on what the work argues and why it matters here.                                                                                 |
-| **[[content/funding/index\|Funding Sources]]** | Instead of a traditional grant database, this page lists organizations, programs, and funds whose grant-making or investment mandates overlap with the BioConomy's coordination architecture.                        |
-| **[[people/index\|People]]**                   | The thinkers, practitioners, and collaborators whose work feeds the BioConomy corpus.                                                                                                                                |
-| **[[templates/index\|Templates]]**             | The four-template founding suite for a BioHub cohort. Each template is a three-prompt sequence run with a deep research AI platform, with cohort review between prompts.                                             |
-| **[[tools/index\|Tools]]**                     |                                                                                                                                                                                                                      |
-| **[[wiki-network/index\|Wiki Network]]**       | Peer BioHub wikis that publish the coordination-surface layout convention and are readable by the stigmergic coordination pattern the corpus describes. The starting point for reading the network (still emerging). |
-| **[[wiki-related/index\|Related Wikis]]**      | Open knowledge commons whose scope overlaps the BioConomy corpus.                                                                                                                                                    |
+| Folder                                    | Contents                                                                                                                                                                                                             |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[content/glossary/index\|Glossary]]**          | Short definitions of the specialized vocabulary used across this wiki, from coined terms to borrowed frameworks.                                                                                                     |
+| **[[concepts/index\|Concepts]]**          | The core ideas that organize the BioConomy thesis, each treated at enough depth to stand on its own.                                                                                                                 |
+| **[[frameworks/index\|Frameworks]]**      | Named analytical structures that give the concepts their working shape, with all the relevant supporting research.                                                                                                   |
+| **[[research/index\|Research]]**          | BioConomy Research Briefs on specific questions, from water governance to protective illiquidity, grounded in evidence and source material.                                                                          |
+| **[[essays/index\|Essays]]**              | Longer-form arguments and published pieces that develop the BioConomy position for a general audience.                                                                                                               |
+| **[[sources/index\|Sources]]**            | The books, papers, and external works cited across the wiki, each with a short note on what the work argues and why it matters here.                                                                                 |
+| **[[funding/index\|Funding Sources]]**    | Instead of a traditional grant database, this page lists organizations, programs, and funds whose grant-making or investment mandates overlap with the BioConomy's coordination architecture.                        |
+| **[[people/index\|People]]**              | The thinkers, practitioners, and collaborators whose work feeds the BioConomy corpus.                                                                                                                                |
+| **[[templates/index\|Templates]]**        | The four-template founding suite for a BioHub cohort. Each template is a three-prompt sequence run with a deep research AI platform, with cohort review between prompts.                                             |
+| **[[tools/index\|Tools]]**                |                                                                                                                                                                                                                      |
+| **[[wiki-network/index\|Wiki Network]]**  | Peer BioHub wikis that publish the coordination-surface layout convention and are readable by the stigmergic coordination pattern the corpus describes. The starting point for reading the network (still emerging). |
+| **[[wiki-related/index\|Related Wikis]]** | Open knowledge commons whose scope overlaps the BioConomy corpus.                                                                                                                                                    |
 
 ## Provenance
 
 Written 24 August 2026 as the wiki's landing page. Updated 8 September 2026 to add Funding Sources. Updated 27 August 2026 to add the three-way engagement structure (Orientation, AI Quick-Engage, AI Deep Dive), to replace the AI Quick-engage paragraph with a pointer to the new [[essays/ai-quick-engage|AI Quick-Engage]] essay, to add the fourth orientation essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]], to link each folder name in the wiki-structure table to its newly-created landing page, and to add frontmatter properties and this Provenance section.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/engage/",
+  "name": "How to Navigate the BioConomy Wiki",
+  "description": "The BioConomy wiki's landing page, documenting three engagement paths: orientation essays, AI quick-engage prompts, and the four-template founding suite for bioregional coordinators.",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-08-24",
+  "dateModified": "2026-08-27",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": [
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/bioconomy/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/biohub/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/bioregion/"
+    }
+  ],
+  "keywords": [
+    "landing",
+    "orientation"
+  ]
+}
+</script>

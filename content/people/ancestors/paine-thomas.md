@@ -32,7 +32,7 @@ This makes Paine a double witness. He demonstrates how a collective coordination
 
 Paine's position on the [[s-curve|S-curve]] is the base of the acceleration phase, the same position as [[hamilton-alexander|Hamilton]]. The difference is that Hamilton was building the economic infrastructure for the steep part (tariffs, national bank, domestic manufacturing) while Paine was building the political story that legitimated the institutional form within which that infrastructure would operate. Republican self-governance, popular sovereignty, the social contract funded by taxation: these are the +[[i-form-institutional|I-form]] coordination stories that the +[[m-form-market|M-form]] economy of the acceleration phase required. The market needed a state. The state needed a legitimacy story. Paine wrote the story.
 
-Paine's later career illustrates the limits of the story he built. _The Age of Reason_ (1794) attacked organized religion and cost him most of his popular support. He returned to America in 1802 and died in poverty in 1809, with only six mourners at his funeral. The coordination story he had built for the republic did not require its author. This is consistent with the [[glossary/substrate-hypothesis|Substrate Hypothesis]]: once a portable coordination story is embedded in the institutional substrate (the Constitution, the Bill of Rights, the fiscal architecture), it survives the withdrawal of its founder. Paine's story outlived Paine by the same mechanism that Benedict's Rule outlived Benedict.
+Paine's later career illustrates the limits of the story he built. _The Age of Reason_ (1794) attacked organized religion and cost him most of his popular support. He returned to America in 1802 and died in poverty in 1809, with only six mourners at his funeral. The coordination story he had built for the republic did not require its author. This is consistent with the [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]: once a portable coordination story is embedded in the institutional substrate (the Constitution, the Bill of Rights, the fiscal architecture), it survives the withdrawal of its founder. Paine's story outlived Paine by the same mechanism that Benedict's Rule outlived Benedict.
 
 ## Related pages
 
@@ -41,7 +41,7 @@ Paine's later career illustrates the limits of the story he built. _The Age of R
 - [[mill-john-stuart|John Stuart Mill]]
 - [[lincoln-abraham|Abraham Lincoln]]
 - [[throughput-economics|Throughput Economics]]
-- [[glossary/substrate-hypothesis|Substrate Hypothesis]]
+- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]

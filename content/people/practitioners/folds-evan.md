@@ -20,9 +20,9 @@ American living soil agronomist, ecological entrepreneur, and regenerative busin
 
 ## Contribution
 
-Folds works from the premise that disconnection from living soil is at the root of many systemic challenges. His consulting practice centers on what he calls "Personal Agriculture": developing healthy relationships with soil ecosystems rather than managing inputs. The approach draws on biodynamic agriculture, [[glossary/permaculture|permaculture]] design, soil food web science, composting, agroforestry, and aquaponics.
+Folds works from the premise that disconnection from living soil is at the root of many systemic challenges. His consulting practice centers on what he calls "Personal Agriculture": developing healthy relationships with soil ecosystems rather than managing inputs. The approach draws on biodynamic agriculture, [[permaculture|permaculture]] design, soil food web science, composting, agroforestry, and aquaponics.
 
-He also holds roles as President of Progressive Farms and Supervisor with the New Hanover County Soil and Water Conservation District in North Carolina. He has been involved in bioregional initiatives through Project Biome and introduced connections to [[glossary/regenerative-economics|regenerative]] practitioners including Janet Manoni and Sebastian Bilbao, both working in Anthroposophical traditions.
+He also holds roles as President of Progressive Farms and Supervisor with the New Hanover County Soil and Water Conservation District in North Carolina. He has been involved in bioregional initiatives through Project Biome and introduced connections to [[regenerative-economics|regenerative]] practitioners including Janet Manoni and Sebastian Bilbao, both working in Anthroposophical traditions.
 
 Folds describes himself as a "spiritual scientist" and "ecological entrepreneur," combining scientific soil analysis (trace elements, comprehensive mineral nutrition beyond NPK) with a holistic perspective on agricultural systems as living wholes.
 
@@ -34,10 +34,10 @@ Folds describes himself as a "spiritual scientist" and "ecological entrepreneur,
 
 ## Related pages
 
-- [[glossary/permaculture|Permaculture]]
-- [[glossary/regenerative|Regenerative]]
-- [[glossary/soil-carbon-sponge|Soil Carbon Sponge]]
-- [[glossary/ecological-science|Ecological Science]]
+- [[permaculture|Permaculture]]
+- [[regenerative|Regenerative]]
+- [[soil-carbon-sponge|Soil Carbon Sponge]]
+- [[ecological-science|Ecological Science]]
 
 ## Provenance
 

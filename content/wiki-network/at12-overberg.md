@@ -48,3 +48,29 @@ Contact protocols published on individual BioHub coordination surfaces rather th
 ## Provenance
 
 Entry created 4 September 2026 as the second BioHub wiki listed in the network folder. Content drawn from the Overberg BioRegion's coordination surface at `https://at12-overberg.bioconomy.earth/coordination-surface` as published on the same date. The region's coordinator is invited to open a pull request when the coordination surface changes and this entry needs to be refreshed.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/wiki-network/at12-overberg/",
+  "name": "Overberg BioRegion",
+  "description": "Wiki network entry for the Overberg BioRegion, the regional coordinating entity for BioHubs operating inside the below-dam Riviersonderend corridor of the South African Cape Shrublands.",
+  "datePublished": "2026-09-04",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": {
+    "@type": "WebSite",
+    "name": "Overberg BioRegion Wiki",
+    "url": "https://at12-overberg.bioconomy.earth"
+  },
+  "keywords": [
+    "wiki-network",
+    "bioregion",
+    "overberg",
+    "cape-shrublands"
+  ]
+}
+</script>

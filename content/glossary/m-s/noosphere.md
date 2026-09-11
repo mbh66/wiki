@@ -1,0 +1,57 @@
+---
+title: "Noosphere"
+aliases: ["noosphere", "sphere of thought", "sphere of human thought"]
+tags: ["glossary"]
+term_type: "borrowed-technical"
+first_defined_in: ""
+related_terms: ["geosphere", "biosphere", "mycelial-consciousness", "material-consciousness", "carbon-silicon-partnership", "coordination-node"]
+source_project: "BioConomy"
+created: 2026-08-30
+updated: 2026-08-30
+epistemic_status: "documented-framework"
+---
+
+
+The global layer of human thought, consciousness, and collective intelligence. Vladimir Vernadsky argued in 1926 that human thought had become a literal geological force, capable of reshaping the physical planet. Pierre Teilhard de Chardin, working independently, described the Noosphere as an evolutionary canopy of collective consciousness wrapping around the Earth. In the BioConomy corpus, the Noosphere's relationship to the [[geosphere|Geosphere]] is consciousness-dependent: under [[material-consciousness|Material Consciousness]] it extracts from the physical Earth; under [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] it participates in the Earth's regeneration. The [[biohub|BioHub]] wiki is the mechanism by which local Noospheric coordination (governance, monitoring, service readiness, policy alignment) becomes structured and publishable across a [[bioregion|BioRegion]]. The [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]] names the two forms of intelligence (Carbon and Silicon) that constitute the Noosphere's operational infrastructure in bioregional work.
+
+## Related terms
+
+- [[geosphere|Geosphere]]
+- [[biosphere|Biosphere]]
+- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[material-consciousness|Material Consciousness]]
+- [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
+- [[coordination-node|Coordination Node]]
+- [[concepts/mycelial-coordination|Mycelial Coordination]]
+- [[essays/from-geosphere-to-noosphere|From Geosphere to Noosphere]]
+
+## Sources and associated figures
+
+- Vernadsky, V.I. (1926). *The Biosphere*. Translated by D.B. Langmuir. Copernicus, 1998.
+- Teilhard de Chardin, P. (1955). *The Phenomenon of Man*. Translated by B. Wall. Harper, 1959.
+
+## Provenance
+
+Created 30 August 2026 as a glossary companion to the essay *From Geosphere to Noosphere*. Both terms are standard in their respective traditions; their integration with the BioConomy corpus's developmental and coordination frameworks is original to this wiki.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://wiki.bioconomy.earth/glossary/noosphere/",
+  "name": "Noosphere",
+  "description": "The global layer of human thought, consciousness, and collective intelligence. Vladimir Vernadsky argued in 1926 that human thought had become a literal geological force, capable of reshaping the physical planet. Pierre Teilhard de Chardin, working independently, described the Noosphere as an evolutionary canopy of collective consciousness wrapping around the Earth. In the BioConomy corpus, the Noosphere's relationship to the Geosphere is consciousness-dependent: under Material Consciousness it extracts from the physical Earth; under Mycelial Consciousness it participates in the Earth's regeneration. The BioHub wiki is the mechanism by which local Noospheric coordination (governance, monitoring, service readiness, policy alignment) becomes structured and publishable across a BioRegion. The Carbon-Silicon Partnership names the two forms of intelligence (Carbon and Silicon) that constitute the Noosphere's operational infrastructure in bioregional work.",
+  "termCode": "noosphere",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://wiki.bioconomy.earth/glossary/#termset",
+    "name": "BioConomy Glossary"
+  },
+  "url": "https://wiki.bioconomy.earth/glossary/noosphere/",
+  "alternateName": [
+    "noosphere",
+    "sphere of thought",
+    "sphere of human thought"
+  ]
+}
+</script>

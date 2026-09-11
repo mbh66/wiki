@@ -15,11 +15,11 @@ source_documents:
 epistemic_status: "documented-fact"
 ---
 
-American nature finance specialist and ecological economist. Founder and Principal Consultant of Finance for Gaia, based in Oakland, California. Lead architect (with [[seefeld-leon|Leon Seefeld]] and colleagues at Dark Matter Labs and the Buckminster Fuller Institute) of the [[glossary/bioregional-financing-facility-bff|Bioregional Financing Facilities]] framework.
+American nature finance specialist and ecological economist. Founder and Principal Consultant of Finance for Gaia, based in Oakland, California. Lead architect (with [[seefeld-leon|Leon Seefeld]] and colleagues at Dark Matter Labs and the Buckminster Fuller Institute) of the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] framework.
 
 ## Contribution
 
-In June 2024, Power launched [[glossary/bioregional-financing-facility-bff|BFF]] (Bioregional Financing Facilities), a framework for channeling finance into bioregional-scale ecological restoration and regenerative development. The BFF architecture addresses a structural gap in conservation and regenerative finance: existing mechanisms operate either at project scale (too small to shift systems) or at global scale (too abstract to reach specific landscapes). BFF operates at the bioregional scale, matching financial instruments to the ecological and social realities of specific watersheds and landscapes.
+In June 2024, Power launched [[bioregional-financing-facility-bff|BFF]] (Bioregional Financing Facilities), a framework for channeling finance into bioregional-scale ecological restoration and regenerative development. The BFF architecture addresses a structural gap in conservation and regenerative finance: existing mechanisms operate either at project scale (too small to shift systems) or at global scale (too abstract to reach specific landscapes). BFF operates at the bioregional scale, matching financial instruments to the ecological and social realities of specific watersheds and landscapes.
 
 Power's background spans the World Bank, Johns Hopkins SAIS, and extensive field experience in Southeast Asia, giving her work a grounding in both institutional finance and on-the-ground ecological economics.
 
@@ -30,12 +30,12 @@ Power's background spans the World Bank, Johns Hopkins SAIS, and extensive field
 ## Related pages
 
 - [[seefeld-leon|Leon Seefeld]]
-- [[glossary/bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Finance for Gaia, BFF launch, digital library PDF added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, Finance for Gaia, BFF launch, digital library PDF added.
 
 <script type="application/ld+json">
 {

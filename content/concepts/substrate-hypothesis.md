@@ -79,11 +79,11 @@ The hypothesis does not claim that substrate change is sufficient for civilizati
 - [[consciousness-and-value-creation|Consciousness and Value Creation]]. The complementary claim about what determines the quality of value creation within a given substrate.
 - [[the-coercion-continuum|The Coercion Continuum]]. The normative assessment the hypothesis itself does not supply.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. How legitimating stories sit on top of substrate structures.
-- [[structural-prematurity|Structural Prematurity]]. Why correct structural insights fail to gain traction when the substrate selects against them.
-- [[mycelial-coordination|Mycelial Coordination]]. The coordination form the BioConomy substrate is designed to produce.
+- [[content/concepts/structural-prematurity|Structural Prematurity]]. Why correct structural insights fail to gain traction when the substrate selects against them.
+- [[content/concepts/mycelial-coordination|Mycelial Coordination]]. The coordination form the BioConomy substrate is designed to produce.
 - [[retention-logic|Retention Logic]]. The behavioral pattern the BioConomy substrate is designed to make cheap.
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]. The paradigm-level substrate intervention the wiki proposes.
-- [[glossary/substrate-hypothesis|Glossary entry]]. The short definition.
+- [[content/glossary/m-s/substrate-hypothesis|Glossary entry]]. The short definition.
 
 ## Sources
 
@@ -94,7 +94,7 @@ The hypothesis does not claim that substrate change is sufficient for civilizati
 
 ## Provenance
 
-Written 10 September 2026 as the concept-level treatment of the Substrate Hypothesis. The hypothesis is the author's original synthesis of the M.G. Taylor Corporation workshop methodology and Elisabet Sahtouris's evolutionary biology; the convergence with Meadows's systems science and Zimbardo's social psychology is documented in the wiki's related concept pages. The glossary entry at [[glossary/substrate-hypothesis]] carries the short definition. The individual source traditions are credited as inputs; the integration across them is the author's contribution.
+Written 10 September 2026 as the concept-level treatment of the Substrate Hypothesis. The hypothesis is the author's original synthesis of the M.G. Taylor Corporation workshop methodology and Elisabet Sahtouris's evolutionary biology; the convergence with Meadows's systems science and Zimbardo's social psychology is documented in the wiki's related concept pages. The glossary entry at [[content/glossary/m-s/substrate-hypothesis]] carries the short definition. The individual source traditions are credited as inputs; the integration across them is the author's contribution.
 
 <script type="application/ld+json">
 {

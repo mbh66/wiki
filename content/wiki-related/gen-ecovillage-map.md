@@ -32,23 +32,54 @@ Europe and the Americas carry the densest listing concentrations, reflecting GEN
 
 ## Traffic between the map and BioConomy
 
-The GEN map and the BioConomy wiki address overlapping but distinct coordination questions. The ecovillage movement organizes at the scale of the intentional community: a group of people who have chosen to live together on shared or adjacent land under a shared governance framework. The BioConomy organizes at the scale of the [[glossary/bioregion|bioregion]]: a geography defined by watershed, soil, and ecology. An ecovillage is typically one community within a bioregion, not a coordination node for the bioregion as a whole.
+The GEN map and the BioConomy wiki address overlapping but distinct coordination questions. The ecovillage movement organizes at the scale of the intentional community: a group of people who have chosen to live together on shared or adjacent land under a shared governance framework. The BioConomy organizes at the scale of the [[bioregion|bioregion]]: a geography defined by watershed, soil, and ecology. An ecovillage is typically one community within a bioregion, not a coordination node for the bioregion as a whole.
 
-The overlap is in the ecological factory. Many communities on the GEN map are operating what the BioConomy corpus calls the [[glossary/factory-ecological|ecological factory]]: restoring watersheds, building soil, managing fire regimes, producing food, tending biodiversity. They do this work at community scale. The [[glossary/biohub|BioHub]] aggregates this work at landscape scale and tenders it to downstream counterparties through [[glossary/commitment-pool|commitment pools]] and [[glossary/tender-compact|tender compacts]]. The GEN map is a directory of potential BioHub cohort members: communities whose existing regenerative practice could, if coordinated at bioregional scale, become a tenderable ecological service.
+The overlap is in the ecological factory. Many communities on the GEN map are operating what the BioConomy corpus calls the [[factory-ecological|ecological factory]]: restoring watersheds, building soil, managing fire regimes, producing food, tending biodiversity. They do this work at community scale. The [[biohub|BioHub]] aggregates this work at landscape scale and tenders it to downstream counterparties through [[commitment-pool|commitment pools]] and [[tender-compact|tender compacts]]. The GEN map is a directory of potential BioHub cohort members: communities whose existing regenerative practice could, if coordinated at bioregional scale, become a tenderable ecological service.
 
-BioConomy pages where the GEN map is relevant include [[concepts/cosmo-local-production|Cosmo-Local Production]] (many GEN-listed communities operate on cosmo-local principles), [[glossary/federated-cooperative|federated cooperatives]] (GEN's regional bodies are themselves a federation model), and [[concepts/two-factories|The Two Factories]] (the ecovillage movement is one of the clearest existing expressions of the ecological factory being operated by people who understand themselves as producers).
+BioConomy pages where the GEN map is relevant include [[concepts/cosmo-local-production|Cosmo-Local Production]] (many GEN-listed communities operate on cosmo-local principles), [[federated-cooperative|federated cooperatives]] (GEN's regional bodies are themselves a federation model), and [[concepts/two-factories|The Two Factories]] (the ecovillage movement is one of the clearest existing expressions of the ecological factory being operated by people who understand themselves as producers).
 
 ## Related pages
 
 - [[concepts/two-factories|The Two Factories]]
-- [[glossary/factory-ecological|Factory, Ecological]]
-- [[glossary/biohub|BioHub]]
-- [[glossary/bioregion|BioRegion]]
+- [[factory-ecological|Factory, Ecological]]
+- [[biohub|BioHub]]
+- [[bioregion|BioRegion]]
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
-- [[glossary/federated-cooperative|Federated Cooperative]]
+- [[federated-cooperative|Federated Cooperative]]
 - [[bauwens-michel|Michel Bauwens]]
 - [[p2p-foundation-wiki|P2P Foundation Wiki]]
 
 ## Provenance
 
 Entry created 9 September 2026. Directory statistics and listing categories verified against the live map on the same date. The connection to the BioConomy corpus's two-factory frame and the observation about ecovillages as potential BioHub cohort members are the author's structural inferences.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/wiki-related/gen-ecovillage-map/",
+  "name": "Global Ecovillage Network Map",
+  "description": "The Global Ecovillage Network's interactive directory of over 3,100 communities, organizations, and individuals aligned with regenerative living practices.",
+  "datePublished": "2026-09-09",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": {
+    "@type": "WebSite",
+    "name": "Global Ecovillage Network Map",
+    "url": "https://ecovillage.org/map/",
+    "maintainer": {
+      "@type": "Organization",
+      "name": "Global Ecovillage Network"
+    }
+  },
+  "keywords": [
+    "related-wiki",
+    "ecovillage",
+    "bioregional",
+    "community",
+    "directory"
+  ]
+}
+</script>

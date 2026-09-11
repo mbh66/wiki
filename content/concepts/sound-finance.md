@@ -31,7 +31,7 @@ The populations subjected to the hut tax understood what it was. The Hut Tax War
 
 The hut tax operated through visible coercion: a colonial officer arriving at a homestead with an armed escort to collect a payment in a currency the household did not use and could only acquire by working in the colonizer's mines or on the colonizer's railways. The mechanism was effective but expensive to administer because it required ongoing enforcement against a population that experienced it as alien imposition.
 
-[[content/glossary/sound-finance|Sound Finance]] solved the administrative problem by installing the same mechanism inside a legitimating story. The story ran: the government is like a household. It earns before it spends. Taxes fund expenditure. Deficits are borrowings that future generations must repay. The story was carried by [[smith-adam|Adam Smith]]'s framing of public finance in *The Wealth of Nations* (1776), codified in Ricardian equivalence, elaborated in Gladstone's fiscal reforms of the 1850s through 1890s, and entrenched across the political spectrum by the twentieth century.
+[[content/glossary/m-s/sound-finance|Sound Finance]] solved the administrative problem by installing the same mechanism inside a legitimating story. The story ran: the government is like a household. It earns before it spends. Taxes fund expenditure. Deficits are borrowings that future generations must repay. The story was carried by [[smith-adam|Adam Smith]]'s framing of public finance in *The Wealth of Nations* (1776), codified in Ricardian equivalence, elaborated in Gladstone's fiscal reforms of the 1850s through 1890s, and entrenched across the political spectrum by the twentieth century.
 
 The story was operationally false. The government that issues its own currency does not need to collect revenue before spending, any more than the colonial administration needed to collect hut taxes before printing colonial currency. The state spends first and taxes afterward. Georg Friedrich Knapp saw this in 1905. Alfred Mitchell-Innes saw it in 1914, writing that "the redemption of government debt by taxation is the basic law of coinage." Keynes saw it in his 1930 *Treatise on Money*, where he credited both Knapp and Innes. Abba Lerner saw it in 1943, when he named [[functional-finance|functional finance]] as the alternative to what he called, precisely, "sound finance." Hyman Minsky saw it in 1986, writing that "taxes give value to the money issued by government." L. Randall Wray, Warren Mosler, Stephanie Kelton, and Bill Mitchell built [[modern-monetary-theory|Modern Monetary Theory]] on the accumulated corrections.
 
@@ -51,11 +51,11 @@ It constrained redistribution. By making every public expenditure appear to come
 
 ## Sound finance as substrate, not belief
 
-The [[substrate-hypothesis|Substrate Hypothesis]] holds that coordination is a property of substrate, not of participant disposition. Sound finance illustrates the claim. Barnes and Hicks's 2022 experimental work in the *British Journal of Political Science* found that the household-budget analogy is invoked ex post to justify austerity preferences already held, with no evidence that the analogy causes those preferences. Participants recruited the story to explain what the substrate had already compelled them to do.
+The [[content/concepts/substrate-hypothesis|Substrate Hypothesis]] holds that coordination is a property of substrate, not of participant disposition. Sound finance illustrates the claim. Barnes and Hicks's 2022 experimental work in the *British Journal of Political Science* found that the household-budget analogy is invoked ex post to justify austerity preferences already held, with no evidence that the analogy causes those preferences. Participants recruited the story to explain what the substrate had already compelled them to do.
 
 The finding separates two layers that sound finance fused. The substrate layer is the tax obligation itself: a demand driver that forces currency acquisition and creates what Mosler and Wray call unemployment in the technical sense, a population that must seek paid work denominated in the state's unit to discharge the obligation. The story layer is the balanced-budget doctrine: a legitimating narrative that makes the substrate's coercion legible as civic responsibility. Correcting the story, as [[kelton-stephanie|Kelton]]'s *The Deficit Myth* did for millions of readers, does not change the substrate. The tax obligation continues to force currency demand whether or not any participant believes the household analogy.
 
-This is why Lerner could decode sound finance's operational falsity in 1943 without dislodging it. The decoding operated at the story layer. The substrate carried on. See [[consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]] for the general pattern, and [[structural-prematurity|Structural Prematurity]] for the specific case of functional finance as an inflection-point insight that waited eighty years for political conditions.
+This is why Lerner could decode sound finance's operational falsity in 1943 without dislodging it. The decoding operated at the story layer. The substrate carried on. See [[consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]] for the general pattern, and [[content/concepts/structural-prematurity|Structural Prematurity]] for the specific case of functional finance as an inflection-point insight that waited eighty years for political conditions.
 
 ## The developmental arc
 
@@ -79,13 +79,13 @@ The difference is the story on top. The hut tax carried no story. Sound finance 
 
 ## Implications for the BioConomy
 
-Any alternative monetary substrate the [[glossary/bioconomy|BioConomy]] proposes faces the same structural question the hut tax answered by force: what compels primary demand for the unit of account? [[demurrage|Demurrage]] solves circulation velocity (holding the unit becomes costly, so it moves) but does not solve first acquisition (no one is compelled to acquire the unit in the first place). The Wörgl stamp scrip of 1932 circulated fourteen times faster than the national schilling because it carried demurrage. It was acquired because the municipality accepted it for local taxes and paid municipal workers in it. The tax obligation was still the demand driver; demurrage was the velocity driver. Separating the two is a substrate-engineering requirement.
+Any alternative monetary substrate the [[bioconomy|BioConomy]] proposes faces the same structural question the hut tax answered by force: what compels primary demand for the unit of account? [[demurrage|Demurrage]] solves circulation velocity (holding the unit becomes costly, so it moves) but does not solve first acquisition (no one is compelled to acquire the unit in the first place). The Wörgl stamp scrip of 1932 circulated fourteen times faster than the national schilling because it carried demurrage. It was acquired because the municipality accepted it for local taxes and paid municipal workers in it. The tax obligation was still the demand driver; demurrage was the velocity driver. Separating the two is a substrate-engineering requirement.
 
 The design question for a bioregional currency is whether the demand driver can be something other than a tax obligation enforced by state coercion. [[commitment-pooling|Commitment pooling]], access to commons resources gated by participation in the bioregional unit, and [[regenerative-participation-income-rpi|RPI]] (Regenerative Participation Income) denominated in a bioregional unit are candidate mechanisms. Each must be assessed against the benchmark the hut tax set: does the mechanism make acquisition of the unit the [[cheapest-available-behavior|cheapest available behavior]] for the target population? If it does not, the unit circulates among the already-committed and fails to achieve population-scale coordination. This is the open substrate-engineering question the wiki's monetary-substrate work returns to across multiple entries.
 
 ## See also
 
-- [[substrate-hypothesis|Substrate Hypothesis]]. Sound finance as a substrate compliance mechanism.
+- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]. Sound finance as a substrate compliance mechanism.
 - [[cheapest-available-behavior|The Cheapest Available Behavior Thesis]]. What the tax obligation makes cheap.
 - [[coercion-continuum|The Coercion Continuum]]. The twelve-thousand-year lineage the hut tax sits inside.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
@@ -93,7 +93,7 @@ The design question for a bioregional currency is whether the demand driver can 
 - [[modern-monetary-theory|Modern Monetary Theory]]. The tradition that decoded the mechanism.
 - [[functional-finance|Functional Finance]]. Lerner's named alternative.
 - [[metallism|Metallism]]. The compatible doctrine on money's nature.
-- [[structural-prematurity|Structural Prematurity]]. Functional finance as an inflection-point insight that waited eighty years.
+- [[content/concepts/structural-prematurity|Structural Prematurity]]. Functional finance as an inflection-point insight that waited eighty years.
 - [[s-curve-thesis|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
 
 ## Sources
@@ -113,7 +113,7 @@ The design question for a bioregional currency is whether the demand driver can 
 
 ## Provenance
 
-Written September 2026 as a concept-level treatment of sound finance, expanding the glossary entry at [[glossary/sound-finance|Sound Finance]]. The developmental arc from hut tax to fiscal orthodoxy synthesizes the chartalist lineage (Knapp, Innes, Lerner, Minsky, Wray, Mosler, Kelton) with the colonial taxation literature (Daunton, Callinicos) and the wiki's own Substrate Hypothesis and Coercion Continuum frameworks. The individual claims draw from the sources cited above; the synthesis across them is the wiki's own.
+Written September 2026 as a concept-level treatment of sound finance, expanding the glossary entry at [[content/glossary/m-s/sound-finance|Sound Finance]]. The developmental arc from hut tax to fiscal orthodoxy synthesizes the chartalist lineage (Knapp, Innes, Lerner, Minsky, Wray, Mosler, Kelton) with the colonial taxation literature (Daunton, Callinicos) and the wiki's own Substrate Hypothesis and Coercion Continuum frameworks. The individual claims draw from the sources cited above; the synthesis across them is the wiki's own.
 
 <script type="application/ld+json">
 {

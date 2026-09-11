@@ -17,27 +17,27 @@ Stigmergy is the pattern by which termite mounds get built, ant trails get follo
 
 [[heylighen-francis|Heylighen]] argues that this mechanism scales in ways that hierarchical planning and communicative negotiation do not. Coordination becomes a property of the substrate. Intelligence sits in the interaction between the actors and their environment, with the environment holding part of what a central mind would otherwise have to hold.
 
-The BioConomy adopts this reasoning as its operating premise. Where the [[glossary/m-form-market|Market form]] coordinates through price signals and the [[glossary/i-form-institutional|Institutional form]] coordinates through hierarchy and rule, the [[glossary/e-form-emergent|Emergent form]] coordinates through published traces in a shared knowledge medium. The medium is a network of interlinked BioHub wikis. The trace is the [[coordination-surface|coordination surface]] each wiki publishes.
+The BioConomy adopts this reasoning as its operating premise. Where the [[m-form-market|Market form]] coordinates through price signals and the [[i-form-institutional|Institutional form]] coordinates through hierarchy and rule, the [[e-form-emergent|Emergent form]] coordinates through published traces in a shared knowledge medium. The medium is a network of interlinked BioHub wikis. The trace is the [[coordination-surface|coordination surface]] each wiki publishes.
 
 ## The coordination surface as trace
 
-Each [[glossary/biohub|BioHub]] wiki carries a file at a predictable path called `coordination-surface.md`. It publishes four things in structured form: what the BioHub offers peer BioHubs, what it seeks from them, which financial-instrument classes it is aligning to, and how to make contact.
+Each [[biohub|BioHub]] wiki carries a file at a predictable path called `coordination-surface.md`. It publishes four things in structured form: what the BioHub offers peer BioHubs, what it seeks from them, which financial-instrument classes it is aligning to, and how to make contact.
 
 A peer BioHub's coordinator, or the AI agent working on that coordinator's behalf, reads the file. The reading is the coordination event. The reader sees where its own offers meet the publisher's seeks, or where a shared instrument creates natural alignment across bioregions, and moves toward that opening. The publisher revises its own file as its offers and seeks change. Every revision is legible to every other node reading. The network coordinates through the reading and revision of a shared trace medium.
 
 There is no standing assembly. No federation body approves the alignments that emerge. The [[essays/how-to-build-a-biohub-wiki|reading pattern documented for AI agents]] makes the mechanism operational at machine scale, and the same pattern works at human scale: the file is written to be read by a coordinator without prior contact, and the reading produces the next action.
 
-This is what the [[substrate-hypothesis|Substrate Hypothesis]] says. Coordination is a property of the substrate. The coordination-surface pattern is the substrate the BioConomy publishes.
+This is what the [[content/concepts/substrate-hypothesis|Substrate Hypothesis]] says. Coordination is a property of the substrate. The coordination-surface pattern is the substrate the BioConomy publishes.
 
 ## How decision-making evolves
 
 Democratic governance in the assembly sense (delegates, votes, consensus circles, standing committees) is a coordination technology of the [[frameworks/time-framework|Institutional and Market forms]]. It works inside a bounded polity where a defined membership is present, where decisions are periodic, and where each decision produces a rule that constrains subsequent behavior. Cities, corporations, unions, cooperatives, and nation-states all coordinate this way. The mechanism is well understood and remains fit for its native context.
 
-The E form operates in a different context. Its coordinating actors are [[glossary/biohub|BioHubs]] anchored in separate [[bioregion|BioRegions]], each with its own cohort and charter. No bounded polity exists across which a vote could be taken. No delegate assembly holds standing authority over what a BioHub in another catchment offers or seeks. Attempts to construct such an assembly at bioregional or planetary scale run into the failure modes stigmergy is designed to avoid: attendance decay, capture by the well-resourced, decision latency measured in years, and coordination cost that consumes the coordination.
+The E form operates in a different context. Its coordinating actors are [[biohub|BioHubs]] anchored in separate [[bioregion|BioRegions]], each with its own cohort and charter. No bounded polity exists across which a vote could be taken. No delegate assembly holds standing authority over what a BioHub in another catchment offers or seeks. Attempts to construct such an assembly at bioregional or planetary scale run into the failure modes stigmergy is designed to avoid: attendance decay, capture by the well-resourced, decision latency measured in years, and coordination cost that consumes the coordination.
 
-The BioConomy declines to reproduce assembly governance at the inter-BioHub layer because the substrate carries the coordination the assembly would otherwise carry. A BioHub coordinator reads a peer's coordination surface and knows what alignment is available. The [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]] entries make visible what buyers will pay for, and other bioregions read the marker and enter the market on comparable terms. The [[bioscore|BioScore]] moves as substrate conditions change, and BioHubs adjust their activity in response. Retention-accounting frames make visible what conventional GDP keeps invisible, and capital and labor track toward what becomes legible.
+The BioConomy declines to reproduce assembly governance at the inter-BioHub layer because the substrate carries the coordination the assembly would otherwise carry. A BioHub coordinator reads a peer's coordination surface and knows what alignment is available. The [[tenderable-services-portfolio|Tenderable Services Portfolio]] entries make visible what buyers will pay for, and other bioregions read the marker and enter the market on comparable terms. The [[bioscore|BioScore]] moves as substrate conditions change, and BioHubs adjust their activity in response. Retention-accounting frames make visible what conventional GDP keeps invisible, and capital and labor track toward what becomes legible.
 
-Each BioHub retains democratic governance internally where the coordination is dense and the polity is bounded: charter, membership, cohort decisions, dissolution. The [[glossary/founding-compact|Founding Compact]] and the [[templates/biohub-identity-template|BioHub Identity Template]] establish the internal governance form each cohort chooses. At the inter-BioHub layer, coordination runs stigmergically.
+Each BioHub retains democratic governance internally where the coordination is dense and the polity is bounded: charter, membership, cohort decisions, dissolution. The [[founding-compact|Founding Compact]] and the [[templates/biohub-identity-template|BioHub Identity Template]] establish the internal governance form each cohort chooses. At the inter-BioHub layer, coordination runs stigmergically.
 
 ## Why BioConomy decisions beat Economy decisions
 
@@ -64,8 +64,8 @@ The coordination work is reading peer wikis (the [[wiki-network/index|wiki netwo
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
-- [[glossary/e-form-emergent|E Form (Emergent)]]
-- [[substrate-hypothesis|Substrate Hypothesis]]
+- [[e-form-emergent|E Form (Emergent)]]
+- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]
 
 ## Sources
 
@@ -76,7 +76,7 @@ The coordination work is reading peer wikis (the [[wiki-network/index|wiki netwo
 
 ## Provenance
 
-Written 4 September 2026 as the grounding essay that explains the BioConomy's coordination model to a reader arriving from the orientation essays and asking how the pieces fit. It names stigmergy as the mechanism the design has been assuming, positions it as the coordination technology of the [[glossary/e-form-emergent|Emergent form]] alongside price signals in the M form and hierarchy in the I form, and treats the coordination-surface file at each BioHub wiki as the specific stigmergic substrate the network publishes. Draws on Francis Heylighen's 2016 argument that stigmergy is the coordination concept the modern moment most requires.
+Written 4 September 2026 as the grounding essay that explains the BioConomy's coordination model to a reader arriving from the orientation essays and asking how the pieces fit. It names stigmergy as the mechanism the design has been assuming, positions it as the coordination technology of the [[e-form-emergent|Emergent form]] alongside price signals in the M form and hierarchy in the I form, and treats the coordination-surface file at each BioHub wiki as the specific stigmergic substrate the network publishes. Draws on Francis Heylighen's 2016 argument that stigmergy is the coordination concept the modern moment most requires.
 
 <script type="application/ld+json">
 {

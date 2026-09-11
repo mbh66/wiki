@@ -26,7 +26,7 @@ The disappearance is the structural-prematurity pattern in its purest form. Inne
 
 Innes's two papers were rediscovered in the 1990s by [[wray-l-randall|L. Randall Wray]], who republished them with commentary in the collection _Credit and State Theories of Money_ (2004). They are now treated as foundational texts of Modern Monetary Theory. The gap between publication and reception (roughly eighty years) is comparable to the gap between [[knapp-georg-friedrich|Knapp]]'s _State Theory_ (1905) and its absorption into MMT. Both gaps are predicted by the [[concepts/structural-prematurity|structural-prematurity]] thesis: the correction becomes receivable when the phase that required the old story is ending.
 
-Innes's destruction of the barter myth is separately significant for the BioConomy corpus. If money did not evolve from barter, the entire story that markets are natural extensions of a human "propensity to truck, barter, and exchange" ([[smith-adam|Smith]]) collapses. Money is an institutional creation. The form of money is a design choice. And design choices can be redesigned. This is the opening through which the [[glossary/substrate-hypothesis|Substrate Hypothesis]] enters: if the monetary substrate is designed, it can be redesigned. The question is what coordination behaviors the redesign produces.
+Innes's destruction of the barter myth is separately significant for the BioConomy corpus. If money did not evolve from barter, the entire story that markets are natural extensions of a human "propensity to truck, barter, and exchange" ([[smith-adam|Smith]]) collapses. Money is an institutional creation. The form of money is a design choice. And design choices can be redesigned. This is the opening through which the [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]] enters: if the monetary substrate is designed, it can be redesigned. The question is what coordination behaviors the redesign produces.
 
 ## Related pages
 
@@ -37,7 +37,7 @@ Innes's destruction of the barter myth is separately significant for the BioCono
 - [[wray-l-randall|L. Randall Wray]]
 - [[kelton-stephanie|Stephanie Kelton]]
 - [[smith-adam|Adam Smith]]
-- [[glossary/substrate-hypothesis|Substrate Hypothesis]]
+- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 

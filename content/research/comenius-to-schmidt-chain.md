@@ -15,7 +15,7 @@ The institutional and pedagogical continuity from the Unitas Fratrum's founding 
 
 The Moravian Church (Unitas Fratrum) provides one of the cleanest documented cases of pedagogical continuity across a two-hundred-year institutional suppression. Founded in 1457 in the wake of the Hussite reform, suppressed after the Battle of White Mountain in 1620, survived underground through a period known as the "Hidden Seed," renewed at Herrnhut in 1727 under Count Zinzendorf's patronage, and by 1732 was dispatching artisan-missionaries to indigenous and enslaved populations globally. Georg Schmidt, who arrived at Baviaanskloof in 1738, was one of that first generation of Herrnhut-trained missionaries.
 
-The chain matters for two reasons. First, it is an empirical case of a portable pedagogical code surviving the removal of its founding institution, which is the specific structural pattern the [[substrate-hypothesis|substrate hypothesis]] identifies. Second, it demonstrates the artisan-missionary model as a coordination form distinct from both salaried clergy and secular colonial administration, with implications for contemporary [[bioregional-learning-centre|bioregional learning centres]] and place-based pedagogy.
+The chain matters for two reasons. First, it is an empirical case of a portable pedagogical code surviving the removal of its founding institution, which is the specific structural pattern the [[content/concepts/substrate-hypothesis|substrate hypothesis]] identifies. Second, it demonstrates the artisan-missionary model as a coordination form distinct from both salaried clergy and secular colonial administration, with implications for contemporary [[bioregional-learning-centre|bioregional learning centres]] and place-based pedagogy.
 
 The Baviaanskloof-specific outcomes (later renamed Genadendal, in the Western Cape of South Africa) are treated in other project documents outside the international-audience scope of this wiki. What follows is the framework material: the chain itself, its evidentiary status, and the pedagogical claim that Schmidt's method carried a Comenian lineage.
 
@@ -147,7 +147,7 @@ Three implications for wiki readers working outside the Moravian tradition:
 
 ## Related pages
 
-- [[substrate-hypothesis|The Substrate Hypothesis (glossary)]]
+- [[content/concepts/substrate-hypothesis|The Substrate Hypothesis (glossary)]]
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 - [[bioregional-learning-centre|Bioregional Learning Centre (glossary)]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
@@ -162,7 +162,7 @@ Three implications for wiki readers working outside the Moravian tradition:
 
 ## Provenance
 
-Extracted from *Comenius_to_Schmidt_Chain.md* in the [[glossary/bioconomy|BioConomy]] project. The Baviaanskloof/Genadendal site-specific outcomes and the Ward 2 project applications from the source have been removed for this international-audience version. The chain itself, the evidentiary status table, and the inferential-link discussion are preserved. The Clauser (1961) source remains the key unread work; any subsequent research pass that obtains it should update the epistemic status of the pedagogical-lineage claim. Zachary Stein section, digital library, and external links added from Roam Research graph (pages: John Comenius, Time Between Worlds, Zachary Stein), August 2026.
+Extracted from *Comenius_to_Schmidt_Chain.md* in the [[bioconomy|BioConomy]] project. The Baviaanskloof/Genadendal site-specific outcomes and the Ward 2 project applications from the source have been removed for this international-audience version. The chain itself, the evidentiary status table, and the inferential-link discussion are preserved. The Clauser (1961) source remains the key unread work; any subsequent research pass that obtains it should update the epistemic status of the pedagogical-lineage claim. Zachary Stein section, digital library, and external links added from Roam Research graph (pages: John Comenius, Time Between Worlds, Zachary Stein), August 2026.
 
 <script type="application/ld+json">
 {

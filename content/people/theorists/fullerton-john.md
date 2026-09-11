@@ -15,13 +15,13 @@ source_documents:
 epistemic_status: "documented-fact"
 ---
 
-American unconventional economist, impact investor, writer, and founder and president of the [[glossary/capital-institute|Capital Institute]]. Author of *Regenerative Capitalism* and the eight principles of a [[glossary/regenerative|regenerative]] [[glossary/economy|economy]].
+American unconventional economist, impact investor, writer, and founder and president of the [[glossary/capital-institute|Capital Institute]]. Author of *Regenerative Capitalism* and the eight principles of a [[regenerative|regenerative]] [[economy|economy]].
 
 ## Contribution
 
 Fullerton left a career on Wall Street to found the Capital Institute, which explores the economic transition required to address the interconnected ecological and social crises of the twenty-first century. His *Regenerative Capitalism* framework articulates eight principles that a regenerative economy must embody, drawing from living-systems science to argue that economic systems, like ecosystems, must operate within biophysical boundaries and cultivate the conditions for life to flourish.
 
-The eight principles of regenerative economics are: right relationship, innovative and adaptive responsiveness, robust circulatory flow, empowered participation, the capacity to honor community and place, edge effect abundance, seeks balance, and views wealth holistically. These principles draw on the same living-systems logic that informs the [[glossary/bioconomy|BioConomy]]'s approach to [[glossary/bioregional-economics|bioregional economics]].
+The eight principles of regenerative economics are: right relationship, innovative and adaptive responsiveness, robust circulatory flow, empowered participation, the capacity to honor community and place, edge effect abundance, seeks balance, and views wealth holistically. These principles draw on the same living-systems logic that informs the [[bioconomy|BioConomy]]'s approach to [[content/glossary/a-e/bioregional-economics|bioregional economics]].
 
 ## Digital library
 
@@ -34,8 +34,8 @@ The eight principles of regenerative economics are: right relationship, innovati
 
 ## Related pages
 
-- [[glossary/regenerative-capitalism|Regenerative Capitalism]]
-- [[glossary/bioregional-economics|Bioregional Economics]]
+- [[regenerative-capitalism|Regenerative Capitalism]]
+- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[glossary/capital-institute|Capital Institute]]
 
 ## Sources
@@ -44,7 +44,7 @@ The eight principles of regenerative economics are: right relationship, innovati
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, eight principles, digital library PDF, and external links added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, eight principles, digital library PDF, and external links added.
 
 <script type="application/ld+json">
 {

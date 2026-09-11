@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Bauwens, M. (2026). "Peer FOR Peer: The Emerging Third Attractor." P2P Foundation, August 2026.
 
-Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of [[glossary/regenerative|regenerative]] projects. The essay names the [[glossary/archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] framing and reads the wider bioregional and regenerative movement as a converging third attractor alongside states and markets.
+Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of [[regenerative|regenerative]] projects. The essay names the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] framing and reads the wider bioregional and regenerative movement as a converging third attractor alongside states and markets.
 
 ## Digital library
 
@@ -25,7 +25,7 @@ Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[bauwens-michel|Michel Bauwens]]
-- [[glossary/p4p-peer-for-peer|P4P (Peer FOR Peer) (glossary)]]
+- [[p4p-peer-for-peer|P4P (Peer FOR Peer) (glossary)]]
 
 <script type="application/ld+json">
 {

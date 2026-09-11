@@ -36,12 +36,12 @@ Brewer started Earth Regenerators, a study group and community of practice aroun
 ## Related pages
 
 - [[heiple-penny|Penny Heiple]]
-- [[glossary/bioregional-learning-centre|Bioregional Learning Centre]]
+- [[bioregional-learning-centre|Bioregional Learning Centre]]
 - [[glossary/evonomics|Evonomics Magazine]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, quote, digital library PDF, and cross-references added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, quote, digital library PDF, and cross-references added.
 
 <script type="application/ld+json">
 {

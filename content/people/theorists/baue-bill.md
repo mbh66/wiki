@@ -36,7 +36,7 @@ His work at r3.0 (Redesign for Resilience and Regeneration) focuses on developin
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, organizational affiliations, digital library PDFs added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): biographical detail, organizational affiliations, digital library PDFs added.
 
 <script type="application/ld+json">
 {

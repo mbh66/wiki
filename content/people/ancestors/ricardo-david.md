@@ -13,7 +13,7 @@ source_documents:
 epistemic_status: documented-fact
 ---
 
-English stockbroker, member of Parliament, and author of _On the Principles of Political [[glossary/economy|Economy]] and Taxation_ (1817). Ricardo formalized political economy into a system of laws. His most influential contribution, the theory of comparative advantage, argued that nations gain by specializing in what they produce relatively most efficiently and trading for the rest. The argument became the theoretical foundation for two centuries of trade liberalization.
+English stockbroker, member of Parliament, and author of _On the Principles of Political [[economy|Economy]] and Taxation_ (1817). Ricardo formalized political economy into a system of laws. His most influential contribution, the theory of comparative advantage, argued that nations gain by specializing in what they produce relatively most efficiently and trading for the rest. The argument became the theoretical foundation for two centuries of trade liberalization.
 
 Ricardo advocated the repeal of Britain's Corn Laws, which finally occurred in 1846, twenty-three years after his death. His framework was more mathematical and less moral than Smith's. Where Smith wrote as a philosopher observing an emerging system, Ricardo wrote as a mechanic optimizing its operation. His treatment of land, labor, and money as commodities became the frame within which classical, neoclassical, and neoliberal economics all developed.
 
@@ -25,7 +25,7 @@ This narrative served the steep part of the [[s-curve|S-curve]] in a specific wa
 
 Ricardo's _Principles_ also deepened the fiscal story Smith had started. His treatment of taxation analyzed the effects of different tax structures on production and capital accumulation, always within the frame that taxes are a transfer from the productive economy to the state. The Ricardian equivalence proposition (later formalized by Barro in 1974) went further: it argued that government borrowing is economically equivalent to taxation, because rational agents anticipate future taxes to service the debt. The proposition is contested empirically, but its narrative effect is durable. It reinforces the collective belief that government spending must ultimately be "paid for" by private-sector production, and that deficits are deferred taxes. This is the fiscal-scarcity story at its most theoretically refined, and it continues to shape political discourse in economies whose sovereign currency mechanics make it operationally irrelevant.
 
-Ricardo belongs on this list because comparative advantage is the single most consequential piece of theory that [[glossary/bioconomy|BioConomy]] must revisit. As a proposition about relative efficiency it is mathematically sound. As a policy prescription for a mature system it fails, because specialization at a global scale strips regions of the productive diversity that lets them retain value locally. The theory that maximized flow during the acceleration phase now works against the [[glossary/retention-economics|retention]] that maturation requires. Understanding Ricardo is prerequisite for understanding why the framework has to change and what it must be replaced with.
+Ricardo belongs on this list because comparative advantage is the single most consequential piece of theory that [[bioconomy|BioConomy]] must revisit. As a proposition about relative efficiency it is mathematically sound. As a policy prescription for a mature system it fails, because specialization at a global scale strips regions of the productive diversity that lets them retain value locally. The theory that maximized flow during the acceleration phase now works against the [[retention-economics|retention]] that maturation requires. Understanding Ricardo is prerequisite for understanding why the framework has to change and what it must be replaced with.
 
 ## Related pages
 
@@ -52,7 +52,7 @@ Ricardo belongs on this list because comparative advantage is the single most co
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): digital library PDFs added. Updated September 2026 with the collective-story framing from the MMT/S-curve research brief preparation.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): digital library PDFs added. Updated September 2026 with the collective-story framing from the MMT/S-curve research brief preparation.
 
 <script type="application/ld+json">
 {

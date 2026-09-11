@@ -37,7 +37,7 @@ The Founder's domain of production is the system. The mode of coordination is th
 
 ### The Framer
 
-Applies consciousness to consciousness itself. This is Mycelial V2. The [[glossary/framer|Framer]] does not produce a product. The Framer produces a pattern of connection that enables a network to learn faster than any individual node.
+Applies consciousness to consciousness itself. This is Mycelial V2. The [[framer|Framer]] does not produce a product. The Framer produces a pattern of connection that enables a network to learn faster than any individual node.
 
 The Framer's domain of production is consciousness. The mode of coordination is the interpretive framework, the worldview. The characteristic MET stage is Mycelial. The Framer creates the conditions under which distributed intelligence can emerge, which is why their domain of production is consciousness itself.
 
@@ -60,9 +60,9 @@ The Farmer-Forger-Founder-Framer sequence is the author's original framework and
 
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
-- [[glossary/framer|Framer]]
-- [[glossary/material-consciousness|Material Consciousness]]
-- [[glossary/mycelial-consciousness|Mycelial Consciousness]]
+- [[framer|Framer]]
+- [[material-consciousness|Material Consciousness]]
+- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 
 ## Sources
 

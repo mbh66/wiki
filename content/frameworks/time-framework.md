@@ -1,22 +1,34 @@
 ---
-title: "The TIME Framework"
-aliases: ["TIME", "Tribal Institutional Market Emergent"]
-tags: ["framework", "coordination", "core-framework", "bioconomy"]
-created: 2026-09-01
-updated: 2026-08-25
-source_project: "BioConomy"
-source_documents: ["The_TIME_Framework_Notion_Export"]
-creator: "David Ronfeldt"
-epistemic_status: "documented-framework"
+title: The TIME Framework
+aliases:
+  - TIME
+  - Tribal Institutional Market Emergent
+tags:
+  - framework
+  - coordination
+  - core-framework
+  - bioconomy
+created: 2026-08-25
+updated: 2026-09-01
+source_project: BioConomy
+source_documents:
+  - The_TIME_Framework_Notion_Export
+creator: David Ronfeldt
+epistemic_status: documented-framework
 ---
 
-Human societies have produced four broad forms of coordination over the past five thousand years. Each emerged in sequence. Each solved problems the prior forms could not solve. Each externalized costs onto the substrate the next form would have to organize. All four now operate simultaneously in every geography on earth. TIME is the framework that helps us explore each form.
+Human societies have produced four broad forms of coordination over the past five thousand years. Each emerged in sequence and each solved problems the prior forms couldn't solve. Each externalized costs onto the substrate the next form would have to organize. All four now operate simultaneously in every geography on earth. TIME is the framework that helps us explore each form: Tribes, Institutions, Markets, Emergent.
+
+|                 ![[TIME-holons.png]]                 |
+| :--------------------------------------------------: |
+| It's about TIME, the evolution of human coordination |
+
 
 ## The origin
 
 TIME builds on the [[timn-framework|TIMN Framework]] developed by RAND analyst [[ronfeldt-david|David Ronfeldt]], first set out in his 1996 paper *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution* (RAND P-7967) and developed further in his 2025 Substack series *Rethinking What 'Tribes' and 'Networks' Are Good For*. Ronfeldt argues that each form gained strength at a different rate and matured in a different historical epoch, that each rests on its predecessors, and that each is tied to a distinct information and communications revolution.
 
-TIME retains Ronfeldt's first three forms and renames his fourth. Where Ronfeldt writes Networks (+N), TIME writes Emergent (+E). The renaming reflects a practical reality: the word "network" has been stretched to cover everything from Roman trade routes to social media platforms, and its meaning has thinned to the point of unusability in a coordination context. Emergent names what the fourth form actually does. The analytical framework is unchanged, and the vocabulary is sharpened.
+TIME retains Ronfeldt's first three forms and renames his fourth. Where Ronfeldt writes Networks (+N), TIME writes Emergent (+E). The renaming reflects a practical reality: the word "network" has been stretched to cover everything from Roman trade routes to social media platforms, and its meaning has thinned to the point of unusability in a coordination context. Emergent names what the fourth form actually does. The analytical framework is unchanged, and the vocabulary is sharpened. While it may be too early, this wiki makes the claim that the Emergent is the [[bioconomy|BioConomy]]. A healthy and high-functioning society has good representation of all four forms.
 
 ## The four forms
 
@@ -30,11 +42,11 @@ Hierarchy, rules, and command structures. Coordination through formalized author
 
 ### M: Markets
 
-Prices, exchange, and competition. Coordination through decentralized transactions between self-interested actors. The organizing logic is efficiency. Markets organized industrial civilization and remain the dominant coordination form in the global [[glossary/economy|economy]]. The characteristic physical expression of the M form is the skyscraper and the trading floor, with the stock index as its [[legibility-signal|legibility signal]]: a single number compressing the activity of thousands of firms into a figure that can be read at a glance. Markets solved the coordination problems that hierarchical institutions could not solve at the scale industrial production demanded. They externalized costs onto labor, onto communities, and onto the biosphere. See [[m-form-market|M form (Market)]].
+Prices, exchange, and competition. Coordination through decentralized transactions between self-interested actors. The organizing logic is efficiency. Markets organized industrial civilization and remain the dominant coordination form in the global [[economy|economy]]. The characteristic physical expression of the M form is the skyscraper and the trading floor, with the stock index as its [[legibility-signal|legibility signal]]: a single number compressing the activity of thousands of firms into a figure that can be read at a glance. Markets solved the coordination problems that hierarchical institutions could not solve at the scale industrial production demanded. They externalized costs onto labor, onto communities, and onto the biosphere. See [[m-form-market|M form (Market)]].
 
 ### E: Emergent
 
-The fourth form, currently arriving. Coordination through pooled commitments toward outcomes no single actor can produce alone. The organizing logic is reciprocity at the scale of the watershed, the catchment, the [[glossary/bioregion|bioregion]]. The Emergent form does not replace the previous three. It holds them inside a frame that can account for the costs they externalized. The characteristic physical expression of the E form is the bioregional hub: a place-anchored coordination point that organizes activity around a defined living system. Its legibility signal is still forming. The Guardians of Earth [[bioscore|BioScore]] is one candidate, a composite index that compresses biodiversity, community engagement, and restoration evidence into a single number. Whether this signal matures or something else takes its place is an open question. The E form is genuinely emergent, and honest assessment requires acknowledging that it has not yet produced the equivalent of the cathedral, the skyscraper, or the stock index. See [[e-form-emergent|E form (Emergent)]].
+The fourth form, currently arriving. Coordination through pooled commitments toward outcomes no single actor can produce alone. The organizing logic is reciprocity at the scale of the watershed, the catchment, the [[bioregion|bioregion]]. The Emergent form does not replace the previous three. It holds them inside a frame that can account for the costs they externalized. The characteristic physical expression of the E form is the bioregional hub: a place-anchored coordination point that organizes activity around a defined living system. Its legibility signal is still forming. The Guardians of Earth [[bioscore|BioScore]] is one candidate, a composite index that compresses biodiversity, community engagement, and restoration evidence into a single number. Whether this signal matures or something else takes its place is an open question. The E form is genuinely emergent, and honest assessment requires acknowledging that it has not yet produced the equivalent of the cathedral, the skyscraper, or the stock index. See [[e-form-emergent|E form (Emergent)]].
 
 ## Network topology vs. Emergent coordination
 
@@ -50,11 +62,11 @@ The distinction matters when people import TIMN into TIME assuming the fourth fo
 
 Each coordination form produces a characteristic physical node where its logic materializes. The sequence clarifies what the E form inherits.
 
-**The Farm** is the first [[glossary/coordination-node|coordination node]] (approximately 12,000 years ago). A community settling in a particular place, holding kin, land, water, and labor. Collectively producing surplus for the first time. Optimization target: caloric yield per unit of land. Externalized cost: soil depletion, downstream water quality, and the [[commons|commons]] the farm was carved from.
+**The Farm** is the first [[coordination-node|coordination node]] (approximately 12,000 years ago). A community settling in a particular place, holding kin, land, water, and labor. Collectively producing surplus for the first time. Optimization target: caloric yield per unit of land. Externalized cost: soil depletion, downstream water quality, and the [[commons|commons]] the farm was carved from.
 
 **The Stock Market** is the second (approximately 250 years ago). Ownership decoupled from operation. The farmer no longer has a direct relationship with those consuming what he produces. His crop goes to a distant processing plant, and his role is replaced by the shareholder who owns a claim on an enterprise the shareholder will never enter. Optimization target: return on capital. Externalized cost: labor conditions, biosphere depletion, and the coherence of the communities from which labor is drawn.
 
-**The Data Center** is the third (approximately 50 years ago). Coordination of attention, behavior, information, and computation. Optimization target: prediction accuracy, which is [[glossary/human-coordination|human coordination]] at global scale. Externalized cost: energy and water, consumed at rates that break local hydrological budgets and strain electricity grids.
+**The Data Center** is the third (approximately 50 years ago). Coordination of attention, behavior, information, and computation. Optimization target: prediction accuracy, which is [[human-coordination|human coordination]] at global scale. Externalized cost: energy and water, consumed at rates that break local hydrological budgets and strain electricity grids.
 
 **The [[biohub|BioHub]]** is the fourth, currently emerging. A place-anchored coordination point that organizes activity around a defined watershed or bioregion. Three features distinguish a BioHub from a farm, an ecovillage, or a conservation project: a physical site that anchors regeneration beyond its own boundaries, an outward orientation toward the bioregion, and a role as connector across multiple domains of activity. Optimization target: the continued viability of the substrate it depends on. Externalized cost: there is no substrate below it to receive the costs.
 
@@ -74,10 +86,10 @@ The shift TIME asks of its users is perceptual before it is operational. A pract
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[ronfeldt-david|David Ronfeldt]]
-- [[glossary/t-form-tribal|T form (Tribal)]]
-- [[glossary/i-form-institutional|I form (Institutional)]]
-- [[glossary/m-form-market|M form (Market)]]
-- [[glossary/e-form-emergent|E form (Emergent)]]
+- [[t-form-tribal|T form (Tribal)]]
+- [[i-form-institutional|I form (Institutional)]]
+- [[m-form-market|M form (Market)]]
+- [[e-form-emergent|E form (Emergent)]]
 
 ## Sources
 

@@ -15,7 +15,7 @@ The foundational peer-reviewed publication of Graves's emergent cyclical theory 
 
 The paper establishes the theoretical framework that Graves later applied to civilizational analysis in his 1974 *Futurist* article. Beck and Cowan subsequently developed Graves's framework into the Spiral Dynamics model, introducing the color-coded value systems (Beige through Turquoise) that popularized his developmental framework.
 
-In the BioConomy corpus, Graves's levels provide the developmental psychology foundation for the [[concepts/structures-of-consciousness|Structures of Consciousness]] analysis and the distinction between [[glossary/first-tier|First Tier]] and [[glossary/second-tier|Second Tier]] thinking.
+In the BioConomy corpus, Graves's levels provide the developmental psychology foundation for the [[concepts/structures-of-consciousness|Structures of Consciousness]] analysis and the distinction between [[first-tier|First Tier]] and [[second-tier|Second Tier]] thinking.
 
 ## Citing Pages
 
@@ -23,9 +23,9 @@ In the BioConomy corpus, Graves's levels provide the developmental psychology fo
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
-- [[glossary/first-tier|First Tier]]
-- [[glossary/second-tier|Second Tier]]
-- [[glossary/material-consciousness|Material Consciousness]]
+- [[first-tier|First Tier]]
+- [[second-tier|Second Tier]]
+- [[material-consciousness|Material Consciousness]]
 
 <script type="application/ld+json">
 {

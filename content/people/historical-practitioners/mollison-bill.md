@@ -10,12 +10,12 @@ epistemic_status: "stub"
 ---
 
 
-Australian researcher, biologist, and co-originator of [[glossary/permaculture|permaculture]] with David Holmgren in the late 1970s. Mollison's *Permaculture One* (1978) and the later *Permaculture: A Designers' Manual* (1988) set out the design system that most of the [[glossary/bioplace|BioPlace]] practice lineage now draws on. He founded the Permaculture Institute in Tasmania and taught the first Permaculture Design Courses that became the global training format for the field.
+Australian researcher, biologist, and co-originator of [[permaculture|permaculture]] with David Holmgren in the late 1970s. Mollison's *Permaculture One* (1978) and the later *Permaculture: A Designers' Manual* (1988) set out the design system that most of the [[bioplace|BioPlace]] practice lineage now draws on. He founded the Permaculture Institute in Tasmania and taught the first Permaculture Design Courses that became the global training format for the field.
 
 ## Related pages
 
-- [[glossary/permaculture|Permaculture]]
-- [[glossary/bioplace|BioPlace]]
+- [[permaculture|Permaculture]]
+- [[bioplace|BioPlace]]
 - [[concepts/the-bioplace-layer|The BioPlace Layer]]
 
 ## Provenance

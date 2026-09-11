@@ -68,7 +68,7 @@ This page is the [[bioconomy|BioConomy]] project's coordination surface: the str
 
 Every BioHub wiki carries a `coordination-surface.md` at the root of its Quartz instance. It sits alongside `llms.txt` and `index.md`, at a predictable path so that any AI agent visiting a peer BioHub can find the coordination handshake without parsing prose. The frontmatter carries four structured lists: offers, seeks, shared instruments, and contact protocols. The body carries the human-readable expansion of the same content.
 
-This coordination-surface page is the BioConomy wiki's own instance of the pattern. The BioConomy project is not itself a [[glossary/biohub|BioHub]] (it does not organize regeneration work in a specific watershed), so the offers and seeks reflect its role as the meta-wiki that peer [[glossary/biohub|BioHub]] wikis link back to for shared vocabulary and frameworks. Actual BioHub coordination-surfaces will carry different content: what the BioHub offers peer BioHubs in its own [[glossary/bioregion|BioRegion]] or federation, what it seeks from them, and which instruments the BioHub is aligning to.
+This coordination-surface page is the BioConomy wiki's own instance of the pattern. The BioConomy project is not itself a [[biohub|BioHub]] (it does not organize regeneration work in a specific watershed), so the offers and seeks reflect its role as the meta-wiki that peer [[biohub|BioHub]] wikis link back to for shared vocabulary and frameworks. Actual BioHub coordination-surfaces will carry different content: what the BioHub offers peer BioHubs in its own [[bioregion|BioRegion]] or federation, what it seeks from them, and which instruments the BioHub is aligning to.
 
 ## Offers
 
@@ -78,13 +78,13 @@ The full list with structured identifiers is carried in the frontmatter above.
 
 ## Seeks
 
-The project seeks what only BioHubs operating in real bioregions can produce: cohorts prepared to run the templates and feed the outputs back, corrections to the templates and vocabulary that improve the corpus for subsequent BioHubs, verification methodologies for the six [[glossary/tenderable-services-portfolio|tenderable services]] that hold up under counterparty scrutiny, protocol work beyond the current addressing layer (peer discovery, verification of published claims, dispute resolution, inter-federation handshake), case material from working bioregions and instruments, and editorial contributions to concept, framework, and source pages.
+The project seeks what only BioHubs operating in real bioregions can produce: cohorts prepared to run the templates and feed the outputs back, corrections to the templates and vocabulary that improve the corpus for subsequent BioHubs, verification methodologies for the six [[tenderable-services-portfolio|tenderable services]] that hold up under counterparty scrutiny, protocol work beyond the current addressing layer (peer discovery, verification of published claims, dispute resolution, inter-federation handshake), case material from working bioregions and instruments, and editorial contributions to concept, framework, and source pages.
 
 The full list with structured identifiers is carried in the frontmatter above.
 
 ## Shared instruments
 
-At the project level, "shared instruments" names the classes of financial instrument the project is developing framework and reference material for, rather than specific instruments the project is aligning services against. The four current classes are watershed bonds and equivalent outcome instruments, biodiversity credit issuances, corporate stewardship funds in protected-area landscapes, and the [[glossary/mycelial-patronage|Mycelial Patronage]] architecture. A BioHub targeting a specific instrument in any of these classes has natural coordination surface with the project's research briefs and with peer BioHubs targeting subsequent tranches of the same instrument series.
+At the project level, "shared instruments" names the classes of financial instrument the project is developing framework and reference material for, rather than specific instruments the project is aligning services against. The four current classes are watershed bonds and equivalent outcome instruments, biodiversity credit issuances, corporate stewardship funds in protected-area landscapes, and the [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]] architecture. A BioHub targeting a specific instrument in any of these classes has natural coordination surface with the project's research briefs and with peer BioHubs targeting subsequent tranches of the same instrument series.
 
 The full list with structured identifiers is carried in the frontmatter above.
 
@@ -101,8 +101,43 @@ The project's coordination happens through GitHub (github.com/mbh66/biohubs) for
 - [[templates/the-nine-outputs|The Nine Outputs]]
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[frameworks/time-framework|The TIME Framework]]
-- [[glossary/tenderable-services-portfolio|Tenderable Services Portfolio]]
+- [[tenderable-services-portfolio|Tenderable Services Portfolio]]
 
 ## Provenance
 
 Written 2 September 2026 as the BioConomy wiki's own instance of the coordination-surface pattern documented in [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]. Purpose: to make the pattern real by dogfooding it at the reference wiki, and to give peer BioHub coordinators a working example their own coordination-surface pages can model. The offers and seeks reflect the project's role as the meta-wiki that peer BioHubs link back to for shared vocabulary and frameworks, not as a BioHub itself.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/coordination-surface/",
+  "name": "Coordination Surface",
+  "description": "The BioConomy project's structured handshake page publishing offers, seeks, shared financial instruments, and contact protocols for peer BioHub wikis and AI agents.",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-09-02",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "about": [
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/biohub/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/bioregion/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/tender-compact/"
+    }
+  ],
+  "keywords": [
+    "coordination-surface",
+    "orientation",
+    "meta"
+  ]
+}
+</script>

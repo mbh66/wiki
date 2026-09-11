@@ -10,7 +10,7 @@ epistemic_status: "documented-fact"
 ---
 
 
-Co-founder (with Attwell) of Regenerate Cascadia (2023), supporting landscape groups and stewards across a [[glossary/bioregion|bioregion]] defined by watersheds rather than political borders.
+Co-founder (with Attwell) of Regenerate Cascadia (2023), supporting landscape groups and stewards across a [[bioregion|bioregion]] defined by watersheds rather than political borders.
 
 ## Related pages
 
@@ -18,7 +18,7 @@ Co-founder (with Attwell) of Regenerate Cascadia (2023), supporting landscape gr
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

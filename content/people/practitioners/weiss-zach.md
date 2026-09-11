@@ -10,15 +10,15 @@ epistemic_status: "documented-fact"
 ---
 
 
-Practitioner and educator who extended [[holzer-sepp|Holzer]]'s water [[glossary/retention-economics|retention]] methods through the Water Stories project.
+Practitioner and educator who extended [[holzer-sepp|Holzer]]'s water [[retention-economics|retention]] methods through the Water Stories project.
 
 ## Related pages
 
-- [[glossary/water-retention-landscape|Water Retention Landscape]]
+- [[water-retention-landscape|Water Retention Landscape]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). First-pass entry: the overview, detailed treatment, and sources sections require enrichment from the underlying project documents on a subsequent pass.
 
 <script type="application/ld+json">
 {

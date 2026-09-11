@@ -9,7 +9,7 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-Software and services that support work at the [[glossary/bioplace|BioPlace]] scale: the parcel-scale human-land layer where a household or small collective enters into ongoing relationship with a specific piece of ground.
+Software and services that support work at the [[bioplace|BioPlace]] scale: the parcel-scale human-land layer where a household or small collective enters into ongoing relationship with a specific piece of ground.
 
 ## Overview
 
@@ -17,7 +17,7 @@ BioPlace-scale work has particular tooling requirements. The parcels are small e
 
 ## Currently listed
 
-- [[permacultr|Permacultr]] (permacultr.io). Web-based [[glossary/permaculture|permaculture]] site-planning tool that layers open environmental data (contours, soil, climate, water flow) over a site boundary the user draws on a map. Free during public preview.
+- [[permacultr|Permacultr]] (permacultr.io). Web-based [[permaculture|permaculture]] site-planning tool that layers open environmental data (contours, soil, climate, water flow) over a site boundary the user draws on a map. Free during public preview.
 
 ## Criteria for inclusion
 
@@ -25,7 +25,7 @@ A tool earns a page here when it is actively usable at BioPlace scale (a practit
 
 ## Related pages
 
-- [[glossary/bioplace|BioPlace]]
+- [[bioplace|BioPlace]]
 - [[concepts/the-bioplace-layer|The BioPlace Layer]]
-- [[glossary/permaculture|Permaculture]]
+- [[permaculture|Permaculture]]
 - [[tools/index|Tools]]

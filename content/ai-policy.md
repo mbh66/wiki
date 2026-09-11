@@ -42,3 +42,27 @@ Where the wiki states a framework or thesis as its own contribution (the [[frame
 ## Provenance
 
 Written 10 September 2026 as a transparency disclosure for the wiki's use of generative AI in content production.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.bioconomy.earth/ai-policy/",
+  "name": "AI Policy",
+  "description": "Transparency disclosure for the BioConomy wiki's use of generative AI in content production, covering methodology, editorial review, and verification limits.",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Haupt"
+  },
+  "datePublished": "2026-09-10",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "keywords": [
+    "orientation",
+    "policy",
+    "ai"
+  ]
+}
+</script>

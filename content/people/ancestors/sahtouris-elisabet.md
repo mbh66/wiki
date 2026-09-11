@@ -23,7 +23,7 @@ Greek-American evolutionary biologist and futurist (January 23, 1936 - December 
 
 Sahtouris's central thesis is that the trajectory of biological evolution moves from hostile competition (young ecosystems, newly disturbed, resource-rich, low-diversity) to cooperative negotiation (mature ecosystems, complex, resource-constrained, high-diversity). The claim is grounded in ecology and not sentiment: cooperation is structurally more capable than competition in complex, resource-constrained environments, which is what mature ecosystems demonstrate.
 
-Applied to human civilization, the argument is that the competitive, [[glossary/extractive|extractive]] logic that drove the steep ascent of the twelve-thousand-year S-curve cannot navigate the [[glossary/deceleration-phase|deceleration phase]] now underway. It is the wrong operating system for the conditions emerging. This is the biological grounding for the [[frameworks/three-futures|Transcendence]] trajectory in the Emancipation Architecture and for the [[mycelial-consciousness|Mycelial Consciousness]] framework more broadly.
+Applied to human civilization, the argument is that the competitive, [[extractive|extractive]] logic that drove the steep ascent of the twelve-thousand-year S-curve cannot navigate the [[deceleration-phase|deceleration phase]] now underway. It is the wrong operating system for the conditions emerging. This is the biological grounding for the [[frameworks/three-futures|Transcendence]] trajectory in the Emancipation Architecture and for the [[content/concepts/mycelial-consciousness|Mycelial Consciousness]] framework more broadly.
 
 Sahtouris held a post-doctoral fellowship at the American Museum of Natural History and taught at MIT and the University of Massachusetts. She contributed to the NOVA-Horizon TV series and was a fellow of the World Business Academy with an honorary Chair in Living Economies, advisor to Ethical Markets, and a Professor of Business at Chaminade University in Honolulu. Her audiences included the World Bank, United Nations, Boeing, Siemens, Hewlett-Packard, South African Rand Bank, Caux Round Table, Tokyo International Forum, and the governments of Australia, New Zealand, and the Netherlands.
 
@@ -57,11 +57,11 @@ She was a co-founder of the Worldwide Indigenous Science Network and convened in
 
 ## Michael Haupt completed a five-year apprenticeship with Sahtouris
 
-The [[glossary/bioconomy|BioConomy]] project's intellectual life was shaped in part by this apprenticeship, which informed the coordinator's framing of [[glossary/mycelial-coordination|Mycelial Coordination]] and the Cycle of Globalization.
+The [[bioconomy|BioConomy]] project's intellectual life was shaped in part by this apprenticeship, which informed the coordinator's framing of [[content/glossary/m-s/mycelial-coordination|Mycelial Coordination]] and the Cycle of Globalization.
 
 ## Related pages
 
-- [[mycelial-consciousness|Mycelial Consciousness]]
+- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
 - [[frameworks/three-futures|The Three Futures]]
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[margulis-lynn|Lynn Margulis]]

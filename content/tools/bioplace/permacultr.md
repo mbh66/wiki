@@ -14,11 +14,11 @@ source_documents: []
 epistemic_status: "documented-fact"
 ---
 
-Web-based site-planning tool for [[glossary/permaculture|permaculture]] design. The user draws a site boundary on a map, the tool layers open environmental data over the boundary (topographic contours, soil pH and texture and organic carbon, climate normals, water flow, sun aspect, slope), and the user sketches design elements (zones, swales, infrastructure) directly onto the data-informed base map. The result is a site plan grounded in the real terrain, climate, and hydrology of the specific parcel.
+Web-based site-planning tool for [[permaculture|permaculture]] design. The user draws a site boundary on a map, the tool layers open environmental data over the boundary (topographic contours, soil pH and texture and organic carbon, climate normals, water flow, sun aspect, slope), and the user sketches design elements (zones, swales, infrastructure) directly onto the data-informed base map. The result is a site plan grounded in the real terrain, climate, and hydrology of the specific parcel.
 
 ## Who it is for
 
-The landing page names three audiences: designers running site surveys and preparing client presentations, smallholders assessing land before committing resources, and educators bringing real geographic data into permaculture coursework. All three sit inside the [[glossary/bioplace|BioPlace]] layer of the [[glossary/biostack|BioStack]].
+The landing page names three audiences: designers running site surveys and preparing client presentations, smallholders assessing land before committing resources, and educators bringing real geographic data into permaculture coursework. All three sit inside the [[bioplace|BioPlace]] layer of the [[biostack|BioStack]].
 
 ## Technology and data
 
@@ -34,8 +34,8 @@ The tool is in public preview at the time of writing. Pricing after the preview 
 
 ## Related pages
 
-- [[glossary/bioplace|BioPlace]]
-- [[glossary/permaculture|Permaculture]]
+- [[bioplace|BioPlace]]
+- [[permaculture|Permaculture]]
 - [[concepts/the-bioplace-layer|The BioPlace Layer]]
 - [[tools/bioplace/index|BioPlace Tools]]
 - [[mollison-bill|Bill Mollison]]
@@ -45,3 +45,26 @@ The tool is in public preview at the time of writing. Pricing after the preview 
 ## Provenance
 
 Entry created 4 September 2026 as the first entry in `tools/bioplace/`. Substantive detail on features, data sources, target audiences, and pricing posture verified against the tool's current landing page on the same date.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "@id": "https://wiki.bioconomy.earth/tools/bioplace/permacultr/",
+  "name": "Permacultr",
+  "description": "A web-based permaculture site-planning tool that generates zone and sector analyses from satellite imagery.",
+  "applicationCategory": "Design Tool",
+  "url": "https://permacultr.io",
+  "datePublished": "2026-09-08",
+  "isPartOf": {
+    "@id": "https://wiki.bioconomy.earth/#website"
+  },
+  "keywords": [
+    "tool",
+    "bioplace",
+    "permaculture",
+    "design",
+    "mapping"
+  ]
+}
+</script>

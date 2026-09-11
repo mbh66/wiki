@@ -18,13 +18,13 @@ source_documents:
 epistemic_status: "documented-fact"
 ---
 
-Belgian theorist based in Thailand. Founder of the [Foundation for Peer-to-Peer Alternatives](http://p2pfoundation.net/Main_Page) (P2P Foundation), developer of the cosmo-local production framework and the Archipelago of [[glossary/regenerative|Regenerative]] Projects framing. Co-author of the August 2026 P4P essay citing the [[glossary/biohub|BioHub]] coordination-nodes work.
+Belgian theorist based in Thailand. Founder of the [Foundation for Peer-to-Peer Alternatives](http://p2pfoundation.net/Main_Page) (P2P Foundation), developer of the cosmo-local production framework and the Archipelago of [[regenerative|Regenerative]] Projects framing. Co-author of the August 2026 P4P essay citing the [[biohub|BioHub]] coordination-nodes work.
 
 ## Contribution
 
 Bauwens works in collaboration with a global group of researchers in the exploration of [[glossary/peer-production|peer production]], governance, and property. He is a founding member of the [Commons Strategies Group](http://commonsstrategies.org/) with [[helfrich-silke|Silke Helfrich]] and [[bollier-david|David Bollier]], organizing major global conferences on the commons and its economics.
 
-His cosmo-local production framework articulates the principle that knowledge should be shared globally while production remains local, rooted in place and community. This framework provides the theoretical bridge between digital commons (open-source software, shared design repositories) and bioregional production (local manufacturing, food systems, energy). The concept directly informs the [[glossary/bioconomy|BioConomy]]'s approach to scaling without centralizing.
+His cosmo-local production framework articulates the principle that knowledge should be shared globally while production remains local, rooted in place and community. This framework provides the theoretical bridge between digital commons (open-source software, shared design repositories) and bioregional production (local manufacturing, food systems, energy). The concept directly informs the [[bioconomy|BioConomy]]'s approach to scaling without centralizing.
 
 His work with Jose Ramos on "Placing the Commons in a Temporal Framework: The Commons as a Planetary Regeneration Mechanism" extends the commons frame from a governance model to a temporal and ecological one, arguing that commons-based institutions are the organizational form suited to the regenerative phase of civilizational development.
 
@@ -35,12 +35,12 @@ His work with Jose Ramos on "Placing the Commons in a Temporal Framework: The Co
 
 ## Related pages
 
-- [[glossary/cosmo-local-production|Cosmo-local production]]
-- [[glossary/archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
-- [[glossary/p4p-peer-for-peer|P4P (Peer FOR Peer)]]
+- [[content/glossary/a-e/cosmo-local-production|Cosmo-local production]]
+- [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
+- [[p4p-peer-for-peer|P4P (Peer FOR Peer)]]
 - [[helfrich-silke|Silke Helfrich]]
 - [[bollier-david|David Bollier]]
-- [[glossary/commons|Commons]]
+- [[commons|Commons]]
 
 ## Provenance
 

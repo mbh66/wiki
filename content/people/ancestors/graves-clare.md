@@ -47,7 +47,7 @@ Beck and Cowan's *Spiral Dynamics* (1996) was the primary vehicle through which 
 
 - [[frameworks/three-futures|The Three Futures]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
-- [[mycelial-consciousness|Mycelial Consciousness]]
+- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
 - [[second-tier-thinking|Second Tier Thinking (glossary)]]
 
 ## Sources

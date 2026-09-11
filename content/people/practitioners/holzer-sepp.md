@@ -17,11 +17,11 @@ source_documents:
 epistemic_status: "documented-fact"
 ---
 
-Austrian farmer, author, and international consultant for natural agriculture whose [[glossary/water-retention-landscape|water retention landscape]] practice at the Krameterhof demonstrated large-scale rainwater harvesting and landscape hydration in temperate mountain terrain.
+Austrian farmer, author, and international consultant for natural agriculture whose [[water-retention-landscape|water retention landscape]] practice at the Krameterhof demonstrated large-scale rainwater harvesting and landscape hydration in temperate mountain terrain.
 
 ## Contribution
 
-Josef "Sepp" Holzer developed an integrated approach to permaculture at his family farm, the Krameterhof, in the Austrian Alps at elevations between 1,100 and 1,500 meters. Over decades he created a network of ponds, terraces, and [[glossary/polyculture|polyculture]] plantings that retain water across the landscape, moderate temperature extremes, and produce food in conditions that conventional agriculture considers marginal.
+Josef "Sepp" Holzer developed an integrated approach to permaculture at his family farm, the Krameterhof, in the Austrian Alps at elevations between 1,100 and 1,500 meters. Over decades he created a network of ponds, terraces, and [[polyculture|polyculture]] plantings that retain water across the landscape, moderate temperature extremes, and produce food in conditions that conventional agriculture considers marginal.
 
 His approach is distinguished from mainstream permaculture by its scale and its emphasis on water as the primary design element. Where many permaculture practitioners work at garden scale, Holzer works at landscape scale, creating water bodies that serve as thermal mass, habitat, and irrigation reserves simultaneously. The Krameterhof demonstrates that water retention landscapes are not theoretical propositions but working agricultural systems.
 
@@ -39,13 +39,13 @@ His approach is distinguished from mainstream permaculture by its scale and its 
 
 ## Related pages
 
-- [[glossary/water-retention-landscape|Water Retention Landscape]]
+- [[water-retention-landscape|Water Retention Landscape]]
 - [[kravcik-michal|Michal Kravcik]]
 - [[jehne-walter|Walter Jehne]]
 
 ## Provenance
 
-Extracted from the [[glossary/biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): full name, biographical detail, selected works, digital library PDF, and external links added.
+Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). Enriched August 2027 from the Roam Research graph (MichaelHaupt): full name, biographical detail, selected works, digital library PDF, and external links added.
 
 <script type="application/ld+json">
 {

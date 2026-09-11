@@ -26,7 +26,7 @@ You're in the right place to explore the emerging, parallel BioConomy.
 | ![[bioconomy-holons.png]] | ![[economy-holons.png]] |
 | ------------------------- | ----------------------- |
 
-> **In a highly functioning society, both BioConomy and Economy operate in parallel. The Economy coordinates the mechanical factory, and the BioConomy coordinates the ecological factory.**
+>    **In a highly functioning society, both BioConomy and Economy operate in parallel. The Economy coordinates the mechanical factory, and the BioConomy coordinates the ecological factory.**
 
 | Emergent                                                                                          | Familiar                                                                          |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -36,6 +36,7 @@ You're in the right place to explore the emerging, parallel BioConomy.
 | [[biohub\|BioHub]]                                                                                | [[municipality\|Municipality]]                                                    |
 | [[bioplace\|BioPlace]]                                                                            | [[company\|Company]]                                                              |
 | [[factory-ecological\|Ecological Factory]]                                                        | [[factory-mechanical\|Mechanical Factory]]                                        |
+
 
 # Why Now?
 
@@ -52,8 +53,8 @@ Tap on or hover over each form for an explanation:
 - [[m-form-market|Markets]]
 - [[e-form-emergent|Emergent]]
 
-- In the **Economy**, under the dominant [[glossary/m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
-- In the **BioConomy**, under the [[glossary/e-form-emergent|Emergent form]], people relate to those same Institutions and Markets as **providers**, supplying the outcomes those Institutions and Markets need and cannot produce internally.
+- In the **Economy**, under the dominant [[m-form-market|Market form]], people relate to Institutions and Markets as **clients**: taxes and wages buy services and consumption. 
+- In the **BioConomy**, under the [[e-form-emergent|Emergent form]], people relate to those same Institutions and Markets as **providers**, supplying the outcomes those Institutions and Markets need and cannot produce internally.
 
 This wiki exists to provide everything required to operate effectively in the BioConomy.
 
@@ -62,6 +63,7 @@ To learn how to use the wiki, visit [[engage|Three ways to engage with the wiki]
 ## Provenance
 
 Created 07 September 2026 as a simplified diagramatic wiki landing page. Updated 8 September 2026 to balance character count in the Difference table so that images are approximately equal.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

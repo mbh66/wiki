@@ -9,7 +9,7 @@ source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-Software and services that support the work of building a BioConomy. Each tool sits under the layer of the [[glossary/biostack|BioStack]] where its use is most natural.
+Software and services that support the work of building a BioConomy. Each tool sits under the layer of the [[biostack|BioStack]] where its use is most natural.
 
 ## Organized by BioStack layer
 
@@ -25,6 +25,6 @@ One page per tool. Each entry names what the tool does, who builds it, its prici
 
 ## Related pages
 
-- [[content/tools/index|Wiki Home]]
-- [[glossary/biostack|BioStack]]
-- [[content/wiki-related/index|Related Wikis]]
+- [[engage|Wiki Home]]
+- [[biostack|BioStack]]
+- [[wiki-related/index|Related Wikis]]

@@ -71,8 +71,8 @@ Read as a portfolio, these are separate decisions. Read as a program, they compo
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]]
 - [[research/promise-theory-across-timn|Promise Theory Across TIMN]]
-- [[glossary/alpha-window|Alpha Window (glossary)]]
-- [[glossary/n-form-network|N form (Network) (glossary)]]
+- [[alpha-window|Alpha Window (glossary)]]
+- [[n-form-network|N form (Network) (glossary)]]
 
 ## Sources
 
