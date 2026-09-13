@@ -11,6 +11,8 @@ epistemic_status: "documented-framework"
 
 Transvestment is capital crossing between value regimes: the structural move by which a wealth holder's assets migrate from one system of value into another. In the [[frameworks/emancipation-architecture|Emancipation Architecture]] context, transvestment is the move from private financial capital denominated in the declining [[extractive|extractive]] order into [[commons|commons]]-held structures denominated in the emerging bioregional order.
 
+The term was developed by [[bauwens-michel|Michel Bauwens]] within the [[p2p-foundation-wiki|P2P Foundation]] literature and refined by [[bollier-david|David Bollier]] and Natasha Hulst in their 2025 essay on relationalized finance. 
+
 ## Overview
 
 The term originates in commons theory, most closely associated with David Bollier and Silke Helfrich, who used it to name the flow of capital from extractive to [[regenerative|regenerative]] circuits without expectation of financial return in the original terms. Transvestment is distinct from investment (which expects a financial return in the same regime) and from divestment (which withdraws capital without redirecting it). It is a directional crossing: capital leaves one value logic and enters another.

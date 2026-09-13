@@ -43,6 +43,8 @@ Core coordination and economic concepts. Key entries:
 - [Stigmergy](https://wiki.bioconomy.earth/concepts/stigmergy): Indirect coordination through environmental traces
 - [The BioPlace Layer](https://wiki.bioconomy.earth/concepts/the-bioplace-layer): The human-land coordination interface
 - [Bioregional Addressing](https://wiki.bioconomy.earth/concepts/bioregional-addressing): Addressing systems rooted in ecological rather than political boundaries
+- [Tax-to-Commons Pathways](https://wiki.bioconomy.earth/concepts/tax-to-commons-pathways): Fiscal mechanisms for redirecting tax flows into a Bioregional Financing Facility
+- [Sound Finance](https://wiki.bioconomy.earth/concepts/sound-finance): The fiscal doctrine that taxes fund spending, its operational falsity, and its coordination function
 
 Full concepts index: https://wiki.bioconomy.earth/concepts/
 
@@ -110,7 +112,8 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Tools
 
-- [AI tooling](https://wiki.bioconomy.earth/tools/ai/): Wiki extraction guide for AI-assisted content creation
+- [AI tooling](https://wiki.bioconomy.earth/tools/ai/): Wiki extraction skill and Tax-to-Commons Policy Scan prompt
+- [Tax-to-Commons Policy Scan](https://wiki.bioconomy.earth/tools/ai/tax-to-commons-policy-scan): Reusable prompt for scanning a jurisdiction's fiscal landscape against four documented tax-to-commons legal-mechanism classes
 - [BioPlace layer](https://wiki.bioconomy.earth/tools/bioplace/): BioPlace spatial tools documentation
 
 ## Optional
