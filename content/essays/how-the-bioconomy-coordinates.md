@@ -17,7 +17,7 @@ Stigmergy is the pattern by which termite mounds get built, ant trails get follo
 
 [[heylighen-francis|Heylighen]] argues that this mechanism scales in ways that hierarchical planning and communicative negotiation do not. Coordination becomes a property of the substrate. Intelligence sits in the interaction between the actors and their environment, with the environment holding part of what a central mind would otherwise have to hold.
 
-The BioConomy adopts this reasoning as its operating premise. Where the [[m-form-market|Market form]] coordinates through price signals and the [[i-form-institutional|Institutional form]] coordinates through hierarchy and rule, the [[e-form-emergent|Emergent form]] coordinates through published traces in a shared knowledge medium. The medium is a network of interlinked BioHub wikis. The trace is the [[coordination-surface|coordination surface]] each wiki publishes.
+The BioConomy adopts this reasoning as its operating premise. Where the [[m-form-market|Market form]] coordinates through price signals and the [[i-form-institutional|Institutional form]] coordinates through hierarchy and rule, the [[e-form-emergent|Emergent form]] coordinates through published traces in a shared knowledge medium. The medium is a network of interlinked BioHub wikis. The trace is the [[content/coordination-surface|coordination surface]] each wiki publishes.
 
 ## The coordination surface as trace
 
@@ -58,7 +58,7 @@ The coordination work is reading peer wikis (the [[wiki-network/index|wiki netwo
 ## Related pages
 
 - [[concepts/stigmergy|Stigmergy]]
-- [[coordination-surface|Coordination Surface]]
+- [[content/coordination-surface|Coordination Surface]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[frameworks/time-framework|The TIME Framework]]

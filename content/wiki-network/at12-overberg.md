@@ -40,7 +40,7 @@ Contact protocols published on individual BioHub coordination surfaces rather th
 ## Related pages
 
 - [[at12-vog|Valley of Grace BioHub]]
-- [[coordination-surface|BioConomy Coordination Surface]]
+- [[content/coordination-surface|BioConomy Coordination Surface]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]
 - [[concepts/bioregional-addressing|Bioregional Addressing]]

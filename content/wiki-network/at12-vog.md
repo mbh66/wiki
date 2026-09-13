@@ -40,7 +40,7 @@ Michael Haupt, Coordinator. Contact protocols published on the wiki's own coordi
 ## Related pages
 
 - [[at12-overberg|Overberg BioRegion]]
-- [[coordination-surface|BioConomy Coordination Surface]]
+- [[content/coordination-surface|BioConomy Coordination Surface]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]
 - [[concepts/bioregional-addressing|Bioregional Addressing]]

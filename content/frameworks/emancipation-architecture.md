@@ -73,7 +73,7 @@ The interfaces are not incidental. They are how the emerging architecture operat
 
 The EA's target scale (heterogeneous, non-voluntary, multi-million-person bioregional networks) exceeds every historical precedent for multi-scale coherence. The Hansa achieved coherence across genuine heterogeneity through shared commercial interest and monopoly rents. The Jesuits achieved global coherence through formation and obedience within a self-selected religious order. Neither matches the EA's target conditions. The historical record supports multi-scale coherence in principle. It provides no clean precedent at the scale the bioregional transition targets. This is the single largest unproven parameter.
 
-The Valley of Grace prototype at Genadendal (in South Africa's Western Cape, a bioregion of roughly 25,000 people across a single watershed) is one live test at bioregional scale. Others are emerging in the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] Bauwens describes. The structural argument does not depend on any single prototype succeeding; it depends on the engineering specification being correct.
+The Valley of Grace prototype at Genadendal (in South Africa's Western Cape, a bioregion of roughly 30,000 people across a single watershed) is one live test at bioregional scale. Others are emerging in the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] Bauwens describes. The structural argument does not depend on any single prototype succeeding; it depends on the engineering specification being correct.
 
 ## Related pages
 
@@ -95,11 +95,11 @@ The Valley of Grace prototype at Genadendal (in South Africa's Western Cape, a b
 - [[templates/index|The Templates]] (the practical instruments through which the Emancipation Architecture is instantiated in a specific place)
 ## Sources
 
-- Haupt, M. (2026). *III Emancipation Architecture* (Movement III of the three-movement Emancipation Architecture, March 2026).
-- Steiner, R. (1919). *The Threefold Commonwealth*.
-- Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
+- [[haupt-michael|Haupt, M]]. (2026). *III Emancipation Architecture* (Movement III of the three-movement Emancipation Architecture, March 2026).
+- [[steiner-rudolf|Steiner, R]]. (1919). *The Threefold Commonwealth*.
+- [[ostrom-elinor|Ostrom, E]]. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
 - [[sources/ruddick-commitment-pooling-2023|Ruddick, W.O. (2023). "Commitment Pooling"]]
-- Power, S. and Seefeld, L., et al. (2024). *[[sources/power-seefeld-biofi|Bioregional Financing Facilities]]*
+- [[power-samantha|Power, S]]. and [[seefeld-leon|Seefeld, L]]., et al. (2024). *[[sources/power-seefeld-biofi|Bioregional Financing Facilities]]*
 
 ## Provenance
 

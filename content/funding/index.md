@@ -23,7 +23,7 @@ The folder is not a grant database. It documents the structural alignment betwee
 
 ## Related pages
 
-- [[funding/index|Sources]]
+- [[content/funding/index|Sources]]
 - [[concepts/index|Concepts]]
 - [[frameworks/index|Frameworks]]
 - [[research/index|Research]]

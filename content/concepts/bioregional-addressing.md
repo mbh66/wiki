@@ -50,7 +50,7 @@ Bioregional addressing extends past URLs. Currency codes (ZA-FiCom is a first-ge
 - [[bioregion|BioRegion]]
 - [[biohub|BioHub]]
 - [[biostack|BioStack]]
-- [[coordination-surface|Coordination Surface]]
+- [[content/coordination-surface|Coordination Surface]]
 - [[wiki-network/index|Wiki Network]]
 
 ## Sources

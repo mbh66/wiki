@@ -15,16 +15,18 @@ epistemic_status: "documented-framework"
 The characteristic physical structure a coordination form produces as it matures: 
 - sacred sites (T), 
 - cathedrals and capitol buildings (I), 
-- skyscrapers, stock exchanges, and trading floors (M), 
+- skyscrapers, stock exchanges, trading floors, and data centres (M), 
 - bioregional hub, or [[biohub|BioHub]]s (E).
 
-For a fuller explanation, see the framework, [[evolution-of-coordination-nodes]]
+For a fuller explanation, see the framework, [[evolution-of-coordination-nodes|Evolution of Coordination Nodes]].
 
 ## Related terms
 
 - [[time|TIME Framework]]
 - [[t-form-tribal|T form (Tribal)]]
+- [[i-form-institutional|I form (Institutional]]
 - [[m-form-market|M form (Market)]]
+- [[e-form-emergent|E form Emergent]]
 - [[human-coordination|Human Coordination]]
 
 ## Sources and associated figures

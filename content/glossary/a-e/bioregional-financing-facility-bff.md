@@ -3,20 +3,23 @@ title: "Bioregional Financing Facility (BFF)"
 aliases: ["Bioregional Financing Facility", "BFF"]
 tags: ["glossary"]
 term_type: "acronym"
-first_defined_in: ""
+first_defined_in: "Power-Seefeld BioFi report (2024)"
 related_terms: ["bioregional-economics"]
 source_project: "BioConomy"
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-12
 epistemic_status: "documented-framework"
 ---
 
 
 A phased institutional architecture (bioregional trust, venture studio, investment company, bioregional bank) through which a bioregion capitalizes its transition to a regenerative economy (Power, Seefeld, et al., 2024).
 
+For the full treatment of this architecture, see [[frameworks/bioregional-financing-facility|The Bioregional Financing Facility (framework)]].
+
 ## Related terms
 
 - [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[content/glossary/a-e/bioregional-currency|Bioregional Currency]]
 
 ## Sources and associated figures
 

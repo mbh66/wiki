@@ -17,6 +17,7 @@ Carrying cost on held currency: money loses value at a set rate while being held
 
 - [[regenerative-participation-income-rpi|Regenerative Participation Income (RPI)]]
 - [[coercion-continuum|The Coercion Continuum]]
+- [[content/glossary/a-e/bioregional-currency|Bioregional Currency]]
 - [[content/glossary/t-z/transvestment|Transvestment]]
 
 ## Related pages
@@ -27,8 +28,8 @@ Carrying cost on held currency: money loses value at a set rate while being held
 
 ## Sources
 
-- Gesell, S. (1916). *The Natural Economic Order*.
-- Lietaer, B. (2001). *The Future of Money*.
+- [[people/ancestors/gesell-silvio|Gesell, S.]] (1916). *The Natural Economic Order*.
+- [[people/ancestors/lietaer-bernard|Lietaer, B.]] (2001). *The Future of Money*.
 
 <script type="application/ld+json">
 {
