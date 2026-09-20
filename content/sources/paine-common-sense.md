@@ -29,7 +29,7 @@ Paine's fiscal reasoning within _Common Sense_ is straightforward: he calculated
 - [[paine-thomas|Thomas Paine]]
 - [[smith-adam|Adam Smith]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 <script type="application/ld+json">
 {

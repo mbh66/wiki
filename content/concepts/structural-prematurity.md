@@ -32,7 +32,7 @@ The falsification test is straightforward: track whether the current wave of res
 ## Related pages
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[retention-economics|Retention Economics (glossary)]]
 - [[s-curve|S-Curve (glossary)]]
 - [[hamilton-alexander|Alexander Hamilton]]

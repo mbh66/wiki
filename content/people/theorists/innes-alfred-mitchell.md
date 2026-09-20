@@ -39,7 +39,7 @@ Innes's destruction of the barter myth is separately significant for the BioCono
 - [[smith-adam|Adam Smith]]
 - [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

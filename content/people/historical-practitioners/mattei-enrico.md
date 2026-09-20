@@ -27,7 +27,7 @@ Mattei died in a plane crash near Bascapè in the province of Pavia on 27 Octobe
 - [[mosaddegh-mohammad|Mohammad Mosaddegh]]
 - [[sankara-thomas|Thomas Sankara]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

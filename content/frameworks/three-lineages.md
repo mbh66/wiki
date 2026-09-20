@@ -67,7 +67,7 @@ The mapping is programmatic rather than definitional. Its purpose is to operatio
 ## Related pages
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[throughput-economics|Throughput Economics (glossary)]]
 - [[retention-economics|Retention Economics (glossary)]]
 - [[regenerative-economics|Regenerative Economics (glossary)]]

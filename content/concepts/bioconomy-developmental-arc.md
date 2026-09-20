@@ -73,7 +73,7 @@ The figures were not wrong. They were early. The curve caught up.
 
 ## Related pages
 
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[content/concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]

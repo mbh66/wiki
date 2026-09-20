@@ -20,14 +20,14 @@ The July 2024 mining code raised the state's free minimum stake in mines from 10
 
 Traoré's February 2025 government claim to have cleared roughly 4.7 billion dollars in external debt is disputed. A Voice of America fact-check (February 2025) found that Burkina Faso still held an outstanding external debt of at least 10 billion dollars. The independently verifiable figure is repayment of approximately 2.1 billion dollars (CFA 1.2 trillion) in domestic debt from January to November 2025, confirmed by Minister of [[economy|Economy]] Aboubacar Nacanabo and by IMF Mission Chief Jaroslaw Wieczorek. This wiki treats the 4.7 billion external debt claim as an unverified government statement pending primary corroboration.
 
-Traoré belongs on this list because, if the [[frameworks/s-curve-thesis|S-Curve Thesis]] holds, he is acting at or after the global inflection point, where the gradient of the growth curve has shifted enough that [[retention-economics|retention]] logic is gaining rather than losing structural fitness. This is the falsification test the thesis puts on the record: whether the Sahel resource-nationalism wave proves more durable than Mosaddegh in 1953 or Sankara in 1987. Foreign investors have paused projects and launched legal challenges. Outcomes remain early and reversible (Speculative Projection). The next 24 to 36 months will supply the primary evidence.
+Traoré belongs on this list because, if the [[s-curve-thesis-old|S-Curve Thesis]] holds, he is acting at or after the global inflection point, where the gradient of the growth curve has shifted enough that [[retention-economics|retention]] logic is gaining rather than losing structural fitness. This is the falsification test the thesis puts on the record: whether the Sahel resource-nationalism wave proves more durable than Mosaddegh in 1953 or Sankara in 1987. Foreign investors have paused projects and launched legal challenges. Outcomes remain early and reversible (Speculative Projection). The next 24 to 36 months will supply the primary evidence.
 
 ## Related pages
 
 - [[sankara-thomas|Thomas Sankara]]
 - [[glazyev-sergei|Sergei Glazyev]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
 
 ## Sources

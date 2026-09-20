@@ -19,7 +19,7 @@ Irwin and Chepeliev's general-equilibrium reassessment of the 1846 repeal of the
 ## Cited by
 
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 <script type="application/ld+json">
 {

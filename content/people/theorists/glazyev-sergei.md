@@ -26,7 +26,7 @@ Glazyev belongs on this list as a transmission point where the Hamilton-Carey-Li
 - [[sankara-thomas|Thomas Sankara]]
 - [[lincoln-abraham|Abraham Lincoln]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

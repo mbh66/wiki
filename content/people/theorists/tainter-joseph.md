@@ -24,7 +24,7 @@ Tainter belongs on this list because the diminishing-returns-to-complexity argum
 
 - [[richardson-katherine|Katherine Richardson]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 
 ## Sources

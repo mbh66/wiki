@@ -37,7 +37,7 @@ The ecological factory's coordination cannot run on [[m-form-market|M-form]] log
 
 Every living system follows a growth curve. The early phase is rapid expansion: cells proliferate, structures differentiate, the organism grows fast and claims territory. The mature phase is different. Growth slows. Maintenance, repair, and regeneration take over as the primary activities. An oak tree in its first decades puts most of its energy into height and canopy spread. The same tree in its second century puts most of its energy into root depth, mycorrhizal partnerships, soil stabilization, and seed production. The growth changes form, rather than stopping. A living system cannot degrow and it cannot stop growing. The organism shifts from building structure to sustaining function.
 
-The *[[sources/meadows-limits-to-growth|Limits to Growth]]* report (Meadows et al., 1972) made the structural argument that industrial civilization was on a growth trajectory that could not continue in its existing form. The degrowth literature (Georgescu-Roegen, Daly, Latouche, Hickel) extended the argument into a political-economic program: if material throughput must decline, the economic system must be reorganized around sufficiency rather than expansion. The [[frameworks/s-curve-thesis|S-curve thesis]] adds the historical mapping: the retention economists who proposed exactly this reorganization were structurally premature during the acceleration phase and are becoming structurally necessary as the curve bends.
+The *[[sources/meadows-limits-to-growth|Limits to Growth]]* report (Meadows et al., 1972) made the structural argument that industrial civilization was on a growth trajectory that could not continue in its existing form. The degrowth literature (Georgescu-Roegen, Daly, Latouche, Hickel) extended the argument into a political-economic program: if material throughput must decline, the economic system must be reorganized around sufficiency rather than expansion. The [[s-curve-thesis-old|S-curve thesis]] adds the historical mapping: the retention economists who proposed exactly this reorganization were structurally premature during the acceleration phase and are becoming structurally necessary as the curve bends.
 
 All three literatures describe the same inflection from the perspective of the mechanical factory alone. They see the deceleration and ask what happens to the system that was built for acceleration. The two-factory frame sees something they do not describe: at the same moment the mechanical factory decelerates, the ecological factory must accelerate.
 
@@ -89,7 +89,7 @@ The maturity argument strengthens this position. A civilization entering the S-c
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[concepts/retention-logic|Retention Logic]]

@@ -27,7 +27,7 @@ Mosaddegh belongs on this list because his defeat is the clearest twentieth-cent
 - [[sankara-thomas|Thomas Sankara]]
 - [[traore-ibrahim|Ibrahim Traoré]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

@@ -27,6 +27,7 @@ The BioConomy corpus stands inside a network of aligned wikis. Several long-runn
 - **[[omniharmonic-wiki|Omniharmonic]]** ([wiki.omniharmonic.com](https://wiki.omniharmonic.com)). [[life-benjamin|Benjamin Life]]'s Quartz-based research wiki on bioregional governance, regenerative accelerationism, and the meta-crisis.
 - **[[biohubs-earth|BioHubs.earth]]** ([biohubs.earth](https://biohubs.earth)). Metabolic-led research publication and interactive directory documenting 152 BioHub initiatives across 44 countries.
 - **[[bioregioning-earth|Bioregioning Earth]]** ([bioregioning.earth](https://bioregioning.earth)). Public knowledge base mapping 110 bioregional actors and initiatives across ten thematic areas.
+- **[[gaianet-earth|GaiaNet]]** ([gaianet.earth](https://www.gaianet.earth/ecosystem)). Curated ecosystem directory mapping regenerative initiatives worldwide across twelve or more domains including governance, economics, food systems, and community coordination.
 
 ## How the folder is organized
 

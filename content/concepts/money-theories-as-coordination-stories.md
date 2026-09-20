@@ -59,7 +59,7 @@ The Substrate Hypothesis says coordination is a property of substrate. The conce
 - [[modern-monetary-theory|Modern Monetary Theory]]
 - [[metallism|Metallism]]
 - [[t-form-tribal|T form (Tribal)]]
-- [[s-curve-thesis|S-Curve Thesis]]
+- [[s-curve-thesis-old|S-Curve Thesis]]
 - [[content/concepts/structural-prematurity|Structural Prematurity]]
 - [[consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[cheapest-available-behavior|Cheapest Available Behavior Thesis]]

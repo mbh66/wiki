@@ -19,7 +19,7 @@ The foundational document of the American [[retention-economics|retention]] trad
 ## Cited by
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[hamilton-alexander|Alexander Hamilton]]
 - [[american-system|American System (glossary)]]

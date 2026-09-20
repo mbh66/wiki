@@ -43,7 +43,7 @@ Marx's fiscal thinking is less developed than Smith's or Ricardo's, because he t
 - [[throughput-economics|Throughput Economics]]
 - [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

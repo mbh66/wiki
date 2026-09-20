@@ -20,7 +20,7 @@ The 2023 update to the planetary boundaries framework originally proposed by Roc
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[richardson-katherine|Katherine Richardson]]
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]

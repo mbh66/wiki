@@ -105,7 +105,7 @@ Each of these is a partial instantiation. None yet holds the full BioStack (BioH
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[two-machines|Two Machines]]

@@ -40,7 +40,7 @@ Mill belongs on this list because he consolidated the collective coordination st
 - [[polanyi-karl|Karl Polanyi]]
 - [[throughput-economics|Throughput Economics]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 
 ## Sources

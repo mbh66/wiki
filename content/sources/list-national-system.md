@@ -19,7 +19,7 @@ List's masterwork and the foundational text of the infant-industry-protection tr
 ## Cited by
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[list-friedrich|Friedrich List]]
 - [[infant-industry-protection|Infant Industry Protection (glossary)]]

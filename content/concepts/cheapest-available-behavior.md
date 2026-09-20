@@ -55,7 +55,7 @@ The thesis is a claim about aggregate behavior across populations, and it says n
 
 The thesis is also silent on which substrates are ethically justifiable. It is a description of how substrates coordinate behavior, and it offers no defense of any particular substrate or the coordination it produces. Coercive substrates coordinate behavior effectively. Commons-based substrates coordinate behavior effectively. Slavery-based monetary substrates (see [[coercion-continuum|The Coercion Continuum]]) coordinated behavior effectively for four centuries. The thesis does not distinguish among these on normative grounds; that distinction is the work of the Coercion Continuum and related normative concepts.
 
-The thesis does not predict the direction of civilizational change. It predicts that whatever substrate is in place will produce behavior consistent with its cost structure. What substrate emerges from the deceleration phase of the industrial [[s-curve-thesis|S-curve]] is a separate question the thesis does not answer.
+The thesis does not predict the direction of civilizational change. It predicts that whatever substrate is in place will produce behavior consistent with its cost structure. What substrate emerges from the deceleration phase of the industrial [[s-curve-thesis-old|S-curve]] is a separate question the thesis does not answer.
 
 ## See also
 

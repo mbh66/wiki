@@ -1,91 +1,67 @@
 ---
-title: "The S-Curve Thesis"
-aliases: ["S-curve mapping", "structural mapping of retention"]
-tags: ["framework", "s-curve", "retention", "core-framework"]
-created: 2026-08-25
-updated: 2026-08-25
-source_project: "BioConomy"
-source_documents: ["Research_Brief_Growth_Economics.md"]
-epistemic_status: "structural-inference"
+title: The S-Curve Thesis
+aliases: [S-curve, S-curve thesis, human developmental S-curve]
+tags: [framework, s-curve, deceleration, substrate-transition, momentous-leap, sensor-response, three-lineages]
+created: 2025-11-01
+updated: 2026-09-18
+source_project: BioConomy Full
+source_documents:
+  - Michael Haupt, working notes on civilizational deceleration
+  - Steve Keen interview on the collapse of dollar reserve status (2026)
+  - Ryan Orbuch, Natural General Intelligence (September 2026)
+epistemic_status: working-hypothesis
+about_terms: [s-curve, momentous-leap, sensor-response-money, three-lineages, substrate-hypothesis, reserve-currency-cycle]
 ---
 
-The S-Curve Thesis is the analytical claim that every historical [[retention-economics|retention]]-economics figure worked during the steep acceleration phase of the industrial [[s-curve|S-curve]], or at its approach, and that this timing determined their fate: retention succeeded when it coincided with a nation's own catch-up industrialization and failed where it challenged the [[throughput|throughput]] order's access to peripheral resources.
+The S-Curve Thesis holds that human civilization traces an S-shaped trajectory of development composed of three phases: an acceleration phase in which throughput compounds, a deceleration phase in which throughput reaches the limits of its planetary substrate, and a post-transition phase whose form depends on whether the civilization successfully changes its coordination substrate during deceleration. The load-bearing claim of this framework is that each phase requires a distinct monetary substrate to hold its coordination behavior, and that the transition between phases is a substrate transition. Most civilizations that have reached this transition have failed to make it, and have collapsed back into the prior pattern. The [[the-momentous-leap|Momentous Leap]] is the name for successfully making the transition into a phase that does not repeat.
 
-## Overview
+## The three phases
 
-The thesis performs one primary analytical operation. It takes the retention lineage documented by peer-reviewed economic history (Chang, Reinert, Polanyi) and maps each figure onto the growth curve of industrial civilization. The map yields three observations that would be hard to see without it.
+The acceleration phase is characterized by exponential growth in energy consumption, population, material extraction, monetary aggregate, and coordination reach. It runs from the beginning of the Industrial Revolution through the mid-twentieth century, with its steepest gradient after World War II. The coordination substrate of this phase is debt-based money with positive interest, which structurally requires growth for its own redemption. This substrate makes throughput the [[cheapest-available-behavior|cheapest available behavior]] at every coordination-node scale from household to state. The acceleration is what the substrate is designed to produce, and the substrate is what makes the acceleration cheap enough to compound.
 
-First, the figures whose ideas were implemented at scale (Clay, Carey, Lincoln, Bismarck's Germany) were all operating during the steep acceleration phase of their own nation's industrial curve. Retention was implementable precisely because it aligned with a growth phase that could reward domestic industrialization.
+The deceleration phase begins when throughput reaches the limits of what its substrate can extract from the planetary system without depleting the substrate itself. This is where human civilization is now. The extractable frontier has closed. Every incremental unit of throughput now requires more energy, more capital, more infrastructure than the last. The monetary aggregate continues to grow because debt continues to be issued, but the growth in the underlying real economy has decoupled from the growth in money. The [[three-futures|Three Futures]] framework maps the possible responses at this phase: business-as-usual, digital enclosure, or a substrate change.
 
-Second, the figures whose ideas were rejected, delayed, or reversed (Hamilton at the base of the American curve, List at the base of the German curve, Mattei and Mosaddegh and Sankara in the periphery of the post-war global curve) were operating either too early or in the wrong location relative to the dominant order. The growth curve itself selected for throughput globally, and retention succeeded only in the specific pockets where a nation's catch-up interest aligned with the mechanism.
+The post-transition phase is only reachable through a successful substrate change. Its form depends on which substrate is adopted. This framework, together with [[sensor-response-money|sensor-response money]] and the [[three-lineages|Three Lineages]] framework, identifies retention-forcing coordination money as the substrate that produces a phase capable of persisting. Whether this substrate takes hold, and whether it is adopted quickly enough to matter, is the open question of the current historical moment.
 
-Third, and most consequential for the present, if the industrial curve is now entering deceleration, the frameworks that were structurally premature during the acceleration phase are becoming structurally necessary. This is the sharp, testable prediction the thesis puts on the record.
+## The substrate transition
 
-## The mapping
+The framework's central mechanism is that the transition between phases is a monetary substrate transition. Debt-based money with positive interest was the correct substrate for the acceleration phase because it structurally forced the throughput that the acceleration required. That same substrate is fatal to the deceleration phase because it continues to force throughput in a system that cannot supply it, driving the substrate to consume its own base.
 
-The figures fall into four groups by their S-curve position.
+The substrate expression of the deceleration phase is sensor-response money: a currency form whose issuance is bounded by measured biophysical and community state and whose redemption depends on delivered stewardship. The mechanism is developed in the [[sensor-response-money|sensor-response money]] concept entry. The relevant claim here is that the phase transition requires the currency form to change, and that no amount of policy adjustment within the debt-based substrate produces a durable exit from acceleration into anything other than collapse.
 
-### Base of national curve, ideas premature
+The parallel is to Elisabet Sahtouris's account of juvenile-to-mature transition in biological evolution. Juvenile organisms grow by consuming their environment. Mature organisms sustain themselves by stewarding the shared substrate. The transition from juvenile to mature is a metabolic change: the organism stops behaving as an extractive process and starts behaving as a maintenance process. The S-Curve Thesis holds that human civilization is undergoing the analogous transition, and that its metabolic layer is monetary.
 
-**Alexander Hamilton (1791).** United States industrial S-curve barely started. Tariff recommendations adopted in 1792; subsidy recommendations rejected. Described by historians as a quarter century ahead of his time.
+## The proviso
 
-**Friedrich List (1841 theory, died 1846).** German industrial curve pre-Bismarck. Died impoverished by suicide, a generation before the framework was vindicated.
+Most civilizations that have reached the deceleration phase have failed the substrate transition and collapsed. The failure mode is documented in the [[reserve-currency-cycle|Reserve Currency Cycle]]: the dominant power exhausts its productive base under the weight of currency overvaluation, another power inherits the imperial position with the same monetary substrate, and the cycle repeats at whatever civilizational scale is available. The Bronze Age collapse, the fall of the western Roman Empire, the Mayan collapse, and the more recent European colonial empires each represent a version of the failure at their respective scales.
 
-### Steep acceleration, ideas implemented
+The current cycle is running at planetary scale for the first time. There is no next vassal state waiting to inherit the reserve function that the United States is losing, because the productive-base decline is now general across the industrial economies rather than concentrated in the outgoing empire. The failure mode this time either produces the substrate transition or produces a general collapse of the acceleration-phase civilization. There is no third option that preserves the current monetary architecture in a different national holder for another century.
 
-**Henry Clay (1816 to 1850).** [[american-system|American System]] (tariffs, national bank, internal improvements) enacted through the antebellum tariff wall despite Nullification-Crisis opposition.
+This is what makes the current transition genuinely different from prior instances. The Momentous Leap is not one option among several. It is one of two outcomes. The other outcome is the general collapse.
 
-**Henry Carey (1851 to 1865).** Advised Lincoln and Treasury Secretary Chase; helped shape the Morrill Tariff of 1861. United States manufacturing became the largest in the world by 1900.
+## The three lineages as phase expressions
 
-**Abraham Lincoln (1861 to 1865).** The most coherent retention program in United States history. Assassinated 1865; program continued for a generation.
+The [[three-lineages|Three Lineages]] framework identifies throughput, retention, and regenerative traditions of economic thought. This framework attaches each lineage to a phase of the S-curve.
 
-**Bismarck's Germany (from 1879).** Iron and rye tariff protected strategic industries. German industrial output second in the world by 1900; population grew from 41 million (1871) to nearly 70 million (1913).
+The throughput lineage is the intellectual expression of the acceleration phase. Its canonical thinkers (from Adam Smith through Milton Friedman and the neoclassical tradition) describe and defend the substrate that made acceleration cheap. Their frameworks work correctly within the substrate they describe.
 
-### Post-war periphery, ideas reversed
+The retention lineage is the intellectual expression of the deceleration phase. Its canonical thinkers (Karl Polanyi, Elinor Ostrom, Kate Raworth, Herman Daly) describe the substrate change that the deceleration phase requires. Their frameworks describe what the throughput substrate cannot see: the finite base, the commons, the boundaries within which economic activity has to sit.
 
-**Enrico Mattei (1945 to 1962).** ENI, domestic gas, the [[mattei-formula|Mattei Formula]]. Killed 1962; 2003 Pavia investigation concluded criminal sabotage.
+The regenerative lineage is the intellectual expression of the post-transition phase. Its canonical thinkers are still emerging, and its full form is not yet documented. What is visible is that this lineage extends the retention insight from bounded activity toward net-positive contribution: activity that does more than avoid depletion, activity that restores. Whether this lineage produces a coherent framework depends in part on whether the substrate transition supports it.
 
-**Mohammad Mosaddegh (1951 to 1953).** Nationalized the Anglo-Iranian Oil Company. Overthrown August 1953 by Operation Ajax; CIA officially acknowledged the coup in August 2013.
+Each lineage produces a currency form that is the monetary expression of its substrate. Throughput lineage produces throughput currency (debt-based fiat with positive interest). Retention lineage produces retention currency (sensor-response money). The regenerative lineage's currency form is under active discovery by the wayfinders. The relationship between currency form and lineage is what upgrades this framework from pure structural inference toward a specifiable mechanism.
 
-**Thomas Sankara (1983 to 1987).** Food self-sufficiency, mass vaccination, literacy, debt repudiation, tree-planting. Assassinated October 1987 by a coup led by Blaise Compaoré. April 2022 Burkinabè military tribunal convicted Compaoré (in absentia) and sentenced him to life imprisonment.
+## Epistemic notes
 
-### At or after the global inflection
+The S-curve description of human civilization is a well-supported inference from data across energy consumption, population, material throughput, monetary aggregate, and other indicators. The novel claim of this framework is not the S-curve description; it is the substrate mechanism attached to it. The claim that debt-based money is the substrate expression of the acceleration phase and sensor-response money is the substrate expression of the deceleration phase remains at working-hypothesis status.
 
-**Ibrahim Traoré (2022 to present).** Sahel resource nationalism, new mining code, nationalization of the Boungou and Wahgnion mines, ECOWAS exit. Explicitly framed as reviving Sankara's project. Early and reversible; outcomes unverified.
+The claim that most civilizations fail the transition is well-supported historically. The claim that this cycle either produces the Momentous Leap or produces general collapse is a stronger claim that depends on the observation that no successor imperial base is currently available to inherit the failing role. That observation is defensible but is not a proof.
 
-**Sergei Glazyev (2012 to present).** De-dollarization, Eurasian integration, commodity-backed settlement architecture. Transmission point where the retention lineage re-enters state policy at a major-power scale.
+The framework should be revisited as the substrate transition mechanism accumulates empirical grounding at the ground and middle tiers of the [[sensor-response-money|sensor-response money]] architecture, particularly through the wayfinder work of the [[valley-of-grace|Valley of Grace BioHub]].
 
-## The three claims the mapping supports
+## Related entries
 
-**One.** Retention succeeded when the local S-curve position and the mechanism aligned. Hamilton was too early; Lincoln was on time; Sankara was in the wrong location relative to the throughput order.
-
-**Two.** The mechanism of failure in the periphery cases was reversal, not persuasion. Coups (Iran 1953, Burkina Faso 1987), suspicious deaths (Italy 1962), and [[washington-consensus|structural adjustment]] (developing world 1980s and 1990s) were the mechanisms by which retention was defeated. The historical record excludes ideological refutation as an explanation.
-
-**Three.** If the deceleration indicators (see [[concepts/deceleration-indicators|Deceleration Indicators]]) are read correctly, the same mechanisms that removed Mattei and Mosaddegh and Sankara should be less effective now, because the gradient of the global curve has shifted. Whether that prediction holds is testable against the Sahel wave and against the durability of industrial policy in the United States and the European Union over the next two to three years.
-
-## Guardrails on the thesis
-
-The mapping is an original Structural Inference. It is not established fact. Its main risks are three: contamination by conspiracy framing (the deaths of Mattei, Mosaddegh, Sankara, and Lincoln each had specific documented causes, and the thesis rests on the pattern of reversal across cases rather than on any single unified explanation); confusion of correlation with causation (attributing United States or German industrial growth specifically to tariffs, rather than to geography, resources, immigration, and institutions, is contested Academic Inference and treated as contested throughout); and the inherently unfalsifiable nature of forward-looking claims about when the inflection has passed.
-
-The thesis is offered as an interpretive frame that makes better sense of the pattern than the throughput-history alternative, not as a proof. The falsification test is explicit: track the Sahel wave and the industrial-policy durability over 24 to 36 months.
-
-## Related pages
-
-- [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[concepts/structural-prematurity|Structural Prematurity]]
-- [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
-- [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-
-## Sources
-
-- Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
-- Reinert, E. (2007). *[[sources/reinert-how-rich-countries-got-rich|How Rich Countries Got Rich and Why Poor Countries Stay Poor]]*
-- Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
-
-## Provenance
-
-The framework is the analytical contribution of the *Research Brief: The S-Curve Thesis* and is flagged as Structural Inference in the brief itself.
+[[sensor-response-money]] · [[three-lineages]] · [[the-momentous-leap]] · [[reserve-currency-cycle]] · [[three-futures]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[time-framework]] · [[emancipation-architecture]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [[sahtouris]] · [[keen]] · [[valley-of-grace]]
 
 <script type="application/ld+json">
 {
@@ -93,16 +69,18 @@ The framework is the analytical contribution of the *Research Brief: The S-Curve
   "@type": "CreativeWork",
   "@id": "https://wiki.bioconomy.earth/frameworks/s-curve-thesis/",
   "name": "The S-Curve Thesis",
-  "description": "The S-Curve Thesis is the analytical claim that every historical retention-economics figure worked during the steep acceleration phase of the industrial S-curve, or at its approach, and that this timing determined their fate: retention succeeded when it coincided with a nation's own catch-up industrialization and failed where it challenged the throughput order's access to peripheral resources.",
-  "isPartOf": {
-    "@id": "https://wiki.bioconomy.earth/#website"
-  },
-  "dateModified": "2026-08-25",
-  "datePublished": "2026-08-25",
-  "creativeWorkStatus": "structural-inference",
-  "author": {
-    "@type": "Person",
-    "name": "Michael Haupt"
-  }
+  "description": "The framework that human civilization traces an S-shaped trajectory composed of acceleration, deceleration, and post-transition phases, each requiring a distinct monetary substrate. The transition between phases is a substrate transition, most civilizations fail it, and successful navigation is the Momentous Leap.",
+  "author": {"@type": "Person", "name": "Michael Haupt"},
+  "dateModified": "2026-09-18",
+  "about": [
+    {"@id": "https://wiki.bioconomy.earth/glossary/s-curve/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/the-momentous-leap/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/sensor-response-money/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/three-lineages/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/reserve-currency-cycle/"}
+  ],
+  "isPartOf": {"@id": "https://wiki.bioconomy.earth/#website"},
+  "creativeWorkStatus": "working-hypothesis"
 }
 </script>

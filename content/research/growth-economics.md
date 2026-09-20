@@ -9,7 +9,7 @@ source_documents: ["Research_Brief_Growth_Economics.md"]
 epistemic_status: "mixed"
 ---
 
-The research brief that grounds the [[concepts/bioconomy-developmental-arc|BioConomy Developmental Arc]] concept and the [[frameworks/s-curve-thesis|S-Curve Thesis]] framework. Preserved with the original epistemic tagging (Documented Fact, Academic Inference, Structural Inference, Speculative Projection) intact.
+The research brief that grounds the [[concepts/bioconomy-developmental-arc|BioConomy Developmental Arc]] concept and the [[s-curve-thesis-old|S-Curve Thesis]] framework. Preserved with the original epistemic tagging (Documented Fact, Academic Inference, Structural Inference, Speculative Projection) intact.
 
 ## Executive Summary
 
@@ -308,7 +308,7 @@ The research brief that grounds the [[concepts/bioconomy-developmental-arc|BioCo
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 
 ## Provenance

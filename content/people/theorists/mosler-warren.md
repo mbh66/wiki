@@ -48,7 +48,7 @@ The parable does not appear in Mosler's published books in this form. It is a le
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/sound-finance|Sound Finance]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

@@ -52,7 +52,7 @@ The individual indicators are robust. Their synthesis into a single civilization
 ## Related pages
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[s-curve|S-Curve (glossary)]]
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]
 - [[eroi|EROI (glossary)]]

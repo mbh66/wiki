@@ -94,7 +94,7 @@ The design question for a bioregional currency is whether the demand driver can 
 - [[functional-finance|Functional Finance]]. Lerner's named alternative.
 - [[metallism|Metallism]]. The compatible doctrine on money's nature.
 - [[content/concepts/structural-prematurity|Structural Prematurity]]. Functional finance as an inflection-point insight that waited eighty years.
-- [[s-curve-thesis|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
+- [[s-curve-thesis-old|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
 
 ## Sources
 

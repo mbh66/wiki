@@ -27,7 +27,7 @@ Hamilton belongs on this list as the paradigm case of [[content/concepts/structu
 - [[list-friedrich|Friedrich List]]
 - [[lincoln-abraham|Abraham Lincoln]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

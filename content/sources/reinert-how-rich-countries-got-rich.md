@@ -19,7 +19,7 @@ Reinert generalizes the [[retention-economics|retention]]-tradition documentatio
 ## Cited by
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[reinert-erik|Erik Reinert]]

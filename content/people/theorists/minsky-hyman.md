@@ -40,7 +40,7 @@ For the BioConomy corpus, Minsky's contribution is the demonstration that the th
 - [[kelton-stephanie|Stephanie Kelton]]
 - [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 
 ## Sources

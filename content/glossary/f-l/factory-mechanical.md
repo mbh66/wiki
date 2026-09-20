@@ -27,7 +27,7 @@ The mechanical factory can operate without [[t-form-tribal|T-form]] bonds. A tec
 
 ## What happens at maturity
 
-The [[frameworks/s-curve-thesis|S-curve thesis]], the *[[sources/meadows-limits-to-growth|Limits to Growth]]* literature, and the degrowth economists (Georgescu-Roegen, [[daly-herman|Daly]], Latouche, Hickel) all describe the same condition: the mechanical factory's growth trajectory cannot continue in its existing form on a finite planet. The deceleration indicators that mark the industrial curve's inflection point are simultaneously indicators that the [[factory-ecological|ecological factory's]] degradation has reached a threshold.
+The [[s-curve-thesis-old|S-curve thesis]], the *[[sources/meadows-limits-to-growth|Limits to Growth]]* literature, and the degrowth economists (Georgescu-Roegen, [[daly-herman|Daly]], Latouche, Hickel) all describe the same condition: the mechanical factory's growth trajectory cannot continue in its existing form on a finite planet. The deceleration indicators that mark the industrial curve's inflection point are simultaneously indicators that the [[factory-ecological|ecological factory's]] degradation has reached a threshold.
 
 The [[concepts/two-factories|two-factory frame]] reframes this as a developmental shift rather than a decline. The mechanical factory decelerates. The ecological factory accelerates. A civilization that sees only the mechanical factory's deceleration panics, moralizes, or denies. A civilization that sees both factories recognizes what every living system does at maturity: growth changes form.
 

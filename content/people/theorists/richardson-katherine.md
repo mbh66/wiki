@@ -24,7 +24,7 @@ Richardson belongs on this list because the 2023 update is the single most impor
 - [[tainter-joseph|Joseph Tainter]]
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 
 ## Sources

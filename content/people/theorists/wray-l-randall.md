@@ -41,7 +41,7 @@ For the BioConomy corpus, Wray's significance is that he completed the intellect
 - [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

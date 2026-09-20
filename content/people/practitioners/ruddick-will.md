@@ -1,5 +1,5 @@
 ---
-title: "Will Ruddick"
+title: Will Ruddick
 aliases:
   - Will Ruddick
   - Ruddick
@@ -9,11 +9,11 @@ tags:
   - complementary-currencies
 created: 2026-08-25
 updated: 2026-08-27
-source_project: "BioConomy"
+source_project: BioConomy
 source_documents:
   - BioHub_Glossary_Notion_Export
   - Roam Research (MichaelHaupt graph)
-epistemic_status: "documented-fact"
+epistemic_status: documented-fact
 ---
 
 American development economist focusing on currency innovation in East Africa. Founder of [[glossary/grassroots-economics|Grassroots Economics]] and the Commitment Pooling Protocol, drawing on the [[mweria|Mweria]] rotating labor tradition of coastal Kenya. Creator of the PATH License (Public Awareness and Transparent Heritage) and developer of [[commitment-pool|CIC]] (Community Inclusion Currencies).

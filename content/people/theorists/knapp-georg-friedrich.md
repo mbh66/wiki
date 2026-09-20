@@ -38,7 +38,7 @@ Knapp's work disappeared from mainstream economics for most of the twentieth cen
 - [[kelton-stephanie|Stephanie Kelton]]
 - [[smith-adam|Adam Smith]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 
 ## Sources

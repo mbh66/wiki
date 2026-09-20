@@ -39,7 +39,7 @@ Lerner's position in the MMT lineage is that of the figure who stated the operat
 - [[kelton-stephanie|Stephanie Kelton]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 

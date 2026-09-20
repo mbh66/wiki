@@ -38,7 +38,7 @@ Kelton's work is significant for the collective-story thesis in one further resp
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 - [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
-- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
+- [[s-curve-thesis-old|The S-Curve Thesis]]
 
 ## Sources
 
