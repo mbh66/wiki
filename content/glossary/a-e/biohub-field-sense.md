@@ -17,7 +17,7 @@ The emerging global field of place-based coordination initiatives operating at l
 ## Related terms
 
 - [[bioregion|BioRegion]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[biohub|BioHub]]
 
 ## Sources and associated figures

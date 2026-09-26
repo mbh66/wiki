@@ -34,7 +34,7 @@ The term also differs from [[extractive|extractive]] as a general descriptor. Ex
 
 ## Related terms
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[extractive|Extractive]]
 - [[federated-cooperative|Federated cooperative]]
 - [[bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]

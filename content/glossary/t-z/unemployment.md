@@ -25,13 +25,13 @@ All of these responses share an assumption: the solution to exclusion from the +
 
 The +[[e-form-emergent|E form]] reads the same population differently. The person the +M form calls unemployed is not without capacity, local knowledge, time, or willingness to contribute to the health of the place they live in. They may clear invasive vegetation, monitor water points, grow food, maintain paths, care for children or elderly neighbors, preserve cultural knowledge, or restore degraded land. The +M form cannot see this activity because it produces no price signal and generates no tax revenue. Within +M grammar, the activity does not exist as economic coordination. The person remains unemployed.
 
-The +E form calls this an [[unrecognized-contribution|unrecognized contribution]]. The capacity is real. The work is real. What is missing is a coordination substrate that makes the work legible, compensates it, and connects it to the wider economy. The bioregional currency, operating through the demand mechanism described in [[content/concepts/obligation-and-invitation|Obligation and Invitation]], provides that substrate. The person who earns bioregional currency by doing stewardship work has full economic standing in the +E grammar. They have not found a job. They have gained standing in a second coordination system whose entry requirements match what they already have.
+The +E form calls this an [[unrecognized-contribution|unrecognized contribution]]. The capacity is real. The work is real. What is missing is a coordination substrate that makes the work legible, compensates it, and connects it to the wider economy. The bioregional currency, operating through the demand mechanism described in [[concepts/obligation-and-invitation|Obligation and Invitation]], provides that substrate. The person who earns bioregional currency by doing stewardship work has full economic standing in the +E grammar. They have not found a job. They have gained standing in a second coordination system whose entry requirements match what they already have.
 
 ## The two readings together
 
 The two readings are not in conflict. They describe the same population from within different [[coordination-grammar|coordination grammars]]. The +M reading is accurate: the person cannot discharge their tax obligation and cannot find wage employment. The +E reading is also accurate: the person has capacity the +M form cannot recognize.
 
-A society that offers only the +M reading has one response to exclusion: get the person back into wage employment. A society that holds both readings has two responses: wage employment for those who can access it, and bioregional participation for those who cannot (or who choose the +E pathway for other reasons). The [[content/concepts/obligation-and-invitation|Obligation and Invitation]] concept develops the structural argument for why both responses are needed and why neither can substitute for the other.
+A society that offers only the +M reading has one response to exclusion: get the person back into wage employment. A society that holds both readings has two responses: wage employment for those who can access it, and bioregional participation for those who cannot (or who choose the +E pathway for other reasons). The [[concepts/obligation-and-invitation|Obligation and Invitation]] concept develops the structural argument for why both responses are needed and why neither can substitute for the other.
 
 ## Related terms
 
@@ -45,9 +45,9 @@ A society that offers only the +M reading has one response to exclusion: get the
 
 ## Related pages
 
-- [[content/concepts/obligation-and-invitation|Obligation and Invitation]]
-- [[content/concepts/coordination-grammar|Coordination Grammar]]
-- [[content/concepts/economy-versus-bioconomy|Economy versus BioConomy]]
+- [[concepts/obligation-and-invitation|Obligation and Invitation]]
+- [[concepts/coordination-grammar|Coordination Grammar]]
+- [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
 
 ## Sources
 

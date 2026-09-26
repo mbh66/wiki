@@ -41,7 +41,7 @@ In the [[time|TIME]] framework, the municipality is an [[i-form-institutional|I-
 - [[biostack|BioStack]]
 - [[municipality|Municipality]]
 - [[coordination-node|Coordination Node]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[biohub-field-sense|BioHub (field sense)]]
 - [[bioregional-learning-centre|Bioregional Learning Centre]]
 - [[e-form-emergent|E form (Emergent)]]

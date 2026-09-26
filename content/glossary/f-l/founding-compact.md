@@ -51,7 +51,7 @@ The Compact's structure follows the Identity Template's Prompt 3 specification:
 - [[alignment-compact|Alignment Compact]]
 - [[commitment-pool|Commitment Pool]]
 - [[e-form-emergent|+E Coordination Form]]
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
 
 ## Sources
 

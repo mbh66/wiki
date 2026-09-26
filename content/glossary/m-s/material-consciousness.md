@@ -22,7 +22,7 @@ Under Material Consciousness, Steiner's V2 operates as the application of indivi
 
 Material Consciousness is not a pejorative. It describes a specific developmental achievement with specific structural consequences. The BioConomy corpus does not argue that Material Consciousness is wrong or bad. It argues that it is incomplete, that it describes only one mode of value creation, and that the conditions now emerging (S-curve deceleration, ecological overshoot, complexity collapse) require a form of consciousness adequate to distributed, ecological coordination, which Material Consciousness cannot provide.
 
-Material Consciousness is to [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] as a young, competitive ecosystem is to a mature, cooperative one in Sahtouris's biological framework.
+Material Consciousness is to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] as a young, competitive ecosystem is to a mature, cooperative one in Sahtouris's biological framework.
 
 ## Usage in Context
 
@@ -32,7 +32,7 @@ Material Consciousness is to [[content/glossary/m-s/mycelial-consciousness|Mycel
 
 ## Related Terms
 
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[first-tier|First Tier]]
 - [[momentous-leap|Momentous Leap]]
 - [[framer|Framer]]

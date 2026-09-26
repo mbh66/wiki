@@ -29,7 +29,7 @@ The Framer is not a teacher, coach, or consultant in the conventional sense. Tho
 ## Related Terms
 
 - [[material-consciousness|Material Consciousness]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[crisis-codes|Crisis Codes]]
 
 ## Sources

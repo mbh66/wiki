@@ -43,9 +43,9 @@ Transvestment: one-directional crossing between value regimes, exit foreclosed b
 
 ## Related terms
 
-- [[content/glossary/t-z/transvestment|Transvestment]]
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/t-z/transvestment|Transvestment]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[alpha-window|Alpha Window]]
 
 ## Related pages
@@ -63,7 +63,7 @@ Transvestment: one-directional crossing between value regimes, exit foreclosed b
 
 ## Provenance
 
-Entry created 20 September 2026 as a paired glossary entry with [[content/glossary/t-z/transvestment|transvestment]]. The structural analysis (exit option as diagnostic, the (+T+I+M)^+N test applied to impact investing, the gradient across the five transvestment pathways) is the author's. The GIIN market-size figure is from the 2022 sizing report. The Fugger/Medici positioning draws on the Emancipation Architecture's patronage analysis as documented in the transvestment concept page.
+Entry created 20 September 2026 as a paired glossary entry with [[glossary/t-z/transvestment|transvestment]]. The structural analysis (exit option as diagnostic, the (+T+I+M)^+N test applied to impact investing, the gradient across the five transvestment pathways) is the author's. The GIIN market-size figure is from the 2022 sizing report. The Fugger/Medici positioning draws on the Emancipation Architecture's patronage analysis as documented in the transvestment concept page.
 
 <script type="application/ld+json">
 {

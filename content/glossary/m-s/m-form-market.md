@@ -52,7 +52,7 @@ The M form coordinates through competition; the [[e-form-emergent|E form]] coord
 - [[throughput-economics|Throughput Economics]]
 - [[alpha-window|Alpha Window]]
 - [[performance-based-bond|Performance-based bond]]
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
 - [[payment-for-ecosystem-services-pes|Payment for ecosystem services (PES)]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
 

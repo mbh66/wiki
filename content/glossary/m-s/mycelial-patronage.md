@@ -25,9 +25,9 @@ Mycelial Patronage is not regenerative capitalism (which retains private ownersh
 
 ## Related terms
 
-- [[content/glossary/t-z/transvestment|Transvestment]]
+- [[glossary/t-z/transvestment|Transvestment]]
 - [[three-feature-test|Three-Feature Test]] (see also [[frameworks/three-feature-test|framework page]])
-- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
+- [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 
 ## Related pages
 

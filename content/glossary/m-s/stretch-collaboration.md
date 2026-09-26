@@ -15,7 +15,7 @@ Collaboration across formerly competing entities into a functional whole that is
 
 ## Related terms
 
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[endosymbiosis|Endosymbiosis]]
 
 ## Related pages

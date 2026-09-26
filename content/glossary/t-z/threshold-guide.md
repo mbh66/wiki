@@ -18,7 +18,7 @@ The role is developed across the coordinator's Framer OS essays and is presented
 ## Related terms
 
 - [[framer|Framer]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[stretch-collaboration|Stretch Collaboration]]
 
 ## Sources

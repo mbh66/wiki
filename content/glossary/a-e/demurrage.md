@@ -17,8 +17,8 @@ Carrying cost on held currency: money loses value at a set rate while being held
 
 - [[regenerative-participation-income-rpi|Regenerative Participation Income (RPI)]]
 - [[coercion-continuum|The Coercion Continuum]]
-- [[content/glossary/a-e/bioregional-currency|Bioregional Currency]]
-- [[content/glossary/t-z/transvestment|Transvestment]]
+- [[glossary/a-e/bioregional-currency|Bioregional Currency]]
+- [[glossary/t-z/transvestment|Transvestment]]
 
 ## Related pages
 

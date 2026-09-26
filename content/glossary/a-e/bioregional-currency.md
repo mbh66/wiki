@@ -26,8 +26,8 @@ For the full treatment of this instrument class, see [[frameworks/bioregional-cu
 - [[demurrage|Demurrage]]
 - [[regenerative-participation-income-rpi|Regenerative Participation Income (RPI)]]
 - [[bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
-- [[content/concepts/commitment-pooling|Commitment Pooling]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[concepts/commitment-pooling|Commitment Pooling]]
 
 ## Related pages
 

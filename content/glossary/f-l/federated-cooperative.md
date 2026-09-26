@@ -16,7 +16,7 @@ An institutional form in which cooperatives cooperate through jointly capitalize
 
 ## Related terms
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 
 ## Provenance
 

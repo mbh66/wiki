@@ -19,13 +19,13 @@ Societies run on stories they collectively tell themselves, and the "taxes fund 
 
 The mechanism underneath the story is the tax obligation itself: a substrate-level demand driver that forces participation in the monetary system whether or not any participant understands or endorses that system. Warren Mosler's business-card parable states the mechanism at its most compressed: no one wants his worthless cards until a man with a gun stands at the door and demands one for exit. "That man is the tax man." The obligation creates unemployment in Mosler's and Wray's technical sense: a population that must acquire the state's currency to discharge the obligation, and therefore must seek paid work denominated in it. This is the mechanism through which the state commands real resources.
 
-The distinction between the story and the mechanism is load-bearing for the [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. Correcting the story (as Kelton's *The Deficit Myth* did for millions of readers) does not change the substrate's incentive structure, because the tax obligation continues to force currency demand regardless of the corrected model. The story was the legitimating overlay; the obligation is the substrate component. Experimental evidence supports this separation: Barnes and Hicks (2022) find no causal link from the household-budget analogy to austerity preferences, only ex post recruitment of the analogy to justify preferences formed elsewhere.
+The distinction between the story and the mechanism is load-bearing for the [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. Correcting the story (as Kelton's *The Deficit Myth* did for millions of readers) does not change the substrate's incentive structure, because the tax obligation continues to force currency demand regardless of the corrected model. The story was the legitimating overlay; the obligation is the substrate component. Experimental evidence supports this separation: Barnes and Hicks (2022) find no causal link from the household-budget analogy to austerity preferences, only ex post recruitment of the analogy to justify preferences formed elsewhere.
 
 For the BioConomy, taxation is the benchmark any alternative demand driver must match. A bioregional currency, a system of [[commitment-pooling|commitment pools]], or a Regenerative Participation Income requires some obligation denominated in its own unit that forces primary demand for that unit. [[demurrage|Demurrage]] solves circulation (penalizing holding, it accelerates spending) but does not solve demand (it does not force anyone to acquire the unit in the first place). What plays the role the tax obligation plays is the open structural question.
 
 ## Related terms
 
-- [[content/glossary/m-s/substrate-hypothesis|The Substrate Hypothesis]]
+- [[glossary/m-s/substrate-hypothesis|The Substrate Hypothesis]]
 - [[throughput-economics|Throughput Economics]]
 - [[demurrage|Demurrage]]
 - [[coercion-continuum|The Coercion Continuum]]

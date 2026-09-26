@@ -15,8 +15,8 @@ Indirect coordination in which traces one agent leaves in a shared environment s
 
 ## Related terms
 
-- [[content/glossary/m-s/mycelial-coordination|Mycelial Coordination]]
-- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
+- [[glossary/m-s/mycelial-coordination|Mycelial Coordination]]
+- [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[e-form-emergent|E Form (Emergent)]]
 - [[legibility-signal|Legibility Signal]]
 - [[coordination-node|Coordination Node]]

@@ -14,7 +14,7 @@ Clare Graves's term for the threshold between First Tier and Second Tier conscio
 
 Graves introduced the term in his 1974 paper "Human Nature Prepares for a Momentous Leap" (*The Futurist*). The leap is the crossing of what Graves described as "a chasm of unbelievable depth of meaning": the gap between deficiency motivation and growth motivation, between getting and giving, between destroying and constructing. Every previous developmental transition moved from one First Tier level to another, each still governed by the conviction that its worldview was the correct one. The Momentous Leap is the first transition that recognizes the legitimacy of all previous levels.
 
-The BioConomy corpus identifies the Momentous Leap with the transition from [[material-consciousness|Material Consciousness]] to [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] and argues that it is the developmental threshold at which economic value creation itself transforms structurally. See [[concepts/the-momentous-leap|The Momentous Leap]] for the full treatment.
+The BioConomy corpus identifies the Momentous Leap with the transition from [[material-consciousness|Material Consciousness]] to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] and argues that it is the developmental threshold at which economic value creation itself transforms structurally. See [[concepts/the-momentous-leap|The Momentous Leap]] for the full treatment.
 
 ## Contrast with Adjacent Terms
 

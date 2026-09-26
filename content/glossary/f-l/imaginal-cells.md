@@ -18,13 +18,13 @@ The BioConomy corpus uses this as a structural metaphor for the people who carry
 
 ## Contrast with Adjacent Terms
 
-The imaginal cell metaphor has wide currency in transformation literature and can become vague. The BioConomy corpus uses it with specific structural discipline: the imaginal cells are people operating at or near the [[momentous-leap|Momentous Leap]] threshold, carrying the encoding for [[content/glossary/m-s/mycelial-consciousness|Mycelial]] coordination. The "immune response" of the existing system is the institutional resistance that Ronfeldt predicted: bad actors mastering new forms before good actors do.
+The imaginal cell metaphor has wide currency in transformation literature and can become vague. The BioConomy corpus uses it with specific structural discipline: the imaginal cells are people operating at or near the [[momentous-leap|Momentous Leap]] threshold, carrying the encoding for [[glossary/m-s/mycelial-consciousness|Mycelial]] coordination. The "immune response" of the existing system is the institutional resistance that Ronfeldt predicted: bad actors mastering new forms before good actors do.
 
 ## Related Terms
 
 - [[crisis-codes|Crisis Codes]]
 - [[momentous-leap|Momentous Leap]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[framer|Framer]]
 
 ## Sources

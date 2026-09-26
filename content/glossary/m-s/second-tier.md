@@ -16,7 +16,7 @@ In Graves's emergent cyclical theory, Second Tier marks a qualitative break from
 
 Graves described this as the shift "from getting to giving, taking and contributing, destroying and constructing. It is the gap between deficiency or deficit motivation and growth or abundance motivation." Beck and Cowan, who developed Graves's framework into the Spiral Dynamics model, color-coded Second Tier as Yellow (systemic, integrative) and Turquoise (holistic, global).
 
-The BioConomy corpus identifies Second Tier with [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] and with Kegan's fifth order (self-transforming mind): the capacity to hold multiple value systems simultaneously without being captured by any single one, and to participate in distributed intelligence without needing to control it.
+The BioConomy corpus identifies Second Tier with [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] and with Kegan's fifth order (self-transforming mind): the capacity to hold multiple value systems simultaneously without being captured by any single one, and to participate in distributed intelligence without needing to control it.
 
 ## Contrast with Adjacent Terms
 
@@ -30,7 +30,7 @@ Second Tier is not "better" than First Tier in a moral sense. It is a different 
 
 - [[first-tier|First Tier]]
 - [[momentous-leap|Momentous Leap]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 
 ## Sources
 

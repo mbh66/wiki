@@ -16,7 +16,7 @@ The operating pattern of the [[e-form-emergent|Emergent (E) form]] in the TIME f
 ## Related terms
 
 - [[e-form-emergent|E Form (Emergent)]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[biohub|BioHub]]
 - [[bioregion|BioRegion]]
 

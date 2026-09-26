@@ -11,11 +11,11 @@ updated: 2026-08-25
 epistemic_status: "documented-framework"
 ---
 
-Clare Graves's term for the psychological capacity required for the Momentous Leap: the leap from deficiency motivation to growth motivation, from getting to giving, from destroying to constructing, from similarity to animals to the distinctively human capacity for future orientation. Graves identified this as the most significant threshold in human psychological development. In the Emancipation Architecture framework, Second Tier thinking is the psychological substrate the [[frameworks/three-futures|Transcendence]] trajectory requires, named [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] in the coordinator's own vocabulary.
+Clare Graves's term for the psychological capacity required for the Momentous Leap: the leap from deficiency motivation to growth motivation, from getting to giving, from destroying to constructing, from similarity to animals to the distinctively human capacity for future orientation. Graves identified this as the most significant threshold in human psychological development. In the Emancipation Architecture framework, Second Tier thinking is the psychological substrate the [[frameworks/three-futures|Transcendence]] trajectory requires, named [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] in the coordinator's own vocabulary.
 
 ## Related terms
 
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 
 ## Related pages
 

@@ -19,7 +19,7 @@ The +M form's coordination grammar recognizes economic contribution through a si
 
 The term "unrecognized contribution" reframes the same activity from within +E grammar. The work is real. The ecological and social outcomes are measurable. What is absent is a coordination substrate that makes the work legible to the wider economy and compensates it in a unit the contributor can use. The work is not unproductive. It is unrecognized.
 
-The reframing carries a design implication. If the problem is unemployment, the solution is job creation: move the person into the +M circuit. If the problem is unrecognized contribution, the solution is substrate construction: build a [[coordination-surface|coordination surface]] that makes the existing work visible and compensates it through a bioregional unit of account. The two solutions are complementary (see [[content/concepts/obligation-and-invitation|Obligation and Invitation]]), but they begin from different premises and produce different institutional outcomes.
+The reframing carries a design implication. If the problem is unemployment, the solution is job creation: move the person into the +M circuit. If the problem is unrecognized contribution, the solution is substrate construction: build a [[coordination-surface|coordination surface]] that makes the existing work visible and compensates it through a bioregional unit of account. The two solutions are complementary (see [[concepts/obligation-and-invitation|Obligation and Invitation]]), but they begin from different premises and produce different institutional outcomes.
 
 ## What counts as unrecognized contribution
 
@@ -30,11 +30,11 @@ The category is defined by two criteria.
 Examples from the Valley of Grace BioHub context:
 
 - Clearing invasive alien vegetation from the upper catchment of the Sonderend River. The work restores water yield (approximately 38 million cubic meters per year lost to invasive plants in the Western Cape Water Supply System). It is performed by community members who receive no wage for it outside of periodic Working for Water program contracts. Between contracts, the work is an unrecognized contribution.
-- Monitoring water quality at community water points. The data is valuable to municipal water management and to the verification agents of [[content/concepts/performance-based-water-bonds|performance-based water bonds]]. The monitoring is performed by residents who live near the water points and check them as part of their daily routine. No wage attaches to the activity.
+- Monitoring water quality at community water points. The data is valuable to municipal water management and to the verification agents of [[concepts/performance-based-water-bonds|performance-based water bonds]]. The monitoring is performed by residents who live near the water points and check them as part of their daily routine. No wage attaches to the activity.
 - Growing food in community gardens and distributing it through soup kitchens and informal networks. The food sustains households that cannot afford market-priced groceries. The labor is substantial, skilled, and continuous. It registers nowhere in the local economy's formal accounts.
 - Maintaining firebreaks on community and private land. The fire-risk reduction benefits every property in the valley. The maintenance is performed by residents who receive no compensation for it.
 
-Each of these activities produces an outcome the +M form would pay for if it could see it. The [[content/concepts/performance-based-water-bonds|Cape Water Performance-Based Bond]] demonstrates the unit economics: nature-based solutions in the Cape's mountain catchments deliver water at roughly one-tenth the unit cost of desalination. The work is already being done. The coordination substrate that converts it into standing and compensation is what the +E form builds.
+Each of these activities produces an outcome the +M form would pay for if it could see it. The [[concepts/performance-based-water-bonds|Cape Water Performance-Based Bond]] demonstrates the unit economics: nature-based solutions in the Cape's mountain catchments deliver water at roughly one-tenth the unit cost of desalination. The work is already being done. The coordination substrate that converts it into standing and compensation is what the +E form builds.
 
 ## The shift from needy to needed
 
@@ -54,13 +54,13 @@ The reframing connects directly to the [[needed-vs-needy|needed versus needy]] d
 
 ## Related pages
 
-- [[content/concepts/obligation-and-invitation|Obligation and Invitation]]
-- [[content/concepts/coordination-grammar|Coordination Grammar]]
-- [[content/concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
+- [[concepts/obligation-and-invitation|Obligation and Invitation]]
+- [[concepts/coordination-grammar|Coordination Grammar]]
+- [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
 
 ## Provenance
 
-Written 12 September 2026. The term was surfaced during development of the [[content/concepts/coordination-grammar|Coordination Grammar]] concept to name what the +E form sees when the +M form sees unemployment. Paired with the [[unemployment|unemployment]] glossary entry as its +M-grammar counterpart.
+Written 12 September 2026. The term was surfaced during development of the [[concepts/coordination-grammar|Coordination Grammar]] concept to name what the +E form sees when the +M form sees unemployment. Paired with the [[unemployment|unemployment]] glossary entry as its +M-grammar counterpart.
 
 <script type="application/ld+json">
 {

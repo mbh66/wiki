@@ -32,7 +32,7 @@ Applied to human civilization, the Logistic Growth Principle frames the industri
 - [[economy]]
 - [[bioconomy]]
 - [[deceleration-phase|Deceleration Phase]]
-- [[content/glossary/m-s/structural-prematurity|Structural Prematurity]]
+- [[glossary/m-s/structural-prematurity|Structural Prematurity]]
 
 ## Related pages
 

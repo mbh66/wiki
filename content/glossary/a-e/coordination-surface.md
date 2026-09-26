@@ -13,7 +13,7 @@ epistemic_status: "documented-framework"
 
 The structured interface through which a [[biohub|BioHub]] publishes what it offers, what it seeks, which financial instruments it is aligning to, and how to make contact. More broadly, the full set of relationships, exchanges, and commitments that a bioregional coordination body makes visible and operational for its participants and peers.
 
-For a more complete exploration, see [[content/concepts/coordination-surface|Coordination Surface - Concept]]
+For a more complete exploration, see [[concepts/coordination-surface|Coordination Surface - Concept]]
 
 ## Related terms
 
@@ -28,14 +28,14 @@ For a more complete exploration, see [[content/concepts/coordination-surface|Coo
 
 ## Related pages
 
-- [[content/glossary/a-e/coordination-surface|BioConomy Wiki Coordination Surface]] (the reference instance)
+- [[coordination-surface|BioConomy Wiki Coordination Surface]] (the reference instance)
 - [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[concepts/obligation-and-invitation|Obligation and Invitation]]
 
 ## Provenance
 
-Written 12 September 2026. The term has been in use throughout the wiki and BioHubs content since the earliest entries but lacked a glossary definition. This entry formalizes both the narrow (wiki-page). The broad (operational interface) meanings are covered in the [[content/concepts/coordination-surface|Coordination Surface Concept]].
+Written 12 September 2026. The term has been in use throughout the wiki and BioHubs content since the earliest entries but lacked a glossary definition. This entry formalizes both the narrow (wiki-page). The broad (operational interface) meanings are covered in the [[concepts/coordination-surface|Coordination Surface Concept]].
 
 <script type="application/ld+json">
 {

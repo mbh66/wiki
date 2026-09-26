@@ -19,13 +19,13 @@ The +[[m-form-market|M form]]'s coordination grammar has been the dominant econo
 
 The +[[e-form-emergent|E form]] requires a different grammar. Currency demand is created by access to goods and services that exist only within the bioregional [[coordination-surface|coordination surface]]. Value is measured by what stays: soil, water, biodiversity, and community capacity. Coordination happens through published traces in a shared knowledge medium ([[stigmergy|stigmergy]]). Economic standing begins with participation in place-based stewardship. These assumptions are not corrections of +M grammar. They are a second coordinate system operating alongside the first.
 
-The distinction matters because professionals trained in +M grammar will find +E-form proposals counterintuitive, and the resistance is conceptual, not legal. The architecture of the [[content/concepts/obligation-and-invitation|Obligation and Invitation]] concept operates within every existing legal framework. What it requires is a vocabulary that the +M form's intellectual tradition does not supply: a way of thinking about currency demand that does not begin with obligation, about coordination that does not begin with price, and about economic standing that does not begin with employment.
+The distinction matters because professionals trained in +M grammar will find +E-form proposals counterintuitive, and the resistance is conceptual, not legal. The architecture of the [[concepts/obligation-and-invitation|Obligation and Invitation]] concept operates within every existing legal framework. What it requires is a vocabulary that the +M form's intellectual tradition does not supply: a way of thinking about currency demand that does not begin with obligation, about coordination that does not begin with price, and about economic standing that does not begin with employment.
 
-The concept is developed at length in [[content/concepts/coordination-grammar|Coordination Grammar]].
+The concept is developed at length in [[concepts/coordination-grammar|Coordination Grammar]].
 
 ## Related terms
 
-- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
+- [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[time|TIME Framework]]
 - [[e-form-emergent|E form (Emergent)]]
 - [[m-form-market|M form (Market)]]
@@ -34,13 +34,13 @@ The concept is developed at length in [[content/concepts/coordination-grammar|Co
 
 ## Related pages
 
-- [[content/concepts/coordination-grammar|Coordination Grammar]] (full concept entry)
-- [[content/concepts/obligation-and-invitation|Obligation and Invitation]]
-- [[content/concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
+- [[concepts/coordination-grammar|Coordination Grammar]] (full concept entry)
+- [[concepts/obligation-and-invitation|Obligation and Invitation]]
+- [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 
 ## Provenance
 
-Written 12 September 2026. The term emerged during development of the [[content/concepts/obligation-and-invitation|Obligation and Invitation]] concept to name the source of resistance +M-trained professionals experience when encountering +E-form proposals.
+Written 12 September 2026. The term emerged during development of the [[concepts/obligation-and-invitation|Obligation and Invitation]] concept to name the source of resistance +M-trained professionals experience when encountering +E-form proposals.
 
 <script type="application/ld+json">
 {

@@ -16,7 +16,7 @@ Rudolf Steiner's structural separation of society into three spheres, each with 
 ## Related terms
 
 - [[constellation|Constellation]]
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
 
 ## Related pages
 

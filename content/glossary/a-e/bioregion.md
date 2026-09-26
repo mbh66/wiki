@@ -40,7 +40,7 @@ In the [[time|TIME]] framework, the nation-state is the dominant [[i-form-instit
 - [[bioconomy|BioConomy]]
 - [[biostack|BioStack]]
 - [[nation-state|Nation-state]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[biohub-field-sense|BioHub (field sense)]]
 - [[e-form-emergent|E form (Emergent)]]
 - [[i-form-institutional|I form (Institutional)]]

@@ -21,7 +21,7 @@ term_type: borrowed-technical
 
 # Modern Monetary Theory
 
-Modern Monetary Theory (MMT) is a heterodox macroeconomic school that describes the operational mechanics of state spending under a sovereign, non-convertible, free-floating fiat currency. Its central operational claim is that a currency-issuing government spends the unit into circulation first, and taxation removes the unit from circulation afterward. The orthodox sequence taught by [[content/glossary/m-s/sound-finance|sound finance]] (taxes fund spending) is reversed.
+Modern Monetary Theory (MMT) is a heterodox macroeconomic school that describes the operational mechanics of state spending under a sovereign, non-convertible, free-floating fiat currency. Its central operational claim is that a currency-issuing government spends the unit into circulation first, and taxation removes the unit from circulation afterward. The orthodox sequence taught by [[glossary/m-s/sound-finance|sound finance]] (taxes fund spending) is reversed.
 
 To see the relevance of MMT to the [[biohub|BioHub]], see the full [[mmt-framework|MMT Framework]].
 

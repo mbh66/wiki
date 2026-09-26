@@ -21,14 +21,14 @@ The Emancipation Architecture develops the term into an operational framework th
 
 ## Contrast with adjacent terms
 
-Investment: expects a financial return in the same regime. Divestment: withdraws capital without redirecting it. [[content/glossary/f-l/impact-investing|Impact investing]]: financial return plus intended social or ecological outcome, with the option of exit retained. Transvestment: one-directional crossing between value regimes, with exit foreclosed by design.
+Investment: expects a financial return in the same regime. Divestment: withdraws capital without redirecting it. [[glossary/f-l/impact-investing|Impact investing]]: financial return plus intended social or ecological outcome, with the option of exit retained. Transvestment: one-directional crossing between value regimes, with exit foreclosed by design.
 
 The [[frameworks/three-feature-test|Three-Feature Test]] describes the move as going from the Fugger position (instrumental patron, assets denominated in the declining order) to the Medici position (constitutive patron, standing dependent on the reform's success), and, in the EA case, further, into the substrate itself.
 
 ## Related terms
 
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[alpha-window|Alpha Window]]
 
 ## Related pages

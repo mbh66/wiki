@@ -15,7 +15,7 @@ The process by which one organism incorporates another (rather than digesting it
 
 ## Related terms
 
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[stretch-collaboration|Stretch Collaboration]]
 
 ## Related pages

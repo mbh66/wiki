@@ -15,7 +15,7 @@ The institutional architecture of the Emancipation Architecture: many entity typ
 
 ## Related terms
 
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
 - [[polycentricity|Polycentricity]]
 - [[threefolding|Threefolding]]
 

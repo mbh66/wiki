@@ -49,7 +49,7 @@ A project plan enumerates tasks and their timing. The Alignment Compact enumerat
 - [[readiness-diagnostic|Readiness Diagnostic]]
 - [[gap-register|Gap Register]]
 - [[e-form-emergent|+E Coordination Form]]
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
 
 ## Provenance
 

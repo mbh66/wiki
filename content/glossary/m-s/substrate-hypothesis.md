@@ -19,7 +19,7 @@ For the Emancipation Architecture, the substrate hypothesis is the design princi
 
 ## Related terms
 
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
 - [[biostack|BioStack]]
 
 ## Related pages

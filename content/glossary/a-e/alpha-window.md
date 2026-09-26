@@ -17,8 +17,8 @@ The concept is anchored on the historical case of the late Roman senatorial aris
 
 ## Related terms
 
-- [[content/glossary/t-z/transvestment|Transvestment]]
-- [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]]
+- [[glossary/t-z/transvestment|Transvestment]]
+- [[glossary/m-s/mycelial-patronage|Mycelial Patronage]]
 
 ## Related pages
 

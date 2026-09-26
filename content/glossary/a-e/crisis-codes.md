@@ -18,7 +18,7 @@ The corpus reframes this experience: the anxiety is not a disorder to be managed
 
 ## Contrast with Adjacent Terms
 
-Crisis Codes are distinct from clinical anxiety, burnout, or spiritual emergency, though they can be confused with all three. The distinction is structural: Crisis Codes respond to accurate perception of systemic conditions, not to personal dysfunction. The corpus argues that treating Crisis Codes as personal pathology, and attempting to resolve them through substances, spiritual bypass, or more planning, suppresses the very signal that could orient the person toward [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
+Crisis Codes are distinct from clinical anxiety, burnout, or spiritual emergency, though they can be confused with all three. The distinction is structural: Crisis Codes respond to accurate perception of systemic conditions, not to personal dysfunction. The corpus argues that treating Crisis Codes as personal pathology, and attempting to resolve them through substances, spiritual bypass, or more planning, suppresses the very signal that could orient the person toward [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
 
 The related term [[imaginal-cells|imaginal cells]] provides the biological metaphor: Crisis Codes are the encoding carried by imaginal cells within the caterpillar's dissolving structure.
 

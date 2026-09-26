@@ -12,13 +12,13 @@ epistemic_status: "documented-framework"
 ---
 
 
-The global layer of human thought, consciousness, and collective intelligence. Vladimir Vernadsky argued in 1926 that human thought had become a literal geological force, capable of reshaping the physical planet. Pierre Teilhard de Chardin, working independently, described the Noosphere as an evolutionary canopy of collective consciousness wrapping around the Earth. In the BioConomy corpus, the Noosphere's relationship to the [[geosphere|Geosphere]] is consciousness-dependent: under [[material-consciousness|Material Consciousness]] it extracts from the physical Earth; under [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] it participates in the Earth's regeneration. The [[biohub|BioHub]] wiki is the mechanism by which local Noospheric coordination (governance, monitoring, service readiness, policy alignment) becomes structured and publishable across a [[bioregion|BioRegion]]. The [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]] names the two forms of intelligence (Carbon and Silicon) that constitute the Noosphere's operational infrastructure in bioregional work.
+The global layer of human thought, consciousness, and collective intelligence. Vladimir Vernadsky argued in 1926 that human thought had become a literal geological force, capable of reshaping the physical planet. Pierre Teilhard de Chardin, working independently, described the Noosphere as an evolutionary canopy of collective consciousness wrapping around the Earth. In the BioConomy corpus, the Noosphere's relationship to the [[geosphere|Geosphere]] is consciousness-dependent: under [[material-consciousness|Material Consciousness]] it extracts from the physical Earth; under [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] it participates in the Earth's regeneration. The [[biohub|BioHub]] wiki is the mechanism by which local Noospheric coordination (governance, monitoring, service readiness, policy alignment) becomes structured and publishable across a [[bioregion|BioRegion]]. The [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]] names the two forms of intelligence (Carbon and Silicon) that constitute the Noosphere's operational infrastructure in bioregional work.
 
 ## Related terms
 
 - [[geosphere|Geosphere]]
 - [[biosphere|Biosphere]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[material-consciousness|Material Consciousness]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
 - [[coordination-node|Coordination Node]]

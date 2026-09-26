@@ -49,7 +49,7 @@ Sound finance is legally entrenched in the German Schuldenbremse (Basic Law Arti
 - [[modern-monetary-theory|Modern Monetary Theory]]. The tradition that decoded sound finance's operational falsity.
 - [[functional-finance|Functional Finance]]. Lerner's named alternative fiscal doctrine.
 - [[metallism|Metallism]]. The compatible doctrine on money's nature.
-- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. Sound finance as a substrate compliance mechanism.
+- [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. Sound finance as a substrate compliance mechanism.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
 - [[s-curve-thesis-old|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment.

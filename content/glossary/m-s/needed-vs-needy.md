@@ -16,7 +16,7 @@ The structural distinction between a bioregion that asks funders for money to do
 
 ## Related terms
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[needy|Needy]]
 - [[needed|Needed]]
 

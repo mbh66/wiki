@@ -18,8 +18,8 @@ For the full treatment of this architecture, see [[frameworks/bioregional-financ
 
 ## Related terms
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
-- [[content/glossary/a-e/bioregional-currency|Bioregional Currency]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-currency|Bioregional Currency]]
 
 ## Sources and associated figures
 
