@@ -38,7 +38,7 @@ The ground tier is the [[community-inclusion-currency|CIC]]. A village or neighb
 
 The middle tier is the bioregional currency proper, held at the boundary by a [[bioregional-financing-facility|Bioregional Financing Facility]] (BFF). Its issuance is bounded by measured biophysical performance across the BioRegion. Water yield, biodiversity indices, soil carbon, ecosystem service delivery. Redemption is against committed stewardship. Non-fungibility with the external unit of account is a design property, which supplies its [[protective-illiquidity|protective illiquidity]].
 
-The clearing tier is a [[bancor|bancor]]-style international clearing union, sitting above the BFFs, arbitrating trade between bioregions on Keynes's terms. Sustained surplus and sustained deficit are both penalized. The clearing unit itself is neither owned nor issued by any bioregion. The tier holds no currency of its own. It answers the [[reserve-currency-cycle|Reserve Currency Cycle]] that Keynes's original proposal at Bretton Woods was designed to break and that [[keen|Steve Keen]] has named as the recurrent failure mode of empire.
+The clearing tier is a [[bancor|bancor]]-style international clearing union, sitting above the BFFs, arbitrating trade between bioregions on Keynes's terms. Sustained surplus and sustained deficit are both penalized. The clearing unit itself is neither owned nor issued by any bioregion. The tier holds no currency of its own. It answers the [[reserve-currency-cycle|Reserve Currency Cycle]] that Keynes's original proposal at Bretton Woods was designed to break and that [[people/theorists/keen-steve|Steve Keen]] has named as the recurrent failure mode of empire.
 
 ## Retention forcing
 

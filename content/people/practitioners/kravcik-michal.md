@@ -24,7 +24,7 @@ Kravcik's central thesis, set out in *Water for the Recovery of the Climate: A N
 
 Under a Slovak government program informed by Kravcik's work, 488 communities implemented over 100,000 water retention measures across the landscape. This remains one of the most extensive practical demonstrations of the [[water-retention-landscape|Water Retention Landscape]] approach at national scale. Kravcik also developed the Global Action Plan (GAP) proposal for scaling water retention internationally.
 
-His work connects to the [[glossary/biotic-pump|Biotic Pump]] concept and provides practical evidence for the proposition that landscape-scale water retention is achievable through distributed community action rather than centralized engineering.
+His work connects to the [[glossary/a-e/biotic-pump|Biotic Pump]] concept and provides practical evidence for the proposition that landscape-scale water retention is achievable through distributed community action rather than centralized engineering.
 
 ## Digital library
 
@@ -43,7 +43,7 @@ His work connects to the [[glossary/biotic-pump|Biotic Pump]] concept and provid
 ## Related pages
 
 - [[water-retention-landscape|Water Retention Landscape]]
-- [[glossary/biotic-pump|Biotic Pump]]
+- [[glossary/a-e/biotic-pump|Biotic Pump]]
 - [[jehne-walter|Walter Jehne]]
 - [[singh-rajendra|Rajendra Singh]]
 

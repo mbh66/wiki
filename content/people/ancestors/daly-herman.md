@@ -16,7 +16,7 @@ source_documents:
 epistemic_status: "documented-fact"
 ---
 
-American ecological and [[glossary/georgism|Georgist]] economist (1938-2022), emeritus professor at the University of Maryland School of Public Policy, and senior economist at the [[glossary/world-bank|World Bank]] from 1988 to 1994. Daly developed the steady-state economics framework, arguing that perpetual growth is incompatible with a finite biosphere.
+American ecological and [[glossary/f-l/georgism|Georgist]] economist (1938-2022), emeritus professor at the University of Maryland School of Public Policy, and senior economist at the [[glossary/world-bank|World Bank]] from 1988 to 1994. Daly developed the steady-state economics framework, arguing that perpetual growth is incompatible with a finite biosphere.
 
 ## Contribution
 
@@ -48,7 +48,7 @@ The steady-state economics framework is one of the intellectual foundations of [
 ## Related pages
 
 - [[glossary/a-e/bioregional-economics|Bioregional Economics]]
-- [[glossary/ecological-economics|Ecological Economics]]
+- [[glossary/a-e/ecological-economics|Ecological Economics]]
 - [[retention-economics|Retention Economics]]
 - [[throughput|Throughput]]
 - [[meadows-donella|Donella Meadows]]

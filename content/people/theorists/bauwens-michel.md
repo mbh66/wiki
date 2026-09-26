@@ -22,7 +22,7 @@ Belgian theorist based in Thailand. Founder of the [Foundation for Peer-to-Peer 
 
 ## Contribution
 
-Bauwens works in collaboration with a global group of researchers in the exploration of [[glossary/peer-production|peer production]], governance, and property. He is a founding member of the [Commons Strategies Group](http://commonsstrategies.org/) with [[helfrich-silke|Silke Helfrich]] and [[bollier-david|David Bollier]], organizing major global conferences on the commons and its economics.
+Bauwens works in collaboration with a global group of researchers in the exploration of [[glossary/m-s/peer-production|peer production]], governance, and property. He is a founding member of the [Commons Strategies Group](http://commonsstrategies.org/) with [[helfrich-silke|Silke Helfrich]] and [[bollier-david|David Bollier]], organizing major global conferences on the commons and its economics.
 
 His cosmo-local production framework articulates the principle that knowledge should be shared globally while production remains local, rooted in place and community. This framework provides the theoretical bridge between digital commons (open-source software, shared design repositories) and bioregional production (local manufacturing, food systems, energy). The concept directly informs the [[bioconomy|BioConomy]]'s approach to scaling without centralizing.
 

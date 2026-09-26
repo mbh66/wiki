@@ -64,7 +64,7 @@ In 1995, [[daly-herman|Herman Daly]] and Meadows defined criteria for authentic 
 
 - [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[bioregional-learning-centre|Bioregional Learning Centre]]
-- [[glossary/leverage-points|Leverage Points]]
+- [[glossary/f-l/leverage-points|Leverage Points]]
 - [[sources/meadows-limits-to-growth|The Limits to Growth]]
 - [[daly-herman|Herman Daly]]
 

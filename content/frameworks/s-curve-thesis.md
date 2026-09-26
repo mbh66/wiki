@@ -61,7 +61,7 @@ The framework should be revisited as the substrate transition mechanism accumula
 
 ## Related entries
 
-[[sensor-response-money]] · [[three-lineages]] · [[the-momentous-leap]] · [[reserve-currency-cycle]] · [[three-futures]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[time-framework]] · [[emancipation-architecture]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [[people/ancestors/sahtouris-elisabet|Elisabet Sahtouris]] · [[keen]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog)
+[[sensor-response-money]] · [[three-lineages]] · [[the-momentous-leap]] · [[reserve-currency-cycle]] · [[three-futures]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[time-framework]] · [[emancipation-architecture]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [[people/ancestors/sahtouris-elisabet|Elisabet Sahtouris]] · [[people/theorists/keen-steve|Steve Keen]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog)
 
 <script type="application/ld+json">
 {

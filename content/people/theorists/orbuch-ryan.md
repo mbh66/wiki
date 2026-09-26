@@ -41,7 +41,7 @@ For the BioConomy corpus, this positions him alongside the theorists whose work 
 
 ## Related entries
 
-[[natural-general-intelligence]] · [[the-bioplace-layer]] · [[sensor-response-money]] · [[carbon-silicon-partnership]] · [[stewardship]] · [[three-futures]] · [[bioregional-financing-facility]]
+[[natural-general-intelligence]] · [[the-bioplace-layer]] · [[sensor-response-money]] · [[carbon-silicon-partnership]] · [[glossary/m-s/stewardship|Stewardship]] · [[three-futures]] · [[bioregional-financing-facility]]
 
 <script type="application/ld+json">
 {

@@ -27,7 +27,7 @@ Applied to human civilization, the argument is that the competitive, [[extractiv
 
 Sahtouris held a post-doctoral fellowship at the American Museum of Natural History and taught at MIT and the University of Massachusetts. She contributed to the NOVA-Horizon TV series and was a fellow of the World Business Academy with an honorary Chair in Living Economies, advisor to Ethical Markets, and a Professor of Business at Chaminade University in Honolulu. Her audiences included the World Bank, United Nations, Boeing, Siemens, Hewlett-Packard, South African Rand Bank, Caux Round Table, Tokyo International Forum, and the governments of Australia, New Zealand, and the Netherlands.
 
-She was a co-founder of the Worldwide Indigenous Science Network and convened international symposia on Foundations of Global Sciences in Hokkaido, Japan and Kuala Lumpur, Malaysia. She popularized the [[glossary/butterfly-transformations|Butterfly Transformations]] story and the [[glossary/keyboard-of-science|Keyboard of Science]] concept.
+She was a co-founder of the Worldwide Indigenous Science Network and convened international symposia on Foundations of Global Sciences in Hokkaido, Japan and Kuala Lumpur, Malaysia. She popularized the [[glossary/f-l/imaginal-cells|Butterfly Transformations]] story and the [[glossary/f-l/keyboard-of-science|Keyboard of Science]] concept.
 
 ## Quotes
 
@@ -65,8 +65,8 @@ The [[bioconomy|BioConomy]] project's intellectual life was shaped in part by th
 - [[frameworks/three-futures|The Three Futures]]
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[margulis-lynn|Lynn Margulis]]
-- [[glossary/butterfly-transformations|Butterfly Transformations]]
-- [[glossary/keyboard-of-science|Keyboard of Science]]
+- [[glossary/f-l/imaginal-cells|Butterfly Transformations]]
+- [[glossary/f-l/keyboard-of-science|Keyboard of Science]]
 - [[glossary/worldwide-indigenous-science-network|Worldwide Indigenous Science Network]]
 
 ## Sources

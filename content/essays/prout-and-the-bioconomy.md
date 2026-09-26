@@ -16,7 +16,7 @@ Prabhat Ranjan Sarkar published the Progressive Utilization Theory in 1959, in p
 Sarkar was writing at a moment when the two dominant economic systems, capitalism and communism, both claimed universal applicability, and both were visibly failing the populations he lived among. His formulation begins from a rejection of that binary. PROUT is neither a capitalist reform nor a communist variant. It is a third architecture.
 
 The theory rests on five fundamental principles. 
-1. The first grants humanity collective [[stewardship]] over natural and industrial resources, with individuals holding usufructuary rights: the privilege to use resources without abusing them. 
+1. The first grants humanity collective [[glossary/m-s/stewardship|stewardship]] over natural and industrial resources, with individuals holding usufructuary rights: the privilege to use resources without abusing them. 
 2. The second requires that resources be used efficiently and distributed rationally, with essential goods prioritized and localized production tailored to regional needs. 
 3. The third calls for the development of physical, intellectual, and spiritual potential across the population. 
 4. The fourth calls for balanced adjustment across the material, cultural, and spiritual strata of collective life. 

@@ -43,7 +43,7 @@ Berry's conviction that small-scale farming is essential to healthy local econom
 ## Related pages
 
 - [[glossary/a-e/bioregional-economics|Bioregional Economics]]
-- [[glossary/solving-for-pattern|Solving for Pattern]]
+- [[glossary/m-s/solving-for-pattern|Solving for Pattern]]
 
 ## Provenance
 
