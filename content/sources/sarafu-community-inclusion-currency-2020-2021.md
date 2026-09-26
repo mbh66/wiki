@@ -17,7 +17,7 @@ Mattsson, Criscione, and Ruddick document the transaction records of the Sarafu 
 
 ## What the work documents
 
-Sarafu is the collective name for the community currencies managed by the Grassroots Economics Foundation, founded by [[ruddick|Will Ruddick]]. The pattern began with the physical Bangla-Pesa in Mombasa in 2013. By the end of 2019 the system included twelve local currencies, eight in urban or peri-urban areas and four in rural areas, spanning a geography from Mombasa to Nairobi. On 25 January 2020 the twelve precursors were folded into a single digital CIC called Sarafu, delivered over feature-phone USSD interface. The 2022 paper captures the eighteen months of transaction records that followed the consolidation.
+Sarafu is the collective name for the community currencies managed by the Grassroots Economics Foundation, founded by [[people/practitioners/ruddick-will|Will Ruddick]]. The pattern began with the physical Bangla-Pesa in Mombasa in 2013. By the end of 2019 the system included twelve local currencies, eight in urban or peri-urban areas and four in rural areas, spanning a geography from Mombasa to Nairobi. On 25 January 2020 the twelve precursors were folded into a single digital CIC called Sarafu, delivered over feature-phone USSD interface. The 2022 paper captures the eighteen months of transaction records that followed the consolidation.
 
 The dataset covers purchases, transfers, and participation in savings and lending groups (*chamas*), the rotating structures that carry the actual economic activity for most users. Chamas are the operational descendants of the older Rotating Savings and Credit Association (ROSCA) pattern, adapted to the digital ledger. One unit of Sarafu was set roughly equivalent to one Kenyan shilling.
 
@@ -43,7 +43,7 @@ Grassroots Economics as an organization is the operational vehicle behind the Sa
 
 ## Related entries
 
-[[ruddick]] · [[community-inclusion-currency]] · [[sensor-response-money]] · [[bioregional-financing-facility]] · [[commitment-pooling]] · [[mycelial-patronage]] · [[protective-illiquidity]] · [[bioregional-economics]]
+[[people/practitioners/ruddick-will|Will Ruddick]] · [[community-inclusion-currency]] · [[sensor-response-money]] · [[bioregional-financing-facility]] · [[commitment-pooling]] · [[mycelial-patronage]] · [[protective-illiquidity]] · [[bioregional-economics]]
 
 <script type="application/ld+json">
 {

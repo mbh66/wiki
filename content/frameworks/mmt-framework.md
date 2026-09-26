@@ -53,7 +53,7 @@ MMT is an operationally accurate description of sovereign fiat mechanics. It is 
 
 ## The S-curve position
 
-MMT was ignored by mainstream economics for decades, criticized in a concentrated mainstream wave in early 2019 (Summers, Rogoff, Krugman), then reached general public discourse when the pandemic fiscal response demonstrated in practice that sovereign issuers can spend at scale without prior taxation. The wiki reads this timing as characteristic of a deceleration-phase insight: correct on the steep part of the curve as well, but unable to gain traction because the acceleration phase selected against it. See [[glossary/m-s/structural-prematurity|Structural Prematurity]] and the [[research/mmt-as-growth-phase-story|MMT as Growth-Phase Story]] brief.
+MMT was ignored by mainstream economics for decades, criticized in a concentrated mainstream wave in early 2019 (Summers, Rogoff, Krugman), then reached general public discourse when the pandemic fiscal response demonstrated in practice that sovereign issuers can spend at scale without prior taxation. The wiki reads this timing as characteristic of a deceleration-phase insight: correct on the steep part of the curve as well, but unable to gain traction because the acceleration phase selected against it. See [[glossary/m-s/structural-prematurity|Structural Prematurity]] and the [[research/monetary-theory-growth|MMT as Growth-Phase Story]] brief.
 
 ## See also
 
@@ -63,7 +63,7 @@ MMT was ignored by mainstream economics for decades, criticized in a concentrate
 - [[glossary/m-s/structural-prematurity|Structural Prematurity]]. The Chartalist-to-MMT lineage as a structural-prematurity case.
 - [[functional-finance|Functional Finance]]. Lerner's fiscal component.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
-- [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment.
+- [[research/monetary-theory-growth|Research Brief: Monetary Theory as Substrate for Growth Phase]]. Extended treatment.
 
 <script type="application/ld+json">
 {

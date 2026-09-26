@@ -56,11 +56,11 @@ A three-tier bioregional architecture has no imperial center to overvalue. The c
 
 The three-tier architecture cannot be specified in advance for every bioregion. The community-data combination has to be worked out in place, and no external design authority can supply the answer. Each bioregion has to grapple with these complexities itself. The learning is the transition.
 
-This is the wayfinder role, currently held in the Overberg by the [[valley-of-grace|Valley of Grace BioHub]]. The Valley of Grace Learning Centre and the proposed high school rooted in emergent economics are the research bodies that will resolve the specific loop for this bioregion, working through each sensor and each commitment in turn. What is transferable to other bioregions is the architecture, the epistemic method, and the negative cases the reserve currency cycle supplies. What has to be worked out locally is everything else.
+This is the wayfinder role, currently held in the Overberg by the [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog). The Valley of Grace Learning Centre and the proposed high school rooted in emergent economics are the research bodies that will resolve the specific loop for this bioregion, working through each sensor and each commitment in turn. What is transferable to other bioregions is the architecture, the epistemic method, and the negative cases the reserve currency cycle supplies. What has to be worked out locally is everything else.
 
 ## The Momentous Leap as substrate transition
 
-The S-curve deceleration phase is a substrate crisis. Most civilizations fail the crisis and repeat the cycle described by the reserve currency pattern. [[elisabet-sahtouris|Elisabet Sahtouris's]] maturation frame reads directly onto this: juvenile civilizations consume their host; mature civilizations steward it. The substrate transition is the maturation event.
+The S-curve deceleration phase is a substrate crisis. Most civilizations fail the crisis and repeat the cycle described by the reserve currency pattern. [[people/ancestors/sahtouris-elisabet|Elisabet Sahtouris's]] maturation frame reads directly onto this: juvenile civilizations consume their host; mature civilizations steward it. The substrate transition is the maturation event.
 
 The [[the-momentous-leap|Momentous Leap]] is the name for successfully navigating the crisis into a coordination form that does not repeat the pattern. Sensor-response money is the monetary mechanism by which the Leap becomes possible. It replaces the throughput-forcing substrate that the acceleration phase required with a retention-forcing substrate that the deceleration phase demands. If the Leap is not made in this cycle, the reserve currency pattern repeats, another vassal rises, and the substrate transition is deferred to the next crisis.
 
@@ -82,7 +82,7 @@ How do BFFs handle the transition period during which fiat and sensor-response m
 
 ## Related entries
 
-[[community-inclusion-currency]] · [[bioregional-financing-facility]] · [[bancor]] · [[reserve-currency-cycle]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[three-lineages]] · [[s-curve-thesis-old]] · [[the-momentous-leap]] · [[protective-illiquidity]] · [[performance-based-water-bonds]] · [[bioregional-economics]] · [[mycelial-coordination]] · [[transvestment]] · [[time-framework]] · [[timn-framework]] · [[valley-of-grace]] · [[natural-general-intelligence]]
+[[community-inclusion-currency]] · [[bioregional-financing-facility]] · [[bancor]] · [[reserve-currency-cycle]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[three-lineages]] · [[s-curve-thesis-old]] · [[the-momentous-leap]] · [[protective-illiquidity]] · [[performance-based-water-bonds]] · [[bioregional-economics]] · [[mycelial-coordination]] · [[transvestment]] · [[time-framework]] · [[timn-framework]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog) · [[natural-general-intelligence]]
 
 <script type="application/ld+json">
 {

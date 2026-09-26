@@ -33,7 +33,7 @@ For the BioConomy, taxation is the benchmark any alternative demand driver must 
 
 ## Related pages
 
-- [[research/mmt-as-growth-phase-story|Monetary Theory as Substrate for Growth Phase]]
+- [[research/monetary-theory-growth|Monetary Theory as Substrate for Growth Phase]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 - [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]

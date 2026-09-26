@@ -52,7 +52,7 @@ Sound finance is legally entrenched in the German Schuldenbremse (Basic Law Arti
 - [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. Sound finance as a substrate compliance mechanism.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
 - [[s-curve-thesis-old|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
-- [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment.
+- [[research/monetary-theory-growth|Research Brief: Monetary Theory as Substrate for Growth Phase]]. Extended treatment.
 
 <script type="application/ld+json">
 {

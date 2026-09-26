@@ -47,7 +47,7 @@ Any alternative substrate the BioConomy proposes (bioregional demurrage, commitm
 
 The first question is what forces primary demand for the alternative unit of account. This is what the tax obligation does in the fiat system. Demurrage answers the velocity question (holding the unit becomes costly). It does not by itself answer the demand question. The Wörgl stamp scrip circulated fourteen times faster than the national currency because it was demurrage-charged; it was acquired in the first place because the municipality accepted it for local taxes and paid municipal workers in it. Absent an analogous acquisition mechanism, demurrage produces velocity among the already-committed and nothing more. This is a substrate-engineering problem.
 
-The second question is what public story sits on top of the substrate and legitimates it in the discourse of ordinary participants. The metallist story spoke of natural scarcity. The sound-finance story spoke of household prudence. A deceleration-phase substrate would need a story with comparable public force. The Doughnut, planetary boundaries, the commons tradition, and bioregionalism are candidate stories. Assessing them against their coordination capacity is the analytical task the [[research/mmt-as-growth-phase-story|MMT as Growth-Phase Story]] brief takes on.
+The second question is what public story sits on top of the substrate and legitimates it in the discourse of ordinary participants. The metallist story spoke of natural scarcity. The sound-finance story spoke of household prudence. A deceleration-phase substrate would need a story with comparable public force. The Doughnut, planetary boundaries, the commons tradition, and bioregionalism are candidate stories. Assessing them against their coordination capacity is the analytical task the [[research/monetary-theory-growth|MMT as Growth-Phase Story]] brief takes on.
 
 The Substrate Hypothesis says coordination is a property of substrate. The concept developed here specifies that the public story is one of the substrate's components, and one that has been consistently underspecified in monetary and fiscal design, even by the theorists most willing to challenge the operational descriptions.
 
@@ -63,7 +63,7 @@ The Substrate Hypothesis says coordination is a property of substrate. The conce
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[cheapest-available-behavior|Cheapest Available Behavior Thesis]]
-- [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]
+- [[research/monetary-theory-growth|Research Brief: Monetary Theory as Substrate for Growth Phase]]
 
 <script type="application/ld+json">
 {

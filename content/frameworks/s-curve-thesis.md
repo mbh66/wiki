@@ -57,11 +57,11 @@ The S-curve description of human civilization is a well-supported inference from
 
 The claim that most civilizations fail the transition is well-supported historically. The claim that this cycle either produces the Momentous Leap or produces general collapse is a stronger claim that depends on the observation that no successor imperial base is currently available to inherit the failing role. That observation is defensible but is not a proof.
 
-The framework should be revisited as the substrate transition mechanism accumulates empirical grounding at the ground and middle tiers of the [[sensor-response-money|sensor-response money]] architecture, particularly through the wayfinder work of the [[valley-of-grace|Valley of Grace BioHub]].
+The framework should be revisited as the substrate transition mechanism accumulates empirical grounding at the ground and middle tiers of the [[sensor-response-money|sensor-response money]] architecture, particularly through the wayfinder work of the [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog).
 
 ## Related entries
 
-[[sensor-response-money]] · [[three-lineages]] · [[the-momentous-leap]] · [[reserve-currency-cycle]] · [[three-futures]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[time-framework]] · [[emancipation-architecture]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [[sahtouris]] · [[keen]] · [[valley-of-grace]]
+[[sensor-response-money]] · [[three-lineages]] · [[the-momentous-leap]] · [[reserve-currency-cycle]] · [[three-futures]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[time-framework]] · [[emancipation-architecture]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [[people/ancestors/sahtouris-elisabet|Elisabet Sahtouris]] · [[keen]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog)
 
 <script type="application/ld+json">
 {

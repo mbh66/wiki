@@ -162,7 +162,7 @@ The bioregion code has two parts: a realm prefix and a bioregion number. To find
 
 3. **Combine them.** The code is the lowercase realm prefix followed by the bioregion number, with no separator. A BioHub in the Laikipia Plateau sits in Afrotropic bioregion 10 (East African Montane Forests & Grasslands), so the code is `at10`. A BioHub in the Xingu basin sits in Neotropic bioregion 1 (Amazonian Forests & Grasslands), so the code is `nt1`.
 
-The [[research/resolve-ecoregions-2017|RESOLVE Ecoregions]] page on this wiki lists all 847 ecoregions that form the spatial foundation for these bioregion groupings.
+The [[research/resolve-ecoregions|RESOLVE Ecoregions]] page on this wiki lists all 847 ecoregions that form the spatial foundation for these bioregion groupings.
 
 ### What you will need
 

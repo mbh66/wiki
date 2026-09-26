@@ -37,7 +37,7 @@ His design principles for a nature model translate directly into design principl
 
 Orbuch sits in a lineage that runs from Alexander von Humboldt (whose *Naturgemälde* he cites as inspiration) through Charles Darwin, Robert FitzRoy, James Lovelock, and the twentieth-century atmospheric and Earth-system scientists who built the observing infrastructure his essay proposes to fully utilize. Where his predecessors extended the aperture of observation, Orbuch proposes to close the loop between observation and intervention through a general-purpose learned model.
 
-For the BioConomy corpus, this positions him alongside the theorists whose work concerns the substrate of coordination rather than its content: [[ronfeldt|David Ronfeldt]] on the +N form, [[bauwens|Michel Bauwens]] on cosmo-local production, [[sahtouris|Elisabet Sahtouris]] on juvenile-to-mature civilizational transition. His specific offering is the technical account of how a planet-scale coordination intelligence could actually be built, and what data it would need to learn from.
+For the BioConomy corpus, this positions him alongside the theorists whose work concerns the substrate of coordination rather than its content: [[people/theorists/ronfeldt-david|David Ronfeldt]] on the +N form, [[people/theorists/bauwens-michel|Michel Bauwens]] on cosmo-local production, [[people/ancestors/sahtouris-elisabet|Elisabet Sahtouris]] on juvenile-to-mature civilizational transition. His specific offering is the technical account of how a planet-scale coordination intelligence could actually be built, and what data it would need to learn from.
 
 ## Related entries
 

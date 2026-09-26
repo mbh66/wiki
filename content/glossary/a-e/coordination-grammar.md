@@ -30,7 +30,7 @@ The concept is developed at length in [[concepts/coordination-grammar|Coordinati
 - [[e-form-emergent|E form (Emergent)]]
 - [[m-form-market|M form (Market)]]
 - [[coordination-surface|Coordination Surface]]
-- [[content/glossary/a-e/cheapest-available-behavior|Cheapest Available Behavior]]
+- [[concepts/cheapest-available-behavior|Cheapest Available Behavior]]
 
 ## Related pages
 

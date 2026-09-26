@@ -55,7 +55,7 @@ Metallism is a substrate description: money's value comes from the metal that ba
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The coordination-story frame.
 - [[cheapest-available-behavior|The Cheapest Available Behavior Thesis]]. Under gold-standard metallism, hoarding metal was the cheapest available behavior; under fiat with tax obligation, acquiring the state's unit is.
 - [[functional-finance|Functional Finance]]. The fiscal doctrine that treats metallist accounting-identity concerns as normatively empty.
-- [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment of the coordination story.
+- [[research/monetary-theory-growth|Research Brief: Monetary Theory as Substrate for Growth Phase]]. Extended treatment of the coordination story.
 
 <script type="application/ld+json">
 {

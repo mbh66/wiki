@@ -68,7 +68,7 @@ The thesis does not predict the direction of civilizational change. It predicts 
 - [[concepts/sound-finance|Sound Finance]]. The fiscal doctrine that makes budget-balance behavior cheap for treasury officials.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The story layer that lowers the cost of compliance with the underlying substrate.
 - [[concepts/structural-prematurity|Structural Prematurity]]. What happens when a correct idea arrives against a substrate that makes attention to it expensive.
-- [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment of the substrate-versus-story distinction.
+- [[research/monetary-theory-growth|Research Brief: Monetary Theory as Substrate for Growth Phase]]. Extended treatment of the substrate-versus-story distinction.
 
 <script type="application/ld+json">
 {

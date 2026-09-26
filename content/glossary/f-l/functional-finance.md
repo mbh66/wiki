@@ -48,7 +48,7 @@ The wiki reads functional finance as a technical description of what fiscal poli
 - [[cheapest-available-behavior|The Cheapest Available Behavior Thesis]]. Under sound finance, budget-balance behavior is cheap for treasury officials; functional finance argues this cost structure carries no normative weight.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. Functional finance is a technical description without a public coordination story attached.
 - [[glossary/m-s/structural-prematurity|Structural Prematurity]]. Functional finance as an inflection-point insight that waited eight decades for political conditions.
-- [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment.
+- [[research/monetary-theory-growth|Research Brief: Monetary Theory as Substrate for Growth Phase]]. Extended treatment.
 
 <script type="application/ld+json">
 {

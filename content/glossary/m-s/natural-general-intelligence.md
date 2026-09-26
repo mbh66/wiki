@@ -36,13 +36,13 @@ The training data would be drawn from the planetary observing apparatus that gov
 
 NGI is the technical name for the central nervous system that a mature [[the-bioplace-layer|BioPlace layer]] would resolve into. The current observing apparatus supplies the raw signals. NGI would supply the integrating intelligence above them.
 
-In the [[sensor-response-money|sensor-response money]] architecture, NGI supplies the "data *about* the community and the bioregion" stream that partly backs bioregional currency issuance. The three-tier architecture does not depend on NGI existing before it can operate. Sensor-response money can proceed on the observing system alone, with locally trained models per bioregion, as the [[valley-of-grace|Valley of Grace]] wayfinder work will test. NGI, once built, would substantially strengthen the middle tier's measurement capability by supplying a coherent global model of the state each bioregion holds a slice of.
+In the [[sensor-response-money|sensor-response money]] architecture, NGI supplies the "data *about* the community and the bioregion" stream that partly backs bioregional currency issuance. The three-tier architecture does not depend on NGI existing before it can operate. Sensor-response money can proceed on the observing system alone, with locally trained models per bioregion, as the [Valley of Grace](https://biohubs.bioconomy.earth/afrotropic/at12-vog) wayfinder work will test. NGI, once built, would substantially strengthen the middle tier's measurement capability by supplying a coherent global model of the state each bioregion holds a slice of.
 
 NGI is silicon intelligence coupled to the carbon substrate of the Earth system. This makes it the working technical instance of the [[carbon-silicon-partnership|Carbon-Silicon Partnership]] and one of the enabling conditions for [[mycelial-coordination|mycelial coordination]] at planetary scale.
 
 ## Related entries
 
-[[orbuch]] · [[the-bioplace-layer]] · [[sensor-response-money]] · [[bioregional-financing-facility]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [[valley-of-grace]] · [[three-futures]] · [[substrate-hypothesis]]
+[[people/theorists/orbuch-ryan|Ryan Orbuch]] · [[the-bioplace-layer]] · [[sensor-response-money]] · [[bioregional-financing-facility]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog) · [[three-futures]] · [[substrate-hypothesis]]
 
 <script type="application/ld+json">
 {

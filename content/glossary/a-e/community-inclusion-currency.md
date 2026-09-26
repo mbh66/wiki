@@ -19,7 +19,7 @@ A **Community Inclusion Currency (CIC)** is a community-issued mutual credit tok
 
 ## Origin
 
-The pattern was developed by [[ruddick|Will Ruddick]] through Grassroots Economics, beginning with Bangla-Pesa in Mombasa in 2013 and extended through the Sarafu Network across Kenyan and East African communities. The design draws on the tradition of Rotating Savings and Credit Associations (ROSCAs) and the complementary currency lineage that includes the Chiemgauer, the WIR Franc, and the Bristol Pound. Recent Sarafu deployments use blockchain infrastructure for the mutual credit ledger.
+The pattern was developed by [[people/practitioners/ruddick-will|Will Ruddick]] through Grassroots Economics, beginning with Bangla-Pesa in Mombasa in 2013 and extended through the Sarafu Network across Kenyan and East African communities. The design draws on the tradition of Rotating Savings and Credit Associations (ROSCAs) and the complementary currency lineage that includes the Chiemgauer, the WIR Franc, and the Bristol Pound. Recent Sarafu deployments use blockchain infrastructure for the mutual credit ledger.
 
 ## Structural features
 
@@ -37,7 +37,7 @@ CICs are the pattern by which the community-observer role in sensor-response mon
 
 ## Related entries
 
-[[ruddick]] · [[sensor-response-money]] · [[bioregional-financing-facility]] · [[bancor]] · [[commitment-pooling]] · [[protective-illiquidity]] · [[mycelial-patronage]] · [[transvestment]] · [[bioregional-economics]]
+[[people/practitioners/ruddick-will|Will Ruddick]] · [[sensor-response-money]] · [[bioregional-financing-facility]] · [[bancor]] · [[commitment-pooling]] · [[protective-illiquidity]] · [[mycelial-patronage]] · [[transvestment]] · [[bioregional-economics]]
 
 <script type="application/ld+json">
 {
