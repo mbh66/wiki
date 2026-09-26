@@ -129,7 +129,7 @@ Stalled governance usually mistakes a self-talk disagreement for a lens disagree
 
 ## Attribution
 
-The ladder of inference is Argyris's. Lens and self-talk entered the model in a Zoom dialogue between Michael Haupt and Michael Keller (Ecology of Design in Human Systems) on 25 September 2026. The substrate, lens and self-talk layers, their placement on the ladder, the disagreement locator and the application to TIME are Michael Haupt's construction (working hypothesis). The four TIME forms build on [[ronfeldt-david|David Ronfeldt]]'s TIMN framework; the reading of the fourth form as Emergent is the corpus's own (see [[e-form-emergent|E form (Emergent)]]). The bias research is cited for its own findings.
+The ladder of inference is Argyris's. Lens and self-talk entered the model in a Zoom dialogue between Michael Haupt and [[keller-michael|Michael Keller]] (Ecology of Design in Human Systems) on 25 September 2026. The substrate, lens and self-talk layers, their placement on the ladder, the disagreement locator and the application to TIME are Michael Haupt's construction (working hypothesis). The four TIME forms build on [[ronfeldt-david|David Ronfeldt]]'s TIMN framework; the reading of the fourth form as Emergent is the corpus's own (see [[e-form-emergent|E form (Emergent)]]). The bias research is cited for its own findings.
 
 ## See also
 

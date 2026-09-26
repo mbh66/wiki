@@ -31,7 +31,7 @@ The coordination substrate sits beneath both. Price, for example, decides which 
 
 Each older TIME form carries a built-in tie-breaker. In the [[t-form-tribal|T form]] the elder settles it; in the [[i-form-institutional|I form]], the office-holder; in the [[m-form-market|M form]], price. The [[e-form-emergent|E form]] has none. When perspectives meet as equals, disagreement can only be resolved by working through the layers, and knowing which lenses are present becomes a governance need. A TIME profile is one candidate tool for that job.
 
-The ladder of inference is Argyris's. Lens and self-talk entered the model in a Zoom dialogue between Michael Haupt and Michael Keller (Ecology of Design in Human Systems) on 25 September 2026. The lens and self-talk elements as developed here, their placement on the ladder and their use as a governance model are the author's construction (working hypothesis).
+The ladder of inference is Argyris's. Lens and self-talk entered the model in a Zoom dialogue between Michael Haupt and [[keller-michael|Michael Keller]] (Ecology of Design in Human Systems) on 25 September 2026. The lens and self-talk elements as developed here, their placement on the ladder and their use as a governance model are the author's construction (working hypothesis).
 
 ## Attribution
 

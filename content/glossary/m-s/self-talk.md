@@ -32,7 +32,7 @@ In counseling and sports psychology, self-talk means inner dialogue in general. 
 
 Exposing self-talk carries risk, and in a room with power asymmetries the risk falls on whoever holds least power. Governance practice therefore works on it privately or indirectly: the left-hand column exercise done alone or in pairs, blind proposal rounds against reactive devaluation, and acknowledgment rounds, which reduce false polarization where restating one's own position does not (Sherman, Nelson and Ross 2003). Teaching participants about naive realism can open the least open among them (Nasie et al. 2014).
 
-Lens and self-talk entered the model in a Zoom dialogue between Michael Haupt and Michael Keller (Ecology of Design in Human Systems) on 25 September 2026. This use of the term is Michael Haupt's development of it (working hypothesis).
+Lens and self-talk entered the model in a Zoom dialogue between Michael Haupt and [[keller-michael|Michael Keller]] (Ecology of Design in Human Systems) on 25 September 2026. This use of the term is Michael Haupt's development of it (working hypothesis).
 
 ## Related terms
 

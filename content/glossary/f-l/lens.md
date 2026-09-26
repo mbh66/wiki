@@ -29,7 +29,7 @@ Each older TIME form settles lens conflict with a built-in tie-breaker: the elde
 
 The closest empirical research is the cultural cognition work of Kahan and colleagues, which shows worldview shaping which facts people accept. Grid-group cultural theory also names a fatalist position, held by people bound by rules they had no part in making. TIME has no form for it, and a governance process that ignores it will misread those participants.
 
-Lens and self-talk entered the model in a Zoom dialogue between Michael Haupt and Michael Keller (Ecology of Design in Human Systems) on 25 September 2026. This use of the term is Michael Haupt's development of it (working hypothesis).
+Lens and self-talk entered the model in a Zoom dialogue between Michael Haupt and [[keller-michael|Michael Keller]] (Ecology of Design in Human Systems) on 25 September 2026. This use of the term is Michael Haupt's development of it (working hypothesis).
 
 ## Related terms
 
