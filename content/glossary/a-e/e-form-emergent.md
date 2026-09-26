@@ -7,7 +7,7 @@ first_defined_in: ""
 related_terms: ["time-framework", "t-form-tribal", "i-form-institutional", "m-form-market", "coordination-node", "commons", "subsidiarity", "protective-illiquidity", "commitment-pool", "p4p-peer-for-peer", "archipelago-of-regenerative-projects", "bioscore", "missing-middle", "bioconomy", "biohub", "bioregion", "bioplace", "federated-cooperative", "founding-compact", "tender-compact", "alignment-compact"]
 source_project: "BioConomy"
 created: 2026-08-24
-updated: 2026-09-07
+updated: 2026-09-26
 epistemic_status: "documented-framework"
 ---
 
@@ -17,7 +17,7 @@ Coordination through pooled commitments toward outcomes no single actor can prod
 
 The E form is the fourth coordination layer in the [[time|TIME]] framework. It is the form currently emerging. Its operating logic is voluntary, commitment-based cooperation: actors pool their capacity toward shared outcomes whose value cannot be captured by any single participant. The authority that holds the pool together is not kinship (T), not statutory hierarchy (I), not price signals (M). It is the commitment itself, made transparent, revisable, and accountable to the cohort that made it.
 
-The E form was named *Networks* (+N) in [[ronfeldt-david|David Ronfeldt]]'s original [[timn|TIMN]] framework. The renaming to *Emergent* (+E) follows Ronfeldt's own October 2025 proposal and carries a substantive claim: the fourth form is not simply networked communication (which the M form already uses extensively) but a qualitatively different coordination logic that emerges from the interaction of committed actors at landscape scale. The distinction matters because the (+T+I+M)^+N test holds: any +N effort that leaves the [[m-form-market|monetary substrate]] intact defaults to triform coordination with a network overlay, not genuine quadriform coordination. +E names the form that passes the test.
+The E form was named *Networks* (+N) in [[ronfeldt-david|David Ronfeldt]]'s original [[timn|TIMN]] framework. In October 2025 Ronfeldt floated renaming the fourth form "equinets" or "exonets," which would turn TIMN into TIME; he offered the change tentatively and did not insist on it. Reading +E as *Emergent* is the BioConomy corpus's own extension, made by [[haupt-michael|Michael Haupt]], and is not Ronfeldt's wording. The reading carries a substantive claim: the fourth form is not simply networked communication (which the M form already uses extensively) but a qualitatively different coordination logic that emerges from the interaction of committed actors at landscape scale. The distinction matters because the (+T+I+M)^+N test holds: any +N effort that leaves the [[m-form-market|monetary substrate]] intact defaults to triform coordination with a network overlay, not genuine quadriform coordination. +E names the form that passes the test.
 
 The E form is the youngest coordination layer and therefore the least mature. Its institutional expressions are still forming. Its characteristic architecture is still being built. Its relationship to the prior three forms is still being negotiated. What is clear is its structural logic: coordination through pooled commitment, at the scale of the living system, toward outcomes the market cannot price and the state cannot mandate.
 
@@ -71,10 +71,12 @@ The E form also recovers something the [[t-form-tribal|T form]] carried and the 
 ## Sources and associated figures
 
 - [[ronfeldt-david|David Ronfeldt]]
+- Ronfeldt, D. (2025, October). "Rethinking What Tribes and Networks Are Good For (Part I)." Substack. https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks. The source of the "equinets" and "exonets" proposal.
+- [[research/time-profile|A TIME Profile for Multi-Perspective Governance]] (attribution note).
 
 ## Provenance
 
-Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, coordination node, BioStack position, and contrast with adjacent forms added 7 September 2026, drawing on the Coordination Node entry, the BioStack framing, the Economy/BioConomy glossary entries, and the Economy versus BioConomy concept page. The Compacts section was preserved from the original entry.
+Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, coordination node, BioStack position, and contrast with adjacent forms added 7 September 2026, drawing on the Coordination Node entry, the BioStack framing, the Economy/BioConomy glossary entries, and the Economy versus BioConomy concept page. The Compacts section was preserved from the original entry. On 26 September 2026 the attribution of the renaming was corrected: Ronfeldt proposed "equinets" or "exonets" for +E, and the Emergent reading is the corpus's own.
 
 <script type="application/ld+json">
 {

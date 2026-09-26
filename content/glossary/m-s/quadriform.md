@@ -7,7 +7,7 @@ first_defined_in: "Ronfeldt, *Tribes, Institutions, Markets, Networks* (RAND P-7
 related_terms: ["e-form-emergent", "monoform", "biform", "triform", "time", "timn", "bioconomy", "biohub", "commitment-pool", "alpha-window", "substrate-hypothesis"]
 source_project: "BioConomy"
 created: 2026-09-20
-updated: 2026-09-20
+updated: 2026-09-26
 epistemic_status: "documented-framework"
 ---
 
@@ -17,7 +17,7 @@ A society organized around four coordination forms: kinship (+T), institutional 
 
 Ronfeldt's sequence runs from [[monoform]] (+T) to [[biform]] (+T+I) to [[triform]] (+T+I+M) and "potentially to quadriform" (+T+I+M+E). The qualifier is deliberate. Each prior transition took centuries, produced pathological intermediate forms, and was not guaranteed. The transition to quadriform is underway, Ronfeldt argues, but its outcome is not settled. It could stall at triform with a network overlay. It could produce a malformed fourth form captured by market logic (surveillance capitalism, platform monopoly). Or it could produce genuine quadriform coordination in which the fourth form operates with structural independence from the other three.
 
-The "+E" in the quadriform combination is what the BioConomy corpus calls the [[e-form-emergent|Emergent form]]: coordination through pooled commitments toward outcomes no single actor can produce alone, organized at the scale of the watershed or bioregion. The renaming from +N (Networks) to +E (Emergent) follows Ronfeldt's own October 2025 proposal. The substance of the renaming is that the fourth form is not simply networked communication, which the M form already uses extensively, but a qualitatively different coordination logic.
+The "+E" in the quadriform combination is what the BioConomy corpus calls the [[e-form-emergent|Emergent form]]: coordination through pooled commitments toward outcomes no single actor can produce alone, organized at the scale of the watershed or bioregion. Ronfeldt floated renaming +N as +E in October 2025, with E standing for "equinets" or "exonets"; reading +E as Emergent is the corpus's own extension. The substance of the renaming is that the fourth form is not simply networked communication, which the M form already uses extensively, but a qualitatively different coordination logic.
 
 ## The quadriform option as the BioConomy's structural claim
 

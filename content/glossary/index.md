@@ -237,7 +237,13 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/intelligence-silicon/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/ladder-of-inference/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/legibility-signal/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/lens/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-form-market/"
@@ -355,6 +361,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/second-tier-thinking/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/self-talk/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/soil-carbon-sponge/"
