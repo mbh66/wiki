@@ -33,11 +33,11 @@ At the wiki level, every coordination surface publishes four structured lists.
 
 **Seeks.** What the BioHub needs from peers, from institutional counterparties, or from participants it has not yet reached. Seeks are the coordination surface's demand signal: they publish the gaps the BioHub cannot fill alone.
 
-**Shared instruments.** The classes of financial instrument the BioHub is aligning its services against: [[content/concepts/performance-based-water-bonds|watershed bonds]], biodiversity credits, corporate stewardship funds, [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]] architectures. Shared instruments are where two BioHubs discover they are targeting different tranches or service lines within the same instrument class, creating natural grounds for federation.
+**Shared instruments.** The classes of financial instrument the BioHub is aligning its services against: [[concepts/performance-based-water-bonds|watershed bonds]], biodiversity credits, corporate stewardship funds, [[glossary/m-s/mycelial-patronage|Mycelial Patronage]] architectures. Shared instruments are where two BioHubs discover they are targeting different tranches or service lines within the same instrument class, creating natural grounds for federation.
 
 **Contact protocols.** How to reach the BioHub for coordination, contribution, or inquiry.
 
-At the operational level, the coordination surface extends beyond the wiki page to include the full range of exchanges and relationships the BioHub sustains. A soup kitchen that accepts bioregional currency for meals is part of the coordination surface. A stewardship team earning that currency by clearing invasive vegetation is part of the coordination surface. A [[content/concepts/performance-based-water-bonds|performance bond]] that settles when the watershed delivers measurable outcomes is part of the coordination surface. The wiki page makes these relationships discoverable. The relationships themselves are the surface.
+At the operational level, the coordination surface extends beyond the wiki page to include the full range of exchanges and relationships the BioHub sustains. A soup kitchen that accepts bioregional currency for meals is part of the coordination surface. A stewardship team earning that currency by clearing invasive vegetation is part of the coordination surface. A [[concepts/performance-based-water-bonds|performance bond]] that settles when the watershed delivers measurable outcomes is part of the coordination surface. The wiki page makes these relationships discoverable. The relationships themselves are the surface.
 
 ## Why the term matters
 
@@ -60,7 +60,7 @@ To learn how to set up your BioHub's coordination surface, see [[how-to-build-a-
 
 ## Related pages
 
-- [[content/glossary/a-e/coordination-surface|BioConomy Wiki Coordination Surface]] (the reference instance)
+- [[glossary/a-e/coordination-surface|BioConomy Wiki Coordination Surface]] (the reference instance)
 - [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[concepts/obligation-and-invitation|Obligation and Invitation]]

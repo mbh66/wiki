@@ -35,7 +35,7 @@ The BioConomy thesis extends Steiner's framework across the [[concepts/structure
 
 Under [[material-consciousness|Material Consciousness]], V2 operates as the application of *individual* intelligence to *commodified* labor, producing productivity gains that are captured as *private capital*.
 
-Under [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]], V2 undergoes a structural transformation. It becomes the application of *distributed* intelligence to *ecological participation*, producing *regenerative capacity* that circulates as *relational wealth*.
+Under [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]], V2 undergoes a structural transformation. It becomes the application of *distributed* intelligence to *ecological participation*, producing *regenerative capacity* that circulates as *relational wealth*.
 
 Every element of the equation changes:
 
@@ -83,7 +83,7 @@ The component claims are established by peer-reviewed evidence from each domain.
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[frameworks/farmer-forger-founder-framer|Farmer-Forger-Founder-Framer]]
 - [[material-consciousness|Material Consciousness]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[framer|Framer]]
 
 ## Sources

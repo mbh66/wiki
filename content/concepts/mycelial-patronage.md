@@ -45,7 +45,7 @@ Mycelial Patronage is not [[regenerative-capitalism|regenerative capitalism]]. R
 
 It is not impact investment. Impact investment retains the option of exit. Mycelial Patronage forecloses exit by design.
 
-It is not [[content/concepts/transvestment|transvestment alone]]. Transvestment names the crossing; Mycelial Patronage is the destination the crossing arrives at.
+It is not [[concepts/transvestment|transvestment alone]]. Transvestment names the crossing; Mycelial Patronage is the destination the crossing arrives at.
 
 It is not philanthropy. Philanthropy is retractable on the funder's schedule and accountable to the funder's metrics. Mycelial Patronage is inalienable and accountable to the commons the capital has entered.
 
@@ -62,10 +62,10 @@ This is the largest unproven parameter of the framework. The Valley of Grace pro
 - [[frameworks/three-feature-test|The Three-Feature Test]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
-- [[content/concepts/transvestment|Transvestment (concept)]]
+- [[concepts/transvestment|Transvestment (concept)]]
 - [[bioregional-financing-facility-bff|Bioregional Financing Facility]]
 - [[the-coercion-continuum|The Coercion Continuum]]
-- [[content/concepts/substrate-hypothesis|The Substrate Hypothesis (glossary)]]
+- [[concepts/substrate-hypothesis|The Substrate Hypothesis (glossary)]]
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 
 ## Sources

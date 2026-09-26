@@ -15,7 +15,7 @@ Each coordination form in the [[time|TIME]] framework trains its participants in
 
 The +M form's coordination grammar, consolidated over three centuries, is now so deeply embedded in economic education, legal frameworks, and public discourse that it reads as natural law. Its core assumptions:
 
-- **Currency demand is created by obligation.** The [[content/glossary/m-s/modern-monetary-theory|MMT]] tradition supplies the clearest statement: the state imposes a tax obligation denominated in its currency, and nothing else discharges it. A unit that lacks a tax-obligation backing is, within +M grammar, not a real currency. It is at best a loyalty point, at worst a fraud.
+- **Currency demand is created by obligation.** The [[glossary/m-s/modern-monetary-theory|MMT]] tradition supplies the clearest statement: the state imposes a tax obligation denominated in its currency, and nothing else discharges it. A unit that lacks a tax-obligation backing is, within +M grammar, not a real currency. It is at best a loyalty point, at worst a fraud.
 - **Value is measured by flow.** GDP tracks the volume of monetized transactions per unit of time. A hectare of intact forest has no value in this grammar until it is felled, sold, and the revenue recorded. Value is what moves through the system.
 - **Coordination happens through price.** Price compresses information about supply and demand into a single number. The institutional apparatus of the +M form (exchanges, clearing houses, courts, and regulatory bodies) ensures the number is actionable. Coordination that does not produce a price signal is, within this grammar, not economic coordination.
 - **Economic standing begins with employment.** A person's participation in the economy is mediated by wage labor. The unemployed person has no economic standing. Welfare is a temporary repair to a participation failure, not a form of coordination.
@@ -28,14 +28,14 @@ The grammar becomes a challenge only when it is mistaken for the complete descri
 
 The +[[e-form-emergent|E form]]'s coordination grammar is still forming, and this wiki is an early attempt to [[codify]] it. Its assumptions are becoming legible through practice rather than through theory, which is characteristic of an emergent form. But the core commitments are identifiable:
 
-- **Currency demand is created by access.** A bioregional currency acquires demand because it is the only instrument that provides access to goods, services, and coordination relationships that exist nowhere in the +M circuit. The [[content/concepts/obligation-and-invitation|Obligation and Invitation]] concept develops this at length: the +E form's demand mechanism is **invitation**, and it is structurally robust because the things the bioregional currency buys cannot be bought any other way.
+- **Currency demand is created by access.** A bioregional currency acquires demand because it is the only instrument that provides access to goods, services, and coordination relationships that exist nowhere in the +M circuit. The [[concepts/obligation-and-invitation|Obligation and Invitation]] concept develops this at length: the +E form's demand mechanism is **invitation**, and it is structurally robust because the things the bioregional currency buys cannot be bought any other way.
 - **Value is measured by stock.** What stays, not what flows: soil depth, watershed capacity, biodiversity, community capacity, and cultural coherence. A hectare of intact forest has value in this grammar because it holds water, sequesters carbon, supports biodiversity, and anchors the ecological function the [[bioregion|BioRegion]] depends on.
 - **Coordination happens through published traces.** The [[coordination-surface|coordination surface]] replaces price as the coordination signal. A [[biohub|BioHub]] publishes what it offers, what it seeks, and what instruments it is aligning to. Peers read the trace and respond. The mechanism is [[stigmergy|stigmergic]]: coordination emerges from the interaction of published commitments, not from a central authority or a clearing price.
 - **Economic standing begins with participation.** A person's standing in the BioConomy is conferred by contribution to the health of the place they live in. The currently unemployed person who clears invasive vegetation, monitors water quality, or grows food in a community garden has full economic standing in the +E grammar. What the +M grammar calls [[unemployment]], the +E grammar calls an [[unrecognized-contribution|unrecognized contribution]].
 
 ## Grammar conflicts
 
-When a +M-trained professional encounters a +E-form proposal, the resistance is grammatical. The proposal is not illegal (the architecture operates within every existing legal framework). It is not impractical (the [[content/concepts/performance-based-water-bonds|Cape Water Performance-Based Bond]] demonstrates the unit economics). It is illegible. The professional's grammar does not contain the categories the proposal requires.
+When a +M-trained professional encounters a +E-form proposal, the resistance is grammatical. The proposal is not illegal (the architecture operates within every existing legal framework). It is not impractical (the [[concepts/performance-based-water-bonds|Cape Water Performance-Based Bond]] demonstrates the unit economics). It is illegible. The professional's grammar does not contain the categories the proposal requires.
 
 Common grammar conflicts:
 
@@ -52,22 +52,22 @@ A [[glossary/a-e/bioregional-currency|bioregional currency]] whose demand mechan
 
 ## Implications for BioConomy practitioners
 
-A BioHub proposing a [[content/concepts/tax-to-commons-pathways|tax-to-commons pathway]] or a bioregional currency to a municipal council staffed by +M-trained professionals faces a grammar conflict, not a policy disagreement. The practical consequence: the proposal must be bilingual. It must state its claims in +E grammar (access-driven demand, stock-based measurement, stigmergic coordination) and translate them into +M grammar (legal compliance, fiscal mechanisms, measurable deliverables) for the audience that will approve or reject it.
+A BioHub proposing a [[concepts/tax-to-commons-pathways|tax-to-commons pathway]] or a bioregional currency to a municipal council staffed by +M-trained professionals faces a grammar conflict, not a policy disagreement. The practical consequence: the proposal must be bilingual. It must state its claims in +E grammar (access-driven demand, stock-based measurement, stigmergic coordination) and translate them into +M grammar (legal compliance, fiscal mechanisms, measurable deliverables) for the audience that will approve or reject it.
 
-The [[content/concepts/tax-to-commons-pathways|Tax to Commons Pathways]] concept is already structured this way. Each of its four legal hooks (percentage designation laws, ecological fiscal transfers, property rates differentiation, municipal currency acceptance) is an +M-grammar translation of an +E-grammar coordination commitment. The staging is designed so that each stage produces evidence legible in +M grammar (measurable ecological outcomes, auditable accounts, legal compliance) while building coordination capacity legible in +E grammar (participation, commitment pooling, coordination-surface maturity).
+The [[concepts/tax-to-commons-pathways|Tax to Commons Pathways]] concept is already structured this way. Each of its four legal hooks (percentage designation laws, ecological fiscal transfers, property rates differentiation, municipal currency acceptance) is an +M-grammar translation of an +E-grammar coordination commitment. The staging is designed so that each stage produces evidence legible in +M grammar (measurable ecological outcomes, auditable accounts, legal compliance) while building coordination capacity legible in +E grammar (participation, commitment pooling, coordination-surface maturity).
 
 The long-term task is not translation but bilingualism: a generation of practitioners fluent in both grammars, able to see which coordination patterns each makes visible, and able to design institutions that operate across both without collapsing one into the other.
 
 ## See also
 
-- [[content/concepts/obligation-and-invitation|Obligation and Invitation]]. The concept that surfaced the grammar distinction.
-- [[content/concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]. The prior concept that correcting the intellectual model does not change the substrate.
-- [[content/glossary/m-s/substrate-hypothesis|The Substrate Hypothesis]]. Grammar is the conceptual expression of a substrate's operating logic.
-- [[content/concepts/cheapest-available-behavior|The Cheapest Available Behavior Thesis]]. Grammar trains practitioners to see the cost structure their own form produces.
-- [[content/concepts/economy-versus-bioconomy|Economy versus BioConomy]]. The five structural differences the two grammars describe.
-- [[content/concepts/tax-to-commons-pathways|Tax to Commons Pathways]]. Bilingual proposals in practice.
-- [[content/glossary/a-e/coordination-surface|Coordination Surface]]. The +E grammar's coordination signal.
-- [[content/concepts/structural-prematurity|Structural Prematurity]]. Why the +E grammar could not emerge before the +M form's deceleration phase.
+- [[concepts/obligation-and-invitation|Obligation and Invitation]]. The concept that surfaced the grammar distinction.
+- [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]. The prior concept that correcting the intellectual model does not change the substrate.
+- [[glossary/m-s/substrate-hypothesis|The Substrate Hypothesis]]. Grammar is the conceptual expression of a substrate's operating logic.
+- [[concepts/cheapest-available-behavior|The Cheapest Available Behavior Thesis]]. Grammar trains practitioners to see the cost structure their own form produces.
+- [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]. The five structural differences the two grammars describe.
+- [[concepts/tax-to-commons-pathways|Tax to Commons Pathways]]. Bilingual proposals in practice.
+- [[glossary/a-e/coordination-surface|Coordination Surface]]. The +E grammar's coordination signal.
+- [[concepts/structural-prematurity|Structural Prematurity]]. Why the +E grammar could not emerge before the +M form's deceleration phase.
 
 <script type="application/ld+json">
 {

@@ -33,7 +33,7 @@ Gebser identifies five structures of consciousness, each characterized by qualit
 
 **Integral.** Consciousness achieves "aperspectival" awareness: the capacity to hold multiple perspectives simultaneously without being captured by any single one. Space and time become "diaphanous" (transparent, co-present). This is not a rejection of the mental-rational but an integration that includes and transcends it.
 
-Gebser's mental-rational structure corresponds to what the BioConomy corpus calls [[material-consciousness|Material Consciousness]]. His integral structure corresponds to [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
+Gebser's mental-rational structure corresponds to what the BioConomy corpus calls [[material-consciousness|Material Consciousness]]. His integral structure corresponds to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
 
 ### Clare Graves: Levels of Existence
 
@@ -84,7 +84,7 @@ The individual developmental frameworks are documented through peer-reviewed res
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[material-consciousness|Material Consciousness]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[second-tier|Second Tier]]
 - [[first-tier|First Tier]]
 

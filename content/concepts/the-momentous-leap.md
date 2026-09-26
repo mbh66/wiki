@@ -33,7 +33,7 @@ Fifty-two years after Graves's paper, all three possibilities are further advanc
 
 ## The Leap and the BioConomy Thesis
 
-The BioConomy corpus identifies the Momentous Leap as the developmental equivalent of the transition from [[material-consciousness|Material Consciousness]] to [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] in the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]] sequence. Graves provided the developmental psychology; Gebser provides the phenomenology of consciousness structures; Kegan provides the constructive-developmental framework; Sahtouris provides the biological precedent.
+The BioConomy corpus identifies the Momentous Leap as the developmental equivalent of the transition from [[material-consciousness|Material Consciousness]] to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] in the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]] sequence. Graves provided the developmental psychology; Gebser provides the phenomenology of consciousness structures; Kegan provides the constructive-developmental framework; Sahtouris provides the biological precedent.
 
 The corpus's specific contribution is the claim that the Momentous Leap is not only a shift in values or perspective but a structural transformation of how economic value is created. Under First Tier (Material) consciousness, Steiner's V2 operates as individual intelligence applied to commodified labor, producing gains captured as private capital. Under Second Tier (Mycelial) consciousness, V2 transforms into distributed intelligence applied to ecological participation, producing regenerative capacity that circulates as relational wealth.
 

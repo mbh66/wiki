@@ -22,7 +22,7 @@ The five literatures the framework rests on:
 - **Endosymbiotic biology** (Margulis, Sahtouris): integration rather than competition as the driver of complex organizational form.
 - **Mycelial network science** (Simard, Sheldrake, Stamets): distributed intelligence and reciprocal resource allocation in mature ecosystems.
 - **[[commons|Commons]] governance** (Ostrom, Bollier, Helfrich): the empirical demonstration that distributed coordination outperforms centralized allocation in the specific conditions of substrate-dependent value creation.
-- **[[content/glossary/a-e/bioregional-economics|Bioregional economics]]** (Life, Fullerton, Raworth): the design principles of place-based economies operating within landscape carrying capacity.
+- **[[glossary/a-e/bioregional-economics|Bioregional economics]]** (Life, Fullerton, Raworth): the design principles of place-based economies operating within landscape carrying capacity.
 - **Alternative monetary theory** (Lietaer, Ruddick, Cox): the empirical demonstration that non-[[extractive|extractive]] monetary designs are feasible and, under scarcity, more resilient than the dominant system.
 
 ## The core claim
@@ -39,7 +39,7 @@ The Mycelial Value Creation framework does not claim that human economic systems
 
 ## The consciousness prerequisite
 
-Mycelial Value Creation requires [[content/concepts/mycelial-consciousness|Mycelial Consciousness]] to operate. A network of actors each operating on Material Consciousness (getting, taking, extracting) will not produce mycelial value even if the coordination infrastructure is in place. The infrastructure will be captured by whichever actor arrives with the most extractive capacity first.
+Mycelial Value Creation requires [[concepts/mycelial-consciousness|Mycelial Consciousness]] to operate. A network of actors each operating on Material Consciousness (getting, taking, extracting) will not produce mycelial value even if the coordination infrastructure is in place. The infrastructure will be captured by whichever actor arrives with the most extractive capacity first.
 
 This is why the three movements of the Emancipation Architecture are inseparable. Movement I diagnoses the civilizational condition and identifies the psychological transition required. Movement II specifies the value theory that becomes possible under that transition. Movement III specifies the infrastructure that enables the transition to become durable. Each movement requires the others to function.
 
@@ -63,8 +63,8 @@ The five layers are not additive in the way conventional national accounts add s
 
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/three-futures|The Three Futures]]
-- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
-- [[content/concepts/mycelial-coordination|Mycelial Coordination]]
+- [[concepts/mycelial-consciousness|Mycelial Consciousness]]
+- [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[retention-logic|Retention Logic]]
 - [[commitment-pooling|Commitment Pooling]]
 - [[bioconomy|BioConomy]]

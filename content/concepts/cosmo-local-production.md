@@ -66,7 +66,7 @@ Ruddick's Grassroots Economics protocol operates on the same cosmo-local logic: 
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
 - [[bauwens-michel|Michel Bauwens]]
-- [[content/concepts/cosmo-local-production|Cosmo-local production (glossary)]]
+- [[concepts/cosmo-local-production|Cosmo-local production (glossary)]]
 
 ## Sources
 

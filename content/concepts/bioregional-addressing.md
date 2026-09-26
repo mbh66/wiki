@@ -21,7 +21,7 @@ The absence is deliberate. Country codes are the addressing layer of the [[econo
 
 The address a coordination architecture publishes is one of the traces the [[concepts/stigmergy|stigmergic]] pattern reads. When a coordinator arrives at `at12-vog.bioconomy.earth` and finds a bioregion code at the front and no country segment at all, the address itself says what the wiki is doing: coordinating at the scale of the living landscape the bioregion names, above the scale of the political jurisdiction that happens to contain that landscape today. When the same coordinator arrives at `za-at12-vog.bioconomy.earth`, the address says something different: this BioHub coordinates within a national frame, and the national frame is the primary sort. The pattern reproduces the coordination logic of the Economy inside the E form.
 
-The [[content/concepts/substrate-hypothesis|Substrate Hypothesis]] applies here as it applies everywhere. Coordination is a property of the substrate. Address is part of the substrate. An address that leads with a country code invites the coordination behavior countries expect. An address that leads with a bioregion code invites the coordination behavior the biosphere expects.
+The [[concepts/substrate-hypothesis|Substrate Hypothesis]] applies here as it applies everywhere. Coordination is a property of the substrate. Address is part of the substrate. An address that leads with a country code invites the coordination behavior countries expect. An address that leads with a bioregion code invites the coordination behavior the biosphere expects.
 
 ## What the addressing scheme actually holds
 
@@ -42,7 +42,7 @@ Bioregional addressing extends past URLs. Currency codes (ZA-FiCom is a first-ge
 ## Related pages
 
 - [[concepts/stigmergy|Stigmergy]]
-- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]
+- [[concepts/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
 - [[concepts/the-bioplace-layer|The BioPlace Layer]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
@@ -50,7 +50,7 @@ Bioregional addressing extends past URLs. Currency codes (ZA-FiCom is a first-ge
 - [[bioregion|BioRegion]]
 - [[biohub|BioHub]]
 - [[biostack|BioStack]]
-- [[content/coordination-surface|Coordination Surface]]
+- [[coordination-surface|Coordination Surface]]
 - [[wiki-network/index|Wiki Network]]
 
 ## Sources

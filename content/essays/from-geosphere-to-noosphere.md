@@ -33,7 +33,7 @@ Vernadsky saw this coming. His argument was not that the Noosphere would automat
 
 ## The form of consciousness matters
 
-The BioConomy corpus makes a specific claim about this: the relationship between the Noosphere and the Geosphere is not fixed. It is consciousness-dependent. Under Material Consciousness, the Noosphere extracts from the Geosphere. Under [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]], it participates in the Geosphere's regeneration.
+The BioConomy corpus makes a specific claim about this: the relationship between the Noosphere and the Geosphere is not fixed. It is consciousness-dependent. Under Material Consciousness, the Noosphere extracts from the Geosphere. Under [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]], it participates in the Geosphere's regeneration.
 
 The [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]] thesis provides the mechanism. Steiner's V2 (the application of intelligence to labor) operates differently under each form of consciousness. Under Material Consciousness, intelligence is applied to commodified labor, producing productivity gains captured as private capital. Under Mycelial Consciousness, distributed intelligence is applied to ecological participation, producing regenerative capacity that circulates as relational wealth. The transformation of V2 is the transformation of the Noosphere's relationship to the Geosphere.
 
@@ -109,7 +109,7 @@ The two are complementary. A digital twin of a watershed can model the hydrologi
 - [[frameworks/three-futures|Three Futures]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[material-consciousness|Material Consciousness]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[bioscore|BioScore]]
 - [[tenderable-services-portfolio|Tenderable Services Portfolio]]
 - [[retention-economics|Retention Economics]]

@@ -31,7 +31,7 @@ The populations subjected to the hut tax understood what it was. The Hut Tax War
 
 The hut tax operated through visible coercion: a colonial officer arriving at a homestead with an armed escort to collect a payment in a currency the household did not use and could only acquire by working in the colonizer's mines or on the colonizer's railways. The mechanism was effective but expensive to administer because it required ongoing enforcement against a population that experienced it as alien imposition.
 
-[[content/glossary/m-s/sound-finance|Sound Finance]] solved the administrative problem by installing the same mechanism inside a legitimating story. The story ran: the government is like a household. It earns before it spends. Taxes fund expenditure. Deficits are borrowings that future generations must repay. The story was carried by [[smith-adam|Adam Smith]]'s framing of public finance in *The Wealth of Nations* (1776), codified in Ricardian equivalence, elaborated in Gladstone's fiscal reforms of the 1850s through 1890s, and entrenched across the political spectrum by the twentieth century.
+[[glossary/m-s/sound-finance|Sound Finance]] solved the administrative problem by installing the same mechanism inside a legitimating story. The story ran: the government is like a household. It earns before it spends. Taxes fund expenditure. Deficits are borrowings that future generations must repay. The story was carried by [[smith-adam|Adam Smith]]'s framing of public finance in *The Wealth of Nations* (1776), codified in Ricardian equivalence, elaborated in Gladstone's fiscal reforms of the 1850s through 1890s, and entrenched across the political spectrum by the twentieth century.
 
 The story was operationally false. The government that issues its own currency does not need to collect revenue before spending, any more than the colonial administration needed to collect hut taxes before printing colonial currency. The state spends first and taxes afterward. Georg Friedrich Knapp saw this in 1905. Alfred Mitchell-Innes saw it in 1914, writing that "the redemption of government debt by taxation is the basic law of coinage." Keynes saw it in his 1930 *Treatise on Money*, where he credited both Knapp and Innes. Abba Lerner saw it in 1943, when he named [[functional-finance|functional finance]] as the alternative to what he called, precisely, "sound finance." Hyman Minsky saw it in 1986, writing that "taxes give value to the money issued by government." L. Randall Wray, Warren Mosler, Stephanie Kelton, and Bill Mitchell built [[modern-monetary-theory|Modern Monetary Theory]] on the accumulated corrections.
 
@@ -51,11 +51,11 @@ It constrained redistribution. By making every public expenditure appear to come
 
 ## Sound finance as substrate, not belief
 
-The [[content/concepts/substrate-hypothesis|Substrate Hypothesis]] holds that coordination is a property of substrate, not of participant disposition. Sound finance illustrates the claim. Barnes and Hicks's 2022 experimental work in the *British Journal of Political Science* found that the household-budget analogy is invoked ex post to justify austerity preferences already held, with no evidence that the analogy causes those preferences. Participants recruited the story to explain what the substrate had already compelled them to do.
+The [[concepts/substrate-hypothesis|Substrate Hypothesis]] holds that coordination is a property of substrate, not of participant disposition. Sound finance illustrates the claim. Barnes and Hicks's 2022 experimental work in the *British Journal of Political Science* found that the household-budget analogy is invoked ex post to justify austerity preferences already held, with no evidence that the analogy causes those preferences. Participants recruited the story to explain what the substrate had already compelled them to do.
 
 The finding separates two layers that sound finance fused. The substrate layer is the tax obligation itself: a demand driver that forces currency acquisition and creates what Mosler and Wray call unemployment in the technical sense, a population that must seek paid work denominated in the state's unit to discharge the obligation. The story layer is the balanced-budget doctrine: a legitimating narrative that makes the substrate's coercion legible as civic responsibility. Correcting the story, as [[kelton-stephanie|Kelton]]'s *The Deficit Myth* did for millions of readers, does not change the substrate. The tax obligation continues to force currency demand whether or not any participant believes the household analogy.
 
-This is why Lerner could decode sound finance's operational falsity in 1943 without dislodging it. The decoding operated at the story layer. The substrate carried on. See [[consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]] for the general pattern, and [[content/concepts/structural-prematurity|Structural Prematurity]] for the specific case of functional finance as an inflection-point insight that waited eighty years for political conditions.
+This is why Lerner could decode sound finance's operational falsity in 1943 without dislodging it. The decoding operated at the story layer. The substrate carried on. See [[consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]] for the general pattern, and [[concepts/structural-prematurity|Structural Prematurity]] for the specific case of functional finance as an inflection-point insight that waited eighty years for political conditions.
 
 ## The developmental arc
 
@@ -85,7 +85,7 @@ The design question for a bioregional currency is whether the demand driver can 
 
 ## See also
 
-- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]. Sound finance as a substrate compliance mechanism.
+- [[concepts/substrate-hypothesis|Substrate Hypothesis]]. Sound finance as a substrate compliance mechanism.
 - [[cheapest-available-behavior|The Cheapest Available Behavior Thesis]]. What the tax obligation makes cheap.
 - [[coercion-continuum|The Coercion Continuum]]. The twelve-thousand-year lineage the hut tax sits inside.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
@@ -93,7 +93,7 @@ The design question for a bioregional currency is whether the demand driver can 
 - [[modern-monetary-theory|Modern Monetary Theory]]. The tradition that decoded the mechanism.
 - [[functional-finance|Functional Finance]]. Lerner's named alternative.
 - [[metallism|Metallism]]. The compatible doctrine on money's nature.
-- [[content/concepts/structural-prematurity|Structural Prematurity]]. Functional finance as an inflection-point insight that waited eighty years.
+- [[concepts/structural-prematurity|Structural Prematurity]]. Functional finance as an inflection-point insight that waited eighty years.
 - [[s-curve-thesis-old|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
 
 ## Sources
@@ -113,7 +113,7 @@ The design question for a bioregional currency is whether the demand driver can 
 
 ## Provenance
 
-Written September 2026 as a concept-level treatment of sound finance, expanding the glossary entry at [[content/glossary/m-s/sound-finance|Sound Finance]]. The developmental arc from hut tax to fiscal orthodoxy synthesizes the chartalist lineage (Knapp, Innes, Lerner, Minsky, Wray, Mosler, Kelton) with the colonial taxation literature (Daunton, Callinicos) and the wiki's own Substrate Hypothesis and Coercion Continuum frameworks. The individual claims draw from the sources cited above; the synthesis across them is the wiki's own.
+Written September 2026 as a concept-level treatment of sound finance, expanding the glossary entry at [[glossary/m-s/sound-finance|Sound Finance]]. The developmental arc from hut tax to fiscal orthodoxy synthesizes the chartalist lineage (Knapp, Innes, Lerner, Minsky, Wray, Mosler, Kelton) with the colonial taxation literature (Daunton, Callinicos) and the wiki's own Substrate Hypothesis and Coercion Continuum frameworks. The individual claims draw from the sources cited above; the synthesis across them is the wiki's own.
 
 <script type="application/ld+json">
 {

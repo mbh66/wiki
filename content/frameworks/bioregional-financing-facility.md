@@ -13,7 +13,7 @@ The Bioregional Financing Facility (BFF) is an institutional architecture develo
 
 ## Overview
 
-The problem the BFF addresses is structural. Financial resources for regeneration exist, but the channels through which they reach the small groups doing on-the-ground work are designed for extractive returns, short time horizons, and individual enterprise. The BFF proposes a set of place-based financial institutions whose mandate, governance, and capital structure are organized around the [[content/glossary/a-e/bioregion|bioregion]] and its multigenerational regeneration strategy.
+The problem the BFF addresses is structural. Financial resources for regeneration exist, but the channels through which they reach the small groups doing on-the-ground work are designed for extractive returns, short time horizons, and individual enterprise. The BFF proposes a set of place-based financial institutions whose mandate, governance, and capital structure are organized around the [[glossary/a-e/bioregion|bioregion]] and its multigenerational regeneration strategy.
 
 The BFF architecture is not a single entity. It is a constellation of four entity types, each serving a different function in the capital lifecycle of a bioregion. They share a common governance orientation (participatory, transparent, aligned with living systems principles) and a common strategic anchor: the Bioregional Regeneration Strategy, a co-created multigenerational plan for the place.
 
@@ -37,7 +37,7 @@ The investment company develops systemic investment funds, likely thematic but p
 
 The bank provides low-interest loans, microloans, lines of credit, and technical assistance to aligned organizations. The template draws heavily on the literature of CDFIs (Community Development Financial Institutions). The bank can also provide retail banking services, reducing the bioregion's dependence on external capital over time. A further function the authors specify: the issuance of nature-based or complementary currencies, backed by the ecological health of the bioregion. Power cites the possibility of a currency backed by the health of a wild bison population, salmon stocks, or the condition of a river.
 
-Within the Emancipation Architecture, this function corresponds to the bioregional currency issuance mechanism. The EA specifies [[content/glossary/a-e/bioregional-economics|demurrage]] and [[regenerative-participation-income-rpi|Regenerative Participation Income]] as the monetary primitives; the BFF's bioregional bank is one institutional form through which those primitives could be administered.
+Within the Emancipation Architecture, this function corresponds to the bioregional currency issuance mechanism. The EA specifies [[glossary/a-e/demurrage|demurrage]] and [[regenerative-participation-income-rpi|Regenerative Participation Income]] as the monetary primitives; the BFF's bioregional bank is one institutional form through which those primitives could be administered.
 
 ## Twelve objectives and attributes
 
@@ -72,24 +72,24 @@ The BFF and the [[frameworks/emancipation-architecture|Emancipation Architecture
 
 The BFF starts from existing financial and institutional forms (trusts, venture studios, investment companies, banks) and adapts them for bioregional regeneration. It works within the prevailing monetary substrate: its instruments are denominated in conventional currency, its legal structures are drawn from existing jurisdictions (CLTs, CDFIs, cooperatives, public benefit corporations), and its theory of change is that bioregions can finance their own transition by redirecting capital flows through purpose-built institutions.
 
-The Emancipation Architecture starts from a diagnosis of the monetary substrate itself. It argues that any institutional arrangement operating on the existing monetary substrate will default to [[content/glossary/t-z/two-machines|triform coordination]] with a regenerative overlay, because the substrate's incentive structure remains extractive. The EA therefore specifies a new monetary primitive (the demurrage-based bioregional currency with RPI) and treats the institutional constellation as an expression of the new substrate rather than an adaptation of the old one.
+The Emancipation Architecture starts from a diagnosis of the monetary substrate itself. It argues that any institutional arrangement operating on the existing monetary substrate will default to [[glossary/t-z/triform|triform coordination]] with a regenerative overlay, because the substrate's incentive structure remains extractive. The EA therefore specifies a new monetary primitive (the demurrage-based bioregional currency with RPI) and treats the institutional constellation as an expression of the new substrate rather than an adaptation of the old one.
 
 The two frameworks are complementary in practice. The BFF provides a concrete institutional pathway that can begin operating now, within existing legal and financial systems. The Emancipation Architecture provides the longer-arc specification that the BFF's institutions would need to adopt as the monetary substrate shifts. The Bioregional Bank's currency-issuance function is the hinge between them: it begins as a complementary currency alongside conventional money and, if the EA's thesis holds, becomes the primary unit of account as the bioregion's internal economy matures.
 
 ## The BioFi community of practice
 
-The BFF emerged from the BioFi project, a collaboration between [[content/glossary/a-e/bioregion|Dark Matter Labs]], the [[content/people/theorists/power-samantha|Buckminster Fuller Institute]], and several bioregional organizations. As of 2025, the community of practice includes over 450 initiatives coordinating through the [Hylo platform](https://www.hylo.com/groups/biofi). The first BioFi Cultivator cohort ran from January through June 2025, taking approximately 18 bioregional organizing teams through a learning and design journey to create their own BFFs.
+The BFF emerged from the BioFi project, a collaboration between Dark Matter Labs, the Buckminster Fuller Institute, and several bioregional organizations. As of 2025, the community of practice includes over 450 initiatives coordinating through the [Hylo platform](https://www.hylo.com/groups/biofi). The first BioFi Cultivator cohort ran from January through June 2025, taking approximately 18 bioregional organizing teams through a learning and design journey to create their own BFFs.
 
-In Southern Africa, bioregional organizing teams in the [[content/glossary/a-e/bioregion|Valley of Grace]] partnered with Evan Folds of Project Biome to run a BFF design process, making the Valley of Grace one of the early African testing grounds for the architecture.
+In Southern Africa, bioregional organizing teams in the [Valley of Grace](https://biohubs.bioconomy.earth/afrotropic/at12-vog) partnered with Evan Folds of Project Biome to run a BFF design process, making the Valley of Grace one of the early African testing grounds for the architecture.
 
 ## Related pages
 
-- [[content/glossary/a-e/bioregional-financing-facility-bff|Bioregional Financing Facility (glossary)]]
+- [[glossary/a-e/bioregional-financing-facility-bff|Bioregional Financing Facility (glossary)]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[biohub|BioHub]]
-- [[content/concepts/transvestment|Transvestment]]
+- [[concepts/transvestment|Transvestment]]
 
 ## Sources
 

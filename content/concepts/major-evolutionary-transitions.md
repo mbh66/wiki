@@ -15,7 +15,7 @@ The Major Evolutionary Transitions (MET) is the BioConomy corpus's developmental
 
 The MET sequence maps the evolution of human consciousness across civilizational scale, drawing on and integrating the developmental frameworks of [[sources/gebser-ever-present-origin|Jean Gebser]], [[momentous-leap|Clare Graves]], [[sources/kegan-in-over-our-heads|Robert Kegan]], and [[sources/sahtouris-earthdance|Elisabet Sahtouris]]. Each transition represents not merely a change in what humans know or how they organize, but a qualitative shift in the structure of consciousness itself, producing different relationships to space, time, causality, production, and exchange.
 
-The sequence is mapped onto the logistic growth curve ([[s-curve|S-curve]]) of human civilization since the Neolithic Revolution, approximately 12,000 years ago. The first four transitions correspond to the steep ascent of the curve. The fifth, from Material to [[content/glossary/m-s/mycelial-consciousness|Mycelial]], corresponds to the inflection point where the curve bends into its deceleration phase.
+The sequence is mapped onto the logistic growth curve ([[s-curve|S-curve]]) of human civilization since the Neolithic Revolution, approximately 12,000 years ago. The first four transitions correspond to the steep ascent of the curve. The fifth, from Material to [[glossary/m-s/mycelial-consciousness|Mycelial]], corresponds to the inflection point where the curve bends into its deceleration phase.
 
 The MET framework is original to this corpus, synthesizing convergent evidence from multiple independent developmental traditions into a single civilizational sequence. The component frameworks are well-established in their respective disciplines; the integration across them is the original contribution.
 
@@ -43,7 +43,7 @@ Consciousness achieves perspectival, analytical, and abstracting capacity. The m
 
 The emerging fifth transition. Consciousness achieves aperspectival, relational, and distributed capacity. Gebser's integral structure. Graves's [[second-tier|Second Tier]]. Kegan's self-transforming mind. The capacity to hold multiple perspectives simultaneously without collapsing into any single one, and to participate in distributed intelligence without needing to control it.
 
-[[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] draws its name from the biological template of mycorrhizal networks, which coordinate resource distribution, chemical signaling, and adaptive learning across forest ecosystems without central command. The TIMN Network form (+N) emerges under this consciousness, with bioregions as the characteristic nodes.
+[[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] draws its name from the biological template of mycorrhizal networks, which coordinate resource distribution, chemical signaling, and adaptive learning across forest ecosystems without central command. The TIMN Network form (+N) emerges under this consciousness, with bioregions as the characteristic nodes.
 
 Under Mycelial Consciousness, V2 transforms structurally: distributed intelligence applied to ecological participation, producing regenerative capacity that circulates as relational wealth. The [[frameworks/farmer-forger-founder-framer|Farmer-Forger-Founder-Framer]] sequence maps the progressive abstraction of production across the MET transitions.
 
@@ -74,7 +74,7 @@ The MET sequence is a structural inference: each component framework is independ
 ## Related Pages
 
 - [[material-consciousness|Material Consciousness]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[frameworks/three-futures|Three Futures]]

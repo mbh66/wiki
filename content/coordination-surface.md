@@ -84,7 +84,7 @@ The full list with structured identifiers is carried in the frontmatter above.
 
 ## Shared instruments
 
-At the project level, "shared instruments" names the classes of financial instrument the project is developing framework and reference material for, rather than specific instruments the project is aligning services against. The four current classes are watershed bonds and equivalent outcome instruments, biodiversity credit issuances, corporate stewardship funds in protected-area landscapes, and the [[content/glossary/m-s/mycelial-patronage|Mycelial Patronage]] architecture. A BioHub targeting a specific instrument in any of these classes has natural coordination surface with the project's research briefs and with peer BioHubs targeting subsequent tranches of the same instrument series.
+At the project level, "shared instruments" names the classes of financial instrument the project is developing framework and reference material for, rather than specific instruments the project is aligning services against. The four current classes are watershed bonds and equivalent outcome instruments, biodiversity credit issuances, corporate stewardship funds in protected-area landscapes, and the [[glossary/m-s/mycelial-patronage|Mycelial Patronage]] architecture. A BioHub targeting a specific instrument in any of these classes has natural coordination surface with the project's research briefs and with peer BioHubs targeting subsequent tranches of the same instrument series.
 
 The full list with structured identifiers is carried in the frontmatter above.
 

@@ -13,9 +13,9 @@ The core ideas that organize the [[bioconomy|BioConomy]] thesis, each treated at
 
 ## Overview
 
-A concept page carries a substantive treatment of an idea the wiki's frameworks and essays build on. Each opens with a one-sentence definition, expands into an overview, and treats the concept in enough detail that a reader can leave with a working understanding. Concept pages sit between the short definitions in the [[content/glossary/index|glossary]] and the argumentative treatments in the [[essays/index|essays]].
+A concept page carries a substantive treatment of an idea the wiki's frameworks and essays build on. Each opens with a one-sentence definition, expands into an overview, and treats the concept in enough detail that a reader can leave with a working understanding. Concept pages sit between the short definitions in the [[glossary/index|glossary]] and the argumentative treatments in the [[essays/index|essays]].
 
-Seven concepts have a companion glossary entry ([[retention-economics|retention]]-logic, [[content/glossary/t-z/transvestment|transvestment]], mycelial-consciousness, mycelial-coordination, mycelial-patronage, cosmo-local-production, structural-prematurity). Where a pair exists, the concept page carries the deeper treatment and the glossary entry carries the short definition. Both link to each other.
+Seven concepts have a companion glossary entry ([[retention-economics|retention]]-logic, [[glossary/t-z/transvestment|transvestment]], mycelial-consciousness, mycelial-coordination, mycelial-patronage, cosmo-local-production, structural-prematurity). Where a pair exists, the concept page carries the deeper treatment and the glossary entry carries the short definition. Both link to each other.
 
 ## Where to start
 
@@ -36,7 +36,7 @@ Concepts are listed alphabetically by slug. No formal sub-structure. Where a con
 ## Related pages
 
 - [[engage|Wiki Home]]
-- [[content/glossary/index|Glossary]]
+- [[glossary/index|Glossary]]
 - [[frameworks/index|Frameworks]]
 - [[essays/index|Essays]]
 - [[research/index|Research]]

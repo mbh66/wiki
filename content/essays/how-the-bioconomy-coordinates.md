@@ -17,7 +17,7 @@ Stigmergy is the pattern by which termite mounds get built, ant trails get follo
 
 [[heylighen-francis|Heylighen]] argues that this mechanism scales in ways that hierarchical planning and communicative negotiation do not. Coordination becomes a property of the substrate. Intelligence sits in the interaction between the actors and their environment, with the environment holding part of what a central mind would otherwise have to hold.
 
-The BioConomy adopts this reasoning as its operating premise. Where the [[m-form-market|Market form]] coordinates through price signals and the [[i-form-institutional|Institutional form]] coordinates through hierarchy and rule, the [[e-form-emergent|Emergent form]] coordinates through published traces in a shared knowledge medium. The medium is a network of interlinked BioHub wikis. The trace is the [[content/coordination-surface|coordination surface]] each wiki publishes.
+The BioConomy adopts this reasoning as its operating premise. Where the [[m-form-market|Market form]] coordinates through price signals and the [[i-form-institutional|Institutional form]] coordinates through hierarchy and rule, the [[e-form-emergent|Emergent form]] coordinates through published traces in a shared knowledge medium. The medium is a network of interlinked BioHub wikis. The trace is the [[coordination-surface|coordination surface]] each wiki publishes.
 
 ## The coordination surface as trace
 
@@ -27,7 +27,7 @@ A peer BioHub's coordinator, or the AI agent working on that coordinator's behal
 
 There is no standing assembly. No federation body approves the alignments that emerge. The [[essays/how-to-build-a-biohub-wiki|reading pattern documented for AI agents]] makes the mechanism operational at machine scale, and the same pattern works at human scale: the file is written to be read by a coordinator without prior contact, and the reading produces the next action.
 
-This is what the [[content/concepts/substrate-hypothesis|Substrate Hypothesis]] says. Coordination is a property of the substrate. The coordination-surface pattern is the substrate the BioConomy publishes.
+This is what the [[concepts/substrate-hypothesis|Substrate Hypothesis]] says. Coordination is a property of the substrate. The coordination-surface pattern is the substrate the BioConomy publishes.
 
 ## How decision-making evolves
 
@@ -58,14 +58,14 @@ The coordination work is reading peer wikis (the [[wiki-network/index|wiki netwo
 ## Related pages
 
 - [[concepts/stigmergy|Stigmergy]]
-- [[content/coordination-surface|Coordination Surface]]
+- [[coordination-surface|Coordination Surface]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
 - [[e-form-emergent|E Form (Emergent)]]
-- [[content/concepts/substrate-hypothesis|Substrate Hypothesis]]
+- [[concepts/substrate-hypothesis|Substrate Hypothesis]]
 
 ## Sources
 

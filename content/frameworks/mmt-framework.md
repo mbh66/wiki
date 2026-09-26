@@ -21,7 +21,7 @@ term_type: borrowed-technical
 
 # Modern Monetary Theory
 
-Modern Monetary Theory (MMT) is a heterodox macroeconomic school that describes the operational mechanics of state spending under a sovereign, non-convertible, free-floating fiat currency. Its central operational claim is that a currency-issuing government spends the unit into circulation first, and taxation removes the unit from circulation afterward. The orthodox sequence taught by [[content/glossary/m-s/sound-finance|sound finance]] (taxes fund spending) is reversed.
+Modern Monetary Theory (MMT) is a heterodox macroeconomic school that describes the operational mechanics of state spending under a sovereign, non-convertible, free-floating fiat currency. Its central operational claim is that a currency-issuing government spends the unit into circulation first, and taxation removes the unit from circulation afterward. The orthodox sequence taught by [[glossary/m-s/sound-finance|sound finance]] (taxes fund spending) is reversed.
 
 ## Lineage
 
@@ -43,7 +43,7 @@ Before the current name stuck, the same body of work was called neo-Chartalism (
 
 MMT's account of why fiat currency has value is that the state imposes a tax obligation denominated in its currency, and nothing else discharges the obligation. This forces participation in the monetary substrate. Warren [[mosler-warren|Warren Mosler]]'s business-card parable makes the mechanism vivid: without an armed collector at the door demanding the cards, no one wants them; with the collector in place, the cards become money. *"Taxation has turned this piece of litter into money."* - Mosler. [[wray-l-randall|Randall Wray]] states the same point directly: the purpose of the tax is to create a supply of job seekers who want to work for money wages.
 
-The wiki reads this as an inadvertent confirmation of the [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. The tax obligation coordinates monetary behavior whether or not participants understand or endorse the monetary system. The intellectual story that sits on top (whether sound finance or MMT's own corrected account) is a legitimating overlay. The substrate does the compliance work.
+The wiki reads this as an inadvertent confirmation of the [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. The tax obligation coordinates monetary behavior whether or not participants understand or endorse the monetary system. The intellectual story that sits on top (whether sound finance or MMT's own corrected account) is a legitimating overlay. The substrate does the compliance work.
 
 The [[tax-to-commons-pathways|Tax to Commons Pathways]] concept, combined with the paired [[obligation-and-invitation|Obligation and Invitation]] concept, demonstrates the true power of MMT.
 
@@ -53,14 +53,14 @@ MMT is an operationally accurate description of sovereign fiat mechanics. It is 
 
 ## The S-curve position
 
-MMT was ignored by mainstream economics for decades, criticized in a concentrated mainstream wave in early 2019 (Summers, Rogoff, Krugman), then reached general public discourse when the pandemic fiscal response demonstrated in practice that sovereign issuers can spend at scale without prior taxation. The wiki reads this timing as characteristic of a deceleration-phase insight: correct on the steep part of the curve as well, but unable to gain traction because the acceleration phase selected against it. See [[content/glossary/m-s/structural-prematurity|Structural Prematurity]] and the [[research/mmt-as-growth-phase-story|MMT as Growth-Phase Story]] brief.
+MMT was ignored by mainstream economics for decades, criticized in a concentrated mainstream wave in early 2019 (Summers, Rogoff, Krugman), then reached general public discourse when the pandemic fiscal response demonstrated in practice that sovereign issuers can spend at scale without prior taxation. The wiki reads this timing as characteristic of a deceleration-phase insight: correct on the steep part of the curve as well, but unable to gain traction because the acceleration phase selected against it. See [[glossary/m-s/structural-prematurity|Structural Prematurity]] and the [[research/mmt-as-growth-phase-story|MMT as Growth-Phase Story]] brief.
 
 ## See also
 
-- [[content/glossary/m-s/sound-finance|Sound Finance]]. The doctrine MMT displaces in operational description.
-- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. The wiki frame that MMT's tax-obligation account confirms.
+- [[glossary/m-s/sound-finance|Sound Finance]]. The doctrine MMT displaces in operational description.
+- [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. The wiki frame that MMT's tax-obligation account confirms.
 - [[consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]. Why the corrected MMT description does not by itself change coordination behavior.
-- [[content/glossary/m-s/structural-prematurity|Structural Prematurity]]. The Chartalist-to-MMT lineage as a structural-prematurity case.
+- [[glossary/m-s/structural-prematurity|Structural Prematurity]]. The Chartalist-to-MMT lineage as a structural-prematurity case.
 - [[functional-finance|Functional Finance]]. Lerner's fiscal component.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
 - [[research/mmt-as-growth-phase-story|Research Brief: MMT as Growth-Phase Story]]. Extended treatment.

@@ -9,7 +9,7 @@ source_documents: ["III Emancipation Architecture (Emancipation Architecture Mov
 epistemic_status: "documented-framework"
 ---
 
-The Emancipation Architecture (EA) is the operative engineering design for [[content/concepts/mycelial-patronage|Mycelial Patronage]]: the first monetary design in post-Neolithic history explicitly constructed to serve freedom rather than extraction. It is Movement III of the three-movement architecture, and it answers the question that Movements I and II leave open: what must be built?
+The Emancipation Architecture (EA) is the operative engineering design for [[concepts/mycelial-patronage|Mycelial Patronage]]: the first monetary design in post-Neolithic history explicitly constructed to serve freedom rather than extraction. It is Movement III of the three-movement architecture, and it answers the question that Movements I and II leave open: what must be built?
 
 ## Overview
 
@@ -45,7 +45,7 @@ The EA's institutional architecture is a constellation of entity types across th
 
 **Inter-bioregional scale.** Entities connecting multiple bioregions: the clearing layer (enabling trade between bioregions without a single global unit), the substrate exchange (translating BioScores across bioregions with distinct ecologies), the coordinating assembly (analogous to the Cistercian General Chapter or the Hanseatic Hansetag, but constitutionally distinct from central command).
 
-**Mycelial network scale.** The global-facing layer: shared methodology and open documentation, the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]], the intellectual and practitioner networks (P2P Foundation, Design School for Regenerating Earth, the [[content/glossary/a-e/bioregional-economics|bioregional economics]] discipline) that carry knowledge across bioregional boundaries.
+**Mycelial network scale.** The global-facing layer: shared methodology and open documentation, the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]], the intellectual and practitioner networks (P2P Foundation, Design School for Regenerating Earth, the [[glossary/a-e/bioregional-economics|bioregional economics]] discipline) that carry knowledge across bioregional boundaries.
 
 The design goal of the constellation is that no single actor can capture the whole, because there is no whole to capture. One institution can be captured. A constellation, with governance functions separated across the threefold spheres and coordination across nested scales, is resilient by design.
 
@@ -82,10 +82,10 @@ The Valley of Grace prototype at Genadendal (in South Africa's Western Cape, a b
 - [[frameworks/three-feature-test|The Three-Feature Test]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
 - [[the-coercion-continuum|The Coercion Continuum]]
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
-- [[content/concepts/transvestment|Transvestment]]
-- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
-- [[content/concepts/mycelial-coordination|Mycelial Coordination]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/transvestment|Transvestment]]
+- [[concepts/mycelial-consciousness|Mycelial Consciousness]]
+- [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[bioregional-financing-facility-bff|Bioregional Financing Facility]]
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 - [[threefolding|Threefolding (glossary)]]

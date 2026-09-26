@@ -65,8 +65,8 @@ The claim's strength is not its historical inevitability but its structural spec
 
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/three-futures|The Three Futures]]
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
-- [[content/concepts/transvestment|Transvestment]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/transvestment|Transvestment]]
 - [[demurrage|Demurrage (glossary)]]
 - [[regenerative-participation-income-rpi|Regenerative Participation Income (glossary)]]
 - [[threefolding|Threefolding (glossary)]]

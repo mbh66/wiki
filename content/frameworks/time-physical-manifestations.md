@@ -109,7 +109,7 @@ The absence of a mature +N portable symbol is the strongest single indicator of 
 
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
-- [[content/concepts/mycelial-coordination|Mycelial Coordination]]
+- [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[bioscore|BioScore (glossary)]]
 - [[nature-realm|Nature Realm (glossary)]]
 - [[legibility-signal|Legibility Signal (glossary)]]

@@ -21,7 +21,7 @@ The Emancipation Architecture develops the term into an operational framework. T
 
 ## The Fugger and Medici positions
 
-Historically, patronage of civilizational reform has taken two structurally distinct forms. The [[content/concepts/mycelial-patronage|Mycelial Patronage]] concept page treats this in full; in short, the distinction is between an instrumental funder and a constitutive builder.
+Historically, patronage of civilizational reform has taken two structurally distinct forms. The [[concepts/mycelial-patronage|Mycelial Patronage]] concept page treats this in full; in short, the distinction is between an instrumental funder and a constitutive builder.
 
 The Fugger position, named for the Augsburg banking dynasty of the sixteenth century, is patronage as portfolio decoration. The Fuggers funded humanists while their core business was collecting the indulgence revenues that ignited the Reformation. Their capital was denominated in the order Luther attacked. Their cultural patronage bought no positional advantage in the emerging Protestant-commercial world.
 
@@ -55,12 +55,12 @@ The claim is that a comparable window is currently open, and closing. What Cassi
 
 ## Related pages
 
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
 - [[frameworks/three-feature-test|The Three-Feature Test for Patron Projects]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[the-coercion-continuum|The Coercion Continuum]]
-- [[content/concepts/transvestment|Transvestment (glossary)]]
+- [[concepts/transvestment|Transvestment (glossary)]]
 - [[helfrich-silke|Silke Helfrich]]
 - [[bollier-david|David Bollier]]
 

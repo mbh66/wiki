@@ -9,7 +9,7 @@ source_documents: ["Abouleish_Research_Brief_EA_Patron_Criteria.md", "Roam/SEKEM
 epistemic_status: "documented-framework"
 ---
 
-Ibrahim Abouleish (1937-2017) and SEKEM, the diversified enterprise he built from a single desert farm outside Cairo, are one of the closest contemporary cases to a durable, multi-generational, ecologically grounded patronage architecture. This brief assesses SEKEM against the [[frameworks/three-feature-test|Three-Feature Test]] and identifies where the fit is strong, where the fit weakens, and what the case tells us about the difference between founder-constitutive commitment and the [[content/concepts/mycelial-patronage|Mycelial Patronage]] position the Emancipation Architecture calls for.
+Ibrahim Abouleish (1937-2017) and SEKEM, the diversified enterprise he built from a single desert farm outside Cairo, are one of the closest contemporary cases to a durable, multi-generational, ecologically grounded patronage architecture. This brief assesses SEKEM against the [[frameworks/three-feature-test|Three-Feature Test]] and identifies where the fit is strong, where the fit weakens, and what the case tells us about the difference between founder-constitutive commitment and the [[concepts/mycelial-patronage|Mycelial Patronage]] position the Emancipation Architecture calls for.
 
 ## Scope note
 
@@ -35,7 +35,7 @@ The asymmetry is a finding, not an oversight. This brief treats Ibrahim's accomp
 
 Abouleish's identity became publicly and personally bound to SEKEM's success. He gave up a pharmaceutical research career to found it, lived at the site, and his public reputation from 2003 onward was built entirely on SEKEM's outcomes rather than on prior professional standing. The investment reads as constitutive rather than instrumental: he could not have walked away from SEKEM's failure and retained an independent standing built elsewhere.
 
-Where the fit weakens against the criteria's own test is capital structure. The criteria ask whether the patron's assets are anchored in the emerging order such that the patron's holdings appreciate as the new order consolidates. SEKEM's ownership structure remained, for most of its history, a family-controlled holding company. Abouleish spoke of an intention to "neutralize" the capital into SEKEM's own service, language that gestures toward the [[content/concepts/transvestment|transvestment]] move described in the criteria document, but the available sources document intention and rhetoric rather than a completed legal transfer into a trust or [[commons|commons]] structure comparable to Pathway A of the [[frameworks/five-transvestment-pathways|Five Transvestment Pathways]]. This makes Ibrahim closer to a founder whose personal fate is constitutively tied to the project than to a transvestor who has moved capital out of private holding into a commons trust.
+Where the fit weakens against the criteria's own test is capital structure. The criteria ask whether the patron's assets are anchored in the emerging order such that the patron's holdings appreciate as the new order consolidates. SEKEM's ownership structure remained, for most of its history, a family-controlled holding company. Abouleish spoke of an intention to "neutralize" the capital into SEKEM's own service, language that gestures toward the [[concepts/transvestment|transvestment]] move described in the criteria document, but the available sources document intention and rhetoric rather than a completed legal transfer into a trust or [[commons|commons]] structure comparable to Pathway A of the [[frameworks/five-transvestment-pathways|Five Transvestment Pathways]]. This makes Ibrahim closer to a founder whose personal fate is constitutively tied to the project than to a transvestor who has moved capital out of private holding into a commons trust.
 
 ### 2. Embedding in the emerging order
 
@@ -81,7 +81,7 @@ It does not, on the evidence gathered here, demonstrate the specific structural 
 
 ## What the case tells us about Mycelial Patronage
 
-SEKEM helps clarify the specific move the [[content/concepts/mycelial-patronage|Mycelial Patronage]] framework calls for by showing what falls short of it. A founder can be constitutively committed to a reform, can spend forty years building it, can achieve substantial ecological and social outcomes at community scale, and still not have made the transvestment move the EA specifies, because the capital and the governance remain family-held.
+SEKEM helps clarify the specific move the [[concepts/mycelial-patronage|Mycelial Patronage]] framework calls for by showing what falls short of it. A founder can be constitutively committed to a reform, can spend forty years building it, can achieve substantial ecological and social outcomes at community scale, and still not have made the transvestment move the EA specifies, because the capital and the governance remain family-held.
 
 The counterfactual is illuminating: had Abouleish, at some point during SEKEM's development, transferred the underlying land and productive assets into a Bioregional Commons Trust structure (Pathway A of the Five Transvestment Pathways), with Heliopolis University holding the governance and the Economy of Love network functioning as a [[federated-cooperative|federated cooperative]], the case would sit closer to the EA target. The pieces are there. The structural move that would combine them into a Mycelial Patronage architecture is what remained absent.
 
@@ -110,8 +110,8 @@ The counterfactual is illuminating: had Abouleish, at some point during SEKEM's 
 
 - [[frameworks/three-feature-test|The Three-Feature Test]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
-- [[content/concepts/transvestment|Transvestment]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/transvestment|Transvestment]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 - [[abouleish-ibrahim|Ibrahim Abouleish]]

@@ -34,7 +34,7 @@ The BioHub is that form. This wiki is a guide for establishing your own.
 
 ## What the wiki covers
 
-The material here is the portion of the founding research base that applies to any bioregion engaging with the same coordination questions. It is not exhaustive. The fields it draws from ([[commons|commons governance]], [[content/concepts/bioregional-economics|bioregional economics]], cooperative finance, catchment hydrology, regenerative agriculture, and heritage-based education, among others) each carry deep literatures and active research communities. This site points practitioners to the main bodies of work that underpin the coordination forms now emerging, and it provides enough orientation to make the primary sources accessible.
+The material here is the portion of the founding research base that applies to any bioregion engaging with the same coordination questions. It is not exhaustive. The fields it draws from ([[commons|commons governance]], [[concepts/bioregional-economics|bioregional economics]], cooperative finance, catchment hydrology, regenerative agriculture, and heritage-based education, among others) each carry deep literatures and active research communities. This site points practitioners to the main bodies of work that underpin the coordination forms now emerging, and it provides enough orientation to make the primary sources accessible.
 
 The material is organized by topic, and each topic can be explored on its own. They can be read in any order.
 

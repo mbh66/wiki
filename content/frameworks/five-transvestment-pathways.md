@@ -13,7 +13,7 @@ The Five Transvestment Pathways are the specific mechanisms by which a wealth ho
 
 ## Overview
 
-[[content/concepts/transvestment|Transvestment]] is capital crossing between value regimes. The Five Pathways are the operational specification of the crossing: what a wealth holder actually does, using which instruments, under which jurisdiction, and with which structural consequences.
+[[concepts/transvestment|Transvestment]] is capital crossing between value regimes. The Five Pathways are the operational specification of the crossing: what a wealth holder actually does, using which instruments, under which jurisdiction, and with which structural consequences.
 
 The pathways are designed to be modular. A patron may deploy through one, two, or all five. Each pathway is self-contained and produces a specific structural change; combining them produces a compounding effect on the patron's embedding in the emerging order.
 
@@ -105,8 +105,8 @@ The loophole closure is a design feature, not a punishment. It is what makes the
 
 ## Related pages
 
-- [[content/concepts/transvestment|Transvestment (concept)]]
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/transvestment|Transvestment (concept)]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[bioregional-financing-facility-bff|Bioregional Financing Facility]]

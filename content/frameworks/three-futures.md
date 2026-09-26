@@ -61,7 +61,7 @@ Elisabet Sahtouris extends this into a general principle: mature ecosystems are 
 
 Human civilization, on the S-curve of its twelve-thousand-year growth cycle, is at precisely the inflection point where this transition becomes structurally necessary. The competitive, [[extractive|extractive]] logic that drove the steep ascent cannot navigate the deceleration phase. It is the wrong operating system for the conditions now emerging.
 
-What Graves called Second Tier thinking, and what this framework calls [[content/concepts/mycelial-consciousness|Mycelial Consciousness]], is the human expression of this biological pattern. It is the capacity to hold multiple perspectives simultaneously without collapsing into any single one; to collaborate with people whose worldview one does not share, because the challenges facing the species cannot be addressed by any single perspective operating alone.
+What Graves called Second Tier thinking, and what this framework calls [[concepts/mycelial-consciousness|Mycelial Consciousness]], is the human expression of this biological pattern. It is the capacity to hold multiple perspectives simultaneously without collapsing into any single one; to collaborate with people whose worldview one does not share, because the challenges facing the species cannot be addressed by any single perspective operating alone.
 
 ## The structural argument: why Transcendence is not optional
 
@@ -88,8 +88,8 @@ If the choice is real, and Graves insisted it was, then the determining variable
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/mycelial-value-creation|Mycelial Value Creation]]
 - [[the-coercion-continuum|The Coercion Continuum]]
-- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
-- [[content/concepts/mycelial-coordination|Mycelial Coordination]]
+- [[concepts/mycelial-consciousness|Mycelial Consciousness]]
+- [[concepts/mycelial-coordination|Mycelial Coordination]]
 - [[endosymbiosis|Endosymbiosis (glossary)]]
 - [[second-tier-thinking|Second Tier Thinking (glossary)]]
 - [[threefolding|Threefolding (glossary)]]

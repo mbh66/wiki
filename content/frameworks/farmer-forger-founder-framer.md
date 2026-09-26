@@ -62,7 +62,7 @@ The Farmer-Forger-Founder-Framer sequence is the author's original framework and
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[framer|Framer]]
 - [[material-consciousness|Material Consciousness]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 
 ## Sources
 

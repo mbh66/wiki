@@ -51,9 +51,9 @@ The [[biohub|BioHub]] is the institutional expression of Mycelial Coordination a
 
 The Mycelial Coordination framework is a working hypothesis. It is grounded in three lines of evidence:
 
-**Biological precedent.** Fungal mycelial networks, mature forest ecosystems, and the endosymbiotic biology described in [[content/concepts/mycelial-consciousness|Mycelial Consciousness]] demonstrate that the pattern is biologically possible and functionally superior in complex, resource-constrained environments.
+**Biological precedent.** Fungal mycelial networks, mature forest ecosystems, and the endosymbiotic biology described in [[concepts/mycelial-consciousness|Mycelial Consciousness]] demonstrate that the pattern is biologically possible and functionally superior in complex, resource-constrained environments.
 
-**Practitioner convergence.** Bauwens's [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]], Ruddick's [[commitment-pool|commitment pooling]] in East Africa, Life's [[content/glossary/a-e/bioregional-economics|bioregional economics]] discipline, Brewer's Design School for Regenerating Earth, and the 152-initiative BioHub field documented in Metabolic's May 2026 assessment are all operating under coordination logics that overlap heavily with the seven features above. The convergence is unplanned, which is one of the properties the framework itself predicts: when a coordination form is genuinely emerging, multiple nodes arrive at the same pattern without central direction.
+**Practitioner convergence.** Bauwens's [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]], Ruddick's [[commitment-pool|commitment pooling]] in East Africa, Life's [[glossary/a-e/bioregional-economics|bioregional economics]] discipline, Brewer's Design School for Regenerating Earth, and the 152-initiative BioHub field documented in Metabolic's May 2026 assessment are all operating under coordination logics that overlap heavily with the seven features above. The convergence is unplanned, which is one of the properties the framework itself predicts: when a coordination form is genuinely emerging, multiple nodes arrive at the same pattern without central direction.
 
 **Independent theoretical arrival.** [[bauwens-michel|Michel Bauwens]] (P2P Foundation), [[pignot-sacha|Sacha Pignot]] (fractal sovereignty), [[life-benjamin|Benjamin Life]] (bioregional commoning), [[haupt-michael|Michael Haupt]] (TIME renaming and Mycelial Coordination), and Thais Corral (SINAL BioHub) have all arrived at the same three-layer nested structure (BioHub inside BioRegion inside BioConomy) from different intellectual starting points. Bauwens has cited this convergence explicitly in his 16 August 2026 P4P essay.
 
@@ -61,7 +61,7 @@ The Mycelial Coordination framework is a working hypothesis. It is grounded in t
 
 - [[e-form-emergent|E Form (Emergent)]]
 - [[time|The TIME Framework]]
-- [[content/concepts/mycelial-consciousness|Mycelial Consciousness]]
+- [[concepts/mycelial-consciousness|Mycelial Consciousness]]
 - [[concepts/stigmergy|Stigmergy]]
 - [[biohub|BioHub]]
 - [[bioregion|BioRegion]]

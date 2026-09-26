@@ -98,7 +98,7 @@ This is the structural argument that bioregional economics must absorb if it is 
 
 ## The cosmo-local pattern
 
-[[bauwens-michel|Michel Bauwens]] and the P2P Foundation contribute the [[content/concepts/cosmo-local-production|cosmo-local production]] framework, which specifies how a place-based economy connects to the global knowledge commons without losing its local anchorage. The formulation is direct: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this site is the global-facing layer. The catchment restoration, cooperative production, and stewardship agreements in each bioregion are the place-based layer. Knowledge circulates freely. Value circulates locally. The two layers reinforce each other.
+[[bauwens-michel|Michel Bauwens]] and the P2P Foundation contribute the [[concepts/cosmo-local-production|cosmo-local production]] framework, which specifies how a place-based economy connects to the global knowledge commons without losing its local anchorage. The formulation is direct: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this site is the global-facing layer. The catchment restoration, cooperative production, and stewardship agreements in each bioregion are the place-based layer. Knowledge circulates freely. Value circulates locally. The two layers reinforce each other.
 
 ## The missing middle
 

@@ -15,7 +15,7 @@ A bioregional currency is a unit of account issued at the scale of a [[bioregion
 
 The idea of money issued at bioregional scale appears across at least four bodies of work, each specifying a different piece of the design without producing a complete, operational specification.
 
-**The Emancipation Architecture** ([[frameworks/emancipation-architecture|EA Movement III]]) specifies the most complete monetary design: a [[demurrage|demurrage]]-based currency earned through verified regenerative activity (the [[regenerative-participation-income-rpi|Regenerative Participation Income]]), ecologically backed, bioregionally issued, and interconnected through a mycelial clearing layer. The EA specifies the currency's structural inversions of the [[content/concepts/the-coercion-continuum|Coercion Continuum]], its governance within a constellation of entities, and its relationship to the [[frameworks/five-transvestment-pathways|Five Transvestment Pathways]]. What the EA does not specify is the institutional pathway by which such a currency comes into existence within existing legal and financial systems.
+**The Emancipation Architecture** ([[frameworks/emancipation-architecture|EA Movement III]]) specifies the most complete monetary design: a [[demurrage|demurrage]]-based currency earned through verified regenerative activity (the [[regenerative-participation-income-rpi|Regenerative Participation Income]]), ecologically backed, bioregionally issued, and interconnected through a mycelial clearing layer. The EA specifies the currency's structural inversions of the [[concepts/the-coercion-continuum|Coercion Continuum]], its governance within a constellation of entities, and its relationship to the [[frameworks/five-transvestment-pathways|Five Transvestment Pathways]]. What the EA does not specify is the institutional pathway by which such a currency comes into existence within existing legal and financial systems.
 
 **The Bioregional Financing Facility** ([[frameworks/bioregional-financing-facility|BFF]]) specifies the institutional pathway. Power and Seefeld (2024) identify the Bioregional Bank as the entity that could issue "nature-based currencies or other complementary currencies," with backing tied to the health of a wild bison population, salmon stocks, or a river. The BFF report proposes the institutional vessel without prescribing the monetary architecture. It does not specify demurrage, RPI, clearing mechanisms, or the relationship between the bioregional unit and the national unit of account. The BFF's contribution is the phased institutional sequence (trust, venture studio, investment company, bank) that builds the capacity a currency-issuing entity requires. The gap between the BFF's institutional specification and the EA's monetary specification is the central design problem this framework identifies.
 
@@ -37,7 +37,7 @@ Carrying cost on held currency. Gesell's original design, tested at Wörgl and i
 
 ### Regenerative Participation Income
 
-The RPI is the EA's earning mechanism: an income floor earned through verified regenerative activities (ecological restoration, community coordination, caregiving, cultural transmission). It decouples access to money from participation in a labor market. [[content/concepts/commitment-pooling|Commitment pooling]] (Ruddick's work in East Africa) demonstrates the mechanism at community scale; the EA scales it to bioregional level. The RPI is what makes the currency an invitation instrument: you earn it by contributing to the health of the place, and the goods it buys are the goods that contribution produces. The BFF report does not specify an RPI or equivalent earning mechanism.
+The RPI is the EA's earning mechanism: an income floor earned through verified regenerative activities (ecological restoration, community coordination, caregiving, cultural transmission). It decouples access to money from participation in a labor market. [[concepts/commitment-pooling|Commitment pooling]] (Ruddick's work in East Africa) demonstrates the mechanism at community scale; the EA scales it to bioregional level. The RPI is what makes the currency an invitation instrument: you earn it by contributing to the health of the place, and the goods it buys are the goods that contribution produces. The BFF report does not specify an RPI or equivalent earning mechanism.
 
 ### Bioregional issuance
 
@@ -81,7 +81,7 @@ The Swiss WIR Bank, founded in 1934, operates a complementary currency (the WIR 
 
 ### Community Inclusion Currencies (Kenya)
 
-Mqamelo et al. (2022) document the RCT results of community inclusion currencies in Kenyan informal settlements. The currencies operate through [[content/concepts/commitment-pooling|commitment pooling]] and circulate within geographically bounded communities. The evidence base for increased local trade and food security is the strongest randomized evidence available for community-scale complementary currencies. The Kenyan CICs are not bioregionally denominated, but they demonstrate the demand mechanism the Obligation and Invitation concept describes: the currency buys goods (locally produced food, services) that the national shilling circuit does not reliably deliver to informal settlements.
+Mqamelo et al. (2022) document the RCT results of community inclusion currencies in Kenyan informal settlements. The currencies operate through [[concepts/commitment-pooling|commitment pooling]] and circulate within geographically bounded communities. The evidence base for increased local trade and food security is the strongest randomized evidence available for community-scale complementary currencies. The Kenyan CICs are not bioregionally denominated, but they demonstrate the demand mechanism the Obligation and Invitation concept describes: the currency buys goods (locally produced food, services) that the national shilling circuit does not reliably deliver to informal settlements.
 
 ### PROUT's progressive utilization theory
 
@@ -101,7 +101,7 @@ Several questions remain unresolved across the contributing lineages.
 
 ## Related pages
 
-- [[content/glossary/a-e/bioregional-currency|Bioregional Currency (glossary)]]
+- [[glossary/a-e/bioregional-currency|Bioregional Currency (glossary)]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/bioregional-financing-facility|The Bioregional Financing Facility]]
 - [[concepts/obligation-and-invitation|Obligation and Invitation]]
@@ -109,10 +109,10 @@ Several questions remain unresolved across the contributing lineages.
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
 - [[demurrage|Demurrage]]
 - [[regenerative-participation-income-rpi|Regenerative Participation Income (RPI)]]
-- [[content/concepts/commitment-pooling|Commitment Pooling]]
-- [[content/concepts/cheapest-available-behavior|The Cheapest Available Behavior Thesis]]
-- [[content/concepts/the-coercion-continuum|The Coercion Continuum]]
-- [[content/concepts/money-theories-as-coordination-stories|Money Theories as Coordination Stories]]
+- [[concepts/commitment-pooling|Commitment Pooling]]
+- [[concepts/cheapest-available-behavior|The Cheapest Available Behavior Thesis]]
+- [[concepts/the-coercion-continuum|The Coercion Continuum]]
+- [[concepts/money-theories-as-coordination-stories|Money Theories as Coordination Stories]]
 - [[biohub|BioHub]]
 
 ## Sources

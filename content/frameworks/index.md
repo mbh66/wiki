@@ -33,7 +33,7 @@ Some frameworks are borrowed and used with a specific technical sense (TIMN from
 
 - [[engage|Wiki Home]]
 - [[concepts/index|Concepts]]
-- [[content/glossary/index|Glossary]]
+- [[glossary/index|Glossary]]
 - [[research/index|Research]]
 - [[essays/index|Essays]]
 - [[templates/index|The Templates]]

@@ -27,7 +27,7 @@ The full case-by-case treatment is over 25,000 words in the source document. Thi
 
 ## Cluster 1: Post-collapse reconstruction
 
-The reconstruction of coordination architecture after the collapse of the Western Roman Empire is the anchor case for the "[[content/glossary/m-s/substrate-hypothesis|coordination is a property of substrate]]" thesis. After Rome, reconstruction did not happen through improved values or spontaneous reorganization. It happened through explicit, replicable operating systems.
+The reconstruction of coordination architecture after the collapse of the Western Roman Empire is the anchor case for the "[[glossary/m-s/substrate-hypothesis|coordination is a property of substrate]]" thesis. After Rome, reconstruction did not happen through improved values or spontaneous reorganization. It happened through explicit, replicable operating systems.
 
 **Case 1.1: The Benedictine network.** The Rule of St Benedict (c. 530) functioned as an operating system for a self-replicating institution: a portable, complete specification of daily order, authority, admission, labor, and reading that could be instantiated anywhere without reference to a central headquarters. Charlemagne and Louis put in material endowment, political protection, and the imperial mandate (*Admonitio generalis*, 789, ordering every monastery and bishopric to run a school). What they got back was administrative infrastructure: a literate bureaucracy, a standard script (Carolingian minuscule) that made documents legible across the empire, a corps of trained clerics for the chancery, and religious legitimation of Carolingian rule. Uniquely, the monastic *professio* under the Rule could substitute for the oath of loyalty. The reform *became* the governing apparatus. When the Carolingian empire fragmented after 843, the architecture survived because the code was decentralized and could be re-propagated (as it was from Cluny after 909).
 
@@ -117,8 +117,8 @@ Four consolidated findings emerge from the five clusters.
 
 - [[frameworks/three-feature-test|The Three-Feature Test]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
-- [[content/concepts/transvestment|Transvestment]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/transvestment|Transvestment]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
 - [[research/abouleish-sekem|Ibrahim Abouleish and SEKEM Assessed Against the Three-Feature Test]]
 

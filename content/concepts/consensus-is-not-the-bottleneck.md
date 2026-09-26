@@ -29,7 +29,7 @@ These are necessary corrections. They clear intellectual debris. But they do not
 
 The essay's implied policy trajectory runs like this: once enough economists, policymakers, and citizens understand that the federal budget is not a household budget, the political space opens for sovereign spending on climate, inequality, and technological unemployment. The paradigm shift is an intellectual event, and the policy follows from the understanding.
 
-The BioConomy reads the same evidence and draws a different conclusion. The obstacle to mobilizing resources for ecological restoration is not that policymakers misunderstand sovereign currency mechanics. The obstacle is that the existing [[m-form-market|monetary substrate]] makes extraction the [[content/glossary/m-s/substrate-hypothesis|cheapest available behavior]]. Correcting the intellectual model of the substrate does not change the substrate's incentive structure. A government that perfectly understands MMT and spends accordingly still denominates its spending in a currency whose design rewards throughput over retention. The spending flows through market-form intermediaries. The ecological value it targets gets priced in the unit of account that makes extraction competitive. The correction is real. The coordination problem persists.
+The BioConomy reads the same evidence and draws a different conclusion. The obstacle to mobilizing resources for ecological restoration is not that policymakers misunderstand sovereign currency mechanics. The obstacle is that the existing [[m-form-market|monetary substrate]] makes extraction the [[concepts/cheapest-available-behavior|cheapest available behavior]]. Correcting the intellectual model of the substrate does not change the substrate's incentive structure. A government that perfectly understands MMT and spends accordingly still denominates its spending in a currency whose design rewards throughput over retention. The spending flows through market-form intermediaries. The ecological value it targets gets priced in the unit of account that makes extraction competitive. The correction is real. The coordination problem persists.
 
 ## The BioConomy's alternative: respond to the signal
 
@@ -65,7 +65,7 @@ The shift does not require a century of intellectual persuasion. It requires org
 
 ## The structural prematurity test
 
-The concept of [[content/glossary/m-s/structural-prematurity|structural prematurity]] offers a falsification condition: frameworks judged premature during the acceleration phase of the [[s-curve|S-curve]] should become structurally necessary during deceleration. If they do not, either the phase reading is wrong or the framework was mistaken on its merits.
+The concept of [[glossary/m-s/structural-prematurity|structural prematurity]] offers a falsification condition: frameworks judged premature during the acceleration phase of the [[s-curve|S-curve]] should become structurally necessary during deceleration. If they do not, either the phase reading is wrong or the framework was mistaken on its merits.
 
 The performance-based bond is evidence that the deceleration phase has arrived in water infrastructure. The +I and +M forms restructured their own promises because the promises stopped clearing. The BioConomy's coordination forms (commitment pooling, cooperative federation, bioregional compacts) were structurally premature when the throughput economy could still keep its water promises. They are structurally necessary now that it cannot.
 
@@ -90,8 +90,8 @@ The BioConomy's response to "ahead is a long uphill battle to consensus" is: the
 - [[alpha-window|Alpha Window]]
 - [[biohub|BioHub]]
 - [[needed-vs-needy|Needed vs. Needy]]
-- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
-- [[content/glossary/m-s/structural-prematurity|Structural Prematurity]]
+- [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
+- [[glossary/m-s/structural-prematurity|Structural Prematurity]]
 - [[performance-based-bond|Performance-based bond]]
 
 ## Sources

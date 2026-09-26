@@ -49,7 +49,7 @@ The first three templates are the establishment work. The fourth is the alignmen
 
 **A legal entity.** The Identity Template's Prompt 1 produces candidate entity forms. The cohort selects. The entity is registered after selection, not before.
 
-**Capital.** The Identity Template's Prompt 1 produces candidate patronage architectures. [[content/concepts/mycelial-patronage|Mycelial Patronage]] is one of them. The architecture is selected before capital is raised, not the reverse.
+**Capital.** The Identity Template's Prompt 1 produces candidate patronage architectures. [[concepts/mycelial-patronage|Mycelial Patronage]] is one of them. The architecture is selected before capital is raised, not the reverse.
 
 **Permission.** The BioHub's authority to convene is grounded in the cohort's willingness to commit. It is not granted by an existing institution. Where an existing institution's mandate overlaps with the BioHub's coordination work, the BioRegion Charter's principles for recognizing prior custodial and coordination bodies govern the relationship.
 

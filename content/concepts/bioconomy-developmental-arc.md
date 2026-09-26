@@ -29,7 +29,7 @@ The developmental arc has four legible phases, each shaped by where the industri
 
 [[list-friedrich|Friedrich List]] lived in the United States from 1825 to 1832, studied the American System directly, and returned to Europe to write *The National System of Political Economy* (1841). His infant-industry argument (see [[infant-industry-protection|Infant Industry Protection]]) held that backward countries cannot develop new industries against advanced competitors without state intervention. List died impoverished by suicide in 1846, a generation before Bismarck's Germany vindicated the framework.
 
-Both figures are the paradigm cases of what this wiki calls [[content/concepts/structural-prematurity|Structural Prematurity]]: correct diagnosis, wrong phase.
+Both figures are the paradigm cases of what this wiki calls [[concepts/structural-prematurity|Structural Prematurity]]: correct diagnosis, wrong phase.
 
 ### Phase two: implementation at the acceleration (1816 to 1912)
 
@@ -53,7 +53,7 @@ The pattern of the periphery phase is unmistakable. Retention succeeded where it
 
 [[glazyev-sergei|Sergei Glazyev]] entered the Russian state apparatus in 2012 with a Hamilton-Carey-List intellectual formation and has advocated de-dollarization, Eurasian integration, local-currency settlement, and a commodity-backed settlement unit. [[traore-ibrahim|Ibrahim Traoré]] has led Burkina Faso since September 2022 on an explicitly Sankara-inheriting resource-nationalist program: a new mining code (July 2024), the state mining company SOPAMIB, nationalization of the Boungou and Wahgnion gold mines (August 2024), and withdrawal from ECOWAS with Mali and Niger.
 
-Alongside the state programs, retention logic is re-emerging across scales and across politically diverse governments. Reshoring, industrial policy in the United States and the European Union, central-bank gold accumulation, food-sovereignty movements, community-supported agriculture, [[content/glossary/a-e/bioregional-economics|bioregional economics]], and the wider [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] are converging expressions of the same structural adaptation. Their diversity is the evidence they are structurally driven rather than ideological.
+Alongside the state programs, retention logic is re-emerging across scales and across politically diverse governments. Reshoring, industrial policy in the United States and the European Union, central-bank gold accumulation, food-sovereignty movements, community-supported agriculture, [[glossary/a-e/bioregional-economics|bioregional economics]], and the wider [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] are converging expressions of the same structural adaptation. Their diversity is the evidence they are structurally driven rather than ideological.
 
 ## Why the time is ripe
 
@@ -75,7 +75,7 @@ The figures were not wrong. They were early. The curve caught up.
 
 - [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
-- [[content/concepts/structural-prematurity|Structural Prematurity]]
+- [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[retention-economics|Retention Economics (glossary)]]
