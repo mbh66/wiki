@@ -64,7 +64,7 @@ Prompt 1 produces candidates on five dimensions. Each shapes what the BioHub can
 
 **Entity form.** Non-profit company, cooperative, foundation, informal association, hybrid stack. Each with its governance implications, patronage-holding implications, cost and complexity, and jurisdiction-specific precedents.
 
-**Patronage architecture.** [[content/concepts/mycelial-patronage|Mycelial Patronage]] ([[content/glossary/t-z/transvestment|transvestment]]-based, capital held in the [[commons|commons]] substrate); conventional grant model; member-funded; corporate partnership; hybrid architectures. Each with what it enables, what it constrains, and what it demands of the cohort.
+**Patronage architecture.** [[concepts/mycelial-patronage|Mycelial Patronage]] ([[glossary/t-z/transvestment|transvestment]]-based, capital held in the [[commons|commons]] substrate); conventional grant model; member-funded; corporate partnership; hybrid architectures. Each with what it enables, what it constrains, and what it demands of the cohort.
 
 **Cohort framing.** Solo coordinator with advisory circle; equal founding cohort with rotating coordination; tiered cohort with distinct roles; formal board plus operational team. Each with implications for decision-making, accountability, cohort expansion, and succession.
 
@@ -94,7 +94,7 @@ Preserve the vocabulary and conventions established here across the suite.
 - [[bioregion|BioRegion]]
 - [[frameworks/time-framework|TIME Framework]]
 - [[commitment-pooling|Commitment Pooling]]
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
 - [[founding-compact|Founding Compact]]
 - [[identity-statement|Identity Statement]]
 - [[e-form-emergent|+E Coordination Form]]

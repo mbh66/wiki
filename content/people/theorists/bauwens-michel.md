@@ -35,7 +35,7 @@ His work with Jose Ramos on "Placing the Commons in a Temporal Framework: The Co
 
 ## Related pages
 
-- [[content/glossary/a-e/cosmo-local-production|Cosmo-local production]]
+- [[glossary/a-e/cosmo-local-production|Cosmo-local production]]
 - [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
 - [[p4p-peer-for-peer|P4P (Peer FOR Peer)]]
 - [[helfrich-silke|Silke Helfrich]]

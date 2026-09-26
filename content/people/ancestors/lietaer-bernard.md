@@ -25,7 +25,7 @@ Lietaer studied electrical engineering and economics at MIT and the University o
 
 Lietaer sits at the intersection of three BioConomy concerns.
 
-First, his diversity argument provides the ecological logic for why a [[content/glossary/a-e/bioregional-currency|bioregional currency]] is structurally necessary, not merely preferable. A monetary monoculture is fragile for the same reasons an agricultural monoculture is fragile. The BioConomy's proposition that each bioregion issues its own currency is, in Lietaer's terms, the monetary equivalent of polyculture.
+First, his diversity argument provides the ecological logic for why a [[glossary/a-e/bioregional-currency|bioregional currency]] is structurally necessary, not merely preferable. A monetary monoculture is fragile for the same reasons an agricultural monoculture is fragile. The BioConomy's proposition that each bioregion issues its own currency is, in Lietaer's terms, the monetary equivalent of polyculture.
 
 Second, the WIR Bank analysis (with Stodder) supplies the primary quantitative evidence that a complementary currency can operate alongside a national currency for decades, serve tens of thousands of businesses, and produce measurable macroeconomic benefits. The WIR is not a bioregional currency (it serves a national network, not a place-based ecology), but it demonstrates that the institutional form is viable at scale and over time. The [[frameworks/five-transvestment-pathways|Five Transvestment Pathways]] draw on the WIR precedent specifically in Pathway B (currency-reserve capitalization).
 
@@ -34,11 +34,11 @@ Third, Lietaer's work on [[demurrage|demurrage]] and medieval bracteate coinage 
 ## Related pages
 
 - [[demurrage|Demurrage]]
-- [[content/glossary/a-e/bioregional-currency|Bioregional Currency]]
+- [[glossary/a-e/bioregional-currency|Bioregional Currency]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/bioregional-currency|Bioregional Currency (framework)]]
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
-- [[content/concepts/the-coercion-continuum|The Coercion Continuum]]
+- [[concepts/the-coercion-continuum|The Coercion Continuum]]
 - [[people/ancestors/gesell-silvio|Silvio Gesell]]
 
 ## External links

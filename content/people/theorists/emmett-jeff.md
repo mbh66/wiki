@@ -22,7 +22,7 @@ Canadian token engineering researcher who coined the term [[p4p-peer-for-peer|P4
 
 Emmett's work sits at the intersection of token engineering, commons governance, and regenerative economics. The P4P framing distinguishes the BioConomy's coordination model from generic peer-to-peer networks: where P2P describes symmetric digital exchange between individuals, P4P describes asymmetric, place-based exchange between communities, rooted in specific bioregional contexts.
 
-His MycoFi framework draws a structural analogy between fungal mycelial networks (which distribute nutrients across forest ecosystems based on need rather than price) and decentralized financial architectures that could distribute resources across bioregional nodes. The concept connects to [[david-graeber|David Graeber]]'s anthropological work on non-market economies and to the broader [[content/glossary/m-s/mycelial-coordination|Mycelial Coordination]] framework.
+His MycoFi framework draws a structural analogy between fungal mycelial networks (which distribute nutrients across forest ecosystems based on need rather than price) and decentralized financial architectures that could distribute resources across bioregional nodes. The concept connects to [[david-graeber|David Graeber]]'s anthropological work on non-market economies and to the broader [[glossary/m-s/mycelial-coordination|Mycelial Coordination]] framework.
 
 ## Digital library
 
@@ -35,7 +35,7 @@ His MycoFi framework draws a structural analogy between fungal mycelial networks
 ## Related pages
 
 - [[p4p-peer-for-peer|P4P (Peer FOR Peer)]]
-- [[content/glossary/m-s/mycelial-coordination|Mycelial Coordination]]
+- [[glossary/m-s/mycelial-coordination|Mycelial Coordination]]
 - [[bauwens-michel|Michel Bauwens]]
 
 ## Provenance

@@ -11,7 +11,7 @@ epistemic_status: "documented-fact"
 
 German-Argentine merchant, farmer, and monetary theorist whose central insight was that money's function as a store of value works against its function as a medium of exchange. When holders can sit on currency without cost, money accumulates at the top of the economic order and circulates poorly at the base. The solution Gesell proposed was carrying cost: money that loses face value at a fixed rate while being held (Freigeld, "free money"), so that standing still costs more than spending. He set the idea out in *Die natürliche Wirtschaftsordnung* (1916), translated as *The Natural Economic Order*, within a broader program he called Freiwirtschaft ("free economy") that also included land reform to prevent speculative ownership.
 
-Gesell spent his productive years between Buenos Aires (where he worked as a merchant and observed the Argentine inflationary crises of the 1890s firsthand) and rural Germany and Switzerland (where he farmed and wrote). The Argentine experience was formative: watching a credit-starved agrarian economy cycle between speculative booms and deflationary collapses taught him that the monetary mechanism, not the moral character of participants, determined the pattern. This observation anticipates the [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]] by a century: Gesell concluded that changing the money changes the behavior, and that no amount of moral education fixes a monetary architecture that rewards hoarding.
+Gesell spent his productive years between Buenos Aires (where he worked as a merchant and observed the Argentine inflationary crises of the 1890s firsthand) and rural Germany and Switzerland (where he farmed and wrote). The Argentine experience was formative: watching a credit-starved agrarian economy cycle between speculative booms and deflationary collapses taught him that the monetary mechanism, not the moral character of participants, determined the pattern. This observation anticipates the [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]] by a century: Gesell concluded that changing the money changes the behavior, and that no amount of moral education fixes a monetary architecture that rewards hoarding.
 
 Keynes gave Gesell qualified praise in Chapter 23 of *The General Theory* (1936), calling him an "unduly neglected prophet" whose "future generations may learn more from... than from Marx." The qualified part matters: Keynes accepted the logic of stamped money but doubted the broader Freiwirtschaft program. The academic mainstream ignored Gesell after Keynes's nod, and his work survived primarily through the complementary-currency movement.
 
@@ -23,7 +23,7 @@ A parallel experiment, the Wära currency in Schwanenkirchen, Bavaria (1930-1931
 
 ## Why Gesell is here
 
-Gesell supplies the monetary primitive the [[frameworks/emancipation-architecture|Emancipation Architecture]] builds on. [[demurrage|Demurrage]] on a [[content/glossary/a-e/bioregional-currency|bioregional currency]] is one of the EA's six structural inversions of the [[content/concepts/the-coercion-continuum|Coercion Continuum]]: it inverts the storage-of-value function that serves accumulation across the twelve-thousand-year span the continuum describes. The EA's design specifies that demurrage accrues to the Bioregional Commons Fund, feeding carrying cost back into the commons rather than extinguishing it.
+Gesell supplies the monetary primitive the [[frameworks/emancipation-architecture|Emancipation Architecture]] builds on. [[demurrage|Demurrage]] on a [[glossary/a-e/bioregional-currency|bioregional currency]] is one of the EA's six structural inversions of the [[concepts/the-coercion-continuum|Coercion Continuum]]: it inverts the storage-of-value function that serves accumulation across the twelve-thousand-year span the continuum describes. The EA's design specifies that demurrage accrues to the Bioregional Commons Fund, feeding carrying cost back into the commons rather than extinguishing it.
 
 Gesell is not the only ancestor of the demurrage idea. Medieval bracteate coinage in German-speaking lands (12th-14th centuries) imposed de facto carrying cost through periodic recoinage: the authorities recalled and re-minted coins at a discount, effectively taxing holders. The period is associated with a cathedral-building boom and substantial local investment, which Lietaer and others have attributed to the incentive to spend rather than hold. Whether the historical causation holds is debated; what is not debated is that the mechanism existed and that it produced measurable velocity effects.
 
@@ -32,11 +32,11 @@ Gesell is positioned in the wiki as an ancestor because his specific contributio
 ## Related pages
 
 - [[demurrage|Demurrage]]
-- [[content/glossary/a-e/bioregional-currency|Bioregional Currency]]
+- [[glossary/a-e/bioregional-currency|Bioregional Currency]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/bioregional-currency|Bioregional Currency (framework)]]
-- [[content/concepts/cheapest-available-behavior|The Cheapest Available Behavior Thesis]]
-- [[content/concepts/the-coercion-continuum|The Coercion Continuum]]
+- [[concepts/cheapest-available-behavior|The Cheapest Available Behavior Thesis]]
+- [[concepts/the-coercion-continuum|The Coercion Continuum]]
 - [[people/ancestors/lietaer-bernard|Bernard Lietaer]]
 
 ## External links

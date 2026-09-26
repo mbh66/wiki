@@ -31,7 +31,7 @@ Power's background spans the World Bank, Johns Hopkins SAIS, and extensive field
 
 - [[seefeld-leon|Leon Seefeld]]
 - [[bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 
 ## Provenance
 

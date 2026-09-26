@@ -21,7 +21,7 @@ American unconventional economist, impact investor, writer, and founder and pres
 
 Fullerton left a career on Wall Street to found the Capital Institute, which explores the economic transition required to address the interconnected ecological and social crises of the twenty-first century. His *Regenerative Capitalism* framework articulates eight principles that a regenerative economy must embody, drawing from living-systems science to argue that economic systems, like ecosystems, must operate within biophysical boundaries and cultivate the conditions for life to flourish.
 
-The eight principles of regenerative economics are: right relationship, innovative and adaptive responsiveness, robust circulatory flow, empowered participation, the capacity to honor community and place, edge effect abundance, seeks balance, and views wealth holistically. These principles draw on the same living-systems logic that informs the [[bioconomy|BioConomy]]'s approach to [[content/glossary/a-e/bioregional-economics|bioregional economics]].
+The eight principles of regenerative economics are: right relationship, innovative and adaptive responsiveness, robust circulatory flow, empowered participation, the capacity to honor community and place, edge effect abundance, seeks balance, and views wealth holistically. These principles draw on the same living-systems logic that informs the [[bioconomy|BioConomy]]'s approach to [[glossary/a-e/bioregional-economics|bioregional economics]].
 
 ## Digital library
 
@@ -35,7 +35,7 @@ The eight principles of regenerative economics are: right relationship, innovati
 ## Related pages
 
 - [[regenerative-capitalism|Regenerative Capitalism]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[glossary/capital-institute|Capital Institute]]
 
 ## Sources

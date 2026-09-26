@@ -33,14 +33,14 @@ Regenerative accelerationism. Omniharmonic treats this framing as a live categor
 
 ## Traffic between the wikis
 
-BioConomy pages that already draw on Life's work include the [[life-benjamin|Benjamin Life]] person page, the [[content/glossary/a-e/bioregional-economics|Bioregional Economics]] glossary entry, the [[concepts/bioregional-economics|Bioregional Economics]] concept page, the [[two-machines|Two Machines]] glossary entry, and any citation of the *Introduction to Bioregional Economics* source.
+BioConomy pages that already draw on Life's work include the [[life-benjamin|Benjamin Life]] person page, the [[glossary/a-e/bioregional-economics|Bioregional Economics]] glossary entry, the [[concepts/bioregional-economics|Bioregional Economics]] concept page, the [[two-machines|Two Machines]] glossary entry, and any citation of the *Introduction to Bioregional Economics* source.
 
 Because the two wikis share a platform, a shared vocabulary, and overlapping source material, cross-linking between specific pages is worth setting up deliberately. A future pass might identify Omniharmonic concept pages that correspond directly to BioConomy concept pages and link them as siblings.
 
 ## Related pages
 
 - [[life-benjamin|Benjamin Life]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics (glossary)]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics (glossary)]]
 - [[concepts/bioregional-economics|Bioregional Economics (concept)]]
 - [[two-machines|Two Machines]]
 - Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*

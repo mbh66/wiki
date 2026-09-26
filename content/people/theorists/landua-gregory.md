@@ -14,7 +14,7 @@ Co-developer (with Ethan Roland) of the Eight Forms of Capital ontology and subs
 
 ## Related pages
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 
 ## Provenance
 

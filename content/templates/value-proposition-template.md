@@ -66,7 +66,7 @@ The Canvas is the working structure that populates the Value Proposition Stateme
 1. **The Living Substrate.** What the BioRegion holds: watershed, soil, biodiversity, heritage, human capacity, coordination history. Populated from the BioRegion Atlas.
 2. **The Coordination Layer.** What the BioHub holds that no participant holds alone. Stakeholders coordinated, commitments verified, pools operated, contracts held. Populated from the Founding Compact and BioRegion Charter.
 3. **The Tenderable Services Portfolio.** Six service categories: water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, and coordination-as-employment. Coordination-as-employment has a dual character: a service offered to external counterparties (convening and verification capacity) and an employment pathway for community members.
-4. **The Counterparty Portfolio (external face).** Metropolitan utilities, corporate ESG buyers, philanthropic patrons via [[content/concepts/transvestment|transvestment]], tourism markets, food supply chains, research institutions.
+4. **The Counterparty Portfolio (external face).** Metropolitan utilities, corporate ESG buyers, philanthropic patrons via [[concepts/transvestment|transvestment]], tourism markets, food supply chains, research institutions.
 5. **The Participant Portfolio (internal face).** Landowners, farmers, custodial knowledge-holders, service providers, cooperative members, employees. What each contributes, what each receives, and how gainful employment is generated for those who want it.
 6. **The Retention Guarantee.** How each service is designed so value circulates within the BioRegion, substrate function increases, and coordination-form capture is prevented (the Market colonizing the Emergent).
 
@@ -110,7 +110,7 @@ Where a specific financial instrument (a nature-linked [[performance-based-bond|
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[running-a-template|Running a Template]]
 - [[retention-logic|Retention Logic]]
-- [[content/concepts/transvestment|Transvestment]]
+- [[concepts/transvestment|Transvestment]]
 - [[commitment-pool|Commitment Pool]]
 - [[payment-for-ecosystem-services-pes|Payment for Ecosystem Services]]
 - [[tender-compact|Tender Compact]]

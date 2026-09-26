@@ -52,7 +52,7 @@ Briggs was introduced to the broader network through [[sources/sahtouris-earthda
 - [[frameworks/three-futures|Three Futures]]
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[material-consciousness|Material Consciousness]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[sources/gebser-ever-present-origin|Gebser, J. (1949/1985). The Ever-Present Origin]]
 - [[sources/sahtouris-earthdance|Sahtouris, E. (2000). EarthDance]]
 

@@ -37,7 +37,7 @@ The [[concepts/bioregional-addressing|bioregional addressing convention]] specif
 ## Related pages
 
 - [[engage|Wiki Home]]
-- [[content/coordination-surface|Coordination Surface]]
+- [[coordination-surface|Coordination Surface]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]
 - [[concepts/bioregional-addressing|Bioregional Addressing]]

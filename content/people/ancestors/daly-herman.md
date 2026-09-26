@@ -24,7 +24,7 @@ Daly's central contribution was to reframe economics around biophysical limits. 
 
 His Three Rules of Sustainability became a standard reference point for ecological accounting: renewable resources should not be harvested faster than they regenerate; waste emissions should not exceed the assimilative capacity of the environment; and non-renewable resources should be depleted no faster than renewable substitutes can be developed. In 1995, Daly and [[meadows-donella|Donella Meadows]] defined criteria for authentic sustainability that extended these principles into a broader assessment framework.
 
-The steady-state economics framework is one of the intellectual foundations of [[retention-economics|retention economics]] and [[content/glossary/a-e/bioregional-economics|bioregional economics]]. Daly belongs on this list because his work made legible the structural impossibility of infinite growth within a finite substrate, the same impossibility that the [[glossary/logistic-growth-principle|Logistic Growth Principle]] describes at civilizational scale.
+The steady-state economics framework is one of the intellectual foundations of [[retention-economics|retention economics]] and [[glossary/a-e/bioregional-economics|bioregional economics]]. Daly belongs on this list because his work made legible the structural impossibility of infinite growth within a finite substrate, the same impossibility that the [[glossary/logistic-growth-principle|Logistic Growth Principle]] describes at civilizational scale.
 
 ## Selected works
 
@@ -47,7 +47,7 @@ The steady-state economics framework is one of the intellectual foundations of [
 
 ## Related pages
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[glossary/ecological-economics|Ecological Economics]]
 - [[retention-economics|Retention Economics]]
 - [[throughput|Throughput]]

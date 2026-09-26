@@ -14,7 +14,7 @@ Co-developer (with Landua) of the Eight Forms of Capital ontology, expanding the
 
 ## Related pages
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[roland-ethan|Ethan Roland]]
 
 ## Provenance

@@ -92,7 +92,7 @@ Once the BioRegion Definition is produced, update Section 8 of the Identity Stat
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[running-a-template|Running a Template]]
 - [[bioregion|BioRegion]]
-- [[content/concepts/bioregional-economics|Bioregional Economics]]
+- [[concepts/bioregional-economics|Bioregional Economics]]
 - [[watershed-mapping|Watershed Mapping]]
 - [[water-retention-landscapes|Water Retention Landscapes]]
 - [[strategic-water-source-area-swsa|Strategic Water Source Area]]

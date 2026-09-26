@@ -22,7 +22,7 @@ American development economist focusing on currency innovation in East Africa. F
 
 Ruddick's work demonstrates that community currencies can function as coordination infrastructure in low-income economies where national currency is scarce. The Grassroots Economics Foundation, operating in Kenya, has deployed community currencies across multiple communities, providing a medium of exchange that keeps value circulating locally rather than draining to urban centers.
 
-His [[commitment-pool|Commitment Pooling]] protocol formalizes the logic of mutual obligation that underlies traditional systems like Mweria. Where conventional currencies represent claims on abstract value, commitment pools represent claims on specific productive capacity within a defined community. The protocol has popularized a concrete mechanism for the kind of place-based economic coordination that [[content/glossary/a-e/bioregional-economics|bioregional economics]] requires.
+His [[commitment-pool|Commitment Pooling]] protocol formalizes the logic of mutual obligation that underlies traditional systems like Mweria. Where conventional currencies represent claims on abstract value, commitment pools represent claims on specific productive capacity within a defined community. The protocol has popularized a concrete mechanism for the kind of place-based economic coordination that [[glossary/a-e/bioregional-economics|bioregional economics]] requires.
 
 ## Digital library
 

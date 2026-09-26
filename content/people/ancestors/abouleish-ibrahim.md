@@ -36,13 +36,13 @@ The Right Livelihood Award (2003, sometimes called the Alternative Nobel Prize),
 
 ## Assessed against the Three-Feature Test
 
-See [[research/abouleish-sekem|Ibrahim Abouleish and SEKEM Assessed Against the Three-Feature Test]] for a full application of the [[frameworks/three-feature-test|Three-Feature Test]] criteria to SEKEM. Short version: Abouleish sits closer to the Medici position than to the Fugger position on the master diagnostic, but SEKEM's governance and capital remained family-held, which distinguishes the case from the full [[content/concepts/mycelial-patronage|Mycelial Patronage]] move the EA specifies.
+See [[research/abouleish-sekem|Ibrahim Abouleish and SEKEM Assessed Against the Three-Feature Test]] for a full application of the [[frameworks/three-feature-test|Three-Feature Test]] criteria to SEKEM. Short version: Abouleish sits closer to the Medici position than to the Fugger position on the master diagnostic, but SEKEM's governance and capital remained family-held, which distinguishes the case from the full [[concepts/mycelial-patronage|Mycelial Patronage]] move the EA specifies.
 
 ## Related pages
 
 - [[research/abouleish-sekem|Ibrahim Abouleish and SEKEM Assessed Against the Three-Feature Test]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
 - [[steiner-rudolf|Rudolf Steiner]]
 - [[threefolding|Threefolding (glossary)]]
 

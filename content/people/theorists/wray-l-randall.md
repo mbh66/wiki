@@ -38,7 +38,7 @@ For the BioConomy corpus, Wray's significance is that he completed the intellect
 - [[minsky-hyman|Hyman Minsky]]
 - [[mosler-warren|Warren Mosler]]
 - [[kelton-stephanie|Stephanie Kelton]]
-- [[content/glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
+- [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 - [[s-curve-thesis-old|The S-Curve Thesis]]

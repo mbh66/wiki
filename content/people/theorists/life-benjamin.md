@@ -14,7 +14,7 @@ Author of An Introduction to Bioregional Economics (2026), which provides the 
 
 ## Related pages
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[two-machines|Two Machines]]
 
 ## Provenance

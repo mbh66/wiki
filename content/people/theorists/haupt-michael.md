@@ -19,7 +19,7 @@ The BioConomy wiki documents a body of work whose original constructs are Haupt'
 
 **The Substrate Hypothesis.** Coordination is a function of engineered or evolved substrate, not participant disposition. The synthesis draws on two contributing lineages: the M.G. Taylor Corporation's workshop methodology (1980-2013) and [[people/ancestors/sahtouris-elisabet|Elisabet Sahtouris]]'s evolutionary biology (1989-2024). The contributing lineages are credited as inputs; the synthesis is Haupt's.
 
-**The Emancipation Architecture** ([[frameworks/emancipation-architecture|EA]]). A three-movement architecture for monetary and coordination design: Movement I (The Three Futures) diagnoses the civilizational condition; Movement II (Mycelial Value Creation) specifies the theory of value under the Transcendence trajectory; Movement III specifies the implementation, including the [[content/glossary/a-e/bioregional-currency|bioregional currency]], the [[regenerative-participation-income-rpi|Regenerative Participation Income]], the six structural inversions of the [[content/concepts/the-coercion-continuum|Coercion Continuum]], the constellation of entity types, and the replication mechanism.
+**The Emancipation Architecture** ([[frameworks/emancipation-architecture|EA]]). A three-movement architecture for monetary and coordination design: Movement I (The Three Futures) diagnoses the civilizational condition; Movement II (Mycelial Value Creation) specifies the theory of value under the Transcendence trajectory; Movement III specifies the implementation, including the [[glossary/a-e/bioregional-currency|bioregional currency]], the [[regenerative-participation-income-rpi|Regenerative Participation Income]], the six structural inversions of the [[concepts/the-coercion-continuum|Coercion Continuum]], the constellation of entity types, and the replication mechanism.
 
 **The Coercion Continuum.** Five phases of monetary coercion from chattel slavery through debt bondage, wage compulsion, monetary dependence, and property redefinition (UCC Article 8, securities entitlements, CCP default waterfalls). Documented through statutory text, legislative archives, and peer-reviewed literature.
 
@@ -56,10 +56,10 @@ Haupt's work is not purely theoretical. He lives and operates in Ward 2 of the G
 - [[frameworks/bioregional-currency|Bioregional Currency]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[concepts/obligation-and-invitation|Obligation and Invitation]]
-- [[content/concepts/cheapest-available-behavior|The Cheapest Available Behavior Thesis]]
-- [[content/concepts/the-coercion-continuum|The Coercion Continuum]]
+- [[concepts/cheapest-available-behavior|The Cheapest Available Behavior Thesis]]
+- [[concepts/the-coercion-continuum|The Coercion Continuum]]
 - [[biohub|BioHub]]
-- [[content/glossary/m-s/substrate-hypothesis|The Substrate Hypothesis]]
+- [[glossary/m-s/substrate-hypothesis|The Substrate Hypothesis]]
 
 ## Sources
 

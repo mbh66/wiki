@@ -25,7 +25,7 @@ Steiner published *The Threefold Commonwealth* (*Die Kernpunkte der Sozialen Fra
 
 The [[threefolding|threefold]] separation is not decorative. It is a structural claim: without institutional differentiation of the three spheres, each sphere corrupts the others. State control of cultural life produces indoctrination. Market logic in rights life produces inequality before the law. Ideological control of economic life produces both scarcity and injustice.
 
-For the Emancipation Architecture, Steiner's threefolding is the constitutional architecture the [[content/concepts/mycelial-patronage|Mycelial Patronage]] design implements at bioregional scale. The [[frameworks/emancipation-architecture|EA's]] polycentric governance across a [[constellation|constellation]] of entity types operationalizes the threefold separation: economic function governed by competence, rights function governed by democratic participation, cultural function governed by individual initiative recognized by the community.
+For the Emancipation Architecture, Steiner's threefolding is the constitutional architecture the [[concepts/mycelial-patronage|Mycelial Patronage]] design implements at bioregional scale. The [[frameworks/emancipation-architecture|EA's]] polycentric governance across a [[constellation|constellation]] of entity types operationalizes the threefold separation: economic function governed by competence, rights function governed by democratic participation, cultural function governed by individual initiative recognized by the community.
 
 ## Selected works
 

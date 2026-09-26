@@ -14,7 +14,7 @@ epistemic_status: "documented-fact"
 
 ## Related pages
 
-- [[content/glossary/t-z/transvestment|Transvestment]]
+- [[glossary/t-z/transvestment|Transvestment]]
 - [[helfrich-silke|Silke Helfrich]]
 
 ## Provenance

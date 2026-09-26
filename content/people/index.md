@@ -27,10 +27,10 @@ Representative entry points into the framework's intellectual lineage:
 - [[ostrom-elinor|Elinor Ostrom]]. [[commons|Commons]] governance.
 - [[polanyi-karl|Karl Polanyi]]. The [[double-movement|double movement]].
 - [[sahtouris-elisabet|Elisabet Sahtouris]]. Evolutionary biology as coordination substrate.
-- [[life-benjamin|Benjamin Life]]. [[content/glossary/a-e/bioregional-economics|Bioregional economics]].
-- [[bauwens-michel|Michel Bauwens]]. [[content/glossary/a-e/cosmo-local-production|Cosmo-local production]], [[content/glossary/t-z/transvestment|transvestment]].
+- [[life-benjamin|Benjamin Life]]. [[glossary/a-e/bioregional-economics|Bioregional economics]].
+- [[bauwens-michel|Michel Bauwens]]. [[glossary/a-e/cosmo-local-production|Cosmo-local production]], [[glossary/t-z/transvestment|transvestment]].
 - [[ruddick-will|Will Ruddick]]. Grassroots Economics, commitment pooling in the field.
-- [[margulis-lynn|Lynn Margulis]]. [[endosymbiosis|Endosymbiosis]]; the biological precedent for [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
+- [[margulis-lynn|Lynn Margulis]]. [[endosymbiosis|Endosymbiosis]]; the biological precedent for [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
 - [[vernadsky-vladimir|Vladimir Vernadsky]]. Biogeochemistry; the scientific formulation of the [[geosphere|geosphere]] / biosphere / [[noosphere|noosphere]] stratigraphy.
 - [[gladek-eva|Eva Gladek]]. The Metabolic field mapping.
 

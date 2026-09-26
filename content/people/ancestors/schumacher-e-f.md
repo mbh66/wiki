@@ -17,7 +17,7 @@ Economist and author of Small Is Beautiful (1973), foundational to the appropr
 
 ## Related pages
 
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 
 ## Provenance
 
