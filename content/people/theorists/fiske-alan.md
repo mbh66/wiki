@@ -65,7 +65,7 @@ Written 26 September 2026 alongside the source entries for Fiske (1992) and Zakh
   "description": "American psychological anthropologist at the University of California, Los Angeles, whose Relational Models Theory holds that people build their social relationships from four elementary models: communal sharing, authority ranking, equality matching and market pricing.",
   "affiliation": {"@type": "Organization", "name": "University of California, Los Angeles"},
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/time/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/t-z/time/"}
   ],
   "sameAs": [
     "https://en.wikipedia.org/wiki/Alan_Fiske",

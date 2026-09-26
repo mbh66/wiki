@@ -35,7 +35,7 @@ Carrying cost on held currency: money loses value at a set rate while being held
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/demurrage/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/demurrage/",
   "name": "Demurrage",
   "description": "Carrying cost on held currency: money loses value at a set rate while being held, ensuring it circulates rather than accumulates. Named for the shipping and warehousing concept (charges levied on cargo that stays in port longer than agreed). In monetary design, demurrage inverts the storage-of-value function: standing still costs more than moving. The Wörgl and Wära experiments (1932-1933) tested demurrage under crisis conditions with documented economic revival. In the Emancipation Architecture, demurrage on bioregional currency is one of the six structural inversions of the Coercion Continuum, with carrying cost accruing to the Bioregional Commons Fund.",
   "termCode": "demurrage",
@@ -44,7 +44,7 @@ Carrying cost on held currency: money loses value at a set rate while being held
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/demurrage/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/demurrage/",
   "alternateName": [
     "demurrage",
     "carrying cost",

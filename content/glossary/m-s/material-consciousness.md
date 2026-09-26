@@ -46,7 +46,7 @@ Material Consciousness is to [[glossary/m-s/mycelial-consciousness|Mycelial Cons
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/material-consciousness/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/material-consciousness/",
   "name": "Material Consciousness",
   "description": "The form of consciousness that privileges analytical, perspectival, individual intelligence applied to commodified labor, corresponding to Gebser's mental-rational structure, Graves's First Tier value systems, and Kegan's self-authoring mind.",
   "termCode": "material-consciousness",
@@ -55,7 +55,7 @@ Material Consciousness is to [[glossary/m-s/mycelial-consciousness|Mycelial Cons
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/material-consciousness/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/material-consciousness/",
   "alternateName": [
     "material consciousness",
     "Material",

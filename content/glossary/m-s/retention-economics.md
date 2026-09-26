@@ -48,7 +48,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/retention-economics/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/retention-economics/",
   "name": "Retention Economics",
   "description": "The economic framework organized around keeping productive capacity, capital, skills, and value within a defined community or nation. Value is measured by what stays. Core mechanisms include protective tariffs, state investment in domestic manufacturing and infrastructure, publicly funded education oriented toward productive capacity, and nationally directed credit.",
   "termCode": "retention-economics",
@@ -57,7 +57,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/retention-economics/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/retention-economics/",
   "alternateName": [
     "retention",
     "value retention"

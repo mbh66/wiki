@@ -133,7 +133,7 @@ Extracted from *TIMN Nodes Comparative Analysis.md* in the [[bioconomy|BioConomy
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "@id": "https://wiki.bioconomy.earth/frameworks/timn-physical-manifestations/",
+  "@id": "https://wiki.bioconomy.earth/frameworks/time-physical-manifestations/",
   "name": "The Physical Manifestations of TIMN",
   "description": "Each of the four TIMN coordination forms produces a characteristic physical structure that compresses its invisible coordination logic into visible, awe-inducing form: the sacred site for T, the cathedral for +I, the skyscraper and index for +M, and the emerging bioregional hub with its BioScore for +N.",
   "isPartOf": {

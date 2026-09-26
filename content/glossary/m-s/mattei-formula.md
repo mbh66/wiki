@@ -36,7 +36,7 @@ Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*.
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/mattei-formula/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/mattei-formula/",
   "name": "Mattei Formula",
   "description": "The oil-concession split offered by Enrico Mattei's ENI to host oil-producing countries, in which the host country took 50 percent of profits and could optionally participate in production costs to take half of the remaining 50 percent, for an effective 75-25 split in the host's favor.",
   "termCode": "mattei-formula",
@@ -45,7 +45,7 @@ Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*.
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/mattei-formula/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/mattei-formula/",
   "alternateName": [
     "75-25 split"
   ]

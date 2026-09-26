@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/stacked-entity-structure/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/stacked-entity-structure/",
   "name": "Stacked entity structure",
   "description": "A governance architecture using multiple legal forms (NPC, cooperative, operating company, trust or communal property association) layered to serve different functions while maintaining mission alignment.",
   "termCode": "stacked-entity-structure",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/stacked-entity-structure/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/stacked-entity-structure/"
 }
 </script>

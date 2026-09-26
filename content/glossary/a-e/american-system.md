@@ -43,7 +43,7 @@ Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*.
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/american-system/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/american-system/",
   "name": "American System",
   "description": "The integrated developmental program articulated by Henry Clay after the War of 1812 and implemented most fully by Abraham Lincoln during the Civil War. Three pillars: protective tariffs, a national bank, and federally funded internal improvements.",
   "termCode": "american-system",
@@ -52,7 +52,7 @@ Extracted from Section 2, Cluster B of the *Research Brief: The S-Curve Thesis*.
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/american-system/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/american-system/",
   "alternateName": [
     "clay's american system",
     "lincoln program"

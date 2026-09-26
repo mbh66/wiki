@@ -59,7 +59,7 @@ Extracted from the *Bankable Service Alignment Template* v0.1 in the VoG as Patr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/alignment-compact/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/alignment-compact/",
   "name": "Alignment Compact",
   "description": "The coordination and commitment document co-signed by a BioHub's cohort that establishes what the cohort commits to build toward readiness for a specific financial instrument. Produced by Prompt 3 of the Bankable Service Alignment Template.",
   "termCode": "alignment-compact",
@@ -68,7 +68,7 @@ Extracted from the *Bankable Service Alignment Template* v0.1 in the VoG as Patr
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/alignment-compact/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/alignment-compact/",
   "alternateName": [
     "instrument alignment compact",
     "build-out compact"

@@ -130,7 +130,7 @@ Written September 2026 as a concept-level treatment synthesizing two research do
     "name": "BioConomy Glossary"
   },
   "isBasedOn": {
-    "@id": "https://wiki.bioconomy.earth/glossary/transvestment/"
+    "@id": "https://wiki.bioconomy.earth/glossary/t-z/transvestment/"
   },
   "url": "https://wiki.bioconomy.earth/concepts/tax-to-commons-pathways/",
   "alternateName": [

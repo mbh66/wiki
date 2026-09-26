@@ -59,7 +59,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/bioregion/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregion/",
   "name": "BioRegion",
   "description": "A geographical area defined by ecological systems rather than political boundaries, functioning as the unit of economic coordination in a BioConomy.",
   "termCode": "bioregion",
@@ -68,6 +68,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/bioregion/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/bioregion/"
 }
 </script>

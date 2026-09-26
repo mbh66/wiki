@@ -61,7 +61,7 @@ Metallism is a substrate description: money's value comes from the metal that ba
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/metallism/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/metallism/",
   "name": "Metallism",
   "description": "# Metallism",
   "termCode": "metallism",
@@ -70,7 +70,7 @@ Metallism is a substrate description: money's value comes from the metal that ba
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/metallism/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/metallism/",
   "alternateName": [
     "commodity theory of money",
     "hard money doctrine",

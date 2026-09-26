@@ -66,7 +66,7 @@ Extracted from the *BioHub Identity Template* v0.2 in the VoG as Patron Project 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/founding-compact/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/founding-compact/",
   "name": "Founding Compact",
   "description": "The governance and commitment document co-signed by a BioHub's founding cohort. Produced by Prompt 3 of the BioHub Identity Template. Establishes the BioHub as a coordination body worthy of commitment, articulates what each founding cohort member contributes and receives, sets out the entity form and patronage architecture, and specifies provisions for cohort expansion, revision, dissent, and dissolution.",
   "termCode": "founding-compact",
@@ -75,7 +75,7 @@ Extracted from the *BioHub Identity Template* v0.2 in the VoG as Patron Project 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/founding-compact/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/founding-compact/",
   "alternateName": [
     "cohort compact"
   ]

@@ -30,7 +30,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/polycentricity/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/polycentricity/",
   "name": "Polycentricity",
   "description": "Elinor Ostrom's thesis that overlapping, semi-autonomous centers of governance produce more adaptive and resilient outcomes than a single center of control.",
   "termCode": "polycentricity",
@@ -39,6 +39,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/polycentricity/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/polycentricity/"
 }
 </script>

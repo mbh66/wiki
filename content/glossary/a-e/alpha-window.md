@@ -34,7 +34,7 @@ The concept is anchored on the historical case of the late Roman senatorial aris
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/alpha-window/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/alpha-window/",
   "name": "Alpha Window",
   "description": "The closing window during which a wealth holder can reposition assets and identity from the declining extractive order into the emerging bioregional order. The Emancipation Architecture's central timing claim: the window is real, and closes.",
   "termCode": "alpha-window",
@@ -43,7 +43,7 @@ The concept is anchored on the historical case of the late Roman senatorial aris
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/alpha-window/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/alpha-window/",
   "alternateName": [
     "alpha window",
     "the window"

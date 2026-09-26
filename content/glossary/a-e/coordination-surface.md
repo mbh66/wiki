@@ -41,7 +41,7 @@ Written 12 September 2026. The term has been in use throughout the wiki and BioH
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/coordination-surface/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/coordination-surface/",
   "name": "Coordination Surface",
   "description": "The structured interface through which a BioHub publishes what it offers, what it seeks, which financial instruments it is aligning to, and how to make contact; more broadly, the full set of relationships, exchanges, and commitments a bioregional coordination body makes visible and operational.",
   "termCode": "coordination-surface",
@@ -50,7 +50,7 @@ Written 12 September 2026. The term has been in use throughout the wiki and BioH
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/coordination-surface/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/coordination-surface/",
   "alternateName": [
     "coordination surface",
     "offers and seeks"

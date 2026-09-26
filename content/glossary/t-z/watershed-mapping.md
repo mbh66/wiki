@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/watershed-mapping/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/watershed-mapping/",
   "name": "Watershed Mapping",
   "description": "Tools for delineating the drainage boundary, stream network, and land cover of the catchment a BioHub coordinates around, using digital elevation models and geographic information systems.",
   "termCode": "watershed-mapping",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/watershed-mapping/"
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/watershed-mapping/"
 }
 </script>

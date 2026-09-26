@@ -51,7 +51,7 @@ Written 7 September 2026 as a glossary entry mapping the conventional economy's 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/municipality/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/municipality/",
   "name": "Municipality",
   "description": "The administrative unit that coordinates local economic activity in the conventional Economy, defined by political boundary.",
   "termCode": "municipality",
@@ -60,7 +60,7 @@ Written 7 September 2026 as a glossary entry mapping the conventional economy's 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/municipality/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/municipality/",
   "alternateName": [
     "municipal economy",
     "local government"

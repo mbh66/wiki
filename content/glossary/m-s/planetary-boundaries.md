@@ -41,7 +41,7 @@ Borrowed from Rockström et al. (2009), Steffen et al. (2015), and Richardson et
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/planetary-boundaries/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/planetary-boundaries/",
   "name": "Planetary Boundaries",
   "description": "The framework, originally proposed by Johan Rockström and colleagues in 2009, that identifies a set of Earth-system processes whose stability defines a safe operating space for humanity. The 2015 update by Steffen et al. and the 2023 update by Richardson et al. (a 29-author team) elaborate the framework and quantify its transgressions.",
   "termCode": "planetary-boundaries",
@@ -50,7 +50,7 @@ Borrowed from Rockström et al. (2009), Steffen et al. (2015), and Richardson et
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/planetary-boundaries/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/planetary-boundaries/",
   "alternateName": [
     "safe operating space",
     "rockstrom framework"

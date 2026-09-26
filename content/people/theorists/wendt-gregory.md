@@ -60,9 +60,9 @@ Created from LinkedIn profile PDF, September 2026.
     "name": "Perigon Wealth Management"
   },
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/regenerative-economics/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-economics/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/transvestment/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-economics/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/t-z/transvestment/"}
   ],
   "sameAs": [
     "https://www.linkedin.com/in/gregorywendt",

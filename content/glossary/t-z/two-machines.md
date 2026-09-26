@@ -51,7 +51,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/two-machines/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/two-machines/",
   "name": "Two Machines",
   "description": "Benjamin Life's diagnosis of two structural drivers of extraction in the dominant economic system: debt-based money and the shareholder corporation.",
   "termCode": "two-machines",
@@ -60,6 +60,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/two-machines/"
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/two-machines/"
 }
 </script>

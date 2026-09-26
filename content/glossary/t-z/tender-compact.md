@@ -59,7 +59,7 @@ Extracted from the *BioConomy Value Proposition Template* v0.2 in the VoG as Pat
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/tender-compact/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/tender-compact/",
   "name": "Tender Compact",
   "description": "The governance and commitment document co-signed by a BioHub's cohort and, where applicable, by counterparty and participant representatives. Produced by Prompt 3 of the BioConomy Value Proposition Template. Establishes what the BioHub commits to tender, on what retention terms, to which counterparties and participants.",
   "termCode": "tender-compact",
@@ -68,7 +68,7 @@ Extracted from the *BioConomy Value Proposition Template* v0.2 in the VoG as Pat
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/tender-compact/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/tender-compact/",
   "alternateName": [
     "tender commitment document"
   ]

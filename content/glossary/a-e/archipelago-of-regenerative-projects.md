@@ -30,7 +30,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/archipelago-of-regenerative-projects/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/archipelago-of-regenerative-projects/",
   "name": "Archipelago of Regenerative Projects",
   "description": "Bauwens' framing of the emerging field as a third attractor alongside Chinese state cybernetics and Western platform cybernetics.",
   "termCode": "archipelago-of-regenerative-projects",
@@ -39,6 +39,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/archipelago-of-regenerative-projects/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/archipelago-of-regenerative-projects/"
 }
 </script>

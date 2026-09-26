@@ -58,7 +58,7 @@ Written 26 September 2026 from a working conversation on the ladder of inference
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/lens/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/lens/",
   "name": "Lens",
   "description": "The collective interpretive frame a person inherits by belonging to a group, which decides what they notice in the available data and what that data means to them.",
   "termCode": "lens",
@@ -67,7 +67,7 @@ Written 26 September 2026 from a working conversation on the ladder of inference
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/lens/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/lens/",
   "alternateName": [
     "lens",
     "interpretive lens",

@@ -57,391 +57,388 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
   "url": "https://wiki.bioconomy.earth/glossary/",
   "hasDefinedTerm": [
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/adaptive-cycle/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/adaptive-cycle/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/alignment-compact/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/alignment-compact/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/alignment-statement/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/alignment-statement/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/alpha-window/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/alpha-window/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/american-system/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/american-system/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/archipelago-of-regenerative-projects/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/archipelago-of-regenerative-projects/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/below-dam-position/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/below-dam-position/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioconomy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioconomy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/biocultural-unit-bcu/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biocultural-unit-bcu/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/biohub/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/biohub-field-sense/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub-field-sense/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioplace/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioplace/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioregion/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregion/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioregional-economics/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioregional-financing-facility-bff/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-financing-facility-bff/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioregional-learning-centre/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-learning-centre/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioscore/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioscore/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/biosphere/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biosphere/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/biostack/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biostack/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/coercion-continuum/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/coercion-continuum/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/commitment-pool/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/commitment-pool/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/commons/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/commons/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/company/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/company/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/comparative-advantage/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/comparative-advantage/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/constellation/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/constellation/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/coordination-node/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/coordination-node/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/cosmo-local-production/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/cosmo-local-production/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/crisis-codes/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/crisis-codes/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/curation-valuation-limitation-exchange/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/curation-valuation-limitation-exchange/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/deceleration-phase/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/deceleration-phase/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/decoupling-risk/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/decoupling-risk/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/demurrage/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/demurrage/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/double-movement/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/double-movement/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/e-form-emergent/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/e-form-emergent/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/ecological-reserve/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/ecological-reserve/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/ecological-science/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/ecological-science/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/economy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/economy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/endosymbiosis/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/endosymbiosis/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/eroi/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/eroi/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/extractive/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/extractive/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/factory-ecological/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/factory-ecological/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/factory-mechanical/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/factory-mechanical/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/federated-cooperative/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/federated-cooperative/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/fictitious-commodities/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/fictitious-commodities/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/first-tier/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/first-tier/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/founding-compact/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/founding-compact/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/framer/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/framer/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/functional-finance/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/functional-finance/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/gap-register/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/gap-register/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/geosphere/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/geosphere/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/global-economy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/global-economy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/human-coordination/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/human-coordination/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/i-form-institutional/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/i-form-institutional/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/iact-framework/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/iact-framework/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/identity-statement/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/identity-statement/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/imaginal-cells/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/imaginal-cells/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/indigenous-knowledge/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/indigenous-knowledge/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/infant-industry-protection/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/infant-industry-protection/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/intelligence-carbon/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/intelligence-carbon/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/intelligence-silicon/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/intelligence-silicon/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/ladder-of-inference/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/ladder-of-inference/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/legibility-signal/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/legibility-signal/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/lens/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/lens/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-form-market/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/m-form-market/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/material-consciousness/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/material-consciousness/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/mattei-formula/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/mattei-formula/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/metallism/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/metallism/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/missing-middle/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/missing-middle/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/modern-monetary-theory/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/modern-monetary-theory/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/momentous-leap/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/momentous-leap/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/municipality/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/municipality/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/mweria/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/mweria/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/mycelial-consciousness/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-consciousness/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/mycelial-coordination/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-coordination/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/mycelial-patronage/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-patronage/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/n-form-network/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/n-form-network/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/nation-state/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/nation-state/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/nature-realm/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/nature-realm/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/needed/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/needed-vs-needy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/needy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/noosphere/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/noosphere/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/p4p-peer-for-peer/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/p4p-peer-for-peer/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/panarchy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/panarchy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/payment-for-ecosystem-services-pes/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/payment-for-ecosystem-services-pes/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/performance-based-bond/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/performance-based-bond/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/permaculture/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/permaculture/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/planetary-boundaries/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/planetary-boundaries/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/polycentricity/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/polycentricity/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/polyculture/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/polyculture/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/promise-theory/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/promise-theory/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/prosocial/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/prosocial/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/protective-illiquidity/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/protective-illiquidity/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/readiness-diagnostic/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/readiness-diagnostic/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/regenerative/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/regenerative-capitalism/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-capitalism/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/regenerative-economics/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-economics/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/regenerative-participation-income-rpi/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-participation-income-rpi/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/retention-economics/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/retention-economics/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/s-curve/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/s-curve/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/second-tier/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/second-tier-thinking/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier-thinking/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/self-talk/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/soil-carbon-sponge/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/soil-carbon-sponge/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/sound-finance/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/sound-finance/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/stacked-entity-structure/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/stacked-entity-structure/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/stigmergy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/stigmergy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/strategic-water-source-area-swsa/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/strategic-water-source-area-swsa/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/stretch-collaboration/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/stretch-collaboration/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/structural-prematurity/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/structural-prematurity/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/subsidiarity/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/subsidiarity/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/substrate-hypothesis/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis-1/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/t-form-tribal/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/t-form-tribal/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/taxation/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/taxation/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/tender-compact/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/tender-compact/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/tenderable-services-portfolio/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/tenderable-services-portfolio/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/threefolding/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/threefolding/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/threshold-guide/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/threshold-guide/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/throughput/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput-economics/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/throughput-economics/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/time/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/time/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/timn/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/timn/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/transvestment/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/transvestment/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/two-machines/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/two-machines/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/value-proposition-canvas-bioconomy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/value-proposition-canvas-bioconomy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/washington-consensus/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/washington-consensus/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/water-retention-landscape/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/water-retention-landscape/"
-    },
-    {
-      "@id": "https://wiki.bioconomy.earth/glossary/watershed-mapping/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/watershed-mapping/"
     }
   ]
 }

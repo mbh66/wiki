@@ -66,7 +66,7 @@ Written 12 September 2026. The term was surfaced during development of the [[con
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/unrecognized-contribution/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/unrecognized-contribution/",
   "name": "Unrecognized Contribution",
   "description": "Work that maintains or restores the health of a place but generates no price signal in the +M form and therefore has no economic standing within +M grammar. The +E form's term for what the +M form calls unemployment.",
   "termCode": "unrecognized-contribution",
@@ -75,7 +75,7 @@ Written 12 September 2026. The term was surfaced during development of the [[con
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/unrecognized-contribution/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/unrecognized-contribution/",
   "alternateName": [
     "unrecognized contribution",
     "invisible labor",

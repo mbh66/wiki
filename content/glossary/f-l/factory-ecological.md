@@ -72,7 +72,7 @@ Written 9 September 2026 as a paired glossary entry with [[factory-mechanical|Fa
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/factory-ecological/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/factory-ecological/",
   "name": "Factory, Ecological",
   "description": "A living system understood as a production system: a watershed that produces water, a grassland that sequesters carbon, a wetland that purifies effluent, or a fynbos hillslope that produces genetic material, pollination services, fire regulation, and soil stabilization. The ecological factory's outputs are inputs to industrial civilization. They are not amenities. They are not externalities. They are production.",
   "termCode": "factory-ecological",
@@ -81,7 +81,7 @@ Written 9 September 2026 as a paired glossary entry with [[factory-mechanical|Fa
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/factory-ecological/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/factory-ecological/",
   "alternateName": [
     "ecological factory",
     "carbon factory",

@@ -56,7 +56,7 @@ Entry created 20 September 2026 as part of a four-entry set covering Ronfeldt's 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/monoform/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/monoform/",
   "name": "Monoform",
   "description": "A society organized around a single coordination form. In Ronfeldt's TIME sequence, monoform describes the earliest stage: coordination through kinship, clan, and tribe alone (+T), before institutional hierarchy or market exchange have matured as distinct organizing logics.",
   "termCode": "monoform",
@@ -65,7 +65,7 @@ Entry created 20 September 2026 as part of a four-entry set covering Ronfeldt's 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/monoform/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/monoform/",
   "alternateName": [
     "monoform",
     "monoform society",

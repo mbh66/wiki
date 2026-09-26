@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/strategic-water-source-area-swsa/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/strategic-water-source-area-swsa/",
   "name": "Strategic Water Source Area (SWSA)",
   "description": "A designation identifying areas that supply a disproportionate share of a country's water relative to their size, requiring targeted protection and restoration.",
   "termCode": "strategic-water-source-area-swsa",
@@ -35,7 +35,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/strategic-water-source-area-swsa/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/strategic-water-source-area-swsa/",
   "alternateName": [
     "Strategic Water Source Area",
     "SWSA"

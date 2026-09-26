@@ -56,7 +56,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/t-form-tribal/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/t-form-tribal/",
   "name": "T form (Tribal)",
   "description": "Coordination through kinship, identity, belonging, and reciprocal obligation, where access to resources follows from membership in a group.",
   "termCode": "t-form-tribal",
@@ -65,7 +65,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/t-form-tribal/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/t-form-tribal/",
   "alternateName": [
     "T-form",
     "Tribal form",

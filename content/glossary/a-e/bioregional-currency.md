@@ -54,7 +54,7 @@ Written 12 September 2026 as a glossary entry synthesizing the monetary-design t
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/bioregional-currency/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-currency/",
   "name": "Bioregional Currency",
   "description": "A unit of account issued at the bioregional scale, denominated in the ecological and coordination capacity of a specific place, and designed to circulate within and between bioregional coordination surfaces.",
   "termCode": "bioregional-currency",
@@ -63,7 +63,7 @@ Written 12 September 2026 as a glossary entry synthesizing the monetary-design t
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/bioregional-currency/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-currency/",
   "alternateName": [
     "bioregional currency",
     "bioregional unit of account",

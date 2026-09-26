@@ -60,7 +60,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/bioconomy/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioconomy/",
   "name": "BioConomy",
   "description": "The economic system that emerges when bioregions coordinate their productive activity around renewable biological resources, ecological restoration, and the carrying capacity of their landscapes.",
   "termCode": "bioconomy",
@@ -69,7 +69,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/bioconomy/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/bioconomy/",
   "alternateName": [
     "bio-conomy"
   ]

@@ -63,10 +63,10 @@ Created from Roam Research graph (MichaelHaupt), September 2026. Source material
     "name": "Regen Foundation"
   },
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/regenerative-economics/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-economics/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/commons/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/legibility-signal/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-economics/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/commons/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/f-l/legibility-signal/"}
   ],
   "sameAs": [
     "https://www.linkedin.com/in/austin-wade-smith-65544932/",

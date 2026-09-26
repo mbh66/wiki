@@ -139,9 +139,9 @@ Written 12 September 2026 as a framework entry assembling the bioregional curren
   "author": {"@type": "Person", "name": "Michael Haupt"},
   "dateModified": "2026-09-12",
   "about": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-currency/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/demurrage/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-financing-facility-bff/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-currency/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/demurrage/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-financing-facility-bff/"}
   ],
   "isPartOf": {"@id": "https://wiki.bioconomy.earth/#website"},
   "creativeWorkStatus": "working-hypothesis",

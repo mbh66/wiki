@@ -31,7 +31,7 @@ The institutional architecture of the Emancipation Architecture: many entity typ
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/constellation/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/constellation/",
   "name": "Constellation",
   "description": "The institutional architecture of the Emancipation Architecture: many entity types distributed across three nested scales (bioregional, inter-bioregional, mycelial network), with governance functions separated across Steiner's threefold spheres. The design goal is that no single actor can capture the whole, because there is no whole to capture. One institution can be captured. A constellation remains resilient.",
   "termCode": "constellation",
@@ -40,7 +40,7 @@ The institutional architecture of the Emancipation Architecture: many entity typ
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/constellation/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/constellation/",
   "alternateName": [
     "constellation",
     "EA constellation",

@@ -30,7 +30,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/soil-carbon-sponge/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/soil-carbon-sponge/",
   "name": "Soil Carbon Sponge",
   "description": "Walter Jehne's framework linking soil biology to water retention and hydrological cycle restoration, bridging the water retention landscape practice to deeper hydrological science.",
   "termCode": "soil-carbon-sponge",
@@ -39,6 +39,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/soil-carbon-sponge/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/soil-carbon-sponge/"
 }
 </script>

@@ -29,7 +29,7 @@ To see the relevance of MMT to the [[biohub|BioHub]], see the full [[mmt-framewo
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/modern-monetary-theory/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/modern-monetary-theory/",
   "name": "Modern Monetary Theory",
   "description": "# Modern Monetary Theory",
   "termCode": "modern-monetary-theory",
@@ -38,7 +38,7 @@ To see the relevance of MMT to the [[biohub|BioHub]], see the full [[mmt-framewo
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/modern-monetary-theory/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/modern-monetary-theory/",
   "alternateName": [
     "MMT",
     "Modern Money Theory",

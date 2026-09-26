@@ -27,7 +27,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/prosocial/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/prosocial/",
   "name": "Prosocial",
   "description": "A catch-all label for the broad field of activity oriented toward collective wellbeing and ecological health.",
   "termCode": "prosocial",
@@ -36,6 +36,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/prosocial/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/prosocial/"
 }
 </script>

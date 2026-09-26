@@ -125,13 +125,13 @@ Written 2 September 2026 as the BioConomy wiki's own instance of the coordinatio
   },
   "about": [
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/biohub/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioregion/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregion/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/tender-compact/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/tender-compact/"
     }
   ],
   "keywords": [

@@ -29,7 +29,7 @@ The role is developed across the coordinator's Framer OS essays and is presented
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/threshold-guide/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/threshold-guide/",
   "name": "Threshold Guide",
   "description": "The role identifier used in Michael Haupt's Framer OS body of work for a person who accompanies others across the threshold from Material to Mycelial Consciousness. Not a teacher, not a coach, not a therapist: a Threshold Guide is a companion for the specific transition the Three Futures framework identifies as required for civilizational Transcendence.",
   "termCode": "threshold-guide",
@@ -38,7 +38,7 @@ The role is developed across the coordinator's Framer OS essays and is presented
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/threshold-guide/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/threshold-guide/",
   "alternateName": [
     "threshold guide"
   ]

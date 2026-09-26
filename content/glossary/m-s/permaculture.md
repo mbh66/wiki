@@ -37,7 +37,7 @@ Stub entry created September 2026 as part of the BioPlace layer addition. Enrich
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/permaculture/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/permaculture/",
   "name": "Permaculture",
   "description": "A design system for regenerative human settlement and land use, articulated by Bill Mollison and David Holmgren in Australia in the late 1970s. Permaculture draws on ecological pattern, indigenous land practice, and systems thinking to lay out how a parcel of land and the people living on it can produce food, shelter, energy, and community capacity while building the substrate they depend on.",
   "termCode": "permaculture",
@@ -46,6 +46,6 @@ Stub entry created September 2026 as part of the BioPlace layer addition. Enrich
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/permaculture/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/permaculture/"
 }
 </script>

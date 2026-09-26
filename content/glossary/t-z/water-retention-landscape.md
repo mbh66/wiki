@@ -38,7 +38,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/water-retention-landscape/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/water-retention-landscape/",
   "name": "Water Retention Landscape",
   "description": "The operational science of catchment restoration, in which intact soil biology, mycorrhizal networks, riparian corridors, and wetlands hold rainfall in the soil profile and release it as sustained baseflow over weeks or months.",
   "termCode": "water-retention-landscape",
@@ -47,6 +47,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/water-retention-landscape/"
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/water-retention-landscape/"
 }
 </script>

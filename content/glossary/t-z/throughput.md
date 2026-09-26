@@ -36,7 +36,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/throughput/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput/",
   "name": "Throughput",
   "description": "The rate at which material, energy, or information moves through a system per unit of time. A physical and engineering measure: barrels per day through a pipeline, packets per second through a network, tons per hour through a mill, patients per week through a clinic. Throughput describes flow across a boundary. It says nothing about what the flow builds, degrades, or leaves behind.",
   "termCode": "throughput",
@@ -45,6 +45,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/throughput/"
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/throughput/"
 }
 </script>

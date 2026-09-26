@@ -35,7 +35,7 @@ The imaginal cell metaphor has wide currency in transformation literature and ca
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/imaginal-cells/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/imaginal-cells/",
   "name": "Imaginal Cells",
   "description": "A biological metaphor drawn from butterfly metamorphosis: the cells within a caterpillar that carry the encoding for the butterfly, initially attacked by the caterpillar's immune system before eventually reorganizing the entire organism.",
   "termCode": "imaginal-cells",
@@ -44,7 +44,7 @@ The imaginal cell metaphor has wide currency in transformation literature and ca
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/imaginal-cells/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/imaginal-cells/",
   "alternateName": [
     "imaginal cells",
     "imaginal cell"

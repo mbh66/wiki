@@ -45,7 +45,7 @@ Coined within the BioConomy corpus as an interpretive frame for the retention li
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/structural-prematurity/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/structural-prematurity/",
   "name": "Structural Prematurity",
   "description": "An idea is structurally premature when it correctly diagnoses a problem but is offered against the prevailing gradient of a phase of the S-curve that selects for the opposite response.",
   "termCode": "structural-prematurity",
@@ -54,7 +54,7 @@ Coined within the BioConomy corpus as an interpretive frame for the retention li
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/structural-prematurity/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/structural-prematurity/",
   "alternateName": [
     "structurally premature",
     "premature diagnosis"

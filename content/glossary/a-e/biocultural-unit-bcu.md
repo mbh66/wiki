@@ -31,7 +31,7 @@ The core value unit on the Guardians of Earth platform, representing proof of a 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/biocultural-unit-bcu/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/biocultural-unit-bcu/",
   "name": "BioCultural Unit (BCU)",
   "description": "The core value unit on the Guardians of Earth platform, representing proof of a biocultural connection to a Nature Realm. Total supply is capped at one million BCUs forever. Scarcity increases exponentially: the BioScore required to harvest a BCU rises over time. BCUs can be acquired through harvesting (raising a Realm's BioScore by contributing data or knowledge), staking, or buying via the BCU marketplace. Purchase money is distributed to harvesters, with 10 percent to verifiers on the Oracle of Life.",
   "termCode": "biocultural-unit-bcu",
@@ -40,7 +40,7 @@ The core value unit on the Guardians of Earth platform, representing proof of a 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/biocultural-unit-bcu/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/biocultural-unit-bcu/",
   "alternateName": [
     "BCU",
     "BioCultural Unit",

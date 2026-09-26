@@ -51,7 +51,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/regenerative-economics/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-economics/",
   "name": "Regenerative Economics",
   "description": "The economic framework organized around the health of living systems over time. Value is measured by what a system retains and regenerates: soil, water, biodiversity, community capacity, cultural coherence, and the ecological function that supports all of them. The framework treats the economy as a subsystem of the biosphere rather than the biosphere as a subsystem of the economy.",
   "termCode": "regenerative-economics",
@@ -60,7 +60,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/regenerative-economics/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-economics/",
   "alternateName": [
     "regeneration logic"
   ]

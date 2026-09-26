@@ -53,7 +53,7 @@ Written 9 September 2026 as a paired glossary entry with [[factory-ecological|Fa
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/factory-mechanical/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/factory-mechanical/",
   "name": "Factory, Mechanical",
   "description": "An engineered system that converts inputs into outputs through controlled processes: cities, industrial supply chains, automation, AI, additive manufacturing, robotics, and the global apparatus that produces manufactured goods. The mechanical factory is the form of production that the word \"factory\" already names without qualification.",
   "termCode": "factory-mechanical",
@@ -62,7 +62,7 @@ Written 9 September 2026 as a paired glossary entry with [[factory-ecological|Fa
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/factory-mechanical/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/factory-mechanical/",
   "alternateName": [
     "mechanical factory",
     "silicon factory",

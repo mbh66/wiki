@@ -64,8 +64,8 @@ Written 26 September 2026 alongside the source entries for Ross and Ward (1996) 
   "deathDate": "2021",
   "affiliation": {"@type": "Organization", "name": "Stanford University"},
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/self-talk/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/lens/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/f-l/lens/"}
   ],
   "sameAs": [
     "https://en.wikipedia.org/wiki/Lee_Ross",

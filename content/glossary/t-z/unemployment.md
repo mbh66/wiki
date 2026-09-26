@@ -64,7 +64,7 @@ Written 12 September 2026. The entry reframes unemployment as a +M-grammar-speci
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/unemployment/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/unemployment/",
   "name": "Unemployment",
   "description": "A condition produced by the +M form's demand mechanism: the population that must acquire the state's currency to discharge tax obligations but cannot find a buyer for their labor. The +E form reads the same population as carrying unrecognized contributions the +M form cannot see.",
   "termCode": "unemployment",
@@ -73,7 +73,7 @@ Written 12 September 2026. The entry reframes unemployment as a +M-grammar-speci
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/unemployment/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/unemployment/",
   "alternateName": [
     "unemployment",
     "unemployed"

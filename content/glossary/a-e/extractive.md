@@ -28,7 +28,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/extractive/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/extractive/",
   "name": "Extractive",
   "description": "Producing value by drawing down the substrate the production depends on.",
   "termCode": "extractive",
@@ -37,6 +37,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/extractive/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/extractive/"
 }
 </script>

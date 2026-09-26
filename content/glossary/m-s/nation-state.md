@@ -56,7 +56,7 @@ Written 7 September 2026 as a glossary entry mapping the conventional economy's 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/nation-state/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/nation-state/",
   "name": "Nation-state",
   "description": "The unit of economic coordination in the conventional Economy, defined by sovereign political boundary.",
   "termCode": "nation-state",
@@ -65,7 +65,7 @@ Written 7 September 2026 as a glossary entry mapping the conventional economy's 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/nation-state/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/nation-state/",
   "alternateName": [
     "nation state",
     "national economy"

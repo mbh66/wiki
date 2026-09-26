@@ -31,7 +31,7 @@ Collaboration across formerly competing entities into a functional whole that is
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/stretch-collaboration/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/stretch-collaboration/",
   "name": "Stretch Collaboration",
   "description": "Collaboration across formerly competing entities into a functional whole that is more capable than any of its parts. Not the comfortable collaboration of like-minded allies, but the structurally necessary integration of actors whose worldviews, interests, or histories are in tension. The endosymbiotic quality of what the challenges facing the species require. The Mycelial Consciousness capacity applied to the practical work of coordinating across difference.",
   "termCode": "stretch-collaboration",
@@ -40,7 +40,7 @@ Collaboration across formerly competing entities into a functional whole that is
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/stretch-collaboration/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/stretch-collaboration/",
   "alternateName": [
     "stretch collaboration"
   ]

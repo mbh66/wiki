@@ -56,7 +56,7 @@ Written 26 September 2026 from a working conversation on the ladder of inference
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/ladder-of-inference/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/ladder-of-inference/",
   "name": "Ladder of Inference",
   "description": "A model of how a person gets from what happened to what they do about it: selecting data, adding meaning, making assumptions, drawing conclusions, adopting beliefs and acting, with beliefs feeding back into which data gets selected next time.",
   "termCode": "ladder-of-inference",
@@ -65,7 +65,7 @@ Written 26 September 2026 from a working conversation on the ladder of inference
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/ladder-of-inference/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/ladder-of-inference/",
   "alternateName": [
     "ladder of inference",
     "inference ladder"

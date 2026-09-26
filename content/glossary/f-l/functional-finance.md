@@ -54,7 +54,7 @@ The wiki reads functional finance as a technical description of what fiscal poli
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/functional-finance/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/functional-finance/",
   "name": "Functional Finance",
   "description": "# Functional Finance",
   "termCode": "functional-finance",
@@ -63,7 +63,7 @@ The wiki reads functional finance as a technical description of what fiscal poli
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/functional-finance/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/functional-finance/",
   "alternateName": [
     "functional finance doctrine",
     "Lerner's two laws",

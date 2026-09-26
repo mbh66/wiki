@@ -28,7 +28,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/needed-vs-needy/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/",
   "name": "Needed vs. Needy",
   "description": "The structural distinction between a bioregion that asks funders for money to do restoration work (needy) and one that tenders a verified ecological service into a market already structured to purchase it (needed).",
   "termCode": "needed-vs-needy",
@@ -37,6 +37,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/needed-vs-needy/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/"
 }
 </script>

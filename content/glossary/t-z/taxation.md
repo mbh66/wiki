@@ -50,7 +50,7 @@ For the BioConomy, taxation is the benchmark any alternative demand driver must 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/taxation/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/taxation/",
   "name": "Taxation",
   "description": "The primary demand driver for fiat currency. In the orthodox telling, taxation is how the state collects revenue it then spends. MMT reverses the sequence: for a government issuing its own free-floating, non-convertible currency, the state spends first and taxes afterward. Taxation removes currency from circulation; it does not supply the state with funds it lacked.",
   "termCode": "taxation",
@@ -59,7 +59,7 @@ For the BioConomy, taxation is the benchmark any alternative demand driver must 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/taxation/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/taxation/",
   "alternateName": [
     "taxation",
     "tax obligation",

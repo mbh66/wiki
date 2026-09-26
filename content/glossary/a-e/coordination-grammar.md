@@ -46,7 +46,7 @@ Written 12 September 2026. The term emerged during development of the [[concepts
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/coordination-grammar/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/coordination-grammar/",
   "name": "Coordination Grammar",
   "description": "The set of foundational assumptions a coordination form trains its participants to treat as given: what counts as money, what makes a currency real, what demand means, where value originates, and what constitutes economic standing.",
   "termCode": "coordination-grammar",
@@ -55,7 +55,7 @@ Written 12 September 2026. The term emerged during development of the [[concepts
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/coordination-grammar/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/coordination-grammar/",
   "alternateName": [
     "coordination grammar",
     "substrate literacy"

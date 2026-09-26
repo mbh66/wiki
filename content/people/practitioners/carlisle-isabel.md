@@ -53,8 +53,8 @@ Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). 
     "url": "https://bioregion.org.uk/"
   },
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-learning-centre/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregion/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-learning-centre/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregion/"}
   ],
   "sameAs": [
     "https://www.linkedin.com/in/isabel-carlisle-1234bb6/",

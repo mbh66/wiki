@@ -67,8 +67,8 @@ Extracted from the [[biohub|BioHub]] Glossary CSV export (Notion, August 2026). 
     "url": "https://www.r3-0.org"
   },
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/coercion-continuum/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/cheapest-available-behavior/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/coercion-continuum/"},
+    {"@id": "https://wiki.bioconomy.earth/concepts/cheapest-available-behavior/"}
   ],
   "sameAs": [
     "https://www.linkedin.com/in/ralphthurm/",

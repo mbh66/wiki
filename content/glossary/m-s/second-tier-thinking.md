@@ -30,7 +30,7 @@ Clare Graves's term for the psychological capacity required for the Momentous Le
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/second-tier-thinking/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier-thinking/",
   "name": "Second Tier Thinking",
   "description": "Clare Graves's term for the psychological capacity required for the Momentous Leap: the leap from deficiency motivation to growth motivation, from getting to giving, from destroying to constructing, from similarity to animals to the distinctively human capacity for future orientation. Graves identified this as the most significant threshold in human psychological development. In the Emancipation Architecture framework, Second Tier thinking is the psychological substrate the Transcendence trajectory requires, named Mycelial Consciousness in the coordinator's own vocabulary.",
   "termCode": "second-tier-thinking",
@@ -39,7 +39,7 @@ Clare Graves's term for the psychological capacity required for the Momentous Le
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/second-tier-thinking/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/second-tier-thinking/",
   "alternateName": [
     "second tier thinking",
     "second tier",

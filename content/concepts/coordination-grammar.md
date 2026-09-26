@@ -83,7 +83,7 @@ The long-term task is not translation but bilingualism: a generation of practiti
     "name": "BioConomy Glossary"
   },
   "isBasedOn": {
-    "@id": "https://wiki.bioconomy.earth/glossary/coordination-grammar/"
+    "@id": "https://wiki.bioconomy.earth/glossary/a-e/coordination-grammar/"
   },
   "url": "https://wiki.bioconomy.earth/concepts/coordination-grammar/",
   "alternateName": [

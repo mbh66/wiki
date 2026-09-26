@@ -53,7 +53,7 @@ Anthony Atkinson's participation income ("The Case for a Participation Income," 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/universal-basic-income-ubi/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/universal-basic-income-ubi/",
   "name": "Universal Basic Income (UBI)",
   "description": "A regular, unconditional cash payment to every individual, financed and denominated in national fiat currency, with no means test and no work requirement. The BioConomy's retention-logic analysis treats UBI as an income intervention that operates inside the existing +M substrate rather than changing it.",
   "termCode": "universal-basic-income-ubi",
@@ -62,7 +62,7 @@ Anthony Atkinson's participation income ("The Case for a Participation Income," 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/universal-basic-income-ubi/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/universal-basic-income-ubi/",
   "alternateName": [
     "UBI",
     "universal basic income",

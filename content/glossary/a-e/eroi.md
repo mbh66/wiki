@@ -40,7 +40,7 @@ Standard technical term in energy economics; used here in the sense established 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/eroi/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/eroi/",
   "name": "EROI (Energy Return on Investment)",
   "description": "The ratio of energy delivered by an energy source to the energy invested in obtaining it. A high EROI means the source delivers a large net energy surplus available for economic work. A low EROI approaches a \"net energy cliff\" at which additional exploitation of the source yields little or no surplus.",
   "termCode": "eroi",
@@ -49,7 +49,7 @@ Standard technical term in energy economics; used here in the sense established 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/eroi/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/eroi/",
   "alternateName": [
     "energy return on energy invested",
     "EROEI",

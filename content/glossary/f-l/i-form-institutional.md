@@ -62,7 +62,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/i-form-institutional/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/i-form-institutional/",
   "name": "I form (Institutional)",
   "description": "Coordination through hierarchy, codified rules, and formalized authority, where legitimacy determines who governs and how resources are allocated.",
   "termCode": "i-form-institutional",
@@ -71,7 +71,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/i-form-institutional/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/i-form-institutional/",
   "alternateName": [
     "I-form",
     "Institutional form",

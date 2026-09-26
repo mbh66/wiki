@@ -45,7 +45,7 @@ Entry created 4 September 2026 as part of the BioPlace layer buildout. The term 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/polyculture/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/polyculture/",
   "name": "Polyculture",
   "description": "The cultivation of multiple crop species (and often multiple canopy layers, animals, and functional guilds) together in the same parcel, arranged so that the species support one another and imitate the layered structure of the natural ecosystem the parcel sits inside. Polyculture is the design opposite of monoculture, which grows one crop across a large area to industrial specifications and depends on machinery, chemical inputs, and continued intervention against the land's tendency toward diversity.",
   "termCode": "polyculture",
@@ -54,6 +54,6 @@ Entry created 4 September 2026 as part of the BioPlace layer buildout. The term 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/polyculture/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/polyculture/"
 }
 </script>

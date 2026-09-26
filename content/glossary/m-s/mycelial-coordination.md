@@ -34,7 +34,7 @@ The operating pattern of the [[e-form-emergent|Emergent (E) form]] in the TIME f
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/mycelial-coordination/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-coordination/",
   "name": "Mycelial Coordination",
   "description": "The operating pattern of the Emergent (E) form in the TIME framework: decentralized, bioregional, adaptive coordination organized around whole-system health rather than around competition or extraction. Named for the fungal mycelial networks that connect trees in a mature forest, distributing resources according to local need without a central regulator.",
   "termCode": "mycelial-coordination",
@@ -43,7 +43,7 @@ The operating pattern of the [[e-form-emergent|Emergent (E) form]] in the TIME f
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/mycelial-coordination/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-coordination/",
   "alternateName": [
     "mycelial coordination",
     "mycelial form"

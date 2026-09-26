@@ -30,7 +30,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/mweria/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/mweria/",
   "name": "Mweria",
   "description": "A rotating communal labor tradition among the Mijikenda peoples of coastal Kenya, the direct ancestral reference for Ruddick's commitment pooling framework.",
   "termCode": "mweria",
@@ -39,6 +39,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/mweria/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/mweria/"
 }
 </script>

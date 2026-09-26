@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/missing-middle/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/missing-middle/",
   "name": "Missing middle",
   "description": "Benjamin Life's term for the institutional gap between the design principles of bioregional economics (which the discipline can now articulate) and the operating economies specific bioregions are attempting to build.",
   "termCode": "missing-middle",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/missing-middle/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/missing-middle/"
 }
 </script>

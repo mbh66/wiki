@@ -80,10 +80,10 @@ Stub created September 2026 as part of the stigmergy addition. Enriched 12 Septe
   "nationality": "South African",
   "jobTitle": "Disruption Strategist and Threshold Guide",
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-economics/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/demurrage/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-currency/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/biohub/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/demurrage/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-currency/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"}
   ],
   "sameAs": [],
   "alternateName": ["Haupt"]

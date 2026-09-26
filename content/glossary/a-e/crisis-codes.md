@@ -40,7 +40,7 @@ The Crisis Codes concept is developed most fully in the Crisis Codes essay serie
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/crisis-codes/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/crisis-codes/",
   "name": "Crisis Codes",
   "description": "The inner signals, experienced as anxiety, disorientation, or nervous system dysregulation, that encode awareness of civilizational transition. Crisis Codes are signal, not pathology.",
   "termCode": "crisis-codes",
@@ -49,7 +49,7 @@ The Crisis Codes concept is developed most fully in the Crisis Codes essay serie
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/crisis-codes/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/crisis-codes/",
   "alternateName": [
     "crisis codes",
     "anxiety as signal"

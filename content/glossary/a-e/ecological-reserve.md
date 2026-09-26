@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/ecological-reserve/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/ecological-reserve/",
   "name": "Ecological Reserve",
   "description": "Under South Africa's National Water Act of 1998, the first-priority allocation of water for basic human needs and ecological function, guaranteed before any licensed commercial or agricultural use.",
   "termCode": "ecological-reserve",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/ecological-reserve/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/ecological-reserve/"
 }
 </script>

@@ -32,7 +32,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/promise-theory/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/promise-theory/",
   "name": "Promise Theory",
   "description": "A formal framework (Burgess and Bergstra) modeling cooperation as a system built from voluntary, autonomous commitments between agents, where an agent can promise only what it controls.",
   "termCode": "promise-theory",
@@ -41,6 +41,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/promise-theory/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/promise-theory/"
 }
 </script>

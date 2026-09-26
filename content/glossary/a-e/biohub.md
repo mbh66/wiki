@@ -66,7 +66,7 @@ Related-term references from the source that did not resolve to a glossary, peop
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/biohub/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/",
   "name": "BioHub",
   "description": "A bioregional coordination body that convenes the people, institutions, and economic actors whose activity shapes a BioConomy in a BioRegion.",
   "termCode": "biohub",
@@ -75,6 +75,6 @@ Related-term references from the source that did not resolve to a glossary, peop
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/biohub/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"
 }
 </script>

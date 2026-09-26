@@ -174,9 +174,9 @@ Written 26 September 2026 from a working conversation that placed the ladder of 
   },
   "url": "https://wiki.bioconomy.earth/concepts/ladder-lens-self-talk/",
   "isBasedOn": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/ladder-of-inference/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/lens/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/self-talk/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/f-l/ladder-of-inference/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/f-l/lens/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/"}
   ],
   "alternateName": [
     "ladder lens self-talk",

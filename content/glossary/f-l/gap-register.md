@@ -41,7 +41,7 @@ Extracted from the *BioConomy Value Proposition Template* v0.2 and the *Bankable
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/gap-register/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/gap-register/",
   "name": "Gap Register",
   "description": "The structured list of build-outs and research tasks a BioHub must complete to reach readiness for a specific tender or a specific financial instrument. Produced by the Prompt 2 evidence pack in the BioConomy Value Proposition Template and the Bankable Service Alignment Template.",
   "termCode": "gap-register",
@@ -50,7 +50,7 @@ Extracted from the *BioConomy Value Proposition Template* v0.2 and the *Bankable
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/gap-register/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/gap-register/",
   "alternateName": [
     "gap inventory"
   ]

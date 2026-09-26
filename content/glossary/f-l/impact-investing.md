@@ -69,7 +69,7 @@ Entry created 20 September 2026 as a paired glossary entry with [[glossary/t-z/t
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/impact-investing/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/impact-investing/",
   "name": "Impact Investing",
   "description": "Financial deployment that targets a measurable social or environmental outcome alongside a financial return, with the investor retaining the option of exit. In the BioConomy corpus, impact investing is the structural counterpart to transvestment: both move capital toward regenerative purposes, but impact investing keeps the capital denominated in the extractive regime and preserves the investor's ability to withdraw it.",
   "termCode": "impact-investing",
@@ -78,7 +78,7 @@ Entry created 20 September 2026 as a paired glossary entry with [[glossary/t-z/t
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/impact-investing/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/impact-investing/",
   "alternateName": [
     "impact investing",
     "impact investment",

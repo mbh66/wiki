@@ -58,7 +58,7 @@ Sound finance is legally entrenched in the German Schuldenbremse (Basic Law Arti
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/sound-finance/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/sound-finance/",
   "name": "Sound Finance",
   "description": "# Sound Finance",
   "termCode": "sound-finance",
@@ -67,7 +67,7 @@ Sound finance is legally entrenched in the German Schuldenbremse (Basic Law Arti
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/sound-finance/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/sound-finance/",
   "alternateName": [
     "sound finance doctrine",
     "balanced budget doctrine",

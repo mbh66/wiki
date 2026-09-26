@@ -46,7 +46,7 @@ Mycelial Consciousness is not a rejection of [[material-consciousness|Material C
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/mycelial-consciousness/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-consciousness/",
   "name": "Mycelial Consciousness",
   "description": "The emerging form of consciousness characterized by aperspectival, relational, distributed awareness, corresponding to Gebser's integral structure, Graves's Second Tier, and Kegan's self-transforming mind. Named for the biological template of mycorrhizal networks.",
   "termCode": "mycelial-consciousness",
@@ -55,7 +55,7 @@ Mycelial Consciousness is not a rejection of [[material-consciousness|Material C
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/mycelial-consciousness/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-consciousness/",
   "alternateName": [
     "mycelial consciousness",
     "Mycelial",

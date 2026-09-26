@@ -74,7 +74,7 @@ Enrichment pass (September 2026): extended definition, contrast table, intellect
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/regenerative-participation-income-rpi/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-participation-income-rpi/",
   "name": "Regenerative Participation Income (RPI)",
   "description": "A BioHub-distributed stipend that funds a coordination role, produces legible coordination surfaces, and is denominated in a bioregional demurrage currency that cannot re-accumulate as +M capital. RPI is the Emancipation Architecture's monetary primitive: the substrate intervention that Universal Basic Income (UBI) gestures toward but does not achieve.",
   "termCode": "regenerative-participation-income-rpi",
@@ -83,7 +83,7 @@ Enrichment pass (September 2026): extended definition, contrast table, intellect
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/regenerative-participation-income-rpi/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-participation-income-rpi/",
   "alternateName": [
     "RPI",
     "regenerative participation income"

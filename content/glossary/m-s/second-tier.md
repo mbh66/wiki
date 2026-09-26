@@ -41,7 +41,7 @@ Second Tier is not "better" than First Tier in a moral sense. It is a different 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/second-tier/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier/",
   "name": "Second Tier",
   "description": "The developmental levels beyond the Momentous Leap in Graves's framework, beginning at G-T (Yellow in Spiral Dynamics): the first levels that recognize the legitimacy of all previous levels and operate from growth rather than deficiency motivation.",
   "termCode": "second-tier",
@@ -50,7 +50,7 @@ Second Tier is not "better" than First Tier in a moral sense. It is a different 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/second-tier/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/second-tier/",
   "alternateName": [
     "second tier",
     "Second Tier thinking",

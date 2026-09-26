@@ -66,7 +66,7 @@ Entry created 20 September 2026 as part of a four-entry set covering Ronfeldt's 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/triform/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/triform/",
   "name": "Triform",
   "description": "A society organized around three coordination forms: kinship (+T), institutional hierarchy (+I), and market exchange (+M). In Ronfeldt's TIME sequence, triform describes the dominant coordination architecture of the modern world.",
   "termCode": "triform",
@@ -75,7 +75,7 @@ Entry created 20 September 2026 as part of a four-entry set covering Ronfeldt's 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/triform/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/triform/",
   "alternateName": [
     "triform",
     "triform society",

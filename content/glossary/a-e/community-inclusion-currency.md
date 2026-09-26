@@ -43,7 +43,7 @@ CICs are the pattern by which the community-observer role in sensor-response mon
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/community-inclusion-currency/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/community-inclusion-currency/",
   "name": "Community Inclusion Currency",
   "description": "A community-issued mutual credit token backed by member commitments to accept it in trade for goods and services within a defined community. Issuance rests on local labor and productive capacity; circulation is bounded by the accepting community.",
   "termCode": "community-inclusion-currency",
@@ -53,6 +53,6 @@ CICs are the pattern by which the community-observer role in sensor-response mon
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/community-inclusion-currency/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/community-inclusion-currency/"
 }
 </script>

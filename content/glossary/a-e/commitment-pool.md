@@ -41,7 +41,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/commitment-pool/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/commitment-pool/",
   "name": "Commitment pool",
   "description": "A structure in which participants make binding forward promises to one another, and those promises become the basis for coordination and exchange.",
   "termCode": "commitment-pool",
@@ -50,6 +50,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/commitment-pool/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/commitment-pool/"
 }
 </script>

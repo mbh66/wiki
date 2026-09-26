@@ -37,7 +37,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/bioregional-learning-centre/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-learning-centre/",
   "name": "Bioregional Learning Centre",
   "description": "The amalgamation of learning connected to a place.",
   "termCode": "bioregional-learning-centre",
@@ -46,6 +46,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/bioregional-learning-centre/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-learning-centre/"
 }
 </script>

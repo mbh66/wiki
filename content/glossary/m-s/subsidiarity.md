@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/subsidiarity/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/subsidiarity/",
   "name": "Subsidiarity",
   "description": "The principle that decisions should be made at the most local level competent to make them, with higher levels serving lower levels.",
   "termCode": "subsidiarity",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/subsidiarity/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/subsidiarity/"
 }
 </script>

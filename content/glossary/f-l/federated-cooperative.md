@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/federated-cooperative/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/federated-cooperative/",
   "name": "Federated cooperative",
   "description": "An institutional form in which cooperatives cooperate through jointly capitalized shared infrastructure, with mutual vesting so that every participant holds a stake in every other participant's flourishing.",
   "termCode": "federated-cooperative",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/federated-cooperative/"
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/federated-cooperative/"
 }
 </script>

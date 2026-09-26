@@ -73,11 +73,11 @@ The framework should be revisited as the substrate transition mechanism accumula
   "author": {"@type": "Person", "name": "Michael Haupt"},
   "dateModified": "2026-09-18",
   "about": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/s-curve/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/the-momentous-leap/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/sensor-response-money/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/three-lineages/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/s-curve/"},
+    {"@id": "https://wiki.bioconomy.earth/concepts/the-momentous-leap/"},
+    {"@id": "https://wiki.bioconomy.earth/concepts/sensor-response-money/"},
+    {"@id": "https://wiki.bioconomy.earth/frameworks/three-lineages/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/substrate-hypothesis/"},
     {"@id": "https://wiki.bioconomy.earth/glossary/reserve-currency-cycle/"}
   ],
   "isPartOf": {"@id": "https://wiki.bioconomy.earth/#website"},

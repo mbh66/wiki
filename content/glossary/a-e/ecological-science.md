@@ -30,7 +30,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/ecological-science/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/ecological-science/",
   "name": "Ecological science",
   "description": "The body of peer-reviewed and field-tested knowledge through which a BioHub understands, monitors, and restores the living systems it coordinates around, spanning catchment hydrology, soil biology, fire ecology, invasive species management, and biodiversity assessment.",
   "termCode": "ecological-science",
@@ -39,6 +39,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/ecological-science/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/ecological-science/"
 }
 </script>

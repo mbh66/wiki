@@ -62,8 +62,8 @@ Written 26 September 2026. Biographical details from the Ecology of Design in Hu
     {"@type": "Organization", "name": "Royal Roads University"}
   ],
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/lens/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/self-talk/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/f-l/lens/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/"}
   ],
   "sameAs": [
     "https://www.ecologyofdesigninhumansystems.com/about-us/about-michael/"

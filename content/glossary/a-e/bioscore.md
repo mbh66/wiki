@@ -28,7 +28,7 @@ Related-term references from the source that did not resolve to a glossary, peop
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/bioscore/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioscore/",
   "name": "BioScore",
   "description": "A composite index on the Guardians of Earth platform, built from five sub-scores (species diversity, monitoring quantity, data quality, community engagement, restoration evidence), compressing the ecological and social health of a defined place into a single trackable number.",
   "termCode": "bioscore",
@@ -37,6 +37,6 @@ Related-term references from the source that did not resolve to a glossary, peop
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/bioscore/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/bioscore/"
 }
 </script>

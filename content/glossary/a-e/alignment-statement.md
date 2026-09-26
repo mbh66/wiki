@@ -56,7 +56,7 @@ Extracted from the *Bankable Service Alignment Template* v0.1 in the VoG as Patr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/alignment-statement/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/alignment-statement/",
   "name": "Alignment Statement",
   "description": "The short, formal document a BioHub coordinator sends to a financial instrument's arranger, verification agent, or implementation partner as first contact. Produced by Prompt 3 of the Bankable Service Alignment Template. Maps the BioHub's retention services onto the target instrument's architecture.",
   "termCode": "alignment-statement",
@@ -65,7 +65,7 @@ Extracted from the *Bankable Service Alignment Template* v0.1 in the VoG as Patr
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/alignment-statement/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/alignment-statement/",
   "alternateName": [
     "instrument alignment statement"
   ]

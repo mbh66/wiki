@@ -35,7 +35,7 @@ First Tier is not "inferior." It is the developmental ground from which [[second
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/first-tier/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/first-tier/",
   "name": "First Tier",
   "description": "The developmental levels before the Momentous Leap in Graves's framework (A-N through F-S, or Beige through Green in Spiral Dynamics), each characterized by the conviction that its worldview is the correct one.",
   "termCode": "first-tier",
@@ -44,7 +44,7 @@ First Tier is not "inferior." It is the developmental ground from which [[second
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/first-tier/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/first-tier/",
   "alternateName": [
     "first tier",
     "First Tier thinking",

@@ -75,7 +75,7 @@ Entry created 20 September 2026 as part of a four-entry set covering Ronfeldt's 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/quadriform/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/quadriform/",
   "name": "Quadriform",
   "description": "A society organized around four coordination forms: kinship (+T), institutional hierarchy (+I), market exchange (+M), and the emergent form (+E). In Ronfeldt's TIME sequence, quadriform describes the coordination architecture the BioConomy is building toward.",
   "termCode": "quadriform",
@@ -84,7 +84,7 @@ Entry created 20 September 2026 as part of a four-entry set covering Ronfeldt's 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/quadriform/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/quadriform/",
   "alternateName": [
     "quadriform",
     "quadriform society",

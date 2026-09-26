@@ -98,7 +98,7 @@ The concept also does not claim that the transition is costless or automatic. Bu
     "name": "BioConomy Glossary"
   },
   "isBasedOn": {
-    "@id": "https://wiki.bioconomy.earth/glossary/taxation/"
+    "@id": "https://wiki.bioconomy.earth/glossary/t-z/taxation/"
   },
   "url": "https://wiki.bioconomy.earth/concepts/obligation-and-invitation/",
   "alternateName": [

@@ -33,7 +33,7 @@ The Emancipation Architecture's structural reading of the past twelve thousand y
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/coercion-continuum/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/coercion-continuum/",
   "name": "The Coercion Continuum",
   "description": "The Emancipation Architecture's structural reading of the past twelve thousand years of monetary design as a single continuous lineage, each iteration of which has served extraction and social stratification through six shared structural features: extractive backing, central issuance, storage of value, no income floor, enclosable commons, and concentrated governance. The EA's six structural inversions are the specific reversals of that lineage its monetary architecture proposes.",
   "termCode": "coercion-continuum",
@@ -42,7 +42,7 @@ The Emancipation Architecture's structural reading of the past twelve thousand y
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/coercion-continuum/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/coercion-continuum/",
   "alternateName": [
     "coercion continuum",
     "twelve thousand year continuum"

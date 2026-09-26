@@ -27,7 +27,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/intelligence-carbon/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/intelligence-carbon/",
   "name": "Intelligence, Carbon",
   "description": "Every form of intelligence that is not human-made: empathy, intuition, indigenous knowledge systems, the ecological wisdom accumulated in living landscapes, the evolution of consciousness, and the collective intelligence that emerges when a community coordinates around a shared place over time.",
   "termCode": "intelligence-carbon",
@@ -36,6 +36,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/intelligence-carbon/"
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/intelligence-carbon/"
 }
 </script>

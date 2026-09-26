@@ -64,7 +64,7 @@ Written 26 September 2026 from a working conversation on the ladder of inference
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/self-talk/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/",
   "name": "Self-talk",
   "description": "The private narrative through which a person explains to themselves what is happening, who is responsible and what comes next.",
   "termCode": "self-talk",
@@ -73,7 +73,7 @@ Written 26 September 2026 from a working conversation on the ladder of inference
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/self-talk/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/",
   "alternateName": [
     "self-talk",
     "self talk",

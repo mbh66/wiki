@@ -30,7 +30,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/curation-valuation-limitation-exchange/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/curation-valuation-limitation-exchange/",
   "name": "Curation, valuation, limitation, exchange",
   "description": "The four functions of Ruddick's Commitment Pooling Protocol: what commitments are admissible, how their relative worth is assessed, how capacity is managed, and how commitments circulate.",
   "termCode": "curation-valuation-limitation-exchange",
@@ -39,6 +39,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/curation-valuation-limitation-exchange/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/curation-valuation-limitation-exchange/"
 }
 </script>

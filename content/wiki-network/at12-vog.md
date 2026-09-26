@@ -2,8 +2,8 @@
 title: "Valley of Grace BioHub"
 aliases: ["at12-vog", "valley of grace biohub", "vog biohub"]
 tags: ["wiki-network", "biohub", "overberg", "cape-shrublands"]
-url: "https://at12-vog.bioconomy.earth"
-coordination_surface: "https://at12-vog.bioconomy.earth/coordination-surface"
+url: "https://biohubs.bioconomy.earth/afrotropic/at12-vog"
+coordination_surface: "https://biohubs.bioconomy.earth/afrotropic/at12-vog/coordination-surface"
 bioregion_code: "at12"
 bioregion_name: "South African Cape Shrublands & Mountain Forests"
 region: "Overberg"
@@ -64,7 +64,7 @@ Entry created 4 September 2026 as the first BioHub wiki listed in the network fo
   "about": {
     "@type": "WebSite",
     "name": "Valley of Grace BioHub Wiki",
-    "url": "https://at12-vog.bioconomy.earth"
+    "url": "https://biohubs.bioconomy.earth/afrotropic/at12-vog"
   },
   "keywords": [
     "wiki-network",

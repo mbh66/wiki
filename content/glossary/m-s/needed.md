@@ -28,7 +28,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/needed/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed/",
   "name": "Needed",
   "description": "The posture a BioHub is designed to achieve: tendering a verified ecological service into a market that has already signaled it will pay.",
   "termCode": "needed",
@@ -37,6 +37,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/needed/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/needed/"
 }
 </script>

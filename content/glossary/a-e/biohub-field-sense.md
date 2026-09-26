@@ -32,7 +32,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/biohub-field-sense/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub-field-sense/",
   "name": "BioHub (field sense)",
   "description": "The emerging global field of place-based coordination initiatives operating at landscape or bioregional scale, documented in Metabolic's 2026 assessment of 152 initiatives across 44 countries.",
   "termCode": "biohub-field-sense",
@@ -41,6 +41,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/biohub-field-sense/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/biohub-field-sense/"
 }
 </script>

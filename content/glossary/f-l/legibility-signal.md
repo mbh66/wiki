@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/legibility-signal/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/legibility-signal/",
   "name": "Legibility signal",
   "description": "A single compressed indicator that makes a coordination form's activity readable at a glance: clan mark (T), crown or seal (I), stock index (M), BioScore (E, emergent).",
   "termCode": "legibility-signal",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/legibility-signal/"
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/legibility-signal/"
 }
 </script>

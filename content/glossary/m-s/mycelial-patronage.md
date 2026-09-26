@@ -49,7 +49,7 @@ Enrichment pass (August 2026): the extended definition, contrast with adjacent t
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/mycelial-patronage/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-patronage/",
   "name": "Mycelial Patronage",
   "description": "A funding architecture in which capital enters the commons substrate and becomes the substrate, carrying three features found in every historical patronage form that endured: constitutive investment, embedding in the emerging order, and a replication mechanism that survives the founder.",
   "termCode": "mycelial-patronage",
@@ -58,7 +58,7 @@ Enrichment pass (August 2026): the extended definition, contrast with adjacent t
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/mycelial-patronage/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-patronage/",
   "alternateName": [
     "mycelial patronage",
     "constitutive patronage"

@@ -45,7 +45,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/bioregional-economics/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/",
   "name": "Bioregional Economics",
   "description": "The study and practice of designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes (Benjamin Life, 2026).",
   "termCode": "bioregional-economics",
@@ -54,6 +54,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/bioregional-economics/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/"
 }
 </script>

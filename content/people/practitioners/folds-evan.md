@@ -57,9 +57,9 @@ Created from Roam Research graph (MichaelHaupt), September 2026.
     "name": "Be Agriculture"
   },
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/permaculture/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/regenerative/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/soil-carbon-sponge/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/permaculture/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/soil-carbon-sponge/"}
   ],
   "sameAs": [
     "https://www.linkedin.com/in/evanfolds",

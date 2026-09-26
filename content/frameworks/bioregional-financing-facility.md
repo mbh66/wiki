@@ -116,8 +116,8 @@ Written 12 September 2026 as a framework entry synthesizing the Power & Seefeld 
   "contributor": {"@type": "Person", "name": "Michael Haupt"},
   "dateModified": "2026-09-12",
   "about": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-financing-facility-bff/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-economics/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-financing-facility-bff/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/"}
   ],
   "isPartOf": {"@id": "https://wiki.bioconomy.earth/#website"},
   "creativeWorkStatus": "documented-framework",

@@ -65,8 +65,8 @@ Written 12 September 2026 as a people/ancestors entry. Biographical and analytic
   "deathDate": "1930",
   "nationality": ["German", "Argentine"],
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/demurrage/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-currency/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/demurrage/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-currency/"}
   ],
   "sameAs": [
     "https://en.wikipedia.org/wiki/Silvio_Gesell"

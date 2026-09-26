@@ -68,7 +68,7 @@ Coined September 2026 as an addition to the BioStack framing. Contrast with the 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/bioplace/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioplace/",
   "name": "BioPlace",
   "description": "A BioPlace is the smallest scale of the BioStack. It is a parcel of land worked in direct relationship with the living system it belongs to, where human presence shapes activity to the rhythms of the specific ground.",
   "termCode": "bioplace",
@@ -77,6 +77,6 @@ Coined September 2026 as an addition to the BioStack framing. Contrast with the 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/bioplace/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/bioplace/"
 }
 </script>

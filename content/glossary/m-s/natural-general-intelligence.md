@@ -48,7 +48,7 @@ NGI is silicon intelligence coupled to the carbon substrate of the Earth system.
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/natural-general-intelligence/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/natural-general-intelligence/",
   "name": "Natural General Intelligence",
   "description": "A proposed foundation model grounded in the state and dynamics of the planet itself, capable of anticipating how the Earth system will respond to intervention and updating itself from what happens. Purpose: stewardship of the biosphere and its couplings.",
   "termCode": "natural-general-intelligence",
@@ -58,6 +58,6 @@ NGI is silicon intelligence coupled to the carbon substrate of the Earth system.
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/natural-general-intelligence/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/natural-general-intelligence/"
 }
 </script>

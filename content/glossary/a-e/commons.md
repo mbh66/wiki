@@ -30,7 +30,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/commons/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/commons/",
   "name": "Commons",
   "description": "A shared resource governed by its users through collectively agreed rules, as distinct from resources governed by state allocation or market exchange.",
   "termCode": "commons",
@@ -39,6 +39,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/commons/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/commons/"
 }
 </script>

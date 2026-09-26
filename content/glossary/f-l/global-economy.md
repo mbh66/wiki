@@ -69,7 +69,7 @@ Written 7 September 2026 as a glossary entry mapping the conventional economy's 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/global-economy/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/global-economy/",
   "name": "Global Economy",
   "description": "The outermost coordination layer of the conventional Economy: the system of international trade, capital flow, and monetary architecture through which nation-states and companies interact across borders.",
   "termCode": "global-economy",
@@ -78,7 +78,7 @@ Written 7 September 2026 as a glossary entry mapping the conventional economy's 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/global-economy/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/global-economy/",
   "alternateName": [
     "international economy",
     "global economic system",

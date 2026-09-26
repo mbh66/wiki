@@ -27,7 +27,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/needy/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/needy/",
   "name": "Needy",
   "description": "The default posture of the regenerative and bioregional movement in its current form: underfunded, grant-dependent, and organized around persuading external funders to cover the cost of work the movement believes is important.",
   "termCode": "needy",
@@ -36,6 +36,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/needy/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/needy/"
 }
 </script>

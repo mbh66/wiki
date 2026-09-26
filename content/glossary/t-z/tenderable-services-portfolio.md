@@ -52,7 +52,7 @@ Extracted from the *BioConomy Value Proposition Template* v0.2 in the VoG as Pat
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/tenderable-services-portfolio/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/tenderable-services-portfolio/",
   "name": "Tenderable Services Portfolio",
   "description": "The portfolio of services a BioHub tenders into markets, each with its retention logic and contractable form named. Populated in Panel 3 of the BioConomy Value Proposition Canvas and specified in the Value Proposition Statement produced by the BioConomy Value Proposition Template.",
   "termCode": "tenderable-services-portfolio",
@@ -61,7 +61,7 @@ Extracted from the *BioConomy Value Proposition Template* v0.2 in the VoG as Pat
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/tenderable-services-portfolio/",
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/tenderable-services-portfolio/",
   "alternateName": [
     "services portfolio",
     "six-service portfolio"

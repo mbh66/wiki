@@ -70,7 +70,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/m-form-market/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/m-form-market/",
   "name": "M form (Market)",
   "description": "Coordination through price signals, exchange, and competition between self-interested actors.",
   "termCode": "m-form-market",
@@ -79,7 +79,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/m-form-market/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/m-form-market/",
   "alternateName": [
     "M-form",
     "Market form",

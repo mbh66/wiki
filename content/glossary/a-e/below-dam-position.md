@@ -27,7 +27,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/below-dam-position/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/below-dam-position/",
   "name": "Below-dam Position",
   "description": "A structural geographic position in which a bioregion sits downstream of a major reservoir, converting demand-side coordination (reduced water consumption) into a measurable service for the upstream supply system.",
   "termCode": "below-dam-position",
@@ -36,6 +36,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/below-dam-position/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/below-dam-position/"
 }
 </script>

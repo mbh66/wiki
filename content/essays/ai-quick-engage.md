@@ -26,7 +26,7 @@ Diagnostic. Names five specific dependencies on Economy logic.
 ```
 I am coordinating a BioHub in [BIOREGION NAME]. The attached documents describe the region's current productive activity, the actors involved, and where value flows.
 
-Using https://wiki.bioconomy.earth/essays/what-is-a-bioconomy and https://wiki.bioconomy.earth/glossary/throughput-economics as the reference frame, list five specific ways this bioregion's current economy runs on Economy logic. For each item, name the activity, the dependency the activity carries, and the external party that captures the value the activity produces.
+Using https://wiki.bioconomy.earth/essays/what-is-a-bioconomy and https://wiki.bioconomy.earth/glossary/t-z/throughput-economics as the reference frame, list five specific ways this bioregion's current economy runs on Economy logic. For each item, name the activity, the dependency the activity carries, and the external party that captures the value the activity produces.
 
 Be concrete. Prefer named commodities, named institutions, and named commodity chains over general categories.
 ```
@@ -38,7 +38,7 @@ Fragility diagnosis. Turns the five dependencies into a ranked list of what brea
 ```
 Take the five dependencies from your previous answer. For each, name the specific point at which a disruption in the Economy would cause the activity to fail first: a commodity-price shift, a regulatory change, a supply-chain interruption, a capital-market shift, a labor-market shift, or a comparable external condition.
 
-Then, for each, describe what the bioregion would have to build to hold the function locally under retention logic. Reference https://wiki.bioconomy.earth/concepts/retention-logic and https://wiki.bioconomy.earth/glossary/retention-economics.
+Then, for each, describe what the bioregion would have to build to hold the function locally under retention logic. Reference https://wiki.bioconomy.earth/concepts/retention-logic and https://wiki.bioconomy.earth/glossary/m-s/retention-economics.
 ```
 
 ## Prompt 3. The three services the bioregion can tender fastest
@@ -46,7 +46,7 @@ Then, for each, describe what the bioregion would have to build to hold the func
 Positive read. Identifies the three services the bioregion is closest to being able to offer external counterparties.
 
 ```
-Using the attached project documents and https://wiki.bioconomy.earth/glossary/tenderable-services-portfolio, identify the three services from the six-service portfolio (water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, coordination-as-employment) that this bioregion could tender to external counterparties fastest.
+Using the attached project documents and https://wiki.bioconomy.earth/glossary/t-z/tenderable-services-portfolio, identify the three services from the six-service portfolio (water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, coordination-as-employment) that this bioregion could tender to external counterparties fastest.
 
 For each service, name the specific asset base already present in the bioregion, the coordination work still needed to make the service tenderable, and the retention outcome the service delivers.
 ```
@@ -58,7 +58,7 @@ Actionable list. Names five counterparties that could purchase or fund one of th
 ```
 For the three services from your previous answer, using https://wiki.bioconomy.earth/research/corporate-partnerships-protected-areas and https://wiki.bioconomy.earth/frameworks/five-transvestment-pathways, name five plausible counterparties reachable from this bioregion (corporate stewardship funds, water utilities, PES buyers, biodiversity credit purchasers, patrons operating on the mycelial patronage pattern, or comparable) that could purchase or fund one of the three services within twelve months.
 
-For each counterparty, name the specific service they would purchase, the closest reachable point of contact, and the readiness of the service under https://wiki.bioconomy.earth/glossary/readiness-diagnostic (contractable now, contractable after specified build-out, or speculative pending research).
+For each counterparty, name the specific service they would purchase, the closest reachable point of contact, and the readiness of the service under https://wiki.bioconomy.earth/glossary/m-s/readiness-diagnostic (contractable now, contractable after specified build-out, or speculative pending research).
 ```
 
 ## Running the prompts

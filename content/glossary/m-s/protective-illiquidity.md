@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/protective-illiquidity/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/protective-illiquidity/",
   "name": "Protective illiquidity",
   "description": "The principle that an asset's resistance to alienation can preserve the coordination system inside which it holds value.",
   "termCode": "protective-illiquidity",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/protective-illiquidity/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/protective-illiquidity/"
 }
 </script>

@@ -53,7 +53,7 @@ Written 12 September 2026. The entry formalizes a distinction that runs througho
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/codify/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/codify/",
   "name": "Codify",
   "description": "To give a coordination form's operating logic a written, structured, transmissible expression. Each form in the TIME framework has been codified by different institutions using different instruments; the +E form is being codified now in the BioConomy wiki.",
   "termCode": "codify",
@@ -62,7 +62,7 @@ Written 12 September 2026. The entry formalizes a distinction that runs througho
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/codify/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/codify/",
   "alternateName": [
     "codify",
     "codification"

@@ -32,7 +32,7 @@ Stub entry created September 2026. Enrichment to follow.
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/iact-framework/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/iact-framework/",
   "name": "iACT Framework",
   "description": "A framework for community activation developed by Ezio Gori. iACT addresses the coordination question at the BioPlace layer: how a cluster of parcels and the people working them move from individual holdings to a coordinated community field that a BioHub can hold.",
   "termCode": "iact-framework",
@@ -41,7 +41,7 @@ Stub entry created September 2026. Enrichment to follow.
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/iact-framework/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/iact-framework/",
   "alternateName": [
     "iACT"
   ]

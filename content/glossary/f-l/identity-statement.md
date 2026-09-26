@@ -54,7 +54,7 @@ Extracted from the *BioHub Identity Template* v0.2 in the VoG as Patron Project 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/identity-statement/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/identity-statement/",
   "name": "Identity Statement",
   "description": "The short, formal, foundational reference document a BioHub uses to introduce itself. Produced by Prompt 3 of the BioHub Identity Template. States who the BioHub is: name, founding cohort, anchor location, purpose, position within the field in brief, intellectual lineage in brief, entity form.",
   "termCode": "identity-statement",
@@ -63,7 +63,7 @@ Extracted from the *BioHub Identity Template* v0.2 in the VoG as Patron Project 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/identity-statement/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/identity-statement/",
   "alternateName": [
     "biohub identity statement"
   ]

@@ -30,7 +30,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/regenerative-capitalism/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-capitalism/",
   "name": "Regenerative Capitalism",
   "description": "John Fullerton's framework (2015) arguing that the universal patterns and principles governing healthy living systems can and must be used as a model for economic system design, specified through eight principles of regenerative vitality.",
   "termCode": "regenerative-capitalism",
@@ -39,6 +39,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/regenerative-capitalism/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-capitalism/"
 }
 </script>

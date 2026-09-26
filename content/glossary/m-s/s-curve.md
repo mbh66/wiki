@@ -48,7 +48,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/s-curve/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/s-curve/",
   "name": "S-Curve (Logistic Growth Principle)",
   "description": "A mathematical pattern first described by Pierre-François Verhulst in 1838 to model population growth in a bounded environment. Plotted over time, the curve traces an elongated S: slow initial growth, a steep middle phase of rapid expansion, and a gradual leveling as the system approaches the carrying capacity of its context.",
   "termCode": "s-curve",
@@ -57,7 +57,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/s-curve/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/s-curve/",
   "alternateName": [
     "sigmoid",
     "ontogenetic",

@@ -27,7 +27,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/indigenous-knowledge/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/indigenous-knowledge/",
   "name": "Indigenous Knowledge",
   "description": "Knowledge that arises from sustained relationship with a specific place: its soils, water, seasons, species, and patterns of change observed over generations.",
   "termCode": "indigenous-knowledge",
@@ -36,6 +36,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/indigenous-knowledge/"
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/indigenous-knowledge/"
 }
 </script>

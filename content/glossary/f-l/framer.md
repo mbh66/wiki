@@ -41,7 +41,7 @@ The Framer is not a teacher, coach, or consultant in the conventional sense. Tho
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/framer/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/framer/",
   "name": "Framer",
   "description": "The fourth archetype in the Farmer-Forger-Founder-Framer sequence: the person whose domain of production is consciousness itself, who creates the conditions under which distributed intelligence can emerge.",
   "termCode": "framer",
@@ -50,7 +50,7 @@ The Framer is not a teacher, coach, or consultant in the conventional sense. Tho
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/framer/",
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/framer/",
   "alternateName": [
     "framer",
     "the Framer",

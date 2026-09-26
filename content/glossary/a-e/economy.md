@@ -47,7 +47,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/economy/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/economy/",
   "name": "Economy",
   "description": "From the Greek _oikonomia_: the management of a household. The root meaning is the ordered care of a shared living arrangement, including what is grown, stored, shared, repaired, and passed on. In this older sense, an economy is inseparable from the place it inhabits and the people who inhabit it.",
   "termCode": "economy",
@@ -56,7 +56,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/economy/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/economy/",
   "alternateName": [
     "extractive"
   ]

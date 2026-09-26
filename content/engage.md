@@ -89,13 +89,13 @@ Written 24 August 2026 as the wiki's landing page. Updated 8 September 2026 to a
   },
   "about": [
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioconomy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioconomy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/biohub/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/bioregion/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregion/"
     }
   ],
   "keywords": [

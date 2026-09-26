@@ -26,7 +26,7 @@ The theory of nested adaptive cycles across scales, developed by Lance Gunderson
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/panarchy/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/panarchy/",
   "name": "Panarchy",
   "description": "The theory of nested adaptive cycles across scales, developed by Lance Gunderson and C. S. Holling. A panarchy is a set of adaptive cycles operating at different spatial and temporal scales, each cycle influencing and being influenced by the cycles above and below it. The framework has been applied to ecosystems, social systems, economies, and, in the Planetary Phase Shift framework, to civilizational transformation itself.",
   "termCode": "panarchy",
@@ -35,7 +35,7 @@ The theory of nested adaptive cycles across scales, developed by Lance Gunderson
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/panarchy/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/panarchy/",
   "alternateName": [
     "panarchy"
   ]

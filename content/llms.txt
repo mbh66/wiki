@@ -60,7 +60,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [The S-Curve Thesis](https://wiki.bioconomy.earth/frameworks/s-curve-thesis): Structural mapping of the deceleration phase
 - [The Three Lineages](https://wiki.bioconomy.earth/frameworks/three-lineages): Throughput, Retention, and Regenerative economic traditions
 - [The Evolution of Coordination Nodes](https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes): Physical structures each coordination form has produced
-- [The Physical Manifestations of TIMN](https://wiki.bioconomy.earth/frameworks/timn-physical-manifestations): Structural rhymes across the four coordination forms
+- [The Physical Manifestations of TIMN](https://wiki.bioconomy.earth/frameworks/time-physical-manifestations): Structural rhymes across the four coordination forms
 - [Farmer-Forger-Founder-Framer](https://wiki.bioconomy.earth/frameworks/farmer-forger-founder-framer): Four archetypes of production across the TIME sequence
 
 ## Templates

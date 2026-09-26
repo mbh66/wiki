@@ -41,7 +41,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/timn/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/timn/",
   "name": "TIMN",
   "description": "TIMN is a theoretical framework developed by David Ronfeldt that categorizes the evolution of societal organization into four fundamental forms: Tribes (T), Institutions (I), Markets (M), and Networks (N).",
   "termCode": "timn",
@@ -50,6 +50,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/timn/"
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/timn/"
 }
 </script>

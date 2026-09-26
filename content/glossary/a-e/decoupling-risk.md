@@ -26,7 +26,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/decoupling-risk/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/decoupling-risk/",
   "name": "Decoupling risk",
   "description": "The structural risk that a legibility signal detaches from the reality it claims to represent, present in every coordination form.",
   "termCode": "decoupling-risk",
@@ -35,6 +35,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/decoupling-risk/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/decoupling-risk/"
 }
 </script>

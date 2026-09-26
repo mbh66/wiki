@@ -28,7 +28,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/regenerative/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative/",
   "name": "Regenerative",
   "description": "Producing value while restoring the substrate the production depends on.",
   "termCode": "regenerative",
@@ -37,6 +37,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/regenerative/"
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/regenerative/"
 }
 </script>

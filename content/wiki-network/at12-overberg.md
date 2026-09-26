@@ -2,8 +2,8 @@
 title: "Overberg BioRegion"
 aliases: ["at12-overberg", "overberg bioregion", "overberg"]
 tags: ["wiki-network", "bioregion", "overberg", "cape-shrublands"]
-url: "https://at12-overberg.bioconomy.earth"
-coordination_surface: "https://at12-overberg.bioconomy.earth/coordination-surface"
+url: "https://biohubs.bioconomy.earth/afrotropic/at12-overberg"
+coordination_surface: "https://biohubs.bioconomy.earth/afrotropic/at12-overberg/coordination-surface"
 bioregion_code: "at12"
 bioregion_name: "South African Cape Shrublands & Mountain Forests"
 region: "Overberg"
@@ -64,7 +64,7 @@ Entry created 4 September 2026 as the second BioHub wiki listed in the network f
   "about": {
     "@type": "WebSite",
     "name": "Overberg BioRegion Wiki",
-    "url": "https://at12-overberg.bioconomy.earth"
+    "url": "https://biohubs.bioconomy.earth/afrotropic/at12-overberg"
   },
   "keywords": [
     "wiki-network",

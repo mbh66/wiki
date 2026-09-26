@@ -58,7 +58,7 @@ Entry created 20 September 2026 as part of a four-entry set covering Ronfeldt's 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/biform/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/biform/",
   "name": "Biform",
   "description": "A society organized around two coordination forms. In Ronfeldt's TIME sequence, biform describes the stage at which institutional hierarchy (+I) has matured as a distinct coordination layer alongside kinship (+T), but market exchange has not yet emerged as an independent organizing logic.",
   "termCode": "biform",
@@ -67,7 +67,7 @@ Entry created 20 September 2026 as part of a four-entry set covering Ronfeldt's 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/biform/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/biform/",
   "alternateName": [
     "biform",
     "biform society",

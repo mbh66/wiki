@@ -45,7 +45,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/coordination-node/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/coordination-node/",
   "name": "Coordination Node",
   "description": "The characteristic physical structure a coordination form produces as it matures: - sacred sites (T), - cathedrals and capitol buildings (I), - skyscrapers, stock exchanges, and trading floors (M), - bioregional hub, or BioHubs (E).",
   "termCode": "coordination-node",
@@ -54,6 +54,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/coordination-node/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/coordination-node/"
 }
 </script>

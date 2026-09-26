@@ -62,7 +62,7 @@ Written 26 September 2026 alongside the glossary and concept pages on the ladder
   "deathDate": "2013",
   "affiliation": {"@type": "Organization", "name": "Harvard University"},
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/ladder-of-inference/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/f-l/ladder-of-inference/"}
   ],
   "sameAs": [
     "https://en.wikipedia.org/wiki/Chris_Argyris",

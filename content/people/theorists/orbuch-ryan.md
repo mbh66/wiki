@@ -47,7 +47,7 @@ For the BioConomy corpus, this positions him alongside the theorists whose work 
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://wiki.bioconomy.earth/people/theorists/ryan-orbuch/",
+  "@id": "https://wiki.bioconomy.earth/people/theorists/orbuch-ryan/",
   "name": "Ryan Orbuch",
   "description": "Partner at Lowercarbon Capital leading its carbon removal work. Author of the September 2026 essay Natural General Intelligence, which proposes a foundation model grounded in the state and dynamics of the planet itself, trained on the Earth-observing system, for the purpose of stewardship.",
   "jobTitle": "Partner",
@@ -56,7 +56,7 @@ For the BioConomy corpus, this positions him alongside the theorists whose work 
     "name": "Lowercarbon Capital"
   },
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/natural-general-intelligence/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/m-s/natural-general-intelligence/"},
     {"@id": "https://wiki.bioconomy.earth/concepts/the-bioplace-layer/"},
     {"@id": "https://wiki.bioconomy.earth/concepts/carbon-silicon-partnership/"}
   ],
@@ -65,6 +65,6 @@ For the BioConomy corpus, this positions him alongside the theorists whose work 
     "https://www.linkedin.com/in/orbuch/",
     "https://www.crunchbase.com/person/ryan-orbuch"
   ],
-  "url": "https://wiki.bioconomy.earth/people/theorists/ryan-orbuch/"
+  "url": "https://wiki.bioconomy.earth/people/theorists/orbuch-ryan/"
 }
 </script>

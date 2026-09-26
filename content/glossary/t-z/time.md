@@ -51,7 +51,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/time/",
+  "@id": "https://wiki.bioconomy.earth/glossary/t-z/time/",
   "name": "TIME and TIMN",
   "description": "An analytical vocabulary that names four coordination forms (Tribal, Institutional, Market, and Emergent), built on David Ronfeldt's TIMN model with the fourth form renamed from *Networks* to *Emergent*. For more detail, see TIME Framework. *\"It's about TIME.\"*",
   "termCode": "time",
@@ -60,6 +60,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/time/"
+  "url": "https://wiki.bioconomy.earth/glossary/t-z/time/"
 }
 </script>

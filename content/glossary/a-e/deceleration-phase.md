@@ -45,7 +45,7 @@ Coined within the BioConomy corpus as the phase label paired with acceleration. 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/deceleration-phase/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/deceleration-phase/",
   "name": "Deceleration Phase",
   "description": "The phase of an S-curve during which the rate of growth is declining and the system approaches the carrying capacity of its substrate. Applied to the industrial civilization curve, the deceleration phase is the period in which the frameworks that fit acceleration (throughput, extraction, capital mobility) begin to work against the system's capacity to reproduce itself.",
   "termCode": "deceleration-phase",
@@ -54,7 +54,7 @@ Coined within the BioConomy corpus as the phase label paired with acceleration. 
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/deceleration-phase/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/deceleration-phase/",
   "alternateName": [
     "maturation phase",
     "s-curve deceleration"

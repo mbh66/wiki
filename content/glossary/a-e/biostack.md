@@ -46,7 +46,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/biostack/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/biostack/",
   "name": "BioStack",
   "description": "A BioStack is the nested structure through which bioregional coordination takes hold. Four geographic scales sit inside a coordination architecture that lets those scales function together as an economy.",
   "termCode": "biostack",
@@ -55,6 +55,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/biostack/"
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/biostack/"
 }
 </script>

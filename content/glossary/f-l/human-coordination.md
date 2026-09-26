@@ -32,7 +32,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/human-coordination/",
+  "@id": "https://wiki.bioconomy.earth/glossary/f-l/human-coordination/",
   "name": "Human Coordination",
   "description": "The ways humans organize collective action.",
   "termCode": "human-coordination",
@@ -41,6 +41,6 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/human-coordination/"
+  "url": "https://wiki.bioconomy.earth/glossary/f-l/human-coordination/"
 }
 </script>

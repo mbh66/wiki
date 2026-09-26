@@ -70,8 +70,8 @@ Written 12 September 2026 as a people/ancestors entry. Analytical content drawn 
   "jobTitle": "Monetary economist",
   "affiliation": {"@type": "Organization", "name": "Belgian Central Bank (former)"},
   "knowsAbout": [
-    {"@id": "https://wiki.bioconomy.earth/glossary/demurrage/"},
-    {"@id": "https://wiki.bioconomy.earth/glossary/bioregional-currency/"}
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/demurrage/"},
+    {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-currency/"}
   ],
   "sameAs": [
     "https://en.wikipedia.org/wiki/Bernard_Lietaer"

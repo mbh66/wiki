@@ -82,7 +82,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/e-form-emergent/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/e-form-emergent/",
   "name": "E form (Emergent)",
   "description": "Coordination through pooled commitments toward outcomes no single actor can produce alone, organized at the scale of the watershed or bioregion.",
   "termCode": "e-form-emergent",
@@ -91,7 +91,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended de
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/e-form-emergent/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/e-form-emergent/",
   "alternateName": [
     "E-form",
     "Emergent form",

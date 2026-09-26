@@ -11,7 +11,7 @@ epistemic_status: "mixed"
 
 When people who coordinate through different forms sit down to govern something together, they read the same facts through different lenses. This brief asks whether a person's orientation toward the four [[frameworks/time-framework|TIME]] forms can be measured, so that a facilitator knows which coordination logics are present at the table. No validated instrument exists. The most credible path is a domain-by-form profile: continuous scores for T, I, M and E within each domain a group governs (land, water, money, family, public office, religion, or whatever the group's own agenda holds). It should be piloted first as an unscored facilitation tool built on Q-methodology card sorts. A scored instrument is worth building only where a group wants one and can meet its jurisdiction's legal and psychometric requirements.
 
-A costed application of this brief to a specific forum in the Western Cape, South Africa, sits at the Valley of Grace BioHub: [TIME Profile: Application to the Ward 2 Development Forum](https://at12-vog.bioconomy.earth/research/time-profile-w2df).
+A costed application of this brief to a specific forum in the Western Cape, South Africa, sits at the Valley of Grace BioHub: [TIME Profile: Application to the Ward 2 Development Forum](https://biohubs.bioconomy.earth/afrotropic/at12-vog/research/time-profile-w2df).
 
 ## TL;DR
 
@@ -251,7 +251,7 @@ Anyone adapting this brief should check five things locally:
 - [[concepts/cheapest-available-behavior|Cheapest Available Behavior]]
 - [[research/pooling-across-timn|Pooling Across TIMN]]
 - [[ronfeldt-david|David Ronfeldt]]
-- [TIME Profile: Application to the Ward 2 Development Forum](https://at12-vog.bioconomy.earth/research/time-profile-w2df) (Valley of Grace BioHub)
+- [TIME Profile: Application to the Ward 2 Development Forum](https://biohubs.bioconomy.earth/afrotropic/at12-vog/research/time-profile-w2df) (Valley of Grace BioHub)
 
 ## Sources
 
@@ -327,7 +327,7 @@ Anyone adapting this brief should check five things locally:
 
 ## Provenance
 
-Written 26 September 2026 from a deep research report commissioned in the [[bioconomy|BioConomy]] project. Material specific to South Africa and to the Ward 2 Development Forum (POPIA, the Employment Equity Act, the Health Professions Act, language invariance for English, Afrikaans and isiXhosa, the valley's history, costed phases) has been moved to the [Valley of Grace BioHub application](https://at12-vog.bioconomy.earth/research/time-profile-w2df) so that this brief can serve readers anywhere. The Ronfeldt quotation, the Haslam, Holland and Kuppens figures, the Zakharin and Bates findings, the Sherman, Nelson and Ross quotation and the Nasie et al. finding were checked against the primary sources. All mappings of TIME onto other instruments are the author's inferences. Ronfeldt is cited for his own claims only and is not attributed the Emergent reading, the lens and self-talk model or the profile.
+Written 26 September 2026 from a deep research report commissioned in the [[bioconomy|BioConomy]] project. Material specific to South Africa and to the Ward 2 Development Forum (POPIA, the Employment Equity Act, the Health Professions Act, language invariance for English, Afrikaans and isiXhosa, the valley's history, costed phases) has been moved to the [Valley of Grace BioHub application](https://biohubs.bioconomy.earth/afrotropic/at12-vog/research/time-profile-w2df) so that this brief can serve readers anywhere. The Ronfeldt quotation, the Haslam, Holland and Kuppens figures, the Zakharin and Bates findings, the Sherman, Nelson and Ross quotation and the Nasie et al. finding were checked against the primary sources. All mappings of TIME onto other instruments are the author's inferences. Ronfeldt is cited for his own claims only and is not attributed the Emergent reading, the lens and self-talk model or the profile.
 
 <script type="application/ld+json">
 {
@@ -347,31 +347,31 @@ Written 26 September 2026 from a deep research report commissioned in the [[bioc
   },
   "about": [
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/time/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/time/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/t-form-tribal/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/t-form-tribal/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/i-form-institutional/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/i-form-institutional/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-form-market/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/m-form-market/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/e-form-emergent/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/e-form-emergent/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/substrate-hypothesis/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/substrate-hypothesis/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/ladder-of-inference/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/ladder-of-inference/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/lens/"
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/lens/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/self-talk/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/"
     }
   ],
   "citation": [

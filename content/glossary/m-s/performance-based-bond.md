@@ -47,7 +47,7 @@ Initial entry extracted from the BioHub Glossary CSV export (Notion, August 2026
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/performance-based-bond/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/performance-based-bond/",
   "name": "Performance-based bond",
   "description": "A debt instrument in which a portion of investor returns is contingent on independently verified ecological or social outcomes. The base coupon behaves like a standard investment-grade note and is settled from the issuer's balance sheet. A performance premium is settled by outcomes funders (development finance institutions, foundations, corporate ESG allocators) only when an independent verification agent confirms that the contracted outcome has been produced.",
   "termCode": "performance-based-bond",
@@ -56,7 +56,7 @@ Initial entry extracted from the BioHub Glossary CSV export (Notion, August 2026
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/performance-based-bond/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/performance-based-bond/",
   "alternateName": [
     "performance bond",
     "outcomes-based bond",

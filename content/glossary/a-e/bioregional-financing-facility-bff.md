@@ -34,7 +34,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/bioregional-financing-facility-bff/",
+  "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-financing-facility-bff/",
   "name": "Bioregional Financing Facility (BFF)",
   "description": "A phased institutional architecture (bioregional trust, venture studio, investment company, bioregional bank) through which a bioregion capitalizes its transition to a regenerative economy (Power, Seefeld, et al., 2024).",
   "termCode": "bioregional-financing-facility-bff",
@@ -43,7 +43,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/bioregional-financing-facility-bff/",
+  "url": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-financing-facility-bff/",
   "alternateName": [
     "Bioregional Financing Facility",
     "BFF"

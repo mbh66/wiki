@@ -40,7 +40,7 @@ Written 5 September 2026 to complete the TIMN glossary set alongside [[t-form-tr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://wiki.bioconomy.earth/glossary/n-form-network/",
+  "@id": "https://wiki.bioconomy.earth/glossary/m-s/n-form-network/",
   "name": "N form (Network)",
   "description": "Coordination through all-channel connection at planetary scale, where distributed nodes exchange information, goods, and services across distance without a central controller. Its material substrate is the global connective infrastructure built through the late twentieth and early twenty-first centuries: containerized supply chains, undersea cables, the internet, and low-earth-orbit satellite constellations.",
   "termCode": "n-form-network",
@@ -49,7 +49,7 @@ Written 5 September 2026 to complete the TIMN glossary set alongside [[t-form-tr
     "@id": "https://wiki.bioconomy.earth/glossary/#termset",
     "name": "BioConomy Glossary"
   },
-  "url": "https://wiki.bioconomy.earth/glossary/n-form-network/",
+  "url": "https://wiki.bioconomy.earth/glossary/m-s/n-form-network/",
   "alternateName": [
     "N-form",
     "Network form",
