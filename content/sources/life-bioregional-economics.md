@@ -24,7 +24,7 @@ https://omniharmonic.substack.com/p/an-introduction-to-bioregional-economics
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[two-machines|Two Machines (glossary)]]
-- [[content/glossary/a-e/bioregional-economics|Bioregional Economics (glossary)]]
+- [[glossary/a-e/bioregional-economics|Bioregional Economics (glossary)]]
 - [[life-benjamin|Benjamin Life]]
 
 <script type="application/ld+json">

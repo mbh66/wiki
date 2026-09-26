@@ -20,7 +20,7 @@ The paper also introduces a speculative forecast: that noosphere evolution will 
 
 Ronfeldt frames decontrol (ceding, sharing, and distributing power and control) as a complement to control that healthy societies require. He connects this to his [[sources/ronfeldt-timn|TIMN framework]], arguing that each successive societal form (Tribes, Institutions, Markets, Networks) requires increased decontrol to function. The corpus's renaming of TIMN as TIME (Tribal, Institutional, Market, Emergent) maps the same trajectory, with the Emergent form requiring the most radical decontrol of all.
 
-The paper references the BioConomy project directly, citing Michael Haupt's Framer OS research briefs on S-curves and [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
+The paper references the BioConomy project directly, citing Michael Haupt's Framer OS research briefs on S-curves and [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
 
 ## Citing Pages
 

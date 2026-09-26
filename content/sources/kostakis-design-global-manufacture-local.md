@@ -19,7 +19,7 @@ The foundational academic paper for the cosmo-local production framework. The au
 ## Cited by
 
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
-- [[content/glossary/a-e/cosmo-local-production|Cosmo-local production (glossary)]]
+- [[glossary/a-e/cosmo-local-production|Cosmo-local production (glossary)]]
 - [[bauwens-michel|Michel Bauwens]]
 
 <script type="application/ld+json">

@@ -20,7 +20,7 @@ Supplies the structural mechanism for the observation that "the failure of phila
 
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
-- [[content/concepts/mycelial-patronage|Mycelial Patronage]]
+- [[concepts/mycelial-patronage|Mycelial Patronage]]
 
 <script type="application/ld+json">
 {

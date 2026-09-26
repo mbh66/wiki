@@ -13,7 +13,7 @@ Graves, C.W. (1974). "Human Nature Prepares for a Momentous Leap." *The Futurist
 
 The paper in which Graves identified the [[frameworks/three-futures|Three Futures]] (Termination, Technofeudalism, Transcendence, in the BioConomy corpus's nomenclature) and described the transition from First Tier to Second Tier thinking as "the most difficult, but at the same time the most exciting transition the human race has faced to date." Graves described this threshold as "the start of a new movement in the symphony of human history" and characterized the gap as "between getting and giving, taking and contributing, destroying and constructing."
 
-This paper is the structural foundation of Movement I of the Emancipation Architecture (The Three Futures). The BioConomy corpus identifies the [[momentous-leap|Momentous Leap]] with the transition from [[material-consciousness|Material Consciousness]] to [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]], extending Graves's developmental psychology into economic value theory.
+This paper is the structural foundation of Movement I of the Emancipation Architecture (The Three Futures). The BioConomy corpus identifies the [[momentous-leap|Momentous Leap]] with the transition from [[material-consciousness|Material Consciousness]] to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]], extending Graves's developmental psychology into economic value theory.
 
 ## Citing Pages
 
@@ -23,7 +23,7 @@ This paper is the structural foundation of Movement I of the Emancipation Archit
 - [[momentous-leap|Momentous Leap]]
 - [[second-tier|Second Tier]]
 - [[crisis-codes|Crisis Codes]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 
 <script type="application/ld+json">
 {

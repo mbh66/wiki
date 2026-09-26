@@ -22,7 +22,7 @@ Sahtouris, E. (2000). *EarthDance: Living Systems in Evolution.* iUniversity Pre
 
 Biologist and evolution theorist argues that the trajectory of biological evolution moves from hostile competition (young ecosystems) to cooperative negotiation (mature ecosystems), not because cooperation is morally superior but because it is structurally more capable in complex environments. Sahtouris identifies three evolutionary thresholds and distinguishes Type I (competitive), Type II (transitional), and Type III (cooperative) ecosystems.
 
-In the BioConomy corpus, Sahtouris provides the biological grounding for the civilizational maturation thesis. If human civilization follows the biological pattern (and the S-curve evidence suggests it must), then the transition from [[material-consciousness|Material]] to [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] is the civilizational expression of ecological maturation: the same pattern that drives endosymbiosis, mycorrhizal network formation, and the evolution from competitive to cooperative ecosystem dynamics.
+In the BioConomy corpus, Sahtouris provides the biological grounding for the civilizational maturation thesis. If human civilization follows the biological pattern (and the S-curve evidence suggests it must), then the transition from [[material-consciousness|Material]] to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] is the civilizational expression of ecological maturation: the same pattern that drives endosymbiosis, mycorrhizal network formation, and the evolution from competitive to cooperative ecosystem dynamics.
 
 Sahtouris's framework converges with M.G. Taylor's systems architecture on the [[concepts/consciousness-and-value-creation|Substrate Hypothesis]]: coordination is a property of the substrate that holds the participants, not a property of the participants themselves.
 
@@ -32,7 +32,7 @@ Sahtouris's framework converges with M.G. Taylor's systems architecture on the [
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[frameworks/three-futures|Three Futures]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
-- [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 
 <script type="application/ld+json">
 {

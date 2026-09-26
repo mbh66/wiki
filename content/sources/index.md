@@ -27,8 +27,8 @@ The sources most heavily cited across the corpus, useful as entry points into th
 - Polanyi (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*. The [[double-movement|double movement]] and [[fictitious-commodities|fictitious commodities]].
 - Richardson et al. (2023). *[[sources/richardson-planetary-boundaries|Earth beyond six of nine planetary boundaries]]*. The measurement anchor for planetary limits.
 - Gladek et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*. The field mapping of 152 initiatives.
-- Life (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*. The foundational definition of [[content/glossary/a-e/bioregional-economics|bioregional economics]] as the wiki uses it.
-- Margulis (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*. The biological precedent for [[content/glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
+- Life (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*. The foundational definition of [[glossary/a-e/bioregional-economics|bioregional economics]] as the wiki uses it.
+- Margulis (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*. The biological precedent for [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
 
 ## Related pages
 
