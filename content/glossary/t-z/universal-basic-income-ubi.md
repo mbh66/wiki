@@ -19,7 +19,7 @@ The modern formulation is set out in Philippe Van Parijs and Yannick Vanderborgh
 
 The BioConomy's retention-logic analysis treats UBI as an income intervention that operates inside the existing +M substrate rather than changing it. UBI supplements purchasing power; it does not alter the coordination architecture. This is the structural reason why every major UBI experiment (Finland, Mincome, Madhya Pradesh, Stockton, Kenya, OpenResearch, Ontario, the Dutch municipalities) reliably improved wellbeing and reliably failed to move hours into non-market coordination at any scale. Where coordination effects appeared (Madhya Pradesh collectives, Ontario volunteering, Mincome caregiving), they appeared at the margins and inside the existing monetary substrate.
 
-The pattern is consistent: released hours default to leisure, private investment, or improved market position, not to [[e-form-emergent|Emergent (+N)]] coordination, because UBI pays individuals with no [[coordination-surface|coordination surface]] to flow into and no denomination that would prevent re-accumulation as +M capital.
+The pattern is consistent: released hours default to leisure, private investment, or improved market position, not to [[e-form-emergent|Emergent (+N)]] coordination, because UBI pays individuals with no [[concepts/coordination-surface|coordination surface]] to flow into and no denomination that would prevent re-accumulation as +M capital.
 
 ## Contrast with RPI
 

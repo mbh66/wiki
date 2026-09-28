@@ -28,7 +28,7 @@ For a more complete exploration, see [[concepts/coordination-surface|Coordinatio
 
 ## Related pages
 
-- [[coordination-surface|BioConomy Wiki Coordination Surface]] (the reference instance)
+- [[concepts/coordination-surface|Coordination Surface Concept]]
 - [[essays/how-the-bioconomy-coordinates|How the BioConomy Coordinates]]
 - [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]]
 - [[concepts/obligation-and-invitation|Obligation and Invitation]]

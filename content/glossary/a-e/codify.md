@@ -17,7 +17,7 @@ To give a coordination form's operating logic a written, structured, transmissib
 
 The word "codify" carries +I-form and +M-form connotations by default. In ordinary usage it means to arrange existing rules or laws into a systematic code: the codification of Roman law, the codification of GAAP, the codification of a regulatory framework. The agent doing the codifying is typically a legislature, a standards body, or an authoritative institution. The output is binding on participants within the jurisdiction.
 
-The +E form's codification works differently. No legislature convenes to define what a [[biohub|BioHub]] is. No standards body certifies the [[coordination-surface|coordination surface]] format. No regulatory authority enforces the [[glossary/t-z/tenderable-services-portfolio|Tenderable Services Portfolio]] categories. The codification happens through a shared knowledge commons: a wiki whose entries are written, contested, refined, and cross-linked by practitioners working in real bioregions. The output is not binding by jurisdictional authority. It is binding by utility: a BioHub that uses the controlled vocabulary can be read by every other BioHub in the network without prior arrangement. A BioHub that coins its own terms in isolation cannot.
+The +E form's codification works differently. No legislature convenes to define what a [[biohub|BioHub]] is. No standards body certifies the [[concepts/coordination-surface|coordination surface]] format. No regulatory authority enforces the [[glossary/t-z/tenderable-services-portfolio|Tenderable Services Portfolio]] categories. The codification happens through a shared knowledge commons: a wiki whose entries are written, contested, refined, and cross-linked by practitioners working in real bioregions. The output is not binding by jurisdictional authority. It is binding by utility: a BioHub that uses the controlled vocabulary can be read by every other BioHub in the network without prior arrangement. A BioHub that coins its own terms in isolation cannot.
 
 This is the sense in which the BioConomy wiki codifies the +E form. It is not legislating the Emergent coordination layer into existence. It is giving that layer's operating logic a written form precise enough to be transmitted, taught, critiqued, and built upon. The glossary entries are not definitions imposed by authority. They are definitions arrived at through practice and made available to anyone entering the field. The concepts, frameworks, and research briefs are not regulations. They are the shared grammar (see [[coordination-grammar|Coordination Grammar]]) through which +E-form practitioners recognize each other's work and coordinate without a central authority mediating the connection.
 
@@ -37,7 +37,7 @@ Each TIME form codified its coordination logic in the medium native to its opera
 - [[e-form-emergent|E form (Emergent)]]
 - [[i-form-institutional|I form (Institutional)]]
 - [[m-form-market|M form (Market)]]
-- [[coordination-surface|Coordination Surface]]
+- [[concepts/coordination-surface|Coordination Surface]]
 
 ## Related pages
 

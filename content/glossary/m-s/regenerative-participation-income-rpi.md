@@ -11,7 +11,7 @@ updated: 2026-09-20
 epistemic_status: "documented-framework"
 ---
 
-A BioHub-distributed stipend that funds a coordination role, produces legible [[coordination-surface|coordination surfaces]], and is denominated in a bioregional [[demurrage|demurrage]] currency that cannot re-accumulate as +M capital. RPI is the [[frameworks/emancipation-architecture|Emancipation Architecture's]] monetary primitive: the substrate intervention that [[universal-basic-income-ubi|Universal Basic Income (UBI)]] gestures toward but does not achieve.
+A BioHub-distributed stipend that funds a coordination role, produces legible [[concepts/coordination-surface|coordination surfaces]], and is denominated in a bioregional [[demurrage|demurrage]] currency that cannot re-accumulate as +M capital. RPI is the [[frameworks/emancipation-architecture|Emancipation Architecture's]] monetary primitive: the substrate intervention that [[universal-basic-income-ubi|Universal Basic Income (UBI)]] gestures toward but does not achieve.
 
 ## Extended definition
 
@@ -51,7 +51,7 @@ Grassroots Economics's [[commitment-pool|commitment pooling]] work in East Afric
 - [[coercion-continuum|The Coercion Continuum]]
 - [[commitment-pool|Commitment Pool]]
 - [[substrate-hypothesis|Substrate Hypothesis]]
-- [[coordination-surface|Coordination Surface]]
+- [[concepts/coordination-surface|Coordination Surface]]
 - [[transvestment|Transvestment]]
 
 ## Related pages

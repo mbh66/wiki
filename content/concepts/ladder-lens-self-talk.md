@@ -82,7 +82,7 @@ This is why the BioConomy puts weight on measurement infrastructure:
 - [[concepts/performance-based-water-bonds|Performance-based water bonds]] pay on measured hydrological outcomes. The payment trigger sits at rung one, which leaves little room for inference to drift.
 - The BioRegion atlas and [[bioscore|BioScore]] build a data layer selected on ecological criteria, changing what reaches rung two for everyone who uses them.
 - [[concepts/stigmergy|Stigmergy]] coordinates through traces in a shared environment. Agents act on what they can observe, with almost no ladder in between.
-- A BioHub [[coordination-surface|coordination surface]] publishes offers, seeks and shared instruments in a common format, so partners start their ladders from the same data.
+- A BioHub [[concepts/coordination-surface|coordination surface]] publishes offers, seeks and shared instruments in a common format, so partners start their ladders from the same data.
 
 [[protective-illiquidity|Protective illiquidity]] belongs here too. A bioregional unit that cannot be converted into the external unit of account resists being re-read through the M-form ladder. Once a commons asset becomes fungible, the price filter takes over rung two again.
 

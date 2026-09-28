@@ -19,7 +19,7 @@ The +M form's coordination grammar recognizes economic contribution through a si
 
 The term "unrecognized contribution" reframes the same activity from within +E grammar. The work is real. The ecological and social outcomes are measurable. What is absent is a coordination substrate that makes the work legible to the wider economy and compensates it in a unit the contributor can use. The work is not unproductive. It is unrecognized.
 
-The reframing carries a design implication. If the problem is unemployment, the solution is job creation: move the person into the +M circuit. If the problem is unrecognized contribution, the solution is substrate construction: build a [[coordination-surface|coordination surface]] that makes the existing work visible and compensates it through a bioregional unit of account. The two solutions are complementary (see [[concepts/obligation-and-invitation|Obligation and Invitation]]), but they begin from different premises and produce different institutional outcomes.
+The reframing carries a design implication. If the problem is unemployment, the solution is job creation: move the person into the +M circuit. If the problem is unrecognized contribution, the solution is substrate construction: build a [[concepts/coordination-surface|coordination surface]] that makes the existing work visible and compensates it through a bioregional unit of account. The two solutions are complementary (see [[concepts/obligation-and-invitation|Obligation and Invitation]]), but they begin from different premises and produce different institutional outcomes.
 
 ## What counts as unrecognized contribution
 
@@ -44,7 +44,7 @@ The reframing connects directly to the [[needed-vs-needy|needed versus needy]] d
 
 - [[unemployment|Unemployment]]
 - [[coordination-grammar|Coordination Grammar]]
-- [[coordination-surface|Coordination Surface]]
+- [[concepts/coordination-surface|Coordination Surface]]
 - [[e-form-emergent|E form (Emergent)]]
 - [[m-form-market|M form (Market)]]
 - [[needed-vs-needy|Needed versus Needy]]

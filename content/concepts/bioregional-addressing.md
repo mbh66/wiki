@@ -3,31 +3,31 @@ title: "Bioregional Addressing"
 aliases: ["bioregional addressing", "biospheric addressing", "address by bioregion"]
 tags: ["concept", "coordination", "bioregion", "e-form", "addressing"]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-28
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-Every coordination architecture chooses a primary addressing unit, and the choice carries the architecture's assumptions about who counts as a coordinating actor. The [[economy|Economy]] uses the nation-state. Every phone number, tax ID, currency, and legal jurisdiction pins its identifier to a country code first. The BioConomy uses the [[bioregion|BioRegion]]. Every [[biohub|BioHub]] wiki address, currency, service catalogue, and coordination surface pins its identifier to a bioregion code first.
+Every coordination architecture chooses a primary addressing unit, and the choice carries the architecture's assumptions about who counts as a coordinating actor. The [[economy|Economy]] uses the nation-state. Every phone number, tax ID, currency, and legal jurisdiction pins its identifier to a country code first. The BioConomy uses the [[bioregion|BioRegion]]. Every [[biohub|BioHub]] address, currency, service catalogue, and coordination surface pins its identifier to its place in the biosphere first.
 
 ## The addressing pattern
 
-A BioHub wiki lives at `{bioregion}-{slug}.bioconomy.earth`, where the bioregion code follows the One Earth Bioregions Framework (a two-letter realm prefix followed by a bioregion number) and the slug is a short name for the BioHub. The Valley of Grace BioHub in the Overberg publishes at `at12-vog.bioconomy.earth`. The Overberg BioRegion's coordinating entity publishes at `at12-overberg.bioconomy.earth`. The bioregion code sits at the front, and the BioHub identifier sits second. There is no country field.
+Every BioHub and BioRegion is registered in the [BioHubs directory](https://biohubs.bioconomy.earth) at an address of the form `biohubs.bioconomy.earth/{realm}/{code}-{name}`. The realm is one of the eight biogeographic realms. The code joins the two-letter realm prefix to the two-digit RESOLVE biome number, and the name is a short name for the BioHub or BioRegion. The Valley of Grace BioHub is registered at `biohubs.bioconomy.earth/afrotropic/at12-vog`, and the Overberg BioRegion that coordinates it at `biohubs.bioconomy.earth/afrotropic/at12-overberg`: `at` is the Afrotropic realm and `12` the Mediterranean Forests, Woodlands and Scrub biome. The address reads from the largest biogeographic unit down to the local one. There is no country field.
 
-The absence is deliberate. Country codes are the addressing layer of the [[economy|Economy]] and inherit its assumptions: that a bounded territorial polity is the primary unit of coordination, that a passport determines who can act, that a border decides where a service ends. None of those hold in the [[e-form-emergent|E form]]. A watershed does not stop at a border. A coordination surface published on a BioHub wiki is read by peers on other continents in the same reading action a same-country peer reads it.
+The absence is deliberate. Country codes are the addressing layer of the [[economy|Economy]] and inherit its assumptions: that a bounded territorial polity is the primary unit of coordination, that a passport determines who can act, that a border decides where a service ends. None of those hold in the [[e-form-emergent|E form]]. A watershed does not stop at a border. A coordination surface published in the directory is read by peers on other continents in the same reading action a same-country peer reads it.
 
 ## Why the choice matters
 
-The address a coordination architecture publishes is one of the traces the [[concepts/stigmergy|stigmergic]] pattern reads. When a coordinator arrives at `at12-vog.bioconomy.earth` and finds a bioregion code at the front and no country segment at all, the address itself says what the wiki is doing: coordinating at the scale of the living landscape the bioregion names, above the scale of the political jurisdiction that happens to contain that landscape today. When the same coordinator arrives at `za-at12-vog.bioconomy.earth`, the address says something different: this BioHub coordinates within a national frame, and the national frame is the primary sort. The pattern reproduces the coordination logic of the Economy inside the E form.
+The address a coordination architecture publishes is one of the traces the [[concepts/stigmergy|stigmergic]] pattern reads. When a coordinator arrives at `biohubs.bioconomy.earth/afrotropic/at12-vog` and finds a realm and a biome ahead of the BioHub's name and no country segment at all, the address itself says what the BioHub is doing: coordinating at the scale of the living landscape the code names, above the scale of the political jurisdiction that happens to contain that landscape today. When the same coordinator arrives at `biohubs.bioconomy.earth/za/at12-vog`, the address says something different: this BioHub coordinates within a national frame, and the national frame is the primary sort. The pattern reproduces the coordination logic of the Economy inside the E form.
 
 The [[concepts/substrate-hypothesis|Substrate Hypothesis]] applies here as it applies everywhere. Coordination is a property of the substrate. Address is part of the substrate. An address that leads with a country code invites the coordination behavior countries expect. An address that leads with a bioregion code invites the coordination behavior the biosphere expects.
 
 ## What the addressing scheme actually holds
 
-The One Earth Bioregions Framework carries eight biogeographic realms and 185 bioregions grouped from 847 ecoregions in the RESOLVE Ecoregions 2017 dataset. The scheme derives from vegetation type, climate zone, evolutionary history, and biogeographic distribution. Borders play no role in the boundary lines. Where a bioregion crosses a national border (the Great Karoo, the Congo Basin, the Amazon), the addressing scheme treats the bioregion as one unit and lets the geopolitical layer sort itself out at the layer where geopolitical concerns belong.
+The RESOLVE Ecoregions 2017 dataset maps 847 ecoregions across eight biogeographic realms and 14 biomes, drawn from vegetation type, climate zone, evolutionary history, and biogeographic distribution. Borders play no role in the boundary lines. The address code is the first layer of the dataset's own identifiers: the Overberg's ecoregions carry IDs such as `AT1202`, whose first four characters are the code `at12`. A BioRegion's home page in the directory lists the ecoregions it covers. The One Earth Bioregions Framework groups the same ecoregions into 185 bioregions; the address uses the RESOLVE realm and biome directly. Where a bioregion crosses a national border (the Great Karoo, the Congo Basin, the Amazon), the addressing scheme treats the bioregion as one unit and lets the geopolitical layer sort itself out at the layer where geopolitical concerns belong.
 
-Where only one BioHub exists in a bioregion, the slug can be omitted: `at12.bioconomy.earth`. Add the slug when a second BioHub registers in the same bioregion. Where a bioregion coordinates multiple BioHubs, the bioregion-level entity itself publishes a wiki at `{bioregion}-{region-name}.bioconomy.earth`, as the Overberg does at `at12-overberg.bioconomy.earth`.
+Every address carries a name. Many BioHubs will share a realm and biome, and the name is what tells them apart: `at12-vog` and `at12-overberg` share the code `at12`. A BioRegion that coordinates several BioHubs is registered alongside them under the same realm, as the Overberg is at `afrotropic/at12-overberg`, and its page lists the BioHubs it coordinates.
 
 ## What the choice rules out and what it enables
 
@@ -50,8 +50,9 @@ Bioregional addressing extends past URLs. Currency codes (ZA-FiCom is a first-ge
 - [[bioregion|BioRegion]]
 - [[biohub|BioHub]]
 - [[biostack|BioStack]]
-- [[coordination-surface|Coordination Surface]]
+- [[concepts/coordination-surface|Coordination Surface]]
 - [[wiki-network/index|Wiki Network]]
+- [BioHubs Directory](https://biohubs.bioconomy.earth)
 
 ## Sources
 
@@ -63,13 +64,15 @@ Bioregional addressing extends past URLs. Currency codes (ZA-FiCom is a first-ge
 
 Written 4 September 2026 as the concept-level treatment of the BioConomy's addressing scheme and its rejection of country-code prefixes. Names the addressing choice as substrate design: the address itself carries the coordination logic the architecture wants to instill. Companion to the naming-convention update in [[essays/how-to-build-a-biohub-wiki|How to Build a BioHub Wiki]] made on the same date. The concept was named to give the habit somewhere to sit in the corpus so subsequent addressing decisions (currencies, credentials, service catalogues) can cite the same rationale.
 
+Revised 28 September 2026. All BioHubs and BioRegions are now registered in the BioHubs directory at `biohubs.bioconomy.earth`. The addressing pattern moved from per-BioHub subdomains (`{bioregion}-{slug}.bioconomy.earth`) to paths in the directory (`/{realm}/{code}-{name}`), the code now uses the RESOLVE biome number in place of the One Earth bioregion number, and the rule allowing a code without a name was dropped. The argument for leaving out the country field is unchanged.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "@id": "https://wiki.bioconomy.earth/concepts/bioregional-addressing/",
   "name": "Bioregional Addressing",
-  "description": "Every coordination architecture chooses a primary addressing unit, and the choice carries the architecture's assumptions about who counts as a coordinating actor. The Economy uses the nation-state. Every phone number, tax ID, currency, and legal jurisdiction pins its identifier to a country code first. The BioConomy uses the BioRegion. Every BioHub wiki address, currency, service catalogue, and coordination surface pins its identifier to a bioregion code first.",
+  "description": "Every coordination architecture chooses a primary addressing unit, and the choice carries the architecture's assumptions about who counts as a coordinating actor. The Economy uses the nation-state. Every phone number, tax ID, currency, and legal jurisdiction pins its identifier to a country code first. The BioConomy uses the BioRegion. Every BioHub address, currency, service catalogue, and coordination surface pins its identifier to its place in the biosphere first.",
   "termCode": "bioregional-addressing",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",

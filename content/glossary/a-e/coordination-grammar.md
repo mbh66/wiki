@@ -17,7 +17,7 @@ The set of foundational assumptions a coordination form trains its participants 
 
 The +[[m-form-market|M form]]'s coordination grammar has been the dominant economic language for three centuries. Its core assumptions include: currency demand is created by obligation (the tax mechanism described by [[modern-monetary-theory|MMT]]); value is measured by what flows through the system (throughput); coordination happens through price signals; and economic standing begins with employment. These assumptions are operationally correct within the +M domain. They produced the most powerful coordination system in human history.
 
-The +[[e-form-emergent|E form]] requires a different grammar. Currency demand is created by access to goods and services that exist only within the bioregional [[coordination-surface|coordination surface]]. Value is measured by what stays: soil, water, biodiversity, and community capacity. Coordination happens through published traces in a shared knowledge medium ([[stigmergy|stigmergy]]). Economic standing begins with participation in place-based stewardship. These assumptions are not corrections of +M grammar. They are a second coordinate system operating alongside the first.
+The +[[e-form-emergent|E form]] requires a different grammar. Currency demand is created by access to goods and services that exist only within the bioregional [[concepts/coordination-surface|coordination surface]]. Value is measured by what stays: soil, water, biodiversity, and community capacity. Coordination happens through published traces in a shared knowledge medium ([[stigmergy|stigmergy]]). Economic standing begins with participation in place-based stewardship. These assumptions are not corrections of +M grammar. They are a second coordinate system operating alongside the first.
 
 The distinction matters because professionals trained in +M grammar will find +E-form proposals counterintuitive, and the resistance is conceptual, not legal. The architecture of the [[concepts/obligation-and-invitation|Obligation and Invitation]] concept operates within every existing legal framework. What it requires is a vocabulary that the +M form's intellectual tradition does not supply: a way of thinking about currency demand that does not begin with obligation, about coordination that does not begin with price, and about economic standing that does not begin with employment.
 
@@ -29,7 +29,7 @@ The concept is developed at length in [[concepts/coordination-grammar|Coordinati
 - [[time|TIME Framework]]
 - [[e-form-emergent|E form (Emergent)]]
 - [[m-form-market|M form (Market)]]
-- [[coordination-surface|Coordination Surface]]
+- [[concepts/coordination-surface|Coordination Surface]]
 - [[concepts/cheapest-available-behavior|Cheapest Available Behavior]]
 
 ## Related pages
