@@ -1,15 +1,18 @@
 ---
 title: "BioRegion Establishment Template"
+description: "The second template in the founding suite. A BioHub cohort establishes its BioRegion: boundaries, ecological and cultural profiles, the coordination bodies within it and the principles of coordination."
 aliases: ["bioregion template", "bioregion establishment"]
 tags: ["template", "founding-suite", "bioregion"]
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-30
 source_project: "VoG as Patron Project Prototype"
 source_documents: ["BioRegion_Establishment_Template.md"]
 epistemic_status: "documented-framework"
 ---
 
 The second template in the [[templates/index|founding suite]]. Establishes the [[bioregion|BioRegion]] within which the [[biohub|BioHub]] operates: its boundaries, its ecological and cultural profiles, the coordination bodies active within it, and the governance principles under which coordination happens. Produces three outputs: the BioRegion Definition, the BioRegion Atlas, and the BioRegion Charter.
+
+The full prompt text is on [[templates/bioregion-establishment-template-prompts|BioRegion Establishment Template: Prompts]].
 
 ## Overview
 
@@ -86,6 +89,7 @@ Once the BioRegion Definition is produced, update Section 8 of the Identity Stat
 
 ## Related pages
 
+- [[templates/bioregion-establishment-template-prompts|BioRegion Establishment Template: Prompts]]
 - [[templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
@@ -109,3 +113,5 @@ Once the BioRegion Definition is produced, update Section 8 of the Identity Stat
 ## Provenance
 
 Extracted from *BioRegion Establishment Template* v0.2 (August 22, 2026) in the VoG as Patron Project Prototype knowledge base. Full prompt text, output specifications, evidentiary discipline (IC / MS / TBV tagging), constraints, and flags remain in the source document. This page presents the shape of the template, its position in the suite, the cohort work it requires, and the three documents it produces, in a form legible to a coordinator arriving at the wiki without prior context.
+
+Updated 30 September 2026 to link the published prompt text, [[templates/bioregion-establishment-template-prompts|BioRegion Establishment Template: Prompts]].

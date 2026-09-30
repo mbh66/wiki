@@ -1,9 +1,10 @@
 ---
 title: "How to Build a BioHub Wiki"
+description: "How a BioHub publishes its local knowledge in the BioHubs directory: the layout, the conventions that make BioHub wikis interoperable, and the reading pattern an AI agent follows."
 aliases: ["biohub wiki", "building a biohub wiki", "biohub wiki layout"]
 tags: ["essay", "orientation", "biohub", "coordination", "wiki"]
 created: 2026-08-30
-updated: 2026-09-28
+updated: 2026-09-30
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -21,13 +22,15 @@ This is [[glossary/m-s/mycelial-coordination|mycelial coordination]] made operat
 
 ## What the wiki publishes
 
-The wiki publishes the outputs of the [[templates/index|four-template founding suite]], organized for both human navigation and machine parsing. It assumes the founding suite has been completed and the nine establishment outputs exist. The content falls into eight areas.
+The wiki publishes the outputs of the [[templates/index|five-template founding suite]], organized for both human navigation and machine parsing. It assumes the founding suite has been completed and the nine establishment outputs exist. The content falls into nine areas.
 
 **Identity.** The three outputs of the [[templates/biohub-identity-template|BioHub Identity Template]]: the [[identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[founding-compact|Founding Compact]]. These tell a peer BioHub who you are, what intellectual lineage you draw on, how your cohort is governed, and what patronage architecture funds the work.
 
 **BioRegion.** The three outputs of the [[templates/bioregion-establishment-template|BioRegion Establishment Template]]: the BioRegion Definition, the BioRegion Atlas (broken into biodiversity, climate, cultural heritage, economic, geology and soils, hydrology, invasive species, jurisdictional, and restoration baseline profiles), and the BioRegion Charter. These tell a peer BioHub where you work, what the living system contains, and what governance principles your coordination operates under. They sit in the BioRegion's own folder in the directory, which the BioHubs in that BioRegion share.
 
 **Services.** The six-service [[tenderable-services-portfolio|Tenderable Services Portfolio]] from the [[templates/value-proposition-template|BioConomy Value Proposition Template]], with the Value Proposition Statement and the [[tender-compact|Tender Compact]]. Each service page carries its [[readiness-diagnostic|readiness status]], its [[retention-economics|retention]] logic, its monitoring and verification methodology, and its [[gap-register|gap register]] entries. These are the pages a peer BioHub's AI agent reads most closely, because they are where complementary capabilities surface.
+
+**Mandate.** The three outputs of the [[templates/place-mandate-template|Place Mandate Template]]: the [[place-mandate|Place Mandate]], the [[twenty-year-value-ledger|Twenty-Year Value Ledger]], and the [[terms-of-engagement|Terms of Engagement]]. These tell a peer BioHub, a public body or a buyer what the place has set itself to do over twenty years and the terms on which it engages. Costings or other parts of the Ledger the cohort does not want public stay in the BioHub's private folder.
 
 **Alignments.** One subfolder per financial instrument the BioHub has run the [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] against. Each subfolder holds the [[alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[alignment-compact|Alignment Compact]]. Where two BioHubs target subsequent tranches of the same instrument series, their alignment pages are where joint coordination begins.
 
@@ -55,6 +58,7 @@ A BioHub's folder:
 ├── policy-alignments.md        Frameworks mapped to the BioHub's work (optional)
 ├── identity/                   Identity Statement, Field Positioning, Founding Compact
 ├── services/                   Six service pages + Value Proposition + Tender Compact
+├── mandate/                    Place Mandate, Value Ledger, Terms of Engagement
 ├── alignments/                 One subfolder per instrument
 ├── cohort/                     Founding cohort and current participants
 ├── partners/                   Implementation partners, verification agents, peer BioHubs
@@ -213,7 +217,7 @@ If you are comfortable with Git and Node.js, skip to the command summary below. 
 > ```
 >
 > **3. Create my BioHub's folder.**
-> Create `content/MY-REALM/MY-CODE-MY-NAME/` with this structure: `index.md`, `llms.txt`, `coordination-surface.md`, and the folders `identity/`, `services/`, `alignments/`, `cohort/`, `partners/`, `entities/`, `research/`, `data/`, `journal/` and `sources/`, each with an `index.md`. Use `content/afrotropic/at12-vog/` as the model for each page's frontmatter keys (`title`, `type`, `description`), but do not copy its content. Every page I have not written yet gets `status: placeholder` in its frontmatter. If my BioRegion is not yet registered in the directory, also create its folder in `content/MY-REALM/` with the BioRegion structure: `index.md`, `llms.txt`, `definition.md`, `charter.md`, `coordination-surface.md`, and the folders `atlas/`, `biohubs/`, `policy/`, `data/`, `journal/` and `sources/`, using `content/afrotropic/at12-overberg/` as the model.
+> Create `content/MY-REALM/MY-CODE-MY-NAME/` with this structure: `index.md`, `llms.txt`, `coordination-surface.md`, and the folders `identity/`, `services/`, `mandate/`, `alignments/`, `cohort/`, `partners/`, `entities/`, `research/`, `data/`, `journal/` and `sources/`, each with an `index.md`. Use `content/afrotropic/at12-vog/` as the model for each page's frontmatter keys (`title`, `type`, `description`), but do not copy its content. Every page I have not written yet gets `status: placeholder` in its frontmatter. If my BioRegion is not yet registered in the directory, also create its folder in `content/MY-REALM/` with the BioRegion structure: `index.md`, `llms.txt`, `definition.md`, `charter.md`, `coordination-surface.md`, and the folders `atlas/`, `biohubs/`, `policy/`, `data/`, `journal/` and `sources/`, using `content/afrotropic/at12-overberg/` as the model.
 >
 > **4. List my BioHub.**
 > Add my BioHub to `content/MY-REALM/index.md`. If my BioRegion is already registered in the directory, add it to that BioRegion's `biohubs/` folder as well.
@@ -257,7 +261,7 @@ git push -u origin add-YOUR-CODE-YOUR-NAME
 
 ### Populating the wiki
 
-Write the home page and `llms.txt` from the Identity Statement. Populate the identity folder from the three Identity outputs. Populate the BioRegion folder from the three BioRegion outputs, breaking the Atlas into the nine profile pages. Populate the services folder from the Value Proposition Statement, Evidence Pack, and Tender Compact. Populate the alignments folder from each Alignment run's three outputs.
+Write the home page and `llms.txt` from the Identity Statement. Populate the identity folder from the three Identity outputs. Populate the BioRegion folder from the three BioRegion outputs, breaking the Atlas into the nine profile pages. Populate the services folder from the Value Proposition Statement, Evidence Pack, and Tender Compact. Populate the mandate folder from the Place Mandate, the Value Ledger and the Terms of Engagement. Populate the alignments folder from each Alignment run's three outputs.
 
 Build the policy index in the BioRegion's `policy/` folder by extracting every government framework referenced across the outputs and organising them by jurisdiction and domain. Populate the data pages from the monitoring and verification sections of the Atlas and Alignment Evidence Packs. Populate the cohort and partners pages from the Founding Compact and Alignment Compact. Populate the entities folder by extracting every named institutional party from the identity, alignment, policy, and historical pages, and writing a factual reference page for each.
 
@@ -313,6 +317,8 @@ Revised 3 September 2026. The Getting Started section now includes a subdomain n
 Revised 5 September 2026. Added an Entities folder to the wiki layout, described in the What the Wiki Publishes and Populating the Wiki sections and shown in the folder structure. Added `entity` to the shared page-type vocabulary. Rationale: BioHubs operate inside institutional environments where municipalities, government departments, church bodies, consultancies, and community organizations are named repeatedly across the historical record and the current coordination context. A factual reference page for each such party lets a human coordinator and a peer BioHub's AI agent disambiguate acronyms and trace institutional continuity without having to reconstruct context from prose. Added a second Entities paragraph specifying the line between Entities and Partners as physical domicile inside the BioRegion, with the entities folder holding pages for parties domiciled inside and the partners folder holding pages for parties domiciled elsewhere.
 
 Revised 4 September 2026. Removed ISO country codes from the subdomain naming convention. The scheme is now `{bioregion}-{slug}.bioconomy.earth`. Rationale: country codes belong to the addressing layer of the Economy. The BioConomy anchors its addressing to the biosphere. Added a paragraph explaining the choice and linking to the new [[concepts/bioregional-addressing|Bioregional Addressing]] concept page. Updated examples throughout to the country-free form (`at12-vog`, `at10-laikipia`, `nt1-xingu`). The Cape Shrublands bioregion example was updated to `at12` to match the codes in use across the current wiki network.
+
+Updated 30 September 2026 for the five-template founding suite: a Mandate area and a `mandate/` folder added to the layout.
 
 <script type="application/ld+json">
 {

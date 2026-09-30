@@ -1,5 +1,6 @@
 ---
 title: How to Navigate the BioConomy Wiki
+description: "The wiki's landing page: the BioConomy framework in brief and the three ways in, through the orientation essays, the AI quick-engage prompts and the founding suite of templates."
 aliases:
   - home
   - landing page
@@ -8,7 +9,7 @@ tags:
   - landing
   - orientation
 created: 2026-08-24
-updated: 2026-08-27
+updated: 2026-09-30
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-framework
@@ -45,7 +46,7 @@ Alternatively, simply point your AI chatbot at https://wiki.bioconomy.earth/llms
 
 ### 3. AI Deep dive
 
-If you're already familiar with this vocabulary and want to apply the BioConomy framework in your own bioregion, the four-template [[templates/index|founding suite]] is where the wiki becomes immediately practically useful to you. The templates and AI prompts suggest ways in which careholders in your bioregion can be more effectively coordinated. The essay, [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]], explains the theory behind the practice.
+If you're already familiar with this vocabulary and want to apply the BioConomy framework in your own bioregion, the five-template [[templates/index|founding suite]] is where the wiki becomes immediately practically useful to you. The templates and AI prompts suggest ways in which careholders in your bioregion can be more effectively coordinated. The essay, [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]], explains the theory behind the practice.
 
 ## Wiki structure
 
@@ -61,7 +62,7 @@ The navigation on your left allows you to jump directly into whatever area of in
 | **[[sources/index\|Sources]]**            | The books, papers, and external works cited across the wiki, each with a short note on what the work argues and why it matters here.                                                                                 |
 | **[[funding/index\|Funding Sources]]**    | Instead of a traditional grant database, this page lists organizations, programs, and funds whose grant-making or investment mandates overlap with the BioConomy's coordination architecture.                        |
 | **[[people/index\|People]]**              | The thinkers, practitioners, and collaborators whose work feeds the BioConomy corpus.                                                                                                                                |
-| **[[templates/index\|Templates]]**        | The four-template founding suite for a BioHub cohort. Each template is a three-prompt sequence run with a deep research AI platform, with cohort review between prompts.                                             |
+| **[[templates/index\|Templates]]**        | The five-template founding suite for a BioHub cohort. Each template is a three-prompt sequence run with a deep research AI platform, with cohort review between prompts.                                             |
 | **[[tools/index\|Tools]]**                |                                                                                                                                                                                                                      |
 | **[[wiki-network/index\|Wiki Network]]**  | Peer BioHub wikis that publish the coordination-surface layout convention and are readable by the stigmergic coordination pattern the corpus describes. The starting point for reading the network (still emerging). |
 | **[[wiki-related/index\|Related Wikis]]** | Open knowledge commons whose scope overlaps the BioConomy corpus.                                                                                                                                                    |
@@ -70,13 +71,15 @@ The navigation on your left allows you to jump directly into whatever area of in
 
 Written 24 August 2026 as the wiki's landing page. Updated 8 September 2026 to add Funding Sources. Updated 27 August 2026 to add the three-way engagement structure (Orientation, AI Quick-Engage, AI Deep Dive), to replace the AI Quick-engage paragraph with a pointer to the new [[essays/ai-quick-engage|AI Quick-Engage]] essay, to add the fourth orientation essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]], to link each folder name in the wiki-structure table to its newly-created landing page, and to add frontmatter properties and this Provenance section.
 
+Updated 30 September 2026 for the five-template founding suite.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "@id": "https://wiki.bioconomy.earth/engage/",
   "name": "How to Navigate the BioConomy Wiki",
-  "description": "The BioConomy wiki's landing page, documenting three engagement paths: orientation essays, AI quick-engage prompts, and the four-template founding suite for bioregional coordinators.",
+  "description": "The BioConomy wiki's landing page, documenting three engagement paths: orientation essays, AI quick-engage prompts, and the five-template founding suite for bioregional coordinators.",
   "author": {
     "@type": "Person",
     "name": "Michael Haupt"

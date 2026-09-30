@@ -1,9 +1,10 @@
 ---
 title: "Running a Template"
+description: "The shared mechanics of every template in the founding suite: the three-prompt sequence, the cohort work between prompts, cross-platform notes, evidence tagging and the three-document output pattern."
 aliases: ["template mechanics", "how to run a template"]
 tags: ["template", "reference", "founding-suite"]
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-30
 source_project: "VoG as Patron Project Prototype"
 source_documents: ["BioHub_Identity_Template.md", "BioRegion_Establishment_Template.md", "BioConomy_Value_Proposition_Template.md", "Bankable_Service_Alignment_Template_v0_1.md"]
 epistemic_status: "documented-framework"
@@ -17,7 +18,7 @@ A template in this suite is a structured three-prompt sequence for use with a de
 
 The AI does the research and drafts the documents. The cohort makes the selections, resolves the tensions, and holds the commitments. The template is the coordination instrument that keeps the two in phase.
 
-Every template in the suite produces three final documents in Prompt 3: a short formal Statement or Definition, a long referential Evidence Pack or Atlas, and a short co-signed Compact or Charter. Reader learns the pattern once and recognizes it across all four templates.
+Every template in the suite produces three final documents in Prompt 3: a short formal Statement or Definition, a long referential Evidence Pack or Atlas, and a short co-signed Compact or Charter. Reader learns the pattern once and recognizes it across all five templates.
 
 ## Prerequisites
 
@@ -42,6 +43,8 @@ The cohort work cannot be delegated to the AI. Three reasons:
 **The AI does not have the relationships the resolutions depend on.** Ecological-cultural reconciliation where indigenous or first-nation authority is involved depends on consent work the cohort does with the authorities concerned. Multi-BioHub coordination depends on relationships the cohort holds with adjacent BioHubs. Neither is delegable.
 
 The cohort work operates under the decision-making forms established in the Founding Compact. Where the cohort does not yet have the standing or the relationships to resolve a tension, the template's Prompt 3 is paused until the necessary work is done.
+
+The [[templates/place-mandate-template|Place Mandate Template]] adds a step before its first prompt. In Step 0 the cohort gathers the [[place-knowledge-brief|Place Knowledge Brief]] from the place's own people, without any AI, and the place's ratifying authorities accept it. That template's prompts may organize, evidence, value and cost the Brief's list of things that need doing, and may not add to it.
 
 The between-prompt work is often the longest part of the template. The AI's prompts run in minutes. The cohort's review may take days or weeks. This is a feature, not a delay.
 
@@ -91,7 +94,7 @@ Each document ends when its content ends. No closing summary. No restatement of 
 
 ## Handoff between templates
 
-The nine outputs of the three establishment templates are prerequisite inputs to the fourth. Attach all nine (alongside the target instrument documentation) to the first prompt of the Bankable Service Alignment Template.
+The nine outputs of the three establishment templates are prerequisite inputs to the fourth, the Place Mandate Template, together with the Place Knowledge Brief. The three Place Mandate outputs join the nine as prerequisite inputs to the fifth. Attach all twelve (alongside the target instrument documentation) to the first prompt of the Bankable Service Alignment Template.
 
 Within the establishment suite, each template's outputs feed the next. The BioRegion Establishment Template inherits the anchor location, cohort structure, and purpose statement from the [[identity-statement|Identity Statement]]; the global BioHub field baseline, intellectual lineage, and adjacent BioHubs from the Field and Lineage Positioning; and the cohort structure, decision-making forms, multi-BioHub coordination protocols, and custodial and consent principles from the Founding Compact. The [[bioconomy|BioConomy]] Value Proposition Template inherits from all six preceding outputs.
 
@@ -99,7 +102,7 @@ Preserve the vocabulary and conventions established across the suite. Where a te
 
 ## The three-layer coordination stack
 
-Once all four templates have been run, the BioHub sits inside a three-layer coordination stack. The [[founding-compact|Founding Compact]] governs BioHub-level coordination. The BioRegion Charter governs BioRegion-level coordination. The [[tender-compact|Tender Compact]] and (where the fourth template has run) the [[alignment-compact|Alignment Compact]] govern tender-level coordination.
+Once all five templates have been run, the BioHub sits inside a three-layer coordination stack. The [[founding-compact|Founding Compact]] governs BioHub-level coordination. The BioRegion Charter governs BioRegion-level coordination. The [[tender-compact|Tender Compact]] and (where the fifth template has run) the [[alignment-compact|Alignment Compact]] govern tender-level coordination. The [[terms-of-engagement|Terms of Engagement]] sit across the stack and face outward: they govern how any outside party engages with the BioHub at every layer, and no Compact or Charter may contradict them.
 
 The three layers should be internally consistent and cross-referenced. The Charter refines the Founding Compact's multi-BioHub protocols. The Tender Compact refines the Charter's multi-BioHub coordination for tender-specific purposes. The Alignment Compact refines the Tender Compact's provisions for instrument-specific readiness.
 
@@ -109,6 +112,7 @@ The three layers should be internally consistent and cross-referenced. The Chart
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
+- [[templates/place-mandate-template|Place Mandate Template]]
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[the-nine-outputs|The Nine Outputs]]
 - [[using-templates-across-biohubs|Using Templates Across BioHubs]]
@@ -120,3 +124,5 @@ The three layers should be internally consistent and cross-referenced. The Chart
 ## Provenance
 
 Extracted from the four template documents in the VoG as Patron Project Prototype knowledge base. The mechanics documented here appear in each template's own Sequencing, Cross-Platform Notes, Evidentiary Discipline, and Constraints sections. This page lifts the shared material out of the individual template pages so a reader learns the mechanics once and can then read each template page for what is specific to it.
+
+Updated 30 September 2026 for the five-template suite: Step 0 of the [[templates/place-mandate-template|Place Mandate Template]], the new handoff, and the place of the Terms of Engagement in the coordination stack.

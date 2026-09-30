@@ -1,9 +1,10 @@
 ---
 title: "What Is a BioConomy"
+description: "An orientation to the BioConomy: the economic system that emerges when bioregions coordinate their productive activity around renewable biological resources, ecological restoration and the carrying capacity of their landscapes."
 aliases: ["what is a bioconomy", "bioconomy orientation", "bioconomy vs economy"]
 tags: ["essay", "orientation", "bioconomy", "core-framework"]
 created: 2026-08-26
-updated: 2026-08-27
+updated: 2026-09-30
 source_project: "BioConomy"
 source_documents: ["bioconomy.md", "bioconomy-developmental-arc.md", "retention-logic.md", "bioregional-economics.md", "s-curve-thesis.md"]
 epistemic_status: "documented-framework"
@@ -87,7 +88,7 @@ Four bodies of work carry the economic architecture a functioning BioConomy draw
 
 The BioConomy is not yet a fully instantiated system anywhere on earth. It is legible in patches: the Basque cooperative federation around Mondragón, the water-fund economics of the Greater Cape Town Water Fund, the SEKEM initiative in Egypt, the Grassroots Economics protocols in East Africa, the cooperative production networks in Emilia-Romagna, the resource-nationalist programs in the Sahel gathered around [[traore-ibrahim|Ibrahim Traoré]] since 2022, and the 152-initiative field mapped by [[gladek-eva|Eva Gladek]] and colleagues at Metabolic in mid-2026.
 
-Each of these is a partial instantiation. None yet holds the full BioStack (BioHub, BioRegion, BioConomy) as an integrated architecture. The current period is when the pieces begin to be assembled into working wholes. The [[templates/index|four-template founding suite]] this wiki carries is one attempt at making the assembly reproducible.
+Each of these is a partial instantiation. None yet holds the full BioStack (BioHub, BioRegion, BioConomy) as an integrated architecture. The current period is when the pieces begin to be assembled into working wholes. The [[templates/index|five-template founding suite]] this wiki carries is one attempt at making the assembly reproducible.
 
 ## Related pages
 
@@ -128,6 +129,8 @@ Each of these is a partial instantiation. None yet holds the full BioStack (BioH
 Written as the third of three orientation essays commissioned by the wiki's engagement pathway. Absorbs the "Why?" and "Why Now?" material from `index.md` (which the home-page rewrite removes) and extends it with the BioConomy-Economy contrast, the retention-tradition inheritance, and the four dimensions the BioConomy adds to the historical tradition. Draws on `concepts/bioregional-economics.md` for the Two Machines diagnosis and the needy-to-needed argument, `concepts/bioconomy-developmental-arc.md` for the historical arc and the four extensions, and `concepts/retention-logic.md` for the retention framing.
 
 Updated 27 August 2026 to align the four-dimensions section and the needy-to-needed passage with the bioregion / BioRegion case-sensitive convention (the unit of coordination and the needed-by-society form are both the BioRegion), and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
+
+Updated 30 September 2026 for the five-template founding suite.
 
 <script type="application/ld+json">
 {

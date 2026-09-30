@@ -1,9 +1,10 @@
 ---
 title: "BioConomy Value Proposition Template"
+description: "The third establishment template in the founding suite. Establishes what a BioHub tenders into markets, on what retention terms, and to which counterparties and participants."
 aliases: ["value proposition template", "bioconomy value proposition"]
 tags: ["template", "founding-suite", "value-proposition"]
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-30
 source_project: "VoG as Patron Project Prototype"
 source_documents: ["BioConomy_Value_Proposition_Template.md"]
 epistemic_status: "documented-framework"
@@ -11,13 +12,15 @@ epistemic_status: "documented-framework"
 
 The third and terminal establishment template in the [[templates/index|founding suite]]. Establishes what the [[biohub|BioHub]] tenders into markets, on what [[retention-logic|retention]] terms, to which counterparties and participants. Produces three outputs: the Value Proposition Statement, the Value Proposition Evidence Pack, and the [[tender-compact|Tender Compact]].
 
+The full prompt text is on [[templates/value-proposition-template-prompts|BioConomy Value Proposition Template: Prompts]].
+
 ## Overview
 
 A BioHub coordinates people, institutions, and economic actors within a [[bioregion|BioRegion]]. Coordination produces services the outside world will pay for: water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, and coordination-as-employment. The Value Proposition Template turns those services into a coherent, contractable offer.
 
 The template runs after the [[biohub-identity-template|BioHub Identity Template]] and the [[bioregion-establishment-template|BioRegion Establishment Template]]. It populates a six-panel canvas (the [[value-proposition-canvas-bioconomy|BioConomy Value Proposition Canvas]]) as the working structure that informs the Value Proposition Statement. Its three outputs inform the BioHub's downstream operational work: tender preparation, counterparty engagement, contract structuring, revenue disbursement, and outcome monitoring.
 
-Where the [[bankable-service-alignment-template|Bankable Service Alignment Template]] follows, this template is a prerequisite for it.
+It is a prerequisite for the [[templates/place-mandate-template|Place Mandate Template]], which follows it, and for the [[bankable-service-alignment-template|Bankable Service Alignment Template]].
 
 ## When to run this template
 
@@ -100,13 +103,17 @@ This is the third and terminal establishment template. The three outputs feed th
 
 **Participant onboarding and pool operation.** Founding Compact and Tender Compact together specify what participants receive and on what terms; Evidence Pack's Participant Portfolio supplies the operational detail.
 
-Where a specific financial instrument (a nature-linked [[performance-based-bond|performance-based bond]], a payment for ecosystem services mechanism, a biodiversity credit instrument, or comparable) is being targeted, the [[bankable-service-alignment-template|Bankable Service Alignment Template]] runs next. It maps the BioHub's retention services onto the instrument's architecture and produces the alignment documents the instrument's parties will read.
+The [[templates/place-mandate-template|Place Mandate Template]] runs next. It places the BioHub's offer on a twenty-year line, values it for public institutions as well as markets, and sets the Terms of Engagement against which every outside party is tested.
+
+Where a specific financial instrument (a nature-linked [[performance-based-bond|performance-based bond]], a payment for ecosystem services mechanism, a biodiversity credit instrument, or comparable) is being targeted, the [[bankable-service-alignment-template|Bankable Service Alignment Template]] runs after the Place Mandate Template. It maps the BioHub's retention services onto the instrument's architecture and produces the alignment documents the instrument's parties will read.
 
 ## Related pages
 
+- [[templates/value-proposition-template-prompts|BioConomy Value Proposition Template: Prompts]]
 - [[templates/index|The Templates]]
 - [[biohub-identity-template|BioHub Identity Template]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
+- [[templates/place-mandate-template|Place Mandate Template]]
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[running-a-template|Running a Template]]
 - [[retention-logic|Retention Logic]]
@@ -129,3 +136,7 @@ Where a specific financial instrument (a nature-linked [[performance-based-bond|
 ## Provenance
 
 Extracted from *BioConomy Value Proposition Template* v0.2 (August 22, 2026) in the VoG as Patron Project Prototype knowledge base. Full prompt text, output specifications, canvas panel definitions, evidentiary discipline (IC / MS / TBV tagging), constraints, and flags remain in the source document. This page presents the shape of the template, its position in the suite, the cohort work it requires, and the three documents it produces, in a form legible to a coordinator arriving at the wiki without prior context.
+
+Adjusted 30 September 2026 to point to the [[templates/place-mandate-template|Place Mandate Template]] as the next template in the suite.
+
+Updated 30 September 2026 to link the published prompt text, [[templates/value-proposition-template-prompts|BioConomy Value Proposition Template: Prompts]].

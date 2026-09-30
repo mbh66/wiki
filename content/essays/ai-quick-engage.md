@@ -1,19 +1,20 @@
 ---
 title: "AI Quick-Engage"
+description: "Four prompts a careholder can run through a deep-research AI for a fast read on where a bioregion leaks value into the Economy and where its first retention-linked revenue could come from."
 aliases: ["quick engage", "ai quick engage", "quick-engage prompts", "four prompts"]
 tags: ["essay", "orientation", "ai-engagement"]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-30
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
 ---
 
-Four prompts a careholder can run through a deep-research AI to see where their [[bioregion|bioregion]] still runs on the [[economy|Economy]] and where the shortest paths to funding [[retention-economics|retention]] work are. Written for someone who has read the orientation essays and wants a fast, useful answer before committing to the [[templates/index|four-template founding suite]].
+Four prompts a careholder can run through a deep-research AI to see where their [[bioregion|bioregion]] still runs on the [[economy|Economy]] and where the shortest paths to funding [[retention-economics|retention]] work are. Written for someone who has read the orientation essays and wants a fast, useful answer before committing to the [[templates/index|five-template founding suite]].
 
 ## Overview
 
-The four templates in the founding suite produce the documents a [[biohub|BioHub]] uses to establish itself. That work takes weeks. Before running it, a coordinator often needs a faster read: where does the bioregion currently leak value into the Economy, and where could it earn its first retention-linked revenue.
+The five templates in the founding suite produce the documents a [[biohub|BioHub]] uses to establish itself. That work takes weeks. Before running it, a coordinator often needs a faster read: where does the bioregion currently leak value into the Economy, and where could it earn its first retention-linked revenue.
 
 These four prompts produce that read in an afternoon. Attach the project documents you already hold. Planning documents, ecological or hydrological surveys, existing partnership summaries, cohort notes: anything that describes the bioregion in specific terms. Point the AI at https://wiki.bioconomy.earth. Run the prompts in order. Each prompt builds on the AI's answer to the previous one.
 
@@ -69,7 +70,7 @@ Attach the project documents once, at the start. The four prompts refer back to 
 
 Between prompts, read what the AI produced. Where an answer names something you know is wrong (a counterparty that has already refused an approach, an asset that no longer exists, a service the cohort has decided not to offer), tell the AI in your next prompt what it got wrong and ask it to redo the answer. The AI cannot know local ground truth that no public source describes.
 
-The answers to the four prompts are not a plan. They are the initial read. The [[templates/index|four-template founding suite]] is where a cohort converts that read into standing documents a BioHub can act on.
+The answers to the four prompts are not a plan. They are the initial read. The [[templates/index|five-template founding suite]] is where a cohort converts that read into standing documents a BioHub can act on.
 
 ## What this page is not
 
@@ -97,6 +98,8 @@ The answers to the four prompts are not a plan. They are the initial read. The [
 ## Provenance
 
 Written 27 August 2026 for the "AI Quick-engage" section of the wiki's index page. The four prompts are constructed from the wiki's existing operational vocabulary (retention logic, the tenderable services portfolio, the readiness diagnostic, and the [[glossary/t-z/transvestment|transvestment]] pathways) and from the corporate-partnerships-protected-areas research brief. The prompts have not yet been run against a real BioHub. The first coordinator to run them is invited to feed the outputs back so the phrasing can be tuned.
+
+Updated 30 September 2026 for the five-template founding suite.
 
 <script type="application/ld+json">
 {

@@ -1,15 +1,18 @@
 ---
 title: "BioHub Identity Template"
+description: "The first template in the founding suite. A founding cohort establishes its BioHub: name, cohort, entity form, patronage architecture, position in the field and governance."
 aliases: ["identity template", "biohub identity"]
 tags: ["template", "founding-suite", "biohub"]
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-30
 source_project: "VoG as Patron Project Prototype"
 source_documents: ["BioHub_Identity_Template.md"]
 epistemic_status: "documented-framework"
 ---
 
 The first template in the [[templates/index|founding suite]]. Establishes the [[biohub|BioHub]] itself: its name, its cohort, its entity form, its patronage architecture, its position in the emerging global field, its intellectual lineage, and its governance. Produces three outputs: the [[identity-statement|Identity Statement]], the Field and Lineage Positioning, and the [[founding-compact|Founding Compact]].
+
+The full prompt text is on [[templates/biohub-identity-template-prompts|BioHub Identity Template: Prompts]].
 
 ## Overview
 
@@ -84,6 +87,7 @@ Preserve the vocabulary and conventions established here across the suite.
 
 ## Related pages
 
+- [[templates/biohub-identity-template-prompts|BioHub Identity Template: Prompts]]
 - [[templates/index|The Templates]]
 - [[bioregion-establishment-template|BioRegion Establishment Template]]
 - [[value-proposition-template|BioConomy Value Proposition Template]]
@@ -109,3 +113,5 @@ Preserve the vocabulary and conventions established here across the suite.
 ## Provenance
 
 Extracted from *BioHub Identity Template* v0.2 (August 22, 2026) in the VoG as Patron Project Prototype knowledge base. Full prompt text, output specifications, evidentiary discipline (IC / MS / TBV tagging), constraints, and flags remain in the source document. This page presents the shape of the template, its position in the suite, the cohort work it requires, and the three documents it produces, in a form legible to a coordinator arriving at the wiki without prior context.
+
+Updated 30 September 2026 to link the published prompt text, [[templates/biohub-identity-template-prompts|BioHub Identity Template: Prompts]].

@@ -1,5 +1,6 @@
 ---
 title: What Is a BioHub
+description: "What a BioHub is: a coordination body anchored in a BioRegion that organizes the distributed contributions of its people and institutions into verifiable commitments the outside world can contract with."
 aliases:
   - getting started in a biohub
   - getting started
@@ -9,7 +10,7 @@ tags:
   - biohub
   - bioconomy
 created: 2026-09-01
-updated: 2026-09-10
+updated: 2026-09-30
 source_project: BioConomy
 source_documents:
   - Getting_Started_in_a_BioHub_Notion_Export
@@ -66,7 +67,7 @@ Two forms of intelligence are converging in bioregional work, and the relationsh
 
 ## Running this in your bioregion
 
-This wiki is a guide for establishing your own. The four-template [[templates/index|founding suite]] is where that guide sits. Start with [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]] for the bridge from the orientation above to the templates themselves.
+This wiki is a guide for establishing your own. The five-template [[templates/index|founding suite]] is where that guide sits. Start with [[essays/how-to-engage-your-bioregion|How to Engage Your Bioregion]] for the bridge from the orientation above to the templates themselves.
 
 ## Related pages
 
@@ -88,6 +89,8 @@ This wiki is a guide for establishing your own. The four-template [[templates/in
 ## Provenance
 
 Extracted from *Getting Started in a BioHub* (Notion export, September 2026). The personal note and Overberg-specific framing in the source have been trimmed for the international-audience wiki, per extraction instructions. Section headings preserve the source's organization; internal Notion links have been resolved to wikilinks against the current wiki structure or noted for future resolution.
+
+Updated 30 September 2026 for the five-template founding suite.
 
 <script type="application/ld+json">
 {

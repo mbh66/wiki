@@ -36,6 +36,7 @@ Core coordination and economic concepts. Key entries:
 - [Cosmo-Local Production](https://wiki.bioconomy.earth/concepts/cosmo-local-production): Share knowledge globally, produce regeneratively in place
 - [Carbon-Silicon Partnership](https://wiki.bioconomy.earth/concepts/carbon-silicon-partnership): Complementary relationship between computational and situated knowledge
 - [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes): Operational science of catchment restoration and soil hydrology
+- [Integrated Landscape Management](https://wiki.bioconomy.earth/concepts/integrated-landscape-management): Landscape partnerships, the five-element ILM process, 25 years of evidence, and how ILM fits with BioConomy finance
 - [The Coercion Continuum](https://wiki.bioconomy.earth/concepts/the-coercion-continuum): Five phases of monetary coercion from chattel slavery to property redefinition
 - [Transvestment](https://wiki.bioconomy.earth/concepts/transvestment): Value regime crossing between the Economy and the BioConomy
 - [Surveillance Capitalism](https://wiki.bioconomy.earth/concepts/surveillance-capitalism): Digital enclosure as the third future scenario
@@ -68,7 +69,13 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [BioHub Identity Template](https://wiki.bioconomy.earth/templates/biohub-identity-template): AI-assisted template for establishing a BioHub's identity and coordination mandate
 - [BioRegion Establishment Template](https://wiki.bioconomy.earth/templates/bioregion-establishment-template): AI-assisted template for defining a BioRegion's boundaries and governance
 - [BioConomy Value Proposition Template](https://wiki.bioconomy.earth/templates/value-proposition-template): AI-assisted template for articulating a BioRegion's value proposition
-- [Bankable Service Alignment Template](https://wiki.bioconomy.earth/templates/bankable-service-alignment-template): AI-assisted template for aligning services with fundable instruments
+- [Place Mandate Template](https://wiki.bioconomy.earth/templates/place-mandate-template): AI-assisted template for a BioHub's twenty-year concept note, value ledger and terms of engagement, starting from the place's own knowledge
+- [Bankable Service Alignment Template](https://wiki.bioconomy.earth/templates/bankable-service-alignment-template): AI-assisted template for testing instruments against a BioHub's terms and aligning services with them
+- [BioHub Identity Template: Prompts](https://wiki.bioconomy.earth/templates/biohub-identity-template-prompts): Full runnable prompt text for the BioHub Identity Template
+- [BioRegion Establishment Template: Prompts](https://wiki.bioconomy.earth/templates/bioregion-establishment-template-prompts): Full runnable prompt text for the BioRegion Establishment Template
+- [BioConomy Value Proposition Template: Prompts](https://wiki.bioconomy.earth/templates/value-proposition-template-prompts): Full runnable prompt text for the BioConomy Value Proposition Template
+- [Place Mandate Template: Prompts](https://wiki.bioconomy.earth/templates/place-mandate-template-prompts): Full runnable prompt text for the Place Mandate Template
+- [Bankable Service Alignment Template: Prompts](https://wiki.bioconomy.earth/templates/bankable-service-alignment-template-prompts): Full runnable prompt text for the Bankable Service Alignment Template
 - [Running a Template](https://wiki.bioconomy.earth/templates/running-a-template): How to use the three-prompt sequence with a deep-research AI platform
 - [The Nine Outputs](https://wiki.bioconomy.earth/templates/the-nine-outputs): The deliverables the founding suite produces
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions

@@ -1,9 +1,10 @@
 ---
 title: "From a Bioregion to a BioRegion"
+description: "The difference between a bioregion, which exists whether or not anyone coordinates around it, and a BioRegion, whose people have organized their coordination and its funding through the BioConomy framework."
 aliases: ["bioregion vs BioRegion", "bioregion or BioRegion", "the two bioregions", "when a bioregion becomes a BioRegion"]
 tags: ["essay", "orientation", "bioregion", "biohub", "bioconomy"]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-30
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -17,7 +18,7 @@ The wiki uses two ways of presenting the concept of a *bioregion* and they mean 
 
 Every geography on earth is part of one or more bioregions. The word describes an ecological-cultural coherence that exists whether or not anyone has named it. When water falls on a specific catchment, when a specific set of plant and animal communities occupies a specific soil profile, or when a specific set of human cultures has coevolved with that place over generations, the bioregion is already there. It doesn't require anyone's permission to exist.
 
-A BioRegion is a bioregion whose people have taken specific coordinating steps. The steps are described in the [[templates/index|four-template founding suite]] and result in a set of standing documents that name the boundary, articulate the shared commitment, hold the cohort together, and give external counterparties something to contract with. The BioRegion is the bioregion plus that layer of coordination.
+A BioRegion is a bioregion whose people have taken specific coordinating steps. The steps are described in the [[templates/index|five-template founding suite]] and result in a set of standing documents that name the boundary, articulate the shared commitment, hold the cohort together, and give external counterparties something to contract with. The BioRegion is the bioregion plus that layer of coordination.
 
 The distinction is functional and it changes what the region can accomplish.
 
@@ -71,7 +72,7 @@ None of these are failings. They describe the ordinary state of a bioregion whos
 
 If your region is a *bioregion* and you want to know whether the coordinating layer is worth building for it, the [[essays/ai-quick-engage|AI Quick-Engage]] prompts are the fastest way to see. They produce a diagnostic you can read in an afternoon.
 
-If the diagnostic read says the work is worth doing, the [[templates/index|four-template founding suite]] is where the *bioregion* becomes a *BioRegion*. The Identity Template convenes the cohort. The Establishment Template produces the boundary, the Atlas, and the Charter. The Value Proposition Template produces the tenderable services portfolio. The Bankable Service Alignment Template aligns the portfolio to a specific instrument.
+If the diagnostic read says the work is worth doing, the [[templates/index|five-template founding suite]] is where the *bioregion* becomes a *BioRegion*. The Identity Template convenes the cohort. The Establishment Template produces the boundary, the Atlas, and the Charter. The Value Proposition Template produces the tenderable services portfolio. The [[templates/place-mandate-template|Place Mandate Template]] states the place's twenty-year mandate and its terms of engagement. The Bankable Service Alignment Template tests a specific instrument against those terms and aligns the portfolio to it.
 
 The shift from *bioregion* to *BioRegion* doesn't happen overnight. It is the accumulating weight of the coordinating documents the cohort produces. A BioRegion is the bioregion whose cohort has produced them.
 
@@ -95,6 +96,8 @@ The shift from *bioregion* to *BioRegion* doesn't happen overnight. It is the ac
 ## Provenance
 
 Written 27 August 2026 as an addition to the orientation section, formalizing a distinction between "bioregion" (the underlying ecological-cultural unit) and "BioRegion" (a bioregion that has formally organized its coordination around the BioConomy framework) that the corpus had until now carried implicitly. The essay makes the case-sensitive convention already used across the existing pages readable to a first-time reader.
+
+Updated 30 September 2026 for the five-template founding suite.
 
 <script type="application/ld+json">
 {

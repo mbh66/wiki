@@ -1,9 +1,10 @@
 ---
 title: "How to Engage Your Bioregion"
+description: "The bridge from reading to running: the five questions the founding suite answers, what a cohort needs before it starts, and what the templates will not do for it."
 aliases: ["engaging your bioregion", "getting started with the templates", "how to start a biohub"]
 tags: ["essay", "orientation", "biohub", "founding-suite"]
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-30
 source_project: "VoG as Patron Project Prototype"
 source_documents: ["BioHub_Identity_Template.md", "BioRegion_Establishment_Template.md", "BioConomy_Value_Proposition_Template.md", "Bankable_Service_Alignment_Template_v0_1.md"]
 epistemic_status: "documented-framework"
@@ -15,11 +16,11 @@ The [[essays/what-is-a-biohub|orientation essay]] describes a coordination form 
 
 You have read the orientation essay. You understand a [[biohub|BioHub]] as a coordination body anchored in a specific [[bioregion|BioRegion]]. You recognize that most bioregions already contain people doing [[regenerative|regenerative]] work, and that what is missing is a coordination layer that connects the work into a single, fundable offer.
 
-The coordination layer is what the four templates in [[templates/index|the templates]] section produce. This essay walks through the shape of the work, what you need before starting, and what the templates will not do for you.
+The coordination layer is what the five templates in [[templates/index|the templates]] section produce. This essay walks through the shape of the work, what you need before starting, and what the templates will not do for you.
 
-## The four questions the templates answer
+## The five questions the templates answer
 
-Each template answers one of four questions. In order:
+Each template answers one of five questions. In order:
 
 **Who are we?** The [[templates/biohub-identity-template|BioHub Identity Template]] establishes the BioHub itself. Its three outputs ([[identity-statement|Identity Statement]], Field and Lineage Positioning, [[founding-compact|Founding Compact]]) state who has convened, on what grounds, under what governance, with what patronage architecture, and where the BioHub sits in the emerging global field.
 
@@ -27,9 +28,11 @@ Each template answers one of four questions. In order:
 
 **What do we tender?** The [[templates/value-proposition-template|BioConomy Value Proposition Template]] establishes what the BioHub offers markets. Its three outputs (Value Proposition Statement, Value Proposition Evidence Pack, [[tender-compact|Tender Compact]]) state the [[tenderable-services-portfolio|six-service portfolio]] (water yield, carbon sequestration, biodiversity data, heritage and tourism, food systems, coordination-as-employment) with the [[retention-logic|retention logic]] governing each, the counterparties who purchase each, and the participants whose commitments each depends on.
 
-**Which instrument does what we tender fit into?** The [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] maps the BioHub's services onto a specific financial instrument. Its three outputs ([[alignment-statement|Alignment Statement]], Alignment Evidence Pack, [[alignment-compact|Alignment Compact]]) state what aligns, what is alignable with build-out, what is misaligned, and what the cohort commits to build to reach instrument readiness.
+**On what terms do we engage?** The [[templates/place-mandate-template|Place Mandate Template]] states what the place knows needs doing over twenty years or more. It opens with the [[place-knowledge-brief|Place Knowledge Brief]], which the cohort gathers from the place's own people without AI. Its three outputs ([[place-mandate|Place Mandate]], [[twenty-year-value-ledger|Twenty-Year Value Ledger]], [[terms-of-engagement|Terms of Engagement]]) state the work, what it is worth to public institutions and to markets over twenty years, and the terms every grant maker, investor and buyer is tested against.
 
-The first three templates are the establishment work. The fourth is the alignment work. Run the establishment templates before the alignment template; run each template's three prompts in sequence; do the cohort review between prompts.
+**Which instrument does what we tender fit into?** The [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]] tests a specific financial instrument against the Terms of Engagement, then maps the BioHub's services onto it. Its three outputs ([[alignment-statement|Alignment Statement]], Alignment Evidence Pack, [[alignment-compact|Alignment Compact]]) state what aligns, what is alignable with build-out, what is misaligned, and what the cohort commits to build to reach instrument readiness.
+
+The first three templates are the establishment work. The fourth sets the place's mandate and terms. The fifth is the alignment work. Run the templates in order; run each template's three prompts in sequence; do the cohort review between prompts.
 
 ## What you need before you start
 
@@ -37,7 +40,7 @@ The first three templates are the establishment work. The fourth is the alignmen
 
 **A small cohort.** At minimum, two to five founding participants who have committed to the founding work. Named individuals, not organizational representatives. What each contributes and what each receives is spelled out in the Founding Compact.
 
-**A decision-making form the cohort agrees to work within.** How the cohort decides. Which decisions require consensus, which majority, which coordinator authority. Set at the founding. Governs every subsequent cohort review across the four templates.
+**A decision-making form the cohort agrees to work within.** How the cohort decides. Which decisions require consensus, which majority, which coordinator authority. Set at the founding. Governs every subsequent cohort review across the five templates.
 
 **Access to a deep research AI platform.** ChatGPT Deep Research, Claude Research, Perplexity Deep Research, Gemini Deep Research, or an equivalent. The [[templates/running-a-template|Running a Template]] page covers the cross-platform notes.
 
@@ -75,7 +78,7 @@ The templates are working documents. Every BioHub running them adds evidence: pr
 
 The wiki's editors welcome contributions back. The current channel is via the project's GitHub repository at `github.com/mbh66/biohubs`. Case notes, precedent additions, template revisions, and questions about specific alignments can be raised as issues or pull requests there.
 
-Where a BioHub has run the four templates and produced its own outputs, the outputs themselves may be candidates for a future case-studies section of the wiki, subject to the extraction publishability criteria and the BioHub's own consent to publication.
+Where a BioHub has run the five templates and produced its own outputs, the outputs themselves may be candidates for a future case-studies section of the wiki, subject to the extraction publishability criteria and the BioHub's own consent to publication.
 
 ## Related pages
 
@@ -85,6 +88,7 @@ Where a BioHub has run the four templates and produced its own outputs, the outp
 - [[templates/biohub-identity-template|BioHub Identity Template]]
 - [[templates/bioregion-establishment-template|BioRegion Establishment Template]]
 - [[templates/value-proposition-template|BioConomy Value Proposition Template]]
+- [[templates/place-mandate-template|Place Mandate Template]]
 - [[templates/bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[biohub|BioHub]]
 - [[bioregion|BioRegion]]
@@ -98,6 +102,8 @@ Where a BioHub has run the four templates and produced its own outputs, the outp
 ## Provenance
 
 Written as the bridge essay between the orientation piece (*What Is a BioHub*) and the templates folder. Draws on the four template documents in the VoG as Patron Project Prototype knowledge base for the substance of what each template does and requires. The distinction between what is [[needed|needed]] and what is not needed before starting is drawn from the templates' own "When to Run This Template" sections. The contribution channel named at the end reflects the current published wiki architecture; the wiki editors may direct contributions elsewhere as the project's governance develops.
+
+Updated 30 September 2026 for the five-template founding suite, adding the question the [[templates/place-mandate-template|Place Mandate Template]] answers.
 
 <script type="application/ld+json">
 {
