@@ -79,6 +79,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Running a Template](https://wiki.bioconomy.earth/templates/running-a-template): How to use the three-prompt sequence with a deep-research AI platform
 - [The Nine Outputs](https://wiki.bioconomy.earth/templates/the-nine-outputs): The deliverables the founding suite produces
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
+- [For Advisors to Family and Institutional Capital](https://wiki.bioconomy.earth/templates/for-capital-advisors): What the founding suite gives advisors who present BioHubs to family and institutional capital
 
 ## Research (10 briefs)
 
