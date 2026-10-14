@@ -54,6 +54,7 @@ The [[frameworks/time-framework|TIME Diagnostic]] runs alongside the BioHub Iden
 
 - Not a business plan template. 
 - Not a fundraising pack. 
+  See [[concepts/direction-of-fit|Direction of Fit]] for the grounding the suite needs and the checks that keep a run from turning into one.
 - Not a substitute for cohort work. 
 
 The templates coordinate the work; they do not perform it. A cohort that has not done the work will produce documents that do not withstand scrutiny.
@@ -64,6 +65,8 @@ The templates coordinate the work; they do not perform it. A cohort that has not
 The [[using-templates-across-biohubs|Using Templates Across BioHubs]] page covers multi-instrument alignment and multi-BioHub coordination within a BioRegion.
 
 ## How to use these pages
+
+Before the first template, read [[concepts/direction-of-fit|Direction of Fit]] with the cohort.
 
 Read each template page (see *The five templates* above). Open its prompts page, linked at the top of each template page. Convene the cohort and run the prompts.
 
@@ -82,6 +85,7 @@ If you are new to the [[bioconomy|BioConomy]] framework, read [[essays/what-is-a
 - [[bioconomy|BioConomy]]
 - [[biostack|BioStack]]
 - [[commitment-pooling|Commitment Pooling]]
+- [[concepts/direction-of-fit|Direction of Fit]]
 
 ## Sources
 
@@ -93,3 +97,5 @@ If you are new to the [[bioconomy|BioConomy]] framework, read [[essays/what-is-a
 Extracted from the four template documents attached to the VoG as Patron Project Prototype knowledge base: BioHub Identity Template v0.2, BioRegion Establishment Template v0.2, BioConomy Value Proposition Template v0.2, and Bankable Service Alignment Template v0.1. Written to place the four templates in a single navigable folder alongside the existing wiki taxonomy (concepts, frameworks, research, essays, sources, people, glossary), per the extraction instructions permitting folder-name adjustment where a different structure better fits the extracted content.
 
 Updated 30 September 2026 to add the [[templates/place-mandate-template|Place Mandate Template]] as the fourth template and renumber the Bankable Service Alignment Template as the fifth.
+
+Updated 30 September 2026 to link [[concepts/direction-of-fit|Direction of Fit]] from *What the suite is not* and *How to use these pages*.

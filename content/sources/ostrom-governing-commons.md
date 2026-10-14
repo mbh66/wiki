@@ -1,5 +1,6 @@
 ---
 title: "Governing the Commons: The Evolution of Institutions for Collective Action"
+description: "Ostrom's study of irrigation systems, fisheries, forests and grazing commons, showing how communities govern shared resources over long periods and setting out the design principles of enduring commons."
 author: "Elinor Ostrom"
 year: 1990
 type: "book"
@@ -8,7 +9,7 @@ url: "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A
 doi: "10.1017/CBO9780511807763"
 tags: ["source", "commons", "governance", "polycentricity"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-10-14
 source_project: "BioConomy"
 ---
 
@@ -28,6 +29,7 @@ Ostrom's empirical demonstration that common-pool resources can be sustainably s
 - [[ostrom-elinor|Elinor Ostrom]]
 - [[regenerative-economics|Regenerative Economics (glossary)]]
 - [[polycentricity|Polycentricity (glossary)]]
+- [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]
 
 <script type="application/ld+json">
 {

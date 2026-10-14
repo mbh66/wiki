@@ -25,7 +25,7 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 - [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents
 - [PROUT and the BioConomy](https://wiki.bioconomy.earth/essays/prout-and-the-bioconomy): The relationship between Sarkar's Progressive Utilization Theory and the BioConomy framework
 
-## Concepts (28 entries)
+## Concepts (42 entries)
 
 Core coordination and economic concepts. Key entries:
 
@@ -46,6 +46,8 @@ Core coordination and economic concepts. Key entries:
 - [Bioregional Addressing](https://wiki.bioconomy.earth/concepts/bioregional-addressing): Addressing systems rooted in ecological rather than political boundaries
 - [Tax-to-Commons Pathways](https://wiki.bioconomy.earth/concepts/tax-to-commons-pathways): Fiscal mechanisms for redirecting tax flows into a Bioregional Financing Facility
 - [Sound Finance](https://wiki.bioconomy.earth/concepts/sound-finance): The fiscal doctrine that taxes fund spending, its operational falsity, and its coordination function
+- [Direction of Fit](https://wiki.bioconomy.earth/concepts/direction-of-fit): The grounding the founding suite needs before any funding relationship is recorded, with the check each template applies
+- [Entity Gestation](https://wiki.bioconomy.earth/concepts/entity-gestation): Founding a BioHub without a registered entity for a fixed period, and choosing its form once the place has stated its work
 
 Full concepts index: https://wiki.bioconomy.earth/concepts/
 
@@ -81,7 +83,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
 - [For Advisors to Family and Institutional Capital](https://wiki.bioconomy.earth/templates/for-capital-advisors): What the founding suite gives advisors who present BioHubs to family and institutional capital
 
-## Research (10 briefs)
+## Research (11 briefs)
 
 - [The S-Curve Thesis and the Retention Counter-Tradition](https://wiki.bioconomy.earth/research/growth-economics): The foundational research brief (55KB)
 - [Historical Patronage and the Three-Feature Test](https://wiki.bioconomy.earth/research/historical-patronage-three-feature-test): Cross-cluster patronage analysis
@@ -93,6 +95,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Corporate Partnerships with Protected Area Management](https://wiki.bioconomy.earth/research/corporate-partnerships-protected-areas): TNFD-aligned partnership brief
 - [The BioHub as Where the Noosphere Lands](https://wiki.bioconomy.earth/research/biohub-noosphere-research-brief): Working memo on noosphere and BioHub convergence
 - [RESOLVE Ecoregions](https://wiki.bioconomy.earth/research/resolve-ecoregions): Spatial dataset underpinning BioHub addressing
+- [Community-Led Landscape Restoration in Sub-Saharan Africa](https://wiki.bioconomy.earth/research/landscape-restoration-sub-saharan-africa): Sixteen restoration cases from the Muonde Trust to Cape renosterveld easements, with evidence tags and cross-case patterns
 
 ## Glossary
 

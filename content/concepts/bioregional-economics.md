@@ -8,7 +8,7 @@ tags:
   - core-framework
   - economics
 created: 2026-08-25
-updated: 2026-09-01
+updated: 2026-09-30
 source_project: BioConomy
 source_documents:
   - Bioregional_Economics_Notion_Export
@@ -19,7 +19,7 @@ Bioregional economics is the study and practice of designing [[regenerative|rege
 
 ## Overview
 
-The discipline carries an unresolved tension that this page addresses directly. The regenerative movement, taken as a whole, operates from a dependency posture: constantly underfunded, seeking grants, writing applications, and trying to find creative ways to keep going. Bioregional economics, if it is to function as an economic discipline and not only as an ethical critique, must resolve this. A [[bioregion|bioregion]] that asks funders for money to do restoration work is [[needy|needy]]. A bioregion that offers a verified ecological service to a market that has already signaled it will pay is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning [[economy|economy]].
+The discipline carries an unresolved tension that this page addresses directly. The regenerative movement, taken as a whole, operates from a dependency posture: constantly underfunded, seeking grants, writing applications, and trying to find creative ways to keep going. Bioregional economics, if it is to function as an economic discipline and not only as an ethical critique, must resolve this. A [[bioregion|bioregion]] that asks funders for money to do the work they will pay for is [[needy|needy]]. A bioregion that states the work it knows needs doing and the terms on which outside parties may engage, and offers verified services on those terms to a market that has already signaled it will pay, is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning [[economy|economy]]. The [[concepts/direction-of-fit|Direction of Fit]] page sets out what decides between them.
 
 ## The discipline defined
 
@@ -90,7 +90,7 @@ The Greater Cape Town Water Fund, the implementation vehicle behind the bond, de
 
 What each site needs is a coordination body that can deliver verified restoration yield at landscape scale, and a verification methodology aligned with the bond's architecture. That is a coordination problem, and not a funding problem.
 
-This is where bioregional economics meets the [[biohub|BioHub]] concept. A bioregion that can coordinate landscape-scale restoration (alien clearing, soil rehabilitation, riparian repair, water-efficient agricultural transition) holds a service the market is already structured to purchase. The relationship with capital changes completely. You are no longer writing grant applications. You are tendering a service into a market that has already signaled it will pay. Capital is available and looking for somewhere to land. The bioregions that can demonstrate an Emergent coordination architecture to receive the capital will unlock what has been elusive so far.
+This is where bioregional economics meets the [[biohub|BioHub]] concept. A bioregion that can coordinate landscape-scale restoration (alien clearing, soil rehabilitation, riparian repair, water-efficient agricultural transition) holds a service the market is already structured to purchase. The relationship with capital changes completely. You are no longer writing grant applications. You are stating the work and the terms, and tendering services on those terms into a market that has already signaled it will pay. Capital is available and looking for somewhere to land. The bioregions that can demonstrate an Emergent coordination architecture to receive the capital will unlock what has been elusive so far.
 
 The shift from needy to needed also exposes a gap in the commitment pooling literature. [[ruddick-will|Will Ruddick]]'s work, covered on this site's [[concepts/commitment-pooling|Commitment Pooling]] page, demonstrates how a [[commitment-pool|commitment pool]] coordinates human reciprocity: labor, goods, services, and mutual obligation circulating within a community. What commitment pooling does not yet do, in its current form, is connect that reciprocity to the health of the living system the community inhabits. The commitments are social and economic, and they are not yet ecological. A bioregional commitment pool that includes ecological restoration (clearing invasive species, rehabilitating riparian corridors, transitioning to water-efficient agriculture) as a poolable commitment, verified against measurable watershed outcomes, is the mechanism through which a community's coordination capacity becomes a bankable service. The pool's output is not only internal circulation. It is a verified ecological yield that an external market is designed to purchase.
 
@@ -133,6 +133,8 @@ The BioHub, as a coordination form, is one answer to the missing-middle question
 ## Provenance
 
 Extracted from *Bioregional Economics* (Notion export, September 2026). Voice preserved; em dashes replaced. Internal Notion references have been resolved to wikilinks against the existing glossary and people pages. The document is treated as a concept-level page rather than an essay because it lays out the discipline's structural definition rather than an argument for a specific position.
+
+Updated 30 September 2026 to align the needy-to-needed passage and the BioHub section with the revised [[needed|Needed]] glossary entry and [[concepts/direction-of-fit|Direction of Fit]]: the place states its work and terms before any market or funder fits to them.
 
 <script type="application/ld+json">
 {

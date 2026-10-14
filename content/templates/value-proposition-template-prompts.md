@@ -200,10 +200,11 @@ Structural inferences (claims of the form "this pattern implies that outcome") s
 
 - The purpose is a strategic hypothesis draft. Prose should be direct and structural, with evidence-tagged claims.
 - Do not use the vocabulary of the conventional bioeconomy (sector growth, feedstock volume, biological substitution) except to distinguish the BioConomy from it.
-- Do not conflate "needed" with "worthy." Needed means the counterparty market is already structured to purchase the service, or can be structured to do so within known regulatory and financial architecture.
+- Do not conflate "needed" with "worthy." Needed means the place has stated the work and the terms on which outside parties may engage, and the counterparty market is already structured to purchase the service on those terms, or can be structured to do so within known regulatory and financial architecture.
 - Do not fabricate specific counterparty names, currency figures, or precedent cases at this stage. That is Prompt 2's work.
 - Do not restate content already documented in the six preceding template outputs. Cross-reference and build on, do not duplicate.
 - Flag any panel where the preceding documents provide thin context, so the cohort knows what to gather before running Prompt 2.
+- For each service, state whether it arose from the place's own work or from a buyer's or funder's program (the origin check in [[concepts/direction-of-fit|Direction of Fit]]).
 
 ## Prompt 2: Build the Evidence Pack
 
@@ -445,7 +446,10 @@ This template is the third and last of the establishment templates. Its three ou
 - [[templates/value-proposition-template|BioConomy Value Proposition Template]]
 - [[templates/index|The Templates]]
 - [[templates/running-a-template|Running a Template]]
+- [[concepts/direction-of-fit|Direction of Fit]]
 
 ## Provenance
 
 Published 30 September 2026 from *BioConomy Value Proposition Template* v0.3 in the VoG as Patron Project Prototype knowledge base. The prompt text is reproduced as written. The version history, change log, overview and suite position statement are omitted, since the template page covers them. Version 0.3 updated the source document to the five-template suite and to the voice conversions first made on this page.
+
+Updated 30 September 2026 to link [[concepts/direction-of-fit|Direction of Fit]]: the origin check added to Prompt 1's constraints, and Prompt 1's definition of "needed" brought in line with the revised [[needed|Needed]] glossary entry.

@@ -1,9 +1,10 @@
 ---
 title: "Research"
+description: "The landing page for the wiki's research briefs: evidence-based studies of water governance, patronage, landscape restoration and other questions a BioHub coordinator needs to act on."
 aliases: ["research", "research folder", "research briefs"]
 tags: ["landing", "orientation", "research"]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-14
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -27,6 +28,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]. The case for the emerging [[glossary/m-s/mycelial-patronage|Mycelial Patronage]] architecture.
 - [[research/comenius-to-schmidt-chain|The Comenius-to-Schmidt Chain]]. A four-century case study of portable pedagogical code surviving the removal of its founding institution.
 - [[research/abouleish-sekem|Abouleish and SEKEM]]. The Egyptian precedent for cooperative bioregional development at scale.
+- [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]. Sixteen restoration cases, from the Muonde Trust in Zimbabwe to renosterveld easements in the Western Cape, with the evidence behind each and the patterns across them.
 
 ## Related pages
 

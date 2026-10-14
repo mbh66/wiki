@@ -20,6 +20,10 @@ The AI does the research and drafts the documents. The cohort makes the selectio
 
 Every template in the suite produces three final documents in Prompt 3: a short formal Statement or Definition, a long referential Evidence Pack or Atlas, and a short co-signed Compact or Charter. Reader learns the pattern once and recognizes it across all five templates.
 
+## Before you begin
+
+Read [[concepts/direction-of-fit|Direction of Fit]] with the cohort before the first prompt of the first template. The suite assumes the place states its work and outside money fits to that statement. The page names the two ways a run loses that grounding (run as a needy project, or run as a funder's prerequisite) and lists the check each template applies before a funding relationship is recorded. Record the cohort's answer to its motive check with the first template's run.
+
 ## Prerequisites
 
 - A coordinator who convenes the cohort and runs the prompts.
@@ -43,6 +47,8 @@ The cohort work cannot be delegated to the AI. Three reasons:
 **The AI does not have the relationships the resolutions depend on.** Ecological-cultural reconciliation where indigenous or first-nation authority is involved depends on consent work the cohort does with the authorities concerned. Multi-BioHub coordination depends on relationships the cohort holds with adjacent BioHubs. Neither is delegable.
 
 The cohort work operates under the decision-making forms established in the Founding Compact. Where the cohort does not yet have the standing or the relationships to resolve a tension, the template's Prompt 3 is paused until the necessary work is done.
+
+At every review the cohort also confirms that no funding deadline has shortened the review or caused a prompt to be skipped.
 
 The [[templates/place-mandate-template|Place Mandate Template]] adds a step before its first prompt. In Step 0 the cohort gathers the [[place-knowledge-brief|Place Knowledge Brief]] from the place's own people, without any AI, and the place's ratifying authorities accept it. That template's prompts may organize, evidence, value and cost the Brief's list of things that need doing, and may not add to it.
 
@@ -120,9 +126,12 @@ The three layers should be internally consistent and cross-referenced. The Chart
 - [[founding-compact|Founding Compact]]
 - [[tender-compact|Tender Compact]]
 - [[alignment-compact|Alignment Compact]]
+- [[concepts/direction-of-fit|Direction of Fit]]
 
 ## Provenance
 
 Extracted from the four template documents in the VoG as Patron Project Prototype knowledge base. The mechanics documented here appear in each template's own Sequencing, Cross-Platform Notes, Evidentiary Discipline, and Constraints sections. This page lifts the shared material out of the individual template pages so a reader learns the mechanics once and can then read each template page for what is specific to it.
 
 Updated 30 September 2026 for the five-template suite: Step 0 of the [[templates/place-mandate-template|Place Mandate Template]], the new handoff, and the place of the Terms of Engagement in the coordination stack.
+
+Updated 30 September 2026 to link [[concepts/direction-of-fit|Direction of Fit]]: a *Before you begin* section and the pace check in the cohort work.

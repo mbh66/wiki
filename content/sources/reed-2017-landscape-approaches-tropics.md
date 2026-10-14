@@ -9,7 +9,7 @@ url: "https://doi.org/10.1016/j.landusepol.2017.02.021"
 doi: "10.1016/j.landusepol.2017.02.021"
 tags: ["source", "landscape-management", "evidence"]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-14
 source_project: "BioConomy"
 ---
 
@@ -20,6 +20,7 @@ The authors reviewed the implementation of landscape approaches across the tropi
 ## Cited by
 
 - [[concepts/integrated-landscape-management|Integrated Landscape Management]]
+- [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]
 
 <script type="application/ld+json">
 {

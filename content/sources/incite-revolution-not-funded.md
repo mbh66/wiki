@@ -8,7 +8,7 @@ url: ""
 doi: ""
 tags: ["source", "incite", "ngoization", "philanthropy", "patronage-failure"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-30
 source_project: "BioConomy"
 ---
 
@@ -20,6 +20,7 @@ Anthology documenting how foundations act as "'cooling-out' agencies, delaying a
 
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
+- [[concepts/direction-of-fit|Direction of Fit]]
 
 <script type="application/ld+json">
 {

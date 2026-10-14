@@ -62,7 +62,7 @@ The BioConomy extends the retention tradition along four dimensions the historic
 
 ## From needy to needed
 
-The [[regenerative|regenerative]] movement, taken as a whole, has operated from a dependency posture. Constantly underfunded, seeking grants, writing applications, trying to find creative ways to keep going. A bioregion that asks funders for money to do restoration work is [[needy|needy]]. A BioRegion that offers a verified ecological service to a market that has already signaled it will pay is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning economy.
+The [[regenerative|regenerative]] movement, taken as a whole, has operated from a dependency posture. Constantly underfunded, seeking grants, writing applications, trying to find creative ways to keep going. A bioregion that asks funders for money to do the work they will pay for is [[needy|needy]]. A BioRegion that states the work it knows needs doing and the terms on which outside parties may engage, and offers verified services on those terms to a market that has already signaled it will pay, is [[needed|needed]]. The difference between the two is the difference between a movement and a functioning economy. The [[concepts/direction-of-fit|Direction of Fit]] page sets out what decides between them.
 
 The signal is now on the table. In April 2026, FirstRand Bank listed the Cape Water [[performance-based-bond|Performance-Based Bond]] (JSE ticker FR31PB) at ZAR 2.5 billion, arranged by Rand Merchant Bank. A portion of investor returns is tied to independently verified ecological restoration in the mountain catchments that feed Cape Town's water supply. If bioregionally set targets are met, outcomes funders pay. If targets are not met, they do not. The bond is designed as the first in a replicable series covering South Africa's [[strategic-water-source-area-swsa|Strategic Water Source Areas]]. The architects built it to be copied.
 
@@ -131,6 +131,8 @@ Written as the third of three orientation essays commissioned by the wiki's enga
 Updated 27 August 2026 to align the four-dimensions section and the needy-to-needed passage with the bioregion / BioRegion case-sensitive convention (the unit of coordination and the needed-by-society form are both the BioRegion), and to link the sibling essay [[essays/from-bioregion-to-bioregion|From a Bioregion to a BioRegion]].
 
 Updated 30 September 2026 for the five-template founding suite.
+
+Updated 30 September 2026 to align the needy-to-needed passage with the revised [[needed|Needed]] glossary entry and [[concepts/direction-of-fit|Direction of Fit]]: the place states its work and terms before any market or funder fits to them.
 
 <script type="application/ld+json">
 {

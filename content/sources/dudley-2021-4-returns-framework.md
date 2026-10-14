@@ -8,7 +8,7 @@ publisher: "Commonland, Wetlands International, Landscape Finance Lab and IUCN C
 url: "https://commonland.com/4-returns-framework/"
 tags: ["source", "landscape-management", "restoration"]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-14
 source_project: "BioConomy"
 ---
 
@@ -20,6 +20,7 @@ The report presents the framework [[ferwerda-willem|Willem Ferwerda]] developed 
 
 - [[concepts/integrated-landscape-management|Integrated Landscape Management]]
 - [[ferwerda-willem|Willem Ferwerda]]
+- [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]
 
 <script type="application/ld+json">
 {

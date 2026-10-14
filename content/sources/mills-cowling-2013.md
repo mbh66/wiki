@@ -1,5 +1,6 @@
 ---
 title: "Restoring the fauna and flora of transformed renosterveld"
+description: "A study of transformed renosterveld in the Overberg measuring soil carbon in intact, farmed and fallowed land, and the evidence base for restoring it."
 author: "A.J. Mills, R.M. Cowling et al."
 year: 2013
 type: "paper"
@@ -8,7 +9,7 @@ url: ""
 doi: ""
 tags: ["source", "renosterveld", "soil-carbon", "restoration"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-14
 source_project: "BioConomy"
 ---
 
@@ -19,6 +20,7 @@ The soil-carbon evidence base for renosterveld restoration in the Overberg. Mill
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
+- [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]
 
 <script type="application/ld+json">
 {

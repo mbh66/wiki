@@ -18,6 +18,8 @@ Most development finance sets the shape of the work first. A grant program or a 
 
 This template reverses the direction of fit. The place states the work. The Value Ledger shows what the work is worth to the institutions that hold public obligations and to the buyers who pay for services, over at least twenty years. The Terms of Engagement set what no engaging party may change and where each kind of party may come in. Grants and instruments are then tested against the Terms, and the Terms are revised only through the place's own process. A BioHub that has run the template can say: here is what we know needs doing, and these are the terms on which we work. That is the [[needed|needed]] posture.
 
+The grounding this template writes down is needed from the start of the suite; see [[concepts/direction-of-fit|Direction of Fit]].
+
 The template joins two bodies of practice. From [[glossary/f-l/integrated-landscape-management|integrated landscape management]] it takes the generational horizon, the planning of habitat, production and settlement together, and the division of investment into enabling and asset investment. From the BioConomy it takes [[concepts/retention-logic|retention logic]], the [[tenderable-services-portfolio|tenderable services portfolio]] and outcomes finance such as the [[performance-based-bond|performance-based bond]].
 
 ## When to run this template
@@ -105,6 +107,7 @@ Where more than one BioHub operates in a [[bioregion|BioRegion]], the BioHubs ei
 - [[twenty-year-value-ledger|Twenty-Year Value Ledger]]
 - [[terms-of-engagement|Terms of Engagement]]
 - [[needed-trajectory|Needed Trajectory]]
+- [[concepts/direction-of-fit|Direction of Fit]]
 
 ## Sources
 
@@ -115,3 +118,5 @@ Where more than one BioHub operates in a [[bioregion|BioRegion]], the BioHubs ei
 ## Provenance
 
 Written 30 September 2026 from *Place Mandate Template* v0.1 (30 September 2026), which holds the full prompt text, the Step 0 questions and the output specifications. The template generalizes a place-based investment proposal on the Ward 2 Development Forum register, [Ridge to River to Table](https://df.valleyofgrace.co.za/concepts/ridge-to-river-to-table), which was not yet agreed at the time of writing. The money sequence, the shared support layer and the practice of following each 100 units of money come from that proposal, which in turn draws them from the 1000 Landscapes guide and from an unpublished 2026 concept paper by Ranyaka Community Transformation, *A Third Way of Investing in Places*. Step 0, the fixed ground, the needed trajectory and the instrument test are the wiki author's additions. Ranyaka Community Transformation has not yet replied to this page's use of its method.
+
+Updated 30 September 2026 to link [[concepts/direction-of-fit|Direction of Fit]] from the Overview.

@@ -1,5 +1,6 @@
 ---
 title: "Greater Cape Town Water Fund Business Case"
+description: "The 2018 business case for the Greater Cape Town Water Fund, modeling water gains from clearing invasive alien plants in seven mountain catchments against the cost of other new supply."
 author: "The Nature Conservancy"
 year: 2018
 type: "report"
@@ -8,7 +9,7 @@ url: "https://www.nature.org/en-us/about-us/where-we-work/africa/stories-in-afri
 doi: ""
 tags: ["source", "water-fund", "cape-town", "restoration-economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-14
 source_project: "BioConomy"
 ---
 
@@ -21,6 +22,7 @@ The founding business case for the Greater Cape Town Water Fund. TNC and the Cit
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
+- [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]
 
 <script type="application/ld+json">
 {

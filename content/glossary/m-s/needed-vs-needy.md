@@ -4,25 +4,28 @@ aliases: []
 tags: ["glossary"]
 term_type: "borrowed-technical"
 first_defined_in: ""
-related_terms: ["bioregional-economics", "needy", "needed"]
+related_terms: ["bioregional-economics", "needy", "needed", "direction-of-fit"]
 source_project: "BioConomy"
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-30
 epistemic_status: "documented-framework"
 ---
 
 
-The structural distinction between a bioregion that asks funders for money to do restoration work (needy) and one that tenders a verified ecological service into a market already structured to purchase it (needed).
+The structural distinction between a place that asks funders for money to do the work they will pay for (needy) and one that states the work it knows needs doing and the terms on which outside parties may engage, and tenders verified services on those terms (needed).
 
 ## Related terms
 
 - [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[needy|Needy]]
 - [[needed|Needed]]
+- [[glossary/a-e/direction-of-fit|Direction of Fit]]
 
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell classified as `Term`. First-pass entry: the extended definition, contrast with adjacent terms, and usage-in-context sections require enrichment from the underlying project documents on a subsequent pass.
+
+Definition revised 30 September 2026 at Michael Haupt's direction, to match the revised [[needed|Needed]] entry. Previous definition: "The structural distinction between a bioregion that asks funders for money to do restoration work (needy) and one that tenders a verified ecological service into a market already structured to purchase it (needed)."
 
 <script type="application/ld+json">
 {
@@ -30,7 +33,7 @@ Extracted from the BioHub Glossary CSV export (Notion, August 2026). Source cell
   "@type": "DefinedTerm",
   "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/",
   "name": "Needed vs. Needy",
-  "description": "The structural distinction between a bioregion that asks funders for money to do restoration work (needy) and one that tenders a verified ecological service into a market already structured to purchase it (needed).",
+  "description": "The structural distinction between a place that asks funders for money to do the work they will pay for (needy) and one that states the work it knows needs doing and the terms on which outside parties may engage, and tenders verified services on those terms (needed).",
   "termCode": "needed-vs-needy",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",

@@ -139,6 +139,7 @@ The three outputs feed:
 - [[gap-register|Gap Register]]
 - [[e-form-emergent|+E Coordination Form]]
 - [[m-form-market|+M Coordination Form]]
+- [[concepts/direction-of-fit|Direction of Fit]]
 
 ## Sources
 
@@ -153,3 +154,5 @@ The three outputs feed:
 Extracted from *Bankable Service Alignment Template* v0.1 (August 26, 2026) in the VoG as Patron Project Prototype knowledge base. Full prompt text, output specifications, evidentiary discipline (IC / MS / TBV tagging), constraints, caveats, and the Cape Water bond worked reference case (Appendix A) remain in the source document. This page presents the shape of the template, its position in the suite, the cohort work it requires, and the three documents it produces, in a form legible to a coordinator arriving at the wiki without prior context.
 
 Adjusted 30 September 2026 when the [[templates/place-mandate-template|Place Mandate Template]] became the fourth template: renumbered as the fifth, with the Terms test added to Prompt 1, a Terms column added to the alignment map, and the rule that the Alignment Compact operates under the Terms of Engagement. Source document v0.1 was later lost. On the same day v0.2 was reconstructed from this page, the glossary entries extracted from v0.1, and the v0.2 changes, and its full prompt text was published on [[templates/bankable-service-alignment-template-prompts|Bankable Service Alignment Template: Prompts]].
+
+Updated 30 September 2026 to link [[concepts/direction-of-fit|Direction of Fit]] under Related pages.

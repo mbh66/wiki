@@ -37,6 +37,7 @@ Attach to every submission:
 4. Any bioregional field-mapping documents (P4P Archipelago positioning, Design School for Regenerating Earth mappings, or equivalents you work with).
 5. Any published essays, briefs, or research the coordinator or founding cohort members have produced.
 6. TIME Diagnostic output where available (attach when it becomes available, whether before Prompt 1, before Prompt 2, or before Prompt 3).
+7. The [[concepts/direction-of-fit|Direction of Fit]] page, which the patronage dimension of Prompt 1 and section 4 of the Founding Compact apply.
 
 ## User-Supplied Inputs to Gather
 
@@ -48,7 +49,7 @@ Before running Prompt 1, compile the following:
 - **Working name candidates.** Any names the cohort has already considered, with reasoning for each.
 - **Existing entity or affiliation.** Any pre-existing entity the BioHub might work from (an existing NPC, forum, cooperative, informal association) or affiliate with.
 - **Jurisdiction.** Country and sub-national jurisdiction, so entity form and regulatory analysis is grounded in the correct legal context.
-- **Existing patronage or funding relationships.** Any grants, memberships, philanthropic relationships, or corporate partnerships already in play, along with their terms.
+- **Existing patronage or funding relationships.** Any grants, memberships, philanthropic relationships, or corporate partnerships already in play, along with their terms, and the cohort's answers to the relationship check in [[concepts/direction-of-fit|Direction of Fit]]: who set the scope, whether and on what notice it can be withdrawn, what reporting it requires, and whether the work would continue without it.
 - **Adjacent BioHubs or coordination bodies.** Any known other BioHubs or bioregional initiatives operating in the anchor location's broader region or in adjacent domains.
 - **Published or draft essays and briefs.** Any documents by the coordinator or cohort members that establish intellectual position, along with citation and reception data where available.
 
@@ -131,6 +132,7 @@ Produce candidate options across five identity dimensions. For each dimension, p
    - Corporate partnership (retention-aligned corporate ESG procurement).
    - Hybrid architectures combining the above.
    - For each: what it enables, what it constrains, what it demands of the founding cohort.
+   - For each candidate, and for each existing relationship listed in the context, apply the relationship check from Direction of Fit and report the answers. Where the place has not yet stated its work, say so, and treat any relationship that sets the scope of work as provisional.
 
 4. **Candidate founding cohort framings.** Structural options for how the founding cohort relates. For each candidate:
    - Solo coordinator with advisory circle.
@@ -173,6 +175,7 @@ Cite entity form precedents, patronage architecture precedents, and field positi
 - Do not force the cohort into a single option. The cohort needs alternatives to make an informed choice.
 - Do not treat entity form as merely regulatory. It shapes what the BioHub can hold, patronage-wise and governance-wise, and these implications should be surfaced.
 - Do not default to conventional NGO structures. Consider entity form and patronage architecture together.
+- Do not present patronage candidates as a list of funders to approach. Assess architectures against the grounding in Direction of Fit.
 - Do not name specific individuals for cohort framing roles without the coordinator's confirmation. Frame roles structurally.
 
 ## Prompt 2: Field, Lineage, and Working Reference Pack
@@ -342,7 +345,7 @@ A governance and commitment document. Structure:
 1. Preamble stating why this BioHub exists as a coordination body (drawing on the anchor location, the ecological and cultural context, the field gap being addressed, and the cohort's shared purpose).
 2. Founding cohort commitments to each other (what each contributes, what each receives, what each is accountable for).
 3. Entity form and its implications (what the entity can hold, what governance forms bind it, what protections and obligations it creates).
-4. Patronage architecture and how capital is held (transvestment provisions where applicable, grant policies, member contributions, corporate partnership terms).
+4. Patronage architecture and how capital is held: principles for holding capital (transvestment provisions where applicable, grant policies, member contributions, corporate partnership terms), with specific funding commitments left to the Terms of Engagement produced by the Place Mandate Template. Record the relationship check for each existing relationship.
 5. Decision-making forms (which decisions require what cohort process; where consensus is required, where majority suffices, where the coordinator holds delegated authority).
 6. Multi-BioHub coordination protocols (how this BioHub will relate to other BioHubs operating in the anticipated BioRegion, including mutual recognition, shared governance where relevant, and dispute handling).
 7. Custodial and consent principles for cultural, indigenous, and heritage knowledge that the BioHub encounters or coordinates.
@@ -430,7 +433,10 @@ Attach all three Identity documents to the first prompt of the BioRegion Establi
 - [[templates/biohub-identity-template|BioHub Identity Template]]
 - [[templates/index|The Templates]]
 - [[templates/running-a-template|Running a Template]]
+- [[concepts/direction-of-fit|Direction of Fit]]
 
 ## Provenance
 
 Published 30 September 2026 from *BioHub Identity Template* v0.3 in the VoG as Patron Project Prototype knowledge base. The prompt text is reproduced as written. The version history, change log, overview and suite position statement are omitted, since the template page covers them. Version 0.3 updated the source document to the five-template suite and to the voice conversions first made on this page.
+
+Updated 30 September 2026 to link [[concepts/direction-of-fit|Direction of Fit]]: the relationship check in the patronage input and in Prompt 1's patronage dimension, a Prompt 1 constraint, and principles-before-commitments in Prompt 3's Founding Compact section 4, and the page added to the documents to attach. The original prompt text is otherwise unchanged.

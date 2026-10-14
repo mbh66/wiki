@@ -3,7 +3,7 @@ title: "Economy versus BioConomy"
 aliases: ["economy vs bioconomy", "the difference", "what makes bioconomy different"]
 tags: ["concept", "bioconomy", "core-framework", "economics"]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-30
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "structural-inference"
@@ -55,7 +55,7 @@ The conventional economy treats the biosphere as an externality. Ecological func
 
 BioConomy treats the bioregion as the household. The substrate is not an externality. It is the thing being managed. Ecological restoration is not a cost that someone else must be persuaded to cover. It is the productive activity of the economy itself. A bioregion that clears invasive species, rehabilitates riparian corridors, and transitions to water-efficient agriculture is not spending money on environmentalism. It is producing a service the market has already signaled it will pay for. The Cape Water Performance-Based Bond (JSE ticker FR31PB, ZAR 2.5 billion, April 2026) demonstrates the unit economics: nature-based solutions in the Cape's mountain catchments deliver water at roughly one-tenth the unit cost of desalination. The buyer exists. The price is known. The willingness to pay is documented.
 
-The shift is from [[needy|needy]] to [[needed|needed]]. A bioregion that asks funders for money to do restoration work is needy. A bioregion that offers a verified ecological service to a market that has already signaled it will pay is needed. The difference is the difference between a movement and a functioning economy.
+The shift is from [[needy|needy]] to [[needed|needed]]. A bioregion that asks funders for money to do the work they will pay for is needy. A bioregion that states the work it knows needs doing and the terms on which outside parties may engage, and offers verified services on those terms to a market that has already signaled it will pay, is needed. The difference is the difference between a movement and a functioning economy. The [[concepts/direction-of-fit|Direction of Fit]] page sets out what decides between them.
 
 ## What BioConomy inherits
 
@@ -104,6 +104,8 @@ Together these three contributions close the gap between diagnosis and disciplin
 ## Provenance
 
 Written 30 August 2026 as a concept-level page distinguishing BioConomy from the conventional economy. The five-axis structure (measurement, ownership, unit, money, substrate) is a structural inference synthesized from the existing corpus pages on Retention Logic, Bioregional Economics, the Three Lineages framework, the Two Machines glossary entry, and the BioConomy Developmental Arc. No new claims are introduced; the page organizes existing corpus material around the specific question of what makes BioConomy structurally different from the system it proposes to replace.
+
+Updated 30 September 2026 to align the needy-to-needed passage with the revised [[needed|Needed]] glossary entry and [[concepts/direction-of-fit|Direction of Fit]]: the place states its work and terms before any market or funder fits to them.
 
 <script type="application/ld+json">
 {
