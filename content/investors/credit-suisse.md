@@ -8,6 +8,7 @@ kind: "global-bank"
 based_in: "Switzerland"
 roles: ["arranger"]
 instruments: ["outcome-linked-bond", "debt-for-nature-conversion"]
+deals: ["Rhino Bond 2022", "Belize 2021", "Barbados 2022", "Galápagos 2023"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

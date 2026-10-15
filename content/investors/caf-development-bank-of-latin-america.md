@@ -8,6 +8,7 @@ kind: "mdb"
 based_in: "Venezuela"
 roles: ["guarantor"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["El Salvador 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

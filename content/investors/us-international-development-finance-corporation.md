@@ -8,6 +8,7 @@ kind: "bilateral-dfi"
 based_in: "United States"
 roles: ["political-risk-insurer"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["Belize 2021", "Galápagos 2023", "Gabon 2023", "El Salvador 2024", "Ecuador Amazon 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

@@ -8,6 +8,7 @@ kind: "mdb"
 based_in: "United States"
 roles: ["guarantor"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["Barbados 2022", "Galápagos 2023", "Bahamas 2024", "Ecuador Amazon 2024", "Barbados climate-resilience 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

@@ -8,6 +8,7 @@ kind: "insurer"
 based_in: "Denmark"
 roles: ["investor"]
 instruments: ["outcome-linked-bond"]
+deals: ["Amazon reforestation bond 2024", "Plastic waste bond 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

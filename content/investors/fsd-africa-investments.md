@@ -8,6 +8,7 @@ kind: "bilateral-dfi"
 based_in: "Kenya"
 roles: ["anchor-investor"]
 instruments: ["outcome-linked-bond"]
+deals: ["Cape Water bond 2026"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

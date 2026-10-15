@@ -8,6 +8,7 @@ kind: "global-bank"
 based_in: "United States"
 roles: ["investor"]
 instruments: ["environmental-impact-bond"]
+deals: ["DC Water EIB 2016"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

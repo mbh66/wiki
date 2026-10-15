@@ -8,6 +8,7 @@ kind: "insurer"
 based_in: "France"
 roles: ["reinsurer", "political-risk-insurer", "credit-insurer", "parametric-insurer"]
 instruments: ["debt-for-nature-conversion", "parametric-nature-insurance"]
+deals: ["Belize 2021", "Gabon 2023", "Bahamas 2024", "Galápagos 2023", "Mesoamerican Reef insurance"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

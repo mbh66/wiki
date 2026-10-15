@@ -8,6 +8,7 @@ kind: "reinsurer"
 based_in: "Germany"
 roles: ["parametric-insurer"]
 instruments: ["parametric-nature-insurance"]
+deals: ["Mesoamerican Reef insurance", "Hawaii reef insurance"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

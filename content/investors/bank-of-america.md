@@ -8,6 +8,7 @@ kind: "global-bank"
 based_in: "United States"
 roles: ["arranger"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["Gabon 2023", "Ecuador Amazon 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

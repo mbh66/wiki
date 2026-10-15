@@ -8,6 +8,7 @@ kind: "mdb"
 based_in: "United States"
 roles: ["issuer", "guarantor"]
 instruments: ["outcome-linked-bond"]
+deals: ["Rhino Bond 2022", "Amazon reforestation bond 2024", "Spekboom bond 2026", "Plastic waste bond 2024", "Seychelles blue bond 2018"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

@@ -8,6 +8,7 @@ kind: "insurer-and-asset-manager"
 based_in: "United Kingdom"
 roles: ["cornerstone-investor", "investor"]
 instruments: ["debt-for-nature-conversion", "outcome-linked-bond"]
+deals: ["Belize 2021", "Galápagos 2023", "Gabon 2023", "Ecuador Amazon 2024", "Spekboom bond 2026"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

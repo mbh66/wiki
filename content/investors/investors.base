@@ -1,0 +1,196 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("investor")
+    - draft != true
+formulas:
+  institution: file.asLink(title)
+  tier_name: 'if(tier == 1, "Tier 1: Global allocators", if(tier == 2, "Tier 2: Regional and specialist capital", "Tier 3: National institutions"))'
+  evidence: 'if(evidence_level == "watch-list", "Watch list", "Participant")'
+properties:
+  formula.institution:
+    displayName: Institution
+  formula.tier_name:
+    displayName: Tier
+  formula.evidence:
+    displayName: Evidence
+  tier:
+    displayName: Tier
+  kind:
+    displayName: Kind
+  based_in:
+    displayName: Based in
+  roles:
+    displayName: Roles
+  instruments:
+    displayName: Instrument families
+  deals:
+    displayName: Deals
+  last_checked:
+    displayName: Last checked
+views:
+  - type: table
+    name: All tiers
+    groupBy:
+      property: formula.tier_name
+      direction: ASC
+    order:
+      - formula.institution
+      - kind
+      - roles
+      - deals
+      - based_in
+      - formula.evidence
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Tier 1
+    filters:
+      and:
+        - tier == 1
+    order:
+      - formula.institution
+      - kind
+      - roles
+      - deals
+      - based_in
+      - formula.evidence
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Tier 2
+    filters:
+      and:
+        - tier == 2
+    order:
+      - formula.institution
+      - kind
+      - roles
+      - deals
+      - based_in
+      - formula.evidence
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Tier 3
+    filters:
+      and:
+        - tier == 3
+    order:
+      - formula.institution
+      - kind
+      - roles
+      - deals
+      - based_in
+      - formula.evidence
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Insurers and brokers
+    filters:
+      or:
+        - file.hasTag("insurer")
+        - file.hasTag("reinsurer")
+        - file.hasTag("broker")
+    groupBy:
+      property: formula.tier_name
+      direction: ASC
+    order:
+      - formula.institution
+      - kind
+      - roles
+      - deals
+      - based_in
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Outcome-linked bonds
+    filters:
+      and:
+        - contains(instruments, "outcome-linked-bond")
+    groupBy:
+      property: formula.tier_name
+      direction: ASC
+    order:
+      - formula.institution
+      - kind
+      - roles
+      - deals
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Impact and resilience bonds
+    filters:
+      or:
+        - contains(instruments, "environmental-impact-bond")
+        - contains(instruments, "forest-resilience-bond")
+    groupBy:
+      property: formula.tier_name
+      direction: ASC
+    order:
+      - formula.institution
+      - kind
+      - roles
+      - deals
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Debt-for-nature conversions
+    filters:
+      and:
+        - contains(instruments, "debt-for-nature-conversion")
+    groupBy:
+      property: formula.tier_name
+      direction: ASC
+    order:
+      - formula.institution
+      - kind
+      - roles
+      - deals
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Watch list
+    filters:
+      and:
+        - evidence_level == "watch-list"
+    order:
+      - formula.institution
+      - formula.tier_name
+      - kind
+      - based_in
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By country
+    groupBy:
+      property: based_in
+      direction: ASC
+    order:
+      - formula.institution
+      - formula.tier_name
+      - kind
+      - roles
+      - deals
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Last checked
+    order:
+      - formula.institution
+      - last_checked
+      - formula.tier_name
+      - formula.evidence
+    sort:
+      - property: last_checked
+        direction: ASC

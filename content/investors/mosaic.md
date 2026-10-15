@@ -8,6 +8,7 @@ kind: "specialty-insurer-mgu"
 based_in: "Bermuda"
 roles: ["reinsurer", "political-risk-insurer"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["Gabon 2023"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

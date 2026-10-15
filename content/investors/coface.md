@@ -8,6 +8,7 @@ kind: "insurer"
 based_in: "France"
 roles: ["reinsurer", "political-risk-insurer"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["Galápagos 2023"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

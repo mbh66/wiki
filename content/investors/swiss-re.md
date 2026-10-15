@@ -8,6 +8,7 @@ kind: "reinsurer"
 based_in: "Switzerland"
 roles: ["reinsurer", "political-risk-insurer", "parametric-insurer"]
 instruments: ["debt-for-nature-conversion", "parametric-nature-insurance"]
+deals: ["Gabon 2023", "Quintana Roo reef insurance 2019"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

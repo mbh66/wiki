@@ -8,6 +8,7 @@ kind: "asset-manager"
 based_in: "South Africa"
 roles: ["anchor-investor"]
 instruments: ["outcome-linked-bond"]
+deals: ["Cape Water bond 2026"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

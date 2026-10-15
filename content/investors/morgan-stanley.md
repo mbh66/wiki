@@ -8,6 +8,7 @@ kind: "global-bank"
 based_in: "United States"
 roles: ["arranger", "investor"]
 instruments: ["environmental-impact-bond", "outcome-linked-bond"]
+deals: ["Hampton EIB 2018", "Buffalo EIB 2021", "Spekboom bond 2026"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

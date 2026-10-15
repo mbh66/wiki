@@ -8,6 +8,7 @@ kind: "global-bank"
 based_in: "United Kingdom"
 roles: ["arranger"]
 instruments: ["outcome-linked-bond", "sustainability-linked-bond-nature-kpi"]
+deals: ["Amazon reforestation bond 2024", "Uruguay SLB 2022"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

@@ -8,6 +8,7 @@ kind: "asset-manager"
 based_in: "United States"
 roles: ["anchor-investor", "investor"]
 instruments: ["outcome-linked-bond", "debt-for-nature-conversion"]
+deals: ["Rhino Bond 2022", "Amazon reforestation bond 2024", "Spekboom bond 2026", "Barbados 2022", "Seychelles blue bond 2018"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

@@ -50,7 +50,21 @@ Group entities are listed under the name used in the deal, so a bank's arranging
 
 Roles are issuer, arranger, anchor or cornerstone investor, investor, outcome funder, guarantor, political-risk or credit insurer and reinsurer, parametric insurer, broker and conservation trust endowment funder. A **participant** is documented in at least one named deal. A **watch list** entry has a stated policy, research output or product and no documented deal.
 
-Claim tags follow each claim. [IC] means an official record or two independent sources. [MS] means the claim rests only on the institution's own statement or on statements by parties to the same deal; on this site that meaning applies only to register pages. [TBV] means plausible and unconfirmed.
+Claim tags follow each claim on the institution pages. [IC] means an official record or two independent sources. [MS] means the claim rests only on the institution's own statement or on statements by parties to the same deal; on this site that meaning applies only to register pages. [TBV] means plausible and unconfirmed.
+
+## The register
+
+![[investors.base]]
+
+The register is built from each institution's page, so it stays current as pages are added or corrected. The tabs show all three tiers together, each tier on its own, the insurers and brokers, each instrument family, the watch list, the institutions by country, and the date each record was last checked. Click a column heading to sort by it. Each institution's page gives its deal-by-deal record with claim tags.
+
+### Named in deals without a page of their own
+
+Institutions with minor, adjacent-only or outside-scope roles, and the public bodies that issued bonds or paid for outcomes, are listed here and in the deal records:
+
+- **Tier 1.** European Investment Bank (guarantor, Barbados 2024, adjacent) [MS]; Crédit Agricole and Santander (bookrunners, Uruguay) [IC]; BNY Mellon (paying and administrative agent, El Salvador) [MS]; Prudential Financial (investor, Seychelles blue bond, adjacent) [MS]; Fidelity, entity unspecified (investor, clean cooking bond, outside scope) [IC]. Watch list: UBS, reported in the Barbados 2024 consortium with a role later reduced [TBV]; UBS Asset Management and Allianz Global Investors, signatories of the relaunched Net Zero Asset Managers initiative [IC].
+- **Tier 2.** Green Climate Fund (grant, Barbados 2024, adjacent) [MS]; InsuResilience Solutions Fund and Global Affairs Canada (premium funders, Mesoamerican Reef, adjacent) [MS]; ZEP-RE (investor, clean cooking bond, outside scope) [IC]; Hall Capital Partners, ImpactAssets and RSF Social Finance (market-rate investors, Yuba II) [MS]; Inherent Foundation (program-related investor, Yuba II) [MS]; the Seychelles and Barbados conservation funders, among them the Grantham Environmental Trust, Leonardo DiCaprio Foundation, Lyda Hill, Oak Foundation, Oceans 5, Waitt Foundation, Becht Foundation and Wyss Foundation [MS]; Pew Bertarelli Ocean Legacy and Dona Bertarelli Philanthropy (Galápagos) [MS]; PepsiCo Beverages North America and Silk, part of Danone North America (beneficiary outcome funders, Upper Mokelumne I and Yuba II) [MS]. Watch list: Schroders, BNP Paribas Asset Management, AXA Investment Managers, Robeco and EOS at Federated Hermes (Nature Action 100 and TNFD) [IC]; HSBC Pollination Climate Asset Management and Lombard Odier (Natural Capital Investment Alliance) [IC]; Columbia Threadneedle, Pictet Asset Management and ABP (published analysis of nature-linked debt) [MS].
+- **Tier 3.** Seguros Banorte (primary parametric insurer at Quintana Roo, identity disputed) [MS]; FIAES (program co-manager, El Salvador) [MS]; DC Water, the Atlanta Department of Watershed Management, the City of Hampton and the Buffalo Sewer Authority (issuers and outcome payers) [IC for DC Water and Atlanta; MS for the others]; Yuba Water Agency, the State of California and CAL FIRE, the Upper Mokelumne River Watershed Authority, the Sierra Nevada Conservancy and Pacific Gas and Electric (outcome payers and grant funders on forest resilience bonds) [MS]; KeyBanc Capital Markets, Siebert Cisneros Shank and Neighborly (underwriting and distribution, Atlanta) [MS]; Triodos Bank UK, Defra, the Environment Agency and the Esmée Fairbairn Foundation (Wyre, borderline) [MS]. Watch list: Co-op Insurance, Flood Re and United Utilities (Wyre financing partners, role unspecified) [MS]; SANParks (in talks with RMB on conservation outcome bonds) [MS].
 
 ## Deals
 
@@ -80,117 +94,6 @@ Claim tags follow each claim. [IC] means an official record or two independent s
 | Uruguay sovereign sustainability-linked bond | 2022 | Sustainability-linked bond | Uruguay | US$1.5bn, tapped to US$2.2bn | Native forest area | HSBC, J.P. Morgan, Crédit Agricole, Santander |
 
 Adjacent deals: the Quintana Roo reef insurance (2019), the Mesoamerican Reef insurance (from 2021), The Nature Conservancy's Hawaii reef policies (2022 to 2024), the 2018 Seychelles blue bond and Barbados's 2024 debt-for-climate-resilience operation. Unissued in October 2026: the World Bank's Indonesia coral reef and Rwanda chimpanzee bonds, and RMB's planned wildlife bonds.
-
-## Tier 1: global allocators
-
-| Institution | Kind | Roles | Deals | Evidence | Claim |
-|---|---|---|---|---|---|
-| [[investors/world-bank-treasury\|World Bank Treasury (IBRD)]] | Multilateral development bank | Issuer | Rhino, Amazon, Spekboom | Participant | [IC] |
-| [[investors/international-finance-corporation\|International Finance Corporation]] | Multilateral development bank | Lead co-anchor investor | Cape Water (about R1.6bn) | Participant | [IC] |
-| [[investors/inter-american-development-bank\|Inter-American Development Bank]] | Multilateral development bank | Guarantor | Barbados, Galápagos, Bahamas, Ecuador Amazon | Participant | [IC] Galápagos; [MS] others |
-| [[investors/caf-development-bank-of-latin-america\|CAF]] | Regional development bank | Credit enhancer | El Salvador (US$200m) | Participant | [IC] |
-| European Investment Bank | Multilateral development bank | Guarantor | Barbados 2024 (adjacent only) | Participant (adjacent) | [MS] |
-| [[investors/nuveen\|Nuveen]] | Asset manager | Lead, largest and anchor investor | Rhino, Amazon, Spekboom, Barbados | Participant | [IC] |
-| [[investors/t-rowe-price\|T. Rowe Price]] | Asset manager | Lead investor | Amazon | Participant | [IC] |
-| [[investors/legal-and-general\|Legal & General]] | Insurer and asset manager | Cornerstone investor, investor | Belize, Galápagos, Gabon, Ecuador Amazon, Spekboom | Participant | [MS] |
-| [[investors/morgan-stanley\|Morgan Stanley]] | Bank and asset manager | Underwriter, co-structurer, investor | Hampton, Buffalo, Spekboom | Participant | [MS] |
-| [[investors/bnp-paribas\|BNP Paribas]] | Bank and insurer | Lead manager; investor (Cardif) | Spekboom | Participant | [IC] |
-| [[investors/metlife-investment-management\|MetLife Investment Management]] | Insurer-owned asset manager | Investor | Spekboom | Participant | [IC] |
-| [[investors/credit-suisse\|Credit Suisse]] | Bank | Structurer, arranger | Rhino, Belize, Barbados, Galápagos | Participant | [IC] |
-| [[investors/citi\|Citi]] | Bank | Bookrunner; IFC's rand funding counterparty | Rhino, Cape Water | Participant | [IC] |
-| [[investors/hsbc\|HSBC]] | Bank | Structurer, bookrunner | Amazon, Uruguay | Participant | [IC] |
-| [[investors/bank-of-america\|Bank of America]] | Bank | Arranger | Gabon, Ecuador Amazon | Participant | [IC] |
-| [[investors/jpmorgan-chase\|JPMorgan Chase]] | Bank | Arranger, lender, bookrunner | El Salvador, Uruguay | Participant | [IC] |
-| [[investors/standard-chartered\|Standard Chartered]] | Bank | Structurer, lender | Bahamas | Participant | [IC] |
-| [[investors/goldman-sachs\|Goldman Sachs]] | Bank | Investor | DC Water | Participant | [IC] |
-| Crédit Agricole; Santander | Banks | Bookrunners | Uruguay | Participant | [IC] |
-| BNY Mellon | Bank | Paying and administrative agent | El Salvador | Participant | [MS] |
-| [[investors/axa\|AXA]] | Insurer | Reinsurer, credit insurer, parametric insurer | Belize, Gabon, Bahamas; Mesoamerican Reef (adjacent) | Participant | [MS] |
-| [[investors/chubb\|Chubb]] | Insurer | Reinsurer of political-risk cover | Belize (US$300m), Gabon | Participant | [MS] |
-| [[investors/swiss-re\|Swiss Re]] | Reinsurer | Reinsurer of political-risk cover; parametric reinsurer | Gabon; Quintana Roo (adjacent) | Participant | [MS] |
-| [[investors/munich-re\|Munich Re]] | Reinsurer | Parametric insurer | Mesoamerican Reef, Hawaii (adjacent) | Participant (adjacent) | [MS] |
-| [[investors/coface\|Coface]] | Credit insurer | Reinsurer of political-risk cover | Galápagos | Participant | [MS] |
-| [[investors/wtw\|WTW]] | Insurance broker | Broker, premium co-funder | Mesoamerican Reef, Hawaii (adjacent) | Participant (adjacent) | [MS] |
-| Prudential Financial | Insurer | Investor | Seychelles blue bond (adjacent only) | Participant (adjacent) | [MS] |
-| Fidelity (entity unspecified) | Asset manager | Investor | Clean cooking bond (outside scope only) | Participant (outside scope) | [IC] |
-| [[investors/blackrock\|BlackRock]] | Asset manager | None found | Research and data | Watch list | [IC] for policy items |
-| [[investors/vanguard\|Vanguard]] | Asset manager | None found | 2026 Texas settlement | Watch list | [IC] |
-| [[investors/state-street\|State Street]] | Asset manager | None found | Insight piece on nature-linked bonds | Watch list | [TBV] |
-| [[investors/amundi\|Amundi]] | Asset manager | None found | Nature and climate commitments | Watch list | [IC] |
-| [[investors/mirova\|Mirova]] | Asset manager | None found | Nature-focused private funds | Watch list | [IC] |
-| [[investors/norges-bank-investment-management\|Norges Bank Investment Management]] | Sovereign wealth fund | None found | 2026 nature expectations | Watch list | [IC] |
-| UBS; UBS Asset Management; Allianz Global Investors | Bank; asset managers | None confirmed | Barbados 2024 consortium (UBS); relaunched Net Zero Asset Managers initiative | Watch list | [TBV] UBS; [IC] others |
-
-## Tier 2: regional and specialist capital
-
-| Institution | Kind | Roles | Deals | Evidence | Claim |
-|---|---|---|---|---|---|
-| [[investors/us-international-development-finance-corporation\|US International Development Finance Corporation]] | Bilateral development finance institution | Political-risk insurer | Belize, Galápagos, Gabon, El Salvador, Ecuador Amazon | Participant | [IC] |
-| [[investors/fsd-africa-investments\|FSD Africa Investments]] | Development finance investor | Co-anchor investor | Cape Water (R234m) | Participant | [IC] |
-| [[investors/global-environment-facility\|Global Environment Facility]] | Global environmental fund | Outcome funder | Rhino (up to nearly US$14m) | Participant | [MS] |
-| Green Climate Fund | Global climate fund | Grant funder | Barbados 2024 (adjacent only) | Participant (adjacent) | [MS] |
-| InsuResilience Solutions Fund; Global Affairs Canada | Donor fund; government | Premium funders | Mesoamerican Reef (adjacent) | Participant (adjacent) | [MS] |
-| [[investors/the-nature-conservancy\|The Nature Conservancy]] | Conservation organization lending and guaranteeing | Lender, guarantor, sponsor | Seychelles, Belize, Barbados, Gabon, Bahamas, Ecuador Amazon, Cape Water | Participant | [MS] |
-| [[investors/alliancebernstein\|AllianceBernstein]] | Asset manager | Investor | Rhino, Spekboom | Participant | [IC] |
-| [[investors/mackenzie-investments\|Mackenzie Investments]] | Asset manager | Lead investor, investor | Rhino, Amazon, Spekboom | Participant | [MS] |
-| [[investors/rbc-bluebay-asset-management\|RBC BlueBay Asset Management]] | Asset manager | Investor | Rhino, Amazon | Participant | [MS] |
-| [[investors/impax-asset-management\|Impax Asset Management]] | Asset manager | Investor | Amazon, Spekboom | Participant | [MS] |
-| [[investors/rathbones\|Rathbones]] | Asset manager | Lead investor | Amazon | Participant | [IC] |
-| [[investors/muzinich\|Muzinich & Co]] | Asset manager | Investor | Amazon | Participant | [MS] |
-| [[investors/azimut\|Azimut Investments]] | Asset manager | Investor | Rhino, Amazon | Participant | [MS] |
-| [[investors/asn-impact-investors\|ASN Impact Investors]] | Asset manager | Investor | Rhino | Participant | [MS] |
-| [[investors/ingka-investments\|Ingka Investments]] | Corporate investment arm | Investor | Rhino | Participant | [MS] |
-| [[investors/velliv\|Velliv]] | Pension and life insurer | Lead investor | Amazon | Participant | [IC] |
-| [[investors/skandia\|Skandia]] | Life insurer and pension provider | Investor | Spekboom | Participant | [MS] |
-| [[investors/ap2\|AP2]] | Pension fund | Investor | Amazon | Participant | [MS] |
-| [[investors/csaa-insurance-group\|CSAA Insurance Group]] | Insurer | Investor | Yuba I, Yuba II | Participant | [MS] |
-| ZEP-RE | Reinsurer | Investor | Clean cooking bond (outside scope only) | Participant (outside scope) | [IC] |
-| [[investors/fidelis\|Fidelis]] | Specialty insurer | Reinsurer of political-risk cover | Belize, Gabon | Participant | [MS] |
-| [[investors/sovereign-risk-insurance\|Sovereign Risk Insurance]] | Political-risk specialist | Reinsurer of political-risk cover | Belize, Gabon | Participant | [MS] |
-| [[investors/apollo\|Apollo]] | Specialty insurer | Reinsurer of political-risk cover | Gabon | Participant | [MS] |
-| [[investors/mosaic\|Mosaic]] | Specialty insurer | Reinsurer of political-risk cover | Gabon | Participant | [MS] |
-| [[investors/vantage-risk\|Vantage Risk]] | Specialty insurer | Reinsurer of political-risk cover | Gabon | Participant | [MS] |
-| [[investors/alliant-insurance-services\|Alliant Insurance Services]] | Insurance broker | Broker | Belize | Participant | [MS] |
-| [[investors/builders-vision\|Builders Vision]] | Impact investor | Guarantor | Bahamas (US$70m) | Participant | [MS] |
-| [[investors/calvert-impact-capital\|Calvert Impact Capital]] | Impact investor | Investor | DC Water, Yuba I | Participant | [IC] |
-| Hall Capital Partners; ImpactAssets; RSF Social Finance | Wealth manager; donor-advised fund platform; lender | Market-rate investors | Yuba II | Participant | [MS] |
-| [[investors/rockefeller-foundation\|Rockefeller Foundation]] | Foundation | Investor, grant funder | Yuba I, Atlanta | Participant | [MS] |
-| [[investors/gordon-and-betty-moore-foundation\|Gordon and Betty Moore Foundation]] | Foundation | Investor | Yuba I, Yuba II | Participant | [MS] |
-| Inherent Foundation | Foundation | Program-related investor | Yuba II | Participant | [MS] |
-| Seychelles and Barbados conservation funders (Grantham Environmental Trust, Leonardo DiCaprio Foundation, Lyda Hill, Oak Foundation, Oceans 5, Waitt Foundation, Becht Foundation, Wyss Foundation and others) | Foundations | Endowment and strategy funders | Seychelles, Barbados | Participant | [MS] |
-| Pew Bertarelli Ocean Legacy; Dona Bertarelli Philanthropy | Philanthropy | Support for the Galápagos purchase | Galápagos | Participant | [MS] |
-| [[investors/amazon\|Amazon]] | Corporate | Carbon removal offtaker funding the coupon | Spekboom | Participant | [IC] |
-| [[investors/microsoft\|Microsoft]] | Corporate | Carbon removal offtaker | Amazon reforestation bond | Participant | [IC] |
-| PepsiCo Beverages North America; Silk (Danone North America) | Corporates | Beneficiary outcome funders | Upper Mokelumne I; Yuba II | Participant | [MS] |
-| Schroders; BNP Paribas Asset Management; AXA Investment Managers; Robeco; EOS at Federated Hermes | Asset managers | None found | Nature Action 100, TNFD early adoption | Watch list | [IC] |
-| HSBC Pollination Climate Asset Management; Lombard Odier | Asset managers | None found | Natural Capital Investment Alliance co-founders | Watch list | [IC] |
-| Columbia Threadneedle; Pictet Asset Management; ABP | Asset managers; pension fund | None found | Published analysis of nature-linked debt | Watch list | [MS] |
-
-## Tier 3: national institutions
-
-| Institution | Kind | Roles | Deals | Evidence | Claim |
-|---|---|---|---|---|---|
-| [[investors/firstrand-bank\|FirstRand Bank]] | National bank | Issuer | Cape Water | Participant | [IC] |
-| [[investors/rand-merchant-bank\|Rand Merchant Bank]] | National bank | Arranger | Cape Water | Participant | [IC] |
-| [[investors/firstrand-foundation\|FirstRand Foundation]] | Foundation | Anchor outcome funder (R50m) | Cape Water | Participant | [IC] |
-| [[investors/development-bank-of-southern-africa\|Development Bank of Southern Africa]] | National development bank | Outcome funder (R50m) | Cape Water | Participant | [IC] |
-| [[investors/aluwani-capital-partners\|Aluwani Capital Partners]] | Asset manager | Co-anchor investor (R350m) | Cape Water | Participant | [IC] |
-| [[investors/ashburton-investments\|Ashburton Investments]] | Asset manager | Investor | Cape Water | Participant | [MS] |
-| [[investors/eskom-pension-and-provident-fund\|Eskom Pension and Provident Fund]] | Pension fund | Investor | Cape Water | Participant | [MS] |
-| [[investors/optimum-investment-group\|Optimum Investment Group]] | Asset manager | Investor | Cape Water | Participant | [MS] |
-| [[investors/sanlam-life\|Sanlam Life]] | Life insurer | Investor | Cape Water | Participant | [MS] |
-| [[investors/remgro\|Remgro]] | Investment holding company | Outcome funder | Cape Water | Participant | [MS] |
-| [[investors/rupert-nature-foundation\|Rupert Nature Foundation]] | Foundation | Outcome funder | Cape Water | Participant | [MS] |
-| [[investors/lewis-foundation\|Lewis Foundation]] | Foundation | Outcome funder | Cape Water | Participant | [MS] |
-| [[investors/cibc-caribbean\|CIBC Caribbean]] | Regional bank | Arranger | Barbados 2022 | Participant | [MS] |
-| Seguros Banorte | Insurer | Primary parametric insurer (identity disputed) | Quintana Roo (adjacent) | Participant (adjacent) | [MS] |
-| FIAES | National environmental fund | Program co-manager | El Salvador | Participant | [MS] |
-| DC Water; Atlanta Department of Watershed Management; City of Hampton; Buffalo Sewer Authority | Public utilities and municipalities | Issuers and outcome payers | US impact bonds | Participant | [IC] DC Water, Atlanta; [MS] others |
-| Yuba Water Agency; State of California and CAL FIRE; Upper Mokelumne River Watershed Authority; Sierra Nevada Conservancy; Pacific Gas and Electric | Public agencies and a utility | Outcome payers and grant funders | Forest resilience bonds | Participant | [MS] |
-| KeyBanc Capital Markets; Siebert Cisneros Shank; Neighborly | Underwriters; distributor | Underwriting and distribution | Atlanta | Participant | [MS] |
-| Triodos Bank UK; Defra; Environment Agency; Esmée Fairbairn Foundation | Bank; government; agency; foundation | Arranger and grant funders | Wyre (borderline) | Participant | [MS] |
-| Co-op Insurance; Flood Re; United Utilities | Insurer; flood reinsurance scheme; water utility | Financing partners, role unspecified | Wyre (borderline) | Watch list | [MS] |
-| SANParks | Public agency | In talks with RMB on conservation outcome bonds | None issued | Watch list | [MS] |
 
 ## Where insurers sit
 
@@ -254,4 +157,4 @@ Each institution's page lists the records behind its entries.
 
 ## Provenance
 
-Drafted on 15 October 2026 from the research brief *Nature performance bond investors.md*, compiled the same day from five research strands (outcome-linked and sustainability-linked bonds, environmental impact bonds, debt-for-nature conversions, insurers and reinsurers, and the largest asset managers with their regulatory context), and from the Cape Water findings of an earlier run the same week. Editorial decisions: the tiers, roles and evidence levels follow the register design agreed for this site; claim tags follow the brief, which lowered to [MS] any claim a research note had graded [IC] on a company's own release; institutions with minor or adjacent-only roles are listed in the tables without their own pages; the Business Day statement that Cape Water investors' "capital remains protected" is attributed to the columnist's summary of RMB's Martin Potgieter, after checking the article on 15 October 2026. Pages are published without waiting for replies because they draw only on public records.
+Drafted on 15 October 2026 from the research brief *Nature performance bond investors.md*, compiled the same day from five research strands (outcome-linked and sustainability-linked bonds, environmental impact bonds, debt-for-nature conversions, insurers and reinsurers, and the largest asset managers with their regulatory context), and from the Cape Water findings of an earlier run the same week. Editorial decisions: the tiers, roles and evidence levels follow the register design agreed for this site; claim tags follow the brief, which lowered to [MS] any claim a research note had graded [IC] on a company's own release; institutions with minor or adjacent-only roles are listed on this page without pages of their own; the Business Day statement that Cape Water investors' "capital remains protected" is attributed to the columnist's summary of RMB's Martin Potgieter, after checking the article on 15 October 2026. Pages are published without waiting for replies because they draw only on public records. Revised the same day: the three tier tables were replaced by an embedded base, `investors.base`, built from the pages' frontmatter, and each page gained a `deals` key so the base can show and filter by deal.

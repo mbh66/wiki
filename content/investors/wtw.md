@@ -8,6 +8,7 @@ kind: "insurance-broker"
 based_in: "United Kingdom"
 roles: ["broker"]
 instruments: ["parametric-nature-insurance"]
+deals: ["Mesoamerican Reef insurance", "Hawaii reef insurance"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

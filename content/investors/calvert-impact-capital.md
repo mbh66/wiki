@@ -8,6 +8,7 @@ kind: "impact-investor"
 based_in: "United States"
 roles: ["investor"]
 instruments: ["environmental-impact-bond", "forest-resilience-bond"]
+deals: ["DC Water EIB 2016", "Yuba I FRB 2018", "Seychelles blue bond 2018"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

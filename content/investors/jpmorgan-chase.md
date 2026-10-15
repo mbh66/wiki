@@ -8,6 +8,7 @@ kind: "global-bank"
 based_in: "United States"
 roles: ["arranger"]
 instruments: ["debt-for-nature-conversion", "sustainability-linked-bond-nature-kpi"]
+deals: ["El Salvador 2024", "Uruguay SLB 2022"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

@@ -8,6 +8,7 @@ kind: "asset-manager"
 based_in: "United States"
 roles: ["investor"]
 instruments: ["outcome-linked-bond"]
+deals: ["Amazon reforestation bond 2024", "Plastic waste bond 2024", "Rhino Bond 2022"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

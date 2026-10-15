@@ -8,6 +8,7 @@ kind: "national-bank"
 based_in: "Barbados"
 roles: ["arranger"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["Barbados 2022", "Barbados climate-resilience 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

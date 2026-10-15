@@ -8,6 +8,7 @@ kind: "foundation"
 based_in: "United States"
 roles: ["investor"]
 instruments: ["forest-resilience-bond"]
+deals: ["Yuba I FRB 2018", "Yuba II FRB 2021"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

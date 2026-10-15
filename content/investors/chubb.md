@@ -8,6 +8,7 @@ kind: "insurer"
 based_in: "Switzerland"
 roles: ["reinsurer", "political-risk-insurer"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["Belize 2021", "Gabon 2023"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

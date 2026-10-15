@@ -7,6 +7,7 @@ kind: "foundation"
 based_in: "United States"
 roles: ["investor"]
 instruments: ["forest-resilience-bond", "environmental-impact-bond"]
+deals: ["Yuba I FRB 2018", "Atlanta EIB 2019"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

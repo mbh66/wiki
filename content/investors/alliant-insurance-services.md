@@ -8,6 +8,7 @@ kind: "insurance-broker"
 based_in: "United States"
 roles: ["broker"]
 instruments: ["debt-for-nature-conversion"]
+deals: ["Belize 2021"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

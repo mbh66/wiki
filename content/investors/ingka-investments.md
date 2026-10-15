@@ -8,6 +8,7 @@ kind: "corporate"
 based_in: "Netherlands"
 roles: ["investor"]
 instruments: ["outcome-linked-bond"]
+deals: ["Rhino Bond 2022"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

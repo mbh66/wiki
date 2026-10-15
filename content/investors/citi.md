@@ -8,6 +8,7 @@ kind: "global-bank"
 based_in: "United States"
 roles: ["arranger"]
 instruments: ["outcome-linked-bond"]
+deals: ["Rhino Bond 2022", "Cape Water bond 2026", "Plastic waste bond 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

@@ -8,6 +8,7 @@ kind: "ngo-lender"
 based_in: "United States"
 roles: ["guarantor", "investor", "endowment-funder"]
 instruments: ["debt-for-nature-conversion", "parametric-nature-insurance"]
+deals: ["Seychelles conversion 2016", "Belize 2021", "Barbados 2022", "Gabon 2023", "Bahamas 2024", "Ecuador Amazon 2024", "Cape Water bond 2026", "Quintana Roo reef insurance 2019", "Hawaii reef insurance"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

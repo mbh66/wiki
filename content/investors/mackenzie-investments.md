@@ -8,6 +8,7 @@ kind: "asset-manager"
 based_in: "Canada"
 roles: ["anchor-investor", "investor"]
 instruments: ["outcome-linked-bond"]
+deals: ["Rhino Bond 2022", "Amazon reforestation bond 2024", "Spekboom bond 2026", "Plastic waste bond 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15

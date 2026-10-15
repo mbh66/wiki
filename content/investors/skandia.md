@@ -8,6 +8,7 @@ kind: "insurer"
 based_in: "Sweden"
 roles: ["investor"]
 instruments: ["outcome-linked-bond"]
+deals: ["Spekboom bond 2026", "Plastic waste bond 2024"]
 evidence_level: "participant"
 last_checked: 2026-10-15
 created: 2026-10-15
