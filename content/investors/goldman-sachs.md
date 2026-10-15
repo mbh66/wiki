@@ -29,9 +29,9 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| DC Water Environmental Impact Bond | 2016 | Impact or resilience bond | Investor | Share of US$25m private placement | [IC] |
+| DC Water Environmental Impact Bond | 2016 | Impact or resilience bond | Investor | Share of US\$25m private placement | [IC] |
 
-DC Water would have paid investors US$3.3 million if stormwater runoff fell by more than 41.3%, and investors would have paid DC Water US$3.3 million if it fell by less than 18.6%. The measured reduction was "almost 20%", so no payment moved [MS]. A headline reports that Goldman dropped a complex debt swap after an internal risk review [TBV]. Goldman Sachs Asset Management left Climate Action 100+ and has no in-scope holding in the sources found [IC].
+DC Water would have paid investors US\$3.3 million if stormwater runoff fell by more than 41.3%, and investors would have paid DC Water US\$3.3 million if it fell by less than 18.6%. The measured reduction was "almost 20%", so no payment moved [MS]. A headline reports that Goldman dropped a complex debt swap after an internal risk review [TBV]. Goldman Sachs Asset Management left Climate Action 100+ and has no in-scope holding in the sources found [IC].
 
 ## Related
 

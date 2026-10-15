@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-Standard Chartered was sole structurer and lender of the Bahamas' US$300 million conservation-linked conversion in 2024 [IC].
+Standard Chartered was sole structurer and lender of the Bahamas' US\$300 million conservation-linked conversion in 2024 [IC].
 
 > [!note] Right of reply
 > This page describes Standard Chartered only through its published statements and the public records of the deals listed. Standard Chartered has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,10 +29,10 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Sole structurer and lender | US$300m loan | [IC] |
-| World Bank Clean Cooking Outcome Bond (Ghana) | 2025 | Outside scope | Bookrunner | US$200m issue | [IC] |
+| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Sole structurer and lender | US\$300m loan | [IC] |
+| World Bank Clean Cooking Outcome Bond (Ghana) | 2025 | Outside scope | Bookrunner | US\$200m issue | [IC] |
 
-The Bahamas loan is backed by an [[investors/inter-american-development-bank|IDB]] guarantee of US$200 million, a [[investors/builders-vision|Builders Vision]] guarantee of US$70 million and US$30 million of excess-of-loss credit insurance from [[investors/axa|AXA XL]] [MS]. Eleven conservation milestones run over 15 years; late milestones trigger escrowed payments and some failures are events of default [MS].
+The Bahamas loan is backed by an [[investors/inter-american-development-bank|IDB]] guarantee of US\$200 million, a [[investors/builders-vision|Builders Vision]] guarantee of US\$70 million and US\$30 million of excess-of-loss credit insurance from [[investors/axa|AXA XL]] [MS]. Eleven conservation milestones run over 15 years; late milestones trigger escrowed payments and some failures are events of default [MS].
 
 ## Related
 

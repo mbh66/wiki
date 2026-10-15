@@ -30,9 +30,9 @@ The register follows instruments whose terms depend on a verified ecological out
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
 | Mesoamerican Reef parametric insurance (MAR Fund) | 2022 onward | Adjacent | Parametric insurer | Shared program | [MS] |
-| The Nature Conservancy's Hawaii reef insurance | 2022 to 2024 | Adjacent | Parametric insurer, chosen from seven bids | Up to US$1m per storm, US$2m per year (2024) | [MS] |
+| The Nature Conservancy's Hawaii reef insurance | 2022 to 2024 | Adjacent | Parametric insurer, chosen from seven bids | Up to US\$1m per storm, US\$2m per year (2024) | [MS] |
 
-Parametric reef cover is adjacent to the register's scope: it protects a natural asset and pays on a wind-speed trigger, and no investor return depends on ecological performance. The 2024 Hawaii policy reportedly cost about US$106,000 and was arranged by [[investors/wtw|WTW]] [MS]. Munich Re was searched for and not found in any debt-for-nature deal.
+Parametric reef cover is adjacent to the register's scope: it protects a natural asset and pays on a wind-speed trigger, and no investor return depends on ecological performance. The 2024 Hawaii policy reportedly cost about US\$106,000 and was arranged by [[investors/wtw|WTW]] [MS]. Munich Re was searched for and not found in any debt-for-nature deal.
 
 ## Related
 

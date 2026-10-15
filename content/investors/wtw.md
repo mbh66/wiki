@@ -32,7 +32,7 @@ The register follows instruments whose terms depend on a verified ecological out
 | Mesoamerican Reef parametric insurance (MAR Fund) | 2021 onward | Adjacent | Broker, co-developer, premium co-funder | Premium share not disclosed | [MS] |
 | The Nature Conservancy's Hawaii reef insurance | 2024 | Adjacent | Arranger | Not applicable | [MS] |
 
-Hurricane Lisa triggered the Mesoamerican Reef program's first payout, US$175,000, in November 2022 [MS]. The program's other premium funders are the InsuResilience Solutions Fund, financed by KfW for the German government, and Global Affairs Canada through the Ocean Risk and Resilience Action Alliance [MS].
+Hurricane Lisa triggered the Mesoamerican Reef program's first payout, US\$175,000, in November 2022 [MS]. The program's other premium funders are the InsuResilience Solutions Fund, financed by KfW for the German government, and Global Affairs Canada through the Ocean Risk and Resilience Action Alliance [MS].
 
 ## Related
 

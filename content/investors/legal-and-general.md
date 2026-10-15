@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-Legal & General (L&G) reports the largest disclosed investor commitment in the debt-conversion family: more than US$465 million across the Belize, Galápagos, Gabon and Ecuador Amazon conversions [MS].
+Legal & General (L&G) reports the largest disclosed investor commitment in the debt-conversion family: more than US\$465 million across the Belize, Galápagos, Gabon and Ecuador Amazon conversions [MS].
 
 > [!note] Right of reply
 > This page describes Legal & General only through its published statements and the public records of the deals listed. Legal & General has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,18 +29,18 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Belize Blue Bond | 2021 | Debt-for-nature conversion | Investor | Part of over US$465m | [MS] |
-| Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Cornerstone investor | US$250m | [MS] |
-| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Investor | Part of over US$465m | [MS] |
-| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Investor | Part of over US$465m | [MS] |
+| Belize Blue Bond | 2021 | Debt-for-nature conversion | Investor | Part of over US\$465m | [MS] |
+| Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Cornerstone investor | US\$250m | [MS] |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Investor | Part of over US\$465m | [MS] |
+| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Investor | Part of over US\$465m | [MS] |
 | World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Investor (Nature and Social Outcomes strategy) | Not disclosed | [MS] |
 | World Bank Clean Cooking Outcome Bond (Ghana) | 2025 | Outside scope | Investor | Not disclosed | [IC] |
 
-By L&G's own figures, its Galápagos stake equals about 38% of the US$656 million issue. L&G is also one of the few holders of debt-conversion notes to name its own positions; the other buyers of these notes are undisclosed in the sources found.
+By L&G's own figures, its Galápagos stake equals about 38% of the US\$656 million issue. L&G is also one of the few holders of debt-conversion notes to name its own positions; the other buyers of these notes are undisclosed in the sources found.
 
 ## What it has said
 
-L&G says that for Belize, Credit Suisse "rallied a group of investors, including L&G", that it "acted as the cornerstone investor ... with a $250m investment for the Galapagos islands", and that it has invested "over $465 million in these transactions globally" [MS]. For the Spekboom bond it described its money as "UK pension capital" and called the deal its second outcome bond, after the clean cooking bond [MS].
+L&G says that for Belize, Credit Suisse "rallied a group of investors, including L&G", that it "acted as the cornerstone investor ... with a \$250m investment for the Galapagos islands", and that it has invested "over \$465 million in these transactions globally" [MS]. For the Spekboom bond it described its money as "UK pension capital" and called the deal its second outcome bond, after the clean cooking bond [MS].
 
 ## Open questions
 
@@ -59,7 +59,7 @@ Whether the conversion stakes sit in client funds or on L&G's own annuity balanc
 
 - [Legal & General, "How debt conversions for nature are evolving" (26 March 2025)](https://group.legalandgeneral.com/about-us/our-purpose/safeguarding-financial-futures/how-debt-conversions-for-nature-are-evolving/)
 - [World Bank, Spekboom Restoration Outcome Bond pricing (23 April 2026)](https://www.worldbank.org/en/news/press-release/2026/04/23/world-bank-prices-14-year-spekboom-restoration-outcome-bond-in-south-africa)
-- [FS Sustainability, "Institutional investors inject $166m into World Bank bond" (2026)](https://www.fssustainability.com.au/institutional-investors-inject-166m-into-world-bank-bond)
+- [FS Sustainability, "Institutional investors inject \$166m into World Bank bond" (2026)](https://www.fssustainability.com.au/institutional-investors-inject-166m-into-world-bank-bond)
 - [World Bank, Clean Cooking Outcome Bond (12 December 2025)](https://www.worldbank.org/en/news/press-release/2025/12/12/world-bank-s-usd-200-million-clean-cooking-outcome-bond-highlights-expanding-investor-appetite-for-outcome-linked-invest)
 
 ## Provenance

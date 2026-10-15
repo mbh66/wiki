@@ -24,7 +24,7 @@ Amundi is on the register's watch list: it has signed nature and climate commitm
 
 The register follows instruments whose terms depend on a verified ecological outcome, the broad family of the [[performance-based-bond|performance-based bond]]. The [[investors/index|register index]] explains its tiers, roles and claim tags. No nature performance deal names Amundi in the sources checked, so the register lists it on the watch list for the policies, research or products below.
 
-Amundi signed the Finance for Biodiversity Pledge and the relaunched Net Zero Asset Managers initiative [IC]. Its Planet Emerging Green One fund closed at US$1.42 billion in 2018 with an [[investors/international-finance-corporation|IFC]] cornerstone of US$256 million; the fund buys emerging-market green bonds and states no nature component [IC].
+Amundi signed the Finance for Biodiversity Pledge and the relaunched Net Zero Asset Managers initiative [IC]. Its Planet Emerging Green One fund closed at US\$1.42 billion in 2018 with an [[investors/international-finance-corporation|IFC]] cornerstone of US\$256 million; the fund buys emerging-market green bonds and states no nature component [IC].
 
 ## Related
 

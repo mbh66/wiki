@@ -29,8 +29,8 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Yuba I Forest Resilience Bond | 2018 | Impact or resilience bond | Investor | Share of US$4.6m | [MS] |
-| Yuba II Forest Resilience Bond | 2021 | Impact or resilience bond | Market-rate investor | Share of US$25m | [MS] |
+| Yuba I Forest Resilience Bond | 2018 | Impact or resilience bond | Investor | Share of US\$4.6m | [MS] |
+| Yuba II Forest Resilience Bond | 2021 | Impact or resilience bond | Market-rate investor | Share of US\$25m | [MS] |
 
 CSAA is the only insurer in the register that has invested in a nature performance instrument in its own underwriting region. No source quotes it linking the restoration to its own wildfire losses. The register places it in Tier 2 as a regional insurer; its only documented deals are domestic, which would also support Tier 3.
 

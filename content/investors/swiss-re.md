@@ -29,8 +29,8 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover (Swiss Re Corporate Solutions) | Share of about US$250m private panel | [MS] |
-| Quintana Roo reef parametric insurance | 2019 | Adjacent | Reinsurer and co-developer | US$850,000 payout after Hurricane Delta (2020) | [MS] |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover (Swiss Re Corporate Solutions) | Share of about US\$250m private panel | [MS] |
+| Quintana Roo reef parametric insurance | 2019 | Adjacent | Reinsurer and co-developer | US\$850,000 payout after Hurricane Delta (2020) | [MS] |
 
 Swiss Re and DFC each state the Gabon panel [MS]. The Quintana Roo policy pays when wind speeds of 96 knots or more pass within 60 kilometers of the reef; premiums come from the state and a hotel levy [MS]. Swiss Re's own research positions on nature and losses were not researched for the register.
 
@@ -40,7 +40,7 @@ Swiss Re ties the Quintana Roo cover to the reef's role in the state's tourism e
 
 ## Open questions
 
-Dialogue Earth puts the 2020 payout at "almost US$800,000" against Swiss Re's US$850,000 [TBV]. Accounts differ on whether Seguros Banorte or Seguros Afirme was the primary insurer [TBV].
+Dialogue Earth puts the 2020 payout at "almost US\$800,000" against Swiss Re's US\$850,000 [TBV]. Accounts differ on whether Seguros Banorte or Seguros Afirme was the primary insurer [TBV].
 
 ## Related
 

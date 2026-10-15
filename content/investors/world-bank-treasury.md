@@ -29,13 +29,13 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Issuer | US$150m | [IC] |
-| World Bank Amazon Reforestation-Linked Outcome Bond | 2024 | Outcome-linked bond | Issuer | US$225m | [IC] |
-| World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Issuer | US$120m | [IC] |
-| World Bank Plastic Waste Reduction-Linked Bond | 2024 | Adjacent | Issuer | US$100m | [MS] |
-| World Bank Emission Reduction-Linked Bond (Vietnam) | 2023 | Outside scope | Issuer | US$50m | [MS] |
-| World Bank Clean Cooking Outcome Bond (Ghana) | 2025 | Outside scope | Issuer | US$200m | [IC] |
-| Seychelles sovereign blue bond | 2018 | Adjacent | Partial guarantor | US$5m | [MS] |
+| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Issuer | US\$150m | [IC] |
+| World Bank Amazon Reforestation-Linked Outcome Bond | 2024 | Outcome-linked bond | Issuer | US\$225m | [IC] |
+| World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Issuer | US\$120m | [IC] |
+| World Bank Plastic Waste Reduction-Linked Bond | 2024 | Adjacent | Issuer | US\$100m | [MS] |
+| World Bank Emission Reduction-Linked Bond (Vietnam) | 2023 | Outside scope | Issuer | US\$50m | [MS] |
+| World Bank Clean Cooking Outcome Bond (Ghana) | 2025 | Outside scope | Issuer | US\$200m | [IC] |
+| Seychelles sovereign blue bond | 2018 | Adjacent | Partial guarantor | US\$5m | [MS] |
 
 In these bonds the outcome risk sits in the coupon while the principal carries World Bank credit, so a buyer takes a nature exposure inside a conventional fixed-income holding [IC]. The Rhino Bond pays no coupon and a conservation success payment at maturity in March 2027, funded by the [[investors/global-environment-facility|Global Environment Facility]]; the black rhino population grew at a compound rate of nearly 8% a year, about double the maximum target [MS]. The Amazon bond pays 1.745% plus a coupon linked to the sale of carbon removal units, and the Spekboom bond pays 2.410% plus variable amounts, with a potential return of 5.078% if the project performs [IC]. In December 2025 the Bank said it had issued six outcome bonds with more than 25 investors across them [MS]. Its pipeline includes an Indonesia coral reef bond unveiled in June 2025 and a Rwanda chimpanzee habitat bond approved in May 2026; neither had priced by October 2026 [MS].
 

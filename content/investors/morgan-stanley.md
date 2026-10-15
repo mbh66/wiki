@@ -29,8 +29,8 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| City of Hampton Environmental Impact Bond | 2018 | Impact or resilience bond | Underwriter (bank) | US$12m issue | [MS] |
-| Buffalo Sewer Authority Environmental Impact Bond | 2021 | Impact or resilience bond | Co-structurer (bank) | US$54m issue | [MS] |
+| City of Hampton Environmental Impact Bond | 2018 | Impact or resilience bond | Underwriter (bank) | US\$12m issue | [MS] |
+| Buffalo Sewer Authority Environmental Impact Bond | 2021 | Impact or resilience bond | Co-structurer (bank) | US\$54m issue | [MS] |
 | World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Investor (MSIM) | Not disclosed | [MS] |
 
 Hampton's bond was publicly sold and reported as "well oversubscribed", mostly by funds with environmental, social and governance mandates that are not named [MS]. Buffalo's bond carries an outcomes-based call feature tied to replacing at least 200 acres of impervious surface by 2028 [MS].

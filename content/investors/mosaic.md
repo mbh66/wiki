@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-Mosaic is one of eight private carriers that DFC says shared half of its US$500 million political-risk insurance on the 2023 Gabon Blue Bond [MS].
+Mosaic is one of eight private carriers that DFC says shared half of its US\$500 million political-risk insurance on the 2023 Gabon Blue Bond [MS].
 
 > [!note] Right of reply
 > This page describes Mosaic only through its published statements and the public records of the deals listed. Mosaic has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,7 +29,7 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover | Share of about US$250m private panel | [MS] |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover | Share of about US\$250m private panel | [MS] |
 
 ## Related
 

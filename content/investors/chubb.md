@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-Chubb reinsured US$300 million of the US DFC's political-risk insurance on the 2021 Belize Blue Bond, the largest disclosed private insurance share in any debt-for-nature deal [MS].
+Chubb reinsured US\$300 million of the US DFC's political-risk insurance on the 2021 Belize Blue Bond, the largest disclosed private insurance share in any debt-for-nature deal [MS].
 
 > [!note] Right of reply
 > This page describes Chubb only through its published statements and the public records of the deals listed. Chubb has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,8 +29,8 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Belize Blue Bond | 2021 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover | US$300m | [MS] |
-| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover (Chubb Global Markets) | Share of about US$250m private panel | [MS] |
+| Belize Blue Bond | 2021 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover | US\$300m | [MS] |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover (Chubb Global Markets) | Share of about US\$250m private panel | [MS] |
 
 On Belize, about half of DFC's exposure was reinsured privately; on Gabon, DFC kept 50% and shared 50% with eight carriers [MS]. The Center for Global Development names Chubb, with Lloyd's and AIG, among general participants in the political-risk market [MS].
 

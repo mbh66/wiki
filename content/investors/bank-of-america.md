@@ -29,10 +29,10 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Arranger | US$500m | [IC] |
-| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Sole structuring agent, dealer manager, arranger, initial purchaser | US$1bn | [IC] |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Arranger | US\$500m | [IC] |
+| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Sole structuring agent, dealer manager, arranger, initial purchaser | US\$1bn | [IC] |
 
-Both deals carried [[investors/us-international-development-finance-corporation|US DFC]] political-risk insurance; the Ecuador deal also carried an [[investors/inter-american-development-bank|IDB]] liquidity guarantee [IC]. The Ecuador conversion refinanced about US$1.53 billion of bonds and is expected to provide about US$400 million in new conservation funding over 17 years [IC].
+Both deals carried [[investors/us-international-development-finance-corporation|US DFC]] political-risk insurance; the Ecuador deal also carried an [[investors/inter-american-development-bank|IDB]] liquidity guarantee [IC]. The Ecuador conversion refinanced about US\$1.53 billion of bonds and is expected to provide about US\$400 million in new conservation funding over 17 years [IC].
 
 ## Related
 

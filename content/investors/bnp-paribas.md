@@ -29,7 +29,7 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Sole lead manager, bookrunner, hedge and forward-flow counterparty (bank) | US$120m issue | [IC] |
+| World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Sole lead manager, bookrunner, hedge and forward-flow counterparty (bank) | US\$120m issue | [IC] |
 | World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Investor (BNP Paribas Cardif) | Not disclosed | [IC] |
 | World Bank Indonesia Coral Reef Bond (pipeline) | 2025 | Outcome-linked bond | Planned success-payment source (bank) | Not disclosed | [MS] |
 
@@ -47,7 +47,7 @@ The register lists three BNP Paribas entities separately by role: the bank (arra
 
 - [World Bank, Spekboom Restoration Outcome Bond pricing (23 April 2026)](https://www.worldbank.org/en/news/press-release/2026/04/23/world-bank-prices-14-year-spekboom-restoration-outcome-bond-in-south-africa)
 - [World Bank, Spekboom bond case study (2026)](https://thedocs.worldbank.org/en/doc/d42f53b54b13a1e416c7779742cfb1cc-0340022026/original/Case-Study-Spekboom-Restoration-Linked-Bond.pdf)
-- [FS Sustainability, "Institutional investors inject $166m into World Bank bond" (2026)](https://www.fssustainability.com.au/institutional-investors-inject-166m-into-world-bank-bond)
+- [FS Sustainability, "Institutional investors inject \$166m into World Bank bond" (2026)](https://www.fssustainability.com.au/institutional-investors-inject-166m-into-world-bank-bond)
 - [KKP Indonesia, Coral Reef Bond](https://kkp.go.id/coralreefbond.html)
 - [Governance Intelligence, Nature Action 100 launch (October 2023)](https://www.governance-intelligence.com/shareholders-activism/investor-group-targets-100-companies-over-nature-loss)
 - [Manifest, NZAM relaunched with 250 signatories (2026)](https://www.manifest.co.uk/nzam-revived-relaunched-initiative-draws-250-signatories)

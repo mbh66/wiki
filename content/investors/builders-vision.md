@@ -17,7 +17,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-Builders Vision provided a US$70 million collateralized partial credit guarantee to the Bahamas' 2024 conservation-linked conversion [MS].
+Builders Vision provided a US\$70 million collateralized partial credit guarantee to the Bahamas' 2024 conservation-linked conversion [MS].
 
 > [!note] Right of reply
 > This page describes Builders Vision only through its published statements and the public records of the deals listed. Builders Vision has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -28,9 +28,9 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Collateralized partial credit guarantor | US$70m | [MS] |
+| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Collateralized partial credit guarantor | US\$70m | [MS] |
 
-It is the only private guarantor in the register's debt conversions. Its guarantee sat beside a US$200 million [[investors/inter-american-development-bank|IDB]] guarantee and US$30 million of [[investors/axa|AXA XL]] credit insurance behind a [[investors/standard-chartered|Standard Chartered]] loan [MS].
+It is the only private guarantor in the register's debt conversions. Its guarantee sat beside a US\$200 million [[investors/inter-american-development-bank|IDB]] guarantee and US\$30 million of [[investors/axa|AXA XL]] credit insurance behind a [[investors/standard-chartered|Standard Chartered]] loan [MS].
 
 ## Related
 

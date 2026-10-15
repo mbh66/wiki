@@ -29,8 +29,8 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| World Bank Amazon Reforestation-Linked Outcome Bond | 2024 | Outcome-linked bond | Structurer, sole lead manager | US$225m issue | [IC] |
-| Uruguay sovereign sustainability-linked bond | 2022 | Sustainability-linked bond | Bookrunner | US$1.5bn issue | [IC] |
+| World Bank Amazon Reforestation-Linked Outcome Bond | 2024 | Outcome-linked bond | Structurer, sole lead manager | US\$225m issue | [IC] |
+| Uruguay sovereign sustainability-linked bond | 2022 | Sustainability-linked bond | Bookrunner | US\$1.5bn issue | [IC] |
 
 Uruguay's bond holds native forest area at 100% of the 2012 reference as one of two targets; the coupon steps up if targets are missed, and the forest value is next measured in May 2027 [IC]. HSBC Pollination Climate Asset Management, a joint venture, co-founded the Natural Capital Investment Alliance in 2021 and is on the register's watch list [IC].
 
@@ -45,7 +45,7 @@ Uruguay's bond holds native forest area at 100% of the 2012 reference as one of 
 
 - [IFR, World Bank Amazon reforestation bond (August 2024)](https://www.ifre.com/esg/2027954/correction-world-bank-opens-up-range-of-possibilities-with-new-amazon-reforestation-bond)
 - [World Bank, Amazon Reforestation-Linked Outcome Bond release (13 August 2024)](https://www.worldbank.org/en/news/press-release/2024/08/13/investors-support-amazon-reforestation-through-record-breaking-usd-225-million-world-bank-outcome-bond)
-- [IFR, Uruguay's US$1.5bn sustainability-linked bond (2022)](https://ifre.com/story/3661444/latin-america-bond-uruguays-us15bn-sustainability-linked-bond-wh65f7xrlp)
+- [IFR, Uruguay's US\$1.5bn sustainability-linked bond (2022)](https://ifre.com/story/3661444/latin-america-bond-uruguays-us15bn-sustainability-linked-bond-wh65f7xrlp)
 - [Uruguay Ministry of Economy and Finance, SSLB third annual report (May 2025)](https://www.mef.gub.uy/innovaportal/file/30705/23/sslb-3rd-annual-report-may-2025_compressed.pdf)
 - [The Asian Banker, launch of the Natural Capital Investment Alliance (January 2021)](https://www.theasianbanker.com/press-releases/hsbc-pollination-climate-asset-management-lombard-odier-and-natixis-mirova-launch-natural-capital-themed-investment-alliance)
 

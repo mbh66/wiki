@@ -28,7 +28,7 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Yuba I Forest Resilience Bond | 2018 | Impact or resilience bond | Investor | Share of US$4.6m | [MS] |
+| Yuba I Forest Resilience Bond | 2018 | Impact or resilience bond | Investor | Share of US\$4.6m | [MS] |
 | Atlanta Environmental Impact Bond | 2019 | Impact or resilience bond | Grant support | Not disclosed | [MS] |
 
 ## Related

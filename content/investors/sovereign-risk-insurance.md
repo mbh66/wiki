@@ -30,7 +30,7 @@ The register follows instruments whose terms depend on a verified ecological out
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
 | Belize Blue Bond | 2021 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover | Not disclosed | [MS] |
-| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover | Share of about US$250m private panel | [MS] |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover | Share of about US\$250m private panel | [MS] |
 
 ## What it has said
 

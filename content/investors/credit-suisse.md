@@ -29,10 +29,10 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Sole structurer, joint bookrunner | US$150m issue | [MS] |
-| Belize Blue Bond | 2021 | Debt-for-nature conversion | Arranger, full financing, syndication | US$364m Blue Loan | [MS] |
-| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Global lead arranger | About US$150m | [IC] |
-| Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Arranger | US$656m | [IC] |
+| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Sole structurer, joint bookrunner | US\$150m issue | [MS] |
+| Belize Blue Bond | 2021 | Debt-for-nature conversion | Arranger, full financing, syndication | US\$364m Blue Loan | [MS] |
+| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Global lead arranger | About US\$150m | [IC] |
+| Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Arranger | US\$656m | [IC] |
 
 After UBS absorbed Credit Suisse in 2023, UBS joined the arranging consortium for Barbados's 2024 climate-resilience conversion and was later reported to have reduced its role [MS]. Ramzi Issa, who reworked the swap structure at Credit Suisse in 2021, left UBS and founded Enosis Capital, which advised Ecuador on its 2024 Amazon conversion [IC]. Several banks were reported exploring the market after Credit Suisse's collapse, among them [[investors/citi|Citi]], [[investors/hsbc|HSBC]], [[investors/standard-chartered|Standard Chartered]] and [[investors/goldman-sachs|Goldman Sachs]] [MS].
 

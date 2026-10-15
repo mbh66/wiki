@@ -30,9 +30,9 @@ The register follows instruments whose terms depend on a verified ecological out
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
 | Cape Water Performance-Based Bond (FR31PB) | 2026 | Outcome-linked bond | Arranger and structurer | R2.5bn issue | [IC] |
-| RMB wild dog and lion outcome bonds (planned) | 2024 | Outcome-linked bond | Sponsor | About US$233m planned | [MS] |
+| RMB wild dog and lion outcome bonds (planned) | 2024 | Outcome-linked bond | Sponsor | About US\$233m planned | [MS] |
 
-In 2024 RMB planned about US$233 million of wildlife bonds for African wild dogs and for lion reintroduction in Mozambique, and said issuance "is not a certainty" [MS]. By July 2025 SANParks was in talks with RMB about conservation outcome bonds, including an expansion of the rhino bond [MS]. None had been issued by October 2026 in the sources found.
+In 2024 RMB planned about US\$233 million of wildlife bonds for African wild dogs and for lion reintroduction in Mozambique, and said issuance "is not a certainty" [MS]. By July 2025 SANParks was in talks with RMB about conservation outcome bonds, including an expansion of the rhino bond [MS]. None had been issued by October 2026 in the sources found.
 
 ## Related
 

@@ -16,7 +16,7 @@ A small, recurring group of institutions has funded the 22 nature performance de
 
 This register records every institution found in a public deal record for an instrument whose terms depend on a verified ecological outcome: the broad family of the [[performance-based-bond|performance-based bond]]. It exists so that a [[biohub|BioHub]] preparing its own instrument can see who has already bought, arranged, guaranteed, insured or paid for outcomes in a comparable deal, and on what terms.
 
-A handful of names recur. [[investors/nuveen|Nuveen]] appears in more nature deals than any other bondholder, and [[investors/mackenzie-investments|Mackenzie Investments]] is the only other buyer named in all three World Bank nature outcome bonds. [[investors/legal-and-general|Legal & General]] reports more than US$465 million across four sovereign debt-for-nature conversions [MS]. The credit beneath those conversions came from public institutions: US DFC political-risk insurance covered five of the eight commercial conversions and IDB guarantees covered four [IC]. In the R2.5 billion Cape Water bond of April 2026, IFC and FSD Africa Investments supplied about R1.83 billion on disclosed figures.
+A handful of names recur. [[investors/nuveen|Nuveen]] appears in more nature deals than any other bondholder, and [[investors/mackenzie-investments|Mackenzie Investments]] is the only other buyer named in all three World Bank nature outcome bonds. [[investors/legal-and-general|Legal & General]] reports more than US\$465 million across four sovereign debt-for-nature conversions [MS]. The credit beneath those conversions came from public institutions: US DFC political-risk insurance covered five of the eight commercial conversions and IDB guarantees covered four [IC]. In the R2.5 billion Cape Water bond of April 2026, IFC and FSD Africa Investments supplied about R1.83 billion on disclosed figures.
 
 Insurers take two roles. As risk carriers, [[investors/axa|AXA XL]], [[investors/chubb|Chubb]], [[investors/coface|Coface]], [[investors/swiss-re|Swiss Re]] and specialist political-risk carriers reinsured DFC's cover, and AXA XL wrote direct credit insurance on the 2024 Bahamas conversion. As bondholders, L&G, BNP Paribas Cardif, MetLife Investment Management, Skandia, Velliv, Sanlam Life and CSAA Insurance Group bought outcome or forest resilience bonds, most of them since 2024. [[investors/blackrock|BlackRock]] is on the watch list: it publishes research on nature as an investment risk, and no deal record checked names it.
 
@@ -40,7 +40,7 @@ Parametric reef insurance is recorded as **adjacent**: it pays on a wind-speed t
 
 | Tier | Who it holds |
 |---|---|
-| 1. Global allocators | Asset managers above about US$1 trillion, insurers and reinsurers writing business across continents, global banks, multilateral development banks, sovereign wealth funds |
+| 1. Global allocators | Asset managers above about US\$1 trillion, insurers and reinsurers writing business across continents, global banks, multilateral development banks, sovereign wealth funds |
 | 2. Regional and specialist capital | Bilateral and regional development finance institutions, mid-size and impact managers, pension funds and insurers buying across borders, specialist insurers and brokers, global outcome payers, foundations of global reach, corporate outcome buyers |
 | 3. National institutions | Commercial banks that issue or arrange at home, domestic managers, pension funds and insurers, national development banks, local foundations |
 
@@ -70,28 +70,28 @@ Institutions with minor, adjacent-only or outside-scope roles, and the public bo
 
 | Deal | Year | Family | Issuer and country | Size | Outcome measure | Arranger |
 |---|---|---|---|---|---|---|
-| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | IBRD; South Africa | US$150m | Black rhino population growth | [[investors/credit-suisse\|Credit Suisse]], [[investors/citi\|Citi]] |
-| World Bank Amazon Reforestation-Linked Outcome Bond | 2024 | Outcome-linked bond | IBRD; Brazil | US$225m | Sales of carbon removal units from reforestation | [[investors/hsbc\|HSBC]] |
-| World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | IBRD; South Africa | US$120m | Carbon removal units from 50,000 ha of spekboom restoration | [[investors/bnp-paribas\|BNP Paribas]] |
+| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | IBRD; South Africa | US\$150m | Black rhino population growth | [[investors/credit-suisse\|Credit Suisse]], [[investors/citi\|Citi]] |
+| World Bank Amazon Reforestation-Linked Outcome Bond | 2024 | Outcome-linked bond | IBRD; Brazil | US\$225m | Sales of carbon removal units from reforestation | [[investors/hsbc\|HSBC]] |
+| World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | IBRD; South Africa | US\$120m | Carbon removal units from 50,000 ha of spekboom restoration | [[investors/bnp-paribas\|BNP Paribas]] |
 | Cape Water Performance-Based Bond (FR31PB) | 2026 | Outcome-linked bond | FirstRand Bank; South Africa | R2.5bn | Hectares of invasive alien plants cleared | [[investors/rand-merchant-bank\|Rand Merchant Bank]] |
-| DC Water Environmental Impact Bond | 2016 | Impact bond | DC Water; US | US$25m | Stormwater runoff reduction | Quantified Ventures |
-| City of Hampton Environmental Impact Bond | 2018 | Impact bond | City of Hampton; US | US$12m | Stormwater storage added | [[investors/morgan-stanley\|Morgan Stanley]] |
-| Yuba I Forest Resilience Bond | 2018 | Resilience bond | Blue Forest; US | US$4.6m | Forest restoration across 15,000 acres | Blue Forest |
-| Atlanta Environmental Impact Bond | 2019 | Impact bond | City of Atlanta; US | US$14m | Stormwater managed by green infrastructure | Quantified Ventures |
-| Buffalo Sewer Authority Environmental Impact Bond | 2021 | Impact bond | Buffalo Sewer Authority; US | US$54m | Impervious surface replaced | Morgan Stanley, Quantified Ventures |
-| Yuba II Forest Resilience Bond | 2021 | Resilience bond | Blue Forest; US | US$25m | Treatment across 48,000 acres | Blue Forest |
+| DC Water Environmental Impact Bond | 2016 | Impact bond | DC Water; US | US\$25m | Stormwater runoff reduction | Quantified Ventures |
+| City of Hampton Environmental Impact Bond | 2018 | Impact bond | City of Hampton; US | US\$12m | Stormwater storage added | [[investors/morgan-stanley\|Morgan Stanley]] |
+| Yuba I Forest Resilience Bond | 2018 | Resilience bond | Blue Forest; US | US\$4.6m | Forest restoration across 15,000 acres | Blue Forest |
+| Atlanta Environmental Impact Bond | 2019 | Impact bond | City of Atlanta; US | US\$14m | Stormwater managed by green infrastructure | Quantified Ventures |
+| Buffalo Sewer Authority Environmental Impact Bond | 2021 | Impact bond | Buffalo Sewer Authority; US | US\$54m | Impervious surface replaced | Morgan Stanley, Quantified Ventures |
+| Yuba II Forest Resilience Bond | 2021 | Resilience bond | Blue Forest; US | US\$25m | Treatment across 48,000 acres | Blue Forest |
 | Upper Mokelumne I Forest Resilience Bond | 2024 | Resilience bond | Blue Forest; US | Not disclosed | Treatment across 26,000 acres | Blue Forest |
 | Wyre Catchment Natural Flood Management (borderline) | 2020 | Impact bond | The Rivers Trust; UK | Not confirmed | Natural flood management across 70 ha | Triodos Bank UK |
-| Seychelles debt conversion | 2016 | Debt-for-nature conversion | Seychelles | US$21.6m converted | 30% of the exclusive economic zone protected | [[investors/the-nature-conservancy\|The Nature Conservancy]] |
-| Belize Blue Bond | 2021 | Debt-for-nature conversion | Belize | US$364m loan | Ocean protection raised to 30% | Credit Suisse |
-| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Barbados | About US$150m | Up to 30% of marine waters protected | Credit Suisse, [[investors/cibc-caribbean\|CIBC Caribbean]] |
-| Galápagos Marine Bond | 2023 | Debt-for-nature conversion | Ecuador | US$656m | Hermandad Marine Reserve milestones | Credit Suisse |
-| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Gabon | US$500m | Marine spatial plan, 30% of ocean protected | [[investors/bank-of-america\|Bank of America]] |
-| El Salvador Rio Lempa conversion | 2024 | Debt-for-nature conversion | El Salvador | US$1bn loan | Watershed authority, aquifer recharge zones | [[investors/jpmorgan-chase\|J.P. Morgan]] |
-| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | The Bahamas | US$300m loan | Eleven conservation milestones over 15 years | [[investors/standard-chartered\|Standard Chartered]] |
-| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Ecuador | US$1bn | Protected area management across 4.6m ha | Bank of America |
-| US-Indonesia debt swap (bilateral) | 2025 | Debt-for-nature conversion | Indonesia | US$35m | Coral reef conservation | None |
-| Uruguay sovereign sustainability-linked bond | 2022 | Sustainability-linked bond | Uruguay | US$1.5bn, tapped to US$2.2bn | Native forest area | HSBC, J.P. Morgan, Crédit Agricole, Santander |
+| Seychelles debt conversion | 2016 | Debt-for-nature conversion | Seychelles | US\$21.6m converted | 30% of the exclusive economic zone protected | [[investors/the-nature-conservancy\|The Nature Conservancy]] |
+| Belize Blue Bond | 2021 | Debt-for-nature conversion | Belize | US\$364m loan | Ocean protection raised to 30% | Credit Suisse |
+| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Barbados | About US\$150m | Up to 30% of marine waters protected | Credit Suisse, [[investors/cibc-caribbean\|CIBC Caribbean]] |
+| Galápagos Marine Bond | 2023 | Debt-for-nature conversion | Ecuador | US\$656m | Hermandad Marine Reserve milestones | Credit Suisse |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Gabon | US\$500m | Marine spatial plan, 30% of ocean protected | [[investors/bank-of-america\|Bank of America]] |
+| El Salvador Rio Lempa conversion | 2024 | Debt-for-nature conversion | El Salvador | US\$1bn loan | Watershed authority, aquifer recharge zones | [[investors/jpmorgan-chase\|J.P. Morgan]] |
+| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | The Bahamas | US\$300m loan | Eleven conservation milestones over 15 years | [[investors/standard-chartered\|Standard Chartered]] |
+| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Ecuador | US\$1bn | Protected area management across 4.6m ha | Bank of America |
+| US-Indonesia debt swap (bilateral) | 2025 | Debt-for-nature conversion | Indonesia | US\$35m | Coral reef conservation | None |
+| Uruguay sovereign sustainability-linked bond | 2022 | Sustainability-linked bond | Uruguay | US\$1.5bn, tapped to US\$2.2bn | Native forest area | HSBC, J.P. Morgan, Crédit Agricole, Santander |
 
 Adjacent deals: the Quintana Roo reef insurance (2019), the Mesoamerican Reef insurance (from 2021), The Nature Conservancy's Hawaii reef policies (2022 to 2024), the 2018 Seychelles blue bond and Barbados's 2024 debt-for-climate-resilience operation. Unissued in October 2026: the World Bank's Indonesia coral reef and Rwanda chimpanzee bonds, and RMB's planned wildlife bonds.
 
@@ -99,7 +99,7 @@ Adjacent deals: the Quintana Roo reef insurance (2019), the Mesoamerican Reef in
 
 Insurers enter through three channels. Two are in scope: holding the bonds, and carrying sovereign credit and political risk behind DFC or beside development bank guarantees. Parametric reef underwriting is the adjacent third.
 
-- **Risk carriers.** On Belize and Gabon, private insurers took about half of DFC's exposure [MS]. Chubb's US$300 million on Belize is the only disclosed individual share. The Bahamas deal moved [[investors/axa|AXA XL]] from reinsurer to direct credit enhancer, with US$30 million of excess-of-loss cover beside an IDB guarantee and a Builders Vision guarantee [MS]. The panels for Galápagos (ten carriers besides Coface), El Salvador and Ecuador Amazon are not public.
+- **Risk carriers.** On Belize and Gabon, private insurers took about half of DFC's exposure [MS]. Chubb's US\$300 million on Belize is the only disclosed individual share. The Bahamas deal moved [[investors/axa|AXA XL]] from reinsurer to direct credit enhancer, with US\$30 million of excess-of-loss cover beside an IDB guarantee and a Builders Vision guarantee [MS]. The panels for Galápagos (ten carriers besides Coface), El Salvador and Ecuador Amazon are not public.
 - **Bondholders.** The 2022 Rhino Bond book named no insurer. Velliv and Skandia entered in 2023 and 2024; L&G, BNP Paribas Cardif and MetLife Investment Management followed in 2025 and 2026. The 14-year Spekboom bond drew four insurer or insurer-owned buyers. No source shows an insurer buying a nature performance bond to reduce its own claims; [[investors/csaa-insurance-group|CSAA's]] statements speak of policyholders and communities in general terms.
 - **Parametric cover.** Swiss Re, Munich Re, AXA Climate and a Mexican primary insurer write reef cover, with premiums paid by governments, a hotel levy, donors and WTW.
 
@@ -111,7 +111,7 @@ Insurers enter through three channels. Two are in scope: holding the bonds, and 
 
 - **Repeat buyers.** Nuveen (seven deals across all categories), L&G (six), Mackenzie (five) and Velliv (four) lead the count. The outcome-bond buyer base is a narrow set of impact and sustainable fixed-income desks in Europe and North America. No bondholder appears in both the World Bank deals and the Cape Water bond; Citi and Conservation Alpha, the Rhino Bond's calculation agent and Cape Water's design and technical agent, link the two.
 - **Public credit underneath.** IBRD issued three of the four nature outcome bonds. Every commercial debt conversion from 2021 to 2024 used an AAA or AA wrapper from DFC, IDB, CAF or, in the Bahamas, an insurer beside two guarantors.
-- **DFC's change of priorities.** DFC's commitments fell from US$12.1 billion in fiscal 2024 to US$3.6 billion in fiscal 2025, with priorities moved to minerals, energy and transport [IC]. No commercial debt-for-nature conversion closed in 2025 or 2026 in the sources found. Reuters' sources pointed to the Bahamas structure, without DFC, as an alternative [MS].
+- **DFC's change of priorities.** DFC's commitments fell from US\$12.1 billion in fiscal 2024 to US\$3.6 billion in fiscal 2025, with priorities moved to minerals, energy and transport [IC]. No commercial debt-for-nature conversion closed in 2025 or 2026 in the sources found. Reuters' sources pointed to the Bahamas structure, without DFC, as an alternative [MS].
 - **Bank issuers and domestic buyers.** The Cape Water bond is the first nature outcome bond in the register issued by a commercial bank, listed on a domestic exchange and sold mainly to domestic buyers and two development finance institutions. Its outcome funding comes from a corporate foundation, a national development bank and local foundations.
 
 ## Context

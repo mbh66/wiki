@@ -15,7 +15,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-Norges Bank Investment Management (NBIM), which manages about US$2 trillion for Norway, is on the register's watch list: it has published nature expectations for companies, and no nature performance bond names it [IC].
+Norges Bank Investment Management (NBIM), which manages about US\$2 trillion for Norway, is on the register's watch list: it has published nature expectations for companies, and no nature performance bond names it [IC].
 
 > [!note] Right of reply
 > This page describes NBIM only through its published statements and the public records of the deals listed. NBIM has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.

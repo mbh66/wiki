@@ -29,19 +29,19 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Lead investor | US$50m (own account) | [IC] role; [MS] amount |
+| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Lead investor | US\$50m (own account) | [IC] role; [MS] amount |
 | World Bank Amazon Reforestation-Linked Outcome Bond | 2024 | Outcome-linked bond | Largest investor | Not disclosed | [IC] |
 | World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Investor | Not disclosed | [IC] |
-| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Anchor investor | US$50m over 15 years (own account) | [MS] |
+| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Anchor investor | US\$50m over 15 years (own account) | [MS] |
 | Seychelles sovereign blue bond | 2018 | Adjacent | Investor | Not disclosed | [IC] |
 | World Bank Emission Reduction-Linked Bond (Vietnam) | 2023 | Outside scope | Investor | Not disclosed | [MS] |
 | World Bank Clean Cooking Outcome Bond (Ghana) | 2025 | Outside scope | Investor | Not disclosed | [IC] |
 
-Nuveen says it invested US$50 million in the Rhino Bond after nearly nine months of due diligence, and that it obtained access to impact data from the Barbados marine spatial plan as a condition of its anchor position [MS]. Reuters reported in May 2023 that Nuveen was evaluating a large position in the Galápagos bond [MS]; no source confirms a purchase.
+Nuveen says it invested US\$50 million in the Rhino Bond after nearly nine months of due diligence, and that it obtained access to impact data from the Barbados marine spatial plan as a condition of its anchor position [MS]. Reuters reported in May 2023 that Nuveen was evaluating a large position in the Galápagos bond [MS]; no source confirms a purchase.
 
 ## Open questions
 
-A Bloomberg headline reports that Nuveen walked away from the 2023 Gabon deal; the article was not read [TBV]. The register places Nuveen in Tier 1 on reported assets of about US$1.3 trillion, and its ownership by TIAA is still to be confirmed from a public record [TBV].
+A Bloomberg headline reports that Nuveen walked away from the 2023 Gabon deal; the article was not read [TBV]. The register places Nuveen in Tier 1 on reported assets of about US\$1.3 trillion, and its ownership by TIAA is still to be confirmed from a public record [TBV].
 
 ## Related
 

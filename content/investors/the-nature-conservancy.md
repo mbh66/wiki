@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-The Nature Conservancy (TNC) appears in more deals than any other party in the register. It qualifies as a funder because it lent and guaranteed from its own balance sheet: US$364 million to Belize through its subsidiary BBIC, and a US$50 million guarantee on Barbados [MS].
+The Nature Conservancy (TNC) appears in more deals than any other party in the register. It qualifies as a funder because it lent and guaranteed from its own balance sheet: US\$364 million to Belize through its subsidiary BBIC, and a US\$50 million guarantee on Barbados [MS].
 
 > [!note] Right of reply
 > This page describes the Nature Conservancy only through its published statements and the public records of the deals listed. The Nature Conservancy has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,15 +29,15 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Seychelles debt conversion | 2016 | Debt-for-nature conversion | Sponsor, grant funder and lender (NatureVest) | US$21.6m converted | [MS] |
-| Belize Blue Bond | 2021 | Debt-for-nature conversion | Lender (Blue Loan via BBIC); monitor for 20 years | US$364m | [MS] |
-| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Guarantor | US$50m | [MS] |
+| Seychelles debt conversion | 2016 | Debt-for-nature conversion | Sponsor, grant funder and lender (NatureVest) | US\$21.6m converted | [MS] |
+| Belize Blue Bond | 2021 | Debt-for-nature conversion | Lender (Blue Loan via BBIC); monitor for 20 years | US\$364m | [MS] |
+| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Guarantor | US\$50m | [MS] |
 | Gabon Blue Bond | 2023 | Debt-for-nature conversion | Sponsor | Not disclosed | [MS] |
 | The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Sponsor; validates annual reports | Not disclosed | [MS] |
 | Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Sponsor | Not disclosed | [IC] |
 | Cape Water Performance-Based Bond (FR31PB) | 2026 | Outcome-linked bond | Implementer (TNC South Africa) | R150m conservation funding over five years | [MS] |
 | Quintana Roo reef parametric insurance | 2019 | Adjacent | Co-developer | Not applicable | [MS] |
-| The Nature Conservancy's Hawaii reef insurance | 2022 to 2024 | Adjacent | Policyholder | About US$106,000 premium (2024) | [MS] |
+| The Nature Conservancy's Hawaii reef insurance | 2022 to 2024 | Adjacent | Policyholder | About US\$106,000 premium (2024) | [MS] |
 
 TNC lists no debt-for-nature deal for 2025 or 2026 on its Nature Bonds page [MS]. Its South African program, which implements the Cape Water bond's clearing through the Greater Cape Town Water Fund, has its own page on the Ward 2 Development Forum register.
 

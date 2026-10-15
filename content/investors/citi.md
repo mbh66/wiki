@@ -29,10 +29,10 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Joint bookrunner | US$150m issue | [MS] |
+| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Joint bookrunner | US\$150m issue | [MS] |
 | Cape Water Performance-Based Bond (FR31PB) | 2026 | Outcome-linked bond | Counterparty to IFC's rand funding facility | R1.6bn facility | [IC] |
-| World Bank Plastic Waste Reduction-Linked Bond | 2024 | Adjacent | Lead manager, hedge counterparty | US$100m issue | [IC] |
-| World Bank Emission Reduction-Linked Bond (Vietnam) | 2023 | Outside scope | Lead manager | US$50m issue | [IC] |
+| World Bank Plastic Waste Reduction-Linked Bond | 2024 | Adjacent | Lead manager, hedge counterparty | US\$100m issue | [IC] |
+| World Bank Emission Reduction-Linked Bond (Vietnam) | 2023 | Outside scope | Lead manager | US\$50m issue | [IC] |
 
 Citi links the World Bank outcome bonds with the Cape Water bond, which share no bondholders. American Banker reported in 2023 that Citi was looking at the debt-swap business that Credit Suisse had led [MS].
 

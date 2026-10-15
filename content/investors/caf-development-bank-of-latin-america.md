@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-CAF provided a US$200 million standby letter of credit to El Salvador's 2024 debt-for-nature conversion, which funds conservation of the Rio Lempa watershed [IC].
+CAF provided a US\$200 million standby letter of credit to El Salvador's 2024 debt-for-nature conversion, which funds conservation of the Rio Lempa watershed [IC].
 
 > [!note] Right of reply
 > This page describes CAF only through its published statements and the public records of the deals listed. CAF has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,9 +29,9 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| El Salvador Rio Lempa conversion | 2024 | Debt-for-nature conversion | Credit enhancer (standby letter of credit) | US$200m | [IC] |
+| El Salvador Rio Lempa conversion | 2024 | Debt-for-nature conversion | Credit enhancer (standby letter of credit) | US\$200m | [IC] |
 
-The El Salvador deal refinanced US$1.031 billion of bonds with a US$1 billion, 20-year loan arranged by [[investors/jpmorgan-chase|J.P. Morgan]], wrapped in [[investors/us-international-development-finance-corporation|US DFC]] political-risk insurance [IC]. Breaches of the conservation commitments raise the interest rate, and compliance can lower it [IC]. The register places CAF in Tier 1 with the multilateral development banks, although it is a regional bank.
+The El Salvador deal refinanced US\$1.031 billion of bonds with a US\$1 billion, 20-year loan arranged by [[investors/jpmorgan-chase|J.P. Morgan]], wrapped in [[investors/us-international-development-finance-corporation|US DFC]] political-risk insurance [IC]. Breaches of the conservation commitments raise the interest rate, and compliance can lower it [IC]. The register places CAF in Tier 1 with the multilateral development banks, although it is a regional bank.
 
 ## Related
 

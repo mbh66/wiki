@@ -29,9 +29,9 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| DC Water Environmental Impact Bond | 2016 | Impact or resilience bond | Investor | Share of US$25m private placement | [IC] |
-| Yuba I Forest Resilience Bond | 2018 | Impact or resilience bond | Investor | Share of US$4.6m | [MS] |
-| Seychelles sovereign blue bond | 2018 | Adjacent | Investor | Share of US$15m | [MS] |
+| DC Water Environmental Impact Bond | 2016 | Impact or resilience bond | Investor | Share of US\$25m private placement | [IC] |
+| Yuba I Forest Resilience Bond | 2018 | Impact or resilience bond | Investor | Share of US\$4.6m | [MS] |
+| Seychelles sovereign blue bond | 2018 | Adjacent | Investor | Share of US\$15m | [MS] |
 
 ## Open questions
 

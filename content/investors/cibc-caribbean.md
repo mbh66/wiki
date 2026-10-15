@@ -29,8 +29,8 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Domestic lead arranger | About US$150m | [MS] |
-| Barbados debt-for-climate-resilience conversion | 2024 | Adjacent | Lead arranger | Freed US$125m | [MS] |
+| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Domestic lead arranger | About US\$150m | [MS] |
+| Barbados debt-for-climate-resilience conversion | 2024 | Adjacent | Lead arranger | Freed US\$125m | [MS] |
 
 The 2024 operation funds a sewage plant and water reclamation, with sustainability-linked targets and penalties paid into the Barbados Environmental Sustainability Fund, so the register treats it as adjacent [MS]. The register places CIBC Caribbean in Tier 3 as a regional bank arranging deals at home; its parent is Canadian.
 

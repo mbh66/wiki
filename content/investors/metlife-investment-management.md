@@ -45,7 +45,7 @@ MetLife Investment Management described the Spekboom bond as its "second investm
 
 ## References
 
-- [FS Sustainability, "Institutional investors inject $166m into World Bank bond" (2026)](https://www.fssustainability.com.au/institutional-investors-inject-166m-into-world-bank-bond)
+- [FS Sustainability, "Institutional investors inject \$166m into World Bank bond" (2026)](https://www.fssustainability.com.au/institutional-investors-inject-166m-into-world-bank-bond)
 - [World Bank, Spekboom Restoration Outcome Bond pricing (23 April 2026)](https://www.worldbank.org/en/news/press-release/2026/04/23/world-bank-prices-14-year-spekboom-restoration-outcome-bond-in-south-africa)
 
 ## Provenance

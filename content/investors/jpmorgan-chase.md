@@ -29,8 +29,8 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| El Salvador Rio Lempa conversion | 2024 | Debt-for-nature conversion | Sole arranger, lender, dealer manager | US$1bn loan | [IC] |
-| Uruguay sovereign sustainability-linked bond | 2022 | Sustainability-linked bond | Bookrunner | US$1.5bn issue | [IC] |
+| El Salvador Rio Lempa conversion | 2024 | Debt-for-nature conversion | Sole arranger, lender, dealer manager | US\$1bn loan | [IC] |
+| Uruguay sovereign sustainability-linked bond | 2022 | Sustainability-linked bond | Bookrunner | US\$1.5bn issue | [IC] |
 
 Barclays analysts called for scrutiny of the El Salvador swap, according to a headline that was not read in full [TBV]. The bank is separate from J.P. Morgan Asset Management, which left Climate Action 100+ and has no in-scope holding in the sources found [IC].
 
@@ -45,7 +45,7 @@ Barclays analysts called for scrutiny of the El Salvador swap, according to a he
 
 - [J.P. Morgan, El Salvador debt-for-nature transaction](https://www.jpmorgan.com/insights/banking/investment-banking/el-salvador-debt-for-nature-transaction)
 - [LatinFinance, Sovereign Sustainable Deal of the Year (30 January 2026)](https://latinfinance.com/2025-deals-of-the-year-awards/2026/01/30/sovereign-sustainable-deal-of-the-year/)
-- [IFR, Uruguay's US$1.5bn sustainability-linked bond (2022)](https://ifre.com/story/3661444/latin-america-bond-uruguays-us15bn-sustainability-linked-bond-wh65f7xrlp)
+- [IFR, Uruguay's US\$1.5bn sustainability-linked bond (2022)](https://ifre.com/story/3661444/latin-america-bond-uruguays-us15bn-sustainability-linked-bond-wh65f7xrlp)
 - [ai-cio, BlackRock leaves Net Zero Asset Managers (January 2025)](https://www.ai-cio.com/?p=95662)
 
 ## Provenance

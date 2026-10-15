@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-The Gordon and Betty Moore Foundation invested in both Yuba Forest Resilience Bonds and led a US$3 million program-related investment tranche in Yuba II [MS].
+The Gordon and Betty Moore Foundation invested in both Yuba Forest Resilience Bonds and led a US\$3 million program-related investment tranche in Yuba II [MS].
 
 > [!note] Right of reply
 > This page describes the Moore Foundation only through its published statements and the public records of the deals listed. The Moore Foundation has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,10 +29,10 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Yuba I Forest Resilience Bond | 2018 | Impact or resilience bond | Investor | Share of US$4.6m | [MS] |
-| Yuba II Forest Resilience Bond | 2021 | Impact or resilience bond | Lead of below-market tranche, with the Inherent Foundation | US$3m tranche | [MS] |
+| Yuba I Forest Resilience Bond | 2018 | Impact or resilience bond | Investor | Share of US\$4.6m | [MS] |
+| Yuba II Forest Resilience Bond | 2021 | Impact or resilience bond | Lead of below-market tranche, with the Inherent Foundation | US\$3m tranche | [MS] |
 
-Yuba II's market-rate investors were Hall Capital, ImpactAssets, RSF Social Finance and [[investors/csaa-insurance-group|CSAA Insurance Group]]. Its outcome payers were the Yuba Water Agency (US$6 million) and Silk, through the Bonneville Environmental Foundation [MS].
+Yuba II's market-rate investors were Hall Capital, ImpactAssets, RSF Social Finance and [[investors/csaa-insurance-group|CSAA Insurance Group]]. Its outcome payers were the Yuba Water Agency (US\$6 million) and Silk, through the Bonneville Environmental Foundation [MS].
 
 ## Related
 

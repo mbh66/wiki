@@ -15,7 +15,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-BlackRock, which reported US$11.5 trillion in assets in January 2025, is on the register's watch list: its documented nature activity is research and data, and no source checked names it in any nature performance deal [IC].
+BlackRock, which reported US\$11.5 trillion in assets in January 2025, is on the register's watch list: its documented nature activity is research and data, and no source checked names it in any nature performance deal [IC].
 
 > [!note] Right of reply
 > This page describes BlackRock only through its published statements and the public records of the deals listed. BlackRock has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,8 +29,8 @@ The search covered the World Bank investor lists for the Rhino, Amazon, Spekboom
 | Date | Item | What the record shows | Claim |
 |---|---|---|---|
 | August 2024 | BlackRock Investment Institute, "Capital at risk: nature through an investment lens" | The summary frames nature as a source of "new risks and opportunities" for investors. The full paper was not retrieved. | [IC] publication; content [TBV] |
-| 1 October 2024 | Acquisition of Global Infrastructure Partners completed | About US$170bn of infrastructure assets; the release does not mention nature or water | [IC] |
-| June 2026 | Natural History Museum Biodiversity Intactness Index added to BlackRock Sustainable Investing Intelligence | A platform that "manages $125bn in strategies"; Chris Kaminker called the index a "financially material dataset" | [IC] |
+| 1 October 2024 | Acquisition of Global Infrastructure Partners completed | About US\$170bn of infrastructure assets; the release does not mention nature or water | [IC] |
+| June 2026 | Natural History Museum Biodiversity Intactness Index added to BlackRock Sustainable Investing Intelligence | A platform that "manages \$125bn in strategies"; Chris Kaminker called the index a "financially material dataset" | [IC] |
 
 Over the same period BlackRock reduced its coalition commitments. In February 2024 it moved its Climate Action 100+ membership to a smaller UK subsidiary, and in January 2025 it left the Net Zero Asset Managers initiative [IC]. Texas removed it from its fossil fuel boycott list in June 2025 [IC]. It remains a defendant, with State Street, in the antitrust case Texas and other states filed in November 2024; Vanguard settled in February 2026, and trial is set for January 2028 [IC].
 

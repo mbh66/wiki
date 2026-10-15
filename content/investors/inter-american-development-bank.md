@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-The Inter-American Development Bank (IDB) guaranteed four debt-for-nature conversions, for US$540 million across Barbados, the Galápagos, the Bahamas and the Ecuador Amazon, plus one adjacent climate-resilience conversion.
+The Inter-American Development Bank (IDB) guaranteed four debt-for-nature conversions, for US\$540 million across Barbados, the Galápagos, the Bahamas and the Ecuador Amazon, plus one adjacent climate-resilience conversion.
 
 > [!note] Right of reply
 > This page describes the IDB only through its published statements and the public records of the deals listed. The IDB has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,13 +29,13 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Guarantor | US$100m | [MS] |
-| Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Guarantor | US$85m | [IC] |
-| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Unsecured partial credit guarantor | US$200m | [MS] |
-| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Liquidity guarantor | US$155m | [MS] |
-| Barbados debt-for-climate-resilience conversion | 2024 | Adjacent | Guarantor | US$150m | [MS] |
+| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Guarantor | US\$100m | [MS] |
+| Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Guarantor | US\$85m | [IC] |
+| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Unsecured partial credit guarantor | US\$200m | [MS] |
+| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Liquidity guarantor | US\$155m | [MS] |
+| Barbados debt-for-climate-resilience conversion | 2024 | Adjacent | Guarantor | US\$150m | [MS] |
 
-In the Galápagos deal the IDB guarantee funded the cash reserve that the [[investors/us-international-development-finance-corporation|US DFC]] political-risk insurance required [IC]. In the Bahamas, its US$200 million guarantee sat beside a [[investors/builders-vision|Builders Vision]] guarantee and [[investors/axa|AXA XL]] credit insurance, with no DFC role [MS].
+In the Galápagos deal the IDB guarantee funded the cash reserve that the [[investors/us-international-development-finance-corporation|US DFC]] political-risk insurance required [IC]. In the Bahamas, its US\$200 million guarantee sat beside a [[investors/builders-vision|Builders Vision]] guarantee and [[investors/axa|AXA XL]] credit insurance, with no DFC role [MS].
 
 ## Related
 

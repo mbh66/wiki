@@ -32,7 +32,7 @@ The register follows instruments whose terms depend on a verified ecological out
 | World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Investor | Not disclosed | [MS] |
 | World Bank Spekboom Restoration Outcome Bond | 2026 | Outcome-linked bond | Investor | Not disclosed | [IC] |
 
-The register places AllianceBernstein in Tier 2 because its reported assets of about US$0.8 trillion fall below the Tier 1 threshold [TBV].
+The register places AllianceBernstein in Tier 2 because its reported assets of about US\$0.8 trillion fall below the Tier 1 threshold [TBV].
 
 ## What it has said
 
@@ -49,7 +49,7 @@ On debt conversions, AllianceBernstein wrote: "Our analysis persuaded us to cons
 
 - [World Bank, "Investors join landmark Wildlife Conservation Bond" (31 March 2022)](https://www.worldbank.org/en/news/press-release/2022/03/31/investors-join-landmark-wildlife-conservation-bond-to-support-black-rhinos-and-local-communities-in-south-africa)
 - [World Bank, Spekboom Restoration Outcome Bond pricing (23 April 2026)](https://www.worldbank.org/en/news/press-release/2026/04/23/world-bank-prices-14-year-spekboom-restoration-outcome-bond-in-south-africa)
-- [FS Sustainability, "Institutional investors inject $166m into World Bank bond" (2026)](https://www.fssustainability.com.au/institutional-investors-inject-166m-into-world-bank-bond)
+- [FS Sustainability, "Institutional investors inject \$166m into World Bank bond" (2026)](https://www.fssustainability.com.au/institutional-investors-inject-166m-into-world-bank-bond)
 - [AllianceBernstein, "Natural selection: evaluating debt-for-nature swaps"](https://www.alliancebernstein.com/us/en-us/defined-contribution/insights/esg-in-action/natural-selection-evaluating-debt-for-nature-swaps.html)
 
 ## Provenance

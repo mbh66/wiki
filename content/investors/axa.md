@@ -31,7 +31,7 @@ The register follows instruments whose terms depend on a verified ecological out
 |---|---|---|---|---|---|
 | Belize Blue Bond | 2021 | Debt-for-nature conversion | Reinsurer of US DFC political-risk cover (AXA XL) | Not disclosed | [MS] |
 | Gabon Blue Bond | 2023 | Debt-for-nature conversion | Lead reinsurer of US DFC cover, by its own account (AXA XL) | Not disclosed | [MS] |
-| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Excess-of-loss credit insurer (AXA XL) | US$30m, rated AA- | [MS] |
+| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Excess-of-loss credit insurer (AXA XL) | US\$30m, rated AA- | [MS] |
 | Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Referenced in connection with the deal; role not stated (AXA XL) | Not disclosed | [TBV] |
 | Mesoamerican Reef parametric insurance (MAR Fund) | 2021 onward | Adjacent | Parametric insurer (AXA Climate) | Shared program | [MS] |
 
@@ -43,7 +43,7 @@ AXA XL's Barrowcliff, explaining the choice of deals: "Gabon had less of a disco
 
 ## Open questions
 
-For Belize, a trade source reports that AXA XL "led" the US$610 million facultative reinsurance, while Chubb's release has Chubb providing US$300 million "with other private insurers" and the TNC case study names no lead [TBV]. AXA XL describes the Gabon political-risk cover as "$523" against DFC's stated US$500 million [TBV].
+For Belize, a trade source reports that AXA XL "led" the US\$610 million facultative reinsurance, while Chubb's release has Chubb providing US\$300 million "with other private insurers" and the TNC case study names no lead [TBV]. AXA XL describes the Gabon political-risk cover as "\$523" against DFC's stated US\$500 million [TBV].
 
 ## Related
 
@@ -62,7 +62,7 @@ For Belize, a trade source reports that AXA XL "led" the US$610 million facultat
 - [Risk & Insurance, how blue bonds are saving emerging economies](https://riskandinsurance.com/how-blue-bonds-are-saving-emerging-economies-and-their-marine-ecosystems)
 - [AXA XL, "Are blue bonds causing a sea change in marine conservation?"](https://axaxl.com/fast-fast-forward/articles/are-blue-bonds-causing-a-sea-change-in-marine-conservation)
 - [DFC, political risk insurance for Gabon blue bond (2023)](https://www.dfc.gov/media/press-releases/dfc-political-risk-insurance-support-blue-bond-providing-500-million-ocean)
-- [Reinsurance News, AXA XL backs Bahamas debt swap with $30mn insurance](https://www.reinsurancene.ws/axa-xl-backs-bahamas-debt-swap-with-30mn-insurance/)
+- [Reinsurance News, AXA XL backs Bahamas debt swap with \$30mn insurance](https://www.reinsurancene.ws/axa-xl-backs-bahamas-debt-swap-with-30mn-insurance/)
 - [The Insurer, AXA XL's Barrowcliff on credit insurance for biodiversity outcomes](https://theinsurer.com/sustainable-insurance/interview/axa-xls-barrowcliff-harnessing-credit-insurance-for-biodiversity-outcomes)
 - [The Nature Conservancy, The Bahamas nature bond case study](https://www.nature.org/content/dam/tnc/nature/en/documents/t/h/The-Bahamas-Nature-Bond-Case-Study.pdf)
 - [WTW, Hurricane Lisa triggers first payout of Mesoamerican Reef insurance (November 2022)](https://www.wtwco.com/en-nl/news/2022/11/hurricane-lisa-triggers-first-pay-out-of-mesoamerican-reef-insurance-programme-to-finance)

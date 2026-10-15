@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-The Global Environment Facility (GEF) is the only global outcome payer funding a success payment in an issued nature outcome bond: up to nearly US$14 million at the Rhino Bond's maturity in March 2027 [MS].
+The Global Environment Facility (GEF) is the only global outcome payer funding a success payment in an issued nature outcome bond: up to nearly US\$14 million at the Rhino Bond's maturity in March 2027 [MS].
 
 > [!note] Right of reply
 > This page describes the GEF only through its published statements and the public records of the deals listed. The GEF has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
@@ -29,9 +29,9 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Outcome funder | Up to nearly US$14m | [MS] |
+| World Bank Wildlife Conservation Bond (Rhino Bond) | 2022 | Outcome-linked bond | Outcome funder | Up to nearly US\$14m | [MS] |
 | World Bank Indonesia Coral Reef Bond (pipeline) | 2025 | Outcome-linked bond | Named success-payment source (Non-Grant Instrument) | Not disclosed | [MS] |
-| Seychelles sovereign blue bond | 2018 | Adjacent | Concessional lender | US$5m | [MS] |
+| Seychelles sovereign blue bond | 2018 | Adjacent | Concessional lender | US\$5m | [MS] |
 
 The Rhino Bond pays no coupon. Its success payment depends on the black rhino population growth rate at Addo Elephant National Park and Great Fish River Nature Reserve; the population grew at nearly 8% a year, about double the maximum target [MS]. The Indonesia bond, unveiled in June 2025, would pay on coral reef fish biomass in three marine protected areas, with [[investors/bnp-paribas|BNP Paribas]] as the other payment source [MS].
 

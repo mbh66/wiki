@@ -18,7 +18,7 @@ source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"
 ---
 
-Coface says it is one of 11 private reinsurers of the US DFC's US$656 million political-risk insurance on the 2023 Galápagos Marine Bond, committed for 10 years [MS].
+Coface says it is one of 11 private reinsurers of the US DFC's US\$656 million political-risk insurance on the 2023 Galápagos Marine Bond, committed for 10 years [MS].
 
 > [!note] Right of reply
 > This page describes Coface only through its published statements and the public records of the deals listed. Coface has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.

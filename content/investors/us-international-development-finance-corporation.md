@@ -29,19 +29,19 @@ The register follows instruments whose terms depend on a verified ecological out
 
 | Deal | Year | Family | Role | Amount | Claim |
 |---|---|---|---|---|---|
-| Belize Blue Bond | 2021 | Debt-for-nature conversion | Political-risk insurer | About US$610m (Chubb's figure) | [MS] |
-| Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Political-risk insurer | US$656m | [IC] |
-| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Political-risk insurer, 50% retained | US$500m | [IC] |
-| El Salvador Rio Lempa conversion | 2024 | Debt-for-nature conversion | Political-risk insurer | US$1bn | [IC] |
-| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Political-risk insurer | US$1bn | [IC] |
+| Belize Blue Bond | 2021 | Debt-for-nature conversion | Political-risk insurer | About US\$610m (Chubb's figure) | [MS] |
+| Galápagos Marine Bond (Ecuador) | 2023 | Debt-for-nature conversion | Political-risk insurer | US\$656m | [IC] |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Political-risk insurer, 50% retained | US\$500m | [IC] |
+| El Salvador Rio Lempa conversion | 2024 | Debt-for-nature conversion | Political-risk insurer | US\$1bn | [IC] |
+| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Political-risk insurer | US\$1bn | [IC] |
 
-On Belize and Gabon, private insurers took about half of DFC's exposure: [[investors/axa|AXA XL]], [[investors/chubb|Chubb]], [[investors/fidelis|Fidelis]] and [[investors/sovereign-risk-insurance|Sovereign Risk Insurance]] on Belize, and eight carriers on Gabon [MS]. Reuters reported that DFC cover reached over half of debt-for-nature deals in the five years to 2025, covering nearly 90% of the US$6 billion of debt swapped [MS].
+On Belize and Gabon, private insurers took about half of DFC's exposure: [[investors/axa|AXA XL]], [[investors/chubb|Chubb]], [[investors/fidelis|Fidelis]] and [[investors/sovereign-risk-insurance|Sovereign Risk Insurance]] on Belize, and eight carriers on Gabon [MS]. Reuters reported that DFC cover reached over half of debt-for-nature deals in the five years to 2025, covering nearly 90% of the US\$6 billion of debt swapped [MS].
 
-DFC committed US$3.6 billion across 30 transactions in fiscal year 2025, against US$12.1 billion in fiscal 2024, with priorities moved to critical minerals, energy and transport [IC]. A DFC official confirmed that DFC stepped down in 2025 as co-chair of a global task force on debt swaps, and about five DFC-linked swaps in the pipeline were described as "in question" [MS]. Congress reauthorized DFC in December 2025 through December 2031 and raised its maximum contingent liability from US$60 billion to US$205 billion [IC]. No source found suggests that its existing policies on the five deals have been cancelled. No DFC-backed conversion closed in 2025 or 2026 in the sources found.
+DFC committed US\$3.6 billion across 30 transactions in fiscal year 2025, against US\$12.1 billion in fiscal 2024, with priorities moved to critical minerals, energy and transport [IC]. A DFC official confirmed that DFC stepped down in 2025 as co-chair of a global task force on debt swaps, and about five DFC-linked swaps in the pipeline were described as "in question" [MS]. Congress reauthorized DFC in December 2025 through December 2031 and raised its maximum contingent liability from US\$60 billion to US\$205 billion [IC]. No source found suggests that its existing policies on the five deals have been cancelled. No DFC-backed conversion closed in 2025 or 2026 in the sources found.
 
 ## Open questions
 
-The Belize cover of about US$610 million is Chubb's figure; no DFC primary source for it was found.
+The Belize cover of about US\$610 million is Chubb's figure; no DFC primary source for it was found.
 
 ## Related
 

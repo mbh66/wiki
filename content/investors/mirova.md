@@ -24,7 +24,7 @@ Mirova, part of Natixis Investment Managers, is on the register's watch list: it
 
 The register follows instruments whose terms depend on a verified ecological outcome, the broad family of the [[performance-based-bond|performance-based bond]]. The [[investors/index|register index]] explains its tiers, roles and claim tags. No nature performance deal names Mirova in the sources checked, so the register lists it on the watch list for the policies, research or products below.
 
-Mirova's Land Degradation Neutrality Fund closed above US$208 million with the European Investment Bank, AFD and the UK and Canadian governments [IC]. In January 2021 Mirova co-founded the Natural Capital Investment Alliance with HSBC Pollination Climate Asset Management and Lombard Odier, with a target of US$10 billion for natural capital by 2022 [IC].
+Mirova's Land Degradation Neutrality Fund closed above US\$208 million with the European Investment Bank, AFD and the UK and Canadian governments [IC]. In January 2021 Mirova co-founded the Natural Capital Investment Alliance with HSBC Pollination Climate Asset Management and Lombard Odier, with a target of US\$10 billion for natural capital by 2022 [IC].
 
 ## Related
 
