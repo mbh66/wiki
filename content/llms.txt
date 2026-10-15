@@ -92,6 +92,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Promise Theory Across TIMN](https://wiki.bioconomy.earth/research/promise-theory-across-timn): What has each TIMN form promised society?
 - [Bioprecipitation](https://wiki.bioconomy.earth/research/bioprecipitation): Vegetation-rainfall feedback and biological ice nucleation
 - [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain): Moravian pedagogical lineage from Comenius to George Schmidt
+- [Why Three Investors Anchored the Cape Water Bond](https://wiki.bioconomy.earth/research/cape-water-bond-co-anchor-investors): The co-anchor investors in the Cape Water Performance-Based Bond, the bond's two layers of capital, and where the sources disagree
 - [Corporate Partnerships with Protected Area Management](https://wiki.bioconomy.earth/research/corporate-partnerships-protected-areas): TNFD-aligned partnership brief
 - [The BioHub as Where the Noosphere Lands](https://wiki.bioconomy.earth/research/biohub-noosphere-research-brief): Working memo on noosphere and BioHub convergence
 - [RESOLVE Ecoregions](https://wiki.bioconomy.earth/research/resolve-ecoregions): Spatial dataset underpinning BioHub addressing
@@ -112,6 +113,15 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 ## Funding
 
 - [Funding sources](https://wiki.bioconomy.earth/funding/): Grant and funding instrument documentation (GEF SGP CSO Challenge Program)
+
+## Investors
+
+- [Nature Performance Bond Investor Register](https://wiki.bioconomy.earth/investors/): Banks, investors, insurers, development finance institutions and outcome funders documented in 22 nature performance deals since 2016, in three tiers, with one page per institution
+- [Nuveen](https://wiki.bioconomy.earth/investors/nuveen): The bondholder named in the most nature deals
+- [Legal & General](https://wiki.bioconomy.earth/investors/legal-and-general): Insurer and asset manager reporting over US$465 million in debt-for-nature conversions
+- [AXA](https://wiki.bioconomy.earth/investors/axa): The insurer group in the most nature deals, as reinsurer, credit insurer and reef insurer
+- [US International Development Finance Corporation](https://wiki.bioconomy.earth/investors/us-international-development-finance-corporation): Political-risk insurer on five of eight commercial debt-for-nature conversions
+- [BlackRock](https://wiki.bioconomy.earth/investors/blackrock): Watch-list entry with nature research and data and no documented deal
 
 ## Wiki Network
 

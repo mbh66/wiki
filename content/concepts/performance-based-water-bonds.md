@@ -3,7 +3,7 @@ title: "Performance-Based Water Bonds"
 aliases: ["performance-based water bond", "water bond", "outcomes-based water bond", "nature-linked bond", "Cape Water Bond", "FR31PB"]
 tags: ["concept", "bioconomy", "water", "finance", "instruments", "coordination"]
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-10-14
 source_project: "BioConomy"
 source_documents: ["GCTWF.md", "RMB launch announcement, 1 April 2026"]
 epistemic_status: "documented-framework"
@@ -13,7 +13,7 @@ The performance-based water bond is the first capital-markets instrument through
 
 ## Overview
 
-A performance-based water bond ties a portion of investor returns to independently verified ecological outcomes in a defined [[strategic-water-source-area-swsa|Strategic Water Source Area]]. Base returns behave like a standard investment-grade note. Above the base, a performance premium is settled by outcomes funders (development finance institutions, foundations, corporate ESG allocators) only if a technical verification agent confirms that hectare-level restoration has translated into measurable streamflow, biodiversity, and fire-risk outcomes.
+A performance-based water bond ties a portion of investor returns to independently verified ecological outcomes in a defined [[strategic-water-source-area-swsa|Strategic Water Source Area]]. Base returns behave like a standard investment-grade note. Above the base, a performance premium is settled by outcomes funders (development finance institutions, foundations, corporate ESG allocators) only if a technical verification agent confirms the agreed restoration results. In the Cape Water bond, the only payment metric named publicly is hectares of invasive alien plants cleared.
 
 The Cape Water Performance-Based Bond (JSE ticker FR31PB), arranged by Rand Merchant Bank and listed on 17 April 2026, is the working case. R2.5 billion, five-year implementation period, The Nature Conservancy as implementation agent, Conservation Alpha as independent verification agent, and the Greater Cape Town Water Fund as the coordinating vehicle for the underlying work. RMB describes it as "a R2.5 billion market signal that natural capital has entered mainstream finance." The framing in this wiki reads the same event from the other side: it is also a signal that mainstream finance has entered natural capital because its previous instruments no longer clear the arithmetic.
 
@@ -33,7 +33,7 @@ The performance-based bond is what appears when both promises fail at the same t
 
 A standard infrastructure bond has the issuer promise the coupon from operational cashflow that the issuer controls. Investor risk is that the issuer's operations underperform. The promise is coherent because the promisor holds the asset that generates the return.
 
-A performance-based water bond splits the promise. The base coupon still runs from the issuer, and remains a conventional promise from an entity that controls its own balance sheet. The performance premium runs from the outcomes funders and is contingent on verified restoration of a landscape none of them own. The premium is promised into existence by a coordination architecture: upstream landowners consent to clearing, rope-access clearing teams work at altitude, a technical agent verifies streamflow and biodiversity, an implementation agent coordinates the whole and reports on it, and outcomes funders settle only when verification confirms the yield.
+A performance-based water bond splits the promise. The base coupon still runs from the issuer, and remains a conventional promise from an entity that controls its own balance sheet. The performance premium runs from the outcomes funders and is contingent on verified restoration of a landscape none of them own. The premium is promised into existence by a coordination architecture: upstream landowners consent to clearing, rope-access clearing teams work at altitude, a technical agent verifies the clearing, an implementation agent coordinates the whole and reports on it, and outcomes funders settle only when verification confirms the yield.
 
 Structurally the issuer has conceded, in the language of finance, that it cannot promise the outcome from what it controls. The outcome belongs to the landscape and to the coordination pattern working on it. What the +I and +M forms could once carry as an internal promise ("we will supply the water", "the plant will earn its coupon") is now visible as a settlement between distinct promisors, verified independently and paid contingently. The bond is the settlement layer for a promise the old forms cannot make alone.
 
@@ -41,11 +41,11 @@ That is what makes the instrument diagnostic. Any coordination substrate whose i
 
 ## What the FR31PB actually does
 
-The deal has two investor tiers with different economic exposures.
+The deal has two layers of capital with different economic exposures.
 
-Outcomes-based funders sit in the concessionary tier. The International Finance Corporation, FSD Africa Investments, Aluwani Capital Partners, the FirstRand Foundation (R50 million anchor), the Development Bank of Southern Africa (R50 million), Remgro, the Rupert Nature Foundation, and the Lewis Foundation stand ready to settle the performance premium if Conservation Alpha's verification confirms hectare clearing and streamflow response. Their capital absorbs the outcome risk.
+Noteholders bought the R2.5 billion of notes. The International Finance Corporation was lead investor with about R1.6 billion, and Aluwani Capital Partners (R350 million) and FSD Africa Investments (R234 million) were the other co-anchors. Ashburton Investments, the Eskom Pension and Provident Fund, Optimum Investment Group, and Sanlam Life also bought notes. Noteholders receive a base return plus a success premium tied to verified outcomes. The public sources differ on what happens to noteholders if the targets are missed: FSD Africa describes a base return with the premium forgone, while Business Day and Aluwani describe investors carrying some execution risk. Only the bond's pricing supplement can settle the point, and it has not been published.
 
-Bond investors sit in the investment-grade tier. Ashburton Investments, the Eskom Pension and Provident Fund, Optimum Investment Group, and Sanlam Life hold notes with downside protection and success-premium exposure. They receive an investable rate whether or not the ecology performs, and they receive the premium if it does.
+Outcomes-based funders pay the success premium, and pay only when Conservation Alpha's verification confirms the results. The FirstRand Foundation is the anchor outcome funder (R50 million), with the Development Bank of Southern Africa (R50 million), Remgro, the Rupert Nature Foundation, and the Lewis Foundation. The only payment metric named publicly is hectares of invasive alien plants cleared. Their capital absorbs the outcome risk. Why the three co-anchors invested is set out in [[research/cape-water-bond-co-anchor-investors|Why Three Investors Anchored the Cape Water Bond]].
 
 The Nature Conservancy South Africa is the implementation agent, receiving roughly R150 million for delivery. Conservation Alpha is the independent design and verification agent. The Greater Cape Town Water Fund, established with the City of Cape Town in 2018 and registered as a separate legal entity in April 2023, is the coordinating vehicle for the underlying restoration work across the Boland Grootwinterhoek and adjacent priority catchments.
 
@@ -61,7 +61,7 @@ The instrument makes the +[[e-form-emergent|E-form]] layer contractable. Restore
 
 The instrument uses the existing plumbing of the +M-form to move capital into +E-form work. A JSE listing, a credit rating, a bond-investor pool, and a settlement infrastructure exist already. The performance-based structure repurposes that plumbing to carry a payment whose ultimate source is ecological. Value flows through +M's rails into +E's balance sheet. This is a [[concepts/transvestment|transvestment]] pathway in operation, with capital moving from an extractive circuit into a regenerative one along infrastructure the extractive circuit built for itself.
 
-The instrument establishes replicable precedent. The FR31PB was designed as the first of a series indexed to South Africa's Strategic Water Source Areas, of which twenty-one remain. Once one deal has cleared credit committee at IFC, FSD Africa, and four institutional bond investors, the next twenty-one are procedural work. Every BioHub sitting in a [[below-dam-position|below-dam position]] to an SWSA now has a template for how its coordination work reaches capital markets.
+The instrument establishes replicable precedent. The FR31PB was designed as the first of a series indexed to South Africa's Strategic Water Source Areas, of which twenty-one remain. Once one deal has cleared credit committee at IFC, FSD Africa Investments, Aluwani Capital Partners, and four other institutional investors, the next twenty-one are procedural work. Every BioHub sitting in a [[below-dam-position|below-dam position]] to an SWSA now has a template for how its coordination work reaches capital markets.
 
 For a BioHub, this instrument is what turns bioregional restoration from a philanthropic project into a coordinating economic function. The first bond changes the standing of the coordination work. Subsequent bonds compound it.
 
@@ -75,6 +75,7 @@ The bond also does not, on its own, direct value to the communities doing the wo
 
 ## Related pages
 
+- [[research/cape-water-bond-co-anchor-investors|Why Three Investors Anchored the Cape Water Bond]]
 - [[concepts/water-as-compound-asset|Water as a Compound Asset]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
@@ -93,6 +94,9 @@ The bond also does not, on its own, direct value to the communities doing the wo
 ## Sources
 
 - Rand Merchant Bank (2026). *[[sources/rmb-cape-water-bond-launch|RMB Launches Africa's First Nature-Linked Outcomes-Based Bond]]*. Launch announcement, 1 April 2026.
+- FSD Africa (2026). *[[sources/fsd-africa-cape-water-bond-release|FirstRand Bank Issues Inaugural Nature-Linked Outcomes-Based Bond]]*. 1 April 2026.
+- FSD Africa (2026). *[[sources/fsd-africa-behind-the-investment|Behind the Investment: Africa's First Nature-Linked Outcomes Bond]]*. 26 May 2026.
+- Johannesburg Stock Exchange (2026). *[[sources/jse-cape-water-bond-listing|JSE Welcomes Africa's First Nature-Linked Performance-Based Bond]]*. 17 April 2026.
 - The Nature Conservancy (2018). *[[sources/tnc-gctwf-business-case|Greater Cape Town Water Fund Business Case]]*.
 - Le Maitre, D.C. et al. (2019). *[[sources/lemaitre-2019|Impacts of invasive Australian acacias on the fynbos biome]]*.
 - Burgess, M. (2015). *[[sources/burgess-thinking-in-promises|Thinking in Promises]]*.
@@ -102,7 +106,7 @@ The bond also does not, on its own, direct value to the communities doing the wo
 
 ## Provenance
 
-Drafted for the BioConomy wiki, September 2026, from the Greater Cape Town Water Fund briefing note in the project archive and the RMB launch announcement of 1 April 2026. The Promise Theory reading of the split-coupon structure is a wiki-native contribution and should not be attributed to Burgess and Bergstra, whose framework it applies. The FR31PB deal facts (tranche investors, sizes, dates, agents) are drawn from public RMB and TNC communications and should be verified against the JSE listing prospectus before quotation in external work.
+Drafted for the BioConomy wiki, September 2026, from the Greater Cape Town Water Fund briefing note in the project archive and the RMB launch announcement of 1 April 2026. The Promise Theory reading of the split-coupon structure is a wiki-native contribution and should not be attributed to Burgess and Bergstra, whose framework it applies. The FR31PB deal facts (tranche investors, sizes, dates, agents) are drawn from public RMB and TNC communications and should be verified against the JSE listing prospectus before quotation in external work. Corrected 14 October 2026: the International Finance Corporation, FSD Africa Investments and Aluwani Capital Partners moved from the outcome-funder tier to the noteholders, where the investors' joint release, the JSE listing notice and IFC's own disclosure place them; the claim that noteholders hold notes with downside protection and an investable rate whatever the ecology does was replaced with the disagreement between sources; and the payment metric was narrowed to hectares cleared, the only one named publicly. See [[research/cape-water-bond-co-anchor-investors|Why Three Investors Anchored the Cape Water Bond]].
 
 <script type="application/ld+json">
 {

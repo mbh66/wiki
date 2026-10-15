@@ -1,0 +1,69 @@
+---
+title: "The Nature Conservancy"
+description: "US conservation organization that lent US$364 million to Belize, guaranteed US$50 million of the Barbados loan and sponsored most sovereign debt-for-nature conversions. It also implements the Cape Water bond's restoration."
+aliases: ["TNC", "NatureVest", "Belize Blue Investment Company"]
+tags: ["investor", "ngo-lender", "debt-for-nature", "parametric-insurance"]
+tier: 2
+kind: "ngo-lender"
+based_in: "United States"
+roles: ["guarantor", "investor", "endowment-funder"]
+instruments: ["debt-for-nature-conversion", "parametric-nature-insurance"]
+evidence_level: "participant"
+last_checked: 2026-10-15
+created: 2026-10-15
+updated: 2026-10-15
+source_project: "BioConomy"
+source_documents: ["Nature performance bond investors.md"]
+epistemic_status: "documented-fact"
+---
+
+The Nature Conservancy (TNC) appears in more deals than any other party in the register. It qualifies as a funder because it lent and guaranteed from its own balance sheet: US$364 million to Belize through its subsidiary BBIC, and a US$50 million guarantee on Barbados [MS].
+
+> [!note] Right of reply
+> This page describes the Nature Conservancy only through its published statements and the public records of the deals listed. The Nature Conservancy has not yet been invited to comment. Responses and corrections will be recorded here with their date. On register pages, [MS] marks a claim that rests only on the institution's own statement or on statements by parties to the same deal.
+
+## In the register
+
+The register follows instruments whose terms depend on a verified ecological outcome, the broad family of the [[performance-based-bond|performance-based bond]]. The [[investors/index|register index]] explains its tiers, roles and claim tags.
+
+| Deal | Year | Family | Role | Amount | Claim |
+|---|---|---|---|---|---|
+| Seychelles debt conversion | 2016 | Debt-for-nature conversion | Sponsor, grant funder and lender (NatureVest) | US$21.6m converted | [MS] |
+| Belize Blue Bond | 2021 | Debt-for-nature conversion | Lender (Blue Loan via BBIC); monitor for 20 years | US$364m | [MS] |
+| Barbados Blue Bonds conversion | 2022 | Debt-for-nature conversion | Guarantor | US$50m | [MS] |
+| Gabon Blue Bond | 2023 | Debt-for-nature conversion | Sponsor | Not disclosed | [MS] |
+| The Bahamas conservation-linked conversion | 2024 | Debt-for-nature conversion | Sponsor; validates annual reports | Not disclosed | [MS] |
+| Ecuador Amazon Biocorridor conversion | 2024 | Debt-for-nature conversion | Sponsor | Not disclosed | [IC] |
+| Cape Water Performance-Based Bond (FR31PB) | 2026 | Outcome-linked bond | Implementer (TNC South Africa) | R150m conservation funding over five years | [MS] |
+| Quintana Roo reef parametric insurance | 2019 | Adjacent | Co-developer | Not applicable | [MS] |
+| The Nature Conservancy's Hawaii reef insurance | 2022 to 2024 | Adjacent | Policyholder | About US$106,000 premium (2024) | [MS] |
+
+TNC lists no debt-for-nature deal for 2025 or 2026 on its Nature Bonds page [MS]. Its South African program, which implements the Cape Water bond's clearing through the Greater Cape Town Water Fund, has its own page on the Ward 2 Development Forum register.
+
+## Related
+
+- [[investors/index|Nature Performance Bond Investor Register]]
+- [[investors/us-international-development-finance-corporation|US International Development Finance Corporation]]
+- [[investors/inter-american-development-bank|Inter-American Development Bank]]
+- [[investors/credit-suisse|Credit Suisse]]
+- [[investors/bank-of-america|Bank of America]]
+- [[investors/standard-chartered|Standard Chartered]]
+- [[investors/munich-re|Munich Re]]
+- [[investors/swiss-re|Swiss Re]]
+- The Nature Conservancy South Africa on the Ward 2 Development Forum register: [The Nature Conservancy South Africa](https://df.valleyofgrace.co.za/organisations/the-nature-conservancy-south-africa)
+
+## References
+
+- [Commonwealth Secretariat, Seychelles debt conversion case study](https://thecommonwealth.org/case-study/case-study-innovative-financing-debt-conservation-swap-seychelles-conservation-and)
+- [The Nature Conservancy, Belize debt conversion case study](https://www.nature.org/content/dam/tnc/nature/en/documents/TNC-Belize-Debt-Conversion-Case-Study.pdf)
+- [The Nature Conservancy, Barbados Blue Bonds debt conversion](https://www.nature.org/en-us/newsroom/tnc-announces-barbados-blue-bonds-debt-conversion/)
+- [The Nature Conservancy, The Bahamas nature bond case study](https://www.nature.org/content/dam/tnc/nature/en/documents/t/h/The-Bahamas-Nature-Bond-Case-Study.pdf)
+- [The Nature Conservancy, Ecuador Amazon debt conversion](https://www.nature.org/en-us/newsroom/ecuador-announces-debt-conversion-for-amazon-conservation-tnc-nature-bonds/)
+- [The Nature Conservancy, Nature Bonds program](https://www.nature.org/en-us/what-we-do/our-priorities/protect-water-and-land/land-and-water-stories/nature-bonds/)
+- [JSE, "JSE welcomes Africa's first nature-linked performance-based bond" (17 April 2026)](https://www.jse.co.za/news/news/jse-welcomes-africas-first-naturelinked-performancebased-bond)
+- [Swiss Re, Mexico windstorm cover for the Quintana Roo reef](https://www.swissre.com/our-business/public-sector-solutions/case-studies/mexico-windstorm-cover.html)
+- [Maui Now, TNC expanded insurance policy for Hawaii coral reefs (25 February 2024)](https://mauinow.com/2024/02/25/the-nature-conservancy-unveils-expanded-insurance-policy-for-hawaii-coral-reefs/)
+
+## Provenance
+
+Drafted on 15 October 2026 from the research brief *Nature performance bond investors.md*, compiled the same day from five research strands: outcome-linked and sustainability-linked bonds, environmental impact bonds, debt-for-nature conversions, insurers and reinsurers, and the largest asset managers with their regulatory context. Claim tags follow the brief, which never upgraded a claim without a source and lowered to [MS] any claim a research note had graded [IC] on the strength of a company's own release. The headquarters country in `based_in` comes from general knowledge unless a deal record states it, and is to be confirmed. The brief's search had limits: fund holdings filings, municipal bond disclosures and the Oxford INDIGO and Brookings impact bond databases were not searched, so a deal missing from this page may exist.
