@@ -83,7 +83,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
 - [For Advisors to Family and Institutional Capital](https://wiki.bioconomy.earth/templates/for-capital-advisors): What the founding suite gives advisors who present BioHubs to family and institutional capital
 
-## Research (14 briefs)
+## Research (15 briefs)
 
 - [The S-Curve Thesis and the Retention Counter-Tradition](https://wiki.bioconomy.earth/research/growth-economics): The foundational research brief (55KB)
 - [Historical Patronage and the Three-Feature Test](https://wiki.bioconomy.earth/research/historical-patronage-three-feature-test): Cross-cluster patronage analysis
@@ -99,6 +99,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Community-Led Landscape Restoration in Sub-Saharan Africa](https://wiki.bioconomy.earth/research/landscape-restoration-sub-saharan-africa): Sixteen restoration cases from the Muonde Trust to Cape renosterveld easements, with evidence tags and cross-case patterns
 - [What GDP Leaves Out: Lost Prosperity in Mature Economies](https://wiki.bioconomy.earth/research/what-gdp-leaves-out): Evidence that households in mature economies are losing ground on measures GDP omits, with a table for eight economies and the disaster-recovery case
 - [South Africa on the Curve: A Developmental Arc, 1961 to 2026](https://wiki.bioconomy.earth/research/south-africa-on-the-curve): Sixty-five years of South African income per person, investment, minerals, health, jobs, trust, debt and power supply in six periods, with a peer comparison and graded claims
+- [Elite Overproduction in South Africa, 1994 to 2026](https://wiki.bioconomy.earth/research/elite-overproduction-south-africa): A test of Turchin's elite overproduction pressure using graduates, managers, candidates per ward, party splits and political killings, with two aspirant-to-position ratios and graded predictions
 
 ## Glossary
 
