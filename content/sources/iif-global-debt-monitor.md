@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Institute of International Finance (2026). *Global Debt Monitor*, February and September 2026 editions. Washington: IIF.
 
-The February 2026 edition put global debt at US$348 trillion at the end of 2025, after nearly US$29 trillion was added that year. The September 2026 edition reports a record US$365.5 trillion in the first half of 2026 (US$255 trillion in mature markets, US$110.6 trillion in emerging markets), around 305 to 310 percent of world GDP against about 240 percent in 2005, and over US$3.3 trillion in interest paid by advanced economies on internationally traded government bonds over the previous year. The IIF says the fall in debt-to-GDP since its 2021 peak largely reflects inflation. Earlier wiki pages cite the February 2025 figure of US$318 trillion for 2024.
+The February 2026 edition put global debt at US\$348 trillion at the end of 2025, after nearly US\$29 trillion was added that year. The September 2026 edition reports a record US\$365.5 trillion in the first half of 2026 (US\$255 trillion in mature markets, US\$110.6 trillion in emerging markets), around 305 to 310 percent of world GDP against about 240 percent in 2005, and over US\$3.3 trillion in interest paid by advanced economies on internationally traded government bonds over the previous year. The IIF says the fall in debt-to-GDP since its 2021 peak largely reflects inflation. Earlier wiki pages cite the February 2025 figure of US\$318 trillion for 2024.
 
 ## Cited by
 

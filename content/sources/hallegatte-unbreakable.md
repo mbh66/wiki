@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Hallegatte, S., Vogt-Schilb, A., Bangalore, M., and Rozenberg, J. (2017). *Unbreakable: Building the Resilience of the Poor in the Face of Natural Disasters*. Climate Change and Development Series. Washington: World Bank.
 
-The study measures disaster impacts as lost consumption, which accounts for how much harder a loss falls on a household with few assets. On that basis it estimates that extreme natural disasters cost the equivalent of US$520 billion a year in consumption, more than the asset losses usually reported, and push about 26 million people into poverty each year. The findings were released in November 2016 ahead of publication. The wiki cites the study in [[research/what-gdp-leaves-out|What GDP Leaves Out]] for the gap between what national accounts record after a disaster and what households lose.
+The study measures disaster impacts as lost consumption, which accounts for how much harder a loss falls on a household with few assets. On that basis it estimates that extreme natural disasters cost the equivalent of US\$520 billion a year in consumption, more than the asset losses usually reported, and push about 26 million people into poverty each year. The findings were released in November 2016 ahead of publication. The wiki cites the study in [[research/what-gdp-leaves-out|What GDP Leaves Out]] for the gap between what national accounts record after a disaster and what households lose.
 
 ## Cited by
 

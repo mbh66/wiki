@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Kennedy, R. F. (1968, 18 March). Remarks at the University of Kansas. Lawrence, Kansas.
 
-Kennedy gave the address two days after entering the 1968 presidential race, to a crowd of about 20,000. Its passage on Gross National Product, then "over $800 billion dollars a year," lists what the measure counted, from "air pollution and cigarette advertising, and ambulances to clear our highways of carnage" to "the destruction of the redwood," and what it left out, including "the health of our children." It closes that the measure counts "everything in short, except that which makes life worthwhile." The wiki reads the passage as an early public statement of the flow-and-stock problem: most of the items Kennedy names are defensive spending or the drawdown of natural capital, and both are booked as output. The address frames [[research/what-gdp-leaves-out|What GDP Leaves Out]].
+Kennedy gave the address two days after entering the 1968 presidential race, to a crowd of about 20,000. Its passage on Gross National Product, then "over \$800 billion dollars a year," lists what the measure counted, from "air pollution and cigarette advertising, and ambulances to clear our highways of carnage" to "the destruction of the redwood," and what it left out, including "the health of our children." It closes that the measure counts "everything in short, except that which makes life worthwhile." The wiki reads the passage as an early public statement of the flow-and-stock problem: most of the items Kennedy names are defensive spending or the drawdown of natural capital, and both are booked as output. The address frames [[research/what-gdp-leaves-out|What GDP Leaves Out]].
 
 ## Cited by
 

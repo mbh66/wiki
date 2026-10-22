@@ -18,6 +18,7 @@ The first entry states that GDP "is not directly affected by the loss of propert
 ## Cited by
 
 - [[research/what-gdp-leaves-out|What GDP Leaves Out: Lost Prosperity in Mature Economies]]
+- [[research/south-africa-on-the-curve|South Africa on the Curve: A Developmental Arc, 1961 to 2026]]
 
 <script type="application/ld+json">
 {

@@ -8,7 +8,7 @@ url: "https://www.cambridge.org/core/books/collapse-of-complex-societies/85D9A1B
 doi: "10.1017/CBO9780511621344"
 tags: ["source", "collapse", "complexity", "energy"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-22
 source_project: "BioConomy"
 ---
 
@@ -23,6 +23,7 @@ Tainter's argument that societies solve easy problems first, so each added incre
 - [[s-curve-thesis-old|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[tainter-joseph|Joseph Tainter]]
+- [[research/south-africa-on-the-curve|South Africa on the Curve: A Developmental Arc, 1961 to 2026]]
 
 <script type="application/ld+json">
 {

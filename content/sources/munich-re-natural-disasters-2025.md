@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Munich Re (2026, 13 January). "Natural disaster figures 2025." Munich: Munich Re.
 
-The release puts 2025 overall losses from natural disasters at about US$224 billion, of which about US$108 billion was insured, and deaths at about 17,200. Overall losses averaged US$266 billion a year over the previous decade, with around 60 percent uninsured. The Los Angeles wildfires of January 2025 caused about US$53 billion in losses, including about US$40 billion insured, and 30 deaths. Losses in 2024 were US$368 billion. The wiki cites the release in [[research/what-gdp-leaves-out|What GDP Leaves Out]] for the scale of disaster losses that fall outside insurance, on households, firms and governments.
+The release puts 2025 overall losses from natural disasters at about US\$224 billion, of which about US\$108 billion was insured, and deaths at about 17,200. Overall losses averaged US\$266 billion a year over the previous decade, with around 60 percent uninsured. The Los Angeles wildfires of January 2025 caused about US\$53 billion in losses, including about US\$40 billion insured, and 30 deaths. Losses in 2024 were US\$368 billion. The wiki cites the release in [[research/what-gdp-leaves-out|What GDP Leaves Out]] for the scale of disaster losses that fall outside insurance, on households, firms and governments.
 
 ## Cited by
 

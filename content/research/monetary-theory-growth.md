@@ -71,7 +71,7 @@ The Stability and Growth Pact and its 2024 revision extend the pattern across th
 
 ### The US debt ceiling
 
-The 2023 Fiscal Responsibility Act (H.R. 3746) paired a debt-limit suspension with discretionary caps that the Congressional Budget Office estimated would reduce projected deficits by about $1.5 trillion over the next decade, per CBO publication 59235 dated May 30, 2023 (IC). The act also amended the National Environmental Policy Act to narrow environmental review, and it rescinded over $27 billion of unobligated COVID funds (IC). House Republicans had earlier voted in subcommittee to claw back the $27 billion Greenhouse Gas Reduction Fund (IC). When Democrats sought to exempt climate and pandemic measures from PAYGO rules in the 117th Congress, the exemption passed on a party-line vote and was attacked as removing "a key barrier to the Green New Deal" (IC).
+The 2023 Fiscal Responsibility Act (H.R. 3746) paired a debt-limit suspension with discretionary caps that the Congressional Budget Office estimated would reduce projected deficits by about \$1.5 trillion over the next decade, per CBO publication 59235 dated May 30, 2023 (IC). The act also amended the National Environmental Policy Act to narrow environmental review, and it rescinded over \$27 billion of unobligated COVID funds (IC). House Republicans had earlier voted in subcommittee to claw back the \$27 billion Greenhouse Gas Reduction Fund (IC). When Democrats sought to exempt climate and pandemic measures from PAYGO rules in the 117th Congress, the exemption passed on a party-line vote and was attacked as removing "a key barrier to the Green New Deal" (IC).
 
 ### The structural bias against retention
 

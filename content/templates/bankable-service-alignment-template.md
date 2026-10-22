@@ -96,7 +96,7 @@ A performance-based bond operates on market logic (+M). The BioHub's Alignment C
 
 ## The Cape Water bond reference case
 
-Appendix A of the prompts page uses South Africa's Cape Water Performance-Based Bond (JSE ticker FR31PB) as a worked reference case. The bond was issued at ZAR 2.5 billion (approximately US$132 million) on 1 April 2026 and listed on the JSE on 17 April 2026, arranged by Rand Merchant Bank, with co-anchor investors including the International Finance Corporation, FSD Africa Investments, and Aluwani Capital Partners, and with the FirstRand Foundation as outcomes-based funder. The Nature Conservancy South Africa is the implementation agent for the first tranche. Conservation Alpha is the independent verification agent.
+Appendix A of the prompts page uses South Africa's Cape Water Performance-Based Bond (JSE ticker FR31PB) as a worked reference case. The bond was issued at ZAR 2.5 billion (approximately US\$132 million) on 1 April 2026 and listed on the JSE on 17 April 2026, arranged by Rand Merchant Bank, with co-anchor investors including the International Finance Corporation, FSD Africa Investments, and Aluwani Capital Partners, and with the FirstRand Foundation as outcomes-based funder. The Nature Conservancy South Africa is the implementation agent for the first tranche. Conservation Alpha is the independent verification agent.
 
 A BioHub operating within a nationally designated [[strategic-water-source-area-swsa|Strategic Water Source Area]] but outside the bond's first tranche geography would target a subsequent tranche in the series, aligning its Water Retention Landscape restoration work to Conservation Alpha's verification methodology and building the monitoring infrastructure the methodology requires.
 

@@ -12,13 +12,14 @@ updated: 2026-10-22
 source_project: "BioConomy"
 ---
 
-World Bank (2026). *World Development Indicators*. Indicator NY.GDP.PCAP.KD, GDP per capita (constant 2015 US$). Washington: World Bank. Updated 8 October 2026.
+World Bank (2026). *World Development Indicators*. Indicator NY.GDP.PCAP.KD, GDP per capita (constant 2015 US\$). Washington: World Bank. Updated 8 October 2026.
 
 The database compiles national accounts and other statistics for about 200 economies. The wiki uses the constant-price GDP per person series, retrieved on 22 October 2026, for the national table in [[research/what-gdp-leaves-out|What GDP Leaves Out]]. Values for 2025 are first estimates and may be revised. The series measures the flow of output per person and carries none of the household measures set beside it in that table.
 
 ## Cited by
 
 - [[research/what-gdp-leaves-out|What GDP Leaves Out: Lost Prosperity in Mature Economies]]
+- [[research/south-africa-on-the-curve|South Africa on the Curve: A Developmental Arc, 1961 to 2026]]
 
 <script type="application/ld+json">
 {

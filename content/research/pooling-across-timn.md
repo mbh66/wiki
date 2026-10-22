@@ -73,13 +73,13 @@ Will Ruddick, a US-trained physicist and economist based in East Africa since 20
 
 ### Phase 1: Eco-Pesa (Mombasa, 2010-2011)
 
-Launched in three informal settlements in Kongowea in partnership with the Green World Campaign. Seventy-five registered businesses (approximately 75 percent women-owned). Documented outcomes: approximately $4,176 of trade facilitated by $352 in circulation; 22 percent average increase in participating business income; 20 tonnes of waste collected; three youth-led tree nurseries; total program cost $4,698 over seven months. Residents earned Eco-Pesa through waste-collection events. This is the earliest documented ecological earn-and-spend design in Ruddick's lineage.
+Launched in three informal settlements in Kongowea in partnership with the Green World Campaign. Seventy-five registered businesses (approximately 75 percent women-owned). Documented outcomes: approximately \$4,176 of trade facilitated by \$352 in circulation; 22 percent average increase in participating business income; 20 tonnes of waste collected; three youth-led tree nurseries; total program cost \$4,698 over seven months. Residents earned Eco-Pesa through waste-collection events. This is the earliest documented ecological earn-and-spend design in Ruddick's lineage.
 
 ### Phase 2: Bangla-Pesa and Sarafu Network (2013-2023)
 
 Bangla-Pesa launched May 2013 in the Bangladesh informal settlement, Mombasa, with approximately 200 businesses. Unlike Eco-Pesa, it was backed only by members' goods and services, with no cash reserve. The Sarafu Network aggregated local currencies into a single digital system via USSD feature phones (2017) and blockchain (2018-2019). Per the *Nature Scientific Data* dataset (Mattsson, Criscione, and Ruddick 2022), Sarafu grew from 8,354 registered accounts in January 2020 to almost 55,000 by June 2021, with April 2020 transaction volumes almost ten times higher than February 2020 as COVID-19 constricted the formal economy. The Kenya Red Cross drove a major Mukuru pilot from April 2020.
 
-Mqamelo's 2022 randomized control trial (*Frontiers in Blockchain*), possibly the first RCT on community currencies, found that CIC transfers of $30 equivalent were associated, two months later, with a $93.51 increase in wallet balance, $23.17 in monthly CIC income, $16.30 in monthly CIC spending, $6.31 in average trade size, and $28.43 in increased expenditure on food and water, with documented gender differences favoring men.
+Mqamelo's 2022 randomized control trial (*Frontiers in Blockchain*), possibly the first RCT on community currencies, found that CIC transfers of \$30 equivalent were associated, two months later, with a \$93.51 increase in wallet balance, \$23.17 in monthly CIC income, \$16.30 in monthly CIC spending, \$6.31 in average trade size, and \$28.43 in increased expenditure on food and water, with documented gender differences favoring men.
 
 ### Phase 3: Commitment Pooling and Community Asset Vouchers (July 2023-present)
 

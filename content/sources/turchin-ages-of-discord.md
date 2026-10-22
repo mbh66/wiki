@@ -8,7 +8,7 @@ url: ""
 doi: ""
 tags: ["source", "turchin", "structural-demographic-theory", "us-history"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-10-22
 source_project: "BioConomy"
 ---
 
@@ -25,6 +25,7 @@ Full-length application of structural-demographic theory to American history. Pr
 
 - [[frameworks/three-futures|The Three Futures]]
 - [[turchin-peter|Peter Turchin]]
+- [[research/south-africa-on-the-curve|South Africa on the Curve: A Developmental Arc, 1961 to 2026]]
 
 <script type="application/ld+json">
 {

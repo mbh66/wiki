@@ -8,7 +8,7 @@ url: "https://www.othercanon.org"
 doi: ""
 tags: ["source", "retention", "economic-history", "development"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-22
 source_project: "BioConomy"
 ---
 
@@ -24,6 +24,7 @@ Reinert generalizes the [[retention-economics|retention]]-tradition documentatio
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[reinert-erik|Erik Reinert]]
 - [[list-friedrich|Friedrich List]]
+- [[research/south-africa-on-the-curve|South Africa on the Curve: A Developmental Arc, 1961 to 2026]]
 
 <script type="application/ld+json">
 {
