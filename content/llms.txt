@@ -25,7 +25,7 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 - [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents
 - [PROUT and the BioConomy](https://wiki.bioconomy.earth/essays/prout-and-the-bioconomy): The relationship between Sarkar's Progressive Utilization Theory and the BioConomy framework
 
-## Concepts (43 entries)
+## Concepts (44 entries)
 
 Core coordination and economic concepts. Key entries:
 
@@ -49,6 +49,7 @@ Core coordination and economic concepts. Key entries:
 - [Direction of Fit](https://wiki.bioconomy.earth/concepts/direction-of-fit): The grounding the founding suite needs before any funding relationship is recorded, with the check each template applies
 - [Entity Gestation](https://wiki.bioconomy.earth/concepts/entity-gestation): Founding a BioHub without a registered entity for a fixed period, and choosing its form once the place has stated its work
 - [Participation and Conformity](https://wiki.bioconomy.earth/concepts/participation-and-conformity): Two ways a universal standard relates to particular places, from Jordan Hall's formal and participatory universalism, applied to money, measurement and BioHub design
+- [Outcome Payments for Community Restoration](https://wiki.bioconomy.earth/concepts/outcome-payments-for-community-restoration): Paying rural communities for verified trees, soil and groundwater, registering customary territories as coordination surfaces, and the route to performance finance; worked example Bring back the Rains
 
 Full concepts index: https://wiki.bioconomy.earth/concepts/
 
