@@ -14,7 +14,7 @@ source_project: "BioConomy"
 
 Danckwerts, B. (2026). A Project to Challenge Rural Communities of Southern Africa to Restore Their Resources of Trees, Soils and Water, Thereby Strengthening the Terrestrial Water Cycle: A Founding Charter. *Biotic Regulation and Biotic Pump*, guest post, 23 October 2026.
 
-The charter proposes that chiefdoms compete over at least 20 years for a main prize of perhaps US$200 million, with an annual prize of at least US$50,000 for the best community Facebook page. It opens with seven principles, beginning with evidence before ideology, and sets up a board of up to two five-year terms per member, elected one seat at a time, with a hired project manager and an interim board from January 2027. The wiki cites it as the current form of the campaign and as the design the outcome-payment structure responds to.
+The charter proposes that chiefdoms compete over at least 20 years for a main prize of perhaps US\$200 million, with an annual prize of at least US\$50,000 for the best community Facebook page. It opens with seven principles, beginning with evidence before ideology, and sets up a board of up to two five-year terms per member, elected one seat at a time, with a hired project manager and an interim board from January 2027. The wiki cites it as the current form of the campaign and as the design the outcome-payment structure responds to.
 
 ## Cited by
 
