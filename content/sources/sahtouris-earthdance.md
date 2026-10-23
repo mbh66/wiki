@@ -33,6 +33,7 @@ Sahtouris's framework converges with M.G. Taylor's systems architecture on the [
 - [[frameworks/three-futures|Three Futures]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[concepts/participation-and-conformity|Participation and Conformity]]
 
 <script type="application/ld+json">
 {

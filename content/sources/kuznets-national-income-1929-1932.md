@@ -18,6 +18,7 @@ Kuznets prepared the estimates at the Senate's request during the Depression, an
 ## Cited by
 
 - [[research/what-gdp-leaves-out|What GDP Leaves Out: Lost Prosperity in Mature Economies]]
+- [[concepts/participation-and-conformity|Participation and Conformity]]
 
 <script type="application/ld+json">
 {

@@ -8,7 +8,7 @@ url: "https://grassrootseconomics.org/research/"
 doi: "10.15133/j.ijccr.2023.004"
 tags: ["source", "commitment-pooling", "grassroots-economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-22
 source_project: "BioConomy"
 ---
 
@@ -21,6 +21,7 @@ The formal paper introducing the Commitment Pooling Protocol. Ruddick sets out t
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[ruddick-will|Will Ruddick]]
 - [[curation-valuation-limitation-exchange|Curation, valuation, limitation, exchange (glossary)]]
+- [[concepts/participation-and-conformity|Participation and Conformity]]
 
 <script type="application/ld+json">
 {

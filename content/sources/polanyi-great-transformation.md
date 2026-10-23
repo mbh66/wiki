@@ -8,7 +8,7 @@ url: "http://www.beacon.org/The-Great-Transformation-P72.aspx"
 doi: ""
 tags: ["source", "political-economy", "double-movement", "fictitious-commodities"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-10-22
 source_project: "BioConomy"
 ---
 
@@ -28,6 +28,7 @@ Polanyi's account of the rise and self-destruction of nineteenth-century market 
 - [[polanyi-karl|Karl Polanyi]]
 - [[fictitious-commodities|Fictitious Commodities (glossary)]]
 - [[double-movement|Double Movement (glossary)]]
+- [[concepts/participation-and-conformity|Participation and Conformity]]
 
 <script type="application/ld+json">
 {

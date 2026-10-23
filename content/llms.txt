@@ -25,7 +25,7 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 - [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents
 - [PROUT and the BioConomy](https://wiki.bioconomy.earth/essays/prout-and-the-bioconomy): The relationship between Sarkar's Progressive Utilization Theory and the BioConomy framework
 
-## Concepts (42 entries)
+## Concepts (43 entries)
 
 Core coordination and economic concepts. Key entries:
 
@@ -48,6 +48,7 @@ Core coordination and economic concepts. Key entries:
 - [Sound Finance](https://wiki.bioconomy.earth/concepts/sound-finance): The fiscal doctrine that taxes fund spending, its operational falsity, and its coordination function
 - [Direction of Fit](https://wiki.bioconomy.earth/concepts/direction-of-fit): The grounding the founding suite needs before any funding relationship is recorded, with the check each template applies
 - [Entity Gestation](https://wiki.bioconomy.earth/concepts/entity-gestation): Founding a BioHub without a registered entity for a fixed period, and choosing its form once the place has stated its work
+- [Participation and Conformity](https://wiki.bioconomy.earth/concepts/participation-and-conformity): Two ways a universal standard relates to particular places, from Jordan Hall's formal and participatory universalism, applied to money, measurement and BioHub design
 
 Full concepts index: https://wiki.bioconomy.earth/concepts/
 
@@ -107,7 +108,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## People
 
-- [People index](https://wiki.bioconomy.earth/people/): 80 entries across five categories: ancestors (23), theorists (37), practitioners (17), historical practitioners (2), indigenous (1)
+- [People index](https://wiki.bioconomy.earth/people/): 120 entries across five categories: ancestors (35), theorists (62), practitioners (20), historical practitioners (2), indigenous (1)
 
 ## Sources
 

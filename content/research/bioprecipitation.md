@@ -3,7 +3,7 @@ title: "Bioprecipitation"
 aliases: ["bioprecipitation", "vegetation-rainfall feedback", "biological ice nucleation"]
 tags: ["research", "hydrology", "water", "climate-science"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-10-23
 source_project: "BioConomy"
 source_documents: ["Water_as_Compound_TIME_Asset.md", "Roam/Bioprecipitation", "Roam/Pseudomonas Syringae"]
 epistemic_status: "documented-fact"
@@ -99,6 +99,19 @@ Three implications for any bioregional restoration project.
 - [[concepts/water-as-compound-asset|Water as a Compound Asset]]
 - [[kravcik-michal|Michal Kravčík]]
 - [[jehne-walter|Walter Jehne]]
+- [[morris-cindy|Cindy E. Morris]]
+- [[millan-millan|Millán Millán]]
+- [[lyons-tom|Tom Lyons]]
+- [[nair-udaysankar|Udaysankar S. Nair]]
+- [[pitman-andy|Andy Pitman]]
+- [[blamey-ross|Ross Blamey]]
+- [[keys-patrick|Patrick Keys]]
+- [[te-wierik-sofie|Sofie te Wierik]]
+- [[van-wyk-daniel|D.B. van Wyk]]
+- [[le-maitre-david|David Le Maitre]]
+- [[van-wilgen-brian|Brian van Wilgen]]
+- [[mills-anthony|Anthony J. Mills]]
+- [[cowling-richard|Richard Cowling]]
 
 ## Sources
 
@@ -130,7 +143,7 @@ Extracted from Section 4 of *Water_as_Compound_TIME_Asset.md* in the [[bioconomy
     "name": "Michael Haupt"
   },
   "datePublished": "2026-08-25",
-  "dateModified": "2026-08-27",
+  "dateModified": "2026-10-23",
   "creativeWorkStatus": "documented-fact"
 }
 </script>
