@@ -67,7 +67,7 @@ The Founding Charter published on 23 October 2026 develops the draft (Danckwerts
 
 The charter answers the succession problem the reports kept raising. The design questions below concern what the competition pays for and to whom.
 
-## Challenge: A prize for a regional outcome will see slow uptake
+## The Challenge: A prize for a regional outcome will see slow uptake
 
 **Attribution.** Rainfall and river flow integrate the whole region. A chiefdom of 40,000 to 200,000 hectares can change its own tree cover, soil and water table, and cannot change regional rainfall on its own or prove that it did. The biotic pump itself remains disputed in atmospheric science (see [[glossary/a-e/biotic-pump|Biotic Pump]]), so any payment that depends on it carries the dispute into the payout.
 
@@ -77,7 +77,7 @@ The charter answers the succession problem the reports kept raising. The design 
 
 **Distribution.** A large sum arriving at once in one territory concentrates exactly the capture risk Danckwerts names. Deciding who receives it after the award leaves the hardest question to the moment of greatest temptation.
 
-## Solution: Pay for stocks a community controls
+## The Solution: Pay for stocks a community controls
 
 The [[performance-based-water-bonds|Cape Water Bond]] in South Africa already shows a possible approach. It settles its performance premium on hectares of invasive alien plants cleared, the only payment metric it names publicly, and makes no attempt to settle on megalitres delivered to the city's dams [IC]. Its funders care about water supply and pay for the counted work that produces it, with an independent agent doing the counting.
 
