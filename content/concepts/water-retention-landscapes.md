@@ -1,9 +1,10 @@
 ---
 title: "Water Retention Landscapes"
+description: "How restored landscapes capture rainfall, hold it in soil and release it slowly: the founding text, the practitioner lineage from Yeomans to Weiss, the mechanisms at four scales, biome-specific evidence, and why measurable water yield makes restoration bankable for a BioHub."
 aliases: ["water retention landscape", "WRL", "catchment restoration"]
 tags: ["concept", "bioconomy", "ecological-science", "water", "restoration"]
 created: 2026-09-01
-updated: 2026-08-25
+updated: 2026-10-23
 source_project: "BioConomy"
 source_documents: ["Water_Retention_Landscapes_Notion_Export"]
 epistemic_status: "documented-framework"
@@ -85,6 +86,7 @@ There is a related but distinct body of research on whether intact vegetation co
 
 ## Related pages
 
+- [[resources/water-retention-landscape-resources|Water Retention Landscape Resources]]: books, papers, videos and websites on WRL, with a note on what each video adds
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[water-retention-landscape|Water Retention Landscape (glossary)]]

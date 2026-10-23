@@ -114,6 +114,11 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 - [Sources index](https://wiki.bioconomy.earth/sources/): 175 annotated bibliography entries, each stating what the work argues and why it matters here
 
+## Resources
+
+- [Resources](https://wiki.bioconomy.earth/resources/): Informal collections of books, papers, videos and websites, one page per subject, each video annotated with what it adds to the wiki
+- [Water Retention Landscape Resources](https://wiki.bioconomy.earth/resources/water-retention-landscape-resources): Ten annotated videos plus books, papers, websites and interviews on water retention and rainwater harvesting
+
 ## Funding
 
 - [Funding sources](https://wiki.bioconomy.earth/funding/): Grant and funding instrument documentation (GEF SGP CSO Challenge Program)
