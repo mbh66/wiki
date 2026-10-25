@@ -25,7 +25,7 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 - [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents
 - [PROUT and the BioConomy](https://wiki.bioconomy.earth/essays/prout-and-the-bioconomy): The relationship between Sarkar's Progressive Utilization Theory and the BioConomy framework
 
-## Concepts (44 entries)
+## Concepts (45 entries)
 
 Core coordination and economic concepts. Key entries:
 
@@ -50,6 +50,7 @@ Core coordination and economic concepts. Key entries:
 - [Entity Gestation](https://wiki.bioconomy.earth/concepts/entity-gestation): Founding a BioHub without a registered entity for a fixed period, and choosing its form once the place has stated its work
 - [Participation and Conformity](https://wiki.bioconomy.earth/concepts/participation-and-conformity): Two ways a universal standard relates to particular places, from Jordan Hall's formal and participatory universalism, applied to money, measurement and BioHub design
 - [Outcome Payments for Community Restoration](https://wiki.bioconomy.earth/concepts/outcome-payments-for-community-restoration): Paying rural communities for verified trees, soil and groundwater, registering customary territories as coordination surfaces, and the route to performance finance; worked example Bring back the Rains
+- [Exclusion from Water Finance](https://wiki.bioconomy.earth/concepts/exclusion-from-water-finance): How water funds, watershed payments and catchment bonds exclude rural land stewards, the evidence on poverty effects, and how far the violence-of-conservation literature supports calling it violence
 
 Full concepts index: https://wiki.bioconomy.earth/concepts/
 
@@ -105,7 +106,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Glossary
 
-- [Glossary index](https://wiki.bioconomy.earth/glossary/): 118 controlled vocabulary entries used across both the wiki and BioHubs sites
+- [Glossary index](https://wiki.bioconomy.earth/glossary/): 166 controlled vocabulary entries used across both the wiki and BioHubs sites
 
 ## People
 
@@ -113,7 +114,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Sources
 
-- [Sources index](https://wiki.bioconomy.earth/sources/): 175 annotated bibliography entries, each stating what the work argues and why it matters here
+- [Sources index](https://wiki.bioconomy.earth/sources/): 195 annotated bibliography entries, each stating what the work argues and why it matters here
 
 ## Resources
 
