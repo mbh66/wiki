@@ -147,6 +147,8 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [AI tooling](https://wiki.bioconomy.earth/tools/ai/): Wiki extraction skill and Tax-to-Commons Policy Scan prompt
 - [Tax-to-Commons Policy Scan](https://wiki.bioconomy.earth/tools/ai/tax-to-commons-policy-scan): Reusable prompt for scanning a jurisdiction's fiscal landscape against four documented tax-to-commons legal-mechanism classes
 - [BioPlace layer](https://wiki.bioconomy.earth/tools/bioplace/): BioPlace spatial tools documentation
+- [BioRegion layer](https://wiki.bioconomy.earth/tools/bioregion/): Tools for catchment- and landscape-scale work
+- [Resilient Watersheds Toolbox](https://wiki.bioconomy.earth/tools/bioregion/resilient-watersheds-toolbox): The Nature Conservancy's guide to designing, financing and running Watershed Investment Programs and water funds
 
 ## Optional
 

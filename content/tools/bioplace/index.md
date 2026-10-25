@@ -3,7 +3,7 @@ title: "BioPlace Tools"
 aliases: ["bioplace tools", "tools for bioplaces"]
 tags: ["landing", "orientation", "tools", "bioplace"]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-10-25
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -18,6 +18,7 @@ BioPlace-scale work has particular tooling requirements. The parcels are small e
 ## Currently listed
 
 - [[permacultr|Permacultr]] (permacultr.io). Web-based [[permaculture|permaculture]] site-planning tool that layers open environmental data (contours, soil, climate, water flow) over a site boundary the user draws on a map. Free during public preview.
+- [[tools/bioregion/resilient-watersheds-toolbox|Resilient Watersheds Toolbox]] (listed under BioRegion Tools). The Nature Conservancy's open guide to designing and running Watershed Investment Programs and water funds. Useful to a BioPlace steward whose land sits in a catchment a water fund is studying or paying for.
 
 ## Criteria for inclusion
 

@@ -3,7 +3,7 @@ title: "Tools"
 aliases: ["tools", "tools folder"]
 tags: ["landing", "orientation", "tools"]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-10-25
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -16,7 +16,7 @@ Software and services that support the work of building a BioConomy. Each tool s
 - [[tools/bioplace/index|BioPlace Tools]]. Software and services for the parcel-scale human-land layer.
 - [[tools/ai/index|AI Tools]]. Skills and automations used in building and maintaining the wiki.
 - BioHub Tools (folder to be added when the first tool arrives).
-- BioRegion Tools (folder to be added when the first tool arrives).
+- [[tools/bioregion/index|BioRegion Tools]]. Software, guidance platforms and services for catchment- and landscape-scale work.
 - BioConomy Tools (folder to be added when the first tool arrives).
 
 ## How the folder is organized
