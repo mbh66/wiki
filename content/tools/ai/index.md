@@ -3,7 +3,7 @@ title: "AI Tools"
 aliases: ["ai tools", "ai tools folder"]
 tags: ["landing", "orientation", "tools", "ai"]
 created: 2026-09-08
-updated: 2026-09-13
+updated: 2026-10-25
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -21,6 +21,7 @@ These are not general-purpose AI tools. They are purpose-built capabilities conf
 
 - [[tools/ai/wiki-extraction|Wiki Extraction]]. Skill for extracting publishable wiki content from a Claude project knowledge base into structured markdown pages.
 - [[tools/ai/tax-to-commons-policy-scan|Tax-to-Commons Policy Scan]]. Reusable prompt for scanning a jurisdiction's fiscal landscape against the four documented tax-to-commons legal-mechanism classes.
+- [[tools/ai/catchment-dam-and-initiative-scan|Catchment Dam and Initiative Scan]]. Deep research instructions that turn a table of a catchment's dams into registers of dams and water initiatives, and a brief on who stores, uses and protects the catchment's water.
 
 ## Related pages
 

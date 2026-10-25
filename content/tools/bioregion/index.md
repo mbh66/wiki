@@ -19,6 +19,7 @@ BioRegion-scale work has its own tooling needs. A catchment program or landscape
 ## Currently listed
 
 - [[tools/bioregion/resilient-watersheds-toolbox|Resilient Watersheds Toolbox]] (resilientwatershedstoolbox.org). The Nature Conservancy's open guide to designing, financing and running Watershed Investment Programs and water funds, with a four-phase project cycle, a directory of 45 modeling tools and 41 case studies.
+- [[tools/ai/catchment-dam-and-initiative-scan|Catchment Dam and Initiative Scan]] (listed under AI Tools). Deep research instructions that start from a table of the catchment's dams and find the water initiatives around them.
 
 ## Criteria for inclusion
 
