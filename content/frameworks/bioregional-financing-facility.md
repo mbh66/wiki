@@ -1,11 +1,12 @@
 ---
 title: "The Bioregional Financing Facility"
+description: "The four-entity architecture (trust, venture studio, investment company, bank) through which a bioregion capitalizes its regenerative transition, and the Bioregional Development Organization that coordinates the four."
 aliases: ["Bioregional Financing Facility", "BFF", "Bioregional Financing Facilities", "BFFs"]
 tags: ["framework", "bioregional-economics", "finance", "institutional-design"]
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-26
 source_project: "BioConomy"
-source_documents: ["Power-Seefeld BioFi report (2024)", "BFF.md (Roam export)"]
+source_documents: ["Power-Seefeld BioFi report (2024)", "BFF.md (Roam export)", "omniharmonic_-_The_Missing_Middle_of_Bioregional_Development.pdf"]
 epistemic_status: "documented-framework"
 ---
 
@@ -66,6 +67,14 @@ The BFF architecture presupposes several pieces of supporting infrastructure tha
 
 **Bioregional Hubs.** Community-led institutions that function as gathering places, resource centers, and facilitators of regeneration-related activities within a bioregion. The BFF's "Bioregional Hub" overlaps with the wiki's [[biohub|BioHub]] concept, though the BFF definition emphasizes facilitation of multi-capital flows and strengthening of the bioregional collaboration network, while the BioHub specification in this wiki focuses on coordination surfaces, services portfolios, and institutional identity.
 
+## The Bioregional Development Organization
+
+In *The Missing Middle of Bioregional Development* (2026), [[life-benjamin|Benjamin Life]] builds on the BFF and credits its design to Samantha Power, [[wakefield-tyler|Tyler Wakefield]], Leon Seefeld and the BioFi Project. He reports that the facilities BioFi supported after its Cultivator Program have moved from grant funds toward blended-capital vehicles weighted toward investment, and that in the Hudson Valley BioFi and its collaborators are building a fund grounded in a [[metabolic-study|metabolic study]] of the whole bioregion. Life then proposes the [[bioregional-development-organization-bdo|Bioregional Development Organization]] (BDO): an institution one order of scale above the four entities, which holds the bioregional plan, federates the facilities into one system, and capitalizes them as an evergreen fund of funds. "If the BioFi facilities are organs, the BDO is the body."
+
+Life keeps the BFF's phasing and makes the dependencies explicit. The trust comes first, and each facility is designed from the start as an organ of the four-part system: the trust's grant criteria anticipate the venture studio's pipeline, its governance becomes the template later facilities inherit, and the plan specifies when each subsequent facility activates. Life calls this "the interdependence hypothesis, operationalized."
+
+In this wiki, a BioHub that takes on the BDO's capital functions is a BDO in Life's sense, and each BioRegion decides whether to run a federation of BDOs or one capital-holding BioHub. The BDO glossary entry sets out both arrangements.
+
 ## Relationship to the Emancipation Architecture
 
 The BFF and the [[frameworks/emancipation-architecture|Emancipation Architecture]] address the same problem from different positions.
@@ -89,11 +98,14 @@ In Southern Africa, bioregional organizing teams in the [Valley of Grace](https:
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]
 - [[glossary/a-e/bioregional-economics|Bioregional Economics]]
 - [[biohub|BioHub]]
+- [[bioregional-development-organization-bdo|Bioregional Development Organization (BDO)]]
+- [[metabolic-study|Metabolic study]]
 - [[concepts/transvestment|Transvestment]]
 
 ## Sources
 
 - [[sources/power-seefeld-biofi|Power, S. & Seefeld, L. (2024). *Bioregional Financing Facilities.*]]
+- Life, B. (2026). *[[sources/life-missing-middle|The Missing Middle of Bioregional Development]]*
 - [BioFi website](https://www.biofi.earth)
 - [BioFi Resource Garden](https://www.biofi.earth/resource-garden)
 - [BioFi Community of Practice (Hylo)](https://www.hylo.com/groups/biofi)
@@ -101,6 +113,8 @@ In Southern Africa, bioregional organizing teams in the [Valley of Grace](https:
 ## Provenance
 
 Written 12 September 2026 as a framework entry synthesizing the Power & Seefeld BFF report (2024) and the BFF Roam Research notes. The relationship to the Emancipation Architecture is the wiki author's analytical contribution.
+
+Updated 26 October 2026 with a section on Benjamin Life's Bioregional Development Organization, from his Part II. Life's reports of BioFi's work after the Cultivator Program and in the Hudson Valley are carried as his account. The closing sentence on BioHubs is the wiki author's. A `description` was added.
 
 <script type="application/ld+json">
 {
@@ -114,7 +128,7 @@ Written 12 September 2026 as a framework entry synthesizing the Power & Seefeld 
     {"@type": "Person", "name": "Leon Seefeld"}
   ],
   "contributor": {"@type": "Person", "name": "Michael Haupt"},
-  "dateModified": "2026-09-12",
+  "dateModified": "2026-10-26",
   "about": [
     {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-financing-facility-bff/"},
     {"@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/"}

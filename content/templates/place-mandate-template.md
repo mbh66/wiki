@@ -4,7 +4,7 @@ description: "The fourth template in the founding suite. A BioHub states what it
 aliases: ["place mandate template", "20-year concept note template", "twenty-year concept note", "concept note template"]
 tags: ["template", "founding-suite", "place-mandate", "finance", "governance"]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-26
 source_project: "BioConomy"
 source_documents: ["Place_Mandate_Template_v0_1.md"]
 epistemic_status: "documented-framework"
@@ -36,6 +36,7 @@ Do not run it as a fundraising exercise. The Place Mandate asks no one for money
 - Any existing place-based proposals, strand plans or landscape investment portfolios.
 - [[biostack|BioStack]] and [[bioconomy|BioConomy]] foundational document.
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
+- Any [[metabolic-study|metabolic study]] of the BioRegion, where one exists.
 
 ## Step 0: the Place Knowledge Brief
 
@@ -89,9 +90,13 @@ The Ledger places three layers of money across the twenty years. Enabling money 
 
 The Terms of Engagement include an instrument test: the conditions any grant or financial instrument must meet to be compatible with the fixed ground. The [[bankable-service-alignment-template|Bankable Service Alignment Template]] applies that test to a target instrument before it maps the BioHub's services onto the instrument's architecture. An instrument that requires the place to change what the Terms fix fails, however well the services would otherwise align.
 
+## The Place Mandate as a development plan
+
+[[life-benjamin|Benjamin Life]]'s [[bioregional-development-organization-bdo|Bioregional Development Organization]] holds a bioregional development plan braided from three maps: a biophysical map of carrying capacity and flows, a social map drawn with the communities who feel overshoot first, and a governance map seated before significant money arrives. The founding suite produces the same plan by its own route. The BioRegion Establishment Template carries the biophysical map. The Place Knowledge Brief and the ratifying authorities carry the social map. The Terms of Engagement carry the governance map, and the Place Mandate itself states the work. A BioHub that holds a ratified Place Mandate holds what Life calls the plan, and a BioHub that goes on to take capital functions is a BDO in his sense. Life's rule that "the organizing precedes the money, always" is one this template already keeps: the Mandate asks no one for money.
+
 ## Multi-BioHub regions
 
-Where more than one BioHub operates in a [[bioregion|BioRegion]], the BioHubs either produce one Place Mandate jointly under the BioRegion Charter, or produce one each and reconcile their fixed ground and ways in under the Charter's multi-BioHub protocols. Two Terms of Engagement in one BioRegion must not offer the same outcome to different parties. See [[using-templates-across-biohubs|Using Templates Across BioHubs]].
+Where more than one BioHub operates in a [[bioregion|BioRegion]], the BioHubs either produce one Place Mandate jointly under the BioRegion Charter, or produce one each and reconcile their fixed ground and ways in under the Charter's multi-BioHub protocols. Two Terms of Engagement in one BioRegion must not offer the same outcome to different parties. The Charter also records how the BioRegion carries the BDO's capital functions: as a federation in which each BioHub holds them for its own part of the BioRegion, or through one capital-holding BioHub. See [[using-templates-across-biohubs|Using Templates Across BioHubs]].
 
 ## Related pages
 
@@ -108,15 +113,20 @@ Where more than one BioHub operates in a [[bioregion|BioRegion]], the BioHubs ei
 - [[terms-of-engagement|Terms of Engagement]]
 - [[needed-trajectory|Needed Trajectory]]
 - [[concepts/direction-of-fit|Direction of Fit]]
+- [[bioregional-development-organization-bdo|Bioregional Development Organization (BDO)]]
+- [[metabolic-study|Metabolic study]]
 
 ## Sources
 
 - 1000 Landscapes for 1 Billion People (2022). *[[sources/1000-landscapes-ilm-practical-guide|A Practical Guide to Integrated Landscape Management]]*
 - Scherr, S.J., et al. (2026). *[[sources/scherr-2026-landscape-transformation-support-system|Collaborative Landscape and Bioregional Planning and Management]]*
 - Ruddick, W. (2023). *[[sources/ruddick-commitment-pooling-2023|Commitment Pooling]]*
+- Life, B. (2026). *[[sources/life-missing-middle|The Missing Middle of Bioregional Development]]*
 
 ## Provenance
 
 Written 30 September 2026 from *Place Mandate Template* v0.1 (30 September 2026), which holds the full prompt text, the Step 0 questions and the output specifications. The template generalizes a place-based investment proposal on the Ward 2 Development Forum register, [Ridge to River to Table](https://df.valleyofgrace.co.za/concepts/ridge-to-river-to-table), which was not yet agreed at the time of writing. The money sequence, the shared support layer and the practice of following each 100 units of money come from that proposal, which in turn draws them from the 1000 Landscapes guide and from an unpublished 2026 concept paper by Ranyaka Community Transformation, *A Third Way of Investing in Places*. Step 0, the fixed ground, the needed trajectory and the instrument test are the wiki author's additions. Ranyaka Community Transformation has not yet replied to this page's use of its method.
+
+Updated 26 October 2026: the section relating the Place Mandate to Benjamin Life's bioregional development plan, the optional metabolic study input, and the Charter's record of the BDO arrangement are the wiki author's additions. *Place Mandate Template* v0.1 does not yet include them. Life has not yet been invited to comment on this reading of his framework.
 
 Updated 30 September 2026 to link [[concepts/direction-of-fit|Direction of Fit]] from the Overview.

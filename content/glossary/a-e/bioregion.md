@@ -1,13 +1,14 @@
 ---
 title: "BioRegion"
+description: "A geographical area whose boundary is drawn by its ecological systems, functioning as the unit of economic coordination in a BioConomy, and the scale at which a BioRegion decides how its BioHubs carry capital functions."
 aliases: []
 tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: ""
-related_terms: ["bioplace", "biohub", "bioregional-economics", "biohub-field-sense", "bioconomy", "biostack", "nation-state", "e-form-emergent", "retention-economics"]
+related_terms: ["bioplace", "biohub", "bioregional-economics", "biohub-field-sense", "bioconomy", "biostack", "nation-state", "e-form-emergent", "retention-economics", "bioregional-development-organization-bdo"]
 source_project: "BioConomy"
 created: 2026-08-24
-updated: 2026-09-07
+updated: 2026-10-26
 epistemic_status: "documented-framework"
 ---
 
@@ -33,6 +34,10 @@ The nation-state administers the monetary architecture that requires growth: deb
 
 In the [[time|TIME]] framework, the nation-state is the dominant [[i-form-institutional|I-form]] body, operating inside an M-form economy. Its coordination instruments are legislation, regulation, fiscal policy, and the monopoly on legitimate force. The BioRegion is the coordination unit of the [[e-form-emergent|+E]] transition. It does not compete with the nation-state for sovereignty. It relocates economic coordination from an administrative abstraction to an ecological reality, while the nation-state narrows to the I-form work it does well: rule of law, defence, treaty obligations. The boundary of coordination shifts from the jurisdictional to the ecological.
 
+## Capital at the scale of the BioRegion
+
+Benjamin Life's [[bioregional-development-organization-bdo|Bioregional Development Organization]] (BDO) plans and capitalizes a bioregional economy as one system. Where a BioRegion holds more than one BioHub, it decides how that function is carried: as a federation of BDOs, with each BioHub carrying the capital functions for its own part of the BioRegion, or through one capital-holding BioHub for the whole BioRegion. The BioRegion Charter, produced through the [[templates/bioregion-establishment-template|BioRegion Establishment Template]], records the choice. The BioHub entry sets out how a BioHub becomes a BDO.
+
 ## Related terms
 
 - [[bioplace|BioPlace]]
@@ -47,6 +52,7 @@ In the [[time|TIME]] framework, the nation-state is the dominant [[i-form-instit
 - [[retention-economics|Retention Economics]]
 - [[bioscore|BioScore]]
 - [[bioregional-financing-facility-bff|Bioregional Financing Facility (BFF)]]
+- [[bioregional-development-organization-bdo|Bioregional Development Organization (BDO)]]
 - [[tenderable-services-portfolio|Tenderable Services Portfolio]]
 - [[templates/index|The Templates]]
 - [[templates/bioregion-establishment-template|BioRegion Establishment Template]]
@@ -54,6 +60,8 @@ In the [[time|TIME]] framework, the nation-state is the dominant [[i-form-instit
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, contrast with the Nation-state, and TIME framework analysis added 7 September 2026, drawing on the Economy versus BioConomy concept page, the BioStack entry, and the TIME framework glossary entries.
+
+Section on capital at the scale of the BioRegion added 26 October 2026, following Benjamin Life's *[[sources/life-missing-middle|The Missing Middle of Bioregional Development]]*; the two arrangements are the wiki author's construction. A `description` was added.
 
 <script type="application/ld+json">
 {

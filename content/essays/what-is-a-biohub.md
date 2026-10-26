@@ -10,7 +10,7 @@ tags:
   - biohub
   - bioconomy
 created: 2026-09-01
-updated: 2026-09-30
+updated: 2026-10-26
 source_project: BioConomy
 source_documents:
   - Getting_Started_in_a_BioHub_Notion_Export
@@ -53,6 +53,8 @@ Four bodies of work carry the economic architecture a functioning BioHub draws o
 
 [[concepts/bioregional-economics|Bioregional Economics]] is the discipline concerned with designing regenerative, cooperatively owned, place-based economies within the carrying capacity of their landscapes. The material draws on [[life-benjamin|Benjamin Life]]'s foundational definition, [[fullerton-john|John Fullerton]]'s eight principles of [[regenerative-capitalism|regenerative capitalism]], [[raworth-kate|Kate Raworth]]'s boundary conditions, and the [[bioregional-financing-facility-bff|Bioregional Financing Facilities]] architecture developed by Dark Matter Labs and the Buckminster Fuller Institute.
 
+Life's second essay, *The Missing Middle of Bioregional Development* (2026), proposes a [[bioregional-development-organization-bdo|Bioregional Development Organization]] (BDO) to plan and capitalize a bioregional economy as one system. The BioHub is a similar concept. A BioHub that takes on the BDO's capital functions is a BDO in Life's sense, and each BioRegion decides whether its BioHubs federate as several BDOs or one BioHub holds the capital functions for the whole BioRegion.
+
 [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]] examines how cooperatives within a bioregion retain and circulate value internally through federated structures. The Mondragón and SEKEM precedents are the primary case material.
 
 [[concepts/cosmo-local-production|Cosmo-Local Production]] carries the formulation from [[bauwens-michel|Michel Bauwens]]: share knowledge globally, adapt it locally, produce regeneratively in place, share the learning globally. The educational material on this site is the global-facing layer; the catchment restoration and cooperative production in each bioregion is the place-based layer.
@@ -85,12 +87,15 @@ This wiki is a guide for establishing your own. The five-template [[templates/in
 
 - Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 - Life, B. (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*
+- Life, B. (2026). *[[sources/life-missing-middle|The Missing Middle of Bioregional Development (Part II)]]*
 
 ## Provenance
 
 Extracted from *Getting Started in a BioHub* (Notion export, September 2026). The personal note and Overberg-specific framing in the source have been trimmed for the international-audience wiki, per extraction instructions. Section headings preserve the source's organization; internal Notion links have been resolved to wikilinks against the current wiki structure or noted for future resolution.
 
 Updated 30 September 2026 for the five-template founding suite.
+
+Updated 26 October 2026 with a paragraph relating the BioHub to Benjamin Life's Bioregional Development Organization; the relationship is the wiki author's construction.
 
 <script type="application/ld+json">
 {
@@ -107,7 +112,7 @@ Updated 30 September 2026 for the five-template founding suite.
     "@id": "https://wiki.bioconomy.earth/#website"
   },
   "datePublished": "2026-09-01",
-  "dateModified": "2026-08-27",
+  "dateModified": "2026-10-26",
   "keywords": [
     "essay",
     "orientation",

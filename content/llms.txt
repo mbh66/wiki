@@ -106,15 +106,15 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Glossary
 
-- [Glossary index](https://wiki.bioconomy.earth/glossary/): 166 controlled vocabulary entries used across both the wiki and BioHubs sites
+- [Glossary index](https://wiki.bioconomy.earth/glossary/): 168 controlled vocabulary entries used across both the wiki and BioHubs sites
 
 ## People
 
-- [People index](https://wiki.bioconomy.earth/people/): 120 entries across five categories: ancestors (35), theorists (62), practitioners (20), historical practitioners (2), indigenous (1)
+- [People index](https://wiki.bioconomy.earth/people/): 121 entries across five categories: ancestors (35), theorists (63), practitioners (20), historical practitioners (2), indigenous (1)
 
 ## Sources
 
-- [Sources index](https://wiki.bioconomy.earth/sources/): 195 annotated bibliography entries, each stating what the work argues and why it matters here
+- [Sources index](https://wiki.bioconomy.earth/sources/): 196 annotated bibliography entries, each stating what the work argues and why it matters here
 
 ## Resources
 

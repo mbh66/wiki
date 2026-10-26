@@ -4,7 +4,7 @@ description: "What the founding suite gives an advisor who presents place-based 
 aliases: ["for funders", "for capital advisors", "advisor brief"]
 tags: ["template", "orientation", "finance", "funders"]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-26
 source_project: "BioConomy"
 source_documents: ["Place_Mandate_Template_v0_1.md", "Bankable_Service_Alignment_Template_v0_2.md"]
 epistemic_status: "documented-framework"
@@ -54,6 +54,8 @@ The Mandate's first input, the [[place-knowledge-brief|Place Knowledge Brief]], 
 
 Advisors who build impact nodes or centers of excellence will recognize the BioConomy approach. A BioHub is a coordination body. It organizes distributed regenerative contributions within a living landscape into verifiable commitments the outside world can contract with.
 
+[[life-benjamin|Benjamin Life]] describes the problem advisors meet from the capital side. Family and institutional capital looking for exposure to resilient places finds it cannot buy it, because its ticket sizes and diligence are built for large increments and the regenerative field offers many projects that are each too small to underwrite. Life's answer is a [[bioregional-development-organization-bdo|Bioregional Development Organization]] that aggregates them into one investable thesis, with catalytic philanthropy in first-loss position and governance that keeps capital from capturing the mission. A BioHub that takes on those capital functions is a BDO in Life's sense. Depending on what its BioRegion has chosen, an advisor may meet one capital-holding BioHub for the whole BioRegion, or a federation of BioHubs that each hold the capital functions for their own part of it.
+
 Each of the five templates ends in three documents of the same kind: a short formal statement, a long evidence pack, and a co-signed compact. A reader who learns the pattern on one BioHub can read any BioHub in the network and compare them. When a client brings a specific financial instrument, the [[bankable-service-alignment-template|Bankable Service Alignment Template]] first tests that instrument against the Terms of Engagement, and maps the BioHub's services onto it only if it passes.
 
 ## Where to start
@@ -69,7 +71,11 @@ Go to the [[templates/index|Templates]] page. It sets out the five templates, th
 - [[needed-vs-needy|Needed vs. Needy]]
 - [[bankable-service-alignment-template|Bankable Service Alignment Template]]
 - [[essays/what-is-a-biohub|What Is a BioHub]]
+- [[bioregional-development-organization-bdo|Bioregional Development Organization (BDO)]]
+- [[sources/life-missing-middle|Life, B. (2026). The Missing Middle of Bioregional Development]]
 
 ## Provenance
 
 Written 30 September 2026 for advisors who present place-based work to family and institutional capital, from *Place_Mandate_Template_v0_1.md* and *Bankable_Service_Alignment_Template_v0_2.md* as published on the template and glossary pages. The five-return table is an editorial reading of the Ledger's structure: the templates themselves do not use the five-return frame.
+
+Updated 26 October 2026 with a paragraph on Benjamin Life's Bioregional Development Organization (Part II, October 2026); the BioHub reading is the wiki author's.

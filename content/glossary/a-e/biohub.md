@@ -1,13 +1,14 @@
 ---
 title: "BioHub"
+description: "A bioregional coordination body that convenes the people, institutions, and economic actors whose activity shapes a BioConomy in a BioRegion. A BioHub that takes on capital functions is a Bioregional Development Organization in Benjamin Life's sense."
 aliases: []
 tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: ""
-related_terms: ["bioplace", "bioregion", "bioregional-economics", "biohub-field-sense", "bioregional-learning-centre", "bioconomy", "biostack", "municipality", "coordination-node", "e-form-emergent", "commitment-pool"]
+related_terms: ["bioplace", "bioregion", "bioregional-economics", "biohub-field-sense", "bioregional-learning-centre", "bioconomy", "biostack", "municipality", "coordination-node", "e-form-emergent", "commitment-pool", "bioregional-development-organization-bdo"]
 source_project: "BioConomy"
 created: 2026-08-24
-updated: 2026-09-07
+updated: 2026-10-26
 epistemic_status: "documented-framework"
 ---
 
@@ -33,6 +34,14 @@ A municipality governs by statutory authority, accountable upward to provincial 
 
 In the [[time|TIME]] framework, the municipality is an [[i-form-institutional|I-form]] body operating inside an [[m-form-market|M-form]] economy. Its coordination instruments (zoning, rates, development incentives) are I-form tools applied to M-form goals. The BioHub is the +E coordination node. Its coordination instruments (compacts, commitment pools, cooperative federation) derive their authority from voluntary participation, not from statutory grant. The [[coordination-node|coordination node]] analysis makes the architectural shift visible: the M-form node (the skyscraper, the trading floor) is built to concentrate and accelerate flow; the +E node (the BioHub) is built to hold a bioregional economy in view and coordinate retention at landscape scale.
 
+## The BioHub as a Bioregional Development Organization
+
+[[life-benjamin|Benjamin Life]]'s [[bioregional-development-organization-bdo|Bioregional Development Organization]] (BDO) is a similar concept, developed separately in *The Missing Middle of Bioregional Development* (2026). The BDO is the meso-scale institution that sees, plans and capitalizes a bioregional economy as one system, and federates the financing facilities and cooperatives beneath it. The BioHub already carries the BDO's convening and plan-holding functions, through the Founding Compact, the [[place-mandate|Place Mandate]] and the [[terms-of-engagement|Terms of Engagement]]. A BioHub that also takes on the BDO's capital functions (an evergreen fund of funds, a capital stack with catalytic philanthropy in first-loss position, and protections that keep capital from capturing the mission) is a BDO in Life's sense. It keeps the name BioHub and its place as the second layer of the BioStack.
+
+Life's BDO serves a whole bioregion, and a BioRegion may hold several BioHubs. Each BioRegion decides which arrangement suits it: a federation of BDOs, in which each BioHub carries the BDO functions for its own part of the BioRegion and the BioHubs federate across it, or one capital-holding BioHub per BioRegion, with the other BioHubs seated in its sensing and productive layers. The BioRegion Charter records the choice.
+
+This reading is the wiki's construction on Life's framework. Life's essay does not discuss BioHubs, and he has not yet been invited to comment.
+
 ## Related terms
 
 - [[bioplace|BioPlace]]
@@ -47,6 +56,7 @@ In the [[time|TIME]] framework, the municipality is an [[i-form-institutional|I-
 - [[e-form-emergent|E form (Emergent)]]
 - [[i-form-institutional|I form (Institutional)]]
 - [[commitment-pool|Commitment pool]]
+- [[bioregional-development-organization-bdo|Bioregional Development Organization (BDO)]]
 - [[federated-cooperative|Federated cooperative]]
 - [[founding-compact|Founding Compact]]
 - [[templates/index|The Templates: Joining the BioConomy]]
@@ -55,10 +65,13 @@ In the [[time|TIME]] framework, the municipality is an [[i-form-institutional|I-
 ## Sources and associated figures
 
 - [[gladek-eva|Eva Gladek]]
+- Life, B. (2026). *[[sources/life-missing-middle|The Missing Middle of Bioregional Development]]*
 
 ## Provenance
 
 Extracted from the BioHub Glossary CSV export (Notion, August 2026). Extended definition, contrast with the Municipality, and TIME framework analysis added 7 September 2026, drawing on the Economy versus BioConomy concept page, the Coordination Node entry, and the TIME framework glossary entries.
+
+Section on the BioHub as a Bioregional Development Organization added 26 October 2026, from Benjamin Life's Part II; the identification and the two BioRegion arrangements are the wiki author's construction. A `description` was added.
 
 Related-term references from the source that did not resolve to a glossary, people, or sources page in this pass (flagged for review): `Metabolic Institute`.
 
