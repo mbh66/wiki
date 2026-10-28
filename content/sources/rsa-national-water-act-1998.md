@@ -8,7 +8,7 @@ url: "https://www.gov.za/documents/national-water-act"
 doi: ""
 tags: ["source", "legislation", "water-law", "south-africa", "ecological-reserve"]
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-10-28
 source_project: "BioConomy"
 ---
 
@@ -24,6 +24,7 @@ The Act supplies the +[[i-form-institutional|I-form]] framing beneath both the G
 
 - [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
 - [[concepts/water-as-compound-asset|Water as a Compound Asset]]
+- [[concepts/water-retention-landscapes#Evidence and payability|Water Retention Landscapes: Evidence and payability]]
 
 <script type="application/ld+json">
 {

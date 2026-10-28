@@ -8,7 +8,7 @@ url: ""
 doi: ""
 tags: ["source", "fynbos", "streamflow", "water-yield"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-28
 source_project: "BioConomy"
 ---
 
@@ -19,6 +19,7 @@ The foundational peer-reviewed evidence base for the water-yield cost of pine in
 ## Cited by
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
+- [[concepts/water-retention-landscapes#Evidence and payability|Water Retention Landscapes: Evidence and payability]]
 
 <script type="application/ld+json">
 {

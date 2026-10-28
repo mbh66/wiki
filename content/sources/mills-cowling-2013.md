@@ -9,7 +9,7 @@ url: ""
 doi: ""
 tags: ["source", "renosterveld", "soil-carbon", "restoration"]
 created: 2026-08-25
-updated: 2026-10-14
+updated: 2026-10-28
 source_project: "BioConomy"
 ---
 
@@ -21,6 +21,7 @@ The soil-carbon evidence base for renosterveld restoration in the Overberg. Mill
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]
+- [[concepts/water-retention-landscapes#Evidence and payability|Water Retention Landscapes: Evidence and payability]]
 
 <script type="application/ld+json">
 {

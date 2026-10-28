@@ -86,7 +86,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
 - [For Advisors to Family and Institutional Capital](https://wiki.bioconomy.earth/templates/for-capital-advisors): What the founding suite gives advisors who present BioHubs to family and institutional capital
 
-## Research (15 briefs)
+## Research (16 briefs)
 
 - [The S-Curve Thesis and the Retention Counter-Tradition](https://wiki.bioconomy.earth/research/growth-economics): The foundational research brief (55KB)
 - [Historical Patronage and the Three-Feature Test](https://wiki.bioconomy.earth/research/historical-patronage-three-feature-test): Cross-cluster patronage analysis
@@ -103,6 +103,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [What GDP Leaves Out: Lost Prosperity in Mature Economies](https://wiki.bioconomy.earth/research/what-gdp-leaves-out): Evidence that households in mature economies are losing ground on measures GDP omits, with a table for eight economies and the disaster-recovery case
 - [South Africa on the Curve: A Developmental Arc, 1961 to 2026](https://wiki.bioconomy.earth/research/south-africa-on-the-curve): Sixty-five years of South African income per person, investment, minerals, health, jobs, trust, debt and power supply in six periods, with a peer comparison and graded claims
 - [Elite Overproduction in South Africa, 1994 to 2026](https://wiki.bioconomy.earth/research/elite-overproduction-south-africa): A test of Turchin's elite overproduction pressure using graduates, managers, candidates per ward, party splits and political killings, with two aspirant-to-position ratios and graded predictions
+- [Retention Works on the Slope, Unproven at the River](https://wiki.bioconomy.earth/research/water-retention-evidence): Graded global evidence on water retention methods from plot to catchment, with a 58-row case table, nine graded predictions and a monitoring design
 
 ## Glossary
 
@@ -114,7 +115,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Sources
 
-- [Sources index](https://wiki.bioconomy.earth/sources/): 196 annotated bibliography entries, each stating what the work argues and why it matters here
+- [Sources index](https://wiki.bioconomy.earth/sources/): 206 annotated bibliography entries, each stating what the work argues and why it matters here
 
 ## Resources
 

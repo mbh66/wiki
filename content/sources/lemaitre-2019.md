@@ -12,7 +12,7 @@ tags:
   - invasive-species
   - water-yield
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-28
 source_project: BioConomy
 ---
 
@@ -24,6 +24,7 @@ Le Maitre and colleagues' quantification of the ongoing water-yield loss from in
 
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]
 - [[concepts/performance-based-water-bonds|Performance-Based Water Bonds]]
+- [[concepts/water-retention-landscapes#Evidence and payability|Water Retention Landscapes: Evidence and payability]]
 
 <script type="application/ld+json">
 {

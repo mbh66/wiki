@@ -31,6 +31,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 - [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]. Sixteen restoration cases, from the Muonde Trust in Zimbabwe to renosterveld easements in the Western Cape, with the evidence behind each and the patterns across them.
 - [[research/what-gdp-leaves-out|What GDP Leaves Out]]. Evidence that households in mature economies are losing ground on measures GDP omits, from housing and life evaluation to disaster recovery, opened by Robert F. Kennedy's 1968 critique of the Gross National Product.
 - [[research/south-africa-on-the-curve|South Africa on the Curve]]. A middle-income economy read through the S-curve and the beyond-GDP lenses: two climbs and two descents in income per person from 1961 to 2026, set beside minerals, investment, health, jobs, trust and public debt.
+- [[research/water-retention-evidence|Retention Works on the Slope, Unproven at the River]]. Measured outcomes of water retention methods on six continents, graded from plot to catchment, with a 58-row case table and a monitoring design for outcome payments.
 
 ## Related pages
 
