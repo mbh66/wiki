@@ -4,7 +4,7 @@ description: "The fourth template in the founding suite. A BioHub states what it
 aliases: ["place mandate template", "20-year concept note template", "twenty-year concept note", "concept note template"]
 tags: ["template", "founding-suite", "place-mandate", "finance", "governance"]
 created: 2026-09-30
-updated: 2026-10-26
+updated: 2026-10-28
 source_project: "BioConomy"
 source_documents: ["Place_Mandate_Template_v0_1.md"]
 epistemic_status: "documented-framework"
@@ -36,7 +36,7 @@ Do not run it as a fundraising exercise. The Place Mandate asks no one for money
 - Any existing place-based proposals, strand plans or landscape investment portfolios.
 - [[biostack|BioStack]] and [[bioconomy|BioConomy]] foundational document.
 - Framework of coordination forms ([[frameworks/time-framework|TIME]], or an equivalent).
-- Any [[metabolic-study|metabolic study]] of the BioRegion, where one exists.
+- Any [[metabolic-study|metabolic study]] of the BioRegion, where one exists. The [[templates/metabolic-study-template|Metabolic Study Template]] produces one; where the BioHub is making a [[bioregional-development-plan|Bioregional Development Plan]], treat its outputs as standard input (see [[templates/bioregional-development-plan|Assembling a Bioregional Development Plan]]).
 
 ## Step 0: the Place Knowledge Brief
 
@@ -128,5 +128,7 @@ Where more than one BioHub operates in a [[bioregion|BioRegion]], the BioHubs ei
 Written 30 September 2026 from *Place Mandate Template* v0.1 (30 September 2026), which holds the full prompt text, the Step 0 questions and the output specifications. The template generalizes a place-based investment proposal on the Ward 2 Development Forum register, [Ridge to River to Table](https://df.valleyofgrace.co.za/concepts/ridge-to-river-to-table), which was not yet agreed at the time of writing. The money sequence, the shared support layer and the practice of following each 100 units of money come from that proposal, which in turn draws them from the 1000 Landscapes guide and from an unpublished 2026 concept paper by Ranyaka Community Transformation, *A Third Way of Investing in Places*. Step 0, the fixed ground, the needed trajectory and the instrument test are the wiki author's additions. Ranyaka Community Transformation has not yet replied to this page's use of its method.
 
 Updated 26 October 2026: the section relating the Place Mandate to Benjamin Life's bioregional development plan, the optional metabolic study input, and the Charter's record of the BDO arrangement are the wiki author's additions. *Place Mandate Template* v0.1 does not yet include them. Life has not yet been invited to comment on this reading of his framework.
+
+Updated 28 October 2026 to link the Metabolic Study Template and the plan assembly page from the prerequisites. The template source document does not yet include this.
 
 Updated 30 September 2026 to link [[concepts/direction-of-fit|Direction of Fit]] from the Overview.

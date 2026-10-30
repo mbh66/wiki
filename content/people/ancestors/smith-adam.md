@@ -1,11 +1,12 @@
 ---
 title: Adam Smith (1723-1790)
+description: "Scottish moral philosopher, author of The Theory of Moral Sentiments (1759) and The Wealth of Nations (1776), remembered for the invisible hand."
 aliases:
   - invisible hand
 tags:
   - person
 created: 2026-08-25
-updated: 2026-09-10
+updated: 2026-10-30
 source_project: BioConomy
 source_documents:
   - BioHub_Glossary_Notion_Export
@@ -37,6 +38,7 @@ Smith belongs on this list because [[bioconomy|BioConomy]] inherits what he corr
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
+- [[concepts/aesthetic-education|Aesthetic Education]]
 
 ## Sources
 

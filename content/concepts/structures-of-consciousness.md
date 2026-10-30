@@ -1,9 +1,10 @@
 ---
 title: "Structures of Consciousness"
+description: "The distinct modes of awareness through which people organize their relationships, and how four developmental traditions (Gebser, Graves, Kegan and Cook-Greuter) converge on the stages the BioConomy depends on."
 aliases: ["consciousness evolution", "developmental stages", "consciousness development", "developmental frameworks"]
 tags: ["concept", "bioconomy", "consciousness", "core-framework"]
 created: 2026-03-14
-updated: 2026-08-28
+updated: 2026-10-30
 source_project: "BioConomy"
 source_documents: ["V2_Mycelial_Thesis.md", "I The Three Futures", "The_Last_Empire_and_the_First_Planetary_Organism.md", "Belief_Building_The_Late_Work_v1.md"]
 epistemic_status: "documented-framework"
@@ -55,7 +56,7 @@ Kegan documents five orders of consciousness, with each transition producing qua
 
 **Fifth Order (Self-Transforming Mind).** The subject can stand outside their own self-authored framework, recognizing it as one construction among many. The capacity to participate in distributed intelligence without needing to control it. This corresponds to the capacity for Mycelial V2 and maps onto Graves's Second Tier.
 
-Kegan's research demonstrates that the demands of modern institutional life already exceed the developmental capacity of most adults. The BioConomy's argument extends this: the demands of the emerging civilizational conditions exceed the capacity of the fourth order. The fifth order, which Kegan finds empirically rare, is the consciousness that Mycelial coordination requires.
+Kegan's research demonstrates that the demands of modern institutional life already exceed the developmental capacity of most adults. The BioConomy's argument extends this: the demands of the emerging civilizational conditions exceed the capacity of the fourth order. The fifth order, which Kegan finds empirically rare, is the consciousness that Mycelial coordination requires. [[concepts/bildung|Bildung]] is the practice that moves people between these orders; *The Nordic Secret* reads nineteenth-century Bildung as the passage from the third order to the fourth.
 
 ### Susanne Cook-Greuter: Empirical Distribution
 
@@ -87,6 +88,8 @@ The individual developmental frameworks are documented through peer-reviewed res
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[second-tier|Second Tier]]
 - [[first-tier|First Tier]]
+- [[concepts/bildung|Bildung]]
+- [[people/theorists/kegan-robert|Robert Kegan]]
 
 ## Sources
 

@@ -25,7 +25,7 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 - [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents
 - [PROUT and the BioConomy](https://wiki.bioconomy.earth/essays/prout-and-the-bioconomy): The relationship between Sarkar's Progressive Utilization Theory and the BioConomy framework
 
-## Concepts (45 entries)
+## Concepts (47 entries)
 
 Core coordination and economic concepts. Key entries:
 
@@ -51,10 +51,12 @@ Core coordination and economic concepts. Key entries:
 - [Participation and Conformity](https://wiki.bioconomy.earth/concepts/participation-and-conformity): Two ways a universal standard relates to particular places, from Jordan Hall's formal and participatory universalism, applied to money, measurement and BioHub design
 - [Outcome Payments for Community Restoration](https://wiki.bioconomy.earth/concepts/outcome-payments-for-community-restoration): Paying rural communities for verified trees, soil and groundwater, registering customary territories as coordination surfaces, and the route to performance finance; worked example Bring back the Rains
 - [Exclusion from Water Finance](https://wiki.bioconomy.earth/concepts/exclusion-from-water-finance): How water funds, watershed payments and catchment bonds exclude rural land stewards, the evidence on poverty effects, and how far the violence-of-conservation literature supports calling it violence
+- [Bildung](https://wiki.bioconomy.earth/concepts/bildung): The lifelong formation of a person toward wider responsibility and freedom, and why it is ground zero for the BioConomy: as precondition, as developmental pathway and as formation in place
+- [Aesthetic Education](https://wiki.bioconomy.earth/concepts/aesthetic-education): The tradition from Shaftesbury through Goethe and the Humboldt brothers that joins the formation of persons to a relational science of nature
 
 Full concepts index: https://wiki.bioconomy.earth/concepts/
 
-## Frameworks (12 entries)
+## Frameworks (13 entries)
 
 - [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework): Tribal, Institutional, Market, and Emergent forms of human coordination
 - [The TIMN Framework](https://wiki.bioconomy.earth/frameworks/timn-framework): Ronfeldt's original formulation (Tribes, Institutions, Markets, Networks)
@@ -68,6 +70,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [The Evolution of Coordination Nodes](https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes): Physical structures each coordination form has produced
 - [The Physical Manifestations of TIMN](https://wiki.bioconomy.earth/frameworks/time-physical-manifestations): Structural rhymes across the four coordination forms
 - [Farmer-Forger-Founder-Framer](https://wiki.bioconomy.earth/frameworks/farmer-forger-founder-framer): Four archetypes of production across the TIME sequence
+- [BioHub Establishment Requirements](https://wiki.bioconomy.earth/frameworks/biohub-establishment-requirements): Everything Life's two essays on bioregional economics require for a BioHub to establish
 
 ## Templates
 
@@ -81,6 +84,9 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [BioConomy Value Proposition Template: Prompts](https://wiki.bioconomy.earth/templates/value-proposition-template-prompts): Full runnable prompt text for the BioConomy Value Proposition Template
 - [Place Mandate Template: Prompts](https://wiki.bioconomy.earth/templates/place-mandate-template-prompts): Full runnable prompt text for the Place Mandate Template
 - [Bankable Service Alignment Template: Prompts](https://wiki.bioconomy.earth/templates/bankable-service-alignment-template-prompts): Full runnable prompt text for the Bankable Service Alignment Template
+- [Metabolic Study Template](https://wiki.bioconomy.earth/templates/metabolic-study-template): Companion template for a BioRegion's carrying budget, metabolic map and Circulation Goals
+- [Metabolic Study Template: Prompts](https://wiki.bioconomy.earth/templates/metabolic-study-template-prompts): Full runnable prompt text for the Metabolic Study Template
+- [Assembling a Bioregional Development Plan](https://wiki.bioconomy.earth/templates/bioregional-development-plan): How a place commissions and assembles Benjamin Life's Bioregional Development Plan from the founding suite
 - [Running a Template](https://wiki.bioconomy.earth/templates/running-a-template): How to use the three-prompt sequence with a deep-research AI platform
 - [The Nine Outputs](https://wiki.bioconomy.earth/templates/the-nine-outputs): The deliverables the founding suite produces
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
@@ -107,15 +113,15 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Glossary
 
-- [Glossary index](https://wiki.bioconomy.earth/glossary/): 168 controlled vocabulary entries used across both the wiki and BioHubs sites
+- [Glossary index](https://wiki.bioconomy.earth/glossary/): 175 controlled vocabulary entries used across both the wiki and BioHubs sites
 
 ## People
 
-- [People index](https://wiki.bioconomy.earth/people/): 121 entries across five categories: ancestors (35), theorists (63), practitioners (20), historical practitioners (2), indigenous (1)
+- [People index](https://wiki.bioconomy.earth/people/): 133 entries across five categories: ancestors (41), theorists (67), practitioners (21), historical practitioners (3), indigenous (1)
 
 ## Sources
 
-- [Sources index](https://wiki.bioconomy.earth/sources/): 206 annotated bibliography entries, each stating what the work argues and why it matters here
+- [Sources index](https://wiki.bioconomy.earth/sources/): 210 annotated bibliography entries, each stating what the work argues and why it matters here
 
 ## Resources
 

@@ -3,7 +3,7 @@ title: "Frameworks"
 aliases: ["frameworks", "frameworks folder", "analytical frameworks"]
 tags: ["landing", "orientation", "frameworks"]
 created: 2026-08-27
-updated: 2026-09-12
+updated: 2026-10-28
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -25,6 +25,7 @@ Some frameworks are borrowed and used with a specific technical sense (TIMN from
 - [[frameworks/three-lineages|The Three Lineages]]. [[throughput|Throughput]], Retention, [[regenerative|Regenerative]]: the three approaches to economic thinking BioConomy positions itself against.
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]. The pathways by which capital moves from the [[economy|Economy]] into the BioConomy substrate.
 - [[frameworks/bioregional-financing-facility|The Bioregional Financing Facility]]. The phased institutional architecture (trust, venture studio, investment company, bank) through which a bioregion capitalizes its regenerative transition.
+- [[frameworks/biohub-establishment-requirements|BioHub Establishment Requirements]]. Everything Benjamin Life's essays on bioregional economics require for a BioHub carrying capital functions to establish, in one table.
 - [[frameworks/bioregional-currency|Bioregional Currency]]. The monetary design elements for a bioregionally issued unit of account, assembling specifications from the Emancipation Architecture, the BFF, and the Obligation and Invitation concept.
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]. The physical structures each coordination form has produced as it matured.
 - [[commitment-pooling|Commitment Pool Practice]]. The process of a community coming together to commit environmental restoration practices that neither the Market or the Institution can address.

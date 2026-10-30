@@ -1,5 +1,6 @@
 ---
 title: "Bioregional Learning Centre"
+description: "A community-facing learning lab connected to a place, for resilience and for social and ecological regeneration; where a bioregion's people grow the capacity to steward it."
 aliases: []
 tags: ["glossary", "core-concept"]
 term_type: "coined"
@@ -7,7 +8,7 @@ first_defined_in: ""
 related_terms: ["biohub"]
 source_project: "BioConomy"
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-10-30
 epistemic_status: "documented-framework"
 ---
 
@@ -21,6 +22,9 @@ It is a community-facing learning lab for real-world resilience and inspiration,
 ## Related terms
 
 - [[biohub|BioHub]]
+- [[glossary/a-e/bildung|Bildung]]
+- [[glossary/f-l/folk-high-school|Folk High School]]
+- [[concepts/bildung|Bildung (concept)]]
 
 ## Sources and associated figures
 

@@ -10,7 +10,7 @@ tags:
   - orientation
   - founding-suite
 created: 2026-08-26
-updated: 2026-09-30
+updated: 2026-10-28
 source_project: VoG as Patron Project Prototype
 source_documents:
   - BioHub_Identity_Template.md
@@ -39,6 +39,10 @@ Each template's third prompt produces three documents in a consistent tripartite
 3. [[value-proposition-template|BioConomy Value Proposition Template]]. Establishes what the BioHub tenders into markets. Produces the Value Proposition Statement, the Value Proposition Evidence Pack, and the [[tender-compact|Tender Compact]].
 4. [[templates/place-mandate-template|Place Mandate Template]]. States what the place knows needs doing over twenty years or more, values it for institutions and markets, and sets the terms of engagement. Opens with the [[place-knowledge-brief|Place Knowledge Brief]], gathered by the cohort without AI. Produces the [[place-mandate|Place Mandate]], the [[twenty-year-value-ledger|Twenty-Year Value Ledger]], and the [[terms-of-engagement|Terms of Engagement]].
 5. [[bankable-service-alignment-template|Bankable Service Alignment Template]]. Tests a specific financial instrument against the Terms of Engagement, then maps the BioHub's [[retention-economics|retention]] services onto a specific financial instrument (a nature-linked [[performance-based-bond|performance-based bond]], a [[payment-for-ecosystem-services-pes|payment for ecosystem services]] mechanism, a biodiversity credit instrument, or comparable). Produces the [[alignment-statement|Alignment Statement]], the Alignment Evidence Pack, and the [[alignment-compact|Alignment Compact]].
+
+## Companion template and the development plan
+
+The [[templates/metabolic-study-template|Metabolic Study Template]] runs between the third and fourth templates. It sets the BioRegion's [[carrying-budget|carrying budget]], maps how materials and money move through it, and records the [[circulation-goals|Circulation Goals]]. [[templates/bioregional-development-plan|Assembling a Bioregional Development Plan]] sets out how a place commissions a [[bioregional-development-plan|Bioregional Development Plan]] and binds the suite's outputs, with the companion template's, into one ratified plan.
 
 The first three templates produce nine outputs together. The fourth produces three more, which set the terms for every later engagement. The fifth produces three more per instrument, and can be run again against a second instrument (and a third) with each run producing another three. The [[the-nine-outputs|Nine Outputs]] reference page lists each output with the audience it is written for.
 

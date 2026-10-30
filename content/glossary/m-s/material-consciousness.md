@@ -1,11 +1,13 @@
 ---
 title: "Material Consciousness"
+description: "The form of consciousness that privileges analytical, individual intelligence applied to commodified labor, corresponding to Gebser's mental-rational structure and Kegan's self-authoring mind."
 aliases: ["material consciousness", "Material", "mental-rational consciousness", "perspectival consciousness"]
 tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: "V2_Mycelial_Thesis.md"
 related_terms: ["mycelial-consciousness", "first-tier", "major-evolutionary-transitions"]
 source_project: "BioConomy"
+updated: 2026-10-30
 ---
 
 The form of consciousness that privileges analytical, perspectival, individual intelligence applied to commodified labor, corresponding to Gebser's mental-rational structure, Graves's First Tier value systems, and Kegan's self-authoring mind.
@@ -36,6 +38,7 @@ Material Consciousness is to [[glossary/m-s/mycelial-consciousness|Mycelial Cons
 - [[first-tier|First Tier]]
 - [[momentous-leap|Momentous Leap]]
 - [[framer|Framer]]
+- [[glossary/a-e/bildung|Bildung]]
 
 ## Sources
 

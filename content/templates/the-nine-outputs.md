@@ -4,7 +4,7 @@ description: "The documents the founding suite produces: nine from the establish
 aliases: ["nine outputs", "twelve outputs", "template outputs"]
 tags: ["template", "reference", "founding-suite"]
 created: 2026-08-26
-updated: 2026-09-30
+updated: 2026-10-28
 source_project: "VoG as Patron Project Prototype"
 source_documents: ["BioHub_Identity_Template.md", "BioRegion_Establishment_Template.md", "BioConomy_Value_Proposition_Template.md", "Bankable_Service_Alignment_Template_v0_1.md"]
 epistemic_status: "documented-framework"
@@ -59,6 +59,16 @@ Each run produces three additional documents specific to one target instrument. 
 **14. Alignment Evidence Pack.** Long, structured referential document. Twenty-five to forty-five pages. Compiles the instrument research, verification methodology analysis, precedent instrument cases globally, the specific mapping, regulatory and legal requirements, and price-discovery evidence. Read by the cohort preparing the specific instrument-aligned tender, by the instrument's parties conducting due diligence, and by specialist counsel drafting the resulting contract.
 
 **15. [[alignment-compact|Alignment Compact]].** Coordination and commitment document. Five to ten pages. Co-signed by the cohort. Establishes what the cohort commits to build toward instrument readiness. Read by the cohort holding itself accountable to the build-out trajectory, and by instrument parties who need to see that a credible build-out plan exists.
+
+## From the Metabolic Study Template (companion)
+
+The [[templates/metabolic-study-template|Metabolic Study Template]] produces three further documents, run between the third and fourth templates. They are unnumbered here while the template's place in the suite is open.
+
+**Carrying Budget.** Short, formal document. Five to ten pages. The BioRegion's ecological ceilings and social floor, with thresholds, current state and agreed allocations. Read by public bodies, scientific partners and any party proposing work that draws on land or water.
+
+**Metabolic Map.** Long, structured referential document. Twenty-five to fifty pages. The material and money flows of each provisioning system, leakage, ownership, overshoot and ranked loop opportunities. Read by the cohort, by local enterprises and by investors assessing a pilot loop.
+
+**[[circulation-goals|Circulation Goals]].** Commitment document. Five to ten pages. Co-signed by the cohort and the ratifying authorities. Internal-circulation targets by period, the pilot loop and the conditions for opening later financing facilities.
 
 ## How the outputs are used together
 

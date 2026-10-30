@@ -1,9 +1,10 @@
 ---
 title: "Mycelial Consciousness"
+description: "The proposed fifth cognitive Major Evolutionary Transition, from Material to Mycelial modes of perception and coordination, and how it relates to Mycelial Coordination and the Three Futures."
 aliases: ["mycelial consciousness", "fifth cognitive MET", "mycelial mind"]
 tags: ["concept", "consciousness", "evolution", "core-framework"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-30
 source_project: "BioConomy"
 source_documents: ["Overberg_BioHub_Founding_Brief_v0.3.md"]
 epistemic_status: "working-hypothesis"
@@ -60,6 +61,7 @@ Mycelial Consciousness is the psychological substrate the [[frameworks/three-fut
 - [[graves-clare|Clare Graves]]
 - [[margulis-lynn|Lynn Margulis]]
 - [[sahtouris-elisabet|Elisabet Sahtouris]]
+- [[concepts/bildung|Bildung]]
 
 ## Sources
 

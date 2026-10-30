@@ -5,10 +5,10 @@ aliases: ["Bioregional Development Organization", "BDO", "BDOs"]
 tags: ["glossary", "bioregional-economics", "finance", "institutional-design"]
 term_type: "acronym"
 first_defined_in: "Life, The Missing Middle of Bioregional Development (2026)"
-related_terms: ["biohub", "missing-middle", "bioregional-financing-facility-bff", "bioregional-learning-centre", "metabolic-study", "bioregion", "biostack"]
+related_terms: ["biohub", "bioregional-development-plan", "regenerative-development-district", "missing-middle", "bioregional-financing-facility-bff", "bioregional-learning-centre", "metabolic-study", "bioregion", "biostack"]
 source_project: "BioConomy"
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 epistemic_status: "documented-framework"
 ---
 
@@ -21,7 +21,7 @@ A Bioregional Development Organization (BDO) is the institution [[life-benjamin|
 
 Life introduces the BDO in *The Missing Middle of Bioregional Development* (25 October 2026), the second part of his introduction to [[glossary/a-e/bioregional-economics|bioregional economics]]. He derives it from the Regional Development Organizations of the United States: multi-jurisdictional bodies, nearly four hundred of them federally designated as Economic Development Districts, whose Comprehensive Economic Development Strategy brings public and private actors around one regional plan. Life keeps the convening function, the strategy instrument and the public-private architecture. He changes the boundaries from counties to bioregions, adds the capacity to deploy capital, and inverts the ownership logic so that value returns to the community.
 
-The BDO sits one level above the four entities of the [[bioregional-financing-facility-bff|Bioregional Financing Facility]]. In Life's image, the facilities are organs and the BDO is the body. It holds a bioregional development plan built from carrying-capacity analysis and a [[metabolic-study|metabolic study]], together with a social map drawn with frontline communities and Indigenous nations, and a governance map seated before significant money arrives. Life's rule is that the organizing precedes the money.
+The BDO sits one level above the four entities of the [[bioregional-financing-facility-bff|Bioregional Financing Facility]]. In Life's image, the facilities are organs and the BDO is the body. It holds a [[bioregional-development-plan|bioregional development plan]] built from carrying-capacity analysis and a [[metabolic-study|metabolic study]], together with a social map drawn with frontline communities and Indigenous nations, and a governance map seated before significant money arrives. Life's rule is that the organizing precedes the money.
 
 The BDO operates as an evergreen fund of funds. It capitalizes the facilities that select projects, and underwrites directly only the shared infrastructure no single facility can carry, such as a processing plant, a land acquisition or an energy commons. Its capital stack places catalytic philanthropy in first-loss position, patient equity above it, and, as the portfolio matures, community investment notes through which residents hold a stake in their own bioregion. Aggregation is what makes it legible to institutional capital: it turns many small projects, each too small for an allocator to underwrite, into one investable thesis at institutional ticket size.
 
@@ -57,6 +57,10 @@ The BioRegion Charter records the choice. The identification of the BioHub with 
 - [[metabolic-study|Metabolic study]]
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[frameworks/bioregional-financing-facility|The Bioregional Financing Facility (framework)]]
+- [[frameworks/biohub-establishment-requirements|BioHub Establishment Requirements]]
+- [[bioregional-development-plan|Bioregional Development Plan]]
+- [[regenerative-development-district|Regenerative Development District]]
+- [[templates/bioregional-development-plan|Assembling a Bioregional Development Plan]]
 
 ## Sources
 

@@ -7,7 +7,7 @@ type: "essay"
 publisher: "Substack (omniharmonic)"
 tags: ["source", "bioregional-economics", "regenerative-economics", "finance"]
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-30
 source_project: "BioConomy"
 ---
 
@@ -25,10 +25,18 @@ Part II answers the question Part I closed on: who forms the body of a bioregion
 - [[bioregion|BioRegion]]
 - [[frameworks/bioregional-financing-facility|The Bioregional Financing Facility]]
 - [[essays/what-is-a-biohub|What Is a BioHub]]
+- [[frameworks/biohub-establishment-requirements|BioHub Establishment Requirements]]
+- [[templates/bioregional-development-plan|Assembling a Bioregional Development Plan]]
+- [[templates/metabolic-study-template|Metabolic Study Template]]
+- [[bioregional-development-plan|Bioregional Development Plan (glossary)]]
+- [[regenerative-development-district|Regenerative Development District (glossary)]]
+- [[carrying-budget|Carrying budget (glossary)]]
+- [[circulation-goals|Circulation Goals (glossary)]]
 - [[templates/place-mandate-template|Place Mandate Template]]
 - [[templates/for-capital-advisors|For Advisors to Family and Institutional Capital]]
 - [[life-benjamin|Benjamin Life]]
 - [[wakefield-tyler|Tyler Wakefield]]
+- [[concepts/bildung|Bildung]]
 
 <script type="application/ld+json">
 {

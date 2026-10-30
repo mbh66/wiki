@@ -1,5 +1,6 @@
 ---
 title: "Threshold Guide"
+description: "A role in Michael Haupt's Framer OS work: a companion who accompanies others across the threshold from Material to Mycelial Consciousness."
 aliases: ["threshold guide"]
 tags: ["glossary", "role", "consciousness"]
 term_type: "coined"
@@ -7,7 +8,7 @@ first_defined_in: "Mycelial Patronage essay (July 2026)"
 related_terms: ["framer", "mycelial-consciousness"]
 source_project: "BioConomy"
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-30
 epistemic_status: "working-hypothesis"
 ---
 
@@ -20,6 +21,8 @@ The role is developed across the coordinator's Framer OS essays and is presented
 - [[framer|Framer]]
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[stretch-collaboration|Stretch Collaboration]]
+- [[glossary/a-e/bildung|Bildung]]
+- [[glossary/f-l/inner-development-goals-idgs|Inner Development Goals (IDGs)]]
 
 ## Sources
 

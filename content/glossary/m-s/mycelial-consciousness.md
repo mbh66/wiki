@@ -1,11 +1,13 @@
 ---
 title: "Mycelial Consciousness"
+description: "The emerging form of consciousness marked by aperspectival, relational, distributed awareness, corresponding to Gebser's integral structure, Graves's Second Tier and Kegan's self-transforming mind."
 aliases: ["mycelial consciousness", "Mycelial", "integral consciousness", "aperspectival consciousness", "distributed consciousness"]
 tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: "V2_Mycelial_Thesis.md"
 related_terms: ["material-consciousness", "second-tier", "major-evolutionary-transitions", "momentous-leap"]
 source_project: "BioConomy"
+updated: 2026-10-30
 ---
 
 The emerging form of consciousness characterized by aperspectival, relational, distributed awareness, corresponding to Gebser's integral structure, Graves's Second Tier, and Kegan's self-transforming mind. Named for the biological template of mycorrhizal networks.
@@ -35,6 +37,7 @@ Mycelial Consciousness is not a rejection of [[material-consciousness|Material C
 - [[momentous-leap|Momentous Leap]]
 - [[framer|Framer]]
 - [[imaginal-cells|Imaginal Cells]]
+- [[glossary/a-e/bildung|Bildung]]
 
 ## Sources
 

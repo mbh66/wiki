@@ -1,11 +1,13 @@
 ---
 title: "Second Tier"
+description: "The developmental levels beyond Graves's Momentous Leap, beginning at Yellow in Spiral Dynamics: the first levels that recognize the legitimacy of all previous levels."
 aliases: ["second tier", "Second Tier thinking", "G-T", "Yellow", "Turquoise"]
 tags: ["glossary", "core-concept"]
 term_type: "borrowed-technical"
 first_defined_in: "I The Three Futures"
 related_terms: ["first-tier", "momentous-leap", "mycelial-consciousness"]
 source_project: "BioConomy"
+updated: 2026-10-30
 ---
 
 The developmental levels beyond the [[momentous-leap|Momentous Leap]] in Graves's framework, beginning at G-T (Yellow in Spiral Dynamics): the first levels that recognize the legitimacy of all previous levels and operate from growth rather than deficiency motivation.
@@ -31,6 +33,7 @@ Second Tier is not "better" than First Tier in a moral sense. It is a different 
 - [[first-tier|First Tier]]
 - [[momentous-leap|Momentous Leap]]
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
+- [[glossary/a-e/bildung|Bildung]]
 
 ## Sources
 

@@ -1,9 +1,10 @@
 ---
 title: "The Comenius-to-Schmidt Chain"
+description: "The pedagogical continuity from the Unitas Fratrum through Jan Amos Comenius and the Herrnhut renewal to the artisan-missionary model that sent Georg Schmidt to Baviaanskloof in 1738."
 aliases: ["comenius to schmidt chain", "unitas fratrum pedagogical lineage"]
 tags: ["research", "pedagogy", "moravian", "institutional-continuity", "historical-analysis"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-10-30
 source_project: "BioConomy"
 source_documents: ["Comenius_to_Schmidt_Chain.md", "Roam/John Comenius", "Roam/Time Between Worlds", "Roam/Zachary Stein"]
 epistemic_status: "academic-inference"
@@ -151,6 +152,8 @@ Three implications for wiki readers working outside the Moravian tradition:
 - [[research/historical-patronage-three-feature-test|Historical Patronage and the Three-Feature Test]]
 - [[bioregional-learning-centre|Bioregional Learning Centre (glossary)]]
 - [[frameworks/three-feature-test|The Three-Feature Test]]
+- [[concepts/bildung|Bildung]]
+- [[concepts/aesthetic-education|Aesthetic Education]]
 
 ## Sources
 

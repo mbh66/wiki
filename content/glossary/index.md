@@ -1,9 +1,10 @@
 ---
 title: "Glossary"
+description: "Landing page for the glossary, the wiki's controlled vocabulary: the four categories of term, and where to start."
 aliases: ["glossary", "vocabulary", "glossary folder"]
 tags: ["landing", "orientation", "glossary"]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-30
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -31,6 +32,7 @@ Terms with everyday meanings that a reader can look up elsewhere (subsidy, easem
 - [[bioregion|Bioregion]]. The coordination unit.
 - [[biohub|BioHub]]. The coordination body.
 - [[retention-economics|Retention Economics]] and [[throughput-economics|Throughput Economics]]. The distinction the framework turns on.
+- [[glossary/a-e/bildung|Bildung]]. The formation of persons the framework rests on.
 - [[timn|TIMN]]. The Tribal, Institutional, Market, Emergent coordination-form taxonomy.
 - [[coercion-continuum|The Coercion Continuum]]. The twelve-thousand-year monetary history.
 - [[glossary/t-z/transvestment|Transvestment]]. Capital movement from the [[economy|Economy]] into the BioConomy substrate.

@@ -1,9 +1,10 @@
 ---
 title: "Concepts"
+description: "Landing page for the wiki's concept pages: what a concept page is, and where to start reading."
 aliases: ["concepts", "concepts folder", "concept pages"]
 tags: ["landing", "orientation", "concepts"]
 created: 2026-08-27
-updated: 2026-09-30
+updated: 2026-10-30
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -15,7 +16,7 @@ The core ideas that organize the [[bioconomy|BioConomy]] thesis, each treated at
 
 A concept page carries a substantive treatment of an idea the wiki's frameworks and essays build on. Each opens with a one-sentence definition, expands into an overview, and treats the concept in enough detail that a reader can leave with a working understanding. Concept pages sit between the short definitions in the [[glossary/index|glossary]] and the argumentative treatments in the [[essays/index|essays]].
 
-Nine concepts have a companion glossary entry ([[retention-economics|retention]]-logic, [[glossary/t-z/transvestment|transvestment]], mycelial-consciousness, mycelial-coordination, mycelial-patronage, cosmo-local-production, structural-prematurity, direction-of-fit, entity-gestation). Where a pair exists, the concept page carries the deeper treatment and the glossary entry carries the short definition. Both link to each other.
+Ten concepts have a companion glossary entry ([[retention-economics|retention]]-logic, [[glossary/t-z/transvestment|transvestment]], mycelial-consciousness, mycelial-coordination, mycelial-patronage, cosmo-local-production, structural-prematurity, direction-of-fit, entity-gestation, bildung). Where a pair exists, the concept page carries the deeper treatment and the glossary entry carries the short definition. Both link to each other.
 
 ## Where to start
 
@@ -23,6 +24,7 @@ Nine concepts have a companion glossary entry ([[retention-economics|retention]]
 - [[concepts/bioregional-economics|Bioregional Economics]]. The discipline that makes coordinated economies at bioregional scale legible.
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]. The five structural differences between the conventional economy and a BioConomy.
 - [[concepts/mycelial-coordination|Mycelial Coordination]] and its two siblings, [[concepts/mycelial-consciousness|Mycelial Consciousness]] and [[concepts/mycelial-patronage|Mycelial Patronage]]. The trio that names the coordination substrate BioConomy work draws on.
+- [[concepts/bildung|Bildung]]. The formation of persons the architecture rests on, and why the wiki treats it as ground zero.
 - [[concepts/the-coercion-continuum|The Coercion Continuum]]. The twelve-thousand-year monetary history the Emancipation Architecture inverts.
 - [[concepts/commitment-pooling|Commitment Pooling]]. The mechanism through which participants make binding forward promises.
 - [[concepts/water-retention-landscapes|Water Retention Landscapes]]. The operational science of catchment restoration.

@@ -8,7 +8,7 @@ url: "https://omniharmonic.substack.com/p/an-introduction-to-bioregional-economi
 doi: ""
 tags: ["source", "bioregional-economics", "regenerative-economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-28
 source_project: "BioConomy"
 ---
 
@@ -23,6 +23,7 @@ https://omniharmonic.substack.com/p/an-introduction-to-bioregional-economics
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[essays/what-is-a-biohub|What Is a BioHub]]
+- [[frameworks/biohub-establishment-requirements|BioHub Establishment Requirements]]
 - [[two-machines|Two Machines (glossary)]]
 - [[glossary/a-e/bioregional-economics|Bioregional Economics (glossary)]]
 - [[life-benjamin|Benjamin Life]]

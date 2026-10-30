@@ -1,5 +1,6 @@
 ---
 title: "In Over Our Heads"
+description: "Kegan argues that the mental demands of modern life exceed the developmental capacity of most adults, and sets out the five orders of consciousness behind that finding."
 author: "Robert Kegan"
 year: 1994
 type: "book"
@@ -7,6 +8,7 @@ publisher: "Harvard University Press"
 url: ""
 doi: ""
 tags: ["source", "consciousness", "development", "psychology"]
+updated: 2026-10-30
 ---
 
 Kegan, R. (1994). *In Over Our Heads: The Mental Demands of Modern Life.* Harvard University Press. ISBN: 978-0-674-44588-3.
@@ -21,6 +23,7 @@ The BioConomy corpus maps Kegan's orders onto its framework: the fourth order (s
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[frameworks/farmer-forger-founder-framer|Farmer-Forger-Founder-Framer]]
+- [[concepts/bildung|Bildung]]
 
 <script type="application/ld+json">
 {

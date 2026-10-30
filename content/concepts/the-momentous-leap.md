@@ -1,9 +1,10 @@
 ---
 title: "The Momentous Leap"
+description: "Clare Graves's term for the threshold between First Tier and Second Tier consciousness, and why the BioConomy thesis holds that the leap cannot be skipped."
 aliases: ["momentous leap", "First Tier to Second Tier", "Graves's leap", "the leap"]
 tags: ["concept", "bioconomy", "consciousness", "core-framework"]
 created: 2026-03-14
-updated: 2026-08-28
+updated: 2026-10-30
 source_project: "BioConomy"
 source_documents: ["I The Three Futures", "V2_Mycelial_Thesis.md", "The_Last_Empire_and_the_First_Planetary_Organism.md"]
 epistemic_status: "documented-framework"
@@ -58,6 +59,7 @@ Graves's developmental framework is documented through peer-reviewed research (*
 - [[second-tier|Second Tier]]
 - [[first-tier|First Tier]]
 - [[crisis-codes|Crisis Codes]]
+- [[concepts/bildung|Bildung]]
 
 ## Sources
 

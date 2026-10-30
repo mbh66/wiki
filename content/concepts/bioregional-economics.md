@@ -9,7 +9,7 @@ tags:
   - core-framework
   - economics
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-30
 source_project: BioConomy
 source_documents:
   - Bioregional_Economics_Notion_Export
@@ -125,7 +125,7 @@ Life proposes two meso-scale institutions. The Bioregional Development Organizat
 
 The BDO holds a bioregional development plan braided from three maps. The biophysical map combines carrying-capacity analysis, in the thresholds-and-allocations tradition of [[baue-bill|Bill Baue]] and r3.0, with a [[metabolic-study|metabolic study]] of how materials and money move through the region. The social map is drawn with frontline communities and Indigenous nations, whom Life calls the plan's "most epistemically privileged co-authors." The governance map is seated before significant money arrives, "because governance negotiated in the presence of capital is governance negotiated at gunpoint." The BDO operates as an evergreen fund of funds, with catalytic philanthropy in first-loss position, patient equity above it, and community investment notes for residents as the portfolio matures. A sensing layer of organizing teams and community trusts holds structural authority over the plan, alongside productive, capital and public layers, and steward-ownership, exit rights and open books protect the institution from capture.
 
-The [[bioregional-learning-centre|bioregional learning center]] is the metabolic and cultural organ, where capacity is grown. Life reads it as a site of multi-capital exchange where the eight forms of capital convert into one another, and traces its ancestry to the Grange halls of rural America, which combined education, cooperative purchasing, mutual insurance and self-governance under one community-owned roof. Neither organ works alone: "A BLC without a BDO remains beautifully undercapitalized. A BDO without a BLC deploys capital into a culture that cannot yet receive it."
+The [[bioregional-learning-centre|bioregional learning center]] is the metabolic and cultural organ, where capacity is grown. Life reads it as a site of multi-capital exchange where the eight forms of capital convert into one another, and traces its ancestry to the Grange halls of rural America, which combined education, cooperative purchasing, mutual insurance and self-governance under one community-owned roof. Neither organ works alone: "A BLC without a BDO remains beautifully undercapitalized. A BDO without a BLC deploys capital into a culture that cannot yet receive it." The wiki reads the learning center as the institution where a BioHub carries out [[concepts/bildung|Bildung]], the formation its people need before the BioConomy's instruments can work as intended.
 
 ### How a bioregional economy grows
 
@@ -154,6 +154,7 @@ Life's BDO serves a whole bioregion, while a BioRegion in this wiki may hold sev
 - [[bioregional-development-organization-bdo|Bioregional Development Organization (glossary)]]
 - [[metabolic-study|Metabolic study (glossary)]]
 - [[bioregional-learning-centre|Bioregional Learning Centre (glossary)]]
+- [[concepts/bildung|Bildung]]
 
 ## Sources
 

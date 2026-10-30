@@ -1,9 +1,10 @@
 ---
 title: "Consciousness and Value Creation"
+description: "The corpus's central thesis that value creation depends on consciousness: Steiner's V2 transforms as consciousness moves from Material to Mycelial, with five domains of supporting evidence."
 aliases: ["V2 transformation", "consciousness-dependent value", "value creation and consciousness", "Material V2 and Mycelial V2"]
 tags: ["concept", "bioconomy", "core-framework", "consciousness", "economics"]
 created: 2026-03-14
-updated: 2026-08-28
+updated: 2026-10-30
 source_project: "BioConomy"
 source_documents: ["V2_Mycelial_Thesis.md", "II Mycelial Value Creation"]
 epistemic_status: "structural-inference"
@@ -85,6 +86,7 @@ The component claims are established by peer-reviewed evidence from each domain.
 - [[material-consciousness|Material Consciousness]]
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[framer|Framer]]
+- [[concepts/bildung|Bildung]]
 
 ## Sources
 

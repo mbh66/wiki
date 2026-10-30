@@ -1,5 +1,6 @@
 ---
 title: This is the BioConomy
+description: "Landing page of the BioConomy wiki: how the BioConomy differs from the Economy, why it is emerging now, and where to begin."
 aliases:
   - home
   - landing page
@@ -8,7 +9,7 @@ tags:
   - landing
   - orientation
 created: 2026-08-24
-updated: 2026-08-27
+updated: 2026-10-30
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-framework
@@ -57,6 +58,8 @@ Tap on or hover over each form for an explanation:
 - In the **BioConomy**, under the [[e-form-emergent|Emergent form]], people relate to those same Institutions and Markets as **providers**, supplying the outcomes those Institutions and Markets need and cannot produce internally.
 
 This wiki exists to provide everything required to operate effectively in the BioConomy.
+
+Operating in the BioConomy starts with the person. [[concepts/bildung|Bildung]], the lifelong formation of a person toward wider responsibility and greater freedom, is ground zero for everything else on this wiki.
 
 To learn how to use the wiki, visit [[engage|Three ways to engage with the wiki]].
 
