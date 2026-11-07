@@ -1,0 +1,38 @@
+organization,kind,track,application,place,money,compute,governance,grade,sources
+Palantir Technologies,defense contractor,Defense,"Maven Smart System targeting and intelligence analysis; AIP","United States; governance by affected people not recorded","US gov revenue US$953m Q3 2026; Maven ceiling US$795m+ (TBV)","Fine-tuned open-weight and frontier models","Program of record (TBV); no published evaluation found",[IC],"Palantir 8-K 2 Nov 2026; fed-spend"
+Palantir Technologies,defense contractor,Border and migration,"ImmigrationOS for US immigration enforcement",United States,Not verified,Unknown,Not found,[TBV],Not reached
+Anthropic,Frontier lab,Defense,"Claude Gov; agentic prototypes on classified networks",United States,"Up to US$200m ceiling, July 2025",Frontier model,"Contract limits on mass domestic surveillance and autonomous weapons; designated supply chain risk 2026",[IC],"Breaking Defense 2025; CNBC 25 Sep 2026"
+OpenAI,Frontier lab,Defense,"OpenAI for Government; classified deployment replacing Anthropic",United States,"Up to US$200m ceiling, 2025",Frontier model,"Pentagon ""lawful use"" terms",[IC],"Breaking Defense 2025; NPR Mar 2026"
+Google,hyperscaler,Defense,"Agentic AI workflows; cloud and TPUs",United States,"Up to US$200m ceiling, July 2025",Frontier model and cloud,Not found,[IC],Breaking Defense 2025
+xAI,Frontier lab,Defense,Grok for Government,United States,"Up to US$200m ceiling, July 2025",Frontier model,Not found,[IC],Breaking Defense 2025
+"Nvidia, Microsoft, AWS, Reflection AI",hyperscaler,Defense,"Deployment on IL6 and IL7 classified networks",United States,Not stated,Frontier and cloud,"""Lawful operational use""",[TBV],ai2027-tracker
+Planet Labs PBC,startup,dual use,"Satellite imagery and AI analytics for defense and intelligence","Global; customers govern use","D&I about US$81m, about 70% of US$116.1m, Q2 FY2027","Task-specific models and Planet AI app","Public benefit corporation; app queries kept out of training (MS)",[IC],"Planet 8-K Sept 2026; wiki Planet brief"
+National Geospatial-Intelligence Agency,government agency,Defense,"Global Monitoring Service; maritime surveillance",United States,"US$8m OTA Aug 2026; US$21.9m extension 2026",Commercial EO analytics,Not found,[IC],Planet 8-K filings 2026
+Swedish Armed Forces,government agency,Defense,Sovereign Pelican satellite,Sweden,"About US$14m revenue recognized Q2 FY2027",Satellite plus analytics,National ownership,[TBV],Quilty Space
+Israel Defense Forces,government agency,Defense,"AI-assisted target generation reported by +972 Magazine",Gaza,Not verified,Unknown,IDF responses not retrieved,[TBV],Not reached
+Microsoft,hyperscaler,Defense,"Cloud services to Israeli military intelligence, reported and later restricted",Israel and Gaza,Not verified,Cloud service,Company review reported,[TBV],Not reached
+Anduril Industries,defense contractor,Defense,Autonomous systems and Lattice software,United States and allies,Not verified,Task-specific,Not found,[TBV],Not reached
+Helsing,defense contractor,Defense,AI for European defense systems,Europe,Not verified,Unknown,Not found,[TBV],Not reached
+Shield AI,defense contractor,Defense,Autonomy software for aircraft,United States,Not verified,Task-specific,Not found,[TBV],Not reached
+Scale AI,startup,Defense,Data labeling and evaluation for defense,United States,Not verified,Unknown,Not found,[TBV],Not reached
+Clearview AI,startup,commercial surveillance,Facial recognition from scraped images,"Global; subject to EU fines",Not verified,Task-specific,Regulatory actions not retrieved,[TBV],Not reached
+Flock Safety,startup,domestic security and policing,Automated license plate reader network,United States,Not verified,Task-specific,Not found,[TBV],Not reached
+EMBL-EBI and Google DeepMind (AlphaFold DB),research institute,prosocial,Open database of predicted protein structures,Global,Not found,"Task-specific model, precomputed","Open access; 3m+ users in 190+ countries",[IC],"EMBL 2024; NAR 2024"
+ECMWF (AIFS),government agency,prosocial,Operational machine learning weather forecasts,Europe and global users,Not found,Task-specific model on existing HPC,Open data policy,[IC],ECMWF Newsletter 186
+"Google DeepMind (GraphCast, WeatherNext)",Frontier lab,prosocial,Machine learning weather models,Global,Not found,Task-specific,Open weights for GraphCast (TBV),[TBV],Not reached
+Carbon Mapper,NGO,prosocial,Methane plume detection from Tanager-1,Global,Over US$130m philanthropic,Satellite spectrometer and analytics,Public data portal,[IC],"Heatmap 2024; NASA JPL 2024"
+Climate TRACE,NGO,prosocial,Emissions inventory from satellite and AI,Global,Not verified,Task-specific,Open data (TBV),[TBV],Not reached
+Global Fishing Watch,NGO,prosocial,Vessel tracking and dark fleet detection,Global oceans,Not verified,Task-specific,Open data (TBV),[TBV],Not reached
+Global Forest Watch (WRI),NGO,prosocial,Tree cover loss alerts,"Global; used by local monitors",Not verified,Task-specific,Open data (TBV),[TBV],Not reached
+"Allen Institute for AI (Skylight, EarthRanger)",research institute,place-based,"Maritime monitoring; protected area operations","Coastal states; conservation areas, partly governed locally",Free to partners (TBV),Task-specific,Not verified,[TBV],Not reached
+Rainforest Connection,NGO,place-based,Acoustic forest monitoring,Tropical forests,Not verified,Small task-specific,Not verified,[TBV],Not reached
+Digital Green (Farmer.Chat),NGO,place-based,Farmer advisory chatbot,"India, Kenya and others","Gates grant INV-047346; GitLab Foundation US$350,000 (2023)",Frontier model API (GPT-4) with retrieval,Not found,[IC],"arXiv 2409.08916; GitLab Foundation"
+Te Hiku Media (Papa Reo),community organization,place-based,Te reo Māori speech recognition,"Aotearoa New Zealand; governed by iwi media","NZ$13m over 7 years from 2020",Small task-specific model on A100s,Kaitiakitanga License,[IC],"Te Hiku Media 2019; papareo.nz"
+Lelapa AI (InkubaLM),startup,place-based,Small language model for five African languages,Africa,"US$2.5m seed, Feb 2023 (TBV)",0.4bn parameters,Open weights and datasets,[IC],"UrbanGeekz 2024; Tracxn"
+Masakhane,community organization,place-based,Community African-language NLP research,Africa,Not verified,Small task-specific,Community governance (TBV),[TBV],Not reached
+Swiss AI Initiative (Apertus),research institute,prosocial,Open multilingual LLM,"Switzerland; public institutions",About CHF 20m public funding (TBV),8bn and 70bn parameters on Alps,"Open weights, data and architecture",[IC],"ETH Zurich 2025; Sifted"
+"EuroHPC (AI Factories, InvestAI)",government agency,prosocial,Public AI compute for research and startups,European Union,"EUR10bn AI Factories; EUR200bn InvestAI target",Public HPC,EU rules,[IC],"OECD.AI; European Commission 2025"
+NSF (NAIRR pilot),government agency,prosocial,Shared research compute,United States,Not verified,Public and donated compute,Not verified,[TBV],Not reached
+Gates Foundation and Google,NGO,place-based,AI tools for smallholder farmers,Global South,"US$100m reported, Sept 2026",Unknown,Not found,[TBV],Secondary report
+Stripe Atlas solo founders,startup,prosocial,Individual and small-business company formation,"Global, mostly US",63% of Q2 2026 Atlas C corps solo-founded,Mixed,Not applicable,[TBV],Secondary reports of Stripe 2026
+GIDA (CARE Principles),research institute,place-based,Indigenous data governance principles,Global Indigenous nations,Not applicable,Not applicable,Collective benefit and authority to control,[TBV],Carroll et al. 2020

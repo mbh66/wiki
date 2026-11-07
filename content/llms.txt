@@ -16,6 +16,7 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 - [From a Bioregion to a BioRegion](https://wiki.bioconomy.earth/essays/from-bioregion-to-bioregion): The transition from a geography that asks for funding (needy) to one that makes commitments to those who need its services (needed)
 - [From Geosphere to Noosphere](https://wiki.bioconomy.earth/essays/from-geosphere-to-noosphere): The arc from mineral substrate through living systems to coordinated planetary intelligence
 - [Two Systems, One Society](https://wiki.bioconomy.earth/essays/two-systems-one-society): How the Economy and the BioConomy coexist and relate in the same society
+- [After the Crash: A BioConomy Reading](https://wiki.bioconomy.earth/essays/after-the-crash-a-bioconomy-reading): Tom Morgan's essay on the coming phase shift, restated as abstraction against place, the flattening S-curve, the Emergent form and Bildung
 - [How the BioConomy Coordinates](https://wiki.bioconomy.earth/essays/how-the-bioconomy-coordinates): The stigmergic coordination model that distinguishes the BioConomy from conventional economic organization
 
 ## Practical essays
@@ -92,7 +93,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
 - [For Advisors to Family and Institutional Capital](https://wiki.bioconomy.earth/templates/for-capital-advisors): What the founding suite gives advisors who present BioHubs to family and institutional capital
 
-## Research (16 briefs)
+## Research (18 briefs)
 
 - [The S-Curve Thesis and the Retention Counter-Tradition](https://wiki.bioconomy.earth/research/growth-economics): The foundational research brief (55KB)
 - [Historical Patronage and the Three-Feature Test](https://wiki.bioconomy.earth/research/historical-patronage-three-feature-test): Cross-cluster patronage analysis
@@ -110,10 +111,18 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [South Africa on the Curve: A Developmental Arc, 1961 to 2026](https://wiki.bioconomy.earth/research/south-africa-on-the-curve): Sixty-five years of South African income per person, investment, minerals, health, jobs, trust, debt and power supply in six periods, with a peer comparison and graded claims
 - [Elite Overproduction in South Africa, 1994 to 2026](https://wiki.bioconomy.earth/research/elite-overproduction-south-africa): A test of Turchin's elite overproduction pressure using graduates, managers, candidates per ward, party splits and political killings, with two aspirant-to-position ratios and graded predictions
 - [Retention Works on the Slope, Unproven at the River](https://wiki.bioconomy.earth/research/water-retention-evidence): Graded global evidence on water retention methods from plot to catchment, with a 58-row case table, nine graded predictions and a monitoring design
+- [Planet Labs: Ownership, Mission and the Terms of Ask Planet](https://wiki.bioconomy.earth/research/planet-labs-ownership-and-mission): Founder voting control, the public benefit charter, revenue by customer sector and the Planet AI app terms on data, report ownership and sharing, for practitioners putting place-based questions to the app
+- [Dark Fiber and the AI Overbuild: What Survives a Repricing, and Who Inherits It](https://wiki.bioconomy.earth/research/dark-fiber-and-the-ai-overbuild): The 1996 to 2001 fiber build-out set beside the 2023 to 2026 AI data center build-out (scale, financing, depreciation, the November 2026 repricing), what survives a repricing, a register of defense and place-based AI uses, and eight graded hypotheses
+
+## Disruption
+
+- [Disruption](https://wiki.bioconomy.earth/disruption/): Landing page for dated snapshots tracking a decade of disruption, dated from the Strait of Hormuz closure of 28 February 2026
+- [Disruption Snapshot: The Hormuz Closure, to 15 March 2026](https://wiki.bioconomy.earth/disruption/20260315-hormuz-closure): The strikes on Iran, the closure of the strait, the oil, gas and fertilizer shock, the Cape diversion and early effects on South Africa, written retrospectively
+- [Disruption Snapshot: Early November 2026](https://wiki.bioconomy.earth/disruption/20261107-early-november): The US midterm sweep, local votes against data centers, the $2.5 trillion tech sell-off, Bank of England evidence on AI productivity and Fed rate pressure, read for bioregional practice
 
 ## Glossary
 
-- [Glossary index](https://wiki.bioconomy.earth/glossary/): 175 controlled vocabulary entries used across both the wiki and BioHubs sites
+- [Glossary index](https://wiki.bioconomy.earth/glossary/): 178 controlled vocabulary entries used across both the wiki and BioHubs sites
 
 ## People
 
@@ -157,6 +166,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [BioPlace layer](https://wiki.bioconomy.earth/tools/bioplace/): BioPlace spatial tools documentation
 - [BioRegion layer](https://wiki.bioconomy.earth/tools/bioregion/): Tools for catchment- and landscape-scale work
 - [Resilient Watersheds Toolbox](https://wiki.bioconomy.earth/tools/bioregion/resilient-watersheds-toolbox): The Nature Conservancy's guide to designing, financing and running Watershed Investment Programs and water funds
+- [Planet AI App](https://wiki.bioconomy.earth/tools/bioregion/planet-ai-app): Planet Labs' satellite-imagery AI app (Ask Planet), with its terms on data, report ownership and sharing
 
 ## Optional
 
