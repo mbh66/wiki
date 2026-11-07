@@ -7,7 +7,7 @@ first_defined_in: "Georg Friedrich Knapp, *The State Theory of Money* (1905); Wa
 related_terms: ["substrate-hypothesis", "throughput-economics", "demurrage", "coercion-continuum"]
 source_project: "BioConomy"
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 epistemic_status: "documented-framework"
 ---
 
@@ -35,7 +35,7 @@ For the BioConomy, taxation is the benchmark any alternative demand driver must 
 
 - [[research/monetary-theory-growth|Monetary Theory as Substrate for Growth Phase]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 
 ## Sources

@@ -3,7 +3,7 @@ title: Money Theories as Coordination Stories
 aliases: ["monetary stories", "coordination stories in money theory", "the public story of money"]
 tags: [concept, money, coordination, s-curve, substrate]
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: []
 epistemic_status: structural-inference
@@ -59,7 +59,7 @@ The Substrate Hypothesis says coordination is a property of substrate. The conce
 - [[modern-monetary-theory|Modern Monetary Theory]]
 - [[metallism|Metallism]]
 - [[t-form-tribal|T form (Tribal)]]
-- [[s-curve-thesis-old|S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|S-Curve Thesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[cheapest-available-behavior|Cheapest Available Behavior Thesis]]

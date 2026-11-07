@@ -3,7 +3,7 @@ title: "Cosmo-Local Production"
 aliases: ["cosmo-local", "cosmo-localism", "design global manufacture local"]
 tags: ["concept", "bioconomy", "core-framework", "production"]
 created: 2026-09-01
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["CosmoLocal_Production_Notion_Export"]
 epistemic_status: "documented-framework"
@@ -65,6 +65,8 @@ Ruddick's Grassroots Economics protocol operates on the same cosmo-local logic: 
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
+- [[concepts/glocalization|Glocalization]], the wider economic form in which cosmo-local production is the production rule
+- [[concepts/globalization|Globalization]]
 - [[bauwens-michel|Michel Bauwens]]
 - [[concepts/cosmo-local-production|Cosmo-local production (glossary)]]
 

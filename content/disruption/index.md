@@ -45,6 +45,7 @@ The date is chosen as the start because the closure touched every economy at onc
 
 - [[research/growth-economics|The S-Curve Thesis and the Retention Counter-Tradition]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
+- [[frameworks/cycle-of-globalization|Cycle of Globalization]], which places this decade in its sixth phase, Decay and crisis
 - [[research/south-africa-on-the-curve|South Africa on the Curve]]
 - [[research/what-gdp-leaves-out|What GDP Leaves Out]]
 - [[research/index|Research]]

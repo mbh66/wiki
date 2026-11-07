@@ -7,7 +7,7 @@ first_defined_in: "concepts/two-factories"
 related_terms: ["factory-mechanical", "two-factories", "bioregion", "carbon-silicon-partnership", "e-form-emergent", "biohub", "intelligence-carbon", "commitment-pool", "tenderable-services-portfolio", "s-curve"]
 source_project: "BioConomy"
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-11-07
 epistemic_status: "structural-inference"
 ---
 
@@ -48,7 +48,7 @@ The ecological factory also depends on [[t-form-tribal|T-form]] relationships (k
 
 ## Why it matters now
 
-The [[s-curve-thesis-old|S-curve thesis]] and the *[[sources/meadows-limits-to-growth|Limits to Growth]]* literature describe the deceleration of the mechanical factory. The [[concepts/two-factories|two-factory frame]] adds the other half: at the same moment the mechanical factory decelerates, the ecological factory must accelerate. This is what every living system does at maturity. Growth changes form. The production system that must now scale is the one that restores, maintains, and regenerates the substrate on which all production depends.
+The [[frameworks/s-curve-thesis|S-curve thesis]] and the *[[sources/meadows-limits-to-growth|Limits to Growth]]* literature describe the deceleration of the mechanical factory. The [[concepts/two-factories|two-factory frame]] adds the other half: at the same moment the mechanical factory decelerates, the ecological factory must accelerate. This is what every living system does at maturity. Growth changes form. The production system that must now scale is the one that restores, maintains, and regenerates the substrate on which all production depends.
 
 ## Related terms
 

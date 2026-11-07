@@ -8,7 +8,7 @@ url: "https://anthempress.com/kicking-away-the-ladder-pb"
 doi: ""
 tags: ["source", "retention", "economic-history", "development"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -19,12 +19,13 @@ Chang documents that Britain and the United States, the supposed homes of free t
 ## Cited by
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[hamilton-alexander|Alexander Hamilton]]
 - [[clay-henry|Henry Clay]]
 - [[carey-henry|Henry Carey]]
+- [[concepts/globalization|Globalization]]
 - [[list-friedrich|Friedrich List]]
 - [[chang-ha-joon|Ha-Joon Chang]]
 

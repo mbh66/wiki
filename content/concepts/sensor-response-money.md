@@ -3,7 +3,7 @@ title: Sensor-Response Money
 aliases: [sensor-response currency, SRM]
 tags: [concept, monetary-substrate, bioregional-economics, retention, sensor-response, s-curve, momentous-leap, three-lineages]
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-11-07
 source_project: BioConomy Full
 source_documents:
   - Ryan Orbuch, Natural General Intelligence (September 2026)
@@ -12,7 +12,7 @@ source_documents:
 epistemic_status: working-hypothesis
 ---
 
-Sensor-response money is a currency form whose issuance is bounded by measured biophysical and community state, and whose redemption depends on delivered stewardship. It sits opposite debt-based money in the [[three-lineages|Three Lineages]] framework. Where debt money structurally requires growth for its own redemption, sensor-response money structurally requires retention. That property makes it the candidate monetary substrate of the deceleration phase of the human [[s-curve-thesis-old|S-curve]], and the operational mechanism by which the [[the-momentous-leap|Momentous Leap]] into [[mycelial-coordination|mycelial coordination]] becomes possible at the level of coordination-node incentive structure.
+Sensor-response money is a currency form whose issuance is bounded by measured biophysical and community state, and whose redemption depends on delivered stewardship. It sits opposite debt-based money in the [[three-lineages|Three Lineages]] framework. Where debt money structurally requires growth for its own redemption, sensor-response money structurally requires retention. That property makes it the candidate monetary substrate of the deceleration phase of the human [[frameworks/s-curve-thesis|S-curve]], and the operational mechanism by which the [[the-momentous-leap|Momentous Leap]] into [[mycelial-coordination|mycelial coordination]] becomes possible at the level of coordination-node incentive structure.
 
 ## The substrate claim
 
@@ -82,7 +82,7 @@ How do BFFs handle the transition period during which fiat and sensor-response m
 
 ## Related entries
 
-[[community-inclusion-currency]] · [[bioregional-financing-facility]] · [[bancor]] · [[reserve-currency-cycle]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[three-lineages]] · [[s-curve-thesis-old]] · [[the-momentous-leap]] · [[protective-illiquidity]] · [[performance-based-water-bonds]] · [[bioregional-economics]] · [[mycelial-coordination]] · [[transvestment]] · [[time-framework]] · [[timn-framework]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog) · [[natural-general-intelligence]]
+[[community-inclusion-currency]] · [[bioregional-financing-facility]] · [[bancor]] · [[reserve-currency-cycle]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[three-lineages]] · [[frameworks/s-curve-thesis|The S-Curve Thesis]] · [[the-momentous-leap]] · [[protective-illiquidity]] · [[performance-based-water-bonds]] · [[bioregional-economics]] · [[mycelial-coordination]] · [[transvestment]] · [[time-framework]] · [[timn-framework]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog) · [[natural-general-intelligence]]
 
 <script type="application/ld+json">
 {

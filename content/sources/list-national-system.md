@@ -8,7 +8,7 @@ url: "https://www.econlib.org/library/YPDBooks/List/lstNPS.html"
 doi: ""
 tags: ["source", "retention", "infant-industry", "developmental-economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -19,7 +19,7 @@ List's masterwork and the foundational text of the infant-industry-protection tr
 ## Cited by
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[list-friedrich|Friedrich List]]
 - [[infant-industry-protection|Infant Industry Protection (glossary)]]

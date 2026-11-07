@@ -8,7 +8,7 @@ url: ""
 doi: ""
 tags: ["source", "bioregional-economics", "appropriate-scale"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -20,6 +20,7 @@ Schumacher's foundational text on appropriate scale, intermediate technology, an
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[schumacher-e-f|E.F. Schumacher]]
+- [[concepts/glocalization|Glocalization]]
 
 <script type="application/ld+json">
 {

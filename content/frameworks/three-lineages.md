@@ -3,7 +3,7 @@ title: "Throughput, Retention, Regenerative: The Three Lineages"
 aliases: ["three lineages", "throughput retention regenerative", "TRR"]
 tags: ["framework", "s-curve", "retention", "regenerative", "core-framework"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["Research_Brief_Growth_Economics.md"]
 epistemic_status: "structural-inference"
@@ -67,7 +67,7 @@ The mapping is programmatic rather than definitional. Its purpose is to operatio
 ## Related pages
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[throughput-economics|Throughput Economics (glossary)]]
 - [[retention-economics|Retention Economics (glossary)]]
 - [[regenerative-economics|Regenerative Economics (glossary)]]

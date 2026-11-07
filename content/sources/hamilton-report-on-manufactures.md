@@ -8,7 +8,7 @@ url: "https://founders.archives.gov/documents/Hamilton/01-10-02-0001-0007"
 doi: ""
 tags: ["source", "retention", "american-system", "primary-document"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -19,7 +19,7 @@ The foundational document of the American [[retention-economics|retention]] trad
 ## Cited by
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[hamilton-alexander|Alexander Hamilton]]
 - [[american-system|American System (glossary)]]

@@ -8,7 +8,7 @@ tags:
   - mmt-lineage
   - chartalist
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-fact
@@ -41,7 +41,7 @@ For the BioConomy corpus, Wray's significance is that he completed the intellect
 - [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 
 ## Sources
 

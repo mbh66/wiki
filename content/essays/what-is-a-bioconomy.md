@@ -4,7 +4,7 @@ description: "An orientation to the BioConomy: the economic system that emerges 
 aliases: ["what is a bioconomy", "bioconomy orientation", "bioconomy vs economy"]
 tags: ["essay", "orientation", "bioconomy", "core-framework"]
 created: 2026-08-26
-updated: 2026-09-30
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["bioconomy.md", "bioconomy-developmental-arc.md", "retention-logic.md", "bioregional-economics.md", "s-curve-thesis.md"]
 epistemic_status: "documented-framework"
@@ -106,7 +106,7 @@ Each of these is a partial instantiation. None yet holds the full BioStack (BioH
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[two-machines|Two Machines]]

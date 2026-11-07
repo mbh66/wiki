@@ -14,7 +14,7 @@ related_terms:
   - bioconomy
 source_project: BioConomy
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-11-07
 epistemic_status: documented-framework
 ---
 
@@ -37,8 +37,10 @@ Applied to human civilization, the Logistic Growth Principle frames the industri
 ## Related pages
 
 - [[concepts/deceleration-indicators|Deceleration Indicators]], the empirical evidence for the current phase.
-- [[s-curve-thesis-old|The S-Curve Thesis]], how retention figures map onto the curve.
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]], how retention figures map onto the curve.
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
+- [[frameworks/cycle-of-civilizations|Cycle of Civilizations]], the phases a society passes through along the curve
+- [[frameworks/cycle-of-globalization|Cycle of Globalization]]
 
 ## Provenance
 

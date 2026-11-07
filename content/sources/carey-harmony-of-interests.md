@@ -8,7 +8,7 @@ url: "https://oll.libertyfund.org/titles/carey-the-harmony-of-interests"
 doi: ""
 tags: ["source", "retention", "american-system"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -19,7 +19,7 @@ Carey's central theoretical statement, contrasting the "British System" of laiss
 ## Cited by
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[carey-henry|Henry Carey]]
 - [[lincoln-abraham|Abraham Lincoln]]

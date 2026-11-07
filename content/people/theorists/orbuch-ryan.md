@@ -3,7 +3,7 @@ title: Ryan Orbuch
 aliases: [Orbuch]
 tags: [person, theorist, carbon-removal, earth-observation, ngi, stewardship]
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-11-07
 source_project: BioConomy Full
 source_documents:
   - Ryan Orbuch, Natural General Intelligence (September 2026)
@@ -17,7 +17,7 @@ same_as:
   - https://www.crunchbase.com/person/ryan-orbuch
 ---
 
-Ryan Orbuch is a Partner at Lowercarbon Capital, where he leads the firm's work in carbon removal. His September 2026 essay *Natural General Intelligence* proposed the framework by that name: a foundation model grounded in the state and dynamics of the planet itself, trained on the accumulated output of the global Earth-observing system, whose purpose is stewardship of the biosphere and its couplings. The essay supplies the corpus with its most developed statement of the sensory apparatus and integrating intelligence that the BioConomy inherits from the acceleration phase of the human [[s-curve-thesis-old|S-curve]].
+Ryan Orbuch is a Partner at Lowercarbon Capital, where he leads the firm's work in carbon removal. His September 2026 essay *Natural General Intelligence* proposed the framework by that name: a foundation model grounded in the state and dynamics of the planet itself, trained on the accumulated output of the global Earth-observing system, whose purpose is stewardship of the biosphere and its couplings. The essay supplies the corpus with its most developed statement of the sensory apparatus and integrating intelligence that the BioConomy inherits from the acceleration phase of the human [[frameworks/s-curve-thesis|S-curve]].
 
 ## Trajectory
 

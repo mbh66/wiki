@@ -8,7 +8,7 @@ url: ""
 doi: ""
 tags: ["source", "cosmo-local", "technology"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -19,6 +19,7 @@ The 2023 refinement of the cosmo-local production framework, extending it into a
 ## Cited by
 
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
+- [[concepts/glocalization|Glocalization]]
 
 <script type="application/ld+json">
 {

@@ -8,7 +8,7 @@ url: "https://www.gutenberg.org/ebooks/147"
 doi: ""
 tags: ["source", "political-economy", "coordination-story", "republicanism"]
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -29,7 +29,7 @@ Paine's fiscal reasoning within _Common Sense_ is straightforward: he calculated
 - [[paine-thomas|Thomas Paine]]
 - [[smith-adam|Adam Smith]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 
 <script type="application/ld+json">
 {

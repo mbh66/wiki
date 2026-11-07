@@ -18,7 +18,7 @@ related_terms:
   - coercion-continuum
 source_project: BioConomy
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-11-07
 epistemic_status: structural-inference
 ---
 
@@ -55,6 +55,9 @@ The [[bioconomy|BioConomy]] does not reform the global economy. It operates in p
 - [[nation-state|Nation-state]]
 - [[municipality|Municipality]]
 - [[concepts/economy-versus-bioconomy|Economy versus BioConomy]]
+- [[glossary/f-l/globalization|Globalization (glossary)]]
+- [[concepts/globalization|Globalization]], the economic form that built the global economy during the acceleration phase
+- [[concepts/glocalization|Glocalization]], the deceleration-phase form that keeps its shareable gains under place-based governance
 
 ## Sources
 

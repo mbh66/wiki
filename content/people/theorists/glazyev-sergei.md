@@ -7,7 +7,7 @@ tags:
   - person
   - retention-lineage
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: BioConomy
 source_documents:
   - Research_Brief_Growth_Economics.md
@@ -26,7 +26,7 @@ Glazyev belongs on this list as a transmission point where the Hamilton-Carey-Li
 - [[sankara-thomas|Thomas Sankara]]
 - [[lincoln-abraham|Abraham Lincoln]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 
 ## Sources
 

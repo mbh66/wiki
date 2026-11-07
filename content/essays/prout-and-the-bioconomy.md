@@ -3,7 +3,7 @@ title: "PROUT and the BioConomy"
 aliases: ["prout and the bioconomy", "progressive utilization theory and the bioconomy", "sarkar and the bioconomy"]
 tags: ["essay", "source-lineage", "prout", "emancipation-architecture", "substrate-hypothesis"]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["emancipation-architecture.md", "three-feature-test.md", "mycelial-coordination.md", "the-coercion-continuum.md"]
 epistemic_status: "documented-framework"
@@ -64,7 +64,7 @@ What this means for the essay's question is straightforward. PROUT's insistence 
 
 PROUT is a prescriptive project. It describes the just society that *ought* to exist and the mechanisms that ought to produce it. The five fundamental principles read as moral requirements. The Neohumanist frame calls readers to develop the ethical capacities the architecture requires. The whole theory operates in the register of what humanity should do.
 
-The BioConomy operates in a different register. Its diagnostic starting points are empirical and evolutionary. The [[s-curve-thesis-old|S-curve]] of industrial civilization has entered its deceleration phase. The transition from [[concepts/mycelial-coordination|Material to Mycelial Coordination]] is the fifth [[major-evolutionary-transitions|Major Evolutionary Transition]], a phase change comparable to the shifts from single-celled to multicellular life, or from solitary to eusocial insects. The [[alpha-window|Alpha Window]] is the specific temporal constraint within which alternative coordination architectures must achieve structural viability before digital enclosure closes the window.
+The BioConomy operates in a different register. Its diagnostic starting points are empirical and evolutionary. The [[frameworks/s-curve-thesis|S-curve]] of industrial civilization has entered its deceleration phase. The transition from [[concepts/mycelial-coordination|Material to Mycelial Coordination]] is the fifth [[major-evolutionary-transitions|Major Evolutionary Transition]], a phase change comparable to the shifts from single-celled to multicellular life, or from solitary to eusocial insects. The [[alpha-window|Alpha Window]] is the specific temporal constraint within which alternative coordination architectures must achieve structural viability before digital enclosure closes the window.
 
 Each of these statements describes something already underway. The BioConomy's role is to build the substrate the phase change requires. Persuading humanity to be more virtuous is a separate project, and one the BioConomy leaves to other traditions. Whether or not particular individuals or institutions want the transition, the S-curve is doing what S-curves do at their deceleration phase. The question the BioConomy takes up is what coordination architecture the phase change requires, and how to build it inside the window that remains.
 

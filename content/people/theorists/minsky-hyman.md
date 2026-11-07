@@ -8,7 +8,7 @@ tags:
   - person
   - mmt-lineage
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-fact
@@ -40,7 +40,7 @@ For the BioConomy corpus, Minsky's contribution is the demonstration that the th
 - [[kelton-stephanie|Stephanie Kelton]]
 - [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 
 ## Sources

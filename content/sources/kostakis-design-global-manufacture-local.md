@@ -8,7 +8,7 @@ url: "https://wiki.p2pfoundation.net/Design_Global,_Manufacture_Local"
 doi: ""
 tags: ["source", "cosmo-local", "commons-based-peer-production"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -21,6 +21,7 @@ The foundational academic paper for the cosmo-local production framework. The au
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
 - [[glossary/a-e/cosmo-local-production|Cosmo-local production (glossary)]]
 - [[bauwens-michel|Michel Bauwens]]
+- [[concepts/glocalization|Glocalization]]
 
 <script type="application/ld+json">
 {

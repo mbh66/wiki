@@ -3,13 +3,13 @@ title: "Research Brief: The S-Curve Thesis, the Retention Counter-Tradition, and
 aliases: ["S-curve thesis brief", "growth economics research brief", "retention counter-tradition"]
 tags: ["research", "s-curve", "retention", "regenerative", "core-framework"]
 created: 2026-08-24
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["Research_Brief_Growth_Economics.md"]
 epistemic_status: "mixed"
 ---
 
-The research brief that grounds the [[concepts/bioconomy-developmental-arc|BioConomy Developmental Arc]] concept and the [[s-curve-thesis-old|S-Curve Thesis]] framework. Preserved with the original epistemic tagging (Documented Fact, Academic Inference, Structural Inference, Speculative Projection) intact.
+The research brief that grounds the [[concepts/bioconomy-developmental-arc|BioConomy Developmental Arc]] concept and the [[frameworks/s-curve-thesis|S-Curve Thesis]] framework. Preserved with the original epistemic tagging (Documented Fact, Academic Inference, Structural Inference, Speculative Projection) intact.
 
 ## Executive Summary
 
@@ -308,7 +308,7 @@ The research brief that grounds the [[concepts/bioconomy-developmental-arc|BioCo
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 
 ## Provenance

@@ -3,7 +3,7 @@ title: The S-Curve Thesis
 aliases: [S-curve, S-curve thesis, human developmental S-curve]
 tags: [framework, s-curve, deceleration, substrate-transition, momentous-leap, sensor-response, three-lineages]
 created: 2025-11-01
-updated: 2026-09-18
+updated: 2026-11-07
 source_project: BioConomy Full
 source_documents:
   - Michael Haupt, working notes on civilizational deceleration
@@ -61,7 +61,7 @@ The framework should be revisited as the substrate transition mechanism accumula
 
 ## Related entries
 
-[[sensor-response-money]] · [[three-lineages]] · [[the-momentous-leap]] · [[reserve-currency-cycle]] · [[three-futures]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[time-framework]] · [[emancipation-architecture]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [[people/ancestors/sahtouris-elisabet|Elisabet Sahtouris]] · [[people/theorists/keen-steve|Steve Keen]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog)
+[[frameworks/cycle-of-globalization|Cycle of Globalization]] · [[frameworks/cycle-of-civilizations|Cycle of Civilizations]] · [[sensor-response-money]] · [[three-lineages]] · [[the-momentous-leap]] · [[reserve-currency-cycle]] · [[three-futures]] · [[substrate-hypothesis]] · [[cheapest-available-behavior]] · [[retention-logic]] · [[time-framework]] · [[emancipation-architecture]] · [[carbon-silicon-partnership]] · [[mycelial-coordination]] · [[people/ancestors/sahtouris-elisabet|Elisabet Sahtouris]] · [[people/theorists/keen-steve|Steve Keen]] · [Valley of Grace BioHub](https://biohubs.bioconomy.earth/afrotropic/at12-vog)
 
 <script type="application/ld+json">
 {

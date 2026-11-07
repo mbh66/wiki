@@ -3,7 +3,7 @@ title: "Deceleration Indicators"
 aliases: ["end of growth", "S-curve inflection"]
 tags: ["concept", "s-curve", "evidence"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["Research_Brief_Growth_Economics.md"]
 epistemic_status: "academic-inference"
@@ -52,13 +52,14 @@ The individual indicators are robust. Their synthesis into a single civilization
 ## Related pages
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[s-curve|S-Curve (glossary)]]
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]
 - [[eroi|EROI (glossary)]]
 - [[deceleration-phase|Deceleration Phase (glossary)]]
 - [[richardson-katherine|Katherine Richardson]]
 - [[tainter-joseph|Joseph Tainter]]
+- [[frameworks/cycle-of-globalization|Cycle of Globalization]]
 
 ## Sources
 

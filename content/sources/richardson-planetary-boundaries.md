@@ -8,7 +8,7 @@ url: "https://www.science.org/doi/10.1126/sciadv.adh2458"
 doi: "10.1126/sciadv.adh2458"
 tags: ["source", "planetary-boundaries", "earth-system", "deceleration"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -20,7 +20,7 @@ The 2023 update to the planetary boundaries framework originally proposed by Roc
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[richardson-katherine|Katherine Richardson]]
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]

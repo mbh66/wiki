@@ -11,7 +11,7 @@ tags:
   - coordination
   - s-curve
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-framework
@@ -34,7 +34,7 @@ Sound finance was named as such most directly by its opponents. Abba Lerner set 
 
 ## What it coordinated
 
-Sound finance operated as a coordination story fitted to the acceleration phase of the industrial [[s-curve-thesis-old|S-curve]]. It disciplined citizens into treating themselves as fiscal stakeholders in the state's solvency. It framed scarcity as the binding constraint of political economy. It constrained deficit spending in ways that protected capital accumulation from redistributive political pressure. Margaret Thatcher's 1983 formulation, that "there is no such thing as public money; there is only taxpayers' money," carried the household analogy into governing common sense and installed it across the political spectrum.
+Sound finance operated as a coordination story fitted to the acceleration phase of the industrial [[frameworks/s-curve-thesis|S-curve]]. It disciplined citizens into treating themselves as fiscal stakeholders in the state's solvency. It framed scarcity as the binding constraint of political economy. It constrained deficit spending in ways that protected capital accumulation from redistributive political pressure. Margaret Thatcher's 1983 formulation, that "there is no such thing as public money; there is only taxpayers' money," carried the household analogy into governing common sense and installed it across the political spectrum.
 
 ## Coordination function versus descriptive accuracy
 
@@ -51,7 +51,7 @@ Sound finance is legally entrenched in the German Schuldenbremse (Basic Law Arti
 - [[metallism|Metallism]]. The compatible doctrine on money's nature.
 - [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]. Sound finance as a substrate compliance mechanism.
 - [[money-theories-as-coordination-stories|Money Theories as Coordination Stories]]. The concept that generalizes the pattern.
-- [[s-curve-thesis-old|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
+- [[frameworks/s-curve-thesis|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
 - [[research/monetary-theory-growth|Research Brief: Monetary Theory as Substrate for Growth Phase]]. Extended treatment.
 
 <script type="application/ld+json">

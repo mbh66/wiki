@@ -7,7 +7,7 @@ tags:
   - person
   - mmt-lineage
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-fact
@@ -39,7 +39,7 @@ Lerner's position in the MMT lineage is that of the figure who stated the operat
 - [[kelton-stephanie|Stephanie Kelton]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 
 ## Sources
 

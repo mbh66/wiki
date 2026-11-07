@@ -3,7 +3,7 @@ title: "The BioConomy Developmental Arc"
 aliases: ["long arc of retention", "developmental arc", "why now"]
 tags: ["concept", "core-framework", "bioconomy"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["Research_Brief_Growth_Economics.md"]
 epistemic_status: "structural-inference"
@@ -73,7 +73,7 @@ The figures were not wrong. They were early. The curve caught up.
 
 ## Related pages
 
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[frameworks/three-lineages|Throughput, Retention, Regenerative: The Three Lineages]]
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]

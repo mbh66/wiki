@@ -3,7 +3,7 @@ title: "Peter Turchin"
 aliases: ["Peter Turchin", "Turchin"]
 tags: ["person", "cliodynamics", "structural-demographic-theory", "collapse-studies"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["I The Three Futures (Emancipation Architecture Movement I)"]
 epistemic_status: "documented-fact"
@@ -49,6 +49,8 @@ For the [[frameworks/three-futures|Three Futures]] framework, Turchin's work pro
 ## Related pages
 
 - [[frameworks/three-futures|The Three Futures]]
+- [[frameworks/cycle-of-civilizations|Cycle of Civilizations]]
+- [[frameworks/cycle-of-globalization|Cycle of Globalization]]
 - [[ahmed-nafeez|Nafeez Ahmed]]
 - [[tainter-joseph|Joseph Tainter]]
 - [[deceleration-indicators|Deceleration Indicators (concept)]]

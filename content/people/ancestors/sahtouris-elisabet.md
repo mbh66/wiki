@@ -9,7 +9,7 @@ tags:
   - biology
   - consciousness
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents:
   - I The Three Futures (Emancipation Architecture Movement I)
@@ -57,7 +57,7 @@ She was a co-founder of the Worldwide Indigenous Science Network and convened in
 
 ## Michael Haupt completed a five-year apprenticeship with Sahtouris
 
-The [[bioconomy|BioConomy]] project's intellectual life was shaped in part by this apprenticeship, which informed the coordinator's framing of [[glossary/m-s/mycelial-coordination|Mycelial Coordination]] and the Cycle of Globalization.
+The [[bioconomy|BioConomy]] project's intellectual life was shaped in part by this apprenticeship, which informed the coordinator's framing of [[glossary/m-s/mycelial-coordination|Mycelial Coordination]] and the [[frameworks/cycle-of-globalization|Cycle of Globalization]].
 
 ## Related pages
 

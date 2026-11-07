@@ -7,7 +7,7 @@ tags:
   - person
   - mmt-lineage
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-fact
@@ -38,7 +38,7 @@ Kelton's work is significant for the collective-story thesis in one further resp
 - [[concepts/structural-prematurity|Structural Prematurity]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 - [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 
 ## Sources
 

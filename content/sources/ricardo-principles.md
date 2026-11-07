@@ -8,7 +8,7 @@ url: "https://www.econlib.org/library/Ricardo/ricP.html"
 doi: ""
 tags: ["source", "throughput", "comparative-advantage", "classical-economics"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -28,6 +28,7 @@ Ricardo's *Principles* formalized political economy into a system of laws and in
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[ricardo-david|David Ricardo]]
 - [[comparative-advantage|Comparative Advantage (glossary)]]
+- [[concepts/globalization|Globalization]]
 
 <script type="application/ld+json">
 {

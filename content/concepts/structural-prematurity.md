@@ -3,7 +3,7 @@ title: "Structural Prematurity"
 aliases: ["premature diagnosis", "early but right"]
 tags: ["concept", "s-curve", "retention"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["Research_Brief_Growth_Economics.md"]
 epistemic_status: "structural-inference"
@@ -32,7 +32,7 @@ The falsification test is straightforward: track whether the current wave of res
 ## Related pages
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[retention-economics|Retention Economics (glossary)]]
 - [[s-curve|S-Curve (glossary)]]
 - [[hamilton-alexander|Alexander Hamilton]]

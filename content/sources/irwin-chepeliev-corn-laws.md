@@ -8,7 +8,7 @@ url: "https://www.nber.org/papers/w28142"
 doi: "10.3386/w28142"
 tags: ["source", "throughput", "trade-liberalization", "economic-history"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -19,7 +19,7 @@ Irwin and Chepeliev's general-equilibrium reassessment of the 1846 repeal of the
 ## Cited by
 
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 
 <script type="application/ld+json">
 {

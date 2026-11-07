@@ -3,7 +3,7 @@ title: "The Three Futures"
 aliases: ["three futures", "Termination Technofeudalism Transcendence", "Graves three scenarios"]
 tags: ["framework", "emancipation-architecture", "graves", "civilizational-transition"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: ["I The Three Futures (Emancipation Architecture Movement I)"]
 epistemic_status: "documented-framework"
@@ -85,6 +85,8 @@ If the choice is real, and Graves insisted it was, then the determining variable
 
 ## Related pages
 
+- [[frameworks/cycle-of-globalization|Cycle of Globalization]], whose final phase forks into the three futures
+- [[frameworks/cycle-of-civilizations|Cycle of Civilizations]]
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]
 - [[frameworks/mycelial-value-creation|Mycelial Value Creation]]
 - [[the-coercion-continuum|The Coercion Continuum]]

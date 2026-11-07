@@ -6,7 +6,7 @@ tags:
   - person
   - earth-system-science
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: BioConomy
 source_documents:
   - Research_Brief_Growth_Economics.md
@@ -24,7 +24,7 @@ Richardson belongs on this list because the 2023 update is the single most impor
 - [[tainter-joseph|Joseph Tainter]]
 - [[planetary-boundaries|Planetary Boundaries (glossary)]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 
 ## Sources

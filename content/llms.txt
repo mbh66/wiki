@@ -26,7 +26,7 @@ The wiki targets practitioners working at the bioregional scale who want to appl
 - [AI Quick-Engage](https://wiki.bioconomy.earth/essays/ai-quick-engage): Four prompts to copy into any deep-research AI platform alongside your own project documents
 - [PROUT and the BioConomy](https://wiki.bioconomy.earth/essays/prout-and-the-bioconomy): The relationship between Sarkar's Progressive Utilization Theory and the BioConomy framework
 
-## Concepts (47 entries)
+## Concepts (49 entries)
 
 Core coordination and economic concepts. Key entries:
 
@@ -35,6 +35,8 @@ Core coordination and economic concepts. Key entries:
 - [Bioregional Economics](https://wiki.bioconomy.earth/concepts/bioregional-economics): Designing regenerative, cooperatively owned, place-based economies within carrying capacity
 - [Federated Cooperative Supply Chains](https://wiki.bioconomy.earth/concepts/federated-cooperative-supply-chains): How cooperatives retain and circulate value through federated structures
 - [Cosmo-Local Production](https://wiki.bioconomy.earth/concepts/cosmo-local-production): Share knowledge globally, produce regeneratively in place
+- [Globalization](https://wiki.bioconomy.earth/concepts/globalization): The acceleration-phase economic form, why it fit the steep part of the S-curve, what it left behind and why its supports weaken
+- [Glocalization](https://wiki.bioconomy.earth/concepts/glocalization): The deceleration-phase economic form that keeps globalization's shareable gains and places them under place-based governance
 - [Carbon-Silicon Partnership](https://wiki.bioconomy.earth/concepts/carbon-silicon-partnership): Complementary relationship between computational and situated knowledge
 - [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes): Operational science of catchment restoration and soil hydrology
 - [Integrated Landscape Management](https://wiki.bioconomy.earth/concepts/integrated-landscape-management): Landscape partnerships, the five-element ILM process, 25 years of evidence, and how ILM fits with BioConomy finance
@@ -57,7 +59,7 @@ Core coordination and economic concepts. Key entries:
 
 Full concepts index: https://wiki.bioconomy.earth/concepts/
 
-## Frameworks (13 entries)
+## Frameworks (15 entries)
 
 - [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework): Tribal, Institutional, Market, and Emergent forms of human coordination
 - [The TIMN Framework](https://wiki.bioconomy.earth/frameworks/timn-framework): Ronfeldt's original formulation (Tribes, Institutions, Markets, Networks)
@@ -68,6 +70,8 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [The Three-Feature Test](https://wiki.bioconomy.earth/frameworks/three-feature-test): Diagnostic for whether a project qualifies as a patron project
 - [The S-Curve Thesis](https://wiki.bioconomy.earth/frameworks/s-curve-thesis): Structural mapping of the deceleration phase
 - [The Three Lineages](https://wiki.bioconomy.earth/frameworks/three-lineages): Throughput, Retention, and Regenerative economic traditions
+- [Cycle of Civilizations](https://wiki.bioconomy.earth/frameworks/cycle-of-civilizations): Cyclical theories of history, the evidence on state lifespans, and a seven-phase synthesis used as a diagnostic lens
+- [Cycle of Globalization](https://wiki.bioconomy.earth/frameworks/cycle-of-globalization): Seven-phase model of the first globalized civilization since 1648, with hegemonic cycles nested inside and a final phase that forks
 - [The Evolution of Coordination Nodes](https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes): Physical structures each coordination form has produced
 - [The Physical Manifestations of TIMN](https://wiki.bioconomy.earth/frameworks/time-physical-manifestations): Structural rhymes across the four coordination forms
 - [Farmer-Forger-Founder-Framer](https://wiki.bioconomy.earth/frameworks/farmer-forger-founder-framer): Four archetypes of production across the TIME sequence
@@ -122,7 +126,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Glossary
 
-- [Glossary index](https://wiki.bioconomy.earth/glossary/): 178 controlled vocabulary entries used across both the wiki and BioHubs sites
+- [Glossary index](https://wiki.bioconomy.earth/glossary/): 182 controlled vocabulary entries used across both the wiki and BioHubs sites
 
 ## People
 
@@ -130,7 +134,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Sources
 
-- [Sources index](https://wiki.bioconomy.earth/sources/): 210 annotated bibliography entries, each stating what the work argues and why it matters here
+- [Sources index](https://wiki.bioconomy.earth/sources/): 237 annotated bibliography entries, each stating what the work argues and why it matters here
 
 ## Resources
 

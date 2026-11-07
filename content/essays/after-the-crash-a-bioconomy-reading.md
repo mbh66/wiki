@@ -14,9 +14,18 @@ The disruption of the mid-2020s looks like a crash from inside an economy built 
 
 ## Overview
 
-On 6 November 2026, the day after a $2.5 trillion sell-off in technology stocks, Tom Morgan published *After the Crash* in his newsletter *The Leading Edge*. His argument runs in four moves. A simpler level of understanding cannot perceive a more integrated one, which is why almost every forecast is a straight line drawn from present trends. The present system, which he calls the isolation economy, is unstable and is approaching a phase shift. What the shift brings in is an anomaly the old system cannot account for. And the passage from the isolation economy to what he calls the integration economy runs through initiation.
+On 6 November 2026, the day after a $2.5 trillion sell-off in technology stocks, Tom Morgan published *After the Crash* in his newsletter *The Leading Edge*. 
 
-The wiki finds the shape of that argument useful for reading the [[disruption/index|decade of disruption]]. This page keeps Morgan's four moves and restates each in the wiki's own terms. Where Morgan reads the moment through consciousness, the wiki reads it through coordination and place. The two readings can sit side by side; this page does not argue against his.
+You can read his essay here: https://newsletter.theleading-edge.org/p/after-the-crash
+
+His argument makes four claims: 
+
+1. A simpler level of understanding cannot perceive a more integrated one, which is why almost every forecast is a straight line drawn from present trends. 
+2. The present system, which he calls *the isolation economy*, is unstable and is approaching a phase shift. 
+3. What the shift brings in is an anomaly the old system cannot account for. 
+4. The passage from the isolation economy to what he calls *the integration economy* only comes into being through a process he calls *initiation*.
+
+The essence of his argument is useful for understanding the [[disruption/index|decade of disruption]]. This page preserves Morgan's four arguments and restates each in terms more aligned with the essence of the BioConomy. Where Morgan interprets current events purely through consciousness, this wiki interprets what's unfolding through the lens of [[bioconomy/frameworks/time-framework|TIME]] (the evolution of forms of coordination) and place. The two readings can sit side by side; this page does not argue against his.
 
 | Morgan's term | This page's term |
 |---|---|

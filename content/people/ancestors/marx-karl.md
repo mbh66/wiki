@@ -7,7 +7,7 @@ tags:
   - person
   - throughput-lineage
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-fact
@@ -43,7 +43,7 @@ Marx's fiscal thinking is less developed than Smith's or Ricardo's, because he t
 - [[throughput-economics|Throughput Economics]]
 - [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 
 ## Sources
 

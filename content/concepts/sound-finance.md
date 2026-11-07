@@ -3,7 +3,7 @@ title: "Sound Finance"
 aliases: ["sound finance", "sound finance doctrine", "Treasury view", "fiscal orthodoxy", "taxes fund government"]
 tags: [concept, fiscal, monetary-design, coordination, s-curve, coercion-continuum]
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: [Hut_Tax.md]
 epistemic_status: documented-framework
@@ -94,7 +94,7 @@ The design question for a bioregional currency is whether the demand driver can 
 - [[functional-finance|Functional Finance]]. Lerner's named alternative.
 - [[metallism|Metallism]]. The compatible doctrine on money's nature.
 - [[concepts/structural-prematurity|Structural Prematurity]]. Functional finance as an inflection-point insight that waited eighty years.
-- [[s-curve-thesis-old|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
+- [[frameworks/s-curve-thesis|S-Curve Thesis]]. The acceleration phase that sound finance coordinated.
 
 ## Sources
 

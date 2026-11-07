@@ -8,7 +8,7 @@ url: "https://www.nature.com/articles/s41560-019-0425-z"
 doi: "10.1038/s41560-019-0425-z"
 tags: ["source", "eroi", "energy", "deceleration"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: "BioConomy"
 ---
 
@@ -20,7 +20,7 @@ The Brockway et al. paper is the primary contemporary measurement of energy retu
 
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
 - [[concepts/deceleration-indicators|Deceleration Indicators]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[eroi|EROI (glossary)]]
 

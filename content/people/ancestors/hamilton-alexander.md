@@ -7,7 +7,7 @@ tags:
   - person
   - retention-lineage
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-07
 source_project: BioConomy
 source_documents:
   - Research_Brief_Growth_Economics.md
@@ -27,7 +27,7 @@ Hamilton belongs on this list as the paradigm case of [[concepts/structural-prem
 - [[list-friedrich|Friedrich List]]
 - [[lincoln-abraham|Abraham Lincoln]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 
 ## Sources
 

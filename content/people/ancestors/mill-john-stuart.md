@@ -7,7 +7,7 @@ tags:
   - person
   - throughput-lineage
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-07
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-fact
@@ -40,7 +40,7 @@ Mill belongs on this list because he consolidated the collective coordination st
 - [[polanyi-karl|Karl Polanyi]]
 - [[throughput-economics|Throughput Economics]]
 - [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]]
-- [[s-curve-thesis-old|The S-Curve Thesis]]
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[concepts/consensus-is-not-the-bottleneck|Consensus Is Not the Bottleneck]]
 
 ## Sources

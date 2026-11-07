@@ -3,7 +3,7 @@ title: "Frameworks"
 aliases: ["frameworks", "frameworks folder", "analytical frameworks"]
 tags: ["landing", "orientation", "frameworks"]
 created: 2026-08-27
-updated: 2026-10-28
+updated: 2026-11-07
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -20,8 +20,10 @@ Some frameworks are borrowed and used with a specific technical sense (TIMN from
 ## Where to start
 
 - [[time-framework|The TIME Framework]]. Tribal, Institutional, Market, Emergent: the four forms of [[human-coordination|human coordination]] Ronfeldt identified, and the analytical vocabulary the wiki uses throughout.
-- [[s-curve-thesis-old|The S-Curve Thesis]]. The developmental arc that makes [[retention-economics|retention]] logic legible now.
+- [[frameworks/s-curve-thesis|The S-Curve Thesis]]. The developmental arc that makes [[retention-economics|retention]] logic legible now.
 - [[frameworks/emancipation-architecture|The Emancipation Architecture]]. The monetary and coordination architecture that inverts the twelve-thousand-year [[coercion-continuum|Coercion Continuum]].
+- [[frameworks/cycle-of-civilizations|Cycle of Civilizations]]. Cyclical theories of history, what the evidence on state lifespans supports, and the seven-phase synthesis the wiki uses as a lens.
+- [[frameworks/cycle-of-globalization|Cycle of Globalization]]. The cycle applied to the first globalized civilization, whose last phase forks because it has no outside.
 - [[frameworks/three-lineages|The Three Lineages]]. [[throughput|Throughput]], Retention, [[regenerative|Regenerative]]: the three approaches to economic thinking BioConomy positions itself against.
 - [[frameworks/five-transvestment-pathways|The Five Transvestment Pathways]]. The pathways by which capital moves from the [[economy|Economy]] into the BioConomy substrate.
 - [[frameworks/bioregional-financing-facility|The Bioregional Financing Facility]]. The phased institutional architecture (trust, venture studio, investment company, bank) through which a bioregion capitalizes its regenerative transition.
