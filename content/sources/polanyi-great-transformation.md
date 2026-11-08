@@ -30,6 +30,7 @@ Polanyi's account of the rise and self-destruction of nineteenth-century market 
 - [[double-movement|Double Movement (glossary)]]
 - [[concepts/participation-and-conformity|Participation and Conformity]]
 - [[concepts/globalization|Globalization]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 
 <script type="application/ld+json">
 {

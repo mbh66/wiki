@@ -29,6 +29,7 @@ Ricardo's *Principles* formalized political economy into a system of laws and in
 - [[ricardo-david|David Ricardo]]
 - [[comparative-advantage|Comparative Advantage (glossary)]]
 - [[concepts/globalization|Globalization]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 
 <script type="application/ld+json">
 {

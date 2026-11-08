@@ -28,6 +28,7 @@ Chang documents that Britain and the United States, the supposed homes of free t
 - [[concepts/globalization|Globalization]]
 - [[list-friedrich|Friedrich List]]
 - [[chang-ha-joon|Ha-Joon Chang]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 
 <script type="application/ld+json">
 {

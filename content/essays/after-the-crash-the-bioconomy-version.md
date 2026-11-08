@@ -1,13 +1,27 @@
 ---
-title: "After the Crash: A BioConomy Reading"
+title: "After the Crash: The BioConomy Interpretation"
 description: "Tom Morgan's essay After the Crash (November 2026), read in BioConomy terms: an abstracted economy cannot see place, the steep part of the S-curve is over, the anomaly is the Emergent form, and the way across is Bildung."
-aliases: ["After the Crash", "after the crash bioconomy reading", "the abstracted cannot see the placed", "isolation economy", "integration economy"]
-tags: ["essay", "disruption", "deceleration", "s-curve", "time-framework", "bildung", "place"]
+aliases:
+  - After the Crash
+  - after the crash bioconomy reading
+  - the abstracted cannot see the placed
+  - isolation economy
+  - integration economy
+tags:
+  - essay
+  - disruption
+  - deceleration
+  - s-curve
+  - time-framework
+  - bildung
+  - place
 created: 2026-11-07
 updated: 2026-11-07
-source_project: "BioConomy"
-source_documents: ["Tom Morgan, 'After the Crash', The Leading Edge (6 November 2026)", "Tom Morgan, 'Thinking the Unthinkable', The Leading Edge (10 November 2024)"]
-epistemic_status: "working-hypothesis"
+source_project: BioConomy
+source_documents:
+  - Tom Morgan, 'After the Crash', The Leading Edge (6 November 2026)
+  - Tom Morgan, 'Thinking the Unthinkable', The Leading Edge (10 November 2024)
+epistemic_status: working-hypothesis
 ---
 
 The disruption of the mid-2020s looks like a crash from inside an economy built on abstraction, and like the arrival of the [[glossary/a-e/e-form-emergent|Emergent form]] to people connected to a place; the way across is formation, which the wiki calls [[concepts/bildung|Bildung]].
@@ -25,15 +39,20 @@ His argument makes four claims:
 3. What the shift brings in is an anomaly the old system cannot account for. 
 4. The passage from the isolation economy to what he calls *the integration economy* only comes into being through a process he calls *initiation*.
 
-The essence of his argument is useful for understanding the [[disruption/index|decade of disruption]]. This page preserves Morgan's four arguments and restates each in terms more aligned with the essence of the BioConomy. Where Morgan interprets current events purely through consciousness, this wiki interprets what's unfolding through the lens of [[bioconomy/frameworks/time-framework|TIME]] (the evolution of forms of coordination) and place. The two readings can sit side by side; this page does not argue against his.
+The essence of his argument is useful for understanding the [[disruption/index|decade of disruption]]. This page preserves Morgan's four arguments and restates each in terms more aligned with the essence of the BioConomy. Where Morgan interprets current events purely through consciousness, this wiki interprets what's unfolding through two lenses: 
 
-| Morgan's term | This page's term |
-|---|---|
-| The lower can't see the higher | The abstracted economy can't see the place-based one |
-| Three traits of the isolation economy | Three signs that the steep part of the S-curve is over |
-| The anomaly is the Tao | The anomaly is the Emergent form in TIME |
-| Not being held | Being disconnected from place |
-| Initiation | Bildung (in Ward 2, Vorming) |
+1. the lens of [[bioconomy/frameworks/time-framework|TIME]] (the evolution of forms of coordination) and 
+2. the lens of [[bioconomy/concepts/glocalization|glocalization]] (the evolution of the place where production occurs). 
+
+The BioConomy's interpretation and Morgan's interpretation complement each other.
+
+| Morgan's term                         | This page's term                                                |
+| ------------------------------------- | --------------------------------------------------------------- |
+| The lower can't see the higher        | The abstracted global economy can't see the place-based economy |
+| Three traits of the isolation economy | Three signs that the steep part of the S-curve is over          |
+| The anomaly is the Tao                | The anomaly is the Emergent form in TIME                        |
+| Not being held                        | Being disconnected from place                                   |
+| Initiation                            | Bildung (or, in the Valley of Grace, South Africa, Vorming)     |
 
 Morgan's observation that high-agency people are using AI to bring their gifts to market is held over for separate treatment.
 
@@ -47,11 +66,16 @@ The asymmetry runs one way. A farmer in a river valley knows the price of diesel
 
 ## The steep part of the curve is over
 
-Morgan gives the isolation economy three traits: it is zero-sum, it treats wealth as static and quantifiable, and it values workers for "spreadsheet skills" with little relationship to their gifts. The wiki reads all three as features of the acceleration phase of the industrial [[glossary/m-s/s-curve|S-curve]], which turn harmful as the curve bends into its [[glossary/a-e/deceleration-phase|deceleration phase]]. The long argument is in [[research/growth-economics|The S-Curve Research Brief]] and the evidence in [[concepts/deceleration-indicators|Deceleration Indicators]].
+Morgan gives the isolation economy three traits: 
+- it is zero-sum, 
+- it treats wealth as static and quantifiable, and 
+- it values workers for "spreadsheet skills" with little relationship to their gifts. 
+
+The wiki interprets all three as features of the acceleration phase of the industrial [[glossary/m-s/s-curve|S-curve]], which turn harmful as the [[meadows-limits-to-growth|limits to growth]] are reached and the curve bends into its [[glossary/a-e/deceleration-phase|deceleration phase]]. The long argument is in [[research/growth-economics|The S-Curve Research Brief]] and the evidence in [[concepts/deceleration-indicators|Deceleration Indicators]].
 
 ### Competition turns zero-sum near the top
 
-On the steep part of the curve, growth hides competition. A firm can win without anyone visibly losing, because the whole is expanding. As the rate of growth falls, the only way to grow faster than the system is to take share from someone else. The same competitive rules that felt positive-sum during the climb reveal themselves as zero-sum near the top, and the isolation Morgan describes follows. [structural inference]
+During the steep ascent of the curve, growth hides competition. A firm can win without anyone visibly losing, because the whole is expanding. As the rate of growth falls, the only way to grow faster than the system is to take share from someone else. The same competitive rules that felt positive-sum during the climb reveal themselves as zero-sum near the top, and the isolation Morgan describes follows. [structural inference]
 
 ### Wealth piles up as claims
 
@@ -65,15 +89,15 @@ The acceleration phase needed labor that could be standardized, moved and scaled
 
 Morgan believes everything from individuals to markets is heading toward "the acceptance and integration of the anomaly via a phase shift," the moment a stale map of reality breaks to take in something new. Phase shifts cannot be timed, he writes, but a tipping point is near when information processing speeds up and the system becomes far more interconnected. He cites the MIT economist Andrew Lo, who found that statistically significant linkages between firms doubled or nearly tripled in the run-up to system-wide financial crises. For Morgan the anomaly is the Tao: consciousness extends beyond the body and has an evolutionary direction.
 
-The wiki names the anomaly in coordination terms. It is the Emergent form of the [[frameworks/time-framework|TIME framework]], the fourth form of human coordination after Tribal, Institutional and Market. The framework is [[people/theorists/ronfeldt-david|David Ronfeldt]]'s; reading its fourth form as Emergent is Michael Haupt's extension. The Emergent form coordinates through pooled commitment, at the scale of the living system, toward outcomes the market cannot price and the state cannot mandate. Seen from the abstracted economy, its institutions register as anomalies. A [[glossary/a-e/commitment-pool|commitment pool]] looks like charity, a [[glossary/a-e/biohub|BioHub]] like a consultancy that will not scale, a [[glossary/a-e/demurrage|demurrage]] currency like a mistake. [structural inference]
+The wiki names the anomaly in coordination terms. It is the Emergent form of the [[frameworks/time-framework|TIME framework]], the fourth form of human coordination after Tribal, Institutional and Market. The original [[timn-framework|TIMN]] framework is [[people/theorists/ronfeldt-david|David Ronfeldt]]'s and this wiki replaces the N-form (Network) with the E-form (Emergent). The Emergent form coordinates through pooled commitment, at the scale of the living system, toward outcomes the market cannot price and the state cannot mandate. Seen from the abstracted economy, its institutions register as anomalies. A [[glossary/a-e/commitment-pool|commitment pool]] looks like charity, a [[glossary/a-e/biohub|BioHub]] like a consultancy that won't scale, and a [[glossary/a-e/demurrage|demurrage]] currency like a mistake. [structural inference]
 
-The phase shift, on this reading, does not remove the Market form. [[essays/two-systems-one-society|Two Systems, One Society]] sets out why a mature society needs both. The shift is the point at which the fourth form becomes structurally viable, able to persist when the market substrate is taken away, and the [[glossary/a-e/alpha-window|Alpha Window]] is the period in which that has to happen before digital enclosure closes the opening. [MS] Morgan's sign of an approaching shift, a system growing suddenly more interconnected, fits a global economy whose firms, supply chains and data centers now fail together. [structural inference]
+The phase shift, on this reading, doesn't remove the Market form. [[essays/two-systems-one-society|Two Systems, One Society]] sets out why a mature society needs both. The shift is the point at which the fourth form becomes structurally viable, able to persist when the market substrate is taken away, and the [[glossary/a-e/alpha-window|Alpha Window]] is the period in which that has to happen before digital enclosure closes the opening. [MS] Morgan's sign of an approaching shift, a system growing suddenly more interconnected, fits a global economy whose firms, supply chains, and data centers now fail together. [structural inference]
 
 The wiki takes no position on Morgan's claims about consciousness. Its own developmental vocabulary, the move from [[glossary/m-s/material-consciousness|Material]] to [[glossary/m-s/mycelial-consciousness|Mycelial]] consciousness, runs parallel to his and is set out on the [[concepts/bildung|Bildung]] page.
 
 ## Connected to place
 
-Morgan's central claim is that "pretty much all of humanity's worst behaviors," including the traits of the isolation economy, "are driven by the belief that we are not held." The wiki puts the cause in a material condition: being disconnected from place. A person who does not know where their water comes from, whose savings sit in an index of companies on other continents, and whose work could be done from anywhere has little reason to keep anything in the place where they live. Extraction is the cheapest behavior open to them, and the [[concepts/cheapest-available-behavior|Cheapest Available Behavior Thesis]] holds that people tend toward what their substrate makes cheapest. [MS]
+Morgan's central claim is that "pretty much all of humanity's worst behaviors," including the traits of the isolation economy, "are driven by the belief that we are not held." The wiki puts the cause in a material condition: being disconnected from place. A person who doesn't know where their water comes from, whose savings sit in an index of companies on other continents, and whose work could be done from anywhere has little reason to keep anything in the place where they live. Extraction is the cheapest behavior open to them, and the [[concepts/cheapest-available-behavior|Cheapest Available Behavior Thesis]] holds that people tend toward what their substrate makes cheapest. [MS]
 
 Connection to place is a feeling, and it is also a set of arrangements. It means knowing the catchment and its condition. It means being known by neighbors who will hold you to a promise. It means holding money that circulates where it was earned. Each of these can be built, and the wiki's instruments, from the commitment pool to the [[glossary/m-s/place-mandate|Place Mandate]], are ways of building them. [structural inference]
 
@@ -87,13 +111,13 @@ Morgan's three traits of an integration economy follow once the connection is ma
 
 ## Bildung: from abstraction to place
 
-Morgan writes that "what gets us from the isolation economy to the integration economy is initiation." Initiation, as he describes it, tends to arrive through loss: people learn that they are held "only when everything has been taken from them," and he would prefer that the culture and the economy were spared that route. He also notices that, in the life transitions he has witnessed, people have always had to make the first move before the world responded.
+Morgan writes that "what gets us from the isolation economy to the integration economy is initiation." *Initiation*, as he describes it, tends to arrive through loss: people learn that they are held "only when everything has been taken from them," and he would prefer that the culture and the economy were spared that route. He also notices that, in the life transitions he has witnessed, people have always had to make the first move before the world responded.
 
-The wiki's word for the passage is Bildung: the lifelong formation by which a person takes on ever wider responsibility, from family out to the planet, while gaining ever greater freedom. Bildung can begin before the loss, it can be taught, and it happens somewhere, because formation is always formation in a place. The Nordic folk high schools showed that it can be done at the scale of a population. [IC] In the Valley of Grace, the [Ward 2 Development Forum](https://df.valleyofgrace.co.za) uses the Dutch and Afrikaans word *Vorming* for its own variation, and the place-specific practice is recorded on its register.
+The wiki's word for this passage is *Bildung*: the lifelong formation by which a person takes on ever wider responsibility, from family out to the planet, while gaining ever greater freedom. Bildung can begin before the loss, it can be taught, and it happens somewhere, because formation is always formation in a place. The Nordic folk high schools showed that it can be done at the scale of a population. [IC] In the Valley of Grace, the [Ward 2 Development Forum](https://df.valleyofgrace.co.za) uses the Dutch and Afrikaans word *Vorming* for its own variation, and the place-specific practice is recorded on its register.
 
-Morgan's advice, to act as if the anomaly is real and see whether the world responds, translates into practice as acting as if you are already connected to your place. Learn where your water comes from and who keeps it clean. Sit in the forum. Keep a promise to a neighbor. Put some savings where they circulate. These are first moves of the kind Morgan describes, and each makes the next one cheaper. [structural inference]
+Morgan's advice, to act as if the anomaly is real and see whether the world responds, translates into practice as acting as if you are already connected to your place. Learn where your water comes from and who keeps it clean. Sit in the place's development forum. Keep a promise to a neighbor. Put some savings where they circulate. These are first moves of the kind Morgan describes, and each makes the next one cheaper. [structural inference]
 
-The wiki parts company with Morgan on one point. He expects the shift to be led by the spontaneous change of individual behavior as each person meets the anomaly, since the system is now too complex to be changed from the top. The wiki agrees that the shift will not come from government or corporate restructuring. It adds that individual change holds only where the substrate changes with it. The [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]] treats coordination as a function of the substrate it runs on, and the wiki's case is that formation and substrate have to be built together. A person formed for place, living on a substrate that rewards extraction, will be worn down. A new substrate run by people formed only by the [[glossary/a-e/economy|Economy]] will be read in the Economy's terms. [MS]
+This wiki parts company with Morgan on one point. He expects the shift to be led by the spontaneous change of individual behavior as each person meets the anomaly, since the system is now too complex to be changed from the top. The wiki agrees that the shift won't come from government or corporate restructuring. It adds that individual change holds only where the substrate changes with it. The [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]] treats coordination as a function of the substrate it runs on, and the wiki's case is that formation and substrate have to be built together. A person formed for place, living on a substrate that rewards extraction, will be worn down. A new substrate run by people formed only by the [[glossary/a-e/economy|Economy]] will be read in the Economy's terms. [MS]
 
 ## Related
 

@@ -4,7 +4,7 @@ description: "Globalization as the economic form of the S-curve's acceleration p
 aliases: ["globalisation", "hyperglobalization", "economic globalization"]
 tags: ["concept", "s-curve", "economy", "global-economy"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-08
 source_project: "BioConomy"
 source_documents: ["Michael Haupt, framing note in the BioConomy project (7 November 2026)"]
 epistemic_status: "structural-inference"
@@ -24,7 +24,7 @@ As the curve flattens, the conditions that made globalization fit weaken one at 
 
 The [[frameworks/s-curve-thesis|S-Curve Thesis]] identifies the coordination substrate of the acceleration phase as debt-based money with positive interest, which needs growth for its own repayment. That substrate makes [[glossary/t-z/throughput|throughput]] the [[concepts/cheapest-available-behavior|cheapest available behavior]]. Globalization carried throughput past national borders. When a domestic market slowed, capital could find growth in another one, and the [[glossary/t-z/two-machines|Two Machines]] of debt-based money and the shareholder corporation kept their requirement for expansion satisfied.
 
-The physical conditions matched. High energy return on investment made it cheap to move heavy goods across oceans. The atmosphere and the rivers absorbed waste without a price. Production could concentrate wherever labor and land cost least, and the savings outweighed the cost of shipping. The theory came earlier: [[people/ancestors/ricardo-david|David Ricardo]]'s [[comparative-advantage|comparative advantage]], set out in 1817, gave the case for specialization and trade that later free-trade doctrine relied on.
+The physical conditions matched. High energy return on investment made it cheap to move heavy goods across oceans. The atmosphere and the rivers absorbed waste without a price. Production could concentrate wherever labor and land cost least, and the savings outweighed the cost of shipping. Alfred Weber described that calculation in 1909 as the labor deviation: a plant leaves its transport-optimal site when the labor saving exceeds the added transport cost (see [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]). The theory came earlier: [[people/ancestors/ricardo-david|David Ricardo]]'s [[comparative-advantage|comparative advantage]], set out in 1817, gave the case for specialization and trade that later free-trade doctrine relied on.
 
 ## Phases of globalization
 
@@ -32,7 +32,7 @@ Globalization did not grow in a straight line. Historians usually describe a fir
 
 From the 1980s the form changed. Capital controls were lifted, the World Trade Organization was founded in 1995 and China joined it in 2001 [IC]. Container shipping and digital communications cut the cost of coordinating production across continents. Some economists call this period hyperglobalization. World trade rose from about 25 percent of world GDP in 1970 to about 61 percent in 2008 [IC].
 
-After the 2008 financial crisis the ratio fell, and in 2019 it stood at about 56 percent, below its 2008 level [IC] (World Bank data). The slowdown is sometimes called "slowbalization". The pandemic of 2020 and the six-day blockage of the Suez Canal in 2021 showed how exposed long supply chains are to a single point of failure. The [[frameworks/cycle-of-globalization|Cycle of Globalization]] places these phases inside a longer seven-phase model of the first globalized civilization, dated from 1648. Governments across the political range have since adopted reshoring and industrial policy, which [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]] reads as structural adaptation to deceleration.
+After the 2008 financial crisis the ratio fell, and in 2019 it stood at about 56 percent, below its 2008 level [IC] (World Bank data). The share of world trade passing through global value chains reached about 52 percent in 2008 and has not grown since [IC] (World Bank, *World Development Report 2020*). Since 2017 the average geopolitical distance of trade has fallen about 7 percent while its average geographic distance has kept rising, by McKinsey Global Institute's measures [MS], so trade is regrouping by political alignment more than by proximity. The slowdown is sometimes called "slowbalization". The pandemic of 2020 and the six-day blockage of the Suez Canal in 2021 showed how exposed long supply chains are to a single point of failure. The [[frameworks/cycle-of-globalization|Cycle of Globalization]] places these phases inside a longer seven-phase model of the first globalized civilization, dated from 1648. Governments across the political range have since adopted reshoring and industrial policy, which [[concepts/bioconomy-developmental-arc|The BioConomy Developmental Arc]] reads as structural adaptation to deceleration. The wiki's evidence brief on production location finds that policy explains most of the measured shift since 2018, laid over an older structural rise in Chinese wages, and that relocated production has stayed under its existing owners.
 
 ## What it left behind
 
@@ -65,6 +65,7 @@ The reading of globalization as the form of the acceleration phase is a structur
 ## Related
 
 - [[concepts/glocalization|Glocalization]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 - [[frameworks/cycle-of-globalization|Cycle of Globalization]]
 - [[glossary/f-l/globalization|Globalization (glossary)]], the developmental reading: the juvenile phase of the human species as a living system
 - [[glossary/f-l/global-economy|Global Economy (glossary)]]
@@ -81,6 +82,9 @@ The reading of globalization as the form of the acceleration phase is a structur
 ## Sources
 
 - [[sources/world-bank-trade-share-of-gdp|World Bank. Trade (% of GDP), world series]]
+- World Bank (2020). *[[sources/world-bank-wdr-2020|World Development Report 2020: Trading for Development in the Age of Global Value Chains]]*
+- McKinsey Global Institute (2025). [[sources/mgi-geometry-of-global-trade-2025|"Geopolitics and the Geometry of Global Trade: 2025 Update"]]
+- Weber, A. (1929). *[[sources/weber-theory-of-location|Theory of the Location of Industries]]*
 - Chang, H. J. (2002). *[[sources/chang-kicking-away-the-ladder|Kicking Away the Ladder]]*
 - Polanyi, K. (1944). *[[sources/polanyi-great-transformation|The Great Transformation]]*
 - Ricardo, D. (1817). *[[sources/ricardo-principles|On the Principles of Political Economy and Taxation]]*
@@ -88,7 +92,7 @@ The reading of globalization as the form of the acceleration phase is a structur
 
 ## Provenance
 
-Written 7 November 2026 as the corollary to [[concepts/glocalization|Glocalization]], from Michael Haupt's framing in the BioConomy project: globalization as an important part of the steep part of the S-curve, distinct from glocalization. Trade-share figures are from the World Bank world series (checked 7 November 2026). The dates for the WTO and China's accession are matters of record. The periodization into a first wave, the Bretton Woods era and hyperglobalization follows common usage in economic history; no single source is adopted. Poverty figures were left out because the World Bank revised its poverty line in 2025 and the attribution of poverty reduction to globalization is contested.
+Written 7 November 2026 as the corollary to [[concepts/glocalization|Glocalization]], from Michael Haupt's framing in the BioConomy project: globalization as an important part of the steep part of the S-curve, distinct from glocalization. Trade-share figures are from the World Bank world series (checked 7 November 2026). The dates for the WTO and China's accession are matters of record. The periodization into a first wave, the Bretton Woods era and hyperglobalization follows common usage in economic history; no single source is adopted. Poverty figures were left out because the World Bank revised its poverty line in 2025 and the attribution of poverty reduction to globalization is contested. Updated 8 November 2026 with the value chain plateau, MGI's trade-distance finding, Weber's labor deviation and a pointer to the production-location brief, all drawn from that brief.
 
 <script type="application/ld+json">
 {

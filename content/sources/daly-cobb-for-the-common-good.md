@@ -18,6 +18,8 @@ The book argues that standard economics abstracts the individual from community 
 ## Cited by
 
 - [[research/what-gdp-leaves-out|What GDP Leaves Out: Lost Prosperity in Mature Economies]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
+- [[glossary/a-e/absolute-advantage|Absolute Advantage (glossary)]]
 
 <script type="application/ld+json">
 {

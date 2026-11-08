@@ -19,6 +19,7 @@ The series shows world trade rising from about 25 percent of world GDP in 1970 t
 ## Cited by
 
 - [[concepts/globalization|Globalization]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 
 <script type="application/ld+json">
 {

@@ -4,17 +4,17 @@ description: "Glocalization as the BioConomy uses the word: the economic form of
 aliases: ["glocal", "glocalisation", "glocal economy"]
 tags: ["concept", "s-curve", "bioconomy", "place-based-economy"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-08
 source_project: "BioConomy"
 source_documents: ["Michael Haupt, framing note in the BioConomy project (7 November 2026)"]
 epistemic_status: "structural-inference"
 ---
 
-Glocalization is the economic form that fits the deceleration phase of the industrial [[glossary/m-s/s-curve|S-curve]]: it keeps what globalization built that every place can share (open knowledge, common standards, planetary communications and observation, cross-border finance instruments) and places it under the governance of place-based economies.
+Glocalization is the economic form that fits the deceleration phase of the industrial [[glossary/m-s/s-curve|S-curve]]: it keeps what [[bioconomy/concepts/globalization|globalization]] built that every place can share (open knowledge, common standards, planetary communications and observation, cross-border finance instruments) and places it under the governance of place-based economies.
 
 ## Overview
 
-[[concepts/globalization|Globalization]] was the economic form of the acceleration phase. It joined national economies into one system of trade, capital flow and production, and for several decades the joining paid. Cheap fossil energy, unfilled ecological sinks, low-wage labor in newly opened economies and compounding returns to scale made long supply chains and mobile capital the lowest-cost way to organize production. The [[glossary/f-l/global-economy|global economy]] it built remains the outermost layer of the [[glossary/a-e/economy|Economy]].
+[[concepts/globalization|Globalization]] was the economic form of the acceleration phase. It joined national economies into one system of trade, capital flow and production, and for several decades the joining paid off. Cheap fossil energy, unfilled ecological sinks, low-wage labor in newly opened economies and compounding returns to scale made long supply chains and mobile capital the lowest-cost way to organize production. The [[glossary/f-l/global-economy|global economy]] it built remains the outermost layer of the [[glossary/a-e/economy|Economy]].
 
 Glocalization is a separate form with a separate job. Its home is the deceleration phase, when the conditions that rewarded globalization weaken one after another (see [[concepts/deceleration-indicators|Deceleration Indicators]]). In a glocal economy the place governs. The [[glossary/a-e/bioregion|bioregion]] decides what it produces and keeps and what it trades, and it draws on a planetary layer of shared knowledge and infrastructure that globalization left in place. The direction of service is reversed. Under globalization, places serve the global system. Under glocalization, the global layer serves places.
 
@@ -32,11 +32,11 @@ Under acceleration conditions this was a fit. Energy return on investment was hi
 
 Each indicator of deceleration weakens one of globalization's supports. Falling final-stage [[glossary/a-e/eroi|EROI]] raises the real cost of moving heavy things. Transgressed [[glossary/m-s/planetary-boundaries|planetary boundaries]] mean the sinks are full, and their costs return to the places that bear them. Rising debt-to-output ratios show growth being drawn from future claims. The divergence of wages from productivity shows that the gains of growth no longer spread through the population that produces them.
 
-Information is unaffected by these limits. A design, a protocol or a research finding costs almost nothing to move, whatever happens to the price of diesel. So the arithmetic of the deceleration phase separates the light from the heavy: what is light stays cheap to share globally, and what is heavy grows dearer to ship. Resilience also gains weight against efficiency once a system is near its limits, because redundancy and local reserves are what carry a place through a shock. Glocalization is the economic form built on both observations.
+Information is unaffected by these limits. A design, a protocol or a research finding costs almost nothing to move, whatever happens to the price of diesel. The trade record bears this out: services reached 27.5 percent of world trade in 2025, their highest share since 2005 [IC] (WTO). So the arithmetic of the deceleration phase separates the light from the heavy: what is light stays cheap to share globally, and what is heavy grows dearer to ship. Resilience also gains weight against efficiency once a system is near its limits, because redundancy and local reserves are what carry a place through a shock. Glocalization is the economic form built on both observations.
 
 ## Where the word comes from
 
-The word has a longer history than its use here. It is commonly traced to the Japanese *dochakuka*, a farming term for adapting methods to local soil and conditions, which Japanese firms took up in the 1980s to describe global products adjusted to local markets [TBV]. [[sources/robertson-glocalization|Roland Robertson]] brought it into sociology in 1995, arguing that the global and the local produce each other and that globalization does not simply make the world uniform. [[sources/swyngedouw-globalisation-or-glocalisation|Erik Swyngedouw]] used "glocalisation" in 2004 for the simultaneous rescaling of state power and economic organization upward to supranational bodies and downward to cities and regions.
+The word has a longer history than its use here. *[[sources/tulloch-oxford-dictionary-of-new-words|The Oxford Dictionary of New Words]]* (Tulloch 1991, p. 134), quoted by Robertson (1995, p. 28), records that glocalization was "formed by telescoping global and local to make a blend," modeled on the Japanese *dochakuka* (from *dochaku*, "living on one's own land"), originally the agricultural principle of adapting farming technique to local conditions and later adopted in Japanese business for global products adjusted to local markets [IC]. [[sources/robertson-glocalization|Roland Robertson]] brought it into sociology in 1995, arguing that the global and the local produce each other and that globalization does not simply make the world uniform. Erik Swyngedouw used the word in [[sources/swyngedouw-neither-global-nor-local|1997]] and again in [[sources/swyngedouw-globalisation-or-glocalisation|2004]] for the simultaneous rescaling of state power and economic organization upward to supranational bodies and downward to cities and regions.
 
 In the business usage, design and capital sit at the center and the local market receives an adapted product. The menu changes and the ownership stays where it was. That arrangement is globalization with a local surface. In the terms of [[concepts/participation-and-conformity|Participation and Conformity]], it governs places by conformity to a central design, with permitted local variation.
 
@@ -114,10 +114,13 @@ Glocalization does not settle who owns the global layer. Much of the communicati
 
 The word itself carries risk. Its corporate meaning is older and more widely known, and a firm can describe local adaptation of a central product as glocalization while leaving ownership untouched. The test is where governance sits.
 
+The evidence to November 2026 meets the location half of this page's reading and not yet the governance half. The [[research/glocalization-and-the-evolution-of-production|production-location brief]] finds that the labor saving behind offshoring has narrowed and that risk and carbon costs have returned to the delivered price of heavy goods, so production is moving toward markets. It also finds that the move runs mostly toward political blocs, under the same owners as before, and that production governed in place (cooperatives, citizen energy) exists at real scale without a measured trend toward it. The brief amends the statement "glocalization is the evolution of production" to "glocalization is the latest stage in the evolution of production, in which production moves toward its markets and materials and comes to be governed in the place where it happens," and grades it a working hypothesis.
+
 ## Related
 
 - [[glossary/f-l/glocalization|Glocalization (glossary)]]
 - [[concepts/globalization|Globalization]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 - [[glossary/f-l/global-economy|Global Economy (glossary)]]
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
 - [[concepts/retention-logic|Retention Logic]]
@@ -132,7 +135,9 @@ The word itself carries risk. Its corporate meaning is older and more widely kno
 
 ## Sources
 
+- Tulloch, S. (comp.) (1991). *[[sources/tulloch-oxford-dictionary-of-new-words|The Oxford Dictionary of New Words]]*. Oxford University Press
 - Robertson, R. (1995). [[sources/robertson-glocalization|"Glocalization: Time-Space and Homogeneity-Heterogeneity"]]. In *Global Modernities*
+- Swyngedouw, E. (1997). [[sources/swyngedouw-neither-global-nor-local|"Neither Global nor Local: 'Glocalization' and the Politics of Scale"]]. In *Spaces of Globalization*
 - Swyngedouw, E. (2004). [[sources/swyngedouw-globalisation-or-glocalisation|"Globalisation or 'Glocalisation'? Networks, Territories and Rescaling"]]. *Cambridge Review of International Affairs*
 - [[sources/kostakis-design-global-manufacture-local|Kostakis, V., Niaros, V., Dafermos, G., & Bauwens, M. (2015). "Design Global, Manufacture Local"]]
 - [[sources/kostakis-niaros-giotitsas-2023|Kostakis, V., Niaros, V., & Giotitsas, C. (2023). "Beyond Global Versus Local"]]
@@ -140,7 +145,7 @@ The word itself carries risk. Its corporate meaning is older and more widely kno
 
 ## Provenance
 
-Written 7 November 2026 from Michael Haupt's framing in the BioConomy project: glocalization as a form distinct from globalization, with globalization belonging to the steep part of the S-curve and glocalization taking the best of it into place-based economies as the curve tapers. The account of the acceleration and deceleration phases draws on existing wiki pages ([[frameworks/s-curve-thesis|The S-Curve Thesis]], [[concepts/deceleration-indicators|Deceleration Indicators]]) and adds no new empirical claims; figures for the indicators live on those pages. The list of what glocalization keeps is an editorial synthesis for this page and should be checked by Michael. The term's history draws on Robertson (1995) and Swyngedouw (2004); the *dochakuka* origin is widely repeated and carries [TBV] until a primary source is found. The word is a reframed term on this site: the corporate sense is described and set aside.
+Written 7 November 2026 from Michael Haupt's framing in the BioConomy project: glocalization as a form distinct from globalization, with globalization belonging to the steep part of the S-curve and glocalization taking the best of it into place-based economies as the curve tapers. The account of the acceleration and deceleration phases draws on existing wiki pages ([[frameworks/s-curve-thesis|The S-Curve Thesis]], [[concepts/deceleration-indicators|Deceleration Indicators]]) and adds no new empirical claims; figures for the indicators live on those pages. The list of what glocalization keeps is an editorial synthesis for this page and should be checked by Michael. The term's history draws on Robertson (1995) and Swyngedouw (2004); the *dochakuka* origin, first carried as [TBV], was settled on 8 November 2026 from the *Oxford Dictionary of New Words* entry as quoted by Robertson. The same update added the services-share figure and the paragraph on the production-location brief's findings. The word is a reframed term on this site: the corporate sense is described and set aside.
 
 <script type="application/ld+json">
 {

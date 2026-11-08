@@ -17,4 +17,4 @@ Morgan argues that a left-hemisphere-dominant culture is cut off from "the attra
 
 ## Cited by
 
-- [[essays/after-the-crash-a-bioconomy-reading|After the Crash: A BioConomy Reading]]
+- [[after-the-crash-the-bioconomy-version|After the Crash: A BioConomy Reading]]

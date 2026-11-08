@@ -1,5 +1,6 @@
 ---
 title: The TIME Framework
+description: "Four forms of coordination (Tribal, Institutional, Market, Emergent) that emerged in sequence, each externalizing costs onto the substrate the next must organize, all operating together now; built on Ronfeldt's TIMN."
 aliases:
   - TIME
   - Tribal Institutional Market Emergent
@@ -9,7 +10,7 @@ tags:
   - core-framework
   - bioconomy
 created: 2026-08-25
-updated: 2026-09-01
+updated: 2026-11-08
 source_project: BioConomy
 source_documents:
   - The_TIME_Framework_Notion_Export
@@ -72,6 +73,8 @@ Each coordination form produces a characteristic physical node where its logic m
 
 That last observation is the critical one. Each era's externalities became the next era's inheritance. The BioHub is where the running debt comes due, because there is nowhere left to push it. The debt that must now be repaid is what creates economic value for communities that can coordinate at this level. Rural communities hold a natural monopoly on what the Market and the State now need: functioning watersheds, biological complexity, soil carbon capacity, and the coordination infrastructure to maintain them. The BioHub is the node through which that monopoly becomes coordinated.
 
+Whether production has moved through a matching sequence of forms is an open question. The research brief [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]] finds no sequence in the literature with all of TIME's properties, and sets out a candidate sequence of production forms as Michael Haupt's proposal, graded a speculative projection until a further run tests whether each form shifted its [[glossary/m-s/negative-externalities|negative externalities]] onto the next.
+
 ## What TIME is and what it is not
 
 TIME is an analytical vocabulary. It gives practitioners a way to see which coordination forms are active in their bioregion, which are absent, which are in conflict, and where the seams between forms are producing friction that no single form can resolve on its own.
@@ -83,6 +86,7 @@ The shift TIME asks of its users is perceptual before it is operational. A pract
 ## Related pages
 
 - [[timn-framework|The TIMN Framework]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]], which tests whether production has evolved through forms with TIME's properties
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[ronfeldt-david|David Ronfeldt]]
@@ -99,6 +103,8 @@ The shift TIME asks of its users is perceptual before it is operational. A pract
 ## Provenance
 
 Extracted from *The TIME Framework* (Notion export, September 2026). Voice preserved; em dashes replaced. Internal cross-references to the Evolution of Coordination Nodes page and to the glossary entries for each of the four forms were made explicit here.
+
+On 8 November 2026 a description was added and a two-sentence pointer to the production-location brief was placed after "The sequence and the debt". The coordination-node sequence above was left unchanged.
 
 <script type="application/ld+json">
 {

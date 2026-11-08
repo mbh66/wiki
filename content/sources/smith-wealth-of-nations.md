@@ -23,6 +23,8 @@ Smith's foundational text and the seed of what this wiki calls [[throughput-econ
 - [[research/growth-economics|Research Brief: The S-Curve Thesis]]
 - [[smith-adam|Adam Smith]]
 - [[throughput-economics|Throughput Economics (glossary)]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
+- [[glossary/a-e/absolute-advantage|Absolute Advantage (glossary)]]
 
 <script type="application/ld+json">
 {

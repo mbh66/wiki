@@ -22,6 +22,7 @@ The foundational academic paper for the cosmo-local production framework. The au
 - [[glossary/a-e/cosmo-local-production|Cosmo-local production (glossary)]]
 - [[bauwens-michel|Michel Bauwens]]
 - [[concepts/glocalization|Glocalization]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 
 <script type="application/ld+json">
 {

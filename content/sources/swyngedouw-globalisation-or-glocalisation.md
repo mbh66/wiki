@@ -23,6 +23,7 @@ A geographer's reading of glocalisation as a rescaling. Swyngedouw treats scales
 - [[glossary/f-l/glocalization|Glocalization (glossary)]]
 - [[concepts/globalization|Globalization]]
 - [[glossary/f-l/globalization|Globalization (glossary)]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 
 <script type="application/ld+json">
 {

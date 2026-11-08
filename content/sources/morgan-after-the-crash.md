@@ -17,4 +17,4 @@ Written the day after a $2.5 trillion sell-off in technology stocks, the essay h
 
 ## Cited by
 
-- [[essays/after-the-crash-a-bioconomy-reading|After the Crash: A BioConomy Reading]]
+- [[after-the-crash-the-bioconomy-version|After the Crash: A BioConomy Reading]]

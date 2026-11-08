@@ -20,6 +20,7 @@ The 2023 refinement of the cosmo-local production framework, extending it into a
 
 - [[concepts/cosmo-local-production|Cosmo-Local Production]]
 - [[concepts/glocalization|Glocalization]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 
 <script type="application/ld+json">
 {

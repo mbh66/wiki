@@ -19,6 +19,7 @@ The current annual reports of the Mondragón Corporation, documenting a federati
 ## Cited by
 
 - [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
+- [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
 
 <script type="application/ld+json">
 {
