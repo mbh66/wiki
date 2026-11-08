@@ -46,13 +46,13 @@ The essence of his argument is useful for understanding the [[disruption/index|d
 
 The BioConomy's interpretation and Morgan's interpretation complement each other.
 
-| Morgan's term                         | This page's term                                                |
+| Morgan's term                         | The BioConomy's term                                            |
 | ------------------------------------- | --------------------------------------------------------------- |
 | The lower can't see the higher        | The abstracted global economy can't see the place-based economy |
 | Three traits of the isolation economy | Three signs that the steep part of the S-curve is over          |
 | The anomaly is the Tao                | The anomaly is the Emergent form in TIME                        |
 | Not being held                        | Being disconnected from place                                   |
-| Initiation                            | Bildung (or, in the Valley of Grace, South Africa, Vorming)     |
+| Initiation                            | *Bildung* (or, in the Valley of Grace, South Africa, *Vorming*) |
 
 Morgan's observation that high-agency people are using AI to bring their gifts to market is held over for separate treatment.
 
