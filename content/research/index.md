@@ -32,6 +32,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 - [[research/what-gdp-leaves-out|What GDP Leaves Out]]. Evidence that households in mature economies are losing ground on measures GDP omits, from housing and life evaluation to disaster recovery, opened by Robert F. Kennedy's 1968 critique of the Gross National Product.
 - [[research/south-africa-on-the-curve|South Africa on the Curve]]. A middle-income economy read through the S-curve and the beyond-GDP lenses: two climbs and two descents in income per person from 1961 to 2026, set beside minerals, investment, health, jobs, trust and public debt.
 - [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]. Location and trade theory from Weber to Baldwin tested against production-location data to November 2026: production is moving toward markets, mostly into blocs under existing owners.
+- [[research/evolution-of-production|The Evolution of Production]]. A test of four production forms against TIME's properties: the forms are real and coexist, every form pushes costs outside itself, and no form arose to organize its predecessor's costs.
 - [[research/water-retention-evidence|Retention Works on the Slope, Unproven at the River]]. Measured outcomes of water retention methods on six continents, graded from plot to catchment, with a 58-row case table and a monitoring design for outcome payments.
 
 ## Related pages

@@ -1,6 +1,6 @@
 ---
 title: The TIME Framework
-description: "Four forms of coordination (Tribal, Institutional, Market, Emergent) that emerged in sequence, each externalizing costs onto the substrate the next must organize, all operating together now; built on Ronfeldt's TIMN."
+description: "Four forms of coordination (Tribal, Institutional, Market, Emergent) that emerged in sequence over twelve thousand years, each pushing costs outside itself, all operating together now; built on Ronfeldt's TIMN."
 aliases:
   - TIME
   - Tribal Institutional Market Emergent
@@ -18,7 +18,7 @@ creator: David Ronfeldt
 epistemic_status: documented-framework
 ---
 
-Human societies have produced four broad forms of coordination over the past five thousand years. Each emerged in sequence and each solved problems the prior forms couldn't solve. Each externalized costs onto the substrate the next form would have to organize. All four now operate simultaneously in every geography on earth. TIME is the framework that helps us explore each form: Tribes, Institutions, Markets, Emergent.
+Human societies have produced four broad forms of coordination over the past twelve thousand years. Each emerged in sequence and each solved problems the prior forms couldn't solve. Each externalized costs onto people and places outside it, and later forms, most often the state, have taken up some of those costs. All four now operate simultaneously in every geography on earth. TIME is the framework that helps us explore each form: Tribes, Institutions, Markets, Emergent.
 
 |                 ![[TIME-holons.png]]                 |
 | :--------------------------------------------------: |
@@ -61,19 +61,13 @@ The distinction matters when people import TIMN into TIME assuming the fourth fo
 
 ## The sequence and the debt
 
-Each coordination form produces a characteristic physical node where its logic materializes. The sequence clarifies what the E form inherits.
+Each coordination form also has a production node where its way of making things takes physical shape: the Farm, the Guildhall, the Factory (with the Stock Market as its capital node and the Data Center as infrastructure it owns) and the [[biohub|BioHub]]. Each pushed costs outside itself. [[frameworks/sequence-and-the-debt|The Sequence and the Debt]] sets out the nodes, the costs and who took them up, and reserves space in the BioHub row for place-based uses of AI.
 
-**The Farm** is the first [[coordination-node|coordination node]] (approximately 12,000 years ago). A community settling in a particular place, holding kin, land, water, and labor. Collectively producing surplus for the first time. Optimization target: caloric yield per unit of land. Externalized cost: soil depletion, downstream water quality, and the [[commons|commons]] the farm was carved from.
+Each form's costs have been organized by whoever chose to take them up, and most often that has been the Institutional form putting a price on them. Britain's Factory Act of 1833 put inspectors in the mills; the Alkali Act of 1863 made factories condense the acid they had vented into the air; the European Union's Carbon Border Adjustment Mechanism began charging for carbon embedded in imports on 1 January 2026 [IC]. As costs the Market form left unpriced come back into prices, the work of retaining water, soil and biological complexity gains value, and so do the communities able to organize it [structural inference]. The BioHub is a node through which a place can take up that work and be paid for it. It also pushes costs outward (unpaid contribution, and the energy and water of infrastructure it does not govern), and its claim to value holds only while it names and organizes those costs too.
 
-**The Stock Market** is the second (approximately 250 years ago). Ownership decoupled from operation. The farmer no longer has a direct relationship with those consuming what he produces. His crop goes to a distant processing plant, and his role is replaced by the shareholder who owns a claim on an enterprise the shareholder will never enter. Optimization target: return on capital. Externalized cost: labor conditions, biosphere depletion, and the coherence of the communities from which labor is drawn.
+Rural communities hold a natural monopoly on what the Market and the State now need: functioning watersheds, biological complexity, soil carbon capacity, and the coordination infrastructure to maintain them. The BioHub is the node through which that monopoly becomes coordinated.
 
-**The Data Center** is the third (approximately 50 years ago). Coordination of attention, behavior, information, and computation. Optimization target: prediction accuracy, which is [[human-coordination|human coordination]] at global scale. Externalized cost: energy and water, consumed at rates that break local hydrological budgets and strain electricity grids.
-
-**The [[biohub|BioHub]]** is the fourth, currently emerging. A place-anchored coordination point that organizes activity around a defined watershed or bioregion. Three features distinguish a BioHub from a farm, an ecovillage, or a conservation project: a physical site that anchors regeneration beyond its own boundaries, an outward orientation toward the bioregion, and a role as connector across multiple domains of activity. Optimization target: the continued viability of the substrate it depends on. Externalized cost: there is no substrate below it to receive the costs.
-
-That last observation is the critical one. Each era's externalities became the next era's inheritance. The BioHub is where the running debt comes due, because there is nowhere left to push it. The debt that must now be repaid is what creates economic value for communities that can coordinate at this level. Rural communities hold a natural monopoly on what the Market and the State now need: functioning watersheds, biological complexity, soil carbon capacity, and the coordination infrastructure to maintain them. The BioHub is the node through which that monopoly becomes coordinated.
-
-Whether production has moved through a matching sequence of forms is an open question. The research brief [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]] finds no sequence in the literature with all of TIME's properties, and sets out a candidate sequence of production forms as Michael Haupt's proposal, graded a speculative projection until a further run tests whether each form shifted its [[glossary/m-s/negative-externalities|negative externalities]] onto the next.
+The research brief [[research/evolution-of-production|The Evolution of Production]] tested whether production has moved through forms with TIME's properties. It found the four production forms real, dated and still operating, found that every form externalized costs, the Emergent form included, and found no evidence that each later form arose to organize its predecessor's costs.
 
 ## What TIME is and what it is not
 
@@ -88,6 +82,8 @@ The shift TIME asks of its users is perceptual before it is operational. A pract
 - [[timn-framework|The TIMN Framework]]
 - [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]], which tests whether production has evolved through forms with TIME's properties
 - [[frameworks/evolution-of-coordination-nodes|The Evolution of Coordination Nodes]]
+- [[frameworks/sequence-and-the-debt|The Sequence and the Debt]]
+- [[research/evolution-of-production|The Evolution of Production]], which tests the production sequence and the debt claim
 - [[concepts/commitment-pooling|Commitment Pooling]]
 - [[ronfeldt-david|David Ronfeldt]]
 - [[t-form-tribal|T form (Tribal)]]
@@ -106,17 +102,19 @@ Extracted from *The TIME Framework* (Notion export, September 2026). Voice prese
 
 On 8 November 2026 a description was added and a two-sentence pointer to the production-location brief was placed after "The sequence and the debt". The coordination-node sequence above was left unchanged.
 
+Later on 8 November 2026, following the research brief [[research/evolution-of-production|The Evolution of Production]] and at Michael's request, the four paragraphs of "The sequence and the debt" (Farm, Stock Market, Data Center, BioHub) moved to [[frameworks/sequence-and-the-debt|The Sequence and the Debt]] in amended form, and a pointer replaced them here. The claims that "each era's externalities became the next era's inheritance" and that the BioHub has "no substrate below it to receive the costs" were withdrawn and replaced with the paragraph beginning "Each form's costs have been organized". The opening and the description now date the forms over twelve thousand years, matching the Farm, and say that each form pushed costs outside itself.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "@id": "https://wiki.bioconomy.earth/frameworks/time-framework/",
   "name": "The TIME Framework",
-  "description": "Human societies have produced four broad forms of coordination over the past five thousand years. Each emerged in sequence. Each solved problems the prior forms could not solve. Each externalized costs onto the substrate the next form would have to organize. All four now operate simultaneously in every geography on earth. TIME is the framework that helps us explore each form.",
+  "description": "Human societies have produced four broad forms of coordination over the past twelve thousand years. Each emerged in sequence. Each solved problems the prior forms could not solve. Each externalized costs onto people and places outside it, and later forms, most often the state, have taken up some of those costs. All four now operate simultaneously in every geography on earth. TIME is the framework that helps us explore each form.",
   "isPartOf": {
     "@id": "https://wiki.bioconomy.earth/#website"
   },
-  "dateModified": "2026-08-25",
+  "dateModified": "2026-11-08",
   "datePublished": "2026-09-01",
   "creativeWorkStatus": "documented-framework",
   "creator": {

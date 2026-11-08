@@ -1,9 +1,10 @@
 ---
 title: "The Evolution of Coordination Nodes"
+description: "How each TIME coordination form produces a characteristic physical node (sacred site, cathedral, skyscraper and trading floor, BioHub), with its legibility signal, portable symbol, decoupling risk and the costs it pushes outside itself."
 aliases: ["coordination nodes", "coordination node evolution"]
 tags: ["framework", "coordination", "time-framework", "core-framework"]
 created: 2026-09-01
-updated: 2026-08-25
+updated: 2026-11-08
 source_project: "BioConomy"
 source_documents: ["The_Evolution_of_Coordination_Nodes_Notion_Export"]
 epistemic_status: "structural-inference"
@@ -15,7 +16,7 @@ Each coordination form, as it matures, produces a characteristic physical struct
 
 ## Overview
 
-The thesis can be stated simply: if you know what a coordination form optimizes for, you can predict what its mature physical expression will look like, what it will compress into a single [[legibility-signal|legibility signal]], what risks that compression creates, and what it will externalize onto the substrate the next form inherits.
+The thesis can be stated simply: if you know what a coordination form optimizes for, you can predict what its mature physical expression will look like, what it will compress into a single [[legibility-signal|legibility signal]], what risks that compression creates, and what costs it will push outside itself.
 
 |                        | T (Tribal)                            | +I (Institutional)                          | +M (Market)                                       | +E (Emergent)                                               |
 | ---------------------- | ------------------------------------- | ------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------- |
@@ -24,7 +25,7 @@ The thesis can be stated simply: if you know what a coordination form optimizes 
 | **Legibility signal**  | Clan mark, totem, scarification       | Crown, seal, coat of arms                   | Stock index                                       | [[bioscore\|BioScore]]                                      |
 | **Portable symbol**    | Body paint, tattoo, crest             | Uniform, flag, seal on document             | Brand logo                                        | Does not yet exist                                          |
 | **Decoupling risk**    | Mark worn without underlying kinship  | Monument outlasts the authority it embodies | Index rises while productive capacity hollows out | Score rises while underlying ecology is static or declining |
-| **Externalized cost**  | None (first form; no prior substrate) | Commons the institution was carved from     | Labor, community cohesion, biosphere              | None below it to receive the cost                           |
+| **Externalized cost**  | Unpaid household labor; soil, water and the commons cleared for fields | Monopoly rents; exclusion of women and outsiders from trades; colonized labor and land | Labor, community cohesion, biosphere              | Unpaid contribution; energy and water of infrastructure it does not govern |
 
 ## The Sacred Site (T form)
 
@@ -90,7 +91,9 @@ Across all four forms, the same architecture recurs. Each produces a concentrati
 
 Each form emerges during the collapse of its predecessor's coordination infrastructure. The cathedral arose as Roman administration failed. The bourse arose as the institutional order's economic monopoly weakened. The bioregional hub is arising as the market form's physical nodes empty and its legibility signals decouple.
 
-And each form externalizes costs onto the substrate the next form inherits. The farm externalized onto soil and water. The stock market externalized onto labor and biosphere. The data center externalizes onto energy and local hydrological budgets. The BioHub inherits the accumulated debt of all three, and there is no substrate below it to receive the costs. That is the structural reason BioHub communities hold economic value that the market now needs. The debt that must be repaid is what makes the coordination bankable.
+And each form pushes costs outside itself. The externalized-cost row of the table above records them by form. The production side of that record (the Farm, the Guildhall, the Factory and the BioHub, the costs each pushed outward, and who took them up) is on [[frameworks/sequence-and-the-debt|The Sequence and the Debt]].
+
+Each form's costs have been organized by whoever chose to take them up, and most often that has been the Institutional form putting a price on them. Britain's Factory Act of 1833 put inspectors in the mills; the Alkali Act of 1863 made factories condense the acid they had vented into the air; the European Union's Carbon Border Adjustment Mechanism began charging for carbon embedded in imports on 1 January 2026 [IC]. As costs the Market form left unpriced come back into prices, the work of retaining water, soil and biological complexity gains value, and so do the communities able to organize it [structural inference]. The BioHub is a node through which a place can take up that work and be paid for it. It also pushes costs outward (unpaid contribution, and the energy and water of infrastructure it does not govern), and its claim to value holds only while it names and organizes those costs too.
 
 ## A note on evidentiary status
 
@@ -99,6 +102,8 @@ The first three columns of this analysis (T, +I, +M) rest on documented facts an
 ## Related pages
 
 - [[frameworks/time-framework|The TIME Framework]]
+- [[frameworks/sequence-and-the-debt|The Sequence and the Debt]]
+- [[research/evolution-of-production|The Evolution of Production]]
 - [[timn-framework|The TIMN Framework]]
 - [[essays/what-is-a-biohub|What Is a BioHub]]
 - [[coordination-node|Coordination Node (glossary)]]
@@ -120,6 +125,8 @@ The first three columns of this analysis (T, +I, +M) rest on documented facts an
 
 Extracted from *The Evolution of Coordination Nodes* (Notion export, September 2026). Voice preserved; em dashes replaced with periods, commas, or parentheses as fits the sentence. The evidentiary-status caveat in the source was preserved verbatim.
 
+On 8 November 2026, following the research brief [[research/evolution-of-production|The Evolution of Production]] and at Michael's request: a description was added; the overview's last clause now speaks of the costs each form pushes outside itself; the externalized-cost row was corrected (the Tribal form had been given none, and the Institutional form had been given the commons, which belongs to the Farm; Michael confirmed the latter was not deliberate); and the paragraph that sent the Farm, Stock Market, Data Center and BioHub through a running debt was replaced with a pointer to [[frameworks/sequence-and-the-debt|The Sequence and the Debt]] and the paragraph beginning "Each form's costs have been organized". The claim that the BioHub has no substrate below it was withdrawn.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -130,7 +137,7 @@ Extracted from *The Evolution of Coordination Nodes* (Notion export, September 2
   "isPartOf": {
     "@id": "https://wiki.bioconomy.earth/#website"
   },
-  "dateModified": "2026-08-25",
+  "dateModified": "2026-11-08",
   "datePublished": "2026-09-01",
   "creativeWorkStatus": "structural-inference",
   "author": {

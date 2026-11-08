@@ -73,7 +73,8 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Cycle of Civilizations](https://wiki.bioconomy.earth/frameworks/cycle-of-civilizations): Cyclical theories of history, the evidence on state lifespans, and a seven-phase synthesis used as a diagnostic lens
 - [Cycle of Globalization](https://wiki.bioconomy.earth/frameworks/cycle-of-globalization): Seven-phase model of the first globalized civilization since 1648, with hegemonic cycles nested inside and a final phase that forks
 - [The Evolution of Coordination Nodes](https://wiki.bioconomy.earth/frameworks/evolution-of-coordination-nodes): Physical structures each coordination form has produced
-- [The Physical Manifestations of TIMN](https://wiki.bioconomy.earth/frameworks/time-physical-manifestations): Structural rhymes across the four coordination forms
+- [The Physical Manifestations of TIME](https://wiki.bioconomy.earth/frameworks/time-physical-manifestations): Structural rhymes across the four coordination forms
+- [The Sequence and the Debt](https://wiki.bioconomy.earth/frameworks/sequence-and-the-debt): The production nodes of the four TIME forms (Farm, Guildhall, Factory, BioHub), the costs each pushed outside itself, who took them up, and the space reserved for place-based AI
 - [Farmer-Forger-Founder-Framer](https://wiki.bioconomy.earth/frameworks/farmer-forger-founder-framer): Four archetypes of production across the TIME sequence
 - [BioHub Establishment Requirements](https://wiki.bioconomy.earth/frameworks/biohub-establishment-requirements): Everything Life's two essays on bioregional economics require for a BioHub to establish
 
@@ -118,6 +119,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Planet Labs: Ownership, Mission and the Terms of Ask Planet](https://wiki.bioconomy.earth/research/planet-labs-ownership-and-mission): Founder voting control, the public benefit charter, revenue by customer sector and the Planet AI app terms on data, report ownership and sharing, for practitioners putting place-based questions to the app
 - [Dark Fiber and the AI Overbuild: What Survives a Repricing, and Who Inherits It](https://wiki.bioconomy.earth/research/dark-fiber-and-the-ai-overbuild): The 1996 to 2001 fiber build-out set beside the 2023 to 2026 AI data center build-out (scale, financing, depreciation, the November 2026 repricing), what survives a repricing, a register of defense and place-based AI uses, and eight graded hypotheses
 - [Glocalization and the Evolution of Production: Regionalization Under Existing Owners](https://wiki.bioconomy.earth/research/glocalization-and-the-evolution-of-production): Weber, the substitution principle, the new international division of labor and comparative advantage tested against production-location data to November 2026, with ten graded hypotheses, a theory register and an indicator table (CSV)
+- [The Evolution of Production: Four Forms, One Broken Link](https://wiki.bioconomy.earth/research/evolution-of-production): Michael Haupt's sequence of four production forms tested against TIME's five properties; forms real, dated and coexisting, the debt-passing link rejected, with an amended table, a form register and a reconciliation of the wiki's sequences (CSV)
 
 ## Disruption
 

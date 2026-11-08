@@ -292,7 +292,16 @@ A candidate sequence that would carry TIME's properties is set out here as a pro
 | Market | Market factory and global value chain | Telegraph, then the internet | Labor, communities and sinks (recorded on the TIME page) |
 | Emergent | Peer and cosmo-local production | Networked information | To be tested |
 
-Glocalization, on this proposal, is the stage in which the Emergent form governs place-based production while drawing on the Institutional and Market forms. Whether each production form externalized costs onto a substrate the next had to organize needs its own research run.
+Glocalization, on this proposal, is the stage in which the Emergent form governs place-based production while drawing on the Institutional and Market forms. A further research run tested the proposal. [[research/evolution-of-production|The Evolution of Production]] amends the sequence as follows, finds that every form externalized costs, the Emergent form included, and finds no evidence that each later form arose to organize its predecessor's costs:
+
+| TIME form | Production form | Communications tie | Cost externalized |
+|---|---|---|---|
+| Tribal | Household and kin production (foraging band, then farming household) | Speech and shared practice | Unpaid household labor, mostly women's; under farming, soil and the commons cleared for fields |
+| Institutional | Privileged production: temple and palace estates, craft guilds, chartered companies | Writing for records and charters, then print | Rents paid by consumers and excluded workers (guilds); colonized labor and land (chartered companies) |
+| Market | Factory, managerial corporation and global value chain | Power and transport for the factory; telegraph for the corporation; internet for the value chain | Labor, communities and sinks |
+| Emergent | Commons-based peer production and cosmo-local production | Networked information on cheap computation | Unpaid maintainer labor; energy and water through infrastructure it does not govern |
+
+The glocalization claim, that the Emergent form governs place-based production, remains a speculative projection. The production nodes and the record of who took up each form's costs are on [[frameworks/sequence-and-the-debt|The Sequence and the Debt]].
 
 ## Hypotheses
 
@@ -413,6 +422,8 @@ The test against the [[concepts/deceleration-indicators|deceleration indicators]
 - [[research/growth-economics|The S-Curve Research Brief]]
 - [[frameworks/time-framework|The TIME Framework]]
 - [[frameworks/evolution-of-coordination-nodes|Evolution of Coordination Nodes]]
+- [[research/evolution-of-production|The Evolution of Production]]
+- [[frameworks/sequence-and-the-debt|The Sequence and the Debt]]
 - [[frameworks/cycle-of-globalization|Cycle of Globalization]]
 - [[frameworks/three-lineages|The Three Lineages]]
 - [[frameworks/farmer-forger-founder-framer|Farmer, Forger, Founder, Framer]]
@@ -508,4 +519,6 @@ Figures checked against their sources while drafting, with the corrections made:
 Not read in the original: Weber, Predöhl, Isard and Fröbel and colleagues were read through secondary literature and publisher front matter, so their positions are paraphrased and no verbatim quotation from them is given. Ricardo's chapter 7 passage is quoted from the standard text. The Moses and Daly quotations in the run's report were not verified and are paraphrased.
 
 Editorial decisions. The working title was extended with the run's finding, "Regionalization Under Existing Owners." `epistemic_status` is `working-hypothesis` because the page's organizing claim is the amended statement under test; most of its trade and investment figures are documented facts from official sources. Labor-cost figures from consultancies that sell relocation to Mexico, Kearney's index and the Reshoring Initiative's counts are graded [MS] as interested parties. MGI's distance measures are graded [MS] as one firm's construction. The ILO export processing zone counts, wage ratios by decade and 1970 to 2008 FDI series were not retrieved and are left as gaps. The candidate production sequence is Michael's construct for testing, never Ronfeldt's. Glossary links to the thirteen terms created from the hand-back were added the same day. Place-specific material (nearshoring to Mexico as a national case, German citizen energy, and the absence of South African material on the automotive sector and on the Valley of Grace) is kept to brief examples here and named for the BioHubs directory and the DevForum (Ward 2 Development Forum) register.
+
+On 8 November 2026 the closing sentence of "Is there an evolution of production?" was replaced with the amended sequence and a pointer to [[research/evolution-of-production|The Evolution of Production]], the follow-up run it called for.
 

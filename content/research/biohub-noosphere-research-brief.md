@@ -1,9 +1,11 @@
 ---
 title: "The BioHub as Where the Noosphere Lands"
+description: "Research memo arguing that the BioHub is where the noosphere reconnects to biosphere and geosphere, through place-anchored wikis, AI routing, threefolding and commitment pooling, with the ways the argument could fail."
 subtitle: "A research memo"
 tags: ["research-memo", "biohub", "noosphere", "threefolding", "commitment-pooling", "time-framework"]
 created: 2026-09-02
-epistemic_status: "working-memo"
+updated: 2026-11-08
+epistemic_status: "working-hypothesis"
 ---
 
 ## The thesis
@@ -29,6 +31,9 @@ The wiki's own geosphere and noosphere.md pages stand roughly here, with one add
 The problem this framing surfaces is that the noosphere has ballooned faster than any prior sphere, and it has done so by extracting from the two below it. The Data Center as coordination node (per the wiki's [[evolution-of-coordination-nodes]]) concentrates the noosphere physically but detaches its outputs from the biosphere and geosphere it depends on. Water for cooling, energy for compute, minerals for hardware, land for siting: the noosphere's expansion is materially organized around denying its dependence on the substrate below. The 2020s hyperscaler build-out is the clearest expression: siting decisions optimize for cheap electricity and permissive regulation, not for watershed capacity or ecological carrying limits. The Data Center form solves coordination of attention, behavior, information, and computation at planetary scale, and it externalizes onto the planet the coordination cost of doing so.
 
 This is the debt the E form inherits, because there is no substrate below it to receive the costs.
+
+> [!note] Correction, 8 November 2026
+> The node sequence used in this memo (Farm, Stock Market, Data Center, BioHub) and the claim that the BioHub has no substrate below it to receive costs have since been revised. The research brief [[research/evolution-of-production|The Evolution of Production]] found that the Emergent form also pushes costs outward (unpaid contribution, and the energy and water of infrastructure it does not govern) and that later forms did not arise to organize earlier forms' costs; the state has most often taken them up by pricing them. The amended sequence, which records the Data Center as infrastructure the Market form owns and reserves space for place-based AI in the BioHub row, is on [[frameworks/sequence-and-the-debt|The Sequence and the Debt]]. The memo's argument is otherwise left as written.
 
 ## 2. The BioHub as landing point
 
@@ -179,6 +184,6 @@ External: Vernadsky, *The Biosphere* (1926) and *Scientific Thought as a Planeta
     "name": "Michael Haupt"
   },
   "datePublished": "2026-09-02",
-  "creativeWorkStatus": "working-memo"
+  "creativeWorkStatus": "working-hypothesis"
 }
 </script>
