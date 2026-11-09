@@ -7,8 +7,9 @@ type: "report"
 publisher: "International Monetary Fund, IMF Country Report No. 25/29, January 2025"
 url: "https://www.imf.org/-/media/files/publications/cr/2025/english/1zafea2025002-print-pdf.pdf"
 tags: ["source", "growth", "productivity", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -7,8 +7,9 @@ type: "report"
 publisher: "United Nations, New York, 7 May 2026"
 url: "https://www.un.org/en/beyondGDP"
 tags: ["source", "beyond-gdp", "measurement", "governance"]
+subject: ["economics", "coordination"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "The Limits to Growth"
+description: "Commissioned by the Club of Rome and produced at MIT using the World3 systems-dynamics model, The Limits to Growth is the first computational demonstration that exponential material growth on a finite planet produces overshoot and collapse unless the growth trajectory is."
 author: "Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, William W. Behrens III"
 year: 1972
 type: "book"
 publisher: "Universe Books"
-url: ""
-doi: ""
 tags: ["source", "systems-dynamics", "s-curve", "growth", "planetary-boundaries", "degrowth"]
+subject: ["restoration", "economics", "coordination"]
 created: 2026-09-09
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

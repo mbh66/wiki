@@ -7,8 +7,9 @@ type: "article"
 publisher: "Agentur für Erneuerbare Energien, Berlin, 15 January 2021, reporting a study by trend:research"
 url: "https://www.unendlich-viel-energie.de/studie-buergerenergie-bleibt-zentrale-saeule-der-energiewende"
 tags: ["source", "community-energy", "governance", "germany"]
+subject: ["economics", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

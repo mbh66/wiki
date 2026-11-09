@@ -1,14 +1,15 @@
 ---
 title: "Agro-commodity Chains, Market Power and Territory: Re-Regulating South African Citrus Exports in the 1990s"
+description: "The primary academic reference on Outspan International's position as single-desk export agent for South African citrus in the 1990s."
 author: "Charles Mather"
 year: 1999
-type: "paper"
+type: "journal-article"
 publisher: "Geoforum, 30(1), 61-70"
-url: ""
 doi: "10.1016/S0016-7185(98)00033-5"
 tags: ["source", "mather", "outspan", "cooperative", "citrus"]
+subject: ["coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

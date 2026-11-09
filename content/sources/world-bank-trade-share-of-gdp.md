@@ -7,8 +7,9 @@ type: "dataset"
 publisher: "World Bank national accounts data and OECD National Accounts data files, indicator NE.TRD.GNFS.ZS"
 url: "https://data.worldbank.org/indicator/NE.TRD.GNFS.ZS?locations=1W"
 tags: ["source", "globalization", "trade"]
+subject: ["economics"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

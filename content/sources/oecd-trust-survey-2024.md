@@ -8,8 +8,9 @@ publisher: "OECD Publishing, Paris"
 url: "https://doi.org/10.1787/9a20554b-en"
 doi: "10.1787/9a20554b-en"
 tags: ["source", "trust", "oecd", "social-fabric"]
+subject: ["economics", "coordination"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

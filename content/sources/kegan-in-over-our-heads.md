@@ -5,10 +5,10 @@ author: "Robert Kegan"
 year: 1994
 type: "book"
 publisher: "Harvard University Press"
-url: ""
-doi: ""
 tags: ["source", "consciousness", "development", "psychology"]
-updated: 2026-10-30
+subject: ["economics", "consciousness"]
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Kegan, R. (1994). *In Over Our Heads: The Mental Demands of Modern Life.* Harvard University Press. ISBN: 978-0-674-44588-3.

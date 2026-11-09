@@ -1,14 +1,15 @@
 ---
 title: "Peer FOR Peer: The Emerging Third Attractor"
+description: "Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of regenerative projects."
 author: "Michel Bauwens"
 year: 2026
 type: "essay"
 publisher: "P2P Foundation"
 url: "https://blog.p2pfoundation.net/"
-doi: ""
 tags: ["source", "p4p", "regenerative-economics", "bioregional-economics"]
+subject: ["economics", "coordination"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

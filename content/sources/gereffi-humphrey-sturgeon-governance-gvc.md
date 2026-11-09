@@ -8,8 +8,9 @@ publisher: "Review of International Political Economy, 12(1), 78–104"
 url: "https://doi.org/10.1080/09692290500049805"
 doi: "10.1080/09692290500049805"
 tags: ["source", "global-value-chains", "governance", "globalization"]
+subject: ["economics", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

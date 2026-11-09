@@ -7,8 +7,9 @@ type: "dataset"
 publisher: "World Trade Organization, Geneva"
 url: "https://www.wto.org/english/res_e/statis_e/world_trade_statistics_e.htm"
 tags: ["source", "trade", "statistics", "services"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

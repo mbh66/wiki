@@ -7,8 +7,9 @@ type: "article"
 publisher: "TimesLIVE, 11 June 2026"
 url: "https://www.timeslive.co.za/news/south-africa/2026-06-11-western-cape-faces-r91bn-flood-repair-bill-as-farms-roads-and-communities-count-the-cost/"
 tags: ["source", "disasters", "floods", "south-africa"]
+subject: ["civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

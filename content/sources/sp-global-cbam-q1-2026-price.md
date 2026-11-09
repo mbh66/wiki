@@ -7,8 +7,9 @@ type: "article"
 publisher: "S&P Global, 7 April 2026"
 url: "https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/040726-brussels-confirms-first-cbam-certificate-price-for-q1-2026-at-eur7536mtco2e"
 tags: ["source", "carbon", "cbam", "trade-policy"]
+subject: ["economics", "finance"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

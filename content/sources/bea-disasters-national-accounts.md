@@ -6,8 +6,9 @@ type: "article"
 publisher: "US Department of Commerce, Bureau of Economic Analysis, frequently asked questions"
 url: "https://www.bea.gov/taxonomy/term/606"
 tags: ["source", "national-accounts", "disasters", "measurement"]
+subject: ["economics", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

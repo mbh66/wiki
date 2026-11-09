@@ -6,8 +6,9 @@ year: 1984
 type: "book"
 publisher: "Random House"
 tags: ["source", "cities", "import-replacement", "regional-economics"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

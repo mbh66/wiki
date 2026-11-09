@@ -7,8 +7,9 @@ type: "article"
 publisher: "Biotic Regulation and Biotic Pump (Substack), guest post"
 url: "https://bioticregulation.substack.com/p/a-project-to-challenge-rural-communities"
 tags: ["source", "landscape-restoration", "water", "southern-africa"]
+subject: ["water", "restoration"]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

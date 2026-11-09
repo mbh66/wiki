@@ -7,8 +7,9 @@ type: "report"
 publisher: "Greater Cape Town Water Fund / The Nature Conservancy"
 url: "https://panorama.solutions/sites/default/files/gctwf_fact_sheet_september_2020_0.pdf"
 tags: ["source", "water-fund", "cape-town", "restoration-economics"]
+subject: ["water", "restoration"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Greater Cape Town Water Fund (2020). *Fact Sheet*, September 2020.

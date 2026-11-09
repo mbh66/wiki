@@ -1,14 +1,15 @@
 ---
 title: "Design Global, Manufacture Local: Exploring the Contours of an Emerging Productive Model"
+description: "The foundational academic paper for the cosmo-local production framework."
 author: "Vasilis Kostakis, Vasilis Niaros, George Dafermos, and Michel Bauwens"
 year: 2015
 type: "paper"
 publisher: "Futures 73: 126-135"
 url: "https://wiki.p2pfoundation.net/Design_Global,_Manufacture_Local"
-doi: ""
 tags: ["source", "cosmo-local", "commons-based-peer-production"]
+subject: ["commons", "coordination"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

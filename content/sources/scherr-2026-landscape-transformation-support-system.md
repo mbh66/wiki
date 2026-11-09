@@ -8,8 +8,9 @@ publisher: "Land, 15(2), 307"
 url: "https://doi.org/10.3390/land15020307"
 doi: "10.3390/land15020307"
 tags: ["source", "landscape-management", "finance", "governance"]
+subject: ["restoration", "finance", "coordination"]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "The Threefold Commonwealth"
+description: "Steiner's primary published work on the threefold social order: freedom in cultural life, equality in rights life, fraternity in economic life."
 author: "Rudolf Steiner"
 year: 1919
 type: "book"
 publisher: "Anthroposophical Publishing"
-url: ""
-doi: ""
 tags: ["source", "steiner", "threefolding", "social-philosophy"]
+subject: ["coordination", "consciousness"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

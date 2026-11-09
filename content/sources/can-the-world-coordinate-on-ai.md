@@ -6,8 +6,9 @@ year: 2026
 type: "article"
 url: "https://www.youtube.com/watch?v=a65g5GlXRzw"
 tags: ["source", "coordination", "convening"]
+subject: ["coordination"]
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

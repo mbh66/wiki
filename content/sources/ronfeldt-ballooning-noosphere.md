@@ -1,13 +1,15 @@
 ---
 title: "Our Planet's Ballooning Noosphere"
+description: "Extends Ronfeldt's earlier work on the Noosphere and noopolitik by proposing a tri-sphere \"holonic framework\" that treats the Geosphere, biosphere, and noosphere as an entangled set rather than studying any sphere in isolation."
 author: "David Ronfeldt"
 year: 2026
 type: "paper"
 publisher: "Unpublished"
-url: ""
-doi: ""
 tags: ["source", "noosphere", "holonic", "geosphere", "coordination", "networks", "AI", "evolution"]
+subject: ["coordination", "consciousness", "civilization"]
 forthcoming: "Pan Tianqun (ed.), *The Rising of the Globe Mind: Refined Readings on the Noosphere*, Jiangsu Renmin Press, 2027"
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Ronfeldt, D. (2026). *Our Planet's Ballooning Noosphere: Toward A Multi-Sphere Holonic Framework For Improving Science And Strategy — With AEONs.* Unpublished paper, July 2026. First version presented at the International Conference on AI: Noosphere and Humanities, Nanjing University, May 29-31, 2026. Forthcoming in Pan Tianqun (ed.), *The Rising of the Globe Mind: Refined Readings on the Noosphere*, Jiangsu Renmin Press, 2027.

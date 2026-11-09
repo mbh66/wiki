@@ -7,8 +7,9 @@ type: "report"
 publisher: "Self-published, circulated by email and Google Drive"
 url: "https://drive.google.com/file/d/1JJzKQvtb7nPDMrV6uTCEH55h1-q9iXD2/view"
 tags: ["source", "landscape-restoration", "water", "southern-africa"]
+subject: ["water", "restoration"]
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

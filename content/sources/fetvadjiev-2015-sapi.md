@@ -1,5 +1,6 @@
 ---
 title: "The South African Personality Inventory (SAPI): A Culture-Informed Instrument for the Country's Main Ethnocultural Groups"
+description: "Reports the development of a personality inventory built from qualitative interviews in all 11 official South African languages, combining local (emic) and universal (etic) approaches."
 author: "Velichko H. Fetvadjiev, Deon Meiring, Fons J. R. van de Vijver, J. Alewyn Nel and Carin Hill"
 year: 2015
 type: "journal-article"
@@ -7,8 +8,9 @@ publisher: "Psychological Assessment"
 url: "https://doi.org/10.1037/pas0000078"
 doi: "10.1037/pas0000078"
 tags: ["source", "psychometrics", "south-africa", "cross-cultural", "measurement"]
+subject: ["economics", "consciousness"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Fetvadjiev, V. H., Meiring, D., van de Vijver, F. J. R., Nel, J. A., and Hill, C. (2015). "The South African Personality Inventory (SAPI): A culture-informed instrument for the country's main ethnocultural groups." *Psychological Assessment*, 27(3), 827-837.

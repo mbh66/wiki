@@ -7,8 +7,9 @@ type: "report"
 publisher: "International Energy Agency, Paris, April 2025"
 url: "https://www.iea.org/reports/energy-and-ai"
 tags: ["source", "data-centers", "energy", "ai"]
+subject: ["economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

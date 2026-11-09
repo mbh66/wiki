@@ -7,8 +7,9 @@ type: "report"
 publisher: "World Trade Organization, Geneva"
 url: "https://www.wto.org/english/res_e/booksp_e/gtos0326_e.pdf"
 tags: ["source", "trade", "statistics", "services"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

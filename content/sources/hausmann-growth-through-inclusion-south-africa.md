@@ -7,8 +7,9 @@ type: "working-paper"
 publisher: "Growth Lab, Center for International Development, Harvard University, CID Faculty Working Paper No. 434, 15 November 2023"
 url: "https://growthlab.hks.harvard.edu/wp-content/uploads/2023/11/south-africa-growth-through-inclusion-ch-1.pdf"
 tags: ["source", "growth", "governance", "south-africa"]
+subject: ["economics", "coordination"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

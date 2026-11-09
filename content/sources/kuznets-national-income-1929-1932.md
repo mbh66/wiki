@@ -6,8 +6,9 @@ year: 1934
 type: "report"
 publisher: "US Senate Document No. 124, 73rd Congress, 2nd Session, Washington"
 tags: ["source", "beyond-gdp", "measurement", "national-accounts"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

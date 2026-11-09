@@ -7,8 +7,9 @@ type: "report"
 publisher: "OECD Directorate for Employment, Labour and Social Affairs, Paris"
 url: "https://webfs.oecd.org/els-com/Affordable_Housing_Database/HM1-2-Housing-prices.pdf"
 tags: ["source", "housing", "affordability", "oecd"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

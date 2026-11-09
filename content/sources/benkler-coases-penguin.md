@@ -8,8 +8,9 @@ publisher: "Yale Law Journal, 112(3), 369–446"
 url: "https://doi.org/10.2307/1562247"
 doi: "10.2307/1562247"
 tags: ["source", "peer-production", "commons", "coordination"]
+subject: ["commons", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,15 @@
 ---
 title: "Report on the Subject of Manufactures"
+description: "The foundational document of the American retention tradition."
 author: "Alexander Hamilton"
 year: 1791
-type: "government-report"
+type: "report"
 publisher: "United States Treasury Department"
 url: "https://founders.archives.gov/documents/Hamilton/01-10-02-0001-0007"
-doi: ""
 tags: ["source", "retention", "american-system", "primary-document"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

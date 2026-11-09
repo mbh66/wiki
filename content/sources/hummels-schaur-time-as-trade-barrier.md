@@ -8,8 +8,9 @@ publisher: "American Economic Review, 103(7), 2935–2959"
 url: "https://business.purdue.edu/faculty/hummelsd/papers/time%20as%20a%20trade%20barrier%20final.pdf"
 doi: "10.1257/aer.103.7.2935"
 tags: ["source", "transport", "trade", "time"]
+subject: ["economics", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -8,8 +8,9 @@ publisher: "Science 357(6348): 267–273"
 url: "https://doi.org/10.1126/science.aan0568"
 doi: "10.1126/science.aan0568"
 tags: ["source", "payment-for-ecosystem-services", "randomized-trial", "uganda", "poverty"]
+subject: ["finance", "economics"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

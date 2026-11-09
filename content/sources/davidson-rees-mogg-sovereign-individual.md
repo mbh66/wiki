@@ -1,14 +1,15 @@
 ---
 title: "The Sovereign Individual: Mastering the Transition to the Information Age"
+description: "Davidson (an American private investor and newsletter publisher) and Rees-Mogg (the former editor of The Times of London and a life peer, father of the British MP Jacob Rees-Mogg) argued that strong cryptography, digital money."
 author: "James Dale Davidson and William Rees-Mogg"
 year: 1997
 type: "book"
 publisher: "Simon & Schuster"
 url: "https://www.simonandschuster.com/books/The-Sovereign-Individual/James-Dale-Davidson/9780684832722"
-doi: ""
 tags: ["source", "sovereign-individual", "cryptocurrency", "digital-money", "state-collapse", "surveillance-capitalism"]
+subject: ["money", "civilization"]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

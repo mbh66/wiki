@@ -6,8 +6,9 @@ year: 2014
 type: "book"
 publisher: "Princeton University Press, Princeton"
 tags: ["source", "beyond-gdp", "measurement", "national-accounts"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

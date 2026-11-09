@@ -6,8 +6,9 @@ year: 1954
 type: "book"
 publisher: "Yale University Press. Translated from Die räumliche Ordnung der Wirtschaft (1940)"
 tags: ["source", "economic-geography", "location-theory"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

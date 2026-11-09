@@ -7,8 +7,9 @@ type: "report"
 publisher: "Republic of South Africa, released in parts between January and June 2022; summary of findings published by the Presidency"
 url: "https://stateofthenation.gov.za/state-capture-commission-recommendations/faqs"
 tags: ["source", "governance", "state-capture", "south-africa"]
+subject: ["coordination"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

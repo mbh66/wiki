@@ -1,12 +1,15 @@
 ---
 title: "Levels of Existence"
+description: "The foundational peer-reviewed publication of Graves's emergent cyclical theory of adult human development."
 author: "Clare W. Graves"
 year: 1970
 type: "journal-article"
 publisher: "Journal of Humanistic Psychology"
-url: ""
 doi: "10.1177/002216787001000205"
 tags: ["source", "consciousness", "development", "psychology"]
+subject: ["economics", "consciousness"]
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Graves, C.W. (1970). "Levels of Existence: An Open System Theory of Values." *Journal of Humanistic Psychology*, 10(2), 131-155. DOI: 10.1177/002216787001000205.

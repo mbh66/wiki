@@ -6,8 +6,9 @@ year: 2011
 type: "book"
 publisher: "Harvard University Press"
 tags: ["source", "slow-violence", "environmental-justice", "violence"]
+subject: ["political-ecology"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

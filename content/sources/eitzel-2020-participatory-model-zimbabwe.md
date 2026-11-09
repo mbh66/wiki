@@ -8,8 +8,9 @@ publisher: "PLOS ONE, 15(8), e0237638"
 url: "https://doi.org/10.1371/journal.pone.0237638"
 doi: "10.1371/journal.pone.0237638"
 tags: ["source", "landscape-restoration", "participatory-modeling", "community-data", "zimbabwe"]
+subject: ["restoration", "coordination"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "Isikhova & Ironwood"
 ---
 

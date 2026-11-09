@@ -7,8 +7,9 @@ type: "article"
 publisher: "Nelson Mandela University news"
 url: "https://news.mandela.ac.za/News/How-catchment-management-could-have-prevented-the"
 tags: ["source", "restoration-economics", "thicket", "wetlands", "water-yield"]
+subject: ["water", "restoration"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Cowling, R. (2022). "How catchment management could have prevented the Nelson Mandela Bay water crisis." Nelson Mandela University, 17 May 2022.

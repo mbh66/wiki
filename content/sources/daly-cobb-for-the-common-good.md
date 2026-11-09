@@ -6,8 +6,9 @@ year: 1989
 type: "book"
 publisher: "Beacon Press, Boston"
 tags: ["source", "ecological-economics", "beyond-gdp", "measurement"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -8,8 +8,9 @@ publisher: "American Economic Review, 98(5), 1978–1997"
 url: "https://doi.org/10.1257/aer.98.5.1978"
 doi: "10.1257/aer.98.5.1978"
 tags: ["source", "trade", "offshoring", "global-value-chains"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

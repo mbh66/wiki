@@ -7,8 +7,9 @@ type: "article"
 publisher: "World Bank, Washington, country overview, retrieved October 2026"
 url: "https://www.worldbank.org/ext/en/country/southafrica"
 tags: ["source", "growth", "poverty", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "The Economic Consequences of Sir Robert Peel: A Quantitative Assessment of the Repeal of the Corn Laws"
+description: "Irwin and Chepeliev's general-equilibrium reassessment of the 1846 repeal of the British Corn Laws."
 author: "Douglas A. Irwin, Maksym G. Chepeliev"
 year: 2020
 type: "working-paper"
@@ -7,8 +8,9 @@ publisher: "National Bureau of Economic Research"
 url: "https://www.nber.org/papers/w28142"
 doi: "10.3386/w28142"
 tags: ["source", "throughput", "trade-liberalization", "economic-history"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

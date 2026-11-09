@@ -7,8 +7,9 @@ type: "report"
 publisher: "McKinsey Global Institute, 19 March 2026"
 url: "https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update"
 tags: ["source", "trade", "geopolitics", "fragmentation"]
+subject: ["economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

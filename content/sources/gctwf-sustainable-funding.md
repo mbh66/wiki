@@ -1,14 +1,15 @@
 ---
 title: "Sustainable Funding Strategy"
+description: "The GCTWF's strategy document setting out the funding pathway from initial public and philanthropic capital toward a bond-anchored, multi-year revenue mechanism."
 author: "Greater Cape Town Water Fund"
 year: 2021
 type: "report"
 publisher: "Greater Cape Town Water Fund"
 url: "https://citiesclimatefinance.org/casestudies/the-greater-cape-town-water-fund"
-doi: ""
 tags: ["source", "water-fund", "cape-town", "sustainable-finance"]
+subject: ["water", "finance"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

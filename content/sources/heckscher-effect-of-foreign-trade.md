@@ -6,8 +6,9 @@ year: 1919
 type: "journal-article"
 publisher: "Ekonomisk Tidskrift, 21, 497–512. English translation in H. S. Ellis and L. A. Metzler (eds.), Readings in the Theory of International Trade, 1949"
 tags: ["source", "trade", "factor-endowments"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

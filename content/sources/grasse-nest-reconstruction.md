@@ -1,5 +1,6 @@
 ---
 title: "La reconstruction du nid et les coordinations inter-individuelles chez Bellicositermes natalensis et Cubitermes sp. La théorie de la stigmergie"
+description: "The paper in which Grassé coined the term stigmergy and set out its first theoretical statement."
 author: "Pierre-Paul Grassé"
 year: 1959
 type: "journal-article"
@@ -9,8 +10,9 @@ issue: "1"
 pages: "41-83"
 doi: "10.1007/BF02223791"
 tags: ["source", "stigmergy", "coordination", "ethology"]
+subject: ["coordination", "consciousness"]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

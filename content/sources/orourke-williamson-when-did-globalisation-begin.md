@@ -6,8 +6,9 @@ year: 2002
 type: "journal-article"
 publisher: "European Review of Economic History 6(1), 23 to 50"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

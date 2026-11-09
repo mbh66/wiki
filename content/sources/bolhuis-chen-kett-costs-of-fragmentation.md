@@ -7,8 +7,9 @@ type: "article"
 publisher: "Finance & Development, International Monetary Fund, June 2023"
 url: "https://www.imf.org/en/publications/fandd/issues/2023/06/the-costs-of-geoeconomic-fragmentation-bolhuis-chen-kett"
 tags: ["source", "trade", "fragmentation", "imf"]
+subject: ["finance", "economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

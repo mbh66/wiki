@@ -7,8 +7,9 @@ type: "article"
 publisher: "Engineering News, Creamer Media, 19 March 2025"
 url: "https://www.engineeringnews.co.za/article/eskom-implements-stage-2-loadshedding-after-loss-of-five-generation-units-2025-03-19"
 tags: ["source", "electricity", "load-shedding", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

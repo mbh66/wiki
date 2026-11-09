@@ -6,8 +6,9 @@ year: 1377
 type: "book"
 publisher: "Trans. Franz Rosenthal, Princeton University Press (1958; abridged ed. 2005)"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "The Gothic Enterprise: A Guide to Understanding the Medieval Cathedral"
+description: "Scott's detailed history of the Gothic cathedral-building enterprise, including the competitive dynamics among bishops in which height was the primary competitive dimension."
 author: "Robert Scott"
 year: 2003
 type: "book"
 publisher: "University of California Press"
-url: ""
-doi: ""
 tags: ["source", "cathedral", "medieval", "i-form"]
+subject: ["coordination", "civilization"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

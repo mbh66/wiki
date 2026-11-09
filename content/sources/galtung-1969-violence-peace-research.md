@@ -8,8 +8,9 @@ publisher: "Journal of Peace Research 6(3): 167–191"
 url: "https://doi.org/10.1177/002234336900600301"
 doi: "10.1177/002234336900600301"
 tags: ["source", "structural-violence", "peace-research", "violence"]
+subject: ["political-ecology", "civilization"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

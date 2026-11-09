@@ -1,14 +1,15 @@
 ---
 title: "Archival Writings"
+description: "The archival corpus of the young Catholic priest whose 1943 arrival in the town of Mondragón in the Basque Country seeded what would become, seventy years later, a federation of over 120 cooperatives employing more than 100,000 worker-owners."
 author: "José María Arizmendiarrieta"
 year: 1943
-type: "archive"
+type: "book"
 publisher: "Mondragón Corporation"
 url: "https://www.mondragon-corporation.com/en/"
-doi: ""
 tags: ["source", "mondragon", "cooperatives"]
+subject: ["coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

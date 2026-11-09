@@ -7,8 +7,9 @@ type: "statute"
 publisher: "Delaware Code, Title 8, Chapter 1, Subchapter XV, sections 361 to 368"
 url: "https://delcode.delaware.gov/title8/c001/sc15/"
 tags: ["source", "legislation", "corporate-governance", "public-benefit-corporation"]
+subject: ["coordination"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -4,7 +4,7 @@ description: "Graded review of measured outcomes of water retention methods on s
 aliases: ["Does Water Retention Work?", "Water Retention Evidence", "water retention evidence brief"]
 tags: ["research", "water-retention", "hydrology", "restoration", "evidence", "bioconomy"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "BioConomy"
 source_documents: ["Deep research report: Does Water Retention Work? Global Evidence on Water Retention Landscapes (28 October 2026)"]
 epistemic_status: "academic-inference"
@@ -83,7 +83,7 @@ Bridge Creek, Oregon, is a highly degraded incised stream, and BDAs were install
 
 ### State programs in Tigray
 
-Abreha we Atsbeha reports a groundwater rise of about 5 m (Gebregziabher et al. 2016), without a control catchment. Nyssen's 30-year photographs use an unchanged church woodland as a reference against rainfall change (E3).
+At Abreha we Atsbeha, [[sources/haile-gebregziabher-2020-abreha-we-atsbeha|Haile and Gebregziabher (2020)]], citing [[sources/gebregziabher-2016-iwmi-watershed-management|Gebregziabher et al. (2016)]], report that groundwater once lay about 50 m below the surface and now lies about 5 m below it; another study gives 15 m to 3 m, and none has a control catchment [TBV]. Nyssen's 30-year photographs use an unchanged church woodland as a reference against rainfall change (E3).
 
 ## Results by climate
 
@@ -140,7 +140,7 @@ Legend: n.r. not reported; a dash means not applicable. Evidence levels: E1 cont
 | ET-TIGRAY-GEB2005 | Tigray stone bunds | Ethiopia | 3-21 yr bunds | Cwb/BSh | Mixed | Mixed | Stone bunds | 202 parcels | O6 | Soil loss −68% | −68% | 3-21 yr | Persisted | n.r. | Parcels | E3 | [IC] | Yes | Gebremichael 2005 |
 | ET-TIGRAY-TAYE2015 | Bund decline | Ethiopia | Multi-year | BSh | n.r. | Mixed | Bunds, trenches | Plots | O5,O6,O10 | Effect declines as trenches fill | Decline | Years | Maintenance | n.r. | Rain | E1 | [TBV] | Yes | Taye 2015, not re-read |
 | ET-ABREHA-NEG2013 | Mendae groundwater | Ethiopia | 1993- | Cwb | n.r. | Steep | Integrated SWC | Catchment | O2 | About tenfold rise (as cited) | 10x | 20 yr | n.r. | n.r. | No control | E3 | [TBV] | Yes | Negusse 2013 |
-| ET-ABREHA-GEB2016 | Abreha we Atsbeha | Ethiopia | to 2015 | Cwb | n.r. | Steep | Bunds, exclosures | Watershed | O2,O9 | Groundwater +5 m | +5 m | 20 yr | n.r. | n.r. | No control | E3 | [IC] | Yes | Gebregziabher 2016 |
+| ET-ABREHA-GEB2016 | Abreha we Atsbeha | Ethiopia | to 2015 | Cwb | n.r. | Steep | Bunds, exclosures | Watershed | O2,O9 | Water table from about 50 m to about 5 m below surface (as cited) | About 45 m (as cited) | 20 yr | n.r. | n.r. | No control | E3 | [TBV] | Yes | Gebregziabher 2016 |
 | ET-TIGRAY-PHOTO | Repeat photos | Ethiopia | 1974-2000s | BSh/Cwb | n.r. | Mixed | Exclosures, bunds | Regional | O3,O6,O7 | Springs improved below exclosures | n.r. | 30 yr | Maintained | n.r. | Woodland reference | E3 | [IC] | Yes | Nyssen et al. |
 | ET-TIGRAY-GULLY | Gully diversion | Ethiopia | Experiment | BSh | n.r. | Hillslope | Diversion | Hillslope | O2,O5,O6 | Percolation up to 850 mm | 850 mm | Seasons | n.r. | n.r. | One site | E3 | [IC] | Yes | Nyssen et al. |
 | ET-TIGRAY-EBA | EBA review | Ethiopia | Lit. | Mixed | Mixed | Mixed | Mixed | Regional | O7,O9,O11 | Water harvesting limited | n.r. | - | n.r. | n.r. | - | Review | [IC] | Yes | Springer review |
@@ -282,4 +282,4 @@ Pair the treated catchment with a control (Bridge Creek against Murderers Creek)
 
 Written on 28 October 2026 under version 0.1 of `wrl-success-evidence-deep-research.md`, as a follow-on to the WRL and fynbos/renosterveld run of 12 October 2026 and the "Clear and Retain" run of 28 October 2026. The research run made 18 web searches and one delegated search on the Slovak program, in English, Slovak, Czech, Spanish and French.
 
-The research tools could not open the wiki corpus pages during the run, so the brief was written without reading the current text or `epistemic_status` of [[concepts/water-retention-landscapes|Water Retention Landscapes]] or the practitioner pages. The CAG and NKÚ audits were read through press reports. Taye et al. (2015) and Puttock et al. (2017) were cited from earlier knowledge and not re-read. Brazil, Mexico, Jordan, the Negev, the Baviaanskloof, keyline and stage-zero restoration sites were not reached. Reviews, audits and official records sit outside the E1 to E5 ladder and are labeled by type. No place-specific material from the Overberg or Ward 2 was used.
+The research tools could not open the wiki corpus pages during the run, so the brief was written without reading the current text or `epistemic_status` of [[concepts/water-retention-landscapes|Water Retention Landscapes]] or the practitioner pages. The CAG and NKÚ audits were read through press reports. Taye et al. (2015) and Puttock et al. (2017) were cited from earlier knowledge and not re-read. Brazil, Mexico, Jordan, the Negev, the Baviaanskloof, keyline and stage-zero restoration sites were not reached. Reviews, audits and official records sit outside the E1 to E5 ladder and are labeled by type. No place-specific material from the Overberg or Ward 2 was used. Revised on 9 November 2026: the Abreha we Atsbeha figure attributed to Gebregziabher et al. (2016) was read here as a rise of about 5 m; the source that cites that paper gives a water table rising from about 50 m to about 5 m below the surface. The text, the table row and the CSV were changed to match, and the row was regraded [TBV] until the IWMI paper is read directly. See [[research/mountain-water-commons|Mountain Water Commons]].

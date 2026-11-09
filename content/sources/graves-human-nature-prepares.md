@@ -1,12 +1,14 @@
 ---
 title: "Human Nature Prepares for a Momentous Leap"
+description: "The paper in which Graves identified the Three Futures (Termination, Technofeudalism, Transcendence, in the BioConomy corpus's nomenclature) and described the transition from First Tier to Second Tier thinking as \"the most difficult."
 author: "Clare W. Graves"
 year: 1974
 type: "journal-article"
 publisher: "The Futurist"
-url: ""
-doi: ""
 tags: ["source", "consciousness", "development", "futures"]
+subject: ["economics", "consciousness", "civilization"]
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Graves, C.W. (1974). "Human Nature Prepares for a Momentous Leap." *The Futurist*, April 1974, pp. 72-87.

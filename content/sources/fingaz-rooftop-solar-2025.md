@@ -7,8 +7,9 @@ type: "article"
 publisher: "The Financial Gazette, 17 September 2025"
 url: "https://fingaz.co.zw/2025/09/17/rooftop-solar-now-at-7-300mw-overtakes-all-eskoms-ipp-capacity/"
 tags: ["source", "electricity", "defensive-spending", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

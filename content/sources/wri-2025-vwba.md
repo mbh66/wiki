@@ -7,8 +7,9 @@ type: "report"
 publisher: "World Resources Institute"
 url: "https://www.wri.org/research/volumetric-water-benefit-accounting-2-0"
 tags: ["source", "water-stewardship", "accounting", "corporate-water"]
+subject: ["water"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Collins, N., Dettmann, M., Gartner, T. et al. (2025). *Volumetric Water Benefit Accounting 2.0.* Washington, DC: World Resources Institute, September 2025.

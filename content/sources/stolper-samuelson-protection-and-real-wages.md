@@ -8,8 +8,9 @@ publisher: "Review of Economic Studies, 9(1), 58–73"
 url: "https://doi.org/10.2307/2967638"
 doi: "10.2307/2967638"
 tags: ["source", "trade", "factor-endowments", "wages"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -8,8 +8,9 @@ publisher: "World Bank, Washington, DC"
 url: "https://documents1.worldbank.org/curated/en/310211570690546749/pdf/World-Development-Report-2020-Trading-for-Development-in-the-Age-of-Global-Value-Chains.pdf"
 doi: "10.1596/978-1-4648-1457-0"
 tags: ["source", "global-value-chains", "trade", "development"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

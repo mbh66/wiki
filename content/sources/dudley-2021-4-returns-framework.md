@@ -7,8 +7,9 @@ type: "report"
 publisher: "Commonland, Wetlands International, Landscape Finance Lab and IUCN Commission on Ecosystem Management"
 url: "https://commonland.com/4-returns-framework/"
 tags: ["source", "landscape-management", "restoration"]
+subject: ["restoration"]
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

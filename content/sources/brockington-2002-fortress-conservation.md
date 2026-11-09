@@ -6,8 +6,9 @@ year: 2002
 type: "book"
 publisher: "James Currey and Indiana University Press"
 tags: ["source", "fortress-conservation", "protected-areas", "tanzania", "political-ecology"]
+subject: ["restoration", "political-ecology"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

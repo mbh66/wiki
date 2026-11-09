@@ -1,5 +1,6 @@
 ---
 title: "Relational Models Theory: Validation and Replication for Four Fundamental Relationships"
+description: "Revisits the Modes of Relationships Questionnaire (MORQ) of Haslam and Fiske (1999), whose original 33 items fit the four-factor model poorly."
 author: "Michael Zakharin and Timothy C. Bates"
 year: 2023
 type: "journal-article"
@@ -7,8 +8,9 @@ publisher: "PLOS ONE"
 url: "https://doi.org/10.1371/journal.pone.0287391"
 doi: "10.1371/journal.pone.0287391"
 tags: ["source", "relational-models", "psychometrics", "measurement"]
+subject: ["economics", "coordination", "consciousness"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Zakharin, M., and Bates, T. C. (2023). "Relational models theory: Validation and replication for four fundamental relationships." *PLOS ONE*, 18(6), e0287391.

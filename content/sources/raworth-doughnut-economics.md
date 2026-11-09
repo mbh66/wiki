@@ -1,14 +1,15 @@
 ---
 title: "Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist"
+description: "Raworth's framework for an economics bounded above by the ecological ceiling (the planetary boundaries beyond which the economy must not push) and below by the social foundation (the minimum standard of living below which no one should fall)."
 author: "Kate Raworth"
 year: 2017
 type: "book"
 publisher: "Random House Business"
 url: "https://www.kateraworth.com/doughnut/"
-doi: ""
 tags: ["source", "regenerative-economics", "planetary-boundaries"]
+subject: ["restoration", "economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

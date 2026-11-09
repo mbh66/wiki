@@ -6,8 +6,9 @@ year: 2016
 type: "book"
 publisher: "Belknap Press of Harvard University Press"
 tags: ["source", "globalization", "global-value-chains", "unbundling"]
+subject: ["economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

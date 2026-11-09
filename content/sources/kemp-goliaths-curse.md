@@ -6,8 +6,9 @@ year: 2025
 type: "book"
 publisher: "Alfred A. Knopf, New York; Viking, London"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

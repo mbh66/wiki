@@ -1,14 +1,14 @@
 ---
 title: "Diagnosing and Changing Organizational Culture: Based on the Competing Values Framework"
+description: "Presents the Competing Values Framework, which sorts organizational cultures on two dimensions (flexibility against stability, internal against external focus) into four types: clan, adhocracy, market and hierarchy."
 author: "Kim S. Cameron and Robert E. Quinn"
 year: 2011
 type: "book"
 publisher: "Jossey-Bass"
-url: ""
-doi: ""
 tags: ["source", "organizational-culture", "competing-values-framework", "measurement"]
+subject: ["economics", "coordination"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Cameron, K. S., and Quinn, R. E. (2011). *Diagnosing and Changing Organizational Culture: Based on the Competing Values Framework* (3rd ed.). Jossey-Bass. First edition 1999.

@@ -1,12 +1,15 @@
 ---
 title: "Tribes, Institutions, Markets, Networks"
+description: "Proposes that human societies evolve through four successive forms of organization: Tribes (kinship-based), Institutions (hierarchical authority), Markets (competitive exchange), and Networks (distributed coordination)."
 author: "David Ronfeldt"
 year: 1996
-type: "monograph"
+type: "working-paper"
 publisher: "RAND Corporation"
 url: "https://www.rand.org/pubs/papers/P7967.html"
-doi: ""
 tags: ["source", "coordination", "civilizational-form", "networks", "political-science"]
+subject: ["coordination", "civilization"]
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution.* RAND Corporation, P-7967.

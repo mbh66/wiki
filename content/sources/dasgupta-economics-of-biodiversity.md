@@ -7,8 +7,9 @@ type: "report"
 publisher: "HM Treasury, London"
 url: "https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review"
 tags: ["source", "natural-capital", "beyond-gdp", "measurement"]
+subject: ["restoration", "economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -8,8 +8,9 @@ publisher: "Historical Methods 44(3), 127 to 129"
 url: "https://doi.org/10.1080/01615440.2011.577733"
 doi: "10.1080/01615440.2011.577733"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "The Age of the Cathedrals: Art and Society, 980-1420"
+description: "Duby's magisterial account of the medieval cathedral-building era."
 author: "Georges Duby"
 year: 1981
 type: "book"
 publisher: "University of Chicago Press (trans. Eleanor Levieux and Barbara Thompson)"
-url: ""
-doi: ""
 tags: ["source", "cathedral", "medieval", "i-form"]
+subject: ["coordination", "civilization"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -6,8 +6,9 @@ year: 1996
 type: "book"
 publisher: "Hurst & Company, London"
 tags: ["source", "political-economy", "minerals", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

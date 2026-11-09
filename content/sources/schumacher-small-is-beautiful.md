@@ -1,14 +1,14 @@
 ---
 title: "Small Is Beautiful: A Study of Economics as if People Mattered"
+description: "Schumacher's foundational text on appropriate scale, intermediate technology, and an economics measured by the flourishing of people and places rather than aggregate throughput."
 author: "E.F. Schumacher"
 year: 1973
 type: "book"
 publisher: "Blond & Briggs"
-url: ""
-doi: ""
 tags: ["source", "bioregional-economics", "appropriate-scale"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

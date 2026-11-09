@@ -8,8 +8,9 @@ publisher: "Data Science Journal, 19(1), 43"
 url: "https://datascience.codata.org/articles/10.5334/dsj-2020-043"
 doi: "10.5334/dsj-2020-043"
 tags: ["source", "data-sovereignty", "indigenous", "data-governance"]
+subject: ["commons", "coordination"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

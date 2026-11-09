@@ -7,8 +7,9 @@ type: "report"
 publisher: "Potsdam Institute for Climate Impact Research, Potsdam, 24 September 2025"
 url: "https://www.pik-potsdam.de/en/news/latest-news/seven-of-nine-planetary-boundaries-now-breached-2013-ocean-acidification-joins-the-danger-zone"
 tags: ["source", "planetary-boundaries", "earth-system", "deceleration"]
+subject: ["restoration", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

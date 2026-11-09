@@ -1,14 +1,15 @@
 ---
 title: "Planetary phase shift as a new systems framework to navigate the evolutionary transformation of human civilization"
+description: "Peer-reviewed synthesis integrating Holling's adaptive cycle with phase transition theory across the five foundational sectors of civilization's production system (energy, transport, food, information, materials)."
 author: "Nafeez M. Ahmed"
 year: 2025
-type: "paper"
+type: "journal-article"
 publisher: "Foresight, 27(2), 240-266"
-url: ""
 doi: "10.1108/FS-02-2024-0025"
 tags: ["source", "ahmed", "systems-analysis", "civilizational-transition"]
+subject: ["coordination", "civilization"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -7,8 +7,9 @@ type: "report"
 publisher: "International Cooperative Alliance, press release, 3 November 2025"
 url: "https://ica.coop/sites/default/files/2025-11/pr_world_cooperative_monitor_en.pdf"
 tags: ["source", "cooperatives", "governance", "place-based-economy"]
+subject: ["economics", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

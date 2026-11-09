@@ -7,8 +7,9 @@ type: "essay"
 publisher: "Dr. Dobb's Journal, March 1985"
 url: "https://www.gnu.org/gnu/manifesto.en.html"
 tags: ["source", "free-software", "peer-production", "commons"]
+subject: ["commons", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

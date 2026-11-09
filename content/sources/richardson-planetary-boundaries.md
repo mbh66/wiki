@@ -1,14 +1,16 @@
 ---
 title: "Earth beyond six of nine planetary boundaries"
+description: "The 2023 update to the planetary boundaries framework originally proposed by Rockström and colleagues in 2009 and extended by Steffen et al. in 2015."
 author: "Katherine Richardson, Will Steffen, Wolfgang Lucht, Jørgen Bendtsen, Sarah E. Cornell, Jonathan F. Donges, Markus Drüke, Ingo Fetzer, Govindasamy Bala, Werner von Bloh, Georg Feulner, Stephanie Fiedler, Dieter Gerten, Tom Gleeson, Matthias Hofmann, Willem Huiskamp, Matti Kummu, Chinchu Mohan, David Nogués-Bravo, Stefan Petri, Miina Porkka, Stefan Rahmstorf, Sibyll Schaphoff, Kirsten Thonicke, Arne Tobian, Vili Virkki, Lan Wang-Erlandsson, Lisa Weber, Johan Rockström"
 year: 2023
-type: "peer-reviewed-article"
+type: "journal-article"
 publisher: "Science Advances"
 url: "https://www.science.org/doi/10.1126/sciadv.adh2458"
 doi: "10.1126/sciadv.adh2458"
 tags: ["source", "planetary-boundaries", "earth-system", "deceleration"]
+subject: ["restoration", "civilization"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

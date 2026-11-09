@@ -7,8 +7,9 @@ type: "report"
 publisher: "World Bank, Washington"
 url: "https://www.worldbank.org/en/publication/the-changing-wealth-of-nations"
 tags: ["source", "natural-capital", "wealth-accounts", "measurement"]
+subject: ["restoration", "economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

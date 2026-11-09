@@ -6,10 +6,10 @@ year: 2018
 type: "report"
 publisher: "The Nature Conservancy / City of Cape Town"
 url: "https://www.nature.org/en-us/about-us/where-we-work/africa/stories-in-africa/new-tool-validates-cape-town-water-fund/"
-doi: ""
 tags: ["source", "water-fund", "cape-town", "restoration-economics"]
+subject: ["water", "restoration"]
 created: 2026-08-25
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

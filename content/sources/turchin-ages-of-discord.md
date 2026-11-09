@@ -1,14 +1,14 @@
 ---
 title: "Ages of Discord: A Structural-Demographic Analysis of American History"
+description: "Full-length application of structural-demographic theory to American history."
 author: "Peter Turchin"
 year: 2016
 type: "book"
 publisher: "Beresta Books"
-url: ""
-doi: ""
 tags: ["source", "turchin", "structural-demographic-theory", "us-history"]
+subject: ["civilization"]
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

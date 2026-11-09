@@ -1,14 +1,15 @@
 ---
 title: "Grassroots Economics: Reflection and Practice"
+description: "The book-length treatment of the Commitment Pooling Protocol and Ruddick's fifteen years of field practice, from Eco-Pesa in Mombasa (2010) through the Sarafu Network (2013 to 2023) to the current commitment pool phase (July 2023 onward)."
 author: "Will O. Ruddick"
 year: 2025
 type: "book"
 publisher: "Grassroots Economics Foundation"
 url: "https://grassrootseconomics.org/book/"
-doi: ""
 tags: ["source", "commitment-pooling", "grassroots-economics"]
+subject: ["money"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

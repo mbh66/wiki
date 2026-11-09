@@ -7,8 +7,9 @@ type: "journal-article"
 publisher: "S.A.P.I.EN.S, 7(2)"
 url: "https://journals.openedition.org/sapiens/1542"
 tags: ["source", "landscape-restoration", "governance", "tenure", "tanzania"]
+subject: ["commons", "restoration", "coordination"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "Isikhova & Ironwood"
 ---
 

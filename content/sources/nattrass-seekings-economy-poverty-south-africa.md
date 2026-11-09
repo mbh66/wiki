@@ -7,8 +7,9 @@ type: "working-paper"
 publisher: "Centre for Social Science Research, University of Cape Town, CSSR Working Paper No. 276, July 2010"
 url: "https://open.uct.ac.za/server/api/core/bitstreams/24c1a6ac-4fcd-4dc7-b2b5-645e6cce5486/content"
 tags: ["source", "economic-history", "poverty", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -8,8 +8,9 @@ publisher: "Journal of Peasant Studies 39(2): 237–261"
 url: "https://doi.org/10.1080/03066150.2012.671770"
 doi: "10.1080/03066150.2012.671770"
 tags: ["source", "green-grabbing", "land", "political-ecology"]
+subject: ["commons", "political-ecology"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

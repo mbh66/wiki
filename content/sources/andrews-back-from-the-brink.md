@@ -1,14 +1,14 @@
 ---
 title: "Back from the Brink: How Australia's Landscape Can Be Saved"
+description: "Andrews's book-length account of the Natural Sequence Farming method: a landscape rehydration approach based on restoring natural floodplain function using leaky weirs and strategic planting to slow water flow through degraded landscapes."
 author: "Peter Andrews"
 year: 2006
 type: "book"
 publisher: "ABC Books"
-url: ""
-doi: ""
 tags: ["source", "natural-sequence-farming", "water-retention-landscapes"]
+subject: ["water", "restoration"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

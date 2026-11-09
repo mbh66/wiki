@@ -8,8 +8,9 @@ publisher: "Ecosystem Services 17: 217–236"
 url: "https://doi.org/10.1016/j.ecoser.2015.12.006"
 doi: "10.1016/j.ecoser.2015.12.006"
 tags: ["source", "water-funds", "governance", "latin-america", "payment-for-ecosystem-services"]
+subject: ["water", "finance", "coordination"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -7,8 +7,9 @@ type: "article"
 publisher: "World Bank"
 url: "https://www.worldbank.org/en/news/press-release/2026/04/23/world-bank-prices-14-year-spekboom-restoration-outcome-bond-in-south-africa"
 tags: ["source", "outcome-bond", "restoration-finance"]
+subject: ["finance"]
 created: 2026-10-14
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 

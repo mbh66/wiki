@@ -6,8 +6,9 @@ year: 2024
 type: "article"
 publisher: "The Leading Edge (Substack newsletter), 10 November 2024"
 tags: ["source", "consciousness", "integration", "complexity"]
+subject: ["coordination", "consciousness"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

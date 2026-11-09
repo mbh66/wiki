@@ -7,8 +7,9 @@ type: "article"
 publisher: "US Department of Health and Human Services, press release, 29 January 2026"
 url: "https://www.cdc.gov/nchs/pressroom/releases/20260129.html"
 tags: ["source", "health", "mortality", "united-states"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

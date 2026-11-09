@@ -6,8 +6,9 @@ year: 2007
 type: "working-paper"
 publisher: "Chronic Poverty Research Centre, Working Paper 81"
 tags: ["source", "adverse-inclusion", "poverty", "exclusion"]
+subject: ["political-ecology", "economics"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

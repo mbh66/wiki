@@ -6,8 +6,9 @@ year: 1962
 type: "book"
 publisher: "Belknap Press of Harvard University Press"
 tags: ["source", "economic-history", "stage-theory", "development"]
+subject: ["economics", "consciousness"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

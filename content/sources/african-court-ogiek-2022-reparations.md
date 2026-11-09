@@ -7,8 +7,9 @@ type: "report"
 publisher: "African Court on Human and Peoples' Rights, Application No. 006/2012, judgment of 23 June 2022"
 url: "https://indigenous.arizona.edu/sites/default/files/2023-08/%28ACHPR%29%20V.%20Kenya.pdf"
 tags: ["source", "legal-record", "conservation-violence", "indigenous-rights", "kenya", "reparations"]
+subject: ["commons", "political-ecology"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

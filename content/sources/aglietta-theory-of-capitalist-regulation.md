@@ -6,8 +6,9 @@ year: 1979
 type: "book"
 publisher: "New Left Books. Translated from Régulation et crises du capitalisme (1976)"
 tags: ["source", "regulation-school", "fordism", "periodization"]
+subject: ["economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

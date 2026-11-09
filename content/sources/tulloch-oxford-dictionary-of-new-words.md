@@ -6,8 +6,9 @@ year: 1991
 type: "book"
 publisher: "Oxford University Press"
 tags: ["source", "glocalization", "etymology"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -7,8 +7,9 @@ type: "article"
 publisher: "Eskom Holdings, media statement, 23 August 2024"
 url: "https://www.eskom.co.za/loadshedding-suspension-continues-149-days-of-constant-energy-supply-and-r10-60-billion-reduction-in-diesel-expenditure-achieved/"
 tags: ["source", "electricity", "load-shedding", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

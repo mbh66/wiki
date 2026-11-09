@@ -1,14 +1,16 @@
 ---
 title: "Commitment Pooling: An Economic Protocol Inspired by Ancestral Wisdom"
+description: "The formal paper introducing the Commitment Pooling Protocol."
 author: "Will O. Ruddick"
 year: 2023
-type: "paper"
+type: "journal-article"
 publisher: "International Journal of Community Currency Research 27, 54-79"
 url: "https://grassrootseconomics.org/research/"
 doi: "10.15133/j.ijccr.2023.004"
 tags: ["source", "commitment-pooling", "grassroots-economics"]
+subject: ["money"]
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

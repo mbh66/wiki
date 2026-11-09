@@ -7,8 +7,9 @@ type: "paper"
 publisher: "IAHS Scientific Assembly 2017, abstract IAHS2017-322"
 url: "https://meetingorganizer.copernicus.org/IAHS2017/IAHS2017-322.pdf"
 tags: ["source", "wetlands", "baseflow", "fynbos", "hydrology"]
+subject: ["water", "restoration"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Tanner, J., Smith, C., Ellery, F. and Hughes, D. (2017). "Determining the hydrological functioning of the endemic Palmiet wetlands in the Eastern Cape of South Africa." IAHS Scientific Assembly, abstract IAHS2017-322. Related research record: [Rhodes University repository](https://researchrepository.ru.ac.za/handle/123456789/8001).

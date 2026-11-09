@@ -7,8 +7,9 @@ type: "article"
 publisher: "IOL Business Report, 24 February 2022"
 url: "https://iol.co.za/business-report/budget/2022-02-24-sasria-gets-r22bn-shot-in-the-arm-after-civil-unrest-bought-the-insurer-to-its-knees/"
 tags: ["source", "disasters", "insurance", "south-africa"]
+subject: ["finance", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

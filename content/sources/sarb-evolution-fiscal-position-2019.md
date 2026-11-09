@@ -7,8 +7,9 @@ type: "report"
 publisher: "South African Reserve Bank, Quarterly Bulletin, box, 2019"
 url: "https://www.resbank.co.za/content/dam/sarb/publications/quarterly-bulletins/boxes/2019/9370/03Observations-on-the-evolution-of-South-Africa-s-fiscal-position.pdf"
 tags: ["source", "public-debt", "fiscal", "south-africa"]
+subject: ["finance"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -7,8 +7,9 @@ type: "report"
 publisher: "National Treasury, Republic of South Africa, Pretoria"
 url: "https://archive.treasury.gov.za/documents/National%20Budget/2026/review/Chapter%207.pdf"
 tags: ["source", "public-debt", "fiscal", "south-africa"]
+subject: ["finance"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

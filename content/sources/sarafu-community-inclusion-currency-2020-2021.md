@@ -1,16 +1,18 @@
 ---
-title: Sarafu Community Inclusion Currency 2020–2021
-aliases: [Sarafu, Grassroots Economics, Mattsson Criscione Ruddick 2022]
-tags: [source, scholarly-article, community-inclusion-currency, complementary-currency, kenya, empirical]
-type: article
-authors: [Carolina E. S. Mattsson, Teodoro Criscione, William O. Ruddick]
+title: "Sarafu Community Inclusion Currency 2020-2021"
+description: "Sarafu is the collective name for the community currencies managed by the Grassroots Economics Foundation, founded by Will Ruddick."
+author: "Carolina E. S. Mattsson, Teodoro Criscione, William O. Ruddick"
 year: 2022
-publisher: Nature (Scientific Data)
-doi: 10.1038/s41597-022-01539-4
+type: "journal-article"
+publisher: "Scientific Data (Nature)"
+doi: "10.1038/s41597-022-01539-4"
+url: "https://doi.org/10.1038/s41597-022-01539-4"
+aliases: ["Sarafu", "Grassroots Economics", "Mattsson Criscione Ruddick 2022"]
+tags: ["source", "scholarly-article", "community-inclusion-currency", "complementary-currency", "kenya", "empirical"]
+subject: ["money"]
 created: 2026-09-18
-updated: 2026-09-18
-source_project: BioConomy Full
-epistemic_status: documented-fact
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Mattsson, Criscione, and Ruddick document the transaction records of the Sarafu Community Inclusion Currency in Kenya over the eighteen months from January 2020 to June 2021. The paper describes and publishes a dataset of pseudonymized account information for approximately 55,000 users and every Sarafu transaction over that period, totaling roughly 300 million units of the currency. The dataset supplies the corpus with its most substantial empirical evidence that a Community Inclusion Currency can operate at population scale, in marginalized and food-insecure areas, over a period spanning economic shock and pandemic.

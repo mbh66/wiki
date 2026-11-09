@@ -8,8 +8,9 @@ publisher: "Journal of Philosophy of Education, 58(5), 599-605"
 url: "https://academic.oup.com/jope/article/58/5/599/7821073"
 doi: "10.1093/jopedu/qhae072"
 tags: ["source", "bildung", "place", "philosophy-of-education"]
+subject: ["consciousness"]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

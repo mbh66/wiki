@@ -7,8 +7,9 @@ type: "journal-article"
 publisher: "Agricultural Water Management 98(4), 715-730"
 url: "https://ideas.repec.org/a/eee/agiwat/v98y2011i4p715-730.html"
 tags: ["source", "rainwater-harvesting", "groundwater", "streamflow", "india"]
+subject: ["water"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Glendenning, C.J. and Vervoort, R.W. (2011). "Hydrological impacts of rainwater harvesting (RWH) in a case study catchment: The Arvari River, Rajasthan, India. Part 2: Catchment-scale impacts." *Agricultural Water Management*, 98(4), 715-730.

@@ -1,14 +1,14 @@
 ---
 title: "Form Follows Finance: Skyscrapers and Skylines in New York and Chicago"
+description: "Willis's argument that skyscraper form is driven by land values, zoning, and speculative real-estate cycles, and not by pure architectural intent."
 author: "Carol Willis"
 year: 1995
 type: "book"
 publisher: "Princeton Architectural Press"
-url: ""
-doi: ""
 tags: ["source", "skyscraper", "urban-form", "m-form"]
+subject: ["finance", "economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

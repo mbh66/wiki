@@ -8,8 +8,9 @@ publisher: "International Monetary Fund, Staff Discussion Note SDN/2023/001"
 url: "https://www.elibrary.imf.org/view/journals/006/2023/001/article-A001-en.xml"
 doi: "10.5089/9798400229046.006"
 tags: ["source", "trade", "fragmentation", "imf"]
+subject: ["finance", "economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

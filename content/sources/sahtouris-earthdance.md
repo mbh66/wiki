@@ -1,17 +1,20 @@
 ---
 title: EarthDance
+description: "Biologist and evolution theorist argues that the trajectory of biological evolution moves from hostile competition (young ecosystems) to cooperative negotiation (mature ecosystems)."
 author: Elisabet Sahtouris
 year: 2000
 type: book
 publisher: iUniversity Press
 url: https://www.amazon.com/dp/0595130674
-doi: ""
 tags:
   - source
   - biology
   - evolution
   - cooperation
   - systems
+subject: ["consciousness"]
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Sahtouris, E. (2000). *EarthDance: Living Systems in Evolution.* iUniversity Press. ISBN: 978-0-595-13067-3.

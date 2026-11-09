@@ -1,14 +1,14 @@
 ---
 title: "Eco-Pesa: An Evaluation of a Complementary Currency Programme in Kenya's Informal Settlements"
+description: "Ruddick's first published evaluation of an ecological earn-and-spend community currency, launched in three informal settlements in Kongowea (Kisumu Ndogo, Shauri Yako, Mnazi Mmoja) in partnership with the Green World Campaign."
 author: "William O. Ruddick"
 year: 2011
 type: "paper"
 publisher: "International Journal of Community Currency Research, 15(A), 1-12"
-url: ""
-doi: ""
 tags: ["source", "ruddick", "eco-pesa", "community-currency", "ecological-earn-and-spend"]
+subject: ["money"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

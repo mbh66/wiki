@@ -6,8 +6,9 @@ year: 1994
 type: "book"
 publisher: "Verso, London (2nd ed. 2010)"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

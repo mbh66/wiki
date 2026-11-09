@@ -8,8 +8,9 @@ publisher: "Cambridge University Press"
 url: "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5"
 doi: "10.1017/CBO9780511807763"
 tags: ["source", "commons", "governance", "polycentricity"]
+subject: ["commons", "coordination"]
 created: 2026-08-25
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

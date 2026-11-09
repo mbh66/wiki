@@ -7,8 +7,9 @@ type: "dataset"
 publisher: "World Bank, Washington, database updated 8 October 2026"
 url: "https://api.worldbank.org/v2/country/USA;GBR;FRA;DEU;ITA;JPN;CAN;AUS;WLD;OED/indicator/NY.GDP.PCAP.KD?date=2008:2025&format=json&per_page=500"
 tags: ["source", "data", "gdp", "national-accounts"]
+subject: ["economics", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Laboral Kutxa: The Governance of a Multistakeholder Credit Cooperative in the Mondragón Cooperative Experience"
+description: "The definitive current case study of Laboral Kutxa, the credit cooperative that grew from the Caja Laboral Popular founded by Arizmendiarrieta in 1959."
 author: "Olatz Imaz Alias and Jon Emaldi Abasolo"
 year: 2023
-type: "case-study"
+type: "report"
 publisher: "International Centre for Cooperative Management, Case Study 2023-02"
-url: ""
-doi: ""
 tags: ["source", "mondragon", "cooperatives", "cooperative-bank"]
+subject: ["finance", "coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,15 @@
 ---
 title: "Green Gold (documentary)"
+description: "Liu's documentary account of the restoration of the Loess Plateau in China, one of the largest landscape restoration projects in history."
 author: "John D. Liu"
 year: 2012
-type: "documentary"
+type: "video"
 publisher: "VPRO / Ecosystem Restoration Camps"
 url: "https://ecosystemrestorationcamps.org/"
-doi: ""
 tags: ["source", "loess-plateau", "restoration", "water-retention-landscapes"]
+subject: ["water", "restoration"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

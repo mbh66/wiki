@@ -7,8 +7,9 @@ type: "essay"
 publisher: "Deepcode, 21 October 2026"
 url: "https://deepcode.substack.com/p/the-primacy-of-the-miraculous"
 tags: ["source", "philosophy", "epistemology", "measurement"]
+subject: ["economics", "consciousness"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

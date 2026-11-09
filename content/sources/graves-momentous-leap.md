@@ -1,14 +1,14 @@
 ---
 title: "Human Nature Prepares for a Momentous Leap"
+description: "The paper in which Clare Graves identified three possible outcomes for human civilization (regression, fixation, and the Momentous Leap itself) and described the transition from First Tier to Second Tier thinking as the most significant threshold in human psychological."
 author: "Clare W. Graves"
 year: 1974
 type: "paper"
 publisher: "The Futurist, April 1974, 72-87"
-url: ""
-doi: ""
 tags: ["source", "graves", "consciousness", "three-futures"]
+subject: ["consciousness", "civilization"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

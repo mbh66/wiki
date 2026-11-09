@@ -7,8 +7,9 @@ type: "journal-article"
 publisher: "Journal of Economic Issues 23(3), 843–856"
 url: "https://ideas.repec.org/a/mes/jeciss/v23y1989i3p843-856.html"
 tags: ["source", "defensive-expenditure", "beyond-gdp", "measurement"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

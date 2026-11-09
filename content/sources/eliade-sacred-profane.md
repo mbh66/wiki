@@ -1,14 +1,14 @@
 ---
 title: "The Sacred and the Profane: The Nature of Religion"
+description: "Eliade's classic phenomenological account of how the sacred breaks into profane space to consecrate a fixed point around which community life organizes."
 author: "Mircea Eliade"
 year: 1957
 type: "book"
 publisher: "Harcourt, Brace & World (English edition, trans. Willard R. Trask)"
-url: ""
-doi: ""
 tags: ["source", "religion", "sacred-space", "t-form"]
+subject: ["coordination", "consciousness"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

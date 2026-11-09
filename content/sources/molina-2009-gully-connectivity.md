@@ -7,8 +7,9 @@ type: "journal-article"
 publisher: "Hydrology and Earth System Sciences 13(10), 1823-1836"
 url: "https://hess.copernicus.org/articles/13/1823/2009/"
 tags: ["source", "gullies", "infiltration", "restoration", "hydrology"]
+subject: ["water", "restoration"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Molina, A., Govers, G., Van den Putte, A., Poesen, J. and Vanacker, V. (2009). "Assessing the reduction of the hydrological connectivity of gully systems through vegetation restoration: field experiments and numerical modelling." *Hydrology and Earth System Sciences*, 13(10), 1823-1836.

@@ -7,8 +7,9 @@ type: "journal-article"
 publisher: "Nature Sustainability 2(7), 584-593"
 url: "https://doi.org/10.1038/s41893-019-0307-1"
 tags: ["source", "water-retention", "infiltration", "baseflow", "andes", "peru"]
+subject: ["water"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Ochoa-Tocachi, B.F., Bardales, J.D., Antiporta, J., Pérez, K., Acosta, L., Mao, F., Zulkafli, Z., Gil-Ríos, J., Angulo, O., Grainger, S., Gammie, G., De Bièvre, B. and Buytaert, W. (2019). "Potential contributions of pre-Inca infiltration infrastructure to Andean water security." *Nature Sustainability*, 2(7), 584-593. https://doi.org/10.1038/s41893-019-0307-1

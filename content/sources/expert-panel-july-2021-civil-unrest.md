@@ -7,8 +7,9 @@ type: "report"
 publisher: "The Presidency, Pretoria; dated 29 November 2021, released 7 February 2022"
 url: "https://thepresidency.gov.za/sites/default/files/2022-05/Report%20of%20the%20Expert%20Panel%20into%20the%20July%202021%20Civil%20Unrest.pdf"
 tags: ["source", "disasters", "governance", "south-africa"]
+subject: ["coordination", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

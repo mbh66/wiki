@@ -7,8 +7,9 @@ type: "essay"
 publisher: "In G. Charnock and G. Starosta (eds.), The New International Division of Labour: Global Transformation and Uneven Development, Palgrave Macmillan"
 url: "https://cicpint.org/wp-content/uploads/2017/04/Starosta_Revisiting-NIDL-thesis.pdf"
 tags: ["source", "globalization", "division-of-labor"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

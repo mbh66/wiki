@@ -1,0 +1,421 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("case")
+    - contains(briefs, "mountain-water-commons")
+    - draft != true
+formulas:
+  case: file.asLink(title)
+properties:
+  formula.case:
+    displayName: Case
+  formula.evidence:
+    displayName: Evidence (water / community)
+  continent:
+    displayName: Continent
+  mountain_region:
+    displayName: Mountain region
+  country:
+    displayName: Country
+  subnational:
+    displayName: Region
+  mountain_system:
+    displayName: Mountain system
+  koppen:
+    displayName: Köppen
+  climate_group:
+    displayName: Climate group
+  rainfall:
+    displayName: Rainfall
+  period:
+    displayName: Period
+  lineage_type:
+    displayName: Lineage
+  assets:
+    displayName: Assets
+  names_retention_function:
+    displayName: Names retention function
+  coordination:
+    displayName: Coordination
+  tenure_type:
+    displayName: Tenure
+  value_flow:
+    displayName: Value flow
+  beyond_market:
+    displayName: Beyond-market markers
+  water_outcome:
+    displayName: Water outcome
+  community_outcome:
+    displayName: Community outcome
+  persistence:
+    displayName: Persistence
+  capture_or_harm:
+    displayName: Capture or harm
+  evidence_water:
+    displayName: Water evidence
+  evidence_community:
+    displayName: Community evidence
+  grade:
+    displayName: Grade
+  independent:
+    displayName: Independent
+  briefs:
+    displayName: Briefs
+  sources_short:
+    displayName: Sources
+  last_checked:
+    displayName: Last checked
+views:
+  - type: table
+    name: All cases
+    groupBy:
+      property: mountain_region
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - mountain_system
+      - lineage_type
+      - beyond_market
+      - evidence_water
+      - evidence_community
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By continent
+    groupBy:
+      property: continent
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - mountain_system
+      - lineage_type
+      - beyond_market
+      - evidence_water
+      - evidence_community
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By mountain region
+    groupBy:
+      property: mountain_region
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - mountain_system
+      - lineage_type
+      - beyond_market
+      - evidence_water
+      - evidence_community
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By country
+    groupBy:
+      property: country
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - subnational
+      - mountain_system
+      - koppen
+      - rainfall
+      - lineage_type
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By mountain system
+    groupBy:
+      property: mountain_system
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - subnational
+      - mountain_system
+      - koppen
+      - rainfall
+      - lineage_type
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By climate
+    groupBy:
+      property: climate_group
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - subnational
+      - mountain_system
+      - koppen
+      - rainfall
+      - lineage_type
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Mediterranean climates
+    filters:
+      and:
+        - climate_group == "mediterranean"
+    order:
+      - formula.case
+      - country
+      - subnational
+      - mountain_system
+      - koppen
+      - rainfall
+      - lineage_type
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Arid and semi-arid
+    filters:
+      and:
+        - climate_group == "arid"
+    order:
+      - formula.case
+      - country
+      - subnational
+      - mountain_system
+      - koppen
+      - rainfall
+      - lineage_type
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Names the retention function
+    filters:
+      and:
+        - names_retention_function == true
+    groupBy:
+      property: mountain_region
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - mountain_system
+      - lineage_type
+      - beyond_market
+      - evidence_water
+      - evidence_community
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Community holds rules and money
+    filters:
+      and:
+        - contains(beyond_market, "B2")
+        - or:
+            - contains(beyond_market, "B4")
+            - contains(beyond_market, "B8")
+    order:
+      - formula.case
+      - country
+      - tenure_type
+      - value_flow
+      - beyond_market
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Reciprocal with downstream users
+    filters:
+      and:
+        - contains(beyond_market, "B3")
+    order:
+      - formula.case
+      - country
+      - tenure_type
+      - value_flow
+      - beyond_market
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Contracted water providers
+    filters:
+      and:
+        - contains(beyond_market, "B7")
+    order:
+      - formula.case
+      - country
+      - tenure_type
+      - value_flow
+      - beyond_market
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Legal personhood
+    filters:
+      and:
+        - contains(beyond_market, "B5")
+    order:
+      - formula.case
+      - country
+      - tenure_type
+      - value_flow
+      - beyond_market
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By tenure
+    groupBy:
+      property: tenure_type
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - tenure_type
+      - value_flow
+      - beyond_market
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By lineage
+    groupBy:
+      property: lineage_type
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - mountain_system
+      - lineage_type
+      - beyond_market
+      - evidence_water
+      - evidence_community
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: ABCD lineage
+    filters:
+      or:
+        - lineage_type == "abcd-by-name"
+        - lineage_type == "abcd-framed"
+    order:
+      - formula.case
+      - country
+      - mountain_system
+      - lineage_type
+      - beyond_market
+      - evidence_water
+      - evidence_community
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Measured water evidence
+    filters:
+      or:
+        - evidence_water == "E1"
+        - evidence_water == "E2"
+        - evidence_water == "E3"
+    order:
+      - formula.case
+      - country
+      - water_outcome
+      - evidence_water
+      - community_outcome
+      - evidence_community
+      - grade
+      - independent
+    sort:
+      - property: evidence_water
+        direction: ASC
+  - type: table
+    name: Failures and captures
+    filters:
+      and:
+        - failure_or_capture == true
+    groupBy:
+      property: mountain_region
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - lineage_type
+      - tenure_type
+      - capture_or_harm
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Independent evidence
+    filters:
+      and:
+        - independent == "yes"
+    order:
+      - formula.case
+      - country
+      - water_outcome
+      - evidence_water
+      - community_outcome
+      - evidence_community
+      - grade
+      - independent
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Full coding
+    order:
+      - formula.case
+      - country
+      - mountain_system
+      - period
+      - lineage_type
+      - assets
+      - coordination
+      - tenure_type
+      - value_flow
+      - beyond_market
+      - water_outcome
+      - community_outcome
+      - persistence
+      - capture_or_harm
+      - evidence_water
+      - evidence_community
+      - grade
+      - independent
+    sort:
+      - property: title
+        direction: ASC

@@ -1,14 +1,15 @@
 ---
 title: "An Introduction to Bioregional Economics (Part I): Design Principles of a Bioregional Economy"
+description: "The fullest current specification of bioregional economics as a discipline."
 author: "Benjamin Life"
 year: 2026
 type: "essay"
 publisher: "Substack (omniharmonic)"
 url: "https://omniharmonic.substack.com/p/an-introduction-to-bioregional-economics"
-doi: ""
 tags: ["source", "bioregional-economics", "regenerative-economics"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

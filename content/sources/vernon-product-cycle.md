@@ -8,8 +8,9 @@ publisher: "Quarterly Journal of Economics, 80(2), 190–207"
 url: "https://doi.org/10.2307/1880689"
 doi: "10.2307/1880689"
 tags: ["source", "trade", "product-life-cycle", "location-theory"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

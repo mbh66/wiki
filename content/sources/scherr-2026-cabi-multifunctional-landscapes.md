@@ -3,13 +3,14 @@ title: "A home for integrated landscape research and practice: introducing CABI 
 description: "The launch editorial of CABI Multifunctional Landscapes, an open-access journal for integrated landscape research and practice published with 1000 Landscapes for 1 Billion People."
 author: "Sara J. Scherr, Bemmy Granados, James Reed, Mirjam Ros-Tonen, Terry Sunderland"
 year: 2026
-type: "article"
+type: "journal-article"
 publisher: "CABI Multifunctional Landscapes, 1(1)"
 url: "https://doi.org/10.1079/cabimfl.2026.0001"
 doi: "10.1079/cabimfl.2026.0001"
 tags: ["source", "landscape-management", "journal"]
+subject: ["restoration"]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

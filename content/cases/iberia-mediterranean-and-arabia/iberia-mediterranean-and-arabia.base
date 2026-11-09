@@ -1,0 +1,132 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("case")
+    - mountain_region == "Iberia, Mediterranean and Arabia"
+    - draft != true
+formulas:
+  case: file.asLink(title)
+properties:
+  formula.case:
+    displayName: Case
+  formula.evidence:
+    displayName: Evidence (water / community)
+  continent:
+    displayName: Continent
+  mountain_region:
+    displayName: Mountain region
+  country:
+    displayName: Country
+  subnational:
+    displayName: Region
+  mountain_system:
+    displayName: Mountain system
+  koppen:
+    displayName: Köppen
+  climate_group:
+    displayName: Climate group
+  rainfall:
+    displayName: Rainfall
+  period:
+    displayName: Period
+  lineage_type:
+    displayName: Lineage
+  assets:
+    displayName: Assets
+  names_retention_function:
+    displayName: Names retention function
+  coordination:
+    displayName: Coordination
+  tenure_type:
+    displayName: Tenure
+  value_flow:
+    displayName: Value flow
+  beyond_market:
+    displayName: Beyond-market markers
+  water_outcome:
+    displayName: Water outcome
+  community_outcome:
+    displayName: Community outcome
+  persistence:
+    displayName: Persistence
+  capture_or_harm:
+    displayName: Capture or harm
+  evidence_water:
+    displayName: Water evidence
+  evidence_community:
+    displayName: Community evidence
+  grade:
+    displayName: Grade
+  independent:
+    displayName: Independent
+  briefs:
+    displayName: Briefs
+  sources_short:
+    displayName: Sources
+  last_checked:
+    displayName: Last checked
+views:
+  - type: table
+    name: Cases
+    order:
+      - formula.case
+      - country
+      - mountain_system
+      - lineage_type
+      - tenure_type
+      - beyond_market
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Value and governance
+    order:
+      - formula.case
+      - coordination
+      - tenure_type
+      - value_flow
+      - beyond_market
+      - persistence
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Outcomes and evidence
+    order:
+      - formula.case
+      - water_outcome
+      - evidence_water
+      - community_outcome
+      - evidence_community
+      - grade
+      - independent
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Failures and captures
+    filters:
+      and:
+        - failure_or_capture == true
+    order:
+      - formula.case
+      - capture_or_harm
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Awaiting enrichment
+    filters:
+      and:
+        - grade == "[TBV]"
+    order:
+      - formula.case
+      - country
+      - sources_short
+      - last_checked
+    sort:
+      - property: title
+        direction: ASC

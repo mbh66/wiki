@@ -7,8 +7,9 @@ type: "report"
 publisher: "United Nations Conference on Trade and Development, Geneva, January 2026"
 url: "https://unctad.org/system/files/official-document/diaeiainf2026d1_en.pdf"
 tags: ["source", "fdi", "investment", "statistics"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

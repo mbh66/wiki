@@ -1,5 +1,6 @@
 ---
 title: "The Collapse of Complex Societies"
+description: "Tainter's argument that societies solve easy problems first, so each added increment of sociopolitical complexity yields declining marginal returns while costing more energy to sustain; once marginal returns turn negative, collapse becomes a rational response."
 author: "Joseph A. Tainter"
 year: 1988
 type: "book"
@@ -7,8 +8,9 @@ publisher: "Cambridge University Press"
 url: "https://www.cambridge.org/core/books/collapse-of-complex-societies/85D9A1BD3F5D8D9A82D74FE5F84A8E5B"
 doi: "10.1017/CBO9780511621344"
 tags: ["source", "collapse", "complexity", "energy"]
+subject: ["economics", "coordination"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

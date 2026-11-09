@@ -8,8 +8,9 @@ publisher: "Quarterly Journal of Economics, 72(2), 259–272"
 url: "https://doi.org/10.2307/1880599"
 doi: "10.2307/1880599"
 tags: ["source", "economic-geography", "location-theory"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

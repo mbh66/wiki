@@ -1,14 +1,14 @@
 ---
 title: "Community Currencies as Crisis Response: Results from a Randomized Control Trial in Kenya"
+description: "Possibly the first randomized control trial on community currencies."
 author: "Zaira Mqamelo"
 year: 2022
 type: "paper"
 publisher: "Frontiers in Blockchain, 5"
-url: ""
-doi: ""
 tags: ["source", "mqamelo", "community-currency", "rct", "sarafu"]
+subject: ["money", "economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -7,8 +7,9 @@ type: "report"
 publisher: "Wellbeing Research Centre, University of Oxford, with Gallup and the UN Sustainable Development Solutions Network"
 url: "https://www.worldhappiness.report/ed/2026/international-evidence-on-happiness-and-social-media/"
 tags: ["source", "wellbeing", "life-evaluation", "youth"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

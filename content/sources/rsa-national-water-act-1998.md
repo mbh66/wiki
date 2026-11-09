@@ -1,14 +1,15 @@
 ---
 title: "National Water Act 36 of 1998"
+description: "South Africa's post-apartheid water statute, and one of the most structurally advanced pieces of national water legislation drafted anywhere."
 author: "Republic of South Africa"
 year: 1998
 type: "statute"
 publisher: "Government of South Africa"
 url: "https://www.gov.za/documents/national-water-act"
-doi: ""
 tags: ["source", "legislation", "water-law", "south-africa", "ecological-reserve"]
+subject: ["water", "coordination"]
 created: 2026-09-06
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

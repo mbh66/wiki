@@ -6,8 +6,9 @@ year: 1918
 type: "book"
 publisher: "Trans. C. F. Atkinson, Alfred A. Knopf, New York (1926 to 1928)"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

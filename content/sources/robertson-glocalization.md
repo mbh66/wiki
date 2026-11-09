@@ -6,8 +6,9 @@ year: 1995
 type: "essay"
 publisher: "In M. Featherstone, S. Lash and R. Robertson (eds.), Global Modernities, SAGE, pp. 25–44"
 tags: ["source", "glocalization", "globalization"]
+subject: ["economics"]
 created: 2026-11-07
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

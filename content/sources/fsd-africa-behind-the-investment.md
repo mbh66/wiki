@@ -7,8 +7,9 @@ type: "article"
 publisher: "FSD Africa"
 url: "https://fsdafrica.org/behind-the-investment-africas-first-nature-linked-outcomes-bond/"
 tags: ["source", "cape-water-bond", "performance-based-bond", "development-finance"]
+subject: ["finance"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 

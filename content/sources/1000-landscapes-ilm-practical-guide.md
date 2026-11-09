@@ -7,8 +7,9 @@ type: "report"
 publisher: "EcoAgriculture Partners, on behalf of 1000 Landscapes for 1 Billion People, Washington, DC"
 url: "https://landscapes.global/wp-content/uploads/2022/12/ILM_Practical_Guide_DEC22.pdf"
 tags: ["source", "landscape-management", "governance"]
+subject: ["restoration", "coordination"]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

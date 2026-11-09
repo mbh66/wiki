@@ -1,14 +1,14 @@
 ---
 title: "Football as World-View and as Ritual"
+description: "Bromberger's fieldwork on football supporter culture in Marseille, Naples, and Turin, analyzed as a society constructed on pseudo-kinship."
 author: "Christian Bromberger"
 year: 1995
 type: "paper"
 publisher: "French Cultural Studies 6(18): 293-311"
-url: ""
-doi: ""
 tags: ["source", "t-form", "ritual", "sport"]
+subject: ["coordination", "consciousness"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

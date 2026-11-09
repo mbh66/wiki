@@ -8,8 +8,9 @@ publisher: "Cambridge Review of International Affairs, 17(1), 25–48"
 url: "https://doi.org/10.1080/0955757042000203632"
 doi: "10.1080/0955757042000203632"
 tags: ["source", "glocalization", "scale"]
+subject: ["economics", "coordination"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

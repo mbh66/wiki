@@ -7,8 +7,9 @@ type: "article"
 publisher: "JSE"
 url: "https://www.jse.co.za/news/news/jse-welcomes-africas-first-naturelinked-performancebased-bond"
 tags: ["source", "cape-water-bond", "performance-based-bond", "capital-markets"]
+subject: ["finance"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 

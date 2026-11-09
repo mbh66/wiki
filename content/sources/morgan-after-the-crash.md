@@ -6,8 +6,9 @@ year: 2026
 type: "article"
 publisher: "The Leading Edge (Substack newsletter), 6 November 2026"
 tags: ["source", "disruption", "phase-shift", "consciousness"]
+subject: ["consciousness", "civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -6,8 +6,9 @@ year: 1957
 type: "book"
 publisher: "Basil Blackwell, Oxford (1957); 2nd edition 1963; Harvard University Press reissue 2000"
 tags: ["source", "philosophy-of-action", "direction-of-fit"]
+subject: ["consciousness"]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-11-09
 source_project: "VoG Place Mandate"
 ---
 

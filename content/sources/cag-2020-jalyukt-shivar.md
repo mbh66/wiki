@@ -7,8 +7,9 @@ type: "report"
 publisher: "Comptroller and Auditor General of India; tabled in the Maharashtra Legislative Assembly, 8 September 2020"
 url: "https://cag.gov.in/en/audit-report/details/110871"
 tags: ["source", "audit", "water-retention", "groundwater", "india", "maharashtra"]
+subject: ["water"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Comptroller and Auditor General of India (2020). *Report No. 3 of 2020: General and Social Sector and PSUs, Government of Maharashtra*, including the thematic audit "Implementation of Jalyukta Shivar Abhiyan". Tabled 8 September 2020. https://cag.gov.in/en/audit-report/details/110871

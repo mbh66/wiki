@@ -8,8 +8,9 @@ publisher: "ANU Press and the Centre for Aboriginal Economic Policy Research, Ca
 url: "https://press-prod.anu.edu.au/publications/series/caepr/indigenous-data-sovereignty"
 doi: "10.22459/CAEPR38.11.2016"
 tags: ["source", "data-sovereignty", "indigenous", "data-governance"]
+subject: ["commons", "coordination"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

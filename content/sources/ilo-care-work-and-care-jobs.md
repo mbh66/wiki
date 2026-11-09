@@ -7,8 +7,9 @@ type: "report"
 publisher: "International Labour Office, Geneva"
 url: "https://www.ilo.org/media/65231/download"
 tags: ["source", "care-work", "unpaid-work", "labor", "statistics"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,15 @@
 ---
 title: "The Harmony of Interests: Agricultural, Manufacturing, and Commercial"
+description: "Carey's central theoretical statement, contrasting the \"British System\" of laissez-faire with the \"American System\" of tariff protection and government-encouraged domestic production."
 author: "Henry C. Carey"
 year: 1851
 type: "book"
 publisher: "J. S. Skinner"
 url: "https://oll.libertyfund.org/titles/carey-the-harmony-of-interests"
-doi: ""
 tags: ["source", "retention", "american-system"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

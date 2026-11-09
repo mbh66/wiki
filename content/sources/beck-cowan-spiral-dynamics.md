@@ -1,12 +1,14 @@
 ---
 title: "Spiral Dynamics"
+description: "Popularization and extension of Clare W."
 author: "Don Edward Beck and Christopher C. Cowan"
 year: 1996
 type: "book"
 publisher: "Blackwell Publishing"
-url: ""
-doi: ""
 tags: ["source", "consciousness", "development", "psychology", "values"]
+subject: ["economics", "consciousness"]
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Beck, D.E. & Cowan, C.C. (1996). *Spiral Dynamics: Mastering Values, Leadership, and Change.* Blackwell Publishing. ISBN: 978-1-55786-940-6.

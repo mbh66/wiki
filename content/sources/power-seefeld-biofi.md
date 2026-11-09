@@ -1,14 +1,15 @@
 ---
 title: "Bioregional Financing Facilities: Reimagining Finance to Regenerate Our Planet"
+description: "The founding specification of the Bioregional Financing Facility (BFF) architecture."
 author: "Samantha Power, Leon Seefeld, et al."
 year: 2024
 type: "report"
 publisher: "BioFi Project / Dark Matter Labs / Buckminster Fuller Institute"
 url: "https://biofi.earth/"
-doi: ""
 tags: ["source", "bff", "bioregional-economics", "finance"]
+subject: ["finance", "economics"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

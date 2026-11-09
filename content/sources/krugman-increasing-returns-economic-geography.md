@@ -8,8 +8,9 @@ publisher: "Journal of Political Economy, 99(3), 483–499"
 url: "https://doi.org/10.1086/261763"
 doi: "10.1086/261763"
 tags: ["source", "economic-geography", "agglomeration", "new-economic-geography"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -7,8 +7,9 @@ type: "report"
 publisher: "Reshoring Initiative, 9 June 2025"
 url: "https://reshorenow.org/june-9-2025/"
 tags: ["source", "reshoring", "manufacturing", "jobs"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

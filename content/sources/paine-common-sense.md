@@ -1,14 +1,15 @@
 ---
 title: "Common Sense"
+description: "The most widely read political pamphlet of the American Revolution, with an estimated 500,000 copies sold in a colonial population of roughly 2.5 million."
 author: "Thomas Paine"
 year: 1776
-type: "pamphlet"
+type: "essay"
 publisher: "Robert Bell (first edition); W. and T. Bradford (expanded edition)"
 url: "https://www.gutenberg.org/ebooks/147"
-doi: ""
 tags: ["source", "political-economy", "coordination-story", "republicanism"]
+subject: ["economics", "coordination"]
 created: 2026-09-10
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

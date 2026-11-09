@@ -1,14 +1,14 @@
 ---
 title: "Sepp Holzer's Permaculture: A Practical Guide to Small-Scale, Integrative Farming and Gardening"
+description: "Holzer's book-length treatment of the water retention and integrated production methods he developed at the Krameterhof, a mountain farm at 1,500 meters elevation in the Austrian Alps."
 author: "Sepp Holzer"
 year: 2011
 type: "book"
 publisher: "Chelsea Green"
-url: ""
-doi: ""
 tags: ["source", "permaculture", "water-retention-landscapes", "alpine"]
+subject: ["water", "commons", "restoration"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

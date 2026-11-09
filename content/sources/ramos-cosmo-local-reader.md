@@ -1,14 +1,15 @@
 ---
 title: "The Cosmo-Local Reader"
+description: "The edited volume documenting over 40 cases and 12 analytical essays that span modular automotive manufacturing, community-driven wind power, housing construction, peer-to-peer farming, agri-robotics, furniture fabrication, prosthetics, biohacking, upcycling, and disaster relief."
 author: "José Ramos, Sharon Ede, Michel Bauwens, and Gien Wong (eds.)"
 year: 2021
 type: "book"
 publisher: "P2P Foundation"
 url: "https://wiki.p2pfoundation.net/Cosmo-Localism"
-doi: ""
 tags: ["source", "cosmo-local", "commons-based-peer-production"]
+subject: ["commons", "coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

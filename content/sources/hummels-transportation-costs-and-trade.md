@@ -8,8 +8,9 @@ publisher: "Journal of Economic Perspectives, 21(3), 131–154"
 url: "https://ideas.repec.org/a/aea/jecper/v21y2007i3p131-154.html"
 doi: "10.1257/jep.21.3.131"
 tags: ["source", "transport", "trade", "globalization"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

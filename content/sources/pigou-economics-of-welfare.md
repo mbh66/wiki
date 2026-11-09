@@ -6,8 +6,9 @@ year: 1920
 type: "book"
 publisher: "Macmillan, London"
 tags: ["source", "externalities", "welfare-economics"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

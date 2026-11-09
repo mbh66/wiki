@@ -7,8 +7,9 @@ type: "report"
 publisher: "Afrobarometer, Dispatch No. 891, 31 October 2024"
 url: "https://www.afrobarometer.org/wp-content/uploads/2024/10/AD891-PAP20-Africans-trust-in-key-institutions-and-leaders-is-weakening-Afrobarometer-31oct24.pdf"
 tags: ["source", "trust", "governance", "south-africa"]
+subject: ["coordination"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

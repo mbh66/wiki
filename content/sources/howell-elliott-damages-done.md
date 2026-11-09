@@ -8,8 +8,9 @@ publisher: "Social Problems 66(3), 448–467"
 url: "https://doi.org/10.1093/socpro/spy016"
 doi: "10.1093/socpro/spy016"
 tags: ["source", "disasters", "inequality", "households"]
+subject: ["economics", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

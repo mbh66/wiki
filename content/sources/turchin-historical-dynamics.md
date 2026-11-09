@@ -1,14 +1,14 @@
 ---
 title: "Historical Dynamics: Why States Rise and Fall"
+description: "Develops the structural-demographic theory of political instability, tested quantitatively across multiple civilizations."
 author: "Peter Turchin"
 year: 2003
 type: "book"
 publisher: "Princeton University Press"
-url: ""
-doi: ""
 tags: ["source", "turchin", "cliodynamics", "structural-demographic-theory"]
+subject: ["civilization"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

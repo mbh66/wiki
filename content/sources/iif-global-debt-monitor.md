@@ -7,8 +7,9 @@ type: "report"
 publisher: "Institute of International Finance, Washington"
 url: "https://www.iif.com/Products/Global-Debt-Monitor"
 tags: ["source", "debt", "finance", "deceleration"]
+subject: ["finance", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

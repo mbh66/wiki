@@ -1,14 +1,14 @@
 ---
 title: "Water for Every Farm: Yeomans Keyline Plan"
+description: "The foundational text of the Keyline Design method."
 author: "P.A. Yeomans"
 year: 1954
 type: "book"
 publisher: "Yeomans (subsequent editions)"
-url: ""
-doi: ""
 tags: ["source", "keyline", "water-retention-landscapes", "farm-design"]
+subject: ["water"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

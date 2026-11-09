@@ -1,18 +1,18 @@
 ---
 title: Impacts of alien plant invasions on water resources and yields from the Western Cape Water Supply System (WCWSS)
+description: "Le Maitre and colleagues' quantification of the ongoing water-yield loss from invasive alien plants in the Western Cape Water Supply System."
 author: D.C. Le Maitre et al.
 year: 2019
 type: paper
 publisher: Water SA 45(4)
-url: ""
-doi: ""
 tags:
   - source
   - fynbos
   - invasive-species
   - water-yield
+subject: ["water", "restoration"]
 created: 2026-08-25
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: BioConomy
 ---
 

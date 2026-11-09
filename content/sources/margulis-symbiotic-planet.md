@@ -1,14 +1,14 @@
 ---
 title: "Symbiotic Planet: A New Look at Evolution"
+description: "Accessible synthesis of Lynn Margulis's endosymbiotic thesis and its implications for understanding evolution as driven by integration and cooperation, not only by competition."
 author: "Lynn Margulis"
 year: 1998
 type: "book"
 publisher: "Basic Books"
-url: ""
-doi: ""
 tags: ["source", "margulis", "biology", "evolution", "endosymbiosis"]
+subject: ["consciousness"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

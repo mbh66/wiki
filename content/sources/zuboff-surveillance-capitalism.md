@@ -1,14 +1,14 @@
 ---
 title: "The Age of Surveillance Capitalism"
+description: "Documents the emergence of an economic logic in which human behavioural data becomes raw material for prediction products, demonstrating that surveillance and behavioural modification can be industrialized at planetary scale."
 author: "Shoshana Zuboff"
 year: 2019
 type: "book"
 publisher: "PublicAffairs"
-url: ""
-doi: ""
 tags: ["source", "zuboff", "surveillance", "technofeudalism", "platform-capitalism"]
+subject: ["civilization"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

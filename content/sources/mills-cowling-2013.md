@@ -5,11 +5,10 @@ author: "A.J. Mills, R.M. Cowling et al."
 year: 2013
 type: "paper"
 publisher: "Conservation Letters"
-url: ""
-doi: ""
 tags: ["source", "renosterveld", "soil-carbon", "restoration"]
+subject: ["restoration"]
 created: 2026-08-25
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

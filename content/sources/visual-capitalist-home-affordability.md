@@ -7,8 +7,9 @@ type: "article"
 publisher: "Visual Capitalist, 24 February 2025"
 url: "https://www.visualcapitalist.com/home-affordability-trends-in-oecd-countries-since-2015/"
 tags: ["source", "housing", "affordability"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

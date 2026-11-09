@@ -6,8 +6,9 @@ year: 2019
 type: "book"
 publisher: "Princeton University Press"
 tags: ["source", "guilds", "economic-history", "institutions"]
+subject: ["economics", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

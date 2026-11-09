@@ -7,8 +7,9 @@ type: "article"
 publisher: "Al Jazeera, 3 March 2026"
 url: "https://www.aljazeera.com/economy/2026/3/3/maritime-insurers-cancel-war-risk-cover-in-gulf-will-it-spike-energy-cost"
 tags: ["source", "shipping", "insurance", "hormuz", "disruption"]
+subject: ["finance", "economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

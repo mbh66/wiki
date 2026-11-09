@@ -1,14 +1,14 @@
 ---
 title: "Some effects of afforestation on streamflow in the Western Cape Province"
+description: "The foundational peer-reviewed evidence base for the water-yield cost of pine invasion in South African fynbos catchments."
 author: "D.B. Van Wyk"
 year: 1987
 type: "paper"
 publisher: "Water SA"
-url: ""
-doi: ""
 tags: ["source", "fynbos", "streamflow", "water-yield"]
+subject: ["water", "restoration"]
 created: 2026-08-25
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

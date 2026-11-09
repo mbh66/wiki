@@ -1,14 +1,15 @@
 ---
 title: "The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon Valley"
+description: "Soni's book is the fullest documentary account of PayPal's founding (Confinity in December 1998; the March 2000 merger with Elon Musk's X.com; the October 2002 eBay acquisition) and of the subsequent trajectories of the \"PayPal Mafia\" (Peter Thiel, Elon Musk, Max Levchin."
 author: "Jimmy Soni"
 year: 2022
 type: "book"
 publisher: "Simon & Schuster"
 url: "https://www.simonandschuster.com/books/The-Founders/Jimmy-Soni/9781982138097"
-doi: ""
 tags: ["source", "paypal", "silicon-valley", "surveillance-capitalism", "sovereign-individual", "founding-narratives"]
+subject: ["civilization"]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

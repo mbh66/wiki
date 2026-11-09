@@ -1,14 +1,14 @@
 ---
 title: "No Such Thing as a Free Gift: The Gates Foundation and the Price of Philanthropy"
+description: "Supplies the structural mechanism for the observation that \"the failure of philanthropy is its own success\": the donor's indispensability grows in proportion to its inability to resolve the inequalities its presence compounds."
 author: "Linsey McGoey"
 year: 2015
 type: "book"
 publisher: "Verso"
-url: ""
-doi: ""
 tags: ["source", "mcgoey", "philanthropy", "patronage-failure"]
+subject: ["finance"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

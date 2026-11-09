@@ -7,8 +7,9 @@ type: "book"
 publisher: "Cambridge University Press and Éditions de la Maison des Sciences de l'Homme. Translated from Die neue internationale Arbeitsteilung (1977)"
 url: "https://assets.cambridge.org/97805212/87203/frontmatter/9780521287203_frontmatter.pdf"
 tags: ["source", "globalization", "division-of-labor", "economic-geography"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,15 @@
 ---
 title: "Thinking in Promises: Designing Systems for Cooperation"
+description: "Burgess's book-length treatment of Promise Theory, co-developed with Jan Bergstra."
 author: "Mark Burgess"
 year: 2015
 type: "book"
 publisher: "O'Reilly Media"
 url: "https://markburgess.org/TIpromises.html"
-doi: ""
 tags: ["source", "promise-theory", "commitment-pooling"]
+subject: ["money", "coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

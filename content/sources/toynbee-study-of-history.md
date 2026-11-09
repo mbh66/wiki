@@ -6,8 +6,9 @@ year: 1934
 type: "book"
 publisher: "Oxford University Press, Oxford, 12 vols. (1934 to 1961)"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

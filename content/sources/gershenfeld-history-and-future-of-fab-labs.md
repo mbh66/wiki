@@ -7,8 +7,9 @@ type: "article"
 publisher: "Make:, February 2025"
 url: "https://makezine.com/article/uncategorized/the-band-began-to-play-the-history-and-future-of-fab-labs/"
 tags: ["source", "fab-labs", "distributed-production", "cosmo-local"]
+subject: ["coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "The Biosphere"
+description: "The founding text of biogeochemistry."
 author: "Vladimir Vernadsky"
 year: 1926
 type: "book"
 publisher: "Copernicus Books (English edition, 1998)"
-url: ""
-doi: ""
 tags: ["source", "vernadsky", "biosphere", "biogeochemistry", "noosphere", "earth-system-science"]
+subject: ["consciousness"]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

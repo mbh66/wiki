@@ -7,8 +7,9 @@ type: "article"
 publisher: "Munich Re, Munich, media information, 13 January 2026"
 url: "https://munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/natural-disaster-figures-2025.html"
 tags: ["source", "disasters", "insurance", "losses"]
+subject: ["finance", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

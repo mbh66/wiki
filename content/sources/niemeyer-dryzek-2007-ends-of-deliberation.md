@@ -1,5 +1,6 @@
 ---
 title: "The Ends of Deliberation: Meta-consensus and Inter-subjective Rationality as Ideal Outcomes"
+description: "Argues that full agreement on outcomes is an unrealistic and often undesirable goal for deliberation."
 author: "Simon Niemeyer and John S. Dryzek"
 year: 2007
 type: "journal-article"
@@ -7,8 +8,9 @@ publisher: "Swiss Political Science Review"
 url: "https://doi.org/10.1002/j.1662-6370.2007.tb00087.x"
 doi: "10.1002/j.1662-6370.2007.tb00087.x"
 tags: ["source", "deliberation", "q-methodology", "democracy", "governance"]
+subject: ["coordination", "consciousness"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Niemeyer, S., and Dryzek, J. S. (2007). "The ends of deliberation: Meta-consensus and inter-subjective rationality as ideal outcomes." *Swiss Political Science Review*, 13(4), 497-526.

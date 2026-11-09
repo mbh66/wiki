@@ -7,8 +7,9 @@ type: "report"
 publisher: "Department of Minerals and Energy, Pretoria, December 1998"
 url: "https://www.polity.org.za/polity/govdocs/white_papers/energy98/energywp98-01.html"
 tags: ["source", "electricity", "energy-policy", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

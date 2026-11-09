@@ -1,14 +1,15 @@
 ---
 title: "P2P Accounting for Planetary Survival: Towards a P2P Infrastructure for a Socially Just Circular Society"
+description: "The P2P Foundation's proposal for an accounting infrastructure adequate to a circular society: contributive accounting that credits work done for the commons, thermodynamic accounting that tracks material and energy flows."
 author: "Michel Bauwens and Alex Pazaitis"
 year: 2019
 type: "report"
 publisher: "P2P Foundation (with Kate Raworth foreword)"
 url: "https://blog.p2pfoundation.net/"
-doi: ""
 tags: ["source", "cosmo-local", "accounting", "circular-economy"]
+subject: ["economics", "coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

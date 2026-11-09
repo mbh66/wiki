@@ -7,8 +7,9 @@ type: "report"
 publisher: "UNCCD, Bonn"
 url: "https://www.unccd.int/resources/publications/great-green-wall-implementation-status-and-way-ahead-2030"
 tags: ["source", "landscape-restoration", "sahel", "monitoring"]
+subject: ["restoration"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "Isikhova & Ironwood"
 ---
 

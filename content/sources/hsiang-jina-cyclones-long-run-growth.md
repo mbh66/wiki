@@ -8,8 +8,9 @@ publisher: "National Bureau of Economic Research, Working Paper 20352"
 url: "https://www.nber.org/papers/w20352"
 doi: "10.3386/w20352"
 tags: ["source", "disasters", "growth", "measurement"]
+subject: ["economics", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

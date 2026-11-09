@@ -6,8 +6,9 @@ year: 2019
 type: "book"
 publisher: "Oxford University Press"
 tags: ["source", "globalization", "automation", "unbundling", "services"]
+subject: ["economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

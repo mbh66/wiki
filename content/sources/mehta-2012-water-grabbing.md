@@ -7,8 +7,9 @@ type: "journal-article"
 publisher: "Water Alternatives 5(2): 193–207"
 url: "https://edepot.wur.nl/212474"
 tags: ["source", "water-grabbing", "water", "political-ecology", "dispossession"]
+subject: ["water", "political-ecology"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

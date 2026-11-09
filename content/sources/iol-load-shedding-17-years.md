@@ -7,8 +7,9 @@ type: "article"
 publisher: "IOL, 14 February 2024"
 url: "https://iol.co.za/news/politics/2024-02-14-how-south-africas-load-shedding-crisis-escalated-over-17-years/"
 tags: ["source", "electricity", "load-shedding", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

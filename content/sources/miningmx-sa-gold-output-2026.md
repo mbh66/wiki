@@ -7,8 +7,9 @@ type: "article"
 publisher: "Miningmx, 24 March 2026"
 url: "https://miningmx.com/news/gold/2026-03-24-record-gold-prices-fail-to-lift-sa-output/"
 tags: ["source", "minerals", "gold", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

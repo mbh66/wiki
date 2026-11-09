@@ -7,8 +7,9 @@ type: "article"
 publisher: "Gallup, Washington, 18 March 2026"
 url: "https://news.gallup.com/poll/703052/happiness-rankings-show-stability-change.aspx"
 tags: ["source", "wellbeing", "life-evaluation", "youth"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Overcoming the Barrier of Narrative Adherence in Conflicts Through Awareness of the Psychological Bias of Naive Realism"
+description: "Tests whether teaching people about naive realism increases openness to an adversary's collective narrative in the Israeli-Palestinian conflict."
 author: "Meytal Nasie, Daniel Bar-Tal, Ruthie Pliskin, Eman Nahhas and Eran Halperin"
 year: 2014
 type: "journal-article"
@@ -7,8 +8,9 @@ publisher: "Personality and Social Psychology Bulletin"
 url: "https://doi.org/10.1177/0146167214551153"
 doi: "10.1177/0146167214551153"
 tags: ["source", "cognitive-bias", "conflict", "narrative", "intervention"]
+subject: ["consciousness", "civilization"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Nasie, M., Bar-Tal, D., Pliskin, R., Nahhas, E., and Halperin, E. (2014). "Overcoming the barrier of narrative adherence in conflicts through awareness of the psychological bias of naive realism." *Personality and Social Psychology Bulletin*, 40(11), 1543-1556.

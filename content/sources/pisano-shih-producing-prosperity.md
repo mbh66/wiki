@@ -6,8 +6,9 @@ year: 2012
 type: "book"
 publisher: "Harvard Business Review Press"
 tags: ["source", "manufacturing", "industrial-commons", "agglomeration"]
+subject: ["commons", "economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Stigmergy as a universal coordination mechanism"
+description: "The paper in which Heylighen lifted stigmergy out of its entomological setting and set it out as a general theory of self-organized coordination across biological, cognitive, and social systems."
 author: "Francis Heylighen"
 year: 2016
 type: "journal-article"
@@ -8,8 +9,9 @@ volume: "38"
 pages: "4-13"
 doi: "10.1016/j.cogsys.2015.12.002"
 tags: ["source", "stigmergy", "coordination", "cybernetics", "self-organization"]
+subject: ["coordination"]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

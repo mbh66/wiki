@@ -7,8 +7,9 @@ type: "article"
 publisher: "South African Government News Agency, 8 September 2026"
 url: "https://www.sanews.gov.za/node/84138"
 tags: ["source", "gdp", "national-accounts", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

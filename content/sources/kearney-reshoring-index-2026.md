@@ -7,8 +7,9 @@ type: "report"
 publisher: "Kearney, April 2026"
 url: "https://www.kearney.com/documents/d/asset-library-291362522/2026-reshoring-index-1"
 tags: ["source", "reshoring", "manufacturing", "trade"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

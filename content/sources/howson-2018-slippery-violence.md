@@ -8,8 +8,9 @@ publisher: "Conservation and Society 16(2): 136–146"
 url: "https://doi.org/10.4103/cs.cs_16_150"
 doi: "10.4103/cs.cs_16_150"
 tags: ["source", "conservation-violence", "structural-violence", "redd-plus", "indonesia"]
+subject: ["political-ecology", "finance"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

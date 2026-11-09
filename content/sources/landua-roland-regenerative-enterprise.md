@@ -1,14 +1,14 @@
 ---
 title: "Regenerative Enterprise: Optimizing for Multi-Capital Abundance"
+description: "The origin of the Eight Forms of Capital ontology (social, material, financial, living, intellectual, experiential, spiritual, and cultural)."
 author: "Gregory Landua and Ethan Roland"
 year: 2013
 type: "book"
 publisher: "Appleseed Permaculture"
-url: ""
-doi: ""
 tags: ["source", "regenerative-economics", "eight-forms-of-capital"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

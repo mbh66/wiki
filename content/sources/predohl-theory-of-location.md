@@ -8,8 +8,9 @@ publisher: "Journal of Political Economy, 36(3), 371–390"
 url: "https://doi.org/10.1086/253962"
 doi: "10.1086/253962"
 tags: ["source", "economic-geography", "location-theory"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -6,8 +6,9 @@ year: 2021
 type: "essay"
 publisher: "Perspectiva"
 tags: ["source", "bildung", "aesthetic-education", "education"]
+subject: ["consciousness"]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

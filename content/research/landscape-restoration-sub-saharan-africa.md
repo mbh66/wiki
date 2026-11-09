@@ -4,7 +4,7 @@ description: "Sixteen restoration initiatives across sub-Saharan Africa, from th
 aliases: ["holistic landscape restoration in sub-Saharan Africa", "landscape restoration in Africa", "Muonde Trust case study", "community-led restoration in Africa", "African landscape restoration case study"]
 tags: ["research", "case-study", "landscape-restoration", "landscape-management", "water", "governance", "africa"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "Isikhova & Ironwood"
 source_documents: ["Deep research report: Muonde Trust and Community-Led Landscape Restoration in Sub-Saharan Africa (14 October 2026)"]
 epistemic_status: "academic-inference"
@@ -99,7 +99,7 @@ Sawadogo (1946 to 3 December 2023) adapted the traditional zaï planting pit fro
 
 ### Abraha We Atsbaha watershed (Atsbi Wenberta, Tigray, Ethiopia)
 
-Restoration here was led by the farmer Gebremichael Giday, known as Aba Hawi, and the community received the UN Equator Prize in 2012 [IC]. From the 1990s it combined water harvesting in fields and outside them, upland soil and water conservation, area closures that kept livestock off degraded slopes, and hand-dug wells [IC]. Groundwater results differ by study: an IWMI working paper reports a rise of about 5 meters, and Negusse and colleagues (2013) report roughly a tenfold increase in groundwater availability since 1993 [IC]; a larger rise, from 15 meters to 3 meters below the surface, appears in one summary [TBV]. IWMI found effects from upland conservation within three years [IC]. The work drew on state-organized community labor campaigns [TBV]. The war in Tigray from 2020 to 2022 damaged agriculture across the region [IC], and the watershed's present condition is unknown.
+Restoration here was led by the farmer Gebremichael Giday, known as Aba Hawi, and the community received the UN Equator Prize in 2012 [IC]. From the 1990s it combined water harvesting in fields and outside them, upland soil and water conservation, area closures that kept livestock off degraded slopes, and hand-dug wells [IC]. Groundwater results differ by study: an IWMI working paper (Gebregziabher et al. 2016) is cited as reporting a water table that rose from about 50 meters to about 5 meters below the surface [TBV], and Negusse and colleagues (2013) report roughly a tenfold increase in groundwater availability since 1993 [IC]; a larger rise, from 15 meters to 3 meters below the surface, appears in one summary [TBV]. IWMI found effects from upland conservation within three years [IC]. The work drew on state-organized community labor campaigns [TBV]. The war in Tigray from 2020 to 2022 damaged agriculture across the region [IC], and the watershed's present condition is unknown.
 
 ## East Africa
 
@@ -279,7 +279,7 @@ This section relates the cases to the BioConomy's instruments. It is a structura
 
 ## Provenance
 
-Written 14 October 2026 from a deep research run on the Muonde Trust and community-led landscape restoration in sub-Saharan Africa, carried out in the Isikhova & Ironwood project, with the main citations checked against the publishers' records. Editorial decisions:
+Written 14 October 2026 from a deep research run on the Muonde Trust and community-led landscape restoration in sub-Saharan Africa, carried out in the Isikhova & Ironwood project, with the main citations checked against the publishers' records. Editorial decisions: Revised on 9 November 2026: the IWMI working paper's Abreha we Atsbeha figure, given here earlier as a rise of about 5 meters, now follows the source that cites it (Haile and Gebregziabher 2020): a water table rising from about 50 meters to about 5 meters below the surface, graded [TBV] until the paper is read directly.
 
 - Claims that rest only on an initiative's own materials, its funders' stories or papers its staff co-authored are tagged [TBV], following the wiki's practice on [[concepts/integrated-landscape-management|Integrated Landscape Management]]; the research report had tagged these as mission-sourced, a tag this wiki reserves for Michael Haupt's documents.
 - Model findings from the peer-reviewed *PLOS ONE* paper are tagged [IC] as published analysis; the policy outcome the same paper reports is tagged [TBV].

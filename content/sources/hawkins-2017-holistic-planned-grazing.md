@@ -8,8 +8,9 @@ publisher: "African Journal of Range and Forage Science, 34(2), 65-75"
 url: "https://doi.org/10.2989/10220119.2017.1358213"
 doi: "10.2989/10220119.2017.1358213"
 tags: ["source", "landscape-restoration", "grazing", "evidence"]
+subject: ["restoration", "economics"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "Isikhova & Ironwood"
 ---
 

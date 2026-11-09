@@ -1,14 +1,15 @@
 ---
 title: "BioHubs: A Pathway to Regional Resilience"
+description: "The first systematic assessment of the global BioHub field."
 author: "Eva Gladek et al."
 year: 2026
 type: "report"
 publisher: "Metabolic, Anura Capital, Artistree, Basin Collective"
 url: "https://www.metabolic.nl/"
-doi: ""
 tags: ["source", "biohub", "field-assessment", "bioregional-economics"]
+subject: ["economics", "coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

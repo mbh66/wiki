@@ -6,8 +6,9 @@ year: 2017
 type: "book"
 publisher: "Cambridge University Press, Cambridge"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

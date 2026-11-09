@@ -1,14 +1,16 @@
 ---
 title: "Estimation of global final-stage energy-return-on-investment for fossil fuels with comparison to renewable energy sources"
+description: "The Brockway et al. paper is the primary contemporary measurement of energy return on investment (EROI) at the finished-fuel (rather than well-head) stage."
 author: "Paul E. Brockway, Anne Owen, Lina I. Brand-Correa, Lukas Hardt"
 year: 2019
-type: "peer-reviewed-article"
+type: "journal-article"
 publisher: "Nature Energy"
 url: "https://www.nature.com/articles/s41560-019-0425-z"
 doi: "10.1038/s41560-019-0425-z"
 tags: ["source", "eroi", "energy", "deceleration"]
+subject: ["economics", "civilization"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

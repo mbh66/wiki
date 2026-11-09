@@ -1,14 +1,15 @@
 ---
 title: "Kicking Away the Ladder: Development Strategy in Historical Perspective"
+description: "Chang documents that Britain and the United States, the supposed homes of free trade, used tariff protection, subsidies, and directed credit to develop their industries when they were in catching-up positions, and later denied developing countries the same tools."
 author: "Ha-Joon Chang"
 year: 2002
 type: "book"
 publisher: "Anthem Press"
 url: "https://anthempress.com/kicking-away-the-ladder-pb"
-doi: ""
 tags: ["source", "retention", "economic-history", "development"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

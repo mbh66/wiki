@@ -1,12 +1,14 @@
 ---
 title: "The Ever-Present Origin"
+description: "Gebser identifies five structures of consciousness: archaic, magical, mythical, mental-rational, and integral."
 author: "Jean Gebser"
 year: 1949
 type: "book"
 publisher: "Ohio University Press (English translation, 1985)"
-url: ""
-doi: ""
 tags: ["source", "consciousness", "development", "phenomenology"]
+subject: ["economics", "consciousness"]
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Gebser, J. (1949/1985). *The Ever-Present Origin.* Ohio University Press. ISBN: 978-0-8214-0776-1.

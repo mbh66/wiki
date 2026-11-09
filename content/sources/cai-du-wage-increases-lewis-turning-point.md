@@ -8,8 +8,9 @@ publisher: "China Economic Review, 22(4), 601–610"
 url: "https://www.sciencedirect.com/science/article/abs/pii/S1043951X11000605"
 doi: "10.1016/j.chieco.2011.07.004"
 tags: ["source", "china", "labor", "wages", "lewis-turning-point"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

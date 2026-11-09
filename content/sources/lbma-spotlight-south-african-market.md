@@ -7,8 +7,9 @@ type: "report"
 publisher: "London Bullion Market Association, London"
 url: "https://www.lbma.org.uk/publications/spotlight-on-the-south-african-market/chapter-3-mining"
 tags: ["source", "minerals", "gold", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

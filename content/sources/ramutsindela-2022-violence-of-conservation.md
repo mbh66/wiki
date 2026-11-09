@@ -7,8 +7,9 @@ type: "book"
 publisher: "Edward Elgar"
 url: "https://www.elgaronline.com/edcollbook/edcoll/9781800885608/9781800885608.xml"
 tags: ["source", "conservation-violence", "africa", "political-ecology"]
+subject: ["political-ecology"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

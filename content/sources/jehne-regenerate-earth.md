@@ -1,14 +1,14 @@
 ---
 title: "Regenerate Earth and the Soil Carbon Sponge framework"
+description: "Jehne's body of work bridging soil biology and hydrology."
 author: "Walter Jehne"
-year: 0
-type: "framework"
+type: "website"
 publisher: "Regenerate Earth"
 url: "https://www.regenerateearth.org/"
-doi: ""
 tags: ["source", "soil-carbon", "water-retention-landscapes"]
+subject: ["water", "restoration"]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

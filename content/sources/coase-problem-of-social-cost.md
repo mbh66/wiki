@@ -8,8 +8,9 @@ publisher: "Journal of Law and Economics, 3, 1–44"
 url: "https://doi.org/10.1086/466560"
 doi: "10.1086/466560"
 tags: ["source", "externalities", "transaction-costs", "property-rights"]
+subject: ["commons", "economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

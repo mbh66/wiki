@@ -1,14 +1,14 @@
 ---
 title: "The NGO-ization of Resistance"
+description: "Roy's essay names the mechanism sharply: NGOs' \"real contribution is that they defuse political anger..."
 author: "Arundhati Roy"
 year: 2016
 type: "essay"
 publisher: "in *The End of Imagination*, Haymarket Books"
-url: ""
-doi: ""
 tags: ["source", "roy", "ngoization", "philanthropy", "patronage-failure"]
+subject: ["political-ecology", "finance"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

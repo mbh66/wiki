@@ -1,14 +1,15 @@
 ---
 title: "The National System of Political Economy (Das nationale System der politischen Ökonomie)"
+description: "List's masterwork and the foundational text of the infant-industry-protection tradition."
 author: "Friedrich List"
 year: 1841
 type: "book"
 publisher: "Longmans, Green (English translation, 1885)"
 url: "https://www.econlib.org/library/YPDBooks/List/lstNPS.html"
-doi: ""
 tags: ["source", "retention", "infant-industry", "developmental-economics"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

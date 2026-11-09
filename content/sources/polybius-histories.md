@@ -6,8 +6,9 @@ year: -150
 type: "book"
 publisher: "Trans. W. R. Paton, rev. F. W. Walbank and C. Habicht, Loeb Classical Library, Harvard University Press (2010 to 2012)"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

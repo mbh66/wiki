@@ -7,8 +7,9 @@ type: "report"
 publisher: "World Bank, Climate Change and Development Series, Washington"
 url: "https://www.gfdrr.org/en/feature-story/breaking-link-between-extreme-weather-and-extreme-poverty"
 tags: ["source", "disasters", "poverty", "measurement"]
+subject: ["economics", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

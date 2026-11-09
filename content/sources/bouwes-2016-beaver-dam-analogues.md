@@ -7,8 +7,9 @@ type: "journal-article"
 publisher: "Scientific Reports 6, 28581"
 url: "https://doi.org/10.1038/srep28581"
 tags: ["source", "beaver-dam-analogues", "river-restoration", "water-retention", "oregon"]
+subject: ["water"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Bouwes, N., Weber, N., Jordan, C.E., Saunders, W.C., Tattam, I.A., Volk, C., Wheaton, J.M. and Pollock, M.M. (2016). "Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (*Oncorhynchus mykiss*)." *Scientific Reports*, 6, 28581. https://doi.org/10.1038/srep28581

@@ -1,5 +1,6 @@
 ---
 title: "The Four Elementary Forms of Sociality: Framework for a Unified Theory of Social Relations"
+description: "Proposes that people across cultures build their social relationships from four elementary models: communal sharing (members of a bounded group treated as equivalent), authority ranking (linear ordering by rank), equality matching (turn-taking, even balance."
 author: "Alan Page Fiske"
 year: 1992
 type: "journal-article"
@@ -7,8 +8,9 @@ publisher: "Psychological Review"
 url: "https://doi.org/10.1037/0033-295X.99.4.689"
 doi: "10.1037/0033-295X.99.4.689"
 tags: ["source", "relational-models", "social-psychology", "anthropology", "coordination"]
+subject: ["coordination", "consciousness"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Fiske, A. P. (1992). "The four elementary forms of sociality: Framework for a unified theory of social relations." *Psychological Review*, 99(4), 689-723.

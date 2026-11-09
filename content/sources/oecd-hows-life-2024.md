@@ -7,8 +7,9 @@ type: "report"
 publisher: "OECD Publishing, Paris"
 url: "https://www.oecd.org/en/publications/how-s-life-2024_90ba854a-en.html"
 tags: ["source", "wellbeing", "oecd", "households"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

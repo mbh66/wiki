@@ -6,8 +6,9 @@ year: 1997
 type: "essay"
 publisher: "In K. R. Cox (ed.), Spaces of Globalization: Reasserting the Power of the Local, Guilford Press, pp. 137–166"
 tags: ["source", "glocalization", "scale", "governance"]
+subject: ["economics", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

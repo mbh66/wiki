@@ -6,8 +6,9 @@ year: 2026
 type: "article"
 publisher: "Malone News, 21 October 2026"
 tags: ["source", "commentary", "europe", "prosperity"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

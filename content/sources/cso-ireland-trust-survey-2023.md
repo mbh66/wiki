@@ -6,8 +6,9 @@ type: "report"
 publisher: "Central Statistics Office, Cork"
 url: "https://www.cso.ie/en/releasesandpublications/ep/p-trsic/trustsurveyinternationalcomparisons2023"
 tags: ["source", "trust", "oecd", "social-fabric"]
+subject: ["economics", "coordination"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -6,8 +6,9 @@ year: 2009
 type: "report"
 publisher: "Commission on the Measurement of Economic Performance and Social Progress, Paris"
 tags: ["source", "beyond-gdp", "measurement", "wellbeing"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

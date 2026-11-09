@@ -1,5 +1,6 @@
 ---
 title: "Culture and Identity-Protective Cognition: Explaining the White-Male Effect in Risk Perception"
+description: "Explains the finding that white men tend to perceive lower risks from hazards such as guns and environmental threats."
 author: "Dan M. Kahan, Donald Braman, John Gastil, Paul Slovic and C. K. Mertz"
 year: 2007
 type: "journal-article"
@@ -7,8 +8,9 @@ publisher: "Journal of Empirical Legal Studies"
 url: "https://doi.org/10.1111/j.1740-1461.2007.00097.x"
 doi: "10.1111/j.1740-1461.2007.00097.x"
 tags: ["source", "cultural-cognition", "risk-perception", "worldview", "grid-group"]
+subject: ["consciousness"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Kahan, D. M., Braman, D., Gastil, J., Slovic, P., and Mertz, C. K. (2007). "Culture and identity-protective cognition: Explaining the white-male effect in risk perception." *Journal of Empirical Legal Studies*, 4(3), 465-505.

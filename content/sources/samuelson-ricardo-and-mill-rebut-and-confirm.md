@@ -8,8 +8,9 @@ publisher: "Journal of Economic Perspectives, 18(3), 135–146"
 url: "https://doi.org/10.1257/0895330042162403"
 doi: "10.1257/0895330042162403"
 tags: ["source", "trade", "comparative-advantage", "globalization"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

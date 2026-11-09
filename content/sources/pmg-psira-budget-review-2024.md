@@ -7,8 +7,9 @@ type: "report"
 publisher: "Parliament of the Republic of South Africa, 23 October 2024, published by the Parliamentary Monitoring Group"
 url: "https://pmg.org.za/files/241024pcpolicereport4.pdf"
 tags: ["source", "defensive-spending", "security", "south-africa"]
+subject: ["economics", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

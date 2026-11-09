@@ -7,8 +7,9 @@ type: "speech"
 publisher: "Written reply to a parliamentary question by the Minister for Transport, 4 August 2026"
 url: "https://www.mot.gov.sg/news-resources/newsroom/increases-in-war-risk-insurance-premiums--marine-insurance-costs-and-freight-rates-due-to-us-iran-conflict/"
 tags: ["source", "shipping", "insurance", "hormuz", "disruption"]
+subject: ["finance", "economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

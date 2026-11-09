@@ -8,8 +8,9 @@ publisher: "Royal Society Open Science"
 url: "https://doi.org/10.1098/rsos.201402"
 doi: "10.1098/rsos.201402"
 tags: ["source", "ecological-infrastructure", "evidence-review", "water-yield"]
+subject: ["water", "restoration"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Rebelo, A.J., Holden, P.B., Esler, K.J. and New, M.G. (2021). "Benefits of water-related ecological infrastructure investments to support sustainable land-use: a review of evidence from critically water-stressed catchments in South Africa." *Royal Society Open Science*.

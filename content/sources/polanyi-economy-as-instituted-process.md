@@ -6,8 +6,9 @@ year: 1957
 type: "essay"
 publisher: "In K. Polanyi, C. M. Arensberg and H. W. Pearson (eds.), Trade and Market in the Early Empires, Free Press, pp. 243–270"
 tags: ["source", "economic-anthropology", "forms-of-integration", "polanyi"]
+subject: ["economics", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

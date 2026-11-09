@@ -6,8 +6,9 @@ year: 1956
 type: "book"
 publisher: "Technology Press of MIT and John Wiley & Sons"
 tags: ["source", "economic-geography", "location-theory", "regional-science"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

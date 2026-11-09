@@ -7,8 +7,9 @@ type: "report"
 publisher: "Council for Scientific and Industrial Research, Pretoria, March 2025"
 url: "https://www.csir.co.za/csir-releases-statistics-on-power-generation-south-africa-2024"
 tags: ["source", "electricity", "load-shedding", "south-africa", "data"]
+subject: ["economics", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -7,8 +7,9 @@ type: "report"
 publisher: "Statistics South Africa, Statistical release P0302, 28 July 2025"
 url: "https://www.statssa.gov.za/publications/P0302/P03022025.pdf"
 tags: ["source", "population", "health", "south-africa", "data"]
+subject: ["economics", "civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

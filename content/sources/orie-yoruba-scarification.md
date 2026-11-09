@@ -1,14 +1,14 @@
 ---
 title: "The Structure and Function of Yoruba Facial Scarification"
+description: "Orie's linguistic and anthropological analysis of Yoruba facial scarification as a system of encoded lineage."
 author: "Olanike Ola Orie"
 year: 2011
 type: "paper"
 publisher: "Anthropological Linguistics 53(1): 15-33"
-url: ""
-doi: ""
 tags: ["source", "t-form", "legibility-signal", "yoruba"]
+subject: ["coordination", "consciousness"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

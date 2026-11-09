@@ -1,0 +1,355 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("source")
+formulas:
+  work: file.asLink(title)
+properties:
+  formula.work:
+    displayName: Work
+  author:
+    displayName: Author
+  year:
+    displayName: Year
+  type:
+    displayName: Type
+  publisher:
+    displayName: Publisher or journal
+  doi:
+    displayName: DOI
+  subject:
+    displayName: Subject
+  source_project:
+    displayName: Project
+  created:
+    displayName: Added
+views:
+  - type: table
+    name: All sources
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - subject
+      - publisher
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By type
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Newest first
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Peer-reviewed
+    filters:
+      or:
+        - type == "journal-article"
+        - type == "paper"
+        - type == "peer-reviewed-article"
+    order:
+      - formula.work
+      - author
+      - year
+      - publisher
+      - doi
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Books
+    filters:
+      or:
+        - type == "book"
+        - type == "monograph"
+        - type == "chapter"
+    order:
+      - formula.work
+      - author
+      - year
+      - publisher
+    sort:
+      - property: author
+        direction: ASC
+  - type: table
+    name: Reports and working papers
+    filters:
+      or:
+        - type == "report"
+        - type == "working-paper"
+        - type == "government-report"
+        - type == "case-study"
+    order:
+      - formula.work
+      - author
+      - year
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Statutes and court records
+    filters:
+      or:
+        - type == "statute"
+        - file.hasTag("legal-record")
+    order:
+      - formula.work
+      - author
+      - year
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Articles, essays and media
+    filters:
+      or:
+        - type == "article"
+        - type == "essay"
+        - type == "speech"
+        - type == "documentary"
+        - type == "pamphlet"
+    order:
+      - formula.work
+      - author
+      - year
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Datasets and archives
+    filters:
+      or:
+        - type == "dataset"
+        - type == "archive"
+    order:
+      - formula.work
+      - author
+      - year
+      - publisher
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Before 1950
+    filters:
+      and:
+        - year < 1950
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: By subject
+    groupBy:
+      property: subject
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Water and catchments
+    filters:
+      and:
+        - contains(subject, "water")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Commons and tenure
+    filters:
+      and:
+        - contains(subject, "commons")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Restoration and ecology
+    filters:
+      and:
+        - contains(subject, "restoration")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Conservation and justice
+    filters:
+      and:
+        - contains(subject, "political-ecology")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Finance and payments
+    filters:
+      and:
+        - contains(subject, "finance")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Money and currencies
+    filters:
+      and:
+        - contains(subject, "money")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Economics and development
+    filters:
+      and:
+        - contains(subject, "economics")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Coordination and governance
+    filters:
+      and:
+        - contains(subject, "coordination")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Consciousness and culture
+    filters:
+      and:
+        - contains(subject, "consciousness")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Civilization, technology and futures
+    filters:
+      and:
+        - contains(subject, "civilization")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: South Africa
+    filters:
+      and:
+        - file.hasTag("south-africa")
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: By project
+    groupBy:
+      property: source_project
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Recently added
+    order:
+      - formula.work
+      - author
+      - year
+      - created
+    sort:
+      - property: created
+        direction: DESC

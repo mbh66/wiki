@@ -1,14 +1,15 @@
 ---
 title: "The Great Transformation: The Political and Economic Origins of Our Time"
+description: "Polanyi's account of the rise and self-destruction of nineteenth-century market society and of the double movement by which societies generate protective counter-reactions to the commodification of land, labor, and money."
 author: "Karl Polanyi"
 year: 1944
 type: "book"
 publisher: "Beacon Press"
 url: "http://www.beacon.org/The-Great-Transformation-P72.aspx"
-doi: ""
 tags: ["source", "political-economy", "double-movement", "fictitious-commodities"]
+subject: ["economics", "coordination"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

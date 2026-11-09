@@ -1,14 +1,15 @@
 ---
 title: "An Inquiry into the Nature and Causes of the Wealth of Nations"
+description: "Smith's foundational text and the seed of what this wiki calls Throughput Economics."
 author: "Adam Smith"
 year: 1776
 type: "book"
 publisher: "W. Strahan and T. Cadell"
 url: "https://www.econlib.org/library/Smith/smWN.html"
-doi: ""
 tags: ["source", "throughput", "classical-economics"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

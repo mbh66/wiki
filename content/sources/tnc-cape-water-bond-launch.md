@@ -7,8 +7,9 @@ type: "article"
 publisher: "The Nature Conservancy"
 url: "https://www.nature.org/en-us/newsroom/cape-water-performance-based-bond-launched/"
 tags: ["source", "cape-water-bond", "water-fund", "performance-based-bond"]
+subject: ["water", "finance"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 

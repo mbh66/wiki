@@ -8,8 +8,9 @@ publisher: "Economica, 4(16), 386–405"
 url: "https://doi.org/10.1111/j.1468-0335.1937.tb00002.x"
 doi: "10.1111/j.1468-0335.1937.tb00002.x"
 tags: ["source", "theory-of-the-firm", "transaction-costs", "coordination"]
+subject: ["economics", "coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

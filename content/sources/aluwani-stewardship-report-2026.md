@@ -7,8 +7,9 @@ type: "report"
 publisher: "Aluwani Capital Partners"
 url: "https://www.aluwani.com/storage/documents/Sustainability-Report-2026-Final-Website-Only.pdf"
 tags: ["source", "cape-water-bond", "responsible-investment"]
+subject: ["finance"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 

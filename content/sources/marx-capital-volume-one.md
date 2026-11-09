@@ -7,8 +7,9 @@ type: "book"
 publisher: "Otto Meissner, Hamburg. English translation by Samuel Moore and Edward Aveling, 1887"
 url: "https://www.marxists.org/archive/marx/works/1867-c1/"
 tags: ["source", "political-economy", "production", "periodization"]
+subject: ["economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

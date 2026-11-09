@@ -1,9 +1,10 @@
 ---
 title: "Sources"
+description: "Every book, paper, report, statute and article the BioConomy wiki cites, one annotated page each, with a sortable table filtered by type, period and subject."
 aliases: ["sources", "sources folder", "bibliography"]
 tags: ["landing", "orientation", "sources", "bibliography"]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-11-09
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -29,6 +30,14 @@ The sources most heavily cited across the corpus, useful as entry points into th
 - Gladek et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*. The field mapping of 152 initiatives.
 - Life (2026). *[[sources/life-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]*. The foundational definition of [[glossary/a-e/bioregional-economics|bioregional economics]] as the wiki uses it.
 - Margulis (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*. The biological precedent for [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
+
+## Browse all sources
+
+![[sources.base]]
+
+The table lists every page in this folder from its frontmatter, so it stays current as pages are added. The tabs show all sources, the sources grouped by type and by subject, the newest first, each kind of work (peer-reviewed work, books, reports and working papers, statutes and court records, articles and media, datasets), works published before 1950, one tab for each of the ten subjects, South African sources, the Claude project each page came from, and the pages added most recently. Click a column heading to sort by it.
+
+Each source page carries a `subject` key with one or more of ten values: `water`, `commons`, `restoration`, `political-ecology` (conservation and justice), `finance`, `money`, `economics`, `coordination`, `consciousness` and `civilization` (civilization, technology and futures).
 
 ## Related pages
 

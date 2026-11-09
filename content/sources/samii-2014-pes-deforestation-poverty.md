@@ -8,8 +8,9 @@ publisher: "Campbell Systematic Reviews 10: 1–95"
 url: "https://doi.org/10.4073/csr.2014.11"
 doi: "10.4073/csr.2014.11"
 tags: ["source", "payment-for-ecosystem-services", "poverty", "systematic-review", "deforestation"]
+subject: ["finance", "economics"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

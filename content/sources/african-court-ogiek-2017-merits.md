@@ -6,8 +6,9 @@ year: 2017
 type: "report"
 publisher: "African Court on Human and Peoples' Rights, Application No. 006/2012, judgment of 26 May 2017"
 tags: ["source", "legal-record", "conservation-violence", "indigenous-rights", "kenya", "water-towers"]
+subject: ["water", "commons", "political-ecology"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

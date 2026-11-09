@@ -7,8 +7,9 @@ type: "book"
 publisher: "Fri Tanke, Stockholm"
 url: "https://www.nordicsecret.org/the-secret/"
 tags: ["source", "bildung", "education", "consciousness"]
+subject: ["consciousness"]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

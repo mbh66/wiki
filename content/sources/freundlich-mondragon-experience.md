@@ -1,14 +1,13 @@
 ---
 title: "The Mondragón Cooperative Experience: Notes on History, Scope and Structure"
+description: "Freundlich's working-paper overview of the Mondragón Corporation's history, scope, and institutional structure."
 author: "Fred Freundlich"
-year: 0
 type: "working-paper"
 publisher: "International Centre for Cooperative Management, Working Paper Series"
-url: ""
-doi: ""
 tags: ["source", "mondragon", "cooperatives"]
+subject: ["coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

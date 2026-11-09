@@ -8,8 +8,9 @@ publisher: "Communications Earth & Environment 3(1)"
 url: "https://doi.org/10.1038/s43247-022-00379-9"
 doi: "10.1038/s43247-022-00379-9"
 tags: ["source", "fynbos", "streamflow", "invasive-species", "drought"]
+subject: ["water", "restoration"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Holden, P.B., Rebelo, A.J., Wolski, P., Odoulami, R.C., Lawal, K.A., Kimutai, J., Nkemelang, T. and New, M.G. (2022). "Nature-based solutions in mountain catchments reduce impact of anthropogenic climate change on drought streamflow." *Communications Earth & Environment*, 3(1).

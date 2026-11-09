@@ -8,8 +8,9 @@ publisher: "China Economic Review, 22(4), 542–554"
 url: "https://econpapers.repec.org/article/eeechieco/v_3a22_3ay_3a2011_3ai_3a4_3ap_3a542-554.htm"
 doi: "10.1016/j.chieco.2011.07.002"
 tags: ["source", "china", "labor", "wages", "lewis-turning-point"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

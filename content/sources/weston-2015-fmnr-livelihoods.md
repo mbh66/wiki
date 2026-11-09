@@ -8,8 +8,9 @@ publisher: "Environmental Management, 55(6), 1402-1417"
 url: "https://doi.org/10.1007/s00267-015-0469-1"
 doi: "10.1007/s00267-015-0469-1"
 tags: ["source", "landscape-restoration", "agroforestry", "livelihoods"]
+subject: ["restoration"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "Isikhova & Ironwood"
 ---
 

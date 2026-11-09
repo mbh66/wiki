@@ -7,8 +7,9 @@ type: "article"
 publisher: "International Federation of Robotics, press release, 8 April 2026"
 url: "https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas"
 tags: ["source", "automation", "robotics", "statistics"]
+subject: ["economics", "civilization"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

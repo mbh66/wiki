@@ -8,8 +8,9 @@ publisher: "Proceedings of the National Academy of Sciences, 110(21), 8349-8356"
 url: "https://doi.org/10.1073/pnas.1210595110"
 doi: "10.1073/pnas.1210595110"
 tags: ["source", "landscape-management", "conservation"]
+subject: ["restoration"]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

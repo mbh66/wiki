@@ -1,14 +1,15 @@
 ---
 title: "How Rich Countries Got Rich and Why Poor Countries Stay Poor"
+description: "Reinert generalizes the retention-tradition documentation across five centuries, from Renaissance Italy through the Cameralists to the modern Far East."
 author: "Erik S. Reinert"
 year: 2007
 type: "book"
 publisher: "Constable"
 url: "https://www.othercanon.org"
-doi: ""
 tags: ["source", "retention", "economic-history", "development"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

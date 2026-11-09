@@ -1,5 +1,6 @@
 ---
 title: "Naive Realism and Affirmative Action: Adversaries Are More Similar Than They Think"
+description: "Studies supporters and opponents of affirmative action and finds that each side overestimates the extremity of the other's views."
 author: "David K. Sherman, Leif D. Nelson and Lee D. Ross"
 year: 2003
 type: "journal-article"
@@ -7,8 +8,9 @@ publisher: "Basic and Applied Social Psychology"
 url: "https://doi.org/10.1207/S15324834BASP2504_2"
 doi: "10.1207/S15324834BASP2504_2"
 tags: ["source", "cognitive-bias", "conflict", "deliberation", "false-polarization"]
+subject: ["coordination", "consciousness", "civilization"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Sherman, D. K., Nelson, L. D., and Ross, L. D. (2003). "Naive realism and affirmative action: Adversaries are more similar than they think." *Basic and Applied Social Psychology*, 25(4), 275-289.

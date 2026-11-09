@@ -7,8 +7,9 @@ type: "report"
 publisher: "MSc thesis, Stellenbosch University"
 url: "https://scholar.sun.ac.za/items/60336a1f-7694-47d4-8498-b88c19db351d/full"
 tags: ["source", "wetlands", "baseflow", "invasive-species", "restoration"]
+subject: ["water", "restoration"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Rebelo, A.J. (2012). *An ecological and hydrological evaluation of the effects of restoration on ecosystem services in the Kromme River System, South Africa.* MSc thesis, Stellenbosch University.

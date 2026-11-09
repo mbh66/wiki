@@ -8,8 +8,9 @@ publisher: "Preprints.org, posted 1 September 2026"
 url: "https://www.preprints.org/manuscript/202609.0004"
 doi: "10.20944/preprints202609.0004.v1"
 tags: ["source", "natural-capital", "counterevidence"]
+subject: ["restoration"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

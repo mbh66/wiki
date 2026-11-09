@@ -7,8 +7,9 @@ type: "working-paper"
 publisher: "South African Reserve Bank, Occasional Bulletin of Economic Notes OBEN/23/01, June 2023"
 url: "https://www.resbank.co.za/content/dam/sarb/publications/occasional-bulletin-of-economic-notes/2023/reflections-on-load-shedding-and-potential-gdp-june-2023.pdf"
 tags: ["source", "growth", "electricity", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

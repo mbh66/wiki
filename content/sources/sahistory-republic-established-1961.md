@@ -6,8 +6,9 @@ type: "article"
 publisher: "South African History Online"
 url: "https://www.sahistory.org.za/dated-event/republic-south-africa-established"
 tags: ["source", "history", "south-africa"]
+subject: ["civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

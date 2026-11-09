@@ -7,8 +7,9 @@ type: "report"
 publisher: "Statistics South Africa, Statistical release P0211, August 2026"
 url: "https://www.statssa.gov.za/publications/P0211/Media%20Release%20QLFS%20Q2%202026.pdf"
 tags: ["source", "employment", "south-africa", "data"]
+subject: ["civilization"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

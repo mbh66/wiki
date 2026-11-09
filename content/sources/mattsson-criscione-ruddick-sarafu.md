@@ -1,14 +1,15 @@
 ---
 title: "Circulation of a Digital Community Currency"
+description: "The canonical open dataset on the Sarafu Network, documenting circulation of a digital community currency in Kenyan informal settlements and rural areas."
 author: "Carolina E. S. Mattsson, Teodoro Criscione, William O. Ruddick"
 year: 2022
 type: "paper"
 publisher: "Scientific Data (Nature)"
 url: "https://arxiv.org/abs/2207.08941"
-doi: ""
 tags: ["source", "ruddick", "sarafu", "community-currency", "network-analysis"]
+subject: ["money", "coordination"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

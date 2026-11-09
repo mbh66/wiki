@@ -7,8 +7,9 @@ type: "speech"
 publisher: "Speech at Phog Allen Fieldhouse, University of Kansas, Lawrence, Kansas, 18 March 1968"
 url: "https://kennedyhumanrights.org/speech/address-at-university-of-kansas/"
 tags: ["source", "beyond-gdp", "measurement"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

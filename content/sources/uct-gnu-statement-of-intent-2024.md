@@ -7,8 +7,9 @@ type: "article"
 publisher: "University of Cape Town Libraries, Government Publications, 18 June 2024"
 url: "https://lib.uct.ac.za/government-publications/articles/2024-06-18-statement-intent-2024-government-national-unity"
 tags: ["source", "governance", "south-africa"]
+subject: ["coordination"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

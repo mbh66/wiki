@@ -6,8 +6,9 @@ year: 1977
 type: "book"
 publisher: "Belknap Press of Harvard University Press"
 tags: ["source", "business-history", "corporation", "coordination"]
+subject: ["coordination"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

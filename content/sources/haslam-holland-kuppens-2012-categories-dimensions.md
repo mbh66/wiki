@@ -1,5 +1,6 @@
 ---
 title: "Categories versus Dimensions in Personality and Psychopathology: A Quantitative Review of Taxometric Research"
+description: "Reviews 177 articles reporting 311 taxometric findings from a combined 533,377 participants, asking whether psychological variables are categorical (types) or dimensional (continua)."
 author: "Nick Haslam, Elise Holland and Peter Kuppens"
 year: 2012
 type: "journal-article"
@@ -7,8 +8,9 @@ publisher: "Psychological Medicine"
 url: "https://doi.org/10.1017/S0033291711001966"
 doi: "10.1017/S0033291711001966"
 tags: ["source", "psychometrics", "typology", "personality", "measurement"]
+subject: ["economics", "coordination", "consciousness"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Haslam, N., Holland, E., and Kuppens, P. (2012). "Categories versus dimensions in personality and psychopathology: A quantitative review of taxometric research." *Psychological Medicine*, 42(5), 903-920.

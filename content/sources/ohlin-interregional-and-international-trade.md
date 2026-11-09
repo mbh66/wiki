@@ -6,8 +6,9 @@ year: 1933
 type: "book"
 publisher: "Harvard University Press"
 tags: ["source", "trade", "factor-endowments", "economic-geography"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

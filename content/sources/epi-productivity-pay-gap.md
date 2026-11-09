@@ -7,8 +7,9 @@ type: "article"
 publisher: "Economic Policy Institute, Washington, updated March 2026"
 url: "https://www.epi.org/productivity-pay-gap/"
 tags: ["source", "wages", "productivity", "inequality"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

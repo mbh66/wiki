@@ -7,8 +7,9 @@ type: "essay"
 publisher: "William Blackwood & Sons, Edinburgh"
 url: "https://people.uncw.edu/kozloffm/glubb.pdf"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

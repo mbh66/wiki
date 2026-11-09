@@ -1,14 +1,14 @@
 ---
 title: "Naive Realism in Everyday Life: Implications for Social Conflict and Misunderstanding"
+description: "Defines naive realism: the conviction that one sees the world as it is, that reasonable people given the same information will agree, and that those who disagree must be uninformed, irrational or biased."
 author: "Lee Ross and Andrew Ward"
 year: 1996
-type: "chapter"
+type: "book"
 publisher: "Values and Knowledge (E. S. Reed, E. Turiel and T. Brown, Eds.), Lawrence Erlbaum"
-url: ""
-doi: ""
 tags: ["source", "cognitive-bias", "conflict", "social-psychology", "deliberation"]
+subject: ["coordination", "consciousness", "civilization"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 Ross, L., and Ward, A. (1996). "Naive realism in everyday life: Implications for social conflict and misunderstanding." In E. S. Reed, E. Turiel and T. Brown (Eds.), *Values and Knowledge* (pp. 103-135). Lawrence Erlbaum.

@@ -7,8 +7,9 @@ type: "article"
 publisher: "National Treasury, media statement, 24 October 2025"
 url: "https://www.gov.za/news/media-statements/treasury-south-africa-south-africa-exiting-fatf-greylist-24-october-2025-24"
 tags: ["source", "governance", "finance", "south-africa"]
+subject: ["finance", "coordination"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

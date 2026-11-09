@@ -7,8 +7,9 @@ type: "report"
 publisher: "International Finance Corporation"
 url: "https://disclosures.ifc.org/project-detail/SII/52393/dcm-frb-cwb"
 tags: ["source", "cape-water-bond", "performance-based-bond", "development-finance"]
+subject: ["finance"]
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 

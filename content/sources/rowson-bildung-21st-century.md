@@ -7,8 +7,9 @@ type: "essay"
 publisher: "Centre for the Understanding of Sustainable Prosperity (CUSP), Essay Series on the Morality of Sustainable Prosperity, No. 9"
 url: "http://cusp.ac.uk/themes/m/essay-m1-9/"
 tags: ["source", "bildung", "education", "post-growth"]
+subject: ["economics", "consciousness"]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -8,8 +8,9 @@ publisher: "International Organization 55(2), 251 to 287"
 url: "https://doi.org/10.1162/00208180151140577"
 doi: "10.1162/00208180151140577"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

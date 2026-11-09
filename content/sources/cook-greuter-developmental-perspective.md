@@ -1,12 +1,15 @@
 ---
 title: "Making the Case for a Developmental Perspective"
+description: "Documents the empirical distribution of adult developmental stages in professional populations through sentence completion testing."
 author: "Susanne R. Cook-Greuter"
 year: 2004
 type: "journal-article"
 publisher: "Industrial and Commercial Training"
-url: ""
 doi: "10.1108/00197850410563902"
 tags: ["source", "consciousness", "development", "psychology", "empirical"]
+subject: ["economics", "consciousness"]
+updated: 2026-11-09
+source_project: "BioConomy"
 ---
 
 Cook-Greuter, S.R. (2004). "Making the Case for a Developmental Perspective." *Industrial and Commercial Training*, 36(7), 275-281. DOI: 10.1108/00197850410563902.

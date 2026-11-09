@@ -1,14 +1,14 @@
 ---
 title: "The Revolution Will Not Be Funded: Beyond the Non-Profit Industrial Complex"
+description: "Anthology documenting how foundations act as \"'cooling-out' agencies, delaying and preventing more radical, structural change.\" Andrea Smith recounts INCITE!'s own experience of capture: the Ford Foundation's 30 July 2004 letter reversing a \\$100,000 grant \"because of our."
 author: "INCITE! Women of Color Against Violence"
 year: 2007
 type: "book"
 publisher: "South End Press (2007), Duke University Press (2017)"
-url: ""
-doi: ""
 tags: ["source", "incite", "ngoization", "philanthropy", "patronage-failure"]
+subject: ["political-ecology", "finance"]
 created: 2026-08-25
-updated: 2026-09-30
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

@@ -1,14 +1,15 @@
 ---
 title: "The Great Taking"
+description: "Documents the legal redefinition of securities ownership across jurisdictions and the creation of a creditor-priority hierarchy that subordinates retail investors to institutional counterparties."
 author: "David Rogers Webb"
 year: 2023
 type: "book"
 publisher: "Self-published"
 url: "https://thegreattaking.com"
-doi: ""
 tags: ["source", "webb", "financial-law", "ucc-article-8", "technofeudalism"]
+subject: ["civilization"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

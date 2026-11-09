@@ -7,8 +7,9 @@ type: "article"
 publisher: "Rand Merchant Bank / FirstRand"
 url: "https://www.rmb.co.za/news/rmb-launches-africas-first-naturelinked-outcomesbased-bond"
 tags: ["source", "cape-water-bond", "performance-based-bond", "restoration-finance", "water-fund"]
+subject: ["water", "finance"]
 created: 2026-09-06
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

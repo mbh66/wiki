@@ -8,8 +8,9 @@ publisher: "Journal of Economic Growth, 21(1), 1–33"
 url: "https://doi.org/10.1007/s10887-015-9122-3"
 doi: "10.1007/s10887-015-9122-3"
 tags: ["source", "development", "industrialization", "manufacturing"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

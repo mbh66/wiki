@@ -6,8 +6,9 @@ year: 2026
 type: "essay"
 publisher: "Substack (omniharmonic)"
 tags: ["source", "bioregional-economics", "regenerative-economics", "finance"]
+subject: ["finance", "economics"]
 created: 2026-10-26
-updated: 2026-10-30
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

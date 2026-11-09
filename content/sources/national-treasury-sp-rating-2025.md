@@ -7,8 +7,9 @@ type: "article"
 publisher: "National Treasury, media statement, 14 November 2025"
 url: "https://www.gov.za/news/media-statements/treasury-responds-rating-action-sp-global-ratings-14-nov-2025"
 tags: ["source", "public-debt", "credit-rating", "south-africa"]
+subject: ["finance"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

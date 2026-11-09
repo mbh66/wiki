@@ -7,8 +7,9 @@ type: "article"
 publisher: "Tetakawi Insights"
 url: "https://insights.tetakawi.com/manufacturing-wages-mexico-vs-china"
 tags: ["source", "labor", "wages", "nearshoring", "mexico", "china"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

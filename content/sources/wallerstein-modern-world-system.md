@@ -6,8 +6,9 @@ year: 1974
 type: "book"
 publisher: "Academic Press and University of California Press, 4 vols. (1974 to 2011)"
 tags: ["source", "civilizational-cycles"]
+subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

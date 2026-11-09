@@ -1,14 +1,14 @@
 ---
 title: "The economic consequences of alien plant invasions"
+description: "Estimates total invasive-related runoff reductions in the fynbos and grassland biomes of South Africa at levels significant to national water security."
 author: "Brian W. Van Wilgen et al."
 year: 2008
 type: "paper"
 publisher: "Journal of Environmental Management"
-url: ""
-doi: ""
 tags: ["source", "van-wilgen", "invasive-species", "water-yield", "fynbos"]
+subject: ["water", "restoration"]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

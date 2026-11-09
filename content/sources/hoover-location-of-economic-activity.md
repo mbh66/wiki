@@ -6,8 +6,9 @@ year: 1948
 type: "book"
 publisher: "McGraw-Hill"
 tags: ["source", "economic-geography", "location-theory"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

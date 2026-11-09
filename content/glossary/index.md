@@ -77,6 +77,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/archipelago-of-regenerative-projects/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/asset-based-community-development/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/below-dam-position/"
     },
     {
@@ -86,10 +89,10 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/biocultural-unit-bcu/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub-field-sense/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub-field-sense/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioplace/"
@@ -293,10 +296,10 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/nature-realm/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/needy/"
@@ -341,7 +344,7 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/readiness-diagnostic/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/reciprocal-water-agreement/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-capitalism/"
@@ -353,16 +356,19 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-participation-income-rpi/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/retention-economics/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/s-curve/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier-thinking/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier-thinking/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/"
@@ -372,6 +378,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/sound-finance/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/springshed/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/stacked-entity-structure/"
@@ -407,16 +416,19 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/tenderable-services-portfolio/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/territory-of-life/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/threefolding/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/threshold-guide/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput-economics/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput-economics/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/time/"
@@ -438,6 +450,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/water-retention-landscape/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/water-tower/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/watershed-mapping/"

@@ -7,8 +7,9 @@ type: "working-paper"
 publisher: "International Monetary Fund, African Department Paper No. 11/2"
 url: "https://www.imf.org/external/pubs/ft/dp/2011/afr1102.pdf"
 tags: ["source", "growth", "potential-output", "south-africa"]
+subject: ["economics"]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

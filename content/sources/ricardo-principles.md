@@ -1,14 +1,15 @@
 ---
 title: "On the Principles of Political Economy and Taxation"
+description: "Ricardo's Principles formalized political economy into a system of laws and introduced the theory of comparative advantage, which argues that nations gain by specializing in what they produce relatively most efficiently and trading for the rest."
 author: "David Ricardo"
 year: 1817
 type: "book"
 publisher: "John Murray"
 url: "https://www.econlib.org/library/Ricardo/ricP.html"
-doi: ""
 tags: ["source", "throughput", "comparative-advantage", "classical-economics"]
+subject: ["economics"]
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

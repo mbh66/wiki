@@ -8,8 +8,9 @@ publisher: "Land Use Policy, 63, 481-492"
 url: "https://doi.org/10.1016/j.landusepol.2017.02.021"
 doi: "10.1016/j.landusepol.2017.02.021"
 tags: ["source", "landscape-management", "evidence"]
+subject: ["restoration", "economics"]
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

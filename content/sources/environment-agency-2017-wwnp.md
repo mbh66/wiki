@@ -7,8 +7,9 @@ type: "report"
 publisher: "Environment Agency, Report SC150005"
 url: "https://assets.publishing.service.gov.uk/media/6036c7f9d3bf7f0aaa2a45fa/Working_with_natural_processes_using_the_evidence_base.pdf"
 tags: ["source", "natural-flood-management", "leaky-barriers", "baseflow"]
+subject: ["water"]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 source_project: "W2DF Quartz Repository"
 ---
 Hankin, B., Arnott, S., Whiteman, M., Burgess-Gamble, L. and Rose, S. (2017). *Working with Natural Processes: Using the evidence base to make the case for Natural Flood Management.* Report SC150005. Bristol: Environment Agency.

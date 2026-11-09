@@ -6,8 +6,9 @@ year: 2020
 type: "book"
 publisher: "Verso"
 tags: ["source", "convivial-conservation", "conservation", "political-ecology"]
+subject: ["restoration", "political-ecology"]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

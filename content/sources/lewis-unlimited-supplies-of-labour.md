@@ -8,8 +8,9 @@ publisher: "The Manchester School, 22(2), 139–191"
 url: "https://doi.org/10.1111/j.1467-9957.1954.tb00021.x"
 doi: "10.1111/j.1467-9957.1954.tb00021.x"
 tags: ["source", "development", "labor", "wages"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 

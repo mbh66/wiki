@@ -6,8 +6,9 @@ year: 1929
 type: "book"
 publisher: "University of Chicago Press. Translated by Carl Joachim Friedrich from Über den Standort der Industrien (1909)"
 tags: ["source", "economic-geography", "location-theory"]
+subject: ["economics"]
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 source_project: "BioConomy"
 ---
 
