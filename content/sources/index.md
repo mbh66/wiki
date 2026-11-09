@@ -5,6 +5,7 @@ aliases: ["sources", "sources folder", "bibliography"]
 tags: ["landing", "orientation", "sources", "bibliography"]
 created: 2026-08-27
 updated: 2026-11-09
+cssclasses: [hide-folder-listing]
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"

@@ -5,6 +5,7 @@ aliases: ["Southeast and East Asia cases", "Southeast and East Asia catchment ca
 tags: ["landing", "case-register", "southeast-and-east-asia"]
 created: 2026-11-09
 updated: 2026-11-09
+cssclasses: [hide-folder-listing]
 source_project: "BioConomy"
 source_documents: ["Deep research report: Mountain Water Commons (9 November 2026)"]
 epistemic_status: "academic-inference"

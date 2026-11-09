@@ -5,6 +5,7 @@ aliases: ["investor register", "nature bond investors", "nature performance bond
 tags: ["landing", "investor-register", "performance-based-bond"]
 created: 2026-10-15
 updated: 2026-10-15
+cssclasses: [hide-folder-listing]
 source_project: "BioConomy"
 source_documents: ["Nature performance bond investors.md"]
 epistemic_status: "documented-fact"

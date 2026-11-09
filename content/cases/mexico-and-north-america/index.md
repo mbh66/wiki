@@ -5,6 +5,7 @@ aliases: ["Mexico and North America cases", "Mexico and North America catchment 
 tags: ["landing", "case-register", "mexico-and-north-america"]
 created: 2026-11-09
 updated: 2026-11-09
+cssclasses: [hide-folder-listing]
 source_project: "BioConomy"
 source_documents: ["Deep research report: Mountain Water Commons (9 November 2026)"]
 epistemic_status: "academic-inference"
