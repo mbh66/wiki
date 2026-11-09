@@ -1,19 +1,19 @@
 ---
 title: "Disruption Snapshot: Early November 2026"
-description: "After the cyberattacks of Black October, the week of 3 to 7 November 2026: a US Democratic sweep, local votes against data centers, a $2.5 trillion tech sell-off, thin AI productivity gains and a Fed still raising rates, read for bioregional practice."
-aliases: ["November 2026 snapshot", "early November 2026 snapshot", "AI sell-off November 2026", "Black October"]
-tags: ["research", "snapshot", "disruption", "ai-capex", "data-centers", "cybersecurity", "deceleration", "bioconomy"]
+description: "After the cyberattacks of Black October, the week of 3 to 7 November 2026: a US Democratic sweep, local votes against data centers, a $2.5 trillion tech sell-off, thin AI productivity gains and a Fed still raising rates, with a late addition on the Nvidia chief executive affair of 8 November, read for bioregional practice."
+aliases: ["November 2026 snapshot", "early November 2026 snapshot", "AI sell-off November 2026", "Black October", "Huang affair", "Nvidia affair"]
+tags: ["research", "snapshot", "disruption", "ai-capex", "data-centers", "cybersecurity", "deceleration", "nvidia", "bioconomy"]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 source_project: "BioConomy"
-source_documents: ["Marcus on AI, 'Breaking: Mayhem in the market' (5 November 2026)", "Marcus on AI, 'The markets dropped $2.5 trillion yesterday. What happens next?' (6 November 2026)"]
+source_documents: ["Marcus on AI, 'Breaking: Mayhem in the market' (5 November 2026)", "Marcus on AI, 'The markets dropped $2.5 trillion yesterday. What happens next?' (6 November 2026)", "Marcus on AI, 'The Huang Affair: What did they know and when did they know it?' (9 November 2026)"]
 epistemic_status: "structural-inference"
 ---
 
 In the first week of November 2026, US voters handed both houses of Congress to the Democrats and approved local limits on data centers in almost every place that held a vote, and two days later the Nasdaq Composite fell about 5.5 percent in a single session, its worst day since April 2025, as investors repriced the AI build-out. [IC] This page records what happened, what the first evidence says about AI's economic return, and what the week suggests for people building place-based economies. It is one of the wiki's [[disruption/index|disruption snapshots]], which track the decade that began with the closure of the Strait of Hormuz in February 2026.
 
 > [!note] How to read this page
-> This is a dated snapshot, written on 7 November 2026 from news reports and two newsletter posts in the four days after the election. Figures were moving as it was written. Companies and public bodies named here are described only through what they have said or done in the public record; none has been invited to comment. Corrections will be recorded on the page.
+> This is a dated snapshot, written on 7 November 2026 from news reports and two newsletter posts in the four days after the election. Figures were moving as it was written. A late addition on the Nvidia affair was made on the morning of 9 November, before US markets opened. Companies and public bodies named here are described only through what they have said or done in the public record; none has been invited to comment. Corrections will be recorded on the page.
 
 ## The week in brief
 
@@ -27,16 +27,18 @@ In the first week of November 2026, US voters handed both houses of Congress to 
 | Thu 5 Nov | Bank of England's November Monetary Policy Report finds a modest AI effect on UK productivity. | [IC] |
 | Thu 5 Nov | Wall Street Journal reports investors doubt Anthropic's planned IPO can reach a $1.5 trillion valuation. | [IC] |
 | Fri 6 Nov | Partial rebound. Nasdaq up 1.1 percent, Dow down 0.5 percent. October payrolls beat forecasts and raise the odds of a December rate hike. | [IC] |
+| Sun 8 Nov | Nvidia's board opens an independent investigation. Its chief executive admits an affair with a former Megaspeed executive whom US intelligence assessed as a Chinese recruit. | [IC] |
+| Mon 9 Nov | Nvidia trades 3 to 4 percent lower out of hours. Asian chipmakers rise. | [TBV] |
 
 ## Black October
 
 The week came at the end of a month that security researchers and commentators had already named "Black October," for an unprecedented run of cyberattacks, many of them carried out or sped up with AI agents. [IC] The threat intelligence firm ScruteX, which appears to have coined the name, tracked 28 major incidents by 23 October, most of them attacks on software suppliers whose updates then carried malicious code to their customers. [TBV] The month's attacks reached money, medicine and food.
 
-Crypto. On 29 October about $6.3 billion left Binance wallets across ten blockchains, most of it within 20 minutes, the largest crypto theft on record. [IC] Binance confirmed a security incident and suspended some withdrawals. The analytics firm TRM Labs attributed the theft with high confidence to a North Korean state unit; no government had made an attribution by early November. [TBV]
+**Crypto**. On 29 October about $6.3 billion left Binance wallets across ten blockchains, most of it within 20 minutes, the largest crypto theft on record. [IC] Binance confirmed a security incident and suspended some withdrawals. The analytics firm TRM Labs attributed the theft with high confidence to a North Korean state unit; no government had made an attribution by early November. [TBV]
 
-Healthcare. Ransomware groups claimed 85 attacks on healthcare providers in October, the highest monthly count of the year, though only 10 had been confirmed by the providers. [TBV] At the University of New Mexico Health Sciences Center, an attack forced the closure of clinics and the diversion of patients. [TBV]
+**Healthcare**. Ransomware groups claimed 85 attacks on healthcare providers in October, the highest monthly count of the year, though only 10 had been confirmed by the providers. [TBV] At the University of New Mexico Health Sciences Center, an attack forced the closure of clinics and the diversion of patients. [TBV]
 
-Food. Attacks on supermarket refrigeration began in France in October, and on 2 November fridges and freezers ran hot at more than 100 shops in Belgium, Luxembourg, France, Sweden and Ireland, some reaching 50°C, with food destroyed and units damaged. [IC] Delhaize, Carrefour, Coop and Musgrave's SuperValu stores were among those hit, and Belgian prosecutors opened a criminal investigation. [IC] The EU's agriculture commissioner called the attacks a "deliberate attempt to disrupt" the EU's food supply, while saying food security was not at risk. [IC] No group had claimed them. [IC] Security researchers pointed to remotely managed refrigeration controllers, often run by third-party contractors, with missing updates and weak passwords. [TBV]
+**Food**. Attacks on supermarket refrigeration began in France in October, and on 2 November fridges and freezers ran hot at more than 100 shops in Belgium, Luxembourg, France, Sweden and Ireland, some reaching 50°C, with food destroyed and units damaged. [IC] Delhaize, Carrefour, Coop and Musgrave's SuperValu stores were among those hit, and Belgian prosecutors opened a criminal investigation. [IC] The EU's agriculture commissioner called the attacks a "deliberate attempt to disrupt" the EU's food supply, while saying food security was not at risk. [IC] No group had claimed them. [IC] Security researchers pointed to remotely managed refrigeration controllers, often run by third-party contractors, with missing updates and weak passwords. [TBV]
 
 For a bioregion, the refrigeration attacks are the instructive case. A town's cold chain now depends on controllers that someone far away can switch off, and local food storage that can run without a network connection is a form of resilience. [structural inference]
 
@@ -84,7 +86,36 @@ This produces an awkward pairing for the AI sector: the spending that props up g
 
 ## One critic's reading
 
-Gary Marcus wrote the two posts that prompted this snapshot. His argument is that the market rested on an assumption that AI companies could act without consequence, and that the election removed it: "The (new!) thought that companies might actually be held accountable for what they have done has completely spooked the market." [IC] He makes five predictions: AI is not over; the era of very high generative AI valuations and exponentially rising data center investment may be; people will keep using generative AI, now mostly through models combined with tools and loops; more reliable architectures will eventually displace today's systems; and a later generation of AI will be worth a lot of money. [IC] He opposes any public bailout of AI companies. [IC] The opposing reading, from investors quoted on 5 and 6 November, is that the sell-off was a reaction to the election and that spending will continue, with Democrats expected to make peace with data centers. [TBV] Which reading holds will show in capex guidance and the Anthropic pricing over the coming weeks.
+Gary Marcus wrote the two posts that prompted this snapshot. His argument is that the market rested on an assumption that AI companies could act without consequence, and that the election removed it: "The (new!) thought that companies might actually be held accountable for what they have done has completely spooked the market." [IC] He makes five predictions: 
+
+1. AI is not over; the era of very high generative AI valuations and exponentially rising data center investment may be; 
+2. People will keep using generative AI, now mostly through models combined with tools and loops; 
+3. More reliable architectures will eventually displace today's systems; and 
+4. A later generation of AI will be worth a lot of money. [IC] 
+
+He opposes any public bailout of AI companies. [IC] The opposing reading, from investors quoted on 5 and 6 November, is that the sell-off was a reaction to the election and that spending will continue, with Democrats expected to make peace with data centers. [TBV] Which reading holds will show in capex guidance and the Anthropic pricing over the coming weeks.
+
+## Late addition: the Nvidia affair
+
+On Sunday 8 November Nvidia's chief executive, Jensen Huang, told employees in a memo that he had been unfaithful to his wife, after reports that US intelligence had assessed a woman he had a relationship with as a recruit of China's Ministry of State Security. [IC] The same day Nvidia's board said its independent directors, with outside legal counsel, would investigate. It said it had "no reason to believe" national security or company secrets were compromised and that it has "confidence in Jensen and his leadership team." [IC] Huang wrote to colleagues, partners and shareholders: "you deserve better from me." [IC]
+
+### The record so far
+
+The woman, Alice Huang (no relation), was an executive of Megaspeed, a Singapore data center company built on Nvidia hardware, and has since left it. [IC] In October 2025 Senator Tom Cotton asked the Commerce Department to investigate Megaspeed, describing it as a spin-off of a Chinese state-owned company and alleging that billions of dollars of US chips reached it in ways "potentially violating U.S. export laws." [IC] The New York Times reported on 29 October 2026 that US agencies had watched her for about a year. On 30 October Huang told Bloomberg that Nvidia had "counted every one" of Megaspeed's GPUs and that none had gone to China. [TBV] Nvidia had described the pair's interactions as "not unusual." [IC]
+
+On 6 November the Times and the Financial Times reported a US intelligence memo, shared with a small group of senior officials before the president's May trip to Beijing, that describes the relationship and the recruitment assessment. [IC] The memo is an intelligence assessment. No charge has been brought, and its claims have not been tested in public. The Times reported that the president was briefed about a year ago. On 8 November he called Huang "a fine person" and "an honorable guy." [IC] Huang had lobbied the administration this year to allow sales of Nvidia's H200 chips to Chinese customers. [TBV] Separately, Taiwanese prosecutors detained an Nvidia employee in July 2026 in a chip diversion investigation. [TBV]
+
+### The market reaction
+
+In out-of-hours trading Nvidia shares fell 3 to 4 percent below Friday's close of $186.64, leaving the stock between a fifth and a quarter below its October high. [IC] Nasdaq-100 futures fell more than 1 percent in their first reaction, according to a widely shared market post; later readings were mixed. [TBV] On Monday 9 November Asian chipmakers rose, with TSMC up 6.5 percent and SK Hynix up 4.7 percent, recovering from the previous week's sell-off. [TBV] US markets had not opened when this section was written.
+
+Analysts divided. Bernstein called the news hard to read as anything but negative, and one fund manager said the company has "no natural successor." Others called it headline risk and named tighter export controls as the larger threat to revenue. [TBV] Nvidia reports quarterly results on 17 November, the day before the House briefing its chief executive has been asked to attend. [TBV] Gary Marcus, writing on 9 November, argues that Huang may have to resign and that, with no obvious successor, this could conceivably "tank the whole AI investment market." [IC]
+
+### Why one company matters
+
+Nvidia is the second most valuable company in the world, and it sits at the center of the AI financing web: it sells the chips, and it also invests in and backs the customers who buy them. [IC] It took a $30 billion stake in OpenAI in 2026 under an earlier arrangement to invest up to $100 billion. In July it was reported to be weighing a $250 billion guarantee for an OpenAI data center in Ohio and about $350 billion in chip financing for OpenAI. [IC] Bloomberg's mapping put the web of AI financing around it above $750 billion. [TBV] The [[research/dark-fiber-and-the-ai-overbuild|dark fiber brief]] compares these structures with telecom vendor financing in 2000.
+
+Where a supplier's equity stakes and guarantees are tied to its own customers, a shock to the supplier travels through their funding. When that supplier is also led by its founder with no named successor, a question about one person's judgment becomes a question about the whole chain. [structural inference] Credit markets were already pricing some of this: credit default swaps on Nvidia debt had risen 76 percent in a month by 6 November. [IC] The affair arrived in the same week as the election, the local data center votes and the sell-off, which leaves the AI trade facing political, local and governance pressure at once. [structural inference]
 
 ## What it means for bioregional practice
 
@@ -94,24 +125,31 @@ Places can say no to extraction, and they did so at the ballot box. The data cen
 
 The capital that funded the build-out is repricing, and the cost of money is rising. Long-dated, patient instruments such as [[concepts/performance-based-water-bonds|performance-based water bonds]] and [[concepts/outcome-payments-for-community-restoration|outcome payments]] compete for investors on terms different from growth equity, since they pay against measured outcomes in a place. Higher rates make every long-dated project harder to finance, so the case for them has to rest more heavily on the measured outcome. [structural inference]
 
-The week fits the [[glossary/m-s/s-curve|S-curve]] reading. When an investment wave keeps growing while the productivity it promised stays modest, it shows one of the signs the wiki tracks under [[concepts/deceleration-indicators|deceleration indicators]]. [structural inference] [[research/growth-economics|The S-Curve Research Brief]] sets out the longer argument.
+The week fits the [[glossary/m-s/s-curve|S-curve]] reading. When an investment wave keeps growing while the productivity it promised stays modest, it shows one of the signs the wiki tracks under [[concepts/deceleration-indicators|deceleration indicators]]. [structural inference] 
+[[research/growth-economics|The S-Curve Research Brief]] sets out the longer argument.
+
+A whole sector now depends on one supplier and on confidence in one person. Ecologists call a species whose loss reorganizes a system a keystone. A pension fund, an endowment, or a municipal reserve holding global equities carries that keystone exposure through index weights, often without having chosen it, and practitioners advising local investors or trustees can ask how much of their exposure runs through a single company. [structural inference] Diverse local economies with many small suppliers are slower to grow and harder to break.
 
 Practitioners in emerging economies should watch their currencies and borrowing costs. A US rate-hike cycle combined with a sell-off in global risk assets has, in past episodes, raised borrowing costs and weakened currencies in emerging markets. [TBV] No South African market data for this week was checked for this page. For the country's longer position, see [[research/south-africa-on-the-curve|South Africa on the Curve]].
 
 ## What to watch
 
 - Final Senate counts in Alaska (ranked-choice) and Mississippi.
-- The Nvidia briefing before three House committees, requested for 18 November. [TBV]
+- Nvidia's quarterly results on 17 November and the briefing before three House committees, requested for 18 November. [TBV]
+- The findings of Nvidia's board investigation, any change in its leadership, and any congressional investigation once the new Congress sits.
+- Whether the Commerce Department tightens export rules for chip resellers and cloud intermediaries in Southeast Asia.
 - The pricing and first-day trading of the Anthropic IPO, expected in November.
 - Hyperscaler capex guidance in the next round of company results.
 - The Federal Reserve's December decision.
 - The new Congress, which sits in January 2027, and any state-level data center legislation that follows the local votes.
 - Whether talk of public support for AI companies on national security grounds becomes a proposal.
+- Prediction markets have also opened contracts on Huang’s future. Polymarket put a 16% chance on him announcing his resignation or being removed by 31 December 2026, while a Kalshi market priced his departure by 1 January 2028 at 18%.
 
 ## Related
 
 - [[disruption/index|Disruption]]
 - [[research/growth-economics|The S-Curve Thesis and the Retention Counter-Tradition]]
+- [[research/dark-fiber-and-the-ai-overbuild|Dark Fiber and the AI Overbuild]]
 - [[research/what-gdp-leaves-out|What GDP Leaves Out]]
 - [[research/south-africa-on-the-curve|South Africa on the Curve]]
 - [[research/elite-overproduction-south-africa|Elite Overproduction in South Africa]]
@@ -122,21 +160,32 @@ Practitioners in emerging economies should watch their currencies and borrowing 
 
 ## References
 
+- Axios (2026, 27 July). [Nvidia reignites "circular" AI concerns as it weighs OpenAI financing guarantee](https://www.axios.com/2026/07/27/nvidia-openai-financing-ai-jensen-huang-ssi).
 - Al Jazeera (2026, 3 November). [Very cold war: who's attacking Europe's supermarket freezers?](https://aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers).
 - Bank of England (2026, November). [Monthly Decision Maker Panel data, November 2026](https://www.bankofengland.co.uk/decision-maker-panel/2026/november-2026).
+- Cotton, T. (2025, 14 October). [Cotton to Lutnick: investigate Chinese government spin-off Megaspeed for skirting US export laws](https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-investigate-chinese-government-spin-off-megaspeed-for-skirting-us-export-laws). Press release and letter to the Commerce Secretary.
 - Comparitech (2026, November). [Ransomware roundup: October 2026](https://www.comparitech.com/news/ransomware-roundup-october-2026/).
 - CBS News (2026, 5 November). [2026 midterm election results: where Democrats won](https://www.cbsnews.com/news/2026-midterm-election-results-where-democrats-won/).
 - CBS News (2026, 6 November). [Stocks rebound after tech selloff that pushed Nasdaq into correction](https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/).
 - CNN (2026, 5 November). [Stock markets plunge as massive tech sell-off wipes $2.5 trillion](https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges). Headline and figure as cited by Marcus; full text not retrieved.
+- Finwire (2026, 9 November). [Nvidia stock today: why Jensen Huang probe is rattling investors](https://finwire.io/news/stock-markets-news/nvidia-stock-falls-4-after-jensen-huang-probe-is-a-bigger-crash-coming).
+- Kathmandu Post / Reuters (2026, 9 November). [Nvidia shares fall as probe into CEO Jensen Huang's ties to alleged Chinese spy raises questions](https://kathmandupost.com/world/2026/11/09/nvidia-shares-fall-as-probe-into-ceo-jensen-huang-s-ties-to-alleged-chinese-spy-raises-questions).
 - Marcus, G. (2026, 5 November). Breaking: Mayhem in the market. *Marcus on AI* (Substack).
 - Marcus, G. (2026, 6 November). The markets dropped $2.5 trillion yesterday. What happens next? *Marcus on AI* (Substack).
+- Marcus, G. (2026, 9 November). The Huang Affair: What did they know and when did they know it? *Marcus on AI* (Substack).
 - ScruteX (2026, 23 October). [Black October 2026: 28 cyber incidents checked and explained](https://scrutex.ai/blogs/black-october-2026-cyber-incidents-explained).
 - S&P Global Market Intelligence (2026, 14 October). [Fed rate hikes complicated by AI spending immune to higher borrowing costs](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/10/fed-rate-hikes-complicated-by-ai-spending-immune-to-higher-borrowing-costs-106900547).
+- Startup Fortune (2026, July). [Nvidia's $750 billion AI financing web is drawing scrutiny over circular money flows](https://startupfortune.com/nvidias-750-billion-ai-financing-web-is-drawing-scrutiny-over-circular-money-flows/).
+- Startup Fortune (2026, November). [US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang](https://startupfortune.com/us-intelligence-memo-says-china-recruited-a-megaspeed-executive-to-spy-on-nvidias-jensen-huang/).
+- Stocktwits via Yahoo Finance (2026, 8 November). [Nvidia faces governance overhang: Jensen Huang's affair admission sparks board probe](https://finance.yahoo.com/markets/stocks/articles/nvidia-faces-governance-overhang-jensen-020907411.html).
+- Stocktwits via Yahoo News (2026, November). [Nvidia CEO Jensen Huang's alleged Chinese spy connection was flagged before Trump's Xi summit](https://www.yahoo.com/news/politics/articles/nvidia-ceo-jensen-huang-alleged-103955689.html).
 - StockTitan (2026, 6 November). [Chip stocks bounced back in the stock market today, November 6, 2026](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026).
+- TechCrunch (2026, 8 November). [Nvidia will investigate CEO Jensen Huang's relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/).
 - The Register (2026, 6 November). [Bank of England pours cold water on AI productivity boom](https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059).
 - The Local Denmark (2026, 3 November). [Fridge cyberattack on supermarkets across Europe prompts EU warning](https://www.thelocal.dk/20261103/fridge-cyberattack-on-supermarkets-across-europe-prompts-eu-warning).
 - TheStreet (2026, 6 November). [Stock market today: Nasdaq, S&P 500 rise after midterms AI rout](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026).
 - TRM Labs (2026, 30 October). [North Korea has stolen USD 12.8 billion in crypto, USD 7.4 billion of it in 2026](https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026).
+- Reuters via Yahoo Finance (2026, 9 November). [Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang](https://finance.yahoo.com/technology/articles/south-korea-says-nvidia-issues-022650481.html).
 - Venable LLP (2026, 4 November). [Voters approve data center restrictions](https://www.venable.com/insights/publications/2026/11/voters-approve-data-center-restrictions).
 - Wall Street Journal (2026, 5 November). Major investors are skeptical Anthropic IPO can achieve $1.5 trillion valuation. Reported via screenshots in Marcus (6 November); not retrieved directly.
 
@@ -144,4 +193,4 @@ Practitioners in emerging economies should watch their currencies and borrowing 
 
 Written on 7 November 2026 at Michael's request from two *Marcus on AI* posts he received on 5 and 6 November, checked against news coverage retrieved the same day. The first post was a subscriber preview cut off after its opening; the page uses only the visible portion.
 
-Editorial decisions. Claim tags follow `CONVENTIONS.md`. No claim here comes from the project's own documents, so the page carries no `[MS]`. `[IC]` marks a claim found in two or more independent reports, or a statement checked against the text of the person who made it. `[TBV]` marks a claim from a single report, including CBS's seat projections (not final when written), the per-stock moves, and figures that appear only in social media posts quoted in the newsletters (the Nvidia letter, the CNBC broadcast screenshot). Inline `[structural inference]` marks the page's own readings, which set its `epistemic_status`. The Redbud and Venable data center counts disagree and both are given. Several outlets (CNN, CNBC, NBC, Gizmodo) declined automated retrieval, so their figures enter through other reports. The Black October section was added at Michael's request later on 7 November 2026, from reports retrieved that day. Several outlets report the refrigeration attacks across seven European countries; the page names the five that Al Jazeera lists by store. The healthcare count is a ransomware tracker's tally of claimed attacks, most unconfirmed by the providers, and is tagged accordingly. Personal net worth figures, the Tesla Cybertruck item and Marcus's commentary on named individuals were left out as outside the wiki's subject. The page was drafted with Claude, an AI model made by Anthropic, one of the companies described; the Anthropic paragraph reports only the published record. This snapshot is not updated after its date; a later snapshot should take its place. Moved on the day it was written from `research/disruption-snapshot-2026-11.md` to the new `disruption/` folder, before publication.
+Editorial decisions. Claim tags follow `CONVENTIONS.md`. No claim here comes from the project's own documents, so the page carries no `[MS]`. `[IC]` marks a claim found in two or more independent reports, or a statement checked against the text of the person who made it. `[TBV]` marks a claim from a single report, including CBS's seat projections (not final when written), the per-stock moves, and figures that appear only in social media posts quoted in the newsletters (the Nvidia letter, the CNBC broadcast screenshot). Inline `[structural inference]` marks the page's own readings, which set its `epistemic_status`. The Redbud and Venable data center counts disagree and both are given. Several outlets (CNN, CNBC, NBC, Gizmodo) declined automated retrieval, so their figures enter through other reports. The Black October section was added at Michael's request later on 7 November 2026, from reports retrieved that day. Several outlets report the refrigeration attacks across seven European countries; the page names the five that Al Jazeera lists by store. The healthcare count is a ransomware tracker's tally of claimed attacks, most unconfirmed by the providers, and is tagged accordingly. Personal net worth figures, the Tesla Cybertruck item and Marcus's commentary on named individuals were left out as outside the wiki's subject. The page was drafted with Claude, an AI model made by Anthropic, one of the companies described; the Anthropic paragraph reports only the published record. This snapshot is not updated after its date; a later snapshot should take its place. The one exception is the late addition on the Nvidia affair, made at Michael's request on the morning of 9 November 2026 (South African time, before US markets opened) from a third *Marcus on AI* post and reports retrieved that morning. CNBC, Axios, NPR and Bloomberg declined automated retrieval, so their reporting enters through other outlets. The quotes from Huang's memo and the board statement appear in TechCrunch and in Stocktwits citing Bloomberg, and are tagged `[IC]`. Marcus's statement that a senior official oversaw a memo on the risks was not found in the reports checked and is left out, as are the personal details of the affair and commentary by other named individuals. A figure of $4.8 billion in Megaspeed purchases of Nvidia chips, attributed to the Times in social media posts, was not confirmed and is left out. Alice Huang is described only through published reporting and the intelligence assessment as reported; she did not respond to the Times, and the assessment has not been tested in public. Moved on the day it was written from `research/disruption-snapshot-2026-11.md` to the new `disruption/` folder, before publication.
