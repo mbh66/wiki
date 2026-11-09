@@ -1,14 +1,23 @@
 ---
-title: "Nature Performance Bond Investor Register"
-description: "A register of the banks, investors, insurers, development finance institutions and outcome funders that have taken part in nature performance instruments since 2016, in three tiers from global allocators to national institutions."
-aliases: ["investor register", "nature bond investors", "nature performance bond investors", "investors"]
-tags: ["landing", "investor-register", "performance-based-bond"]
+title: Nature Investor Register
+description: A register of the banks, investors, insurers, development finance institutions and outcome funders that have taken part in nature performance instruments since 2016, in three tiers from global allocators to national institutions.
+aliases:
+  - investor register
+  - nature bond investors
+  - nature performance bond investors
+  - investors
+tags:
+  - landing
+  - investor-register
+  - performance-based-bond
 created: 2026-10-15
 updated: 2026-10-15
-cssclasses: [hide-folder-listing]
-source_project: "BioConomy"
-source_documents: ["Nature performance bond investors.md"]
-epistemic_status: "documented-fact"
+cssclasses:
+  - hide-folder-listing
+source_project: BioConomy
+source_documents:
+  - Nature performance bond investors.md
+epistemic_status: documented-fact
 ---
 
 A small, recurring group of institutions has funded the 22 nature performance deals documented since 2016, and public balance sheets carry most of the credit underneath them.

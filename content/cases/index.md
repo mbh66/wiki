@@ -1,14 +1,24 @@
 ---
-title: "Community Catchment Case Register"
-description: "A register of cases in which a community holds, governs or is paid for a living catchment, one page per case, coded for assets, coordination, tenure, value flow, beyond-market markers, measured outcomes, capture and evidence level, with filters by place, climate and governance."
-aliases: ["case register", "catchment case register", "community catchment cases", "cases"]
-tags: ["landing", "case-register", "commons", "water-retention"]
+title: Case Register
+description: A register of cases in which a community holds, governs or is paid for a living catchment, one page per case, coded for assets, coordination, tenure, value flow, beyond-market markers, measured outcomes, capture and evidence level, with filters by place, climate and governance.
+aliases:
+  - case register
+  - catchment case register
+  - community catchment cases
+  - cases
+tags:
+  - landing
+  - case-register
+  - commons
+  - water-retention
 created: 2026-11-09
 updated: 2026-11-09
-cssclasses: [hide-folder-listing]
-source_project: "BioConomy"
-source_documents: ["Deep research report: Mountain Water Commons (9 November 2026)"]
-epistemic_status: "academic-inference"
+cssclasses:
+  - hide-folder-listing
+source_project: BioConomy
+source_documents:
+  - "Deep research report: Mountain Water Commons (9 November 2026)"
+epistemic_status: academic-inference
 ---
 
 The register holds one page per case in which a community mobilized a living catchment, so that research briefs and later enrichment runs add to a single, filterable record.
