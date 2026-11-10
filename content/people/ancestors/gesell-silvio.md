@@ -3,7 +3,7 @@ title: "Silvio Gesell (1862-1930)"
 aliases: ["Gesell", "Freigeld", "Freiwirtschaft", "free money"]
 tags: ["person", "monetary-design", "demurrage", "complementary-currency"]
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-11-10
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-fact"
@@ -17,7 +17,7 @@ Keynes gave Gesell qualified praise in Chapter 23 of *The General Theory* (1936)
 
 ## The Wörgl experiment
 
-The most cited test of Gesell's ideas was run not by Gesell himself (he died in 1930) but by Michael Unterguggenberger, the mayor of Wörgl, Austria, during the Depression. In July 1932, the municipality issued stamp scrip with a 1% monthly demurrage, accepted it for local taxes, and documented results: unemployment fell, public works were completed, and the scrip circulated at roughly fourteen times the velocity of the Austrian schilling. The Austrian National Bank shut the experiment down in September 1933, invoking its monopoly on currency issuance. The experiment ran for fourteen months in a town of 4,216 people. Its replicability under non-crisis conditions and at larger scale remains unproven, but the velocity data is the clearest empirical demonstration of demurrage's circulation effect.
+The most cited test of Gesell's ideas was run not by Gesell himself (he died in 1930) but by Michael Unterguggenberger, the mayor of Wörgl, Austria, during the Depression. In July 1932, the municipality began paying its workers in [[bioconomy/cases/currencies/worgl-labor-certificates|Wörgl labor certificates]] carrying a 1% monthly demurrage, accepted them for local taxes, and used the proceeds and other funds for about 100,000 schillings of relief works: drains, asphalted streets, street lighting, a ski jump and a public kitchen. Only 12,000 schillings of certificates were ever issued, covered by an equal schilling deposit, and an eyewitness found no rise in prices and higher parish tax receipts in 1932 (von Muralt 1934). The claims most often repeated, that unemployment fell sharply and that the scrip circulated fourteen times faster than the schilling, come from advocates' accounts and were not measured. The Austrian national bank opposed the issue as an infringement of its note-issuing privilege; district authorities suspended further issue in May 1933, and the Administrative Court ended the scheme later in 1933. Its replicability under non-crisis conditions and at larger scale remains unproven, and it offers no measured evidence of demurrage's effect on velocity.
 
 A parallel experiment, the Wära currency in Schwanenkirchen, Bavaria (1930-1931), tested stamp scrip at the scale of a single mining community and was suppressed by emergency decree of the German government.
 
@@ -49,10 +49,13 @@ Gesell is positioned in the wiki as an ancestor because his specific contributio
 - Gesell, S. (1916). *The Natural Economic Order* (*Die natürliche Wirtschaftsordnung*).
 - Keynes, J.M. (1936). *The General Theory of Employment, Interest and Money*, Chapter 23.
 - Lietaer, B. (2001). *The Future of Money*.
+- [[sources/von-muralt-1934-woergl|Von Muralt, A. (1934)]]. The Woergl experiment with depreciating money. *Annals of Public and Cooperative Economics* 10(1): 48-57.
 
 ## Provenance
 
 Written 12 September 2026 as a people/ancestors entry. Biographical and analytical content drawn from the wiki's existing references to Gesell across the demurrage glossary entry, the Emancipation Architecture framework, the Cheapest Available Behavior concept, and the Bioregional Currency framework. The positioning of Gesell's contribution relative to the EA and the Coercion Continuum is the wiki author's.
+
+Revised on 10 November 2026: the Wörgl account was corrected against von Muralt (1934), the eyewitness account read for the currency case register.
 
 <script type="application/ld+json">
 {

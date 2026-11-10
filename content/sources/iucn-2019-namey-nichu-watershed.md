@@ -19,7 +19,7 @@ IUCN describes a community forest group in Paro that keeps a 50-meter buffer aro
 
 ## Cited by
 
-- [[cases/himalaya/paro-watershed-payment|Paro Watershed Payment]]
+- [[paro-watershed-payment|Paro Watershed Payment]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

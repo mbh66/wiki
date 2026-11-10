@@ -20,8 +20,8 @@ The Act declares Te Urewera a legal entity with the rights, powers, duties and l
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/oceania/te-urewera|Te Urewera]]
-- [[cases/oceania/index|Oceania: Community Catchment Cases]]
+- [[te-urewera|Te Urewera]]
+- [[bioconomy/cases/catchments/oceania/index|Oceania: Community Catchment Cases]]
 
 <script type="application/ld+json">
 {

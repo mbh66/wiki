@@ -19,7 +19,7 @@ SNV, which facilitated the agreement, reports that it was signed on 29 October 2
 
 ## Cited by
 
-- [[cases/himalaya/paro-watershed-payment|Paro Watershed Payment]]
+- [[paro-watershed-payment|Paro Watershed Payment]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

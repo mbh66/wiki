@@ -21,7 +21,7 @@ The authors describe careo channels and amunas as one family of practice: wet-se
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/iberia-mediterranean-and-arabia/acequias-de-careo-of-berchules|Acequias de Careo of Bérchules]]
+- [[acequias-de-careo-of-berchules|Acequias de Careo of Bérchules]]
 
 <script type="application/ld+json">
 {

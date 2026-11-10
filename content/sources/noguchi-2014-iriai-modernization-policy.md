@@ -20,7 +20,7 @@ The article reviews the policy that followed the 1966 law and characterizes it a
 
 ## Cited by
 
-- [[cases/southeast-and-east-asia/iriai-commons-of-japan|Iriai Commons of Japan]]
+- [[iriai-commons-of-japan|Iriai Commons of Japan]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

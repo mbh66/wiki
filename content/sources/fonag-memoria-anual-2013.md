@@ -19,7 +19,7 @@ The annual report describes the Junta del Fideicomiso as "integrada por los repr
 
 ## Cited by
 
-- [[cases/andes/fonag-water-fund-quito|FONAG Water Fund, Quito]]
+- [[fonag-water-fund-quito|FONAG Water Fund, Quito]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

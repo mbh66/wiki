@@ -20,7 +20,7 @@ About 21.5 million spekboom cuttings were planted from 2004 to 2016 in Addo Elep
 
 ## Cited by
 
-- [[cases/africa/living-lands-in-the-baviaanskloof|Living Lands in the Baviaanskloof]]
+- [[living-lands-in-the-baviaanskloof|Living Lands in the Baviaanskloof]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

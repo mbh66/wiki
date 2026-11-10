@@ -23,7 +23,7 @@ The paper assesses six integrated watershed management programs in Ethiopia. Hai
 - [[research/mountain-water-commons|Mountain Water Commons]]
 - [[research/water-retention-evidence|Retention Works on the Slope, Unproven at the River]]
 - [[research/landscape-restoration-sub-saharan-africa|Community-Led Landscape Restoration in Sub-Saharan Africa]]
-- [[cases/africa/abreha-we-atsbeha-watershed|Abreha we Atsbeha Watershed]]
+- [[abreha-we-atsbeha-watershed|Abreha we Atsbeha Watershed]]
 
 <script type="application/ld+json">
 {

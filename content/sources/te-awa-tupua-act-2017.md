@@ -20,8 +20,8 @@ The Act recognizes Te Awa Tupua, the Whanganui River from the mountains to the s
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/oceania/te-awa-tupua-whanganui-river|Te Awa Tupua (Whanganui River)]]
-- [[cases/oceania/index|Oceania: Community Catchment Cases]]
+- [[te-awa-tupua-whanganui-river|Te Awa Tupua (Whanganui River)]]
+- [[bioconomy/cases/catchments/oceania/index|Oceania: Community Catchment Cases]]
 
 <script type="application/ld+json">
 {

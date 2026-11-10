@@ -98,7 +98,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
 - [For Advisors to Family and Institutional Capital](https://wiki.bioconomy.earth/templates/for-capital-advisors): What the founding suite gives advisors who present BioHubs to family and institutional capital
 
-## Research (20 briefs)
+## Research (22 briefs)
 
 - [The S-Curve Thesis and the Retention Counter-Tradition](https://wiki.bioconomy.earth/research/growth-economics): The foundational research brief (55KB)
 - [Historical Patronage and the Three-Feature Test](https://wiki.bioconomy.earth/research/historical-patronage-three-feature-test): Cross-cluster patronage analysis
@@ -121,6 +121,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Glocalization and the Evolution of Production: Regionalization Under Existing Owners](https://wiki.bioconomy.earth/research/glocalization-and-the-evolution-of-production): Weber, the substitution principle, the new international division of labor and comparative advantage tested against production-location data to November 2026, with ten graded hypotheses, a theory register and an indicator table (CSV)
 - [The Evolution of Production: Four Forms, One Broken Link](https://wiki.bioconomy.earth/research/evolution-of-production): Michael Haupt's sequence of four production forms tested against TIME's five properties; forms real, dated and coexisting, the debt-passing link rejected, with an amended table, a form register and a reconciliation of the wiki's sequences (CSV)
 - [Mountain Water Commons: Community-Held Catchments Beyond Asset-Based Development](https://wiki.bioconomy.earth/research/mountain-water-commons): Communities that hold a mountain catchment's water function as a shared asset, mostly in commons, customary and Indigenous traditions; 47 cases in the case register, nine graded predictions, capture and failure
+- [Who Watches the Water? Resource-Tied Money and Water Rights Compared](https://wiki.bioconomy.earth/research/who-watches-the-water): 29 currencies, receipts and tokens set beside 9 water rights, fees and payments; no currency backed by water, no case with user-accountable monitoring of the resource, the San Luis Valley fee, fit for a flow, and nine re-graded predictions
 
 ## Disruption
 
@@ -151,15 +152,17 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Cases
 
-- [Community Catchment Case Register](https://wiki.bioconomy.earth/cases/): One page per case in which a community holds, governs or is paid for a living catchment, coded for tenure, governance, value flow, beyond-market markers, measured outcomes and evidence, with views by continent, country, mountain system, climate and governance
-- [Andes: Community Catchment Cases](https://wiki.bioconomy.earth/cases/andes/): The brief's narrative for the 7 Andes cases, with a table of them
-- [Mexico and North America: Community Catchment Cases](https://wiki.bioconomy.earth/cases/mexico-and-north-america/): The brief's narrative for the 4 Mexico and North America cases, with a table of them
-- [Iberia, the Mediterranean and Arabia: Community Catchment Cases](https://wiki.bioconomy.earth/cases/iberia-mediterranean-and-arabia/): The brief's narrative for the 5 Iberia, the Mediterranean and Arabia cases, with a table of them
-- [Alps and Europe: Community Catchment Cases](https://wiki.bioconomy.earth/cases/alps-and-europe/): The brief's narrative for the 6 Alps and Europe cases, with a table of them
-- [Himalaya: Community Catchment Cases](https://wiki.bioconomy.earth/cases/himalaya/): The brief's narrative for the 6 Himalaya cases, with a table of them
-- [Southeast and East Asia: Community Catchment Cases](https://wiki.bioconomy.earth/cases/southeast-and-east-asia/): The brief's narrative for the 4 Southeast and East Asia cases, with a table of them
-- [Africa: Community Catchment Cases](https://wiki.bioconomy.earth/cases/africa/): The brief's narrative for the 12 Africa cases, with a table of them
-- [Oceania: Community Catchment Cases](https://wiki.bioconomy.earth/cases/oceania/): The brief's narrative for the 3 Oceania cases, with a table of them
+- [Case Registers](https://wiki.bioconomy.earth/cases/): Landing page for the wiki's two case registers and how they relate
+- [Community Catchment Case Register](https://wiki.bioconomy.earth/cases/catchments/): One page per case in which a community holds, governs or is paid for a living catchment, coded for tenure, governance, value flow, beyond-market markers, measured outcomes and evidence, with views by continent, country, mountain system, climate and governance
+- [Andes: Community Catchment Cases](https://wiki.bioconomy.earth/cases/catchments/andes/): The regional narrative for the 8 Andes cases, with a table of them
+- [Mexico and North America: Community Catchment Cases](https://wiki.bioconomy.earth/cases/catchments/mexico-and-north-america/): The regional narrative for the 6 Mexico and North America cases, with a table of them
+- [Iberia, the Mediterranean and Arabia: Community Catchment Cases](https://wiki.bioconomy.earth/cases/catchments/iberia-mediterranean-and-arabia/): The regional narrative for the 5 Iberia, the Mediterranean and Arabia cases, with a table of them
+- [Alps and Europe: Community Catchment Cases](https://wiki.bioconomy.earth/cases/catchments/alps-and-europe/): The regional narrative for the 6 Alps and Europe cases, with a table of them
+- [Himalaya: Community Catchment Cases](https://wiki.bioconomy.earth/cases/catchments/himalaya/): The regional narrative for the 6 Himalaya cases, with a table of them
+- [Southeast and East Asia: Community Catchment Cases](https://wiki.bioconomy.earth/cases/catchments/southeast-and-east-asia/): The regional narrative for the 4 Southeast and East Asia cases, with a table of them
+- [Africa: Community Catchment Cases](https://wiki.bioconomy.earth/cases/catchments/africa/): The regional narrative for the 12 Africa cases, with a table of them
+- [Oceania: Community Catchment Cases](https://wiki.bioconomy.earth/cases/catchments/oceania/): The regional narrative for the 4 Oceania cases, with a table of them
+- [Currency Case Register](https://wiki.bioconomy.earth/cases/currencies/): One page per currency, voucher, warehouse receipt or token tied to grain, land, carbon or ecological work, with comparison currencies, coded for backing, measurement, design principles, institutional fit, outcomes, failure and evidence, with the coding rules and the basis for every score
 
 ## Investors
 

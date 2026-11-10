@@ -19,8 +19,8 @@ The agency reports that about 1.85 million hectares of iriai forest existed when
 
 ## Cited by
 
-- [[cases/southeast-and-east-asia/iriai-commons-of-japan|Iriai Commons of Japan]]
-- [[cases/southeast-and-east-asia/index|Southeast and East Asia: Community Catchment Cases]]
+- [[iriai-commons-of-japan|Iriai Commons of Japan]]
+- [[bioconomy/cases/catchments/southeast-and-east-asia/index|Southeast and East Asia: Community Catchment Cases]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

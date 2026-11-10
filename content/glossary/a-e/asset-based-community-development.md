@@ -18,7 +18,7 @@ Community development that starts from mapping and connecting what a community a
 
 John Kretzmann and John McKnight set out the method in *Building Communities from the Inside Out* (1993), and the ABCD Institute, Nurture Development and the Coady International Institute (as asset-based and citizen-led development) carry it on. A community maps its assets in the six categories, connects them, and builds from them before it looks for outside help.
 
-In most practice the assets mapped are people, groups, buildings and businesses, and natural systems appear only as physical space. Critics argue that this leaves the method compatible with state retreat and market provision ([[sources/macleod-emejulu-2014-neoliberalism-community-face|MacLeod and Emejulu 2014]]). In the wiki's [[cases/index|case register]], 3 of 46 cases are ABCD by name or ABCD-framed, and none governs a mountain catchment; the strongest cases of a community holding a mountain's water function come from commons and customary traditions ([[research/mountain-water-commons|Mountain Water Commons]]).
+In most practice the assets mapped are people, groups, buildings and businesses, and natural systems appear only as physical space. Critics argue that this leaves the method compatible with state retreat and market provision ([[sources/macleod-emejulu-2014-neoliberalism-community-face|MacLeod and Emejulu 2014]]). In the wiki's [[bioconomy/cases/catchments/index|case register]], 3 of 46 cases are ABCD by name or ABCD-framed, and none governs a mountain catchment; the strongest cases of a community holding a mountain's water function come from commons and customary traditions ([[research/mountain-water-commons|Mountain Water Commons]]).
 
 ## Contrast with adjacent terms
 

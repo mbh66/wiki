@@ -19,7 +19,7 @@ The determination sets the conditions under which New York City may keep drawing
 
 ## Cited by
 
-- [[cases/mexico-and-north-america/new-york-city-watershed-agreement-and-the-catskills|New York City Watershed Agreement and the Catskills]]
+- [[new-york-city-watershed-agreement-and-the-catskills|New York City Watershed Agreement and the Catskills]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

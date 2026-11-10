@@ -19,8 +19,8 @@ The authors analyze FONAG as a payment scheme for water. They state that each co
 
 ## Cited by
 
-- [[cases/andes/fonag-water-fund-quito|FONAG Water Fund, Quito]]
-- [[cases/andes/index|Andes: Community Catchment Cases]]
+- [[fonag-water-fund-quito|FONAG Water Fund, Quito]]
+- [[bioconomy/cases/catchments/andes/index|Andes: Community Catchment Cases]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

@@ -19,7 +19,7 @@ Following its 2008 Mieders ruling, the Court found no constitutional objection t
 
 ## Cited by
 
-- [[cases/alps-and-europe/agrargemeinschaften-of-tyrol|Agrargemeinschaften of Tyrol]]
+- [[agrargemeinschaften-of-tyrol|Agrargemeinschaften of Tyrol]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

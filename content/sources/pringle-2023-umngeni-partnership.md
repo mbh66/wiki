@@ -20,8 +20,8 @@ The study traces how the uMngeni partnership, coordinated by SANBI with eThekwin
 
 ## Cited by
 
-- [[cases/africa/umngeni-ecological-infrastructure-partnership|uMngeni Ecological Infrastructure Partnership]]
-- [[cases/africa/index|Africa: Community Catchment Cases]]
+- [[umngeni-ecological-infrastructure-partnership|uMngeni Ecological Infrastructure Partnership]]
+- [[bioconomy/cases/catchments/africa/index|Africa: Community Catchment Cases]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

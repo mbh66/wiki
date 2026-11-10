@@ -19,7 +19,7 @@ The report describes 18 boreholes and 9 wells serving more than 70,000 people, a
 
 ## Cited by
 
-- [[cases/africa/makutano-water-points|Makutano Water Points]]
+- [[makutano-water-points|Makutano Water Points]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

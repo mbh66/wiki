@@ -19,7 +19,7 @@ The county tourism bureau director said the Shibo tourism company gives 10% of t
 
 ## Cited by
 
-- [[cases/southeast-and-east-asia/hani-rice-terraces|Hani Rice Terraces]]
+- [[hani-rice-terraces|Hani Rice Terraces]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

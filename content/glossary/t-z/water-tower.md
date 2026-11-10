@@ -18,7 +18,7 @@ A mountain area that stores water as snow, ice, soil water or groundwater and su
 
 The term is used in hydrology and by UNEP and the Mountain Partnership. Immerzeel et al. (2020) defined 78 water tower units worldwide and estimated that their decline could affect 1.9 billion people; Viviroli et al. (2020) project that about 1.5 billion lowland people will depend critically on mountain runoff by mid-century. Kenya calls its main forested mountains water towers in law and policy.
 
-The wiki uses the term for the physical asset that the [[cases/index|case register]] asks about: a mountain's capacity to hold water and release it slowly. The water tower literature establishes the asset and is silent on who holds it.
+The wiki uses the term for the physical asset that the [[bioconomy/cases/catchments/index|case register]] asks about: a mountain's capacity to hold water and release it slowly. The water tower literature establishes the asset and is silent on who holds it.
 
 ## Contrast with adjacent terms
 

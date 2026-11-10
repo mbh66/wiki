@@ -20,7 +20,7 @@ The authors examine how a recent law on land whose registered owners are unclear
 
 ## Cited by
 
-- [[cases/southeast-and-east-asia/iriai-commons-of-japan|Iriai Commons of Japan]]
+- [[iriai-commons-of-japan|Iriai Commons of Japan]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

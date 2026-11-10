@@ -20,7 +20,7 @@ Written as a collaborative reflection on practice with Living Lands, the article
 
 ## Cited by
 
-- [[cases/africa/living-lands-in-the-baviaanskloof|Living Lands in the Baviaanskloof]]
+- [[living-lands-in-the-baviaanskloof|Living Lands in the Baviaanskloof]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

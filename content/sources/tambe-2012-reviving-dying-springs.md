@@ -21,7 +21,7 @@ The paper reports the start of Sikkim's Dhara Vikas program, which maps the rech
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/himalaya/dhara-vikas-springsheds-sikkim|Dhara Vikas Springsheds, Sikkim]]
+- [[dhara-vikas-springsheds-sikkim|Dhara Vikas Springsheds, Sikkim]]
 - [[glossary/m-s/springshed|Springshed]]
 
 <script type="application/ld+json">

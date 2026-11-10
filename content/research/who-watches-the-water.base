@@ -1,0 +1,84 @@
+filters:
+  and:
+    - file.ext == "md"
+    - or:
+        - file.hasTag("case")
+        - file.hasTag("currency-case")
+    - contains(briefs, "who-watches-the-water")
+    - draft != true
+formulas:
+  case: file.asLink(title)
+properties:
+  formula.case:
+    displayName: Case
+  country:
+    displayName: Country
+  resource_group:
+    displayName: Resource group
+  backing:
+    displayName: Backing
+  backed_anchored_themed:
+    displayName: Backed, anchored or themed
+  measurement:
+    displayName: Measurement
+  dp_present:
+    displayName: Principles present
+  dp_absent:
+    displayName: Principles absent
+  fit_score:
+    displayName: Fit
+  persistence:
+    displayName: Persistence
+  capture_or_harm:
+    displayName: Failure, capture or harm
+  value_flow:
+    displayName: Value flow
+  water_outcome:
+    displayName: Water outcome
+  evidence_economy:
+    displayName: Economy evidence
+  evidence_resource:
+    displayName: Resource evidence
+  evidence_water:
+    displayName: Water evidence
+  grade:
+    displayName: Grade
+views:
+  - type: table
+    name: Currency cases
+    filters:
+      and:
+        - file.hasTag("currency-case")
+    groupBy:
+      property: resource_group
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - backing
+      - backed_anchored_themed
+      - measurement
+      - dp_present
+      - dp_absent
+      - fit_score
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Water rights, fees and payments
+    filters:
+      and:
+        - file.hasTag("case")
+    order:
+      - formula.case
+      - country
+      - value_flow
+      - water_outcome
+      - evidence_water
+      - capture_or_harm
+      - grade
+    sort:
+      - property: title
+        direction: ASC

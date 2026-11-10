@@ -19,7 +19,7 @@ The resolution recognizes the Zona de Agrobiodiversidad Parque de la Papa in Pis
 
 ## Cited by
 
-- [[cases/andes/potato-park-pisac|Potato Park, Pisac]]
+- [[potato-park-pisac|Potato Park, Pisac]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

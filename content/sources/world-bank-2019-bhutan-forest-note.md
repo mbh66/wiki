@@ -19,8 +19,8 @@ The note reviews forest management and forest-based livelihoods in Bhutan and re
 
 ## Cited by
 
-- [[cases/himalaya/paro-watershed-payment|Paro Watershed Payment]]
-- [[cases/himalaya/index|Himalaya: Community Catchment Cases]]
+- [[paro-watershed-payment|Paro Watershed Payment]]
+- [[bioconomy/cases/catchments/himalaya/index|Himalaya: Community Catchment Cases]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

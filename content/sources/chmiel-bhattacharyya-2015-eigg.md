@@ -19,7 +19,7 @@ The authors model the Eigg system after its first years of operation and report 
 
 ## Cited by
 
-- [[cases/alps-and-europe/isle-of-eigg-buyout-and-hydro|Isle of Eigg Buyout and Hydro]]
+- [[isle-of-eigg-buyout-and-hydro|Isle of Eigg Buyout and Hydro]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

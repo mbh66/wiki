@@ -20,8 +20,8 @@ The Act declares Te Kāhui Tupua, comprising Taranaki Maunga and the surrounding
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/oceania/te-kahui-tupua-taranaki-maunga|Te Kāhui Tupua (Taranaki Maunga)]]
-- [[cases/oceania/index|Oceania: Community Catchment Cases]]
+- [[te-kahui-tupua-taranaki-maunga|Te Kāhui Tupua (Taranaki Maunga)]]
+- [[bioconomy/cases/catchments/oceania/index|Oceania: Community Catchment Cases]]
 
 <script type="application/ld+json">
 {

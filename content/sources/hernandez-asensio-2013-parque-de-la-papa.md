@@ -19,7 +19,7 @@ The study, written for RIMISP's program on rural territorial development, examin
 
 ## Cited by
 
-- [[cases/andes/potato-park-pisac|Potato Park, Pisac]]
+- [[potato-park-pisac|Potato Park, Pisac]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

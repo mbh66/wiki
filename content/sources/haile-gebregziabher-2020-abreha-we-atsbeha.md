@@ -20,7 +20,7 @@ The article reports that 4,644 hectares (69%) of the watershed were restored wit
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/africa/abreha-we-atsbeha-watershed|Abreha we Atsbeha Watershed]]
+- [[abreha-we-atsbeha-watershed|Abreha we Atsbeha Watershed]]
 
 <script type="application/ld+json">
 {

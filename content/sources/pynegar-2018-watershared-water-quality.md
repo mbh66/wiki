@@ -21,7 +21,7 @@ The study randomly assigned 129 communities in Bolivia's Río Grande valleys to 
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/andes/watershared-randomized-trial|Watershared Randomized Trial]]
+- [[watershared-randomized-trial|Watershared Randomized Trial]]
 - [[glossary/m-s/reciprocal-water-agreement|Reciprocal water agreement]]
 
 <script type="application/ld+json">

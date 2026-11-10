@@ -20,7 +20,7 @@ The evaluation covers the program run with Oxfam Canada, Hundee, KMG Ethiopia an
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/africa/coady-abcd-program-in-ethiopia|Coady ABCD Program in Ethiopia]]
+- [[coady-abcd-program-in-ethiopia|Coady ABCD Program in Ethiopia]]
 - [[glossary/a-e/asset-based-community-development|Asset-Based Community Development]]
 
 <script type="application/ld+json">

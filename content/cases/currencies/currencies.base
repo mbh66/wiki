@@ -1,0 +1,367 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("currency-case")
+    - draft != true
+formulas:
+  case: file.asLink(title)
+properties:
+  formula.case:
+    displayName: Case
+  continent:
+    displayName: Continent
+  country:
+    displayName: Country
+  scale:
+    displayName: Scale
+  years:
+    displayName: Years
+  resource:
+    displayName: Resource
+  resource_group:
+    displayName: Resource group
+  resource_kind:
+    displayName: Resource kind
+  backing:
+    displayName: Backing
+  backing_dominant:
+    displayName: Dominant backing
+  backing_claimed:
+    displayName: Backing as claimed
+  backed_anchored_themed:
+    displayName: Backed, anchored or themed
+  measurement:
+    displayName: Measurement
+  issuer:
+    displayName: Issuer
+  coordination:
+    displayName: Coordination
+  holding_cost:
+    displayName: Holding cost
+  tradeable_claim:
+    displayName: Tradeable claim
+  design_principles:
+    displayName: Design principles
+  fit:
+    displayName: Institutional fit
+  fit_score:
+    displayName: Fit
+  dp_present:
+    displayName: Principles present
+  dp_absent:
+    displayName: Principles absent
+  dp_unknown:
+    displayName: Principles unknown
+  economy_outcome:
+    displayName: Economy outcome
+  resource_outcome:
+    displayName: Resource outcome
+  persistence:
+    displayName: Persistence
+  capture_or_harm:
+    displayName: Failure or capture
+  evidence_economy:
+    displayName: Economy evidence
+  evidence_resource:
+    displayName: Resource evidence
+  grade:
+    displayName: Grade
+  independent:
+    displayName: Independent
+  briefs:
+    displayName: Briefs
+  sources_short:
+    displayName: Sources
+  last_checked:
+    displayName: Last checked
+views:
+  - type: table
+    name: All cases
+    groupBy:
+      property: resource_group
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - years
+      - backing
+      - backed_anchored_themed
+      - evidence_economy
+      - evidence_resource
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By dominant backing
+    groupBy:
+      property: backing_dominant
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - years
+      - backing
+      - backed_anchored_themed
+      - evidence_economy
+      - evidence_resource
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Backed, anchored or themed
+    groupBy:
+      property: backed_anchored_themed
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - years
+      - backing
+      - backed_anchored_themed
+      - evidence_economy
+      - evidence_resource
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By continent
+    groupBy:
+      property: continent
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - years
+      - backing
+      - backed_anchored_themed
+      - evidence_economy
+      - evidence_resource
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By issuer
+    groupBy:
+      property: issuer
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - backing
+      - issuer
+      - holding_cost
+      - persistence
+      - capture_or_harm
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Demurrage
+    filters:
+      and:
+        - holding_cost.contains("demurrage")
+    order:
+      - formula.case
+      - country
+      - backing
+      - issuer
+      - holding_cost
+      - persistence
+      - capture_or_harm
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Tradeable claims
+    filters:
+      and:
+        - tradeable_claim.contains("yes")
+    order:
+      - formula.case
+      - country
+      - backing
+      - issuer
+      - holding_cost
+      - persistence
+      - capture_or_harm
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Failures and closures
+    filters:
+      and:
+        - failure_or_capture == true
+    groupBy:
+      property: resource_group
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - backing
+      - issuer
+      - holding_cost
+      - persistence
+      - capture_or_harm
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Measured resource outcomes
+    filters:
+      and:
+        - evidence_resource != "n/a"
+        - evidence_resource != "none"
+        - evidence_resource != "E5"
+    order:
+      - formula.case
+      - country
+      - resource
+      - measurement
+      - economy_outcome
+      - evidence_economy
+      - resource_outcome
+      - evidence_resource
+      - grade
+      - independent
+    sort:
+      - property: evidence_resource
+        direction: ASC
+  - type: table
+    name: Independent evidence
+    filters:
+      and:
+        - independent == "yes"
+    order:
+      - formula.case
+      - country
+      - resource
+      - measurement
+      - economy_outcome
+      - evidence_economy
+      - resource_outcome
+      - evidence_resource
+      - grade
+      - independent
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Design principles
+    groupBy:
+      property: resource_group
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - backing
+      - dp_present
+      - dp_absent
+      - fit_score
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Users make the rules
+    filters:
+      and:
+        - dp_present.contains("3")
+    order:
+      - formula.case
+      - country
+      - backing
+      - dp_present
+      - dp_absent
+      - fit_score
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Resource monitored by users
+    filters:
+      and:
+        - dp_present.contains("4B")
+    order:
+      - formula.case
+      - country
+      - backing
+      - dp_present
+      - dp_absent
+      - fit_score
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Rights challenged
+    filters:
+      and:
+        - dp_absent.contains("7")
+    order:
+      - formula.case
+      - country
+      - backing
+      - dp_present
+      - dp_absent
+      - fit_score
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By institutional fit
+    groupBy:
+      property: fit_score
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - backing
+      - dp_present
+      - dp_absent
+      - fit_score
+      - persistence
+      - grade
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Awaiting enrichment
+    filters:
+      and:
+        - grade == "[TBV]"
+    groupBy:
+      property: resource_group
+      direction: ASC
+    order:
+      - formula.case
+      - country
+      - sources_short
+      - last_checked
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Last checked
+    order:
+      - formula.case
+      - country
+      - grade
+      - last_checked
+    sort:
+      - property: last_checked
+        direction: ASC

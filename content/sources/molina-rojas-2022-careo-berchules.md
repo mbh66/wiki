@@ -20,8 +20,8 @@ The authors sampled springs across the Bérchules basin in 2019 and found a homo
 
 ## Cited by
 
-- [[cases/iberia-mediterranean-and-arabia/acequias-de-careo-of-berchules|Acequias de Careo of Bérchules]]
-- [[cases/iberia-mediterranean-and-arabia/restored-acequias-de-careo-of-canar|Restored Acequias de Careo of Cáñar]]
+- [[acequias-de-careo-of-berchules|Acequias de Careo of Bérchules]]
+- [[restored-acequias-de-careo-of-canar|Restored Acequias de Careo of Cáñar]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

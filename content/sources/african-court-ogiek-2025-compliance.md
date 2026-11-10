@@ -20,8 +20,8 @@ In its first ruling on compliance in the case, the Court found that Kenya had co
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/africa/ogiek-and-the-mau-forest|Ogiek and the Mau Forest]]
-- [[cases/africa/index|Africa: Community Catchment Cases]]
+- [[ogiek-and-the-mau-forest|Ogiek and the Mau Forest]]
+- [[bioconomy/cases/catchments/africa/index|Africa: Community Catchment Cases]]
 
 <script type="application/ld+json">
 {

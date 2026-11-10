@@ -3,7 +3,7 @@ title: Money Theories as Coordination Stories
 aliases: ["monetary stories", "coordination stories in money theory", "the public story of money"]
 tags: [concept, money, coordination, s-curve, substrate]
 created: 2026-09-10
-updated: 2026-11-07
+updated: 2026-11-10
 source_project: BioConomy
 source_documents: []
 epistemic_status: structural-inference
@@ -45,7 +45,7 @@ The story is a substrate component because it lowers the cost of compliance with
 
 Any alternative substrate the BioConomy proposes (bioregional demurrage, commitment pools, Regenerative Participation Income) faces two design questions, and the concept developed here separates them.
 
-The first question is what forces primary demand for the alternative unit of account. This is what the tax obligation does in the fiat system. Demurrage answers the velocity question (holding the unit becomes costly). It does not by itself answer the demand question. The Wörgl stamp scrip circulated fourteen times faster than the national currency because it was demurrage-charged; it was acquired in the first place because the municipality accepted it for local taxes and paid municipal workers in it. Absent an analogous acquisition mechanism, demurrage produces velocity among the already-committed and nothing more. This is a substrate-engineering problem.
+The first question is what forces primary demand for the alternative unit of account. This is what the tax obligation does in the fiat system. Demurrage answers the velocity question (holding the unit becomes costly). It does not by itself answer the demand question. Wörgl shows the split. Its [[bioconomy/cases/currencies/worgl-labor-certificates|Wörgl labor certificates]] of 1932 to 1933 carried a demurrage charge meant to speed circulation, and they were acquired in the first place because the municipality paid its workers in them and accepted them for local taxes, which is where most of them quickly returned. No reliable velocity measurement exists: the figure often repeated, that the scrip circulated fourteen times faster than the schilling, comes from advocates' accounts, and the one eyewitness report found that about a third of the notes issued were kept by collectors (von Muralt 1934). Absent an analogous acquisition mechanism, demurrage produces velocity among the already-committed and nothing more. This is a substrate-engineering problem.
 
 The second question is what public story sits on top of the substrate and legitimates it in the discourse of ordinary participants. The metallist story spoke of natural scarcity. The sound-finance story spoke of household prudence. A deceleration-phase substrate would need a story with comparable public force. The Doughnut, planetary boundaries, the commons tradition, and bioregionalism are candidate stories. Assessing them against their coordination capacity is the analytical task the [[research/monetary-theory-growth|MMT as Growth-Phase Story]] brief takes on.
 

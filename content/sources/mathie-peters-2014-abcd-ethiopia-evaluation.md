@@ -20,7 +20,7 @@ The authors, both of the Coady Institute that ran the program, discuss how sever
 
 ## Cited by
 
-- [[cases/africa/coady-abcd-program-in-ethiopia|Coady ABCD Program in Ethiopia]]
+- [[coady-abcd-program-in-ethiopia|Coady ABCD Program in Ethiopia]]
 - [[glossary/a-e/asset-based-community-development|Asset-Based Community Development]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 

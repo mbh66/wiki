@@ -19,7 +19,7 @@ The study surveys the Yakpugang scheme, in which Mongar town pays the village's 
 
 ## Cited by
 
-- [[cases/himalaya/yakpugang-watershed-payment|Yakpugang Watershed Payment]]
+- [[yakpugang-watershed-payment|Yakpugang Watershed Payment]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

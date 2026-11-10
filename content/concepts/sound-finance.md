@@ -3,7 +3,7 @@ title: "Sound Finance"
 aliases: ["sound finance", "sound finance doctrine", "Treasury view", "fiscal orthodoxy", "taxes fund government"]
 tags: [concept, fiscal, monetary-design, coordination, s-curve, coercion-continuum]
 created: 2026-09-10
-updated: 2026-11-07
+updated: 2026-11-10
 source_project: BioConomy
 source_documents: [Hut_Tax.md]
 epistemic_status: documented-framework
@@ -79,7 +79,7 @@ The difference is the story on top. The hut tax carried no story. Sound finance 
 
 ## Implications for the BioConomy
 
-Any alternative monetary substrate the [[bioconomy|BioConomy]] proposes faces the same structural question the hut tax answered by force: what compels primary demand for the unit of account? [[demurrage|Demurrage]] solves circulation velocity (holding the unit becomes costly, so it moves) but does not solve first acquisition (no one is compelled to acquire the unit in the first place). The Wörgl stamp scrip of 1932 circulated fourteen times faster than the national schilling because it carried demurrage. It was acquired because the municipality accepted it for local taxes and paid municipal workers in it. The tax obligation was still the demand driver; demurrage was the velocity driver. Separating the two is a substrate-engineering requirement.
+Any alternative monetary substrate the [[bioconomy|BioConomy]] proposes faces the same structural question the hut tax answered by force: what compels primary demand for the unit of account? [[demurrage|Demurrage]] solves circulation velocity (holding the unit becomes costly, so it moves) but does not solve first acquisition (no one is compelled to acquire the unit in the first place). Wörgl's [[bioconomy/cases/currencies/worgl-labor-certificates|Wörgl labor certificates]] of 1932 to 1933 carried demurrage to speed circulation, though the often-repeated claim that they circulated fourteen times faster than the schilling comes from advocates' accounts and was never measured. They were acquired because the municipality paid its workers in them and accepted them for local taxes. The tax obligation was still the demand driver; demurrage was meant to be the velocity driver. Separating the two is a substrate-engineering requirement.
 
 The design question for a bioregional currency is whether the demand driver can be something other than a tax obligation enforced by state coercion. [[commitment-pooling|Commitment pooling]], access to commons resources gated by participation in the bioregional unit, and [[regenerative-participation-income-rpi|RPI]] (Regenerative Participation Income) denominated in a bioregional unit are candidate mechanisms. Each must be assessed against the benchmark the hut tax set: does the mechanism make acquisition of the unit the [[cheapest-available-behavior|cheapest available behavior]] for the target population? If it does not, the unit circulates among the already-committed and fails to achieve population-scale coordination. This is the open substrate-engineering question the wiki's monetary-substrate work returns to across multiple entries.
 
@@ -114,6 +114,8 @@ The design question for a bioregional currency is whether the demand driver can 
 ## Provenance
 
 Written September 2026 as a concept-level treatment of sound finance, expanding the glossary entry at [[glossary/m-s/sound-finance|Sound Finance]]. The developmental arc from hut tax to fiscal orthodoxy synthesizes the chartalist lineage (Knapp, Innes, Lerner, Minsky, Wray, Mosler, Kelton) with the colonial taxation literature (Daunton, Callinicos) and the wiki's own Substrate Hypothesis and Coercion Continuum frameworks. The individual claims draw from the sources cited above; the synthesis across them is the wiki's own.
+
+Revised on 10 November 2026: the Wörgl velocity claim was corrected against von Muralt (1934), the eyewitness account read for the currency case register.
 
 <script type="application/ld+json">
 {

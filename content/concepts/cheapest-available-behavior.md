@@ -3,7 +3,7 @@ title: The Cheapest Available Behavior Thesis
 aliases: ["cheapest available behavior", "CAB thesis", "path of least resistance in substrate"]
 tags: [concept, substrate, coordination, behavioral, design]
 created: 2026-09-10
-updated: 2026-11-07
+updated: 2026-11-10
 source_project: BioConomy
 source_documents: []
 epistemic_status: documented-framework
@@ -27,7 +27,7 @@ Under the tax obligation of a fiat currency (see [[modern-monetary-theory|Modern
 
 Under [[concepts/sound-finance|sound finance]] as legislated in the German Schuldenbremse, the cheapest available behavior for a federal minister is to propose expenditures that fit within the debt-brake ceiling. Proposals that exceed the ceiling require constitutional justification, exceptional votes, or judicial argument, all of which raise the aggregate cost of the proposal. The substrate makes ceiling-conforming behavior cheap and ceiling-breaching behavior expensive, and observed ministerial behavior tracks that structure.
 
-Under a demurrage currency (Wörgl 1932, or the Gesell tradition generally), the cheapest available behavior for a holder is to spend the unit before its face value declines. Holding is made costly by design. The fourteen-fold circulation velocity of Wörgl scrip relative to the national currency is the observable signature of the changed cost structure.
+Under a demurrage currency (Wörgl 1932, or the Gesell tradition generally), the cheapest available behavior for a holder is to spend the unit before its face value declines. Holding is made costly by design. The often-repeated claim that Wörgl's scrip circulated fourteen times faster than the schilling comes from advocates' accounts and was never measured; the one eyewitness report found that notes returned quickly to the municipality as taxes, and that about a third of those issued were kept by collectors instead of circulating (von Muralt 1934; see [[bioconomy/cases/currencies/worgl-labor-certificates|Wörgl labor certificates]]). Godschalk's review of demurrage currencies concludes that the available data do not yet allow statements on demurrage's effect on velocity.
 
 Under a commons regime that satisfies [[ostrom-elinor|Elinor Ostrom]]'s design principles (clear boundaries, monitoring, graduated sanctions, conflict resolution), the cheapest available behavior for a member is compliance with the extraction rules. Defection is made expensive by the monitoring and sanction mechanisms. This is why some commons regimes hold and others collapse: the ones that hold have raised the cost of defection above the cost of compliance for the population that matters.
 

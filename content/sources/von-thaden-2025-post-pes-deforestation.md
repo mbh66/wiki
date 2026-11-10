@@ -21,7 +21,7 @@ The study grouped parcels enrolled in Mexico's payments for hydrological service
 ## Cited by
 
 - [[research/mountain-water-commons|Mountain Water Commons]]
-- [[cases/mexico-and-north-america/community-forestry-in-the-sierra-norte-of-oaxaca|Community Forestry in the Sierra Norte of Oaxaca]]
+- [[community-forestry-in-the-sierra-norte-of-oaxaca|Community Forestry in the Sierra Norte of Oaxaca]]
 
 <script type="application/ld+json">
 {

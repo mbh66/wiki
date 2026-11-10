@@ -19,7 +19,7 @@ The regulator reports the inauguration of two microdams in San Juan de Tarucani 
 
 ## Cited by
 
-- [[cases/andes/qochas-of-san-juan-de-tarucani|Qochas of San Juan de Tarucani]]
+- [[qochas-of-san-juan-de-tarucani|Qochas of San Juan de Tarucani]]
 - [[research/mountain-water-commons|Mountain Water Commons]]
 
 <script type="application/ld+json">

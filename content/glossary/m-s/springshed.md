@@ -18,7 +18,7 @@ The recharge area that feeds a spring, mapped from its geology so that it can be
 
 A spring's recharge area often lies outside the surface watershed above it, because groundwater follows the rock. Springshed management maps the aquifer that feeds a spring, often with para-hydrogeologists trained from the village, and builds trenches, pits and ponds in the recharge zone. In India the approach is used by Sikkim's Dhara Vikas program and by ACWADAM and the People's Science Institute in the western and central Himalaya.
 
-Of the traditions in the wiki's [[cases/index|case register]], springshed management names a mountain's retention function most precisely. Its measured results so far come from before-after records without controls ([[sources/tambe-2012-reviving-dying-springs|Tambe et al. 2012]]).
+Of the traditions in the wiki's [[bioconomy/cases/catchments/index|case register]], springshed management names a mountain's retention function most precisely. Its measured results so far come from before-after records without controls ([[sources/tambe-2012-reviving-dying-springs|Tambe et al. 2012]]).
 
 ## Contrast with adjacent terms
 
