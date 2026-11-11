@@ -7,11 +7,11 @@ first_defined_in: "Margulis, *Origin of Eukaryotic Cells* (1970)"
 related_terms: ["mycelial-consciousness", "stretch-collaboration"]
 source_project: "BioConomy"
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-11-11
 epistemic_status: "documented-fact"
 ---
 
-The process by which one organism incorporates another (rather than digesting it), producing a new, higher-order organism whose capabilities exceed anything either partner could achieve alone. Lynn Margulis established that the mitochondrion originated as a free-living bacterium engulfed and incorporated by an ancestral eukaryotic cell, and that the same pattern accounts for chloroplasts and for the major transitions in the evolution of life. For the Emancipation Architecture, endosymbiosis is the biological precedent for the Transcendence trajectory: formerly competing entities structurally incorporated into new wholes.
+The process by which one organism engulfs another and keeps it alive as part of itself, producing a new, higher-order organism whose capabilities exceed anything either partner could achieve alone. Lynn Margulis established that the mitochondrion originated as a free-living bacterium engulfed and incorporated by an ancestral eukaryotic cell, and that chloroplasts arose the same way. She argued that symbiosis drove other key steps in the evolution of life as well. For the Emancipation Architecture, endosymbiosis is the biological precedent for the Transcendence trajectory: formerly competing entities structurally incorporated into new wholes.
 
 ## Related terms
 
@@ -34,7 +34,7 @@ The process by which one organism incorporates another (rather than digesting it
   "@type": "DefinedTerm",
   "@id": "https://wiki.bioconomy.earth/glossary/a-e/endosymbiosis/",
   "name": "Endosymbiosis",
-  "description": "The process by which one organism incorporates another (rather than digesting it), producing a new, higher-order organism whose capabilities exceed anything either partner could achieve alone. Lynn Margulis established that the mitochondrion originated as a free-living bacterium engulfed and incorporated by an ancestral eukaryotic cell, and that the same pattern accounts for chloroplasts and for the major transitions in the evolution of life. For the Emancipation Architecture, endosymbiosis is the biological precedent for the Transcendence trajectory: formerly competing entities structurally incorporated into new wholes.",
+  "description": "The process by which one organism engulfs another and keeps it alive as part of itself, producing a new, higher-order organism whose capabilities exceed anything either partner could achieve alone. Lynn Margulis established that the mitochondrion originated as a free-living bacterium engulfed and incorporated by an ancestral eukaryotic cell, and that chloroplasts arose the same way. She argued that symbiosis drove other key steps in the evolution of life as well. For the Emancipation Architecture, endosymbiosis is the biological precedent for the Transcendence trajectory: formerly competing entities structurally incorporated into new wholes.",
   "termCode": "endosymbiosis",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
