@@ -81,6 +81,7 @@ The MET sequence is a structural inference: each component framework is independ
 - [[material-consciousness|Material Consciousness]]
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
+- [[concepts/convergences|Convergences]]
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[frameworks/three-futures|Three Futures]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]

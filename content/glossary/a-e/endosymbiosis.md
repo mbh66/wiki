@@ -28,6 +28,12 @@ The process by which one organism engulfs another and keeps it alive as part of 
 - Margulis, L. (1998). *[[sources/margulis-symbiotic-planet|Symbiotic Planet]]*
 - Margulis, L. (1970). *Origin of Eukaryotic Cells*.
 
+## Provenance
+
+Written for the BioConomy wiki on 25 August 2026, alongside [[concepts/mycelial-consciousness|Mycelial Consciousness]]. The source document in the BioConomy project wasn't recorded. The definition follows Margulis (1970, 1998); the link to the Transcendence trajectory is the corpus's own reading.
+
+Edited 11 November 2026: the definition no longer uses "rather than", and Margulis's established finding (the origin of mitochondria and chloroplasts) is kept apart from her wider argument about symbiosis in evolution.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
