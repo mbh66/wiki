@@ -10,7 +10,7 @@ tags:
   - biohub
   - bioconomy
 created: 2026-09-01
-updated: 2026-10-26
+updated: 2026-11-13
 source_project: BioConomy
 source_documents:
   - Getting_Started_in_a_BioHub_Notion_Export
@@ -29,7 +29,7 @@ The shift is structural. A bioregion that asks for funding is [[needy|needy]]. A
 
 ## An emergent global field
 
-The concept has been slowly emerging independently across multiple geographies and intellectual traditions. In mid-2026, [[gladek-eva|Eva Gladek]] and colleagues at Metabolic published their 2026 BioHub Assessment, which documented 152 initiatives worldwide operating under this emergent coordination logic. What they share is a recognition that landscape-scale ecological and economic challenges require a coordination form that municipalities, conservation agencies, water authorities, and market actors cannot sustain individually.
+The concept has been slowly emerging independently across multiple geographies and intellectual traditions. In mid-2026, [[gladek-eva|Eva Gladek]] and colleagues at Metabolic, with Anura Capital, Artistree and Basin Collective, published *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]* ([biohubs.earth](https://biohubs.earth)), which documented 152 initiatives in 44 countries operating under this emergent coordination logic. What they share is a recognition that landscape-scale ecological and economic challenges require a coordination form that municipalities, conservation agencies, water authorities, and market actors cannot sustain individually.
 
 The BioHub is that form. This wiki is a guide for establishing your own.
 
@@ -97,6 +97,8 @@ Updated 30 September 2026 for the five-template founding suite.
 
 Updated 26 October 2026 with a paragraph relating the BioHub to Benjamin Life's Bioregional Development Organization; the relationship is the wiki author's construction.
 
+Updated 13 November 2026: the Metabolic report is now cited by its title, *BioHubs: A Pathway to Regional Resilience*, with a link to biohubs.earth and its count of 44 countries. The page's American spelling was left as it is.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -112,7 +114,7 @@ Updated 26 October 2026 with a paragraph relating the BioHub to Benjamin Life's 
     "@id": "https://wiki.bioconomy.earth/#website"
   },
   "datePublished": "2026-09-01",
-  "dateModified": "2026-10-26",
+  "dateModified": "2026-11-13",
   "keywords": [
     "essay",
     "orientation",
