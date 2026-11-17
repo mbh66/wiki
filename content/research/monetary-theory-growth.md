@@ -1,12 +1,13 @@
 ---
 title: "Research Brief: Monetary Theory as Substrate for Growth Phase"
+description: 'Argues that the "taxes fund government" story coordinated the steep part of the industrial S-curve, and that Modern Monetary Theory exposes its operational falsity as growth slows; with candidate stories for deceleration and falsification tests.'
 aliases: ["MMT growth-phase story", "taxes fund government as coordination story", "MMT S-curve position"]
 tags: ["research", "s-curve", "mmt", "coordination", "substrate"]
 created: 2026-09-10
-updated: 2026-11-10
+updated: 2026-11-17
 source_project: "BioConomy"
 source_documents: ["Research_Brief__Monetary_Theory_and_S_Curve.md"]
-epistemic_status: "mixed"
+epistemic_status: "structural-inference"
 ---
 
 This brief argues that the "taxes fund government" story was coordination infrastructure for the steep part of the industrial [[s-curve|S-curve]], and that [[modern-monetary-theory|Modern Monetary Theory]] (MMT) decodes the operational falsity of that story at the moment the curve enters deceleration. The evidence tier is mixed: the monetary-operational claims are independently corroborated (IC) through the Chartalist and MMT primary literature; the S-curve positioning and the reading of collective stories as substrate components are mission-sourced structural inference (MS) built on established anthropological and sociological scholarship.
@@ -189,7 +190,7 @@ The lesson the precedents deliver is uncomfortable for any deliberate story-tran
     "name": "Michael Haupt"
   },
   "datePublished": "2026-09-10",
-  "dateModified": "2026-11-10",
-  "creativeWorkStatus": "mixed"
+  "dateModified": "2026-11-17",
+  "creativeWorkStatus": "structural-inference"
 }
 </script>

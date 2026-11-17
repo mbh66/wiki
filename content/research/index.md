@@ -4,7 +4,7 @@ description: "The landing page for the wiki's research briefs: evidence-based st
 aliases: ["research", "research folder", "research briefs"]
 tags: ["landing", "orientation", "research"]
 created: 2026-08-27
-updated: 2026-11-08
+updated: 2026-11-17
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -35,6 +35,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 - [[research/evolution-of-production|The Evolution of Production]]. A test of four production forms against TIME's properties: the forms are real and coexist, every form pushes costs outside itself, and no form arose to organize its predecessor's costs.
 - [[research/water-retention-evidence|Retention Works on the Slope, Unproven at the River]]. Measured outcomes of water retention methods on six continents, graded from plot to catchment, with a 58-row case table and a monitoring design for outcome payments.
 - [[research/mountain-water-commons|Mountain Water Commons: Community-Held Catchments Beyond Asset-Based Development]]. Communities that hold a mountain catchment's water function as a shared asset, coded across 46 cases in the [[bioconomy/cases/catchments/index|case register]], with nine graded predictions and a record of capture and failure.
+- [[research/protective-space-for-young-initiatives|Protective Space for Young Initiatives]]. What transitions research shows about shielding, nurturing and exposing young initiatives: the concepts, the evidence by design level, the critiques, the African studies, monitoring that doesn't harm, and nine graded predictions, with a sortable table of 42 works.
 
 ## Related pages
 

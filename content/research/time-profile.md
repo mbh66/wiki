@@ -1,12 +1,13 @@
 ---
 title: "A TIME Profile for Multi-Perspective Governance"
+description: "Asks whether a person's orientation to the four TIME forms can be measured; finds no validated instrument, maps neighbouring instruments such as Relational Models Theory, and recommends a domain-by-form profile piloted first as an unscored Q-sort."
 aliases: ["TIME profile", "TIME orientation profile", "coordination-logic profile"]
 tags: ["research", "time", "timn", "governance", "deliberation", "psychometrics", "facilitation"]
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-11-17
 source_project: "BioConomy"
 source_documents: ["TIME Profile deep research report (2026-09-26)", "Ronfeldt, Rethinking What Tribes and Networks Are Good For (Part I), Substack, October 2025"]
-epistemic_status: "mixed"
+epistemic_status: "academic-inference"
 ---
 
 When people who coordinate through different forms sit down to govern something together, they read the same facts through different lenses. This brief asks whether a person's orientation toward the four [[frameworks/time-framework|TIME]] forms can be measured, so that a facilitator knows which coordination logics are present at the table. No validated instrument exists. The most credible path is a domain-by-form profile: continuous scores for T, I, M and E within each domain a group governs (land, water, money, family, public office, religion, or whatever the group's own agenda holds). It should be piloted first as an unscored facilitation tool built on Q-methodology card sorts. A scored instrument is worth building only where a group wants one and can meet its jurisdiction's legal and psychometric requirements.
@@ -340,7 +341,7 @@ Written 26 September 2026 from a deep research report commissioned in the [[bioc
     "name": "Michael Haupt"
   },
   "datePublished": "2026-09-26",
-  "dateModified": "2026-09-26",
+  "dateModified": "2026-11-17",
   "inLanguage": "en",
   "isPartOf": {
     "@id": "https://wiki.bioconomy.earth/#website"
@@ -430,6 +431,6 @@ Written 26 September 2026 from a deep research report commissioned in the [[bioc
     "psychometrics",
     "facilitation"
   ],
-  "creativeWorkStatus": "mixed"
+  "creativeWorkStatus": "academic-inference"
 }
 </script>

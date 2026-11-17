@@ -1,15 +1,15 @@
 ---
-title: How the Market Form's Retention Logic Suppresses Emergent Coordination
-date: 2026-09-20
-tags:
-  - research
-  - time-framework
-  - community-currency
-  - retention
-  - transvestment
+title: "How the Market Form's Retention Logic Suppresses Emergent Coordination"
+description: "Argues that wage compulsion in the Market form is the main bottleneck for Emergent coordination, reviews why basic income experiments left the coordination substrate unchanged, and sets out Regenerative Participation Income as the alternative."
+aliases: ["How the Market Form's Retention Logic Suppresses Emergent Coordination, and What This Implies for the Design of Regenerative Participation Income", "retention logic of the Market form", "wage compulsion and Emergent coordination"]
+tags: ["research", "time-framework", "community-currency", "retention", "transvestment"]
+created: 2026-09-20
+updated: 2026-11-17
+source_project: "BioConomy"
+epistemic_status: "working-hypothesis"
 ---
 
-# and What This Implies for the Design of Regenerative Participation Income
+The Market form holds people through wage compulsion, which takes their hours before any other coordination form can claim them, and this brief argues that it's the main structural bottleneck for Emergent coordination and the problem Regenerative Participation Income is designed to address.
 
 ## TL;DR
 
@@ -224,113 +224,107 @@ Staged and concrete, with the benchmarks that would change them.
 
 ---
 
-## References
+## Related
 
-Arthur, W. Brian. "Competing Technologies, Increasing Returns, and Lock-In by Historical Events." _The Economic Journal_ 99, no. 394 (1989): 116-131.
+- [[frameworks/time-framework|TIME Framework]]
+- [[concepts/retention-logic|Retention Logic]]
+- [[concepts/coordination-surface|Coordination Surface]]
+- [[glossary/m-s/regenerative-participation-income-rpi|Regenerative Participation Income]]
+- [[glossary/t-z/universal-basic-income-ubi|Universal Basic Income]]
+- [[glossary/a-e/demurrage|Demurrage]]
+- [[glossary/t-z/transvestment|Transvestment]]
+- [[glossary/a-e/coercion-continuum|Coercion Continuum]]
+- [[glossary/f-l/fictitious-commodities|Fictitious Commodities]]
+- [[concepts/substrate-hypothesis|Substrate Hypothesis]]
+- [[frameworks/emancipation-architecture|The Emancipation Architecture]]
+- [[concepts/federated-cooperative-supply-chains|Federated Cooperative Supply Chains]]
+- [[concepts/carbon-silicon-partnership|Carbon-Silicon Partnership]]
+- [[concepts/commitment-pooling|Commitment Pooling]]
+- [[research/pooling-across-timn|Pooling Across TIMN]]
+- [[research/promise-theory-across-timn|Promise Theory Across TIMN]]
+- [[research/comenius-to-schmidt-chain|The Comenius-to-Schmidt Chain]]
+- [[people/theorists/ronfeldt-david|David Ronfeldt]]
+- [[people/ancestors/polanyi-karl|Karl Polanyi]]
 
-Arthur, W. Brian. _Increasing Returns and Path Dependence in the Economy_. Ann Arbor: University of Michigan Press, 1994.
+## Sources
 
-Atkinson, Anthony B. "The Case for a Participation Income." _The Political Quarterly_ 67, no. 1 (1996): 67-70.
+Sources with a page in the wiki's `sources/` folder are linked. Items that aren't peer-reviewed are labelled by type.
 
-Banerjee, Abhijit, Michael Faye, Alan Krueger, Paul Niehaus, and Tavneet Suri. "Universal Basic Income in Kenya." NBER Working Paper, 2023.
+### Basic income and participation income
 
-[[bauwens-michel|Bauwens, Michel]]. P2P Foundation. [https://p2pfoundation.net](https://p2pfoundation.net)
+- Atkinson, A.B. (1996). The case for a participation income. *The Political Quarterly* 67(1), 67-70.
+- Banerjee, A., Faye, M., Krueger, A., Niehaus, P. and Suri, T. (2023). Universal basic income in Kenya. NBER working paper.
+- Davala, S., Jhabvala, R., Kapoor Mehta, S. and Standing, G. (2015). *Basic Income: A Transformative Policy for India*. London: Bloomsbury.
+- Ferdosi, M., McDowell, T., Lewchuk, W. and Ross, S. (2020). *Southern Ontario's Basic Income Experience*. Hamilton: McMaster University. Report. https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729
+- Forget, E.L. (2011). The town with no poverty: the health effects of a Canadian guaranteed annual income field experiment. *Canadian Public Policy* 37(3), 283-305. https://www.researchgate.net/publication/227387994
+- Green, D.A. (2021). A reanalysis of "The Town with No Poverty". *Canadian Public Policy* 47(2). https://utppublishing.com/doi/full/10.3138/cpp.2021-025
+- Hiilamo, H. (2022). *Participation Income*. Cheltenham: Edward Elgar.
+- Kela and Ministry of Social Affairs and Health, Finland (2020, 6 May). Results of the basic income experiment. Press release. https://stm.fi/en/-/perustulokokeilun-tulokset-tyollisyysvaikutukset-vahaisia-toimeentulo-ja-psyykkinen-terveys-koettiin-paremmaksi
+- Pérez-Muñoz, C. (2015). A defence of participation income. *Journal of Public Policy* 36(2), 169-193. https://resolve.cambridge.org/core/journals/journal-of-public-policy/article/abs/defence-of-participation-income/A03B09513C843605274E34744388638C
+- Roosma, F. (2022). A struggle for framing and interpretation: the impact of the "basic income experiments" on social policy reform in the Netherlands. *Journal of European Social Policy* 32(5). https://journals.sagepub.com/doi/full/10.1177/13882627221109846
+- Standing, G. (2011). *The Precariat: The New Dangerous Class*. London: Bloomsbury.
+- Standing, G. (2017). *Basic Income: And How We Can Make It Happen*. London: Penguin.
+- Van Parijs, P. and Vanderborght, Y. (2017). *Basic Income: A Radical Proposal for a Free Society and a Sane Economy*. Cambridge, MA: Harvard University Press.
+- Verlaat, T. and others (2020). *Weten wat werkt: samen werken aan een betere bijstand*. Final report, Utrecht University. Report.
+- Vivalt, E., Rhodes, E., Bartik, A.W., Broockman, D.E. and Miller, S. (2024). The employment effects of a guaranteed income: experimental evidence from two US states. NBER Working Paper 32784.
+- West, S. and Castro Baker, A. (2021). *Stockton Economic Empowerment Demonstration: Final Report*. Stockton, CA: SEED. Report. https://www.stocktondemonstration.org/employment
 
-Benkler, Yochai. "Coase's Penguin, or, Linux and the Nature of the Firm." _Yale Law Journal_ 112, no. 3 (2002): 369-446.
+### Work, time and the wage
 
-Benkler, Yochai. _The Wealth of Networks: How Social Production Transforms Markets and Freedom_. New Haven: Yale University Press, 2006.
+- Bittman, M. (2005). Sunday working and family time. *Labour and Industry* 16(1), 59-83.
+- Gorz, A. (1989). *Critique of Economic Reason*. Translated by G. Handyside and C. Turner. London: Verso.
+- Gorz, A. (1999). *Reclaiming Work: Beyond the Wage-Based Society*. Translated by C. Turner. Cambridge: Polity Press.
+- Graeber, D. (2011). *Debt: The First 5,000 Years*. Brooklyn: Melville House.
+- Graeber, D. (2018). *Bullshit Jobs: A Theory*. New York: Simon and Schuster.
+- International Labour Organization (2022). *Working Time and Work-Life Balance Around the World*. Geneva: ILO. Report. https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_protect/@protrav/@travail/documents/publication/wcms_864222.pdf
+- [[sources/polanyi-great-transformation|Polanyi, K. (1944)]]. *The Great Transformation: The Political and Economic Origins of Our Time*. Reprint, Boston: Beacon Press, 2001.
 
-Bittman, Michael. "Sunday Working and Family Time." _Labour and Industry_ 16, no. 1 (2005): 59-83.
+### Path dependence and lock-in
 
-[[bollier-david|Bollier, David]], and Natasha Hulst. "Bioregionalism, Commoning, and Relationalized Finance." 2025. [https://www.bollier.org/blog/bioregionalism-commoning-and-relationalized-finance](https://www.bollier.org/blog/bioregionalism-commoning-and-relationalized-finance)
+- Arthur, W.B. (1989). Competing technologies, increasing returns, and lock-in by historical events. *The Economic Journal* 99(394), 116-131.
+- Arthur, W.B. (1994). *Increasing Returns and Path Dependence in the Economy*. Ann Arbor: University of Michigan Press.
+- David, P.A. (1985). Clio and the economics of QWERTY. *American Economic Review* 75(2), 332-337.
+- Pierson, P. (2000). Increasing returns, path dependence, and the study of politics. *American Political Science Review* 94(2), 251-267.
+- Sydow, J., Schreyögg, G. and Koch, J. (2009). Organizational path dependence: opening the black box. *Academy of Management Review* 34(4), 689-709.
 
-David, Paul A. "Clio and the Economics of QWERTY." _American Economic Review_ 75, no. 2 (1985): 332-337.
+### Commons, peer production and co-operatives
 
-Davala, Sarath, Renana Jhabvala, Soumya Kapoor Mehta, and Guy Standing. _Basic Income: A Transformative Policy for India_. London: Bloomsbury, 2015.
+- Bauwens, M. P2P Foundation. Website. https://p2pfoundation.net
+- [[sources/benkler-coases-penguin|Benkler, Y. (2002)]]. Coase's penguin, or, Linux and the nature of the firm. *Yale Law Journal* 112(3), 369-446.
+- Benkler, Y. (2006). *The Wealth of Networks: How Social Production Transforms Markets and Freedom*. New Haven: Yale University Press.
+- Bollier, D. and Hulst, N. (2025). Bioregionalism, commoning, and relationalized finance. Blog post. https://www.bollier.org/blog/bioregionalism-commoning-and-relationalized-finance
+- [[sources/ostrom-governing-commons|Ostrom, E. (1990)]]. *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge: Cambridge University Press.
+- Ostrom, E. (2002). Reformulating the commons. *Swiss Political Science Review* 6(1), 29-52.
+- Scholz, T. and Schneider, N. (eds) (2016). *Ours to Hack and to Own: The Rise of Platform Cooperativism*. New York: OR Books.
+- Scott, J.C. (1998). *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. New Haven: Yale University Press.
 
-Farr, Michelle, and Peter Cressey. "The Social Impact of the Arts: How the Arts Measure Up." Discussion paper, 2019.
+### Measuring social value
 
-Ferdosi, Mohammad, Tom McDowell, Wayne Lewchuk, and Stephanie Ross. _Southern Ontario's Basic Income Experience_. Hamilton: McMaster University, 2020. [https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
+- Farr, M. and Cressey, P. (2019). The social impact of the arts: how the arts measure up. Discussion paper.
+- Fujiwara, D. (2015). *The Seven Principle Problems of SROI*. London: Simetrica. Report.
+- Maier, F., Schober, C., Simsa, R. and Millner, R. (2015). SROI as a method for evaluation research: understanding merits and limitations. *Voluntas* 26(5), 1895-1926.
 
-Forget, Evelyn L. "The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment." _Canadian Public Policy_ 37, no. 3 (2011): 283-305. [https://www.researchgate.net/publication/227387994](https://www.researchgate.net/publication/227387994)
+### Philanthropy
 
-Fujiwara, Daniel. "The Seven Principle Problems of SROI." London: Simetrica, 2015.
+- Scott, M. Yield Giving. Website. https://yieldgiving.com
 
-Gorz, André. _Critique of Economic Reason_. Translated by Gillian Handyside and Chris Turner. London: Verso, 1989.
+### Coordination frameworks and the BioConomy corpus
 
-Gorz, André. _Reclaiming Work: Beyond the Wage-Based Society_. Translated by Chris Turner. Cambridge: Polity Press, 1999.
+- [[sources/ronfeldt-timn|Ronfeldt, D. (1996)]]. *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution*. RAND P-7967. Santa Monica: RAND Corporation.
+- Haupt, M. (2026, June). The six inversions of the coercion continuum. Framer OS, Framework 6. Essay. https://frameros.substack.com/p/the-six-inversions-of-the-coercion
+- Haupt, M. (2026, June). Transvestment vs. divestment. Framer OS, Framework 8. Essay. https://frameros.substack.com/p/transvestment-vs-divestment
+- BioConomy wiki pages, listed under Related. The machine-readable map of the wiki is at https://wiki.bioconomy.earth/llms.txt.
 
-Graeber, David. _Debt: The First 5,000 Years_. Brooklyn: Melville House, 2011.
+## Provenance
 
-Graeber, David. _Bullshit Jobs: A Theory_. New York: Simon and Schuster, 2018.
+First published on 20 September 2026; the page doesn't record the source documents it was written from. The brief tags each claim in its own terms (`documented-fact`, `structural-inference`, `working-hypothesis`); these weren't converted to the site's [IC], [MS] and [TBV] tags.
 
-Green, David A. "A Reanalysis of 'The Town with No Poverty.'" _Canadian Public Policy_ 47, no. 2 (2021). [https://utppublishing.com/doi/full/10.3138/cpp.2021-025](https://utppublishing.com/doi/full/10.3138/cpp.2021-025)
+Revised on 17 November 2026:
 
-Haupt, Michael. "The Six Inversions of the Coercion Continuum." Framer OS, Framework 6, June 2026. [https://frameros.substack.com/p/the-six-inversions-of-the-coercion](https://frameros.substack.com/p/the-six-inversions-of-the-coercion)
-
-Haupt, Michael. "Transvestment vs. Divestment." Framer OS, Framework 8, June 2026. [https://frameros.substack.com/p/transvestment-vs-divestment](https://frameros.substack.com/p/transvestment-vs-divestment)
-
-Hiilamo, Heikki. _Participation Income_. Cheltenham: Edward Elgar, 2022.
-
-International Labour Organization. _Working Time and Work-Life Balance Around the World_. Geneva: ILO, 2022. [https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_protect/@protrav/@travail/documents/publication/wcms_864222.pdf](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_protect/@protrav/@travail/documents/publication/wcms_864222.pdf)
-
-Kela and Ministry of Social Affairs and Health. "Results of the Basic Income Experiment." Press release, 6 May 2020. [https://stm.fi/en/-/perustulokokeilun-tulokset-tyollisyysvaikutukset-vahaisia-toimeentulo-ja-psyykkinen-terveys-koettiin-paremmaksi](https://stm.fi/en/-/perustulokokeilun-tulokset-tyollisyysvaikutukset-vahaisia-toimeentulo-ja-psyykkinen-terveys-koettiin-paremmaksi)
-
-Maier, Florentine, Christian Schober, Ruth Simsa, and Reinhard Millner. "SROI as a Method for Evaluation Research: Understanding Merits and Limitations." _Voluntas_ 26, no. 5 (2015): 1895-1926.
-
-[[ostrom-elinor|Ostrom, Elinor]], Elinor. _[[ostrom-governing-commons|Governing the Commons]]: The Evolution of Institutions for Collective Action_. Cambridge: Cambridge University Press, 1990.
-
-Ostrom, Elinor. "Reformulating the Commons." _Swiss Political Science Review_ 6, no. 1 (2002): 29-52.
-
-Pérez-Muñoz, Cristian. "A Defence of Participation Income." _Journal of Public Policy_ 36, no. 2 (2015): 169-193. [https://resolve.cambridge.org/core/journals/journal-of-public-policy/article/abs/defence-of-participation-income/A03B09513C843605274E34744388638C](https://resolve.cambridge.org/core/journals/journal-of-public-policy/article/abs/defence-of-participation-income/A03B09513C843605274E34744388638C)
-
-Pierson, Paul. "Increasing Returns, Path Dependence, and the Study of Politics." _American Political Science Review_ 94, no. 2 (2000): 251-267.
-
-[[polanyi-karl|Polanyi, Karl]]. _The Great Transformation: The Political and Economic Origins of Our Time_. 1944. Reprint, Boston: Beacon Press, 2001.
-
-[[ronfeldt-david|Ronfeldt, David]]. _[[timn-framework|Tribes, Institutions, Markets, Networks]]: A Framework About Societal Evolution_. RAND P-7967. Santa Monica: RAND Corporation, 1996.
-
-Roosma, Femke. "A Struggle for Framing and Interpretation: The Impact of the 'Basic Income Experiments' on Social Policy Reform in the Netherlands." _Journal of European Social Policy_ 32, no. 5 (2022). [https://journals.sagepub.com/doi/full/10.1177/13882627221109846](https://journals.sagepub.com/doi/full/10.1177/13882627221109846)
-
-Scholz, Trebor, and Nathan Schneider, eds. _Ours to Hack and to Own: The Rise of Platform Cooperativism_. New York: OR Books, 2016.
-
-Scott, James C. _Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed_. New Haven: Yale University Press, 1998.
-
-Scott, MacKenzie. Yield Giving. [https://yieldgiving.com](https://yieldgiving.com)
-
-Standing, Guy. _The Precariat: The New Dangerous Class_. London: Bloomsbury, 2011. https://www.amazon.com/dp/1474294162
-
-Standing, Guy. _Basic Income: And How We Can Make It Happen_. London: Penguin, 2017. https://www.amazon.com/dp/0141985488
-
-Sydow, Jörg, Georg Schreyögg, and Jochen Koch. "Organizational Path Dependence: Opening the Black Box." _Academy of Management Review_ 34, no. 4 (2009): 689-709.
-
-Van Parijs, Philippe, and Yannick Vanderborght. _Basic Income: A Radical Proposal for a Free Society and a Sane Economy_. Cambridge, MA: Harvard University Press, 2017. https://www.amazon.com/dp/0674237463
-
-Verlaat, Timo, et al. "Weten wat werkt: Samen werken aan een betere bijstand." Final report, Utrecht University, 2020.
-
-Vivalt, Eva, Elizabeth Rhodes, Alexander W. Bartik, David E. Broockman, and Sarah Miller. "The Employment Effects of a Guaranteed Income: Experimental Evidence from Two US States." NBER Working Paper 32784, 2024.
-
-West, Stacia, and Amy Castro Baker. _Stockton Economic Empowerment Demonstration: Final Report_. Stockton, CA: SEED, 2021. [https://www.stocktondemonstration.org/employment](https://www.stocktondemonstration.org/employment)
-
-**Wiki sources (BioConomy wiki, wiki.bioconomy.earth)**
-
-BioConomy wiki. Machine-readable index. [https://wiki.bioconomy.earth/llms.txt](https://wiki.bioconomy.earth/llms.txt)
-
-Entries referenced by wiki concept name: 
-- [[biohub|BioHub]], 
-- [[carbon-silicon-partnership|Carbon-Silicon Partnership]], 
-- [[coercion-continuum|Coercion Continuum]], 
-- [[comenius-to-schmidt-chain|Comenius-to-Schmidt Chain]], 
-- [[demurrage|Demurrage]], 
-- [[emancipation-architecture|Emancipation Architecture]], 
-- [[federated-cooperative-supply-chains|Federated Cooperative Supply Chains]], 
-- [[regenerative-participation-income-rpi|Regenerative Participation Income]], 
-- [[retention-logic|Retention Logic]], 
-- [[glossary/m-s/substrate-hypothesis|Substrate Hypothesis]], 
-- [[time-framework|TIME Framework]], 
-- (+T+I+M)^+N Test, 
-- [[glossary/t-z/transvestment|Transvestment]].
-
+- **Frontmatter.** Rebuilt to the site format, with a description, aliases, `created` (from the former `date`), `source_project` and `epistemic_status: "working-hypothesis"`, chosen because the brief's central claims are tagged as working hypotheses.
+- **Opening.** The second half of the title, "and What This Implies for the Design of Regenerative Participation Income", had been set as a level-one heading in the body. It was removed and kept as an alias, and a one-sentence thesis was added from the first TL;DR item.
+- **Sources.** The References list became this Sources section, grouped by subject, with links to the four works that have source pages (Polanyi 1944, Benkler 2002, Ostrom 1990, Ronfeldt 1996). A doubled author name in the Ostrom entry was corrected. Retail links for three books (Standing 2011 and 2017; Van Parijs and Vanderborght 2017) were removed; those entries carry no URL. The list of wiki pages that closed the References moved to Related; its "(+T+I+M)^+N Test" item has no page and was dropped from the list.
+- **Spelling.** The new sections use British spelling. The rest of the page is in American spelling and hasn't yet been converted.
 
 <script type="application/ld+json">
 {
@@ -341,6 +335,9 @@ Entries referenced by wiki concept name:
   "author": {
     "@type": "Person",
     "name": "Michael Haupt"
-  }
+  },
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-11-17",
+  "creativeWorkStatus": "working-hypothesis"
 }
 </script>

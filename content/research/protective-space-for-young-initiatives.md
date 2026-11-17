@@ -301,13 +301,3 @@ Every work below has a page in `sources/` with its full citation, linked by auth
 
 Written on 17 November 2026 from a Claude deep research report commissioned by Michael Haupt (instructions version 0.1, the same day), filling the first gap named in the parallel societies research map. The run couldn't fetch the live corpus pages, so it used extracts from the local repositories. Eisenstein's essay was read live, Smith and Raven (2012) in its 2011 working-paper version, Raven and others (2016) in its accepted manuscript, and other works through abstracts, repository records and citing works.
 
-Editorial decisions:
-
-- **A corrected citation.** The report gave a 149-firm survival finding to Schwartz (2011), which studies the growth of 324 firms; the finding is Schwartz (2012), now added to the evidence on P6. Figures for Feola and Nunes, Schwartz and the 2026 meta-analyses were checked against publisher and repository records.
-- **A grade raised.** Murillo-Rojas and others (2026) moved from [TBV] to [IC] on its publisher and repository records.
-- **Quotations.** One quotation of under fifteen words per source; the rest paraphrased.
-- **The works table** became one source page per work and an embedded base filtered on a new `briefs` key; source pages also carry `design`, `setting`, `north_south`, `niche_type` and `grade`. Subject values were mapped to the site's (transitions to `civilization`, governance and evidence to `coordination`, economy to `economics`).
-- **The case table** stays here as Markdown; its cases aren't catchment cases.
-- **Valley material.** The report's note applying these findings to Ward 2 isn't filed here; it draws on W2DF pages not yet public.
-- **Glossary.** Entries for niche, regime, protective space, shielding, nurturing, empowerment, transition experiment and transformative space were added the same day.
-- **Spelling.** British.

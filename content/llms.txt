@@ -110,13 +110,16 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Using Templates Across BioHubs](https://wiki.bioconomy.earth/templates/using-templates-across-biohubs): How the templates generalize across bioregions
 - [For Advisors to Family and Institutional Capital](https://wiki.bioconomy.earth/templates/for-capital-advisors): What the founding suite gives advisors who present BioHubs to family and institutional capital
 
-## Research (23 briefs)
+## Research (27 briefs)
 
 - [The S-Curve Thesis and the Retention Counter-Tradition](https://wiki.bioconomy.earth/research/growth-economics): The foundational research brief (55KB)
+- [Research Brief: Monetary Theory as Substrate for Growth Phase](https://wiki.bioconomy.earth/research/monetary-theory-growth): Reads the "taxes fund government" story as coordination infrastructure for the steep part of the industrial S-curve, and Modern Monetary Theory as the account that exposes its operational falsity as the curve decelerates; candidate stories for the deceleration phase and staged recommendations with falsification tests
 - [Historical Patronage and the Three-Feature Test](https://wiki.bioconomy.earth/research/historical-patronage-three-feature-test): Cross-cluster patronage analysis
 - [Ibrahim Abouleish and SEKEM](https://wiki.bioconomy.earth/research/abouleish-sekem): Case study assessed against the Three-Feature Test
 - [Pooling Across TIMN](https://wiki.bioconomy.earth/research/pooling-across-timn): Comparative analysis of pooling mechanisms across coordination forms
 - [Promise Theory Across TIMN](https://wiki.bioconomy.earth/research/promise-theory-across-timn): What has each TIMN form promised society?
+- [How the Market Form's Retention Logic Suppresses Emergent Coordination](https://wiki.bioconomy.earth/research/retention-logic-market): Wage compulsion as the main bottleneck for Emergent coordination; why Universal Basic Income experiments improved wellbeing without changing the coordination substrate; Regenerative Participation Income as a BioHub stipend for a coordination role, paid in a demurrage currency
+- [A TIME Profile for Multi-Perspective Governance](https://wiki.bioconomy.earth/research/time-profile): Whether a person's orientation to the four TIME forms can be measured; no validated instrument exists, Relational Models Theory is the closest measured counterpart, and the recommended path is a domain-by-form profile piloted first as an unscored Q-sort, with safeguards for governance use
 - [Bioprecipitation](https://wiki.bioconomy.earth/research/bioprecipitation): Vegetation-rainfall feedback and biological ice nucleation
 - [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain): Moravian pedagogical lineage from Comenius to George Schmidt
 - [Why Three Investors Anchored the Cape Water Bond](https://wiki.bioconomy.earth/research/cape-water-bond-co-anchor-investors): The co-anchor investors in the Cape Water Performance-Based Bond, the bond's two layers of capital, and where the sources disagree
@@ -135,6 +138,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 - [Mountain Water Commons: Community-Held Catchments Beyond Asset-Based Development](https://wiki.bioconomy.earth/research/mountain-water-commons): Communities that hold a mountain catchment's water function as a shared asset, mostly in commons, customary and Indigenous traditions; 47 cases in the case register, nine graded predictions, capture and failure
 - [Who Watches the Water? Resource-Tied Money and Water Rights Compared](https://wiki.bioconomy.earth/research/who-watches-the-water): 29 currencies, receipts and tokens set beside 9 water rights, fees and payments; no currency backed by water, no case with user-accountable monitoring of the resource, the San Luis Valley fee, fit for a flow, and nine re-graded predictions
 - [Dark AI and the Place-Based Inheritance: What the Record Shows by November 2026](https://wiki.bioconomy.earth/research/dark-ai-and-the-place-based-inheritance): A test of the hypothesis that an AI repricing will hand durable capacity to place-based bodies; historical boom cases, AI market, credit, compute-price and vote evidence to 13 November 2026, twelve graded questions and an indicator table for later snapshots (CSV)
+- [Protective Space for Young Initiatives: What Transitions Research Shows About Shielding, Nurturing and Exposure](https://wiki.bioconomy.earth/research/protective-space-for-young-initiatives): Niches and protective space from strategic niche management (1998) to the present; forms of protection, outcome evidence by design level, the exit, critiques, South African and other Southern studies, reflexive monitoring, the Eisenstein counterpart, nine graded predictions and a base of 42 works
 
 ## Disruption
 
@@ -144,7 +148,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Glossary
 
-- [Glossary index](https://wiki.bioconomy.earth/glossary/): 209 controlled vocabulary entries used across both the wiki and BioHubs sites
+- [Glossary index](https://wiki.bioconomy.earth/glossary/): 221 controlled vocabulary entries used across both the wiki and BioHubs sites
 
 ## People
 
@@ -152,7 +156,7 @@ Full concepts index: https://wiki.bioconomy.earth/concepts/
 
 ## Sources
 
-- [Sources index](https://wiki.bioconomy.earth/sources/): 384 annotated bibliography entries, each stating what the work argues and why it matters here
+- [Sources index](https://wiki.bioconomy.earth/sources/): 426 annotated bibliography entries, each stating what the work argues and why it matters here
 
 ## Resources
 
