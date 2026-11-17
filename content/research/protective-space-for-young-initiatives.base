@@ -1,0 +1,130 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("source")
+    - contains(briefs, "protective-space-for-young-initiatives")
+    - draft != true
+formulas:
+  work: file.asLink(title)
+properties:
+  formula.work:
+    displayName: Work
+  author:
+    displayName: Author
+  year:
+    displayName: Year
+  type:
+    displayName: Type
+  publisher:
+    displayName: Publisher or journal
+  doi:
+    displayName: DOI
+  subject:
+    displayName: Subject
+  design:
+    displayName: Design
+  setting:
+    displayName: Setting
+  north_south:
+    displayName: North or South
+  niche_type:
+    displayName: Niche type
+  description:
+    displayName: Finding
+  grade:
+    displayName: Grade
+views:
+  - type: table
+    name: All works
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - niche_type
+      - setting
+      - description
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: By design
+    groupBy:
+      property: design
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - niche_type
+      - setting
+      - description
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: By niche type
+    groupBy:
+      property: niche_type
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - setting
+      - description
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: Comparative studies
+    filters:
+      or:
+        - design == "E1"
+        - design == "E2"
+    order:
+      - formula.work
+      - author
+      - year
+      - niche_type
+      - setting
+      - description
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: Global South
+    filters:
+      or:
+        - north_south == "south"
+        - north_south == "both"
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - niche_type
+      - setting
+      - description
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: Bibliographic record
+    order:
+      - formula.work
+      - author
+      - year
+      - type
+      - publisher
+      - doi
+      - subject
+    sort:
+      - property: title
+        direction: ASC

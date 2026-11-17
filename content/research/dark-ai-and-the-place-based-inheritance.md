@@ -10,7 +10,7 @@ source_documents: ["dark-ai-and-the-place-based-inheritance-deep-research.md, ve
 epistemic_status: "working-hypothesis"
 ---
 
-By 13 November 2026 the record supports the first link of the chain in form (a correction in AI shares and stress in AI debt), contradicts the third link at the run date (accelerator rental prices are rising and no AI asset has changed hands in distress), and holds no evidence at all that community currencies and AI have been combined.
+The overall thesis is that a correction in AI shares and stress in AI debt will result in AI assets being abandoned (dark AI) in much the same way that a global fiber network was abandoned for 10 years after the dot-com crash of 2000 (dark fiber). After a short period, these assets will be redeployed for place-based, prosocial purposes, serving local communities.
 
 ## Overview
 

@@ -4,7 +4,7 @@ description: "Landing page for the glossary, the wiki's controlled vocabulary: t
 aliases: ["glossary", "vocabulary", "glossary folder"]
 tags: ["landing", "orientation", "glossary"]
 created: 2026-08-27
-updated: 2026-11-13
+updated: 2026-11-17
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -89,10 +89,10 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/biocultural-unit-bcu/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub-field-sense/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub-field-sense/"
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biohub/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioplace/"
@@ -177,6 +177,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/economy/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/empowerment/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/endosymbiosis/"
@@ -305,16 +308,22 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/nature-realm/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/needy/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/niche/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/noosphere/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/nurturing/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/open-weight-model/"
@@ -353,13 +362,13 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/protective-illiquidity/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/protective-space/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/readiness-diagnostic/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/reciprocal-water-agreement/"
-    },
-    {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-capitalism/"
@@ -371,22 +380,31 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-participation-income-rpi/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regime/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/retention-economics/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/s-curve/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier-thinking/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier-thinking/"
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/second-tier/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/self-talk/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/sensemaking/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/shielding/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/soil-carbon-sponge/"
@@ -440,16 +458,22 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/threshold-guide/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput-economics/"
     },
     {
-      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput-economics/"
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/throughput/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/time/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/timn/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/transformative-space/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/transition-experiment/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/transvestment/"
