@@ -1,0 +1,39 @@
+---
+title: "The Matter with Things"
+description: "Library entry for Iain McGilchrist's The Matter with Things (2021), a canon work in philosophy, with what it argues and how its field receives it."
+author: "Iain McGilchrist"
+year: 2021
+type: "book"
+publisher: "Perspectiva Press"
+tags: ["source", "consciousness", "evolution-of-consciousness"]
+subject: ["consciousness"]
+briefs: ["evolution-of-consciousness-library"]
+tier: "canon"
+discipline: "philosophy"
+design: "E4"
+claims: ["H", "C4"]
+claim_h: true
+claim_c4: true
+stance: ["H:a", "C4:a"]
+finding: "Consciousness is primary"
+standing: "[TBV]"
+on_seed_list: "yes"
+grade: "[TBV]"
+created: 2026-11-19
+updated: 2026-11-19
+source_project: "BioConomy"
+---
+
+Iain McGilchrist (2021). *The Matter with Things*. Perspectiva Press.
+
+In brief: Consciousness is primary [TBV].
+
+How the work is received in its own field is still to be checked [TBV].
+
+The work is on Michael Haupt's reading for the evolution of consciousness [MS].
+
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy, with evidence type E4 and claim codes H, C4.
+
+## Cited by
+
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]

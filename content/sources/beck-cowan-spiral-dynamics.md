@@ -5,10 +5,24 @@ author: "Don Edward Beck and Christopher C. Cowan"
 year: 1996
 type: "book"
 publisher: "Blackwell Publishing"
-tags: ["source", "consciousness", "development", "psychology", "values"]
+tags: ["source", "consciousness", "development", "psychology", "values", "evolution-of-consciousness"]
 subject: ["economics", "consciousness"]
-updated: 2026-11-09
+updated: 2026-11-19
 source_project: "BioConomy"
+briefs: ["evolution-of-consciousness-library"]
+tier: "canon"
+discipline: "developmental psychology"
+design: "E4"
+claims: ["B1", "B2", "C1", "C2"]
+claim_b1: true
+claim_b2: true
+claim_c1: true
+claim_c2: true
+stance: ["B1:a", "B2:a", "C1:a", "C2:a"]
+finding: "Colour-coded value systems for people and societies; it assigns colours to cultures"
+standing: "Said to lack mainstream academic validation [TBV]"
+on_seed_list: "yes"
+grade: "[IC]"
 ---
 
 Beck, D.E. & Cowan, C.C. (1996). *Spiral Dynamics: Mastering Values, Leadership, and Change.* Blackwell Publishing. ISBN: 978-1-55786-940-6.
@@ -21,6 +35,7 @@ The corpus draws on Spiral Dynamics primarily through Graves's original research
 
 ## Citing Pages
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[first-tier|First Tier]]

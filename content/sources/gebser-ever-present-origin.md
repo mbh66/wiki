@@ -5,10 +5,24 @@ author: "Jean Gebser"
 year: 1949
 type: "book"
 publisher: "Ohio University Press (English translation, 1985)"
-tags: ["source", "consciousness", "development", "phenomenology"]
+tags: ["source", "consciousness", "development", "phenomenology", "evolution-of-consciousness"]
 subject: ["economics", "consciousness"]
-updated: 2026-11-09
+updated: 2026-11-19
 source_project: "BioConomy"
+briefs: ["evolution-of-consciousness-library"]
+tier: "canon"
+discipline: "history of ideas"
+design: "E4"
+claims: ["A3", "C1", "C2", "C4"]
+claim_a3: true
+claim_c1: true
+claim_c2: true
+claim_c4: true
+stance: ["A3:a", "C1:a", "C2:a", "C4:a"]
+finding: "Archaic magic mythical mental and integral structures; each stays present"
+standing: "Central to integral studies [TBV]"
+on_seed_list: "yes"
+grade: "[IC]"
 ---
 
 Gebser, J. (1949/1985). *The Ever-Present Origin.* Ohio University Press. ISBN: 978-0-8214-0776-1.
@@ -19,6 +33,7 @@ In the BioConomy corpus, Gebser's mental-rational structure corresponds to [[mat
 
 ## Citing Pages
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]

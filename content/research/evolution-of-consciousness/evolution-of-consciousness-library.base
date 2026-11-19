@@ -1,0 +1,154 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("source")
+    - file.hasTag("evolution-of-consciousness")
+    - draft != true
+formulas:
+  work: file.asLink(title)
+properties:
+  formula.work:
+    displayName: Work
+  author:
+    displayName: Author
+  year:
+    displayName: Year
+  edition_year:
+    displayName: Edition cited
+  type:
+    displayName: Type
+  publisher:
+    displayName: Publisher or journal
+  doi:
+    displayName: DOI
+  isbn:
+    displayName: ISBN
+  tier:
+    displayName: Tier
+  discipline:
+    displayName: Discipline
+  design:
+    displayName: Evidence type
+  claims:
+    displayName: Claims
+  stance:
+    displayName: Stance
+  finding:
+    displayName: Argues or found
+  standing:
+    displayName: Reception in its field
+  on_seed_list:
+    displayName: On Michael's list
+  grade:
+    displayName: Grade
+views:
+  - type: table
+    name: By tier
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - discipline
+      - design
+      - claims
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: Michael's reading
+    filters:
+      and:
+        - on_seed_list == "yes"
+    order:
+      - formula.work
+      - author
+      - year
+      - tier
+      - design
+      - claims
+      - standing
+      - grade
+    sort:
+      - property: author
+        direction: ASC
+  - type: table
+    name: Critics
+    filters:
+      and:
+        - tier == "critic"
+    order:
+      - formula.work
+      - author
+      - year
+      - claims
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: Measured and dated evidence
+    filters:
+      or:
+        - design == "E1"
+        - design == "E2"
+    order:
+      - formula.work
+      - author
+      - year
+      - discipline
+      - claims
+      - finding
+      - standing
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: By discipline
+    groupBy:
+      property: discipline
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - tier
+      - design
+      - claims
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: Reception
+    order:
+      - formula.work
+      - author
+      - year
+      - tier
+      - standing
+      - grade
+    sort:
+      - property: author
+        direction: ASC
+  - type: table
+    name: Bibliographic record
+    order:
+      - formula.work
+      - author
+      - year
+      - edition_year
+      - type
+      - publisher
+      - doi
+      - isbn
+    sort:
+      - property: title
+        direction: ASC

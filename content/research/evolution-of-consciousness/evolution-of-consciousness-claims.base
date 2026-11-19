@@ -1,0 +1,235 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("source")
+    - file.hasTag("evolution-of-consciousness")
+    - draft != true
+formulas:
+  work: file.asLink(title)
+properties:
+  formula.work:
+    displayName: Work
+  author:
+    displayName: Author
+  year:
+    displayName: Year
+  tier:
+    displayName: Tier
+  design:
+    displayName: Evidence type
+  stance:
+    displayName: Stance
+  finding:
+    displayName: Argues or found
+  grade:
+    displayName: Grade
+views:
+  - type: table
+    name: "A1. Minds evolved"
+    filters:
+      and:
+        - claim_a1 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "A2. Cognition changed in steps"
+    filters:
+      and:
+        - claim_a2 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "A3. The structure of awareness changed"
+    filters:
+      and:
+        - claim_a3 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "B1. Individuals develop in stages"
+    filters:
+      and:
+        - claim_b1 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "B2. Culture and person run parallel"
+    filters:
+      and:
+        - claim_b2 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "B3. Complexity has a direction"
+    filters:
+      and:
+        - claim_b3 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "C1. Earlier structures stay present"
+    filters:
+      and:
+        - claim_c1 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "C2. A new structure is emerging"
+    filters:
+      and:
+        - claim_c2 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "C3. Networked, collective mind"
+    filters:
+      and:
+        - claim_c3 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "C4. The current structure resists"
+    filters:
+      and:
+        - claim_c4 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "H. Consciousness is fundamental"
+    filters:
+      and:
+        - claim_h == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC

@@ -5,11 +5,23 @@ author: "Karl Popper"
 year: 1957
 type: "book"
 publisher: "Routledge & Kegan Paul, London"
-tags: ["source", "civilizational-cycles"]
+tags: ["source", "civilizational-cycles", "evolution-of-consciousness"]
 subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-09
+updated: 2026-11-19
 source_project: "BioConomy"
+briefs: ["evolution-of-consciousness-library"]
+tier: "critic"
+discipline: "philosophy"
+design: "E4"
+claims: ["B2", "C2"]
+claim_b2: true
+claim_c2: true
+stance: ["B2:d", "C2:d"]
+finding: "History has no knowable laws of development"
+standing: "[TBV]"
+on_seed_list: "no"
+grade: "[TBV]"
 ---
 
 Popper, K. (1957). *The Poverty of Historicism*. London: Routledge & Kegan Paul.
@@ -18,6 +30,7 @@ Popper holds that trends are not laws and that the growth of knowledge makes the
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[frameworks/cycle-of-globalization|Cycle of Globalization]]
 - [[frameworks/cycle-of-civilizations|Cycle of Civilizations]]
 
