@@ -10,10 +10,10 @@ claim: "A transition comparable to the earlier ones is under way."
 evidence_type: "E4 synthesis to E5 testimony"
 evidence_main: "E4"
 depends_on_h: "read-differently"
-affirms_count: 9
+affirms_count: 10
 qualifies_count: 3
 dissents_count: 1
-silent_count: 27
+silent_count: 33
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,11 +37,12 @@ Run 2 reworded the step as a claim some sources make. No measured study shows a 
 
 ## Where the grid sources stand
 
-Of the 40 grid sources, 9 affirm this step, 3 qualify it and one dissents. The other 27 are silent on it.
+Of the 47 grid sources, 10 affirm this step, 3 qualify it and one dissents. The other 33 are silent on it.
 
 ### Affirms
 
 - [[sources/aurobindo-1939-the-life-divine|Sri Aurobindo, The Life Divine (1939)]]
+- [[sources/bache-2019-lsd-and-the-mind-of-the-universe|Christopher M. Bache, LSD and the Mind of the Universe: Diamonds from Heaven (2019)]]
 - [[sources/barfield-1957-saving-the-appearances|Owen Barfield, Saving the Appearances (1957)]]
 - [[sources/beck-cowan-spiral-dynamics|Don Edward Beck and Christopher C. Cowan, Spiral Dynamics (1996)]]
 - [[sources/briggs-2021-emerging-world|Roger P. Briggs, Emerging World: The Evolution of Consciousness and the Future of Humanity (2021)]]

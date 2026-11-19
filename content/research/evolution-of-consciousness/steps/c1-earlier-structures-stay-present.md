@@ -11,9 +11,9 @@ evidence_type: "E3 theory on evidence to E4 synthesis"
 evidence_main: "E3"
 depends_on_h: "holds-either-way"
 affirms_count: 10
-qualifies_count: 1
+qualifies_count: 2
 dissents_count: 0
-silent_count: 29
+silent_count: 35
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,7 +37,7 @@ Unchanged. It is the most widely shared step among the sequence theorists.
 
 ## Where the grid sources stand
 
-Of the 40 grid sources, 10 affirm this step, one qualifies it and none dissent. The other 29 are silent on it.
+Of the 47 grid sources, 10 affirm this step, 2 qualify it and none dissent. The other 35 are silent on it.
 
 ### Affirms
 
@@ -55,6 +55,7 @@ Of the 40 grid sources, 10 affirm this step, one qualifies it and none dissent. 
 ### Qualifies
 
 - [[sources/jaynes-1976-origin-of-consciousness|Julian Jaynes, The Origin of Consciousness in the Breakdown of the Bicameral Mind (1976)]]
+- [[sources/jung-1959-archetypes-and-the-collective-unconscious|C. G. Jung, The Archetypes and the Collective Unconscious (1959)]]
 
 ## Related
 

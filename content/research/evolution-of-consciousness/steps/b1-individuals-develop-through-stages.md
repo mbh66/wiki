@@ -11,9 +11,9 @@ evidence_type: "E1 measured study for the Washington University Sentence Complet
 evidence_main: "E1"
 depends_on_h: "holds-either-way"
 affirms_count: 4
-qualifies_count: 1
+qualifies_count: 2
 dissents_count: 0
-silent_count: 35
+silent_count: 41
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,7 +37,7 @@ Run 2 recorded that the measured support is strong for one instrument and thin f
 
 ## Where the grid sources stand
 
-Of the 40 grid sources, 4 affirm this step, one qualifies it and none dissent. The other 35 are silent on it.
+Of the 47 grid sources, 4 affirm this step, 2 qualify it and none dissent. The other 41 are silent on it.
 
 ### Affirms
 
@@ -48,6 +48,7 @@ Of the 40 grid sources, 4 affirm this step, one qualifies it and none dissent. T
 
 ### Qualifies
 
+- [[sources/jung-1959-archetypes-and-the-collective-unconscious|C. G. Jung, The Archetypes and the Collective Unconscious (1959)]]
 - [[sources/tomasello-1999-cultural-origins|Michael Tomasello, The Cultural Origins of Human Cognition (1999)]]
 
 ## Related

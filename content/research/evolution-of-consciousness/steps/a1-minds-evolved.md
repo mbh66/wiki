@@ -10,10 +10,10 @@ claim: "Awareness occurs in graded forms across many animal lineages and arose b
 evidence_type: "E1 measured study"
 evidence_main: "E1"
 depends_on_h: "holds-either-way"
-affirms_count: 6
-qualifies_count: 6
+affirms_count: 7
+qualifies_count: 7
 dissents_count: 0
-silent_count: 28
+silent_count: 33
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,13 +37,14 @@ Run 2 added the split between strong support and realistic possibility, followin
 
 ## Where the grid sources stand
 
-Of the 40 grid sources, 6 affirm this step, 6 qualify it and none dissent. The other 28 are silent on it.
+Of the 47 grid sources, 7 affirm this step, 7 qualify it and none dissent. The other 33 are silent on it.
 
 ### Affirms
 
 - [[sources/andrews-birch-sebo-2024-new-york-declaration|Kristin Andrews, Jonathan Birch, Jeff Sebo et al., The New York Declaration on Animal Consciousness (2024)]]
 - [[sources/feinberg-mallatt-2016-ancient-origins|Todd E. Feinberg, Jon M. Mallatt, The Ancient Origins of Consciousness (2016)]]
 - [[sources/ginsburg-jablonka-2019-sensitive-soul|Simona Ginsburg, Eva Jablonka, The Evolution of the Sensitive Soul (2019)]]
+- [[sources/levin-2022-technological-approach-to-mind-everywhere|Michael Levin, Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds (2022)]]
 - [[sources/seth-2021-being-you|Anil Seth, Being You (2021)]]
 - [[sources/teilhard-1955-the-phenomenon-of-man|Pierre Teilhard de Chardin, The Phenomenon of Man (1955)]]
 - [[sources/varela-thompson-rosch-1991-embodied-mind|Francisco J. Varela, Evan Thompson, Eleanor Rosch, The Embodied Mind (1991)]]
@@ -54,6 +55,7 @@ Of the 40 grid sources, 6 affirm this step, 6 qualify it and none dissent. The o
 - [[sources/deacon-1997-the-symbolic-species|Terrence W. Deacon, The Symbolic Species (1997)]]
 - [[sources/dennett-1991-consciousness-explained|Daniel C. Dennett, Consciousness Explained (1991)]]
 - [[sources/donald-1991-origins-of-the-modern-mind|Merlin Donald, Origins of the Modern Mind (1991)]]
+- [[sources/hoffman-2019-the-case-against-reality|Donald D. Hoffman, The Case Against Reality: Why Evolution Hid the Truth from Our Eyes (2019)]]
 - [[sources/simard-2021-finding-the-mother-tree|Suzanne Simard, Finding the Mother Tree (2021)]]
 - [[sources/tomasello-1999-cultural-origins|Michael Tomasello, The Cultural Origins of Human Cognition (1999)]]
 

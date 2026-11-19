@@ -11,10 +11,10 @@ claim: "Consciousness is a basic feature of reality and is not produced by brain
 evidence_type: "Argument (E3 to E4)"
 evidence_main: "E3"
 depends_on_h: "n/a"
-affirms_count: 6
-qualifies_count: 3
+affirms_count: 8
+qualifies_count: 4
 dissents_count: 8
-silent_count: 23
+silent_count: 27
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,13 +38,15 @@ Unchanged. The grid maps the split and leaves it open.
 
 ## Where the grid sources stand
 
-Of the 40 grid sources, 6 affirm this step, 3 qualify it and 8 dissent. The other 23 are silent on it.
+Of the 47 grid sources, 8 affirm this step, 4 qualify it and 8 dissent. The other 27 are silent on it.
 
 ### Affirms
 
 - [[sources/aurobindo-1939-the-life-divine|Sri Aurobindo, The Life Divine (1939)]]
+- [[sources/bache-2019-lsd-and-the-mind-of-the-universe|Christopher M. Bache, LSD and the Mind of the Universe: Diamonds from Heaven (2019)]]
 - [[sources/barfield-1957-saving-the-appearances|Owen Barfield, Saving the Appearances (1957)]]
 - [[sources/chalmers-1996-the-conscious-mind|David J. Chalmers, The Conscious Mind (1996)]]
+- [[sources/hoffman-2019-the-case-against-reality|Donald D. Hoffman, The Case Against Reality: Why Evolution Hid the Truth from Our Eyes (2019)]]
 - [[sources/kelly-2007-irreducible-mind|Edward F. Kelly, Emily Williams Kelly et al., Irreducible Mind (2007)]]
 - [[sources/teilhard-1955-the-phenomenon-of-man|Pierre Teilhard de Chardin, The Phenomenon of Man (1955)]]
 - [[sources/wilber-2000-integral-psychology|Ken Wilber, Integral Psychology: Consciousness, Spirit, Psychology, Therapy (2000)]]
@@ -53,6 +55,7 @@ Of the 40 grid sources, 6 affirm this step, 3 qualify it and 8 dissent. The othe
 
 - [[sources/briggs-2021-emerging-world|Roger P. Briggs, Emerging World: The Evolution of Consciousness and the Future of Humanity (2021)]]
 - [[sources/gebser-ever-present-origin|Jean Gebser, The Ever-Present Origin (1949)]]
+- [[sources/laszlo-2004-science-and-the-akashic-field|Ervin Laszlo, Science and the Akashic Field: An Integral Theory of Everything (2004)]]
 - [[sources/varela-thompson-rosch-1991-embodied-mind|Francisco J. Varela, Evan Thompson, Eleanor Rosch, The Embodied Mind (1991)]]
 
 ### Dissents

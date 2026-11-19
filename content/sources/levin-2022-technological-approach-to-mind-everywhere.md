@@ -1,0 +1,50 @@
+---
+title: "Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds"
+description: "Michael Levin sets out TAME, a framework that treats cognition as continuous across cells, tissues, organisms and engineered systems, with morphogenesis as a form of basal cognition."
+author: "Michael Levin"
+year: 2022
+type: "journal-article"
+publisher: "Frontiers in Systems Neuroscience 16: 768201"
+url: "https://doi.org/10.3389/fnsys.2022.768201"
+doi: "10.3389/fnsys.2022.768201"
+tags: ["source", "consciousness", "evolution-of-consciousness"]
+subject: ["consciousness"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+tier: "evidence"
+discipline: "developmental biology"
+design: "E3"
+claims: ["A1", "C3"]
+claim_a1: true
+claim_c3: true
+stance: ["A1:a", "C3:q"]
+finding: "Treats cognition as a continuum across scales of living organisation, with cells joining into larger agents through bioelectric signalling."
+standing: "Peer-reviewed hypothesis-and-theory article from the Allen Discovery Center at Tufts; widely discussed in basal cognition research [TBV]"
+on_seed_list: "no"
+grade: "[IC]"
+created: 2026-11-19
+updated: 2026-11-19
+source_project: "BioConomy"
+grid_group: "1. Mind and brain science"
+grid_steps: ["A1", "C3"]
+grid_a1: "affirms"
+grid_a1_says: "Treats cognition as continuous across cells, tissues, organisms and engineered systems, with capacities that increase during evolution."
+grid_a1_cite: "Frontiers in Systems Neuroscience 16: 768201 (2022), abstract and introduction"
+grid_a1_grade: "[IC]"
+grid_c3: "qualifies"
+grid_c3_says: "Holds that every known mind is a collective intelligence of agentic parts, at all scales of life, with no claim of a new human stage."
+grid_c3_cite: "Frontiers in Systems Neuroscience 16: 768201 (2022), introduction"
+grid_c3_grade: "[IC]"
+---
+
+Michael Levin (2022). *Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds*. Frontiers in Systems Neuroscience 16: 768201. https://doi.org/10.3389/fnsys.2022.768201
+
+Michael Levin introduces TAME (Technological Approach to Mind Everywhere), a non-binary, experimentally grounded approach to agency that treats morphogenesis as basal cognition and proposes ways cognitive capacities increase during evolution [IC]. He argues that all known minds are collective intelligences made of parts that are themselves agents, joined into larger wholes through developmental bioelectricity [IC]. The article was published as a peer-reviewed hypothesis-and-theory paper in *Frontiers in Systems Neuroscience* (2022) [IC]. Tom Morgan's *Anomaly Grid* cites Levin's work on bioelectricity. The wiki takes from it the strongest current case that mind comes in graded forms well below the level of nervous systems.
+
+The [[research/evolution-of-consciousness/library|library]] codes it as a evidence work in developmental biology, with evidence type E3 and claim codes A1, C3.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A1; it qualifies C3.
+
+## Cited by
+
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]

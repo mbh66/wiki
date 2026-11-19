@@ -21,7 +21,7 @@ Each step has its own page. The page states the claim as the research run refine
 
 ![[evolution-of-consciousness-chain.base]]
 
-The table runs in chain order, with the connecting word that joins each step to the one before it and the count of the 40 grid sources on each side.
+The table runs in chain order, with the connecting word that joins each step to the one before it and the count of the 47 grid sources on each side.
 
 ## Related
 

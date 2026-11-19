@@ -11,10 +11,10 @@ claim: "The new structure shows up as distributed, relational, collective intell
 evidence_type: "E4 synthesis, with contested E1 work on group intelligence"
 evidence_main: "E4"
 depends_on_h: "holds-either-way"
-affirms_count: 2
-qualifies_count: 3
+affirms_count: 3
+qualifies_count: 4
 dissents_count: 1
-silent_count: 34
+silent_count: 39
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,16 +38,18 @@ Run 2 reworded the step as a proposed sign and marked the mycelial metaphor as m
 
 ## Where the grid sources stand
 
-Of the 40 grid sources, 2 affirm this step, 3 qualify it and one dissents. The other 34 are silent on it.
+Of the 47 grid sources, 3 affirm this step, 4 qualify it and one dissents. The other 39 are silent on it.
 
 ### Affirms
 
+- [[sources/bache-2019-lsd-and-the-mind-of-the-universe|Christopher M. Bache, LSD and the Mind of the Universe: Diamonds from Heaven (2019)]]
 - [[sources/schmachtenberger-2022-third-attractor|Daniel Schmachtenberger, In Search of the Third Attractor (parts 1 and 2) (2022)]]
 - [[sources/teilhard-1955-the-phenomenon-of-man|Pierre Teilhard de Chardin, The Phenomenon of Man (1955)]]
 
 ### Qualifies
 
 - [[sources/karst-2023-positive-citation-bias|Justine Karst, Melanie D. Jones, Jason D. Hoeksema, Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests (2023)]]
+- [[sources/levin-2022-technological-approach-to-mind-everywhere|Michael Levin, Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds (2022)]]
 - [[sources/simard-2021-finding-the-mother-tree|Suzanne Simard, Finding the Mother Tree (2021)]]
 - [[sources/yunkaporta-2019-sand-talk|Tyson Yunkaporta, Sand Talk (2019)]]
 

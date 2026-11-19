@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of Consciousness"
-description: "Research on whether and how human consciousness has changed over time: a graded library of 95 works, and a claim grid that sets 40 sources against each step of the argument, with a dating table."
+description: "Research on whether and how human consciousness has changed over time: a graded library of 101 works, and a claim grid that sets 47 sources against each step of the argument, with a dating table."
 aliases: ["evolution of consciousness research", "evolution of consciousness folder"]
 tags: ["research", "consciousness", "evolution-of-consciousness", "bioconomy"]
 created: 2026-11-19
@@ -20,9 +20,9 @@ What does the sequence rest on? Which parts are measured, which are dated, which
 
 ## In this folder
 
-- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]. 95 works coded by tier, evidence type and the claims each speaks to, with coverage tests and the gaps that remain.
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]. 101 works coded by tier, evidence type and the claims each speaks to, with coverage tests and the gaps that remain.
 
-- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]. A claim grid modelled on Tom Morgan's *Anomaly Grid*, setting 40 sources (critics included) against each step of the argument, with the evidence type behind each step, a dating table set against the archaeological record, and grades for ten propositions.
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]. A claim grid, setting 47 sources (critics included) against each step of the argument, with the evidence type behind each step, a dating table set against the archaeological record, and grades for ten propositions.
 - [[research/evolution-of-consciousness/steps/index|The Claim Chain, Step by Step]]. One page per step of the chain, with the sources on each side.
 - [[research/evolution-of-consciousness/dates/index|Dated Thresholds]]. One entry per dated threshold, sortable in time.
 

@@ -11,10 +11,10 @@ claim: "Measured complexity has risen across cosmic, biological and cultural sys
 evidence_type: "E1 to E3 for the rise in complexity (Chaisson); E4 to E5 for the direction (Teilhard, Aurobindo, Wilber)"
 evidence_main: "E4"
 depends_on_h: "read-differently"
-affirms_count: 7
+affirms_count: 11
 qualifies_count: 5
 dissents_count: 5
-silent_count: 23
+silent_count: 26
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,15 +38,19 @@ Run 2 split the step into its two halves, which rest on different kinds of evide
 
 ## Where the grid sources stand
 
-Of the 40 grid sources, 7 affirm this step, 5 qualify it and 5 dissent. The other 23 are silent on it.
+Of the 47 grid sources, 11 affirm this step, 5 qualify it and 5 dissent. The other 26 are silent on it.
 
 ### Affirms
 
 - [[sources/aurobindo-1939-the-life-divine|Sri Aurobindo, The Life Divine (1939)]]
+- [[sources/bache-2019-lsd-and-the-mind-of-the-universe|Christopher M. Bache, LSD and the Mind of the Universe: Diamonds from Heaven (2019)]]
 - [[sources/beck-cowan-spiral-dynamics|Don Edward Beck and Christopher C. Cowan, Spiral Dynamics (1996)]]
 - [[sources/briggs-2021-emerging-world|Roger P. Briggs, Emerging World: The Evolution of Consciousness and the Future of Humanity (2021)]]
 - [[sources/chaisson-2001-cosmic-evolution|Eric J. Chaisson, Cosmic Evolution (2001)]]
+- [[sources/fantappie-1942-unitary-theory-of-the-physical-and-biological-world|Luigi Fantappiè, Principi di una teoria unitaria del mondo fisico e biologico (1942)]]
+- [[sources/laszlo-2004-science-and-the-akashic-field|Ervin Laszlo, Science and the Akashic Field: An Integral Theory of Everything (2004)]]
 - [[sources/mcintosh-2007-integral-consciousness|Steve McIntosh, Integral Consciousness and the Future of Evolution (2007)]]
+- [[sources/prigogine-1996-the-end-of-certainty|Ilya Prigogine, The End of Certainty: Time, Chaos, and the New Laws of Nature (1996)]]
 - [[sources/teilhard-1955-the-phenomenon-of-man|Pierre Teilhard de Chardin, The Phenomenon of Man (1955)]]
 - [[sources/wilber-2000-integral-psychology|Ken Wilber, Integral Psychology: Consciousness, Spirit, Psychology, Therapy (2000)]]
 

@@ -14,7 +14,7 @@ depends_on_h: "holds-either-way"
 affirms_count: 3
 qualifies_count: 1
 dissents_count: 1
-silent_count: 35
+silent_count: 42
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Run 2 marked the step contested: Graeber and Wengrow and the critics of recapitu
 
 ## Where the grid sources stand
 
-Of the 40 grid sources, 3 affirm this step, one qualifies it and one dissents. The other 35 are silent on it.
+Of the 47 grid sources, 3 affirm this step, one qualifies it and one dissents. The other 42 are silent on it.
 
 ### Affirms
 
