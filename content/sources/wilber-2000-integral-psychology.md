@@ -7,7 +7,7 @@ type: "book"
 publisher: "Shambhala"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
 tier: "canon"
 discipline: "integral theory"
 design: "E4"
@@ -23,6 +23,36 @@ grade: "[TBV]"
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
+grid_group: "4. Developmental maps"
+grid_steps: ["A3", "B1", "B2", "B3", "C1", "C2", "H"]
+grid_a3: "affirms"
+grid_a3_says: "Uses Gebser's archaic, magic, mythic, mental and integral structures as stages of consciousness."
+grid_a3_cite: "Integral Psychology (2000), Part Two"
+grid_a3_grade: "[TBV]"
+grid_b1: "affirms"
+grid_b1_says: "Correlates over a hundred developmental models in charts of stages."
+grid_b1_cite: "Integral Psychology (2000), charts"
+grid_b1_grade: "[IC]"
+grid_b2: "affirms"
+grid_b2_says: "Holds individual and cultural development broadly parallel, with stated limits."
+grid_b2_cite: "Integral Psychology (2000), Part Two"
+grid_b2_grade: "[TBV]"
+grid_b3: "affirms"
+grid_b3_says: "Treats evolution as Spirit in action moving toward greater depth."
+grid_b3_cite: "Integral Psychology (2000), Part Three"
+grid_b3_grade: "[TBV]"
+grid_c1: "affirms"
+grid_c1_says: "Holds that each stage transcends and includes its predecessors."
+grid_c1_cite: "Integral Psychology (2000), Part One"
+grid_c1_grade: "[IC]"
+grid_c2: "affirms"
+grid_c2_says: "Describes an integral stage emerging in a small share of adults."
+grid_c2_cite: "Integral Psychology (2000), Part Three"
+grid_c2_grade: "[TBV]"
+grid_h: "affirms"
+grid_h_says: "Holds consciousness to be ultimately nondual Spirit."
+grid_h_cite: "Integral Psychology (2000), Part Three"
+grid_h_grade: "[TBV]"
 ---
 
 Ken Wilber (2000). *Integral Psychology: Consciousness, Spirit, Psychology, Therapy*. Shambhala.
@@ -35,6 +65,9 @@ The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in integral theory, with evidence type E4 and claim codes B1, B2, C1.
 
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, B1, B2, B3, C1, C2 and H.
+
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]

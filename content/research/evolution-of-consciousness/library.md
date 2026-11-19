@@ -18,7 +18,7 @@ For two centuries, writers in fields that seldom meet have argued that the way p
 
 This page gathers their work in one place, so a reader can check the sequence the network writes from: the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]], five [[concepts/structures-of-consciousness|structures of consciousness]] (Mimetic, Magical, Mythic, Material, and Mycelial) joined by four transitions. A structure of consciousness is a shared way of experiencing self, time and world; the term is Jean Gebser's. The five names and the synthesis across them are Michael Haupt's, built on Roger Briggs, whose own stages are survival, magical, mythical, mental/material and integral/emerging [MS]. Every author in the library keeps their own terms.
 
-The library grades the works. It doesn't yet grade the claims. A companion grid will set the sources against each step of the argument, the way Tom Morgan's *Anomaly Grid* does for his own claims, and will include the critics.
+The library grades the works. The [[research/evolution-of-consciousness/grid|companion grid]] grades the claims: it sets 40 of these sources against each step of the argument, the way Tom Morgan's *Anomaly Grid* does for his own claims, and includes the critics.
 
 ## How the library was built
 
@@ -64,7 +64,7 @@ E5 is a separate kind of knowledge and carries no lower worth. The table records
 | C4 | The current structure resists the new one |
 | H | Consciousness is fundamental and isn't produced by brains |
 
-**Stance.** For each claim, a provisional lean: `a` affirms, `q` qualifies, `d` disputes. The companion grid will check each one against the text.
+**Stance.** For each claim, a provisional lean: `a` affirms, `q` qualifies, `d` disputes. The companion grid reads each work again for its position on every step, and where the two differ, the grid's reading stands.
 
 ## The library
 
@@ -100,7 +100,7 @@ Also thin: critics of measured adult stages and of the persistence of earlier st
 
 ## What comes next
 
-A second research run will test the claims these works make, step by step, in a grid of sources set against claims, and will set each source's dates for the structures beside the dated record. It will be filed in this folder.
+A second research run tested the claims these works make, step by step, in the [[research/evolution-of-consciousness/grid|companion grid]], and set each source's dates for the structures beside the dated record in [[research/evolution-of-consciousness/dates/index|Dated Thresholds]].
 
 ## Related
 

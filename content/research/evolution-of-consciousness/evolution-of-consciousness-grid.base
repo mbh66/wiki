@@ -1,0 +1,428 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("source")
+    - contains(briefs, "evolution-of-consciousness-grid")
+    - draft != true
+formulas:
+  work: file.asLink(title)
+  a1: 'if(grid_a1 == "affirms", "●", if(grid_a1 == "qualifies", "◐", if(grid_a1 == "dissents", "✕", "")))'
+  a2: 'if(grid_a2 == "affirms", "●", if(grid_a2 == "qualifies", "◐", if(grid_a2 == "dissents", "✕", "")))'
+  a3: 'if(grid_a3 == "affirms", "●", if(grid_a3 == "qualifies", "◐", if(grid_a3 == "dissents", "✕", "")))'
+  b1: 'if(grid_b1 == "affirms", "●", if(grid_b1 == "qualifies", "◐", if(grid_b1 == "dissents", "✕", "")))'
+  b2: 'if(grid_b2 == "affirms", "●", if(grid_b2 == "qualifies", "◐", if(grid_b2 == "dissents", "✕", "")))'
+  b3: 'if(grid_b3 == "affirms", "●", if(grid_b3 == "qualifies", "◐", if(grid_b3 == "dissents", "✕", "")))'
+  c1: 'if(grid_c1 == "affirms", "●", if(grid_c1 == "qualifies", "◐", if(grid_c1 == "dissents", "✕", "")))'
+  c2: 'if(grid_c2 == "affirms", "●", if(grid_c2 == "qualifies", "◐", if(grid_c2 == "dissents", "✕", "")))'
+  c3: 'if(grid_c3 == "affirms", "●", if(grid_c3 == "qualifies", "◐", if(grid_c3 == "dissents", "✕", "")))'
+  c4: 'if(grid_c4 == "affirms", "●", if(grid_c4 == "qualifies", "◐", if(grid_c4 == "dissents", "✕", "")))'
+  h: 'if(grid_h == "affirms", "●", if(grid_h == "qualifies", "◐", if(grid_h == "dissents", "✕", "")))'
+properties:
+  formula.work:
+    displayName: Source
+  author:
+    displayName: Author
+  year:
+    displayName: Year
+  grid_group:
+    displayName: Row group
+  on_seed_list:
+    displayName: On Michael's list
+  formula.a1:
+    displayName: A1
+  grid_a1:
+    displayName: A1 position
+  grid_a1_says:
+    displayName: What it says
+  grid_a1_cite:
+    displayName: Where
+  grid_a1_grade:
+    displayName: Grade
+  formula.a2:
+    displayName: A2
+  grid_a2:
+    displayName: A2 position
+  grid_a2_says:
+    displayName: What it says
+  grid_a2_cite:
+    displayName: Where
+  grid_a2_grade:
+    displayName: Grade
+  formula.a3:
+    displayName: A3
+  grid_a3:
+    displayName: A3 position
+  grid_a3_says:
+    displayName: What it says
+  grid_a3_cite:
+    displayName: Where
+  grid_a3_grade:
+    displayName: Grade
+  formula.b1:
+    displayName: B1
+  grid_b1:
+    displayName: B1 position
+  grid_b1_says:
+    displayName: What it says
+  grid_b1_cite:
+    displayName: Where
+  grid_b1_grade:
+    displayName: Grade
+  formula.b2:
+    displayName: B2
+  grid_b2:
+    displayName: B2 position
+  grid_b2_says:
+    displayName: What it says
+  grid_b2_cite:
+    displayName: Where
+  grid_b2_grade:
+    displayName: Grade
+  formula.b3:
+    displayName: B3
+  grid_b3:
+    displayName: B3 position
+  grid_b3_says:
+    displayName: What it says
+  grid_b3_cite:
+    displayName: Where
+  grid_b3_grade:
+    displayName: Grade
+  formula.c1:
+    displayName: C1
+  grid_c1:
+    displayName: C1 position
+  grid_c1_says:
+    displayName: What it says
+  grid_c1_cite:
+    displayName: Where
+  grid_c1_grade:
+    displayName: Grade
+  formula.c2:
+    displayName: C2
+  grid_c2:
+    displayName: C2 position
+  grid_c2_says:
+    displayName: What it says
+  grid_c2_cite:
+    displayName: Where
+  grid_c2_grade:
+    displayName: Grade
+  formula.c3:
+    displayName: C3
+  grid_c3:
+    displayName: C3 position
+  grid_c3_says:
+    displayName: What it says
+  grid_c3_cite:
+    displayName: Where
+  grid_c3_grade:
+    displayName: Grade
+  formula.c4:
+    displayName: C4
+  grid_c4:
+    displayName: C4 position
+  grid_c4_says:
+    displayName: What it says
+  grid_c4_cite:
+    displayName: Where
+  grid_c4_grade:
+    displayName: Grade
+  formula.h:
+    displayName: H
+  grid_h:
+    displayName: H position
+  grid_h_says:
+    displayName: What it says
+  grid_h_cite:
+    displayName: Where
+  grid_h_grade:
+    displayName: Grade
+views:
+  - type: table
+    name: "The grid"
+    groupBy:
+      property: grid_group
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - formula.a1
+      - formula.a2
+      - formula.a3
+      - formula.b1
+      - formula.b2
+      - formula.b3
+      - formula.c1
+      - formula.c2
+      - formula.c3
+      - formula.c4
+      - formula.h
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "The grid in words"
+    groupBy:
+      property: grid_group
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_a1
+      - grid_a2
+      - grid_a3
+      - grid_b1
+      - grid_b2
+      - grid_b3
+      - grid_c1
+      - grid_c2
+      - grid_c3
+      - grid_c4
+      - grid_h
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "A1. Minds evolved"
+    filters:
+      and:
+        - contains(grid_steps, "A1")
+    groupBy:
+      property: grid_a1
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_a1
+      - grid_a1_says
+      - grid_a1_cite
+      - grid_a1_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "A2. Cognition changed in steps"
+    filters:
+      and:
+        - contains(grid_steps, "A2")
+    groupBy:
+      property: grid_a2
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_a2
+      - grid_a2_says
+      - grid_a2_cite
+      - grid_a2_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "A3. Structure of awareness changed"
+    filters:
+      and:
+        - contains(grid_steps, "A3")
+    groupBy:
+      property: grid_a3
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_a3
+      - grid_a3_says
+      - grid_a3_cite
+      - grid_a3_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "B1. Individuals develop through stages"
+    filters:
+      and:
+        - contains(grid_steps, "B1")
+    groupBy:
+      property: grid_b1
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_b1
+      - grid_b1_says
+      - grid_b1_cite
+      - grid_b1_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "B2. Culture and person run parallel"
+    filters:
+      and:
+        - contains(grid_steps, "B2")
+    groupBy:
+      property: grid_b2
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_b2
+      - grid_b2_says
+      - grid_b2_cite
+      - grid_b2_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "B3. Complexity has a direction"
+    filters:
+      and:
+        - contains(grid_steps, "B3")
+    groupBy:
+      property: grid_b3
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_b3
+      - grid_b3_says
+      - grid_b3_cite
+      - grid_b3_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "C1. Earlier structures stay present"
+    filters:
+      and:
+        - contains(grid_steps, "C1")
+    groupBy:
+      property: grid_c1
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_c1
+      - grid_c1_says
+      - grid_c1_cite
+      - grid_c1_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "C2. A new structure is emerging"
+    filters:
+      and:
+        - contains(grid_steps, "C2")
+    groupBy:
+      property: grid_c2
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_c2
+      - grid_c2_says
+      - grid_c2_cite
+      - grid_c2_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "C3. Networked, collective intelligence"
+    filters:
+      and:
+        - contains(grid_steps, "C3")
+    groupBy:
+      property: grid_c3
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_c3
+      - grid_c3_says
+      - grid_c3_cite
+      - grid_c3_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "C4. The current structure resists it"
+    filters:
+      and:
+        - contains(grid_steps, "C4")
+    groupBy:
+      property: grid_c4
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_c4
+      - grid_c4_says
+      - grid_c4_cite
+      - grid_c4_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "H. Consciousness is fundamental"
+    filters:
+      and:
+        - contains(grid_steps, "H")
+    groupBy:
+      property: grid_h
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_h
+      - grid_h_says
+      - grid_h_cite
+      - grid_h_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "Critics"
+    filters:
+      and:
+        - grid_group == "9. Critics of the sequence"
+    order:
+      - formula.work
+      - year
+      - formula.a1
+      - formula.a2
+      - formula.a3
+      - formula.b1
+      - formula.b2
+      - formula.b3
+      - formula.c1
+      - formula.c2
+      - formula.c3
+      - formula.c4
+      - formula.h
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: "Michael's reading"
+    filters:
+      and:
+        - on_seed_list == "yes"
+    order:
+      - formula.work
+      - year
+      - grid_group
+      - formula.a1
+      - formula.a2
+      - formula.a3
+      - formula.b1
+      - formula.b2
+      - formula.b3
+      - formula.c1
+      - formula.c2
+      - formula.c3
+      - formula.c4
+      - formula.h
+    sort:
+      - property: year
+        direction: ASC

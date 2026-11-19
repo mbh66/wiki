@@ -10,7 +10,7 @@ subject: ["civilization"]
 created: 2026-11-07
 updated: 2026-11-19
 source_project: "BioConomy"
-briefs: ["evolution-of-consciousness-library"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
 tier: "critic"
 discipline: "philosophy"
 design: "E4"
@@ -22,17 +22,30 @@ finding: "History has no knowable laws of development"
 standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
+grid_group: "9. Critics of the sequence"
+grid_steps: ["B3", "C2"]
+grid_b3: "dissents"
+grid_b3_says: "Argues history has no laws of development that permit prediction."
+grid_b3_cite: "The Poverty of Historicism (1957), Part IV"
+grid_b3_grade: "[IC]"
+grid_c2: "dissents"
+grid_c2_says: "Holds that claims about the coming stage of history cannot be tested."
+grid_c2_cite: "The Poverty of Historicism (1957), Preface and Part IV"
+grid_c2_grade: "[TBV]"
 ---
 
 Popper, K. (1957). *The Poverty of Historicism*. London: Routledge & Kegan Paul.
 
 Popper holds that trends are not laws and that the growth of knowledge makes the course of history unpredictable. The wiki applies the argument to the dated projections of the Cycle of Globalization, which it holds as forecasts.
 
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from B3 and C2.
+
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[frameworks/cycle-of-globalization|Cycle of Globalization]]
 - [[frameworks/cycle-of-civilizations|Cycle of Civilizations]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 
 <script type="application/ld+json">
 {

@@ -1,0 +1,92 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("dated-threshold")
+    - draft != true
+formulas:
+  entry: file.asLink(title)
+properties:
+  formula.entry:
+    displayName: Threshold
+  source_label:
+    displayName: Source
+  network_structure:
+    displayName: Nearest network structure
+  structure_group:
+    displayName: Nearest network structure
+  date_given:
+    displayName: Date as the source gives it
+  years_ago:
+    displayName: Years ago (approx.)
+  basis:
+    displayName: What the date rests on
+  record_check:
+    displayName: Nearest dated record
+  fit:
+    displayName: Fit
+  grade:
+    displayName: Grade
+views:
+  - type: table
+    name: "By network structure"
+    groupBy:
+      property: structure_group
+      direction: ASC
+    order:
+      - formula.entry
+      - source_label
+      - date_given
+      - basis
+      - record_check
+      - fit
+      - grade
+    sort:
+      - property: years_ago
+        direction: DESC
+  - type: table
+    name: "In time order"
+    order:
+      - formula.entry
+      - years_ago
+      - date_given
+      - network_structure
+      - record_check
+      - fit
+    sort:
+      - property: years_ago
+        direction: DESC
+  - type: table
+    name: "By fit"
+    groupBy:
+      property: fit
+      direction: ASC
+    order:
+      - formula.entry
+      - source_label
+      - date_given
+      - basis
+      - record_check
+      - fit
+      - grade
+    sort:
+      - property: years_ago
+        direction: DESC
+  - type: table
+    name: "The network's own pages"
+    filters:
+      and:
+        - network_source == true
+    groupBy:
+      property: structure_group
+      direction: ASC
+    order:
+      - formula.entry
+      - source_label
+      - date_given
+      - basis
+      - record_check
+      - fit
+      - grade
+    sort:
+      - property: years_ago
+        direction: DESC

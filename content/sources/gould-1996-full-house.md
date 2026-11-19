@@ -7,7 +7,7 @@ type: "book"
 publisher: "Harmony Books"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
 tier: "critic"
 discipline: "palaeontology"
 design: "E3"
@@ -22,6 +22,12 @@ grade: "[TBV]"
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
+grid_group: "9. Critics of the sequence"
+grid_steps: ["B3"]
+grid_b3: "dissents"
+grid_b3_says: "Argues apparent progress is spread away from a wall of minimal complexity, with bacteria still the modal life form."
+grid_b3_cite: "Full House (1996), Part Four"
+grid_b3_grade: "[IC]"
 ---
 
 Stephen Jay Gould (1996). *Full House*. Harmony Books.
@@ -32,6 +38,9 @@ How the work is received in its own field is still to be checked [TBV].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in palaeontology, with evidence type E3 and claim codes B3, C2.
 
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from B3.
+
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]

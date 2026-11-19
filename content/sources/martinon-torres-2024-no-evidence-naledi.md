@@ -7,7 +7,7 @@ type: "journal-article"
 publisher: "Journal of Human Evolution 103464"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
 tier: "critic"
 discipline: "palaeoanthropology"
 design: "E3"
@@ -22,6 +22,12 @@ grade: "[IC]"
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
+grid_group: "9. Critics of the sequence"
+grid_steps: ["A2"]
+grid_a2: "dissents"
+grid_a2_says: "Argues the evidence does not establish burial or rock art by Homo naledi."
+grid_a2_cite: "Journal of Human Evolution (online 2023; print 2024)"
+grid_a2_grade: "[IC]"
 ---
 
 María Martinón-Torres, Diego Garate, Andy I. R. Herries, Michael D. Petraglia (2024). *No scientific evidence that Homo naledi buried their dead and produced rock art*. Journal of Human Evolution 103464.
@@ -32,6 +38,9 @@ How its field receives it: Cited by eLife reviewers [IC].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in palaeoanthropology, with evidence type E3 and claim codes A2, A3.
 
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from A2.
+
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]

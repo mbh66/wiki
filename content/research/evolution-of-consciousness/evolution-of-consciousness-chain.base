@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("claim-step")
+    - draft != true
+formulas:
+  step: file.asLink(title)
+properties:
+  connector:
+    displayName: Joined by
+  formula.step:
+    displayName: Step
+  evidence_type:
+    displayName: Evidence type
+  depends_on_h:
+    displayName: Depends on H
+  affirms_count:
+    displayName: Affirm
+  qualifies_count:
+    displayName: Qualify
+  dissents_count:
+    displayName: Dissent
+  silent_count:
+    displayName: Silent
+views:
+  - type: table
+    name: "The claim chain"
+    order:
+      - connector
+      - formula.step
+      - evidence_type
+      - depends_on_h
+      - affirms_count
+      - qualifies_count
+      - dissents_count
+      - silent_count
+    sort:
+      - property: step_order
+        direction: ASC
