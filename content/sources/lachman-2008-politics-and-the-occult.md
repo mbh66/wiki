@@ -36,3 +36,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/lachman-2008-politics-and-the-occult/",
+  "name": "Politics and the Occult",
+  "author": {
+    "@type": "Person",
+    "name": "Gary Lachman"
+  },
+  "datePublished": "2008",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Quest Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Gary Lachman's Politics and the Occult (2008), a context work in history of ideas, with what it argues and how its field receives it."
+  }
+}
+</script>

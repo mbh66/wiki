@@ -37,3 +37,39 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/kelly-2015-beyond-physicalism/",
+  "name": "Beyond Physicalism",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Edward F. Kelly"
+    },
+    {
+      "@type": "Person",
+      "name": "Adam Crabtree"
+    },
+    {
+      "@type": "Person",
+      "name": "Paul Marshall"
+    }
+  ],
+  "datePublished": "2015",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rowman & Littlefield"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Edward F. Kelly's Beyond Physicalism (2015), a context work in philosophy of mind, with what it argues and how its field receives it."
+  }
+}
+</script>

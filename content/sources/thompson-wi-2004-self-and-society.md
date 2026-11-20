@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/thompson-wi-2004-self-and-society/",
+  "name": "Self and Society",
+  "author": {
+    "@type": "Person",
+    "name": "William Irwin Thompson"
+  },
+  "datePublished": "2004",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Imprint Academic"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for William Irwin Thompson's Self and Society (2004), a canon work in cultural history, with what it argues and how its field receives it."
+  }
+}
+</script>

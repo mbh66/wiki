@@ -5,6 +5,7 @@ tags: ["glossary", "core-concept"]
 term_type: "borrowed-technical"
 first_defined_in: "Crisis_Codes_Iran_Part_One_Draft.md"
 related_terms: ["crisis-codes", "mycelial-consciousness", "momentous-leap"]
+created: 2026-11-19
 source_project: "BioConomy"
 ---
 

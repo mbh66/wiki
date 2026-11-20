@@ -1,0 +1,13 @@
+{
+  "name": "anabranch",
+  "private": true,
+  "type": "module",
+  "description": "anabranch.bioconomy.earth: two streams of consciousness, with the evidence for each step",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "preview": "python3 -m http.server 8080 --directory site"
+  },
+  "dependencies": {
+    "yaml": "^2.5.0"
+  }
+}

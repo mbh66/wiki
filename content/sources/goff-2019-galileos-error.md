@@ -34,3 +34,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/goff-2019-galileos-error/",
+  "name": "Galileo's Error",
+  "author": {
+    "@type": "Person",
+    "name": "Philip Goff"
+  },
+  "datePublished": "2019",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rider"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Philip Goff's Galileo's Error (2019), a context work in philosophy of mind, with what it argues and how its field receives it."
+  }
+}
+</script>

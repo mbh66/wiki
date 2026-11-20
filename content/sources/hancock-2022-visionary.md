@@ -40,3 +40,31 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/hancock-2022-visionary/",
+  "name": "Visionary: The Mysterious Origins of Human Consciousness",
+  "author": {
+    "@type": "Person",
+    "name": "Graham Hancock"
+  },
+  "datePublished": "2022",
+  "publisher": {
+    "@type": "Organization",
+    "name": ""
+  },
+  "isbn": "9781637480069",
+  "url": "https://grahamhancock.com/visionary/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Graham Hancock's Visionary: The Mysterious Origins of Human Consciousness (2022), a canon work in popular archaeology, with what it argues and how its field receives it."
+  }
+}
+</script>

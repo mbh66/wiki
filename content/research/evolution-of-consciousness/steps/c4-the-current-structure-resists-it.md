@@ -12,9 +12,9 @@ evidence_type: "E4 synthesis"
 evidence_main: "E4"
 depends_on_h: "holds-either-way"
 affirms_count: 6
-qualifies_count: 0
-dissents_count: 0
-silent_count: 41
+qualifies_count: 2
+dissents_count: 2
+silent_count: 45
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Unchanged.
 
 ## Where the grid sources stand
 
-Of the 47 grid sources, 6 affirm this step, none qualify it and none dissent. The other 41 are silent on it.
+Of the 55 grid sources, 6 affirm this step, 2 qualify it and 2 dissent. The other 45 are silent on it.
 
 ### Affirms
 
@@ -48,6 +48,16 @@ Of the 47 grid sources, 6 affirm this step, none qualify it and none dissent. Th
 - [[sources/mcgilchrist-2009-master-and-his-emissary|Iain McGilchrist, The Master and His Emissary (2009)]]
 - [[sources/mcintosh-2007-integral-consciousness|Steve McIntosh, Integral Consciousness and the Future of Evolution (2007)]]
 - [[sources/schmachtenberger-2022-third-attractor|Daniel Schmachtenberger, In Search of the Third Attractor (parts 1 and 2) (2022)]]
+
+### Qualifies
+
+- [[sources/arnold-2019-where-in-the-brain-does-buddhism-come-from|Dan Arnold, Where in the Brain Does Buddhism Come From? Critical Thoughts Regarding Iain McGilchrist's Reflections on Religion (2019)]]
+- [[sources/butters-2015-brief-history-of-spiral-dynamics|Albion M. Butters, A Brief History of Spiral Dynamics (2015)]]
+
+### Dissents
+
+- [[sources/corballis-2014-left-brain-right-brain|Michael C. Corballis, Left Brain, Right Brain: Facts and Fantasies (2014)]]
+- [[sources/habermas-1985-philosophical-discourse-of-modernity|Jürgen Habermas, The Philosophical Discourse of Modernity: Twelve Lectures (1985)]]
 
 ## Related
 

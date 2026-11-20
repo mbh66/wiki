@@ -37,3 +37,30 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/kuhn-rl-2024-a-landscape-of-consciousness/",
+  "name": "A landscape of consciousness: Toward a taxonomy of explanations and implications",
+  "author": {
+    "@type": "Person",
+    "name": "Robert Lawrence Kuhn"
+  },
+  "datePublished": "2024",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Progress in Biophysics and Molecular Biology 190: 28-169"
+  },
+  "identifier": "https://doi.org/10.1016/j.pbiomolbio.2023.12.003",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Robert Lawrence Kuhn's A landscape of consciousness: Toward a taxonomy of explanations and implications (2024), a context work in philosophy of mind, with what it argues and how its field receives it."
+  }
+}
+</script>

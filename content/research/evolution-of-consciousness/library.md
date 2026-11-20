@@ -1,6 +1,6 @@
 ---
 title: The Graded Consciousness Library
-description: A graded library of 101 works on whether human consciousness has a history, each coded by tier, evidence type and the claims it speaks to, with coverage tests and the gaps that remain.
+description: A graded library of 114 works on whether human consciousness has a history, each coded by tier, evidence type and the claims it speaks to, with coverage tests and the gaps that remain.
 aliases:
   - evolution of consciousness library
   - consciousness evolution reading list
@@ -12,7 +12,7 @@ tags:
   - library
   - bioconomy
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: BioConomy
 source_documents:
   - "Deep research report: The Evolution of Consciousness: A Graded Library of 95 Works (19 November 2026)"
@@ -20,15 +20,15 @@ source_documents:
 epistemic_status: stub
 ---
 
-This library holds 101 books, papers, talks and declarations on whether human consciousness has a history; its firmest ground is the dated record and the science of animal minds, and two parts of the argument still have too few critics on file to be tested.
+This library holds 114 books, papers, talks and declarations on whether human consciousness has a history; its firmest ground is the dated record and the science of animal minds, and every part of the argument now has critics on file.
 
 ## Overview
 
 For two centuries, writers in fields that seldom meet have argued that the way people perceive, remember, reason, and belong has changed in steps, and may still be changing. Palaeoanthropologists, psychologists, philosophers, historians, contemplatives, and Indigenous scholars have each said something about it. They rarely read each other.
 
-This page gathers their work in one place, so a reader can check the sequence the network writes from: the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]], five [[concepts/structures-of-consciousness|structures of consciousness]] (Mimetic, Magical, Mythic, Material, and Mycelial) joined by four transitions. A structure of consciousness is a shared way of experiencing self, time and world; the term is Jean Gebser's. The five names and the synthesis across them are Michael Haupt's, built on Roger Briggs, whose own stages are survival, magical, mythical, mental/material and integral/emerging [MS]. Every author in the library keeps their own terms.
+This page gathers their work in one place, so a reader can check the sequence the network writes from: the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]], five [[concepts/structures-of-consciousness|structures of consciousness]] (Mimetic, Magical, Mythic, Material, and Mycelial) joined by four transitions. A [[glossary/m-s/structure-of-consciousness|structure of consciousness]] is a shared way of experiencing self, time and world; the term is Jean Gebser's. The five names and the synthesis across them are Michael Haupt's, built on Roger Briggs, whose own stages are survival, magical, mythical, mental/material and integral/emerging [MS]. Every author in the library keeps their own terms.
 
-The library grades the works. The [[research/evolution-of-consciousness/grid|companion grid]] grades the claims: it sets 40 of these sources against each step of the argument, and includes the critics.
+The library grades the works. The [[research/evolution-of-consciousness/grid|companion grid]] grades the claims: it sets 55 of these sources against each step of the argument, and includes the critics.
 
 ## How the library was built
 
@@ -40,9 +40,9 @@ Each work has its own page in the [[sources/index|sources]] register, and the ta
 
 | Tier     | Meaning                                                                                  | Works |
 | -------- | ---------------------------------------------------------------------------------------- | ----- |
-| canon    | Sets out a sequence or a structure of consciousness that subsequent research builds upon | 34    |
-| evidence | Supplies data a claim rests on                                                           | 21    |
-| critic   | Disputes a sequence, a step or a source                                                  | 9     |
+| canon    | Sets out a sequence or a structure of consciousness that subsequent research builds upon | 37    |
+| evidence | Supplies data a claim rests on                                                           | 22    |
+| critic   | Disputes a sequence, a step or a source                                                  | 18    |
 | practice | Applies the ideas                                                                        | 6     |
 | context  | Frames the field                                                                         | 31    |
 
@@ -50,10 +50,10 @@ Each work has its own page in the [[sources/index|sources]] register, and the ta
 
 | Code | Type | Works |
 |---|---|---|
-| E1 | Measured study, with replication | 3 |
+| E1 | Measured study, with replication | 4 |
 | E2 | Dated record (fossil, archaeological or documentary) | 2 |
-| E3 | Theory built on reviewed evidence | 32 |
-| E4 | Synthesis, framework or speculation | 56 |
+| E3 | Theory built on reviewed evidence | 39 |
+| E4 | Synthesis, framework or speculation | 61 |
 | E5 | Tradition or testimony | 8 |
 
 E5 is a separate kind of knowledge and should not be rated as lower worth than any of the others merely because it isn't deemed to be 'scientific' by academics. The table records which evidence type each work emerges from, so readers can see it.
@@ -74,7 +74,7 @@ E5 is a separate kind of knowledge and should not be rated as lower worth than a
 | C4   | The current structure resists the one that's emerging                            |
 | H    | Consciousness is fundamental and isn't produced by human brains                  |
 
-**Stance.** For each claim, a provisional lean: `a` affirms, `q` qualifies, `d` disputes. The companion grid reads each work again for its position on every step, and where the two differ, the grid's reading stands.
+**Stance.** For each claim, a provisional lean: `a` affirms, `q` qualifies, `d` disputes. On the 55 works in the companion grid, the stance codes follow the grid's reading of each step; on the other works they remain the first run's provisional leans.
 
 ## The library
 
@@ -100,13 +100,13 @@ The network uses fungal networks as a metaphor for a form of coordination. Simar
 
 The library was checked against five tests.
 
-1. **Supporters and critics for every claim.** Each claim needs at least three works in support and two critics or qualifiers. Met for every claim except C1, which has one qualifier and no critic, and C4, which has one.
+1. **Supporters and critics for every claim.** Each claim needs at least three works in support and two critics or qualifiers. Met for every claim. C4 was the last to pass, with five critics or qualifiers after the critics added on 19 November 2026; C1 now has six, two of them dissents.
 2. **Every discipline covered.** At least three works per discipline. Met, except African philosophy of personhood, which has two (Ramose and Menkiti).
 3. **Africa.** The dated record includes Blombos Cave, where Henshilwood and colleagues (2018) report a 73,000-year-old drawing on silcrete [IC], and the Rising Star cave system, where the claim that *Homo naledi* buried its dead (Berger and colleagues, 2025) remains disputed: one eLife reviewer found it convincingly shown, and another judged the evidence incomplete [IC]. Pinnacle Point and Wonderwerk Cave are still to be added.
 4. **Indigenous knowledge in its own voice.** Tyson Yunkaporta, Gregory Cajete, Robin Wall Kimmerer and the South African San Council's *San Code of Research Ethics* (2017). Vine Deloria Jr. and San scholars' own publications are still to be added.
-5. **Who wrote the works.** Counted from author lists, as an inference: 13 of the 101 works have at least one woman author (13%), and 9 have at least one author based outside Europe and North America (9%). The six works added after the grid check changed neither count. For the 49 works from Michael's reading, the figures are 4 (8%) and 1 (2%).
+5. **Who wrote the works.** Counted from author lists, as an inference: 13 of the 114 works have at least one woman author (11%), and 10 have at least one author based outside Europe and North America (9%). The eight critics added for C1 and C4 include no woman author and one author outside Europe and North America (Corballis, in New Zealand). For the 49 works from Michael's reading, the figures are 4 (8%) and 1 (2%).
 
-Also thin: critics of measured adult stages and of the persistence of earlier structures; the validation studies for adult-development instruments; Thaddeus Metz on Ubuntu; and Habermas, Piaget, Francis Heylighen, Bernardo Kastrup, Patricia Churchland and Jeff Meyerhoff. The library holds 101 works against a target of 120 to 200.
+Also thin: critics of measured adult stages; a direct test of the strong form of C1; any peer-reviewed critique of the metacrisis framing; the validation studies for adult-development instruments; Thaddeus Metz on Ubuntu; and Piaget, Francis Heylighen and Patricia Churchland. The library holds 114 works against a target of 120 to 200.
 
 ## What comes next
 
@@ -124,7 +124,7 @@ A second research run tested the claims these works make, step by step, in the [
 
 ## Sources
 
-Each of the 101 works has a page in the [[sources/index|sources]] register, listed in the tables above and in the [spreadsheet](/research/evolution-of-consciousness/library.csv). The works cited in the text:
+Each of the 114 works has a page in the [[sources/index|sources]] register, listed in the tables above and in the [spreadsheet](/research/evolution-of-consciousness/library.csv). The works cited in the text:
 
 - [[sources/medawar-1961-review-phenomenon-of-man|Medawar, P. B. (1961). Review of *The Phenomenon of Man*. *Mind* 70(277), 99-105]]
 - [[sources/block-1981-review-of-jaynes|Block, N. (1981). Review of *The Origin of Consciousness in the Breakdown of the Bicameral Mind*. *Cognition and Brain Theory* 4(1), 81-83]]
@@ -146,3 +146,11 @@ Editorial decisions at filing. Titles were restored to their published punctuati
 Limits of the run. The research tools couldn't open the wiki's `llms.txt` or `sources/` folder, so the list of existing pages was checked at filing. The run reached its search limit before checking several publishers, page ranges and dates; each is marked [TBV] on its page. The run also built a register of the people on Michael's lists; it isn't published here, because most practitioners on it are not yet confirmed from public sources.
 
 Updated 19 November 2026, after a check of the grid against Tom Morgan's *Anomaly Grid*: six works were added under the standing instructions for adding sources (Ervin Laszlo, *Science and the Akashic Field*; Michael Levin, "Technological Approach to Mind Everywhere"; Donald Hoffman, *The Case Against Reality*; Luigi Fantappiè on syntropy; Christopher Bache, *LSD and the Mind of the Universe*; Carl Jung, *The Archetypes and the Collective Unconscious*), and Ilya Prigogine's existing entry joined the grid. The first coverage test was recounted from the library's stance codes; B1 now meets it, and earlier text that said it did not was out of date.
+
+Updated 19 November 2026: the stance codes of the 47 works in the grid were brought into line with the grid's codes. On that basis C1 now meets the first coverage test.
+
+Updated 19 November 2026: eight critics were added for C1 and C4 under the standing instructions for adding sources (Robert Siegler, *Emerging Minds*; Kurt Fischer and Thomas Bidell, "Dynamic Development of Action and Thought"; Brian Street, *Literacy in Theory and Practice*; Jeff Meyerhoff, *Bald Ambition*; Michael Corballis, "Left Brain, Right Brain"; Dan Arnold on McGilchrist; Jürgen Habermas, *The Philosophical Discourse of Modernity*; Albion Butters, "A Brief History of Spiral Dynamics"). All eight are in the critic tier and the grid's critics' row. Every claim now meets the first coverage test.
+
+Updated 20 November 2026, from Run 3b on the Anabranch thesis: three works that also speak to grid claims were added to the library (Keith Augustine and Michael Martin, *The Myth of an Afterlife*, a critic on H; Thomas Nagel, *Mind and Cosmos*, canon on B3 and H; Andrey Korotayev on the twenty-first-century singularity, evidence on B3). None entered the grid. Their main coding is on the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] layer.
+
+Updated 20 November 2026, from Run 3c on the Anabranch thesis: two works that also speak to H were added to the library (William James, *Human Immortality*, and Bernardo Kastrup, *The Idea of the World*, both canon on H). Neither entered the grid. Their main coding is on the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] layer, on the filter claim of T3.

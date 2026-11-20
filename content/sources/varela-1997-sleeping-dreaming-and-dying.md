@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/varela-1997-sleeping-dreaming-and-dying/",
+  "name": "Sleeping, Dreaming, and Dying: An Exploration of Consciousness",
+  "author": {
+    "@type": "Person",
+    "name": "Francisco J. Varela"
+  },
+  "datePublished": "1997",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wisdom Publications"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Francisco J. Varela's Sleeping, Dreaming, and Dying: An Exploration of Consciousness (1997), an evidence work in contemplative tradition, with what it argues and how its field receives it."
+  }
+}
+</script>

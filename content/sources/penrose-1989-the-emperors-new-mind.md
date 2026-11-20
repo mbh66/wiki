@@ -34,3 +34,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/penrose-1989-the-emperors-new-mind/",
+  "name": "The Emperor's New Mind",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Penrose"
+  },
+  "datePublished": "1989",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Oxford University Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Roger Penrose's The Emperor's New Mind (1989), a context work in physics, with what it argues and how its field receives it."
+  }
+}
+</script>

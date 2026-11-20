@@ -1,20 +1,21 @@
 ---
 title: "Finding the Mother Tree"
-description: "Library entry for Suzanne Simard's Finding the Mother Tree (2021), an evidence work in forest ecology, with what it argues and how its field receives it."
+description: "Suzanne Simard tells the story of her research on forest fungal networks and argues that trees are linked into cooperative communities that share resources and signals."
 author: "Suzanne Simard"
 year: 2021
 type: "book"
-publisher: "Knopf [TBV]"
+publisher: "Alfred A. Knopf, New York; UK edition, Allen Lane"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
 briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
 tier: "evidence"
 discipline: "forest ecology"
 design: "E3"
-claims: ["C3"]
+claims: ["A1", "C3"]
+claim_a1: true
 claim_c3: true
-stance: ["C3:a"]
-finding: "Trees linked by fungi share resources and signals"
+stance: ["A1:q", "C3:q"]
+finding: "Argues that trees linked by fungal networks share resources and signals, with older trees supporting younger ones."
 standing: "Disputed by Karst et al. 2023 [IC]"
 on_seed_list: "yes"
 grade: "[TBV]"
@@ -29,19 +30,17 @@ grid_a1_cite: "Finding the Mother Tree (2021), later chapters"
 grid_a1_grade: "[TBV]"
 grid_c3: "qualifies"
 grid_c3_says: "Offers the forest network as a model for human cooperation, mixing field results with metaphor."
-grid_c3_cite: "Finding the Mother Tree (2021), Epilogue"
+grid_c3_cite: "Finding the Mother Tree (2021), Epilogue 'The Mother Tree Project'"
 grid_c3_grade: "[TBV]"
 ---
 
-Suzanne Simard (2021). *Finding the Mother Tree*. Knopf [TBV].
+Suzanne Simard (2021). *Finding the Mother Tree: Discovering the Wisdom of the Forest*. Alfred A. Knopf, New York. UK edition, Allen Lane.
 
-In brief: Trees linked by fungi share resources and signals [TBV].
-
-How its field receives it: Disputed by Karst et al. 2023 [IC].
+Suzanne Simard, a forest ecologist at the University of British Columbia, combines memoir with an account of her field experiments, including her 1997 *Nature* paper on carbon moving between trees through fungal links [IC]. She argues that forests are cooperative communities in which mother trees support their kin [IC]. Karst and colleagues (2023) argue that the field evidence does not support the stronger claims [IC]. The wiki takes the book as the main popular source of the mycelial image, and reads it beside its critics, as biology and as metaphor (steps A1 and C3).
 
 The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in forest ecology, with evidence type E3 and claim codes C3.
+The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in forest ecology, with evidence type E3 and claim codes A1, C3.
 
 Glossary: [[glossary/a-e/common-mycorrhizal-network|Common Mycorrhizal Network]].
 
@@ -51,3 +50,29 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/simard-2021-finding-the-mother-tree/",
+  "name": "Finding the Mother Tree",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Simard"
+  },
+  "datePublished": "2021",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Alfred A. Knopf"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Suzanne Simard tells the story of her research on forest fungal networks and argues that trees are linked into cooperative communities that share resources and signals."
+  }
+}
+</script>

@@ -14,7 +14,7 @@ related_terms:
   - bioconomy
 source_project: BioConomy
 created: 2026-08-24
-updated: 2026-11-07
+updated: 2026-11-20
 epistemic_status: documented-framework
 ---
 
@@ -25,7 +25,7 @@ The Logistic Growth Principle states that this pattern is not confined to popula
 
 The curve has four phases worth naming. The _lag phase_ is the slow beginning, when the pattern is not yet visible. The _acceleration phase_ is the steep climb, when growth appears exponential and the mechanisms of expansion look permanent. The _inflection point_ is the moment the second derivative changes sign: growth continues, but the rate of growth begins to slow. The _deceleration and maturation phase_ is the gradual leveling, when the system approaches its carrying capacity and the logic that fit acceleration begins to work against it.
 
-Applied to human civilization, the Logistic Growth Principle frames the industrial period as the acceleration phase of a longer curve. The mechanisms that fit acceleration (throughput, extraction, expansion, capital mobility) are the mechanisms that begin to fail as the curve enters deceleration. Recognizing the phase is a prerequisite for building coordination architectures fit for what comes next. The curve does not predict collapse. It describes the shape of growth in a bounded system and the transitions the system must make to mature within its limits.
+Applied to human civilisation, in Michael Haupt's [[frameworks/s-curve-thesis|S-Curve Thesis]] [MS], the Logistic Growth Principle frames the industrial period as the acceleration phase of a longer curve. [[sources/modis-2002-forecasting-growth-complexity|Theodore Modis (2002)]] fits a logistic curve to the growth of complexity across cosmic and human history [IC], [[sources/korotayev-2020-twenty-first-century-singularity|Andrey Korotayev (2020)]] reads similar series as hyperbolic acceleration [IC], and [[sources/smil-2019-growth|Vaclav Smil (2019)]] warns against placing a system on its curve from past fits [TBV]. The mechanisms that fit acceleration (throughput, extraction, expansion, capital mobility) are the mechanisms that begin to fail as the curve enters deceleration. Recognizing the phase is a prerequisite for building coordination architectures fit for what comes next. The curve does not predict collapse. It describes the shape of growth in a bounded system and the transitions the system must make to mature within its limits.
 
 ## Related terms
 

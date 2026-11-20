@@ -14,7 +14,7 @@ depends_on_h: "n/a"
 affirms_count: 8
 qualifies_count: 4
 dissents_count: 8
-silent_count: 27
+silent_count: 35
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Unchanged. The grid maps the split and leaves it open.
 
 ## Where the grid sources stand
 
-Of the 47 grid sources, 8 affirm this step, 4 qualify it and 8 dissent. The other 27 are silent on it.
+Of the 55 grid sources, 8 affirm this step, 4 qualify it and 8 dissent. The other 35 are silent on it.
 
 ### Affirms
 

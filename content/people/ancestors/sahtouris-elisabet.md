@@ -45,15 +45,13 @@ She was a co-founder of the Worldwide Indigenous Science Network and convened in
 
 ## Digital library
 
-- [Sahtouris — PDF 1](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2FNYYPghSo2J.pdf?alt=media&token=74c010cc-01fe-415b-9f25-a3da2766f873)
-- [Sahtouris — PDF 2](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2FICPH_mrfCu.pdf?alt=media&token=011fb358-5c65-4d45-8ac5-ad765bb0580e)
-- [Sahtouris — PDF 3](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2F13ubJ6tcgI.pdf?alt=media&token=94f6846b-f56a-4e2a-a760-d55c8780d744)
-- [*Bacteria R Us* (epub)](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2FMQ-mQ5n-FF.epub?alt=media&token=7ea10ef2-b6f8-4fe3-8779-953bb5c17477)
+- Hosted on Michael Haupt's Roam Research Portal at https://bit.ly/sahtouris (can take up to 20 seconds to load.)
 
 ## External links
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Elisabet_Sahtouris)
-- [*Gaia's Dance* on Amazon](https://www.amazon.com/dp/1983530093)
+- [*Gaia's Dance* on Amazon](https://www.amazon.com/dp/1983530093) (2018)
+- [*EarthDance: Living Systems in Evolution* on Amazon](https://www.amazon.com/dp/0595130674/) (2000)
 
 ## Michael Haupt completed a five-year apprenticeship with Sahtouris
 

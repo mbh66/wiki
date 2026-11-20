@@ -34,3 +34,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Report",
+  "@id": "https://wiki.bioconomy.earth/sources/low-2012-cambridge-declaration/",
+  "name": "The Cambridge Declaration on Consciousness",
+  "author": {
+    "@type": "Person",
+    "name": "Philip Low"
+  },
+  "datePublished": "2012",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Francis Crick Memorial Conference"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Philip Low's The Cambridge Declaration on Consciousness (2012), an evidence work in neuroscience, with what it argues and how its field receives it."
+  }
+}
+</script>

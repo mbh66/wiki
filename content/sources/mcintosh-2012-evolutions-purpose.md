@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/mcintosh-2012-evolutions-purpose/",
+  "name": "Evolution's Purpose",
+  "author": {
+    "@type": "Person",
+    "name": "Steve McIntosh"
+  },
+  "datePublished": "2012",
+  "publisher": {
+    "@type": "Organization",
+    "name": "SelectBooks"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Steve McIntosh's Evolution's Purpose (2012), a canon work in integral theory, with what it argues and how its field receives it."
+  }
+}
+</script>

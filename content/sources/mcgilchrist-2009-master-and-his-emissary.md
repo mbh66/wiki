@@ -1,6 +1,6 @@
 ---
 title: "The Master and His Emissary"
-description: "Library entry for Iain McGilchrist's The Master and His Emissary (2009), a canon work in psychiatry, with what it argues and how its field receives it."
+description: "Iain McGilchrist argues that the brain's two hemispheres attend to the world in different ways, and that Western culture has come to favour the left hemisphere's narrow, grasping mode."
 author: "Iain McGilchrist"
 year: 2009
 type: "book"
@@ -16,7 +16,7 @@ claim_a3: true
 claim_c1: true
 claim_c4: true
 stance: ["A3:a", "C1:a", "C4:a"]
-finding: "The left hemisphere's mode has come to dominate Western culture"
+finding: "Argues that the two hemispheres attend to the world differently and that Western culture has come to favour the left hemisphere's mode."
 standing: "Some neuroscientists dispute the hemisphere history [TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
@@ -41,9 +41,7 @@ grid_c4_grade: "[IC]"
 
 Iain McGilchrist (2009). *The Master and His Emissary*. Yale University Press.
 
-In brief: The left hemisphere's mode has come to dominate Western culture [TBV].
-
-How its field receives it: Some neuroscientists dispute the hemisphere history [TBV].
+Iain McGilchrist, a psychiatrist and former Fellow of All Souls College, Oxford, draws on neuroscience to argue that the right hemisphere attends to the whole and the living, and the left to parts, categories and use [IC]. In Part Two he reads Western history, from ancient Greece to the present, as a shifting balance between the two, with the left now dominant [IC]. Some neuroscientists dispute the cultural history he builds on the hemisphere research [TBV]. Tom Morgan's *Anomaly Grid* draws on the sequel, *The Matter with Things* (2021). The wiki takes this book as a source for co-presence, with both modes at work in everyone (step C1), and for resistance by the current structure (C4).
 
 The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
@@ -55,3 +53,29 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/mcgilchrist-2009-master-and-his-emissary/",
+  "name": "The Master and His Emissary",
+  "author": {
+    "@type": "Person",
+    "name": "Iain McGilchrist"
+  },
+  "datePublished": "2009",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yale University Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Iain McGilchrist argues that the brain's two hemispheres attend to the world in different ways, and that Western culture has come to favour the left hemisphere's narrow, grasping mode."
+  }
+}
+</script>

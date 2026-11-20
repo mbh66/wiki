@@ -1,11 +1,11 @@
 ---
 title: "Dated Thresholds"
-description: "Where 37 dated thresholds from the evolution of consciousness sources, and from the network's own pages, fall in time, set beside the nearest evidence in the archaeological and fossil record."
+description: "Where 39 dated thresholds from the evolution of consciousness sources, and from the network's own pages, fall in time, set beside the nearest evidence in the archaeological and fossil record."
 aliases: ["evolution of consciousness dating table", "consciousness dating table"]
 tags: ["research", "evolution-of-consciousness"]
 cssclasses: [hide-folder-listing]
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 source_documents: ["Deep research report: Evolution of Consciousness Grid, Run 2 (19 November 2026)"]
 epistemic_status: "working-hypothesis"

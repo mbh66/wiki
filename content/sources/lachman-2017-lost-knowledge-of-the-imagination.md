@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/lachman-2017-lost-knowledge-of-the-imagination/",
+  "name": "Lost Knowledge of the Imagination",
+  "author": {
+    "@type": "Person",
+    "name": "Gary Lachman"
+  },
+  "datePublished": "2017",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Floris Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Gary Lachman's Lost Knowledge of the Imagination (2017), a context work in history of ideas, with what it argues and how its field receives it."
+  }
+}
+</script>

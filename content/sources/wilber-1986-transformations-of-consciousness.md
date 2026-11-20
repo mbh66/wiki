@@ -37,3 +37,39 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/wilber-1986-transformations-of-consciousness/",
+  "name": "Transformations of Consciousness",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Ken Wilber"
+    },
+    {
+      "@type": "Person",
+      "name": "Jack Engler"
+    },
+    {
+      "@type": "Person",
+      "name": "Daniel P. Brown"
+    }
+  ],
+  "datePublished": "1986",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Shambhala"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Ken Wilber's Transformations of Consciousness (1986), a canon work in transpersonal psychology, with what it argues and how its field receives it."
+  }
+}
+</script>

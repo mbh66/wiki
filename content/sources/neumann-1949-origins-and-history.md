@@ -35,3 +35,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/neumann-1949-origins-and-history/",
+  "name": "The Origins and History of Consciousness",
+  "author": {
+    "@type": "Person",
+    "name": "Erich Neumann"
+  },
+  "datePublished": "1949",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rascher"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Erich Neumann's The Origins and History of Consciousness (1949), a canon work in depth psychology, with what it argues and how its field receives it."
+  }
+}
+</script>

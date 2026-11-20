@@ -5,6 +5,7 @@ tags: ["glossary", "core-concept"]
 term_type: "borrowed-technical"
 first_defined_in: "I The Three Futures"
 related_terms: ["second-tier", "momentous-leap", "material-consciousness"]
+created: 2026-11-19
 source_project: "BioConomy"
 ---
 

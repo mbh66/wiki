@@ -1,28 +1,30 @@
 ---
 title: "The Phenomenon of Man"
-description: "Library entry for Pierre Teilhard de Chardin's The Phenomenon of Man (1955), a canon work in theology, with what it argues and how its field receives it."
+description: "Pierre Teilhard de Chardin argues that evolution is a rise in complexity matched by a rise in consciousness, leading through a thinking layer around the Earth, the noosphere, toward an Omega Point."
 author: "Pierre Teilhard de Chardin"
 year: 1955
 edition_year: 1959
 type: "book"
 publisher: "Éditions du Seuil; English: Collins"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
 discipline: "theology"
 design: "E4"
-claims: ["B3", "C2", "C3"]
+claims: ["A1", "B3", "C2", "C3", "H"]
+claim_a1: true
 claim_b3: true
 claim_c2: true
 claim_c3: true
-stance: ["B3:a", "C2:a", "C3:a"]
-finding: "Evolution rises toward a noosphere and an Omega Point"
+claim_h: true
+stance: ["A1:a", "B3:a", "C2:a", "C3:a", "H:a"]
+finding: "Argues that evolution raises complexity and consciousness together, through a thinking layer around the Earth toward an Omega Point."
 standing: "Medawar (Mind 1961) rejected it as science [IC]"
 on_seed_list: "yes"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["A1", "B3", "C2", "C3", "H"]
@@ -46,17 +48,26 @@ grid_h: "affirms"
 grid_h_says: "Treats consciousness as present in some degree in all matter."
 grid_h_cite: "The Phenomenon of Man (1955), Book One"
 grid_h_grade: "[IC]"
+anabranch_steps: ["T1", "T3"]
+anabranch_t1: "qualifies"
+anabranch_t1_says: "Holds that the universe conserves persons through their convergence on Omega."
+anabranch_t1_cite: "The Phenomenon of Man (1955), Book Four"
+anabranch_t1_grade: "[TBV]"
+anabranch_t3: "qualifies"
+anabranch_t3_says: "Holds that a rudimentary within rises with brain complexity; proposes no filter."
+anabranch_t3_cite: "The Phenomenon of Man (1955), Book One"
+anabranch_t3_grade: "[TBV]"
 ---
 
 Pierre Teilhard de Chardin (1955; edition cited 1959). *The Phenomenon of Man*. Éditions du Seuil; English: Collins.
 
-In brief: Evolution rises toward a noosphere and an Omega Point [IC].
-
-How its field receives it: Medawar (Mind 1961) rejected it as science [IC].
+Teilhard, a Jesuit priest and palaeontologist, wrote the book in the late 1930s and early 1940s; his order did not allow it to be published in his lifetime, and it appeared in French in 1955, the year he died, and in English in 1959 [IC]. He states a law of complexity-consciousness, holds that a within of consciousness is present in some degree in all matter, and names the thinking envelope of the Earth the [[glossary/m-s/noosphere|noosphere]] [IC]. Peter Medawar's 1961 review in *Mind* rejected it as science [IC]. The wiki takes from it the source of the noosphere and the clearest spiritual statement of a direction in evolution (steps B3 and C3), and reads it beside its critics.
 
 The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in theology, with evidence type E4 and claim codes B3, C2, C3.
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in theology, with evidence type E4 and claim codes A1, B3, C2, C3, H.
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it qualifies T3.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A1, B3, C2, C3 and H.
 
@@ -64,3 +75,31 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/teilhard-1955-the-phenomenon-of-man/",
+  "name": "The Phenomenon of Man",
+  "author": {
+    "@type": "Person",
+    "name": "Pierre Teilhard de Chardin"
+  },
+  "datePublished": "1955",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Éditions du Seuil; English: Collins"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Pierre Teilhard de Chardin argues that evolution is a rise in complexity matched by a rise in consciousness, leading through a thinking layer around the Earth, the noosphere, toward an Omega Point."
+  }
+}
+</script>

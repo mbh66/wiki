@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/lachman-2003-secret-history-of-consciousness/",
+  "name": "A Secret History of Consciousness",
+  "author": {
+    "@type": "Person",
+    "name": "Gary Lachman"
+  },
+  "datePublished": "2003",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Lindisfarne Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Gary Lachman's A Secret History of Consciousness (2003), a context work in history of ideas, with what it argues and how its field receives it."
+  }
+}
+</script>

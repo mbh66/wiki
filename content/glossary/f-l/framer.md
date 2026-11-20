@@ -5,6 +5,7 @@ tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: "V2_Mycelial_Thesis.md"
 related_terms: ["farmer-forger-founder-framer", "mycelial-consciousness", "crisis-codes"]
+created: 2026-11-19
 source_project: "BioConomy"
 ---
 

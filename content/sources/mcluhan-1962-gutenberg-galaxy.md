@@ -35,3 +35,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/mcluhan-1962-gutenberg-galaxy/",
+  "name": "The Gutenberg Galaxy",
+  "author": {
+    "@type": "Person",
+    "name": "Marshall McLuhan"
+  },
+  "datePublished": "1962",
+  "publisher": {
+    "@type": "Organization",
+    "name": "University of Toronto Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Marshall McLuhan's The Gutenberg Galaxy (1962), a canon work in media studies, with what it argues and how its field receives it."
+  }
+}
+</script>

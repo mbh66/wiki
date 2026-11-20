@@ -11,9 +11,10 @@ briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"
 tier: "evidence"
 discipline: "evolutionary biology"
 design: "E3"
-claims: ["B3"]
+claims: ["A2", "B3"]
+claim_a2: true
 claim_b3: true
-stance: ["B3:q"]
+stance: ["A2:a", "B3:q"]
 finding: "Transitions change how information is passed on"
 standing: "[TBV]"
 on_seed_list: "no"
@@ -39,7 +40,7 @@ In brief: Transitions change how information is passed on [TBV].
 
 How the work is received in its own field is still to be checked [TBV].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in evolutionary biology, with evidence type E3 and claim codes B3.
+The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in evolutionary biology, with evidence type E3 and claim codes A2, B3.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2; it qualifies B3.
 
@@ -47,3 +48,35 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/maynard-smith-szathmary-1995-major-transitions/",
+  "name": "The Major Transitions in Evolution",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "John Maynard Smith"
+    },
+    {
+      "@type": "Person",
+      "name": "Eörs Szathmáry"
+    }
+  ],
+  "datePublished": "1995",
+  "publisher": {
+    "@type": "Organization",
+    "name": "W. H. Freeman"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for John Maynard Smith's The Major Transitions in Evolution (1995), an evidence work in evolutionary biology, with what it argues and how its field receives it."
+  }
+}
+</script>

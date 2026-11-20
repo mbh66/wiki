@@ -41,3 +41,29 @@ Glossary: [[glossary/a-e/applied-kinesiology|Applied Kinesiology]].
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/hawkins-2020-map-of-consciousness-explained/",
+  "name": "The Map of Consciousness Explained",
+  "author": {
+    "@type": "Person",
+    "name": "David R. Hawkins"
+  },
+  "datePublished": "2020",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hay House"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for David R. Hawkins' The Map of Consciousness Explained (2020), a practice work in popular psychology, with what it argues and how its field receives it."
+  }
+}
+</script>

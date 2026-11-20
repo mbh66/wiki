@@ -34,3 +34,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/woolley-2010-collective-intelligence-factor/",
+  "name": "Evidence for a Collective Intelligence Factor in the Performance of Human Groups",
+  "author": {
+    "@type": "Person",
+    "name": "Anita Williams Woolley"
+  },
+  "datePublished": "2010",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Science 330(6004)"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Anita Williams Woolley's Evidence for a Collective Intelligence Factor in the Performance of Human Groups (2010), an evidence work in social psychology, with what it argues and how its field receives it."
+  }
+}
+</script>

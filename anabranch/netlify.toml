@@ -1,0 +1,17 @@
+# Netlify site settings: base directory "anabranch" (set in the Netlify UI when
+# the site is created from the wiki repo). Paths below are relative to it.
+[build]
+  command = "npm ci && npm run data"
+  publish = "site"
+  # Build only when something the site shows has changed. See the script for
+  # the rules; exit 0 skips the deploy, so no credits are used.
+  ignore = "bash scripts/should-build.sh"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=3600"

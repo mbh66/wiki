@@ -1,6 +1,6 @@
 ---
 title: "Saving the Appearances"
-description: "Library entry for Owen Barfield's Saving the Appearances (1957), a canon work in history of ideas, with what it argues and how its field receives it."
+description: "Owen Barfield argues that the way people perceive the world has changed, from an original participation in which mind and nature were not yet split to the detached onlooker of modern science."
 author: "Owen Barfield"
 year: 1957
 type: "book"
@@ -11,12 +11,13 @@ briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"
 tier: "canon"
 discipline: "history of ideas"
 design: "E4"
-claims: ["A3", "C1", "C2"]
+claims: ["A3", "C2", "C4", "H"]
 claim_a3: true
-claim_c1: true
 claim_c2: true
-stance: ["A3:a", "C1:a", "C2:a"]
-finding: "Original participation gives way to final participation"
+claim_c4: true
+claim_h: true
+stance: ["A3:a", "C2:a", "C4:a", "H:a"]
+finding: "Argues that original participation gave way to an onlooker consciousness, and calls for a final participation that is conscious."
 standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
@@ -27,29 +28,27 @@ grid_group: "6. Cultural and historical theorists"
 grid_steps: ["A3", "C2", "C4", "H"]
 grid_a3: "affirms"
 grid_a3_says: "Argues original participation gave way to the onlooker consciousness of modern science."
-grid_a3_cite: "Saving the Appearances (1957), middle chapters"
-grid_a3_grade: "[TBV]"
+grid_a3_cite: "Saving the Appearances (1957), chs 6 to 14, 'Original Participation' to 'Before and After the Scientific Revolution'"
+grid_a3_grade: "[IC]"
 grid_c2: "affirms"
 grid_c2_says: "Calls for a final participation that is conscious."
-grid_c2_cite: "Saving the Appearances (1957), closing chapters"
-grid_c2_grade: "[TBV]"
+grid_c2_cite: "Saving the Appearances (1957), ch. 20 'Final Participation', with chs 21 to 25"
+grid_c2_grade: "[IC]"
 grid_c4: "affirms"
 grid_c4_says: "Holds that treating appearances as literal objects keeps the onlooker mode in place."
-grid_c4_cite: "Saving the Appearances (1957), closing chapters"
+grid_c4_cite: "Saving the Appearances (1957), ch. 9 'An Evolution of Idols' and ch. 19 'Symptoms of Iconoclasm'"
 grid_c4_grade: "[TBV]"
 grid_h: "affirms"
 grid_h_says: "Holds that the phenomenal world arises together with consciousness."
-grid_h_cite: "Saving the Appearances (1957), opening chapters"
+grid_h_cite: "Saving the Appearances (1957), chs 1 to 4, 'The Rainbow' to 'Participation'"
 grid_h_grade: "[TBV]"
 ---
 
 Owen Barfield (1957). *Saving the Appearances*. Faber & Faber.
 
-In brief: Original participation gives way to final participation [TBV].
+Owen Barfield, a philologist and one of the Inklings with C. S. Lewis and J. R. R. Tolkien, argues from the history of words that people once experienced the world from within it, in what he calls original participation [IC]. Modern science, he holds, treats appearances as independent objects, which he calls an idolatry, and the task ahead is a final participation in which people know their own part in making the world they perceive [IC]. The book is admired in literary and anthroposophical circles and little discussed in philosophy of science [TBV]. The wiki takes it as a classic statement of step A3 and, with its idea of final participation, of C2.
 
-How the work is received in its own field is still to be checked [TBV].
-
-The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in history of ideas, with evidence type E4 and claim codes A3, C1, C2.
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in history of ideas, with evidence type E4 and claim codes A3, C2, C4, H.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, C2, C4 and H.
 
@@ -57,3 +56,29 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/barfield-1957-saving-the-appearances/",
+  "name": "Saving the Appearances",
+  "author": {
+    "@type": "Person",
+    "name": "Owen Barfield"
+  },
+  "datePublished": "1957",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Faber & Faber"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Owen Barfield argues that the way people perceive the world has changed, from an original participation in which mind and nature were not yet split to the detached onlooker of modern science."
+  }
+}
+</script>

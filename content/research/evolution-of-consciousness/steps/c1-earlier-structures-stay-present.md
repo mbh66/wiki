@@ -10,10 +10,10 @@ claim: "No structure replaces the ones before it; all are active in everyone now
 evidence_type: "E3 theory on evidence to E4 synthesis"
 evidence_main: "E3"
 depends_on_h: "holds-either-way"
-affirms_count: 10
-qualifies_count: 2
-dissents_count: 0
-silent_count: 35
+affirms_count: 9
+qualifies_count: 6
+dissents_count: 1
+silent_count: 39
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,12 +37,11 @@ Unchanged. It is the most widely shared step among the sequence theorists.
 
 ## Where the grid sources stand
 
-Of the 47 grid sources, 10 affirm this step, 2 qualify it and none dissent. The other 35 are silent on it.
+Of the 55 grid sources, 9 affirm this step, 6 qualify it and one dissents. The other 39 are silent on it.
 
 ### Affirms
 
 - [[sources/beck-cowan-spiral-dynamics|Don Edward Beck and Christopher C. Cowan, Spiral Dynamics (1996)]]
-- [[sources/bellah-2011-religion-in-human-evolution|Robert N. Bellah, Religion in Human Evolution (2011)]]
 - [[sources/donald-1991-origins-of-the-modern-mind|Merlin Donald, Origins of the Modern Mind (1991)]]
 - [[sources/gebser-ever-present-origin|Jean Gebser, The Ever-Present Origin (1949)]]
 - [[sources/kegan-1982-the-evolving-self|Robert Kegan, The Evolving Self (1982)]]
@@ -54,8 +53,16 @@ Of the 47 grid sources, 10 affirm this step, 2 qualify it and none dissent. The 
 
 ### Qualifies
 
+- [[sources/bellah-2011-religion-in-human-evolution|Robert N. Bellah, Religion in Human Evolution (2011)]]
+- [[sources/fischer-bidell-2006-dynamic-development|Kurt W. Fischer; Thomas R. Bidell, Dynamic Development of Action and Thought (2006)]]
 - [[sources/jaynes-1976-origin-of-consciousness|Julian Jaynes, The Origin of Consciousness in the Breakdown of the Bicameral Mind (1976)]]
 - [[sources/jung-1959-archetypes-and-the-collective-unconscious|C. G. Jung, The Archetypes and the Collective Unconscious (1959)]]
+- [[sources/siegler-1996-emerging-minds|Robert S. Siegler, Emerging Minds: The Process of Change in Children's Thinking (1996)]]
+- [[sources/street-1984-literacy-in-theory-and-practice|Brian V. Street, Literacy in Theory and Practice (1984)]]
+
+### Dissents
+
+- [[sources/meyerhoff-2010-bald-ambition|Jeff Meyerhoff, Bald Ambition: A Critique of Ken Wilber's Theory of Everything (2010)]]
 
 ## Related
 

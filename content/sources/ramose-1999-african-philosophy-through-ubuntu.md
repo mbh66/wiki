@@ -35,3 +35,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/ramose-1999-african-philosophy-through-ubuntu/",
+  "name": "African Philosophy through Ubuntu",
+  "author": {
+    "@type": "Person",
+    "name": "Mogobe B. Ramose"
+  },
+  "datePublished": "1999",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mond Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Mogobe B. Ramose's African Philosophy through Ubuntu (1999), a context work in African philosophy, with what it argues and how its field receives it."
+  }
+}
+</script>

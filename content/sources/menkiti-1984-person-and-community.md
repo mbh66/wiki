@@ -35,3 +35,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/menkiti-1984-person-and-community/",
+  "name": "Person and Community in African Traditional Thought",
+  "author": {
+    "@type": "Person",
+    "name": "Ifeanyi A. Menkiti"
+  },
+  "datePublished": "1984",
+  "publisher": {
+    "@type": "Organization",
+    "name": "in R. A. Wright (ed.) African Philosophy"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Ifeanyi A. Menkiti's Person and Community in African Traditional Thought (1984), a context work in African philosophy, with what it argues and how its field receives it."
+  }
+}
+</script>

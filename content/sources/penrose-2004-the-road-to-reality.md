@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/penrose-2004-the-road-to-reality/",
+  "name": "The Road to Reality: A Complete Guide to the Laws of the Universe",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Penrose"
+  },
+  "datePublished": "2004",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jonathan Cape"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Roger Penrose's The Road to Reality: A Complete Guide to the Laws of the Universe (2004), a context work in physics, with what it argues and how its field receives it."
+  }
+}
+</script>

@@ -5,14 +5,13 @@ aliases:
   - the convergence
   - leaving the garden
   - tellings of the pattern
-  - garden of eden
   - s-shaped growth curve
 tags:
   - concept
   - consciousness
   - s-curve
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-20
 source_project: BioConomy
 source_documents:
   - ground.md
@@ -41,7 +40,7 @@ A short essay in *Discover*. Diamond, then a physiologist at UCLA's medical scho
 
 ### Genesis 2 to 4
 
-This is a story of the Garden of Eden, the tree of the knowledge of good and evil, the serpent "more subtil than any beast of the field" (Genesis 3:1, King James Version), and the gate shut behind as Adam and Eve were banished from the gaden. Then Cain, a tiller of the ground, builds a city, and his descendant Tubal-cain works bronze and iron.
+This is a story of the Garden of Eden, the tree of the knowledge of good and evil, the serpent "more subtil than any beast of the field" (Genesis 3:1, King James Version), and the gate shut behind as Adam and Eve were banished from the garden. Then Cain, a tiller of the ground, builds a city, and his descendant Tubal-cain works bronze and iron.
 
 ### The serpent as the S-curve (2026)
 

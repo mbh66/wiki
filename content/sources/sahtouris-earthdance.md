@@ -1,33 +1,58 @@
 ---
-title: EarthDance
+title: "EarthDance: Living Systems in Evolution"
 description: "Biologist and evolution theorist argues that the trajectory of biological evolution moves from hostile competition (young ecosystems) to cooperative negotiation (mature ecosystems)."
 author: Elisabet Sahtouris
 year: 2000
-type: book
-publisher: iUniversity Press
+type: "book"
+publisher: "iUniverse"
 url: https://www.amazon.com/dp/0595130674
 tags:
   - source
+  - anabranch
   - biology
   - evolution
   - cooperation
   - systems
 subject: ["consciousness"]
-updated: 2026-11-09
+briefs: ["anabranch"]
+design: "E4"
+finding: "Argues that living systems mature from hostile competition to cooperation, and that humanity can mature in the same way."
+standing: "Read widely in systems and sustainability circles; no academic reviews were checked [TBV]"
+on_seed_list: "yes"
+grade: "[TBV]"
+created: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
+anabranch_group: "5. Complexity and cosmic evolution"
+anabranch_steps: ["T5", "T7", "T8", "T9"]
+anabranch_t5: "qualifies"
+anabranch_t5_says: "Holds that Indigenous peoples have always known the universe is participatory, which Western scientists only now acknowledge."
+anabranch_t5_cite: "EarthDance (2000), A Note from the Author"
+anabranch_t5_grade: "[TBV]"
+anabranch_t7: "qualifies"
+anabranch_t7_says: "Describes a self-imposed separation from nature through a mechanical worldview over the past few millennia; speaks to part (a) only."
+anabranch_t7_cite: "EarthDance (2000), A Note from the Author"
+anabranch_t7_grade: "[TBV]"
+anabranch_t8: "qualifies"
+anabranch_t8_says: "Holds that humanity can mature like other species from competition to cooperation, and names no Noosphere and no S-curve."
+anabranch_t8_cite: "EarthDance (2000), A Note from the Author; ch. 17, 'A Matter of Maturation' (opening read)"
+anabranch_t8_grade: "[TBV]"
+anabranch_t9: "affirms"
+anabranch_t9_says: "Argues that cooperation between the ways of indigenous and industrial peoples is needed to build a sustainable world."
+anabranch_t9_cite: "EarthDance (2000), A Note from the Author; ch. 19, 'The Indigenous Way' (not read)"
+anabranch_t9_grade: "[TBV]"
 ---
 
-Sahtouris, E. (2000). *EarthDance: Living Systems in Evolution.* iUniversity Press. ISBN: 978-0-595-13067-3.
+Sahtouris, E. (2000). *EarthDance: Living Systems in Evolution.* iUniverse. ISBN: 978-0-595-13067-2.
 - https://www.amazon.com/dp/0595130674
-- https://z-lib.sk/book/0p5d7LZvqB/earthdance-living-systems-in-evolution.html
-
-![[https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2F13ubJ6tcgI.pdf?alt=media&token=94f6846b-f56a-4e2a-a760-d55c8780d744]]
 
 Biologist and evolution theorist argues that the trajectory of biological evolution moves from hostile competition (young ecosystems) to cooperative negotiation (mature ecosystems), not because cooperation is morally superior but because it is structurally more capable in complex environments. Sahtouris identifies three evolutionary thresholds and distinguishes Type I (competitive), Type II (transitional), and Type III (cooperative) ecosystems.
 
 In the BioConomy corpus, Sahtouris provides the biological grounding for the civilizational maturation thesis. If human civilization follows the biological pattern (and the S-curve evidence suggests it must), then the transition from [[material-consciousness|Material]] to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] is the civilizational expression of ecological maturation: the same pattern that drives endosymbiosis, mycorrhizal network formation, and the evolution from competitive to cooperative ecosystem dynamics.
 
 Sahtouris's framework converges with M.G. Taylor's systems architecture on the [[concepts/consciousness-and-value-creation|Substrate Hypothesis]]: coordination is a property of the substrate that holds the participants, not a property of the participants themselves.
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T5; it qualifies T7; it qualifies T8; it affirms T9.
 
 ## Citing Pages
 
@@ -37,6 +62,10 @@ Sahtouris's framework converges with M.G. Taylor's systems architecture on the [
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[concepts/participation-and-conformity|Participation and Conformity]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {
@@ -51,7 +80,7 @@ Sahtouris's framework converges with M.G. Taylor's systems architecture on the [
   "datePublished": "2000",
   "publisher": {
     "@type": "Organization",
-    "name": "iUniversity Press"
+    "name": "iUniverse"
   },
   "url": "https://www.amazon.com/dp/0595130674",
   "review": {
@@ -60,7 +89,7 @@ Sahtouris's framework converges with M.G. Taylor's systems architecture on the [
       "@type": "Person",
       "name": "Michael Haupt"
     },
-    "reviewBody": "!https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2F13ubJ6tcgI.pdf?alt=media&token=94f6846b-f56a-4e2a-a760-d55c8780d744"
+    "reviewBody": "EarthDance: Living Systems in Evolution by evolutionary biologist Elisabet Sahtouris is an ambitious, cross-disciplinary book that connects biological evolution, Gaian planetary systems, and human history. Sahtouris conveys her big-picture vision with poetic framing. Readers unfamiliar with a necessary dense, wide-ranging style may find it heavy going at times, but I thoroughly enjoyed her treatise."
   }
 }
 </script>

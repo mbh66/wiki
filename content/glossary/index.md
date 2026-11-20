@@ -4,7 +4,7 @@ description: "Landing page for the glossary, the wiki's controlled vocabulary: t
 aliases: ["glossary", "vocabulary", "glossary folder"]
 tags: ["landing", "orientation", "glossary"]
 created: 2026-08-27
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -59,7 +59,13 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
   "url": "https://wiki.bioconomy.earth/glossary/",
   "hasDefinedTerm": [
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/absolute-advantage/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/adaptive-cycle/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/adverse-inclusion/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/alignment-compact/"
@@ -72,6 +78,12 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/american-system/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/anabranch/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/aperspectival/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/applied-kinesiology/"
@@ -92,6 +104,15 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/bicameral-mind/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biform/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bifurcation/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bildung/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioconomy/"
     },
     {
@@ -110,6 +131,15 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregion/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-currency/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-development-organization-bdo/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-development-plan/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-economics/"
     },
     {
@@ -119,6 +149,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregional-learning-centre/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioregionalism/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/bioscore/"
     },
     {
@@ -126,6 +159,21 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/biostack/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/biotic-pump/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/carrying-budget/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/chiefdom-coordination-surface/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/circulation-goals/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/codify/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/coercion-continuum/"
@@ -140,16 +188,31 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/commons/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/community-inclusion-currency/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/company/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/comparative-advantage/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/confluence/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/conservation-violence/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/constellation/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/coordination-grammar/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/coordination-node/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/coordination-surface/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/cosmo-local-production/"
@@ -161,7 +224,16 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/curation-valuation-limitation-exchange/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/cycle-of-civilizations/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/cycle-of-globalization/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/dark-ai/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/data-sovereignty/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/deceleration-phase/"
@@ -176,10 +248,19 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/deployment-period/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/direction-of-fit/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/double-movement/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/dual-use/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/e-form-emergent/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/ecological-economics/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/ecological-reserve/"
@@ -197,10 +278,22 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/endosymbiosis/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/entity-gestation/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/eroi/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/evolutionary-impulse/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/a-e/extractive/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/a-e/index/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/factor-endowment/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/factory-ecological/"
@@ -215,7 +308,16 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/fictitious-commodities/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/finance-exclusion/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/first-tier/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/folk-high-school/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/fortress-conservation/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/founding-compact/"
@@ -224,16 +326,40 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/framer/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/friendshoring/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/functional-finance/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/gap-register/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/garden-of-eden/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/georgism/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/geosphere/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/global-economy/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/globalization/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/glocalization/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/golden-thread/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/green-grabbing/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/hard-problem/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/human-coordination/"
@@ -251,10 +377,25 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/imaginal-cells/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/impact-investing/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/index/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/indigenous-knowledge/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/infant-industry-protection/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/inner-development-goals-idgs/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/institutional-fit/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/integrated-landscape-management/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/intelligence-carbon/"
@@ -263,7 +404,22 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/intelligence-silicon/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/isodapane/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/keyboard-of-science/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/labor-deviation/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/ladder-of-inference/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/landscape-partnership/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/least-cost-location/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/legibility-signal/"
@@ -272,7 +428,16 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/lens/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/leverage-points/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/f-l/lewis-turning-point/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/f-l/local-first/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/index/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/m-form-market/"
@@ -284,7 +449,13 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/mattei-formula/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/metabolic-study/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/metallism/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/mimetic-culture/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/missing-middle/"
@@ -294,6 +465,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/momentous-leap/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/monoform/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/municipality/"
@@ -311,13 +485,25 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/mycelial-patronage/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/mythic-consciousness/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/n-form-network/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/nation-state/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/natural-general-intelligence/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/nature-realm/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/nearshoring/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-trajectory/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy/"
@@ -327,6 +513,12 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/needy/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/negative-externalities/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/new-international-division-of-labor/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/niche/"
@@ -350,10 +542,19 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/payment-for-ecosystem-services-pes/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/peer-production/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/performance-based-bond/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/permaculture/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/place-knowledge-brief/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/place-mandate/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/planetary-boundaries/"
@@ -377,13 +578,25 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/protective-space/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/public-benefit-corporation/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/quadriform/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/readiness-diagnostic/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/recapitulation/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/reciprocal-water-agreement/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-capitalism/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-development-district/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/regenerative-economics/"
@@ -396,6 +609,12 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/regime/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/reshoring/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/resource-backed-currency/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/retention-economics/"
@@ -422,6 +641,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/soil-carbon-sponge/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/solving-for-pattern/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/sound-finance/"
     },
     {
@@ -429,6 +651,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/stacked-entity-structure/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/stewardship/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/stigmergy/"
@@ -443,10 +668,22 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/structural-prematurity/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/structural-violence/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/structure-of-consciousness/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/subsidiarity/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/substitution-principle/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/substrate-hypothesis/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/index/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/t-form-tribal/"
@@ -459,6 +696,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/tenderable-services-portfolio/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/terms-of-engagement/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/territory-of-life/"
@@ -494,13 +734,37 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/transvestment/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/triform/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/twenty-year-value-ledger/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/two-machines/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/unbundling/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/unemployment/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/universal-basic-income-ubi/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/unrecognized-contribution/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/value-proposition-canvas-bioconomy/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/warehouse-receipt/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/washington-consensus/"
+    },
+    {
+      "@id": "https://wiki.bioconomy.earth/glossary/t-z/water-bank/"
     },
     {
       "@id": "https://wiki.bioconomy.earth/glossary/t-z/water-retention-landscape/"

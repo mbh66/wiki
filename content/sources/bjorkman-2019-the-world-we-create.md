@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a practi
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/bjorkman-2019-the-world-we-create/",
+  "name": "The World We Create",
+  "author": {
+    "@type": "Person",
+    "name": "Tomas Björkman"
+  },
+  "datePublished": "2019",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Perspectiva Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Tomas Björkman's The World We Create (2019), a practice work in history of ideas, with what it argues and how its field receives it."
+  }
+}
+</script>

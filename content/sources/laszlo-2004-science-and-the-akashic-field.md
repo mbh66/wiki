@@ -6,9 +6,9 @@ year: 2004
 type: "book"
 publisher: "Inner Traditions, Rochester, Vermont; updated second edition 2007"
 isbn: "9781594770425"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
 discipline: "systems philosophy"
 design: "E4"
@@ -21,7 +21,7 @@ standing: "Outside mainstream physics; library catalogues class it under Akashic
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["B3", "H"]
@@ -33,6 +33,11 @@ grid_h: "qualifies"
 grid_h_says: "Holds an information field in the quantum vacuum to be basic, with consciousness among the things it connects and conserves."
 grid_h_cite: "Science and the Akashic Field (2004), Parts One and Two"
 grid_h_grade: "[TBV]"
+anabranch_steps: ["T3"]
+anabranch_t3: "qualifies"
+anabranch_t3_says: "Holds that an information field links minds; a receiver or filter model of the brain is not confirmed."
+anabranch_t3_cite: "Science and the Akashic Field (2004), chapter not checked"
+anabranch_t3_grade: "[TBV]"
 ---
 
 Ervin Laszlo (2004). *Science and the Akashic Field: An Integral Theory of Everything*. Inner Traditions, Rochester, Vermont; updated second edition 2007.
@@ -41,9 +46,40 @@ Ervin Laszlo argues that modern physics has rediscovered the Akashic field of pe
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in systems philosophy, with evidence type E4 and claim codes B3, H.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T3.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3; it qualifies H.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/laszlo-2004-science-and-the-akashic-field/",
+  "name": "Science and the Akashic Field: An Integral Theory of Everything",
+  "author": {
+    "@type": "Person",
+    "name": "Ervin Laszlo"
+  },
+  "datePublished": "2004",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Inner Traditions, Rochester, Vermont; updated second edition 2007"
+  },
+  "isbn": "9781594770425",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Ervin Laszlo proposes an information field in the quantum vacuum, which he calls the Akashic field, as the basis of an integral theory joining physics, life and consciousness."
+  }
+}
+</script>

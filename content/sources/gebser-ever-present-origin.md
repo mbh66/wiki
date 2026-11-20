@@ -7,18 +7,22 @@ type: "book"
 publisher: "Ohio University Press (English translation, 1985)"
 tags: ["source", "consciousness", "development", "phenomenology", "evolution-of-consciousness"]
 subject: ["economics", "consciousness"]
+created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
 briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
 tier: "canon"
 discipline: "history of ideas"
 design: "E4"
-claims: ["A3", "C1", "C2", "C4"]
+claims: ["A2", "A3", "B3", "C1", "C2", "C4", "H"]
+claim_a2: true
 claim_a3: true
+claim_b3: true
 claim_c1: true
 claim_c2: true
 claim_c4: true
-stance: ["A3:a", "C1:a", "C2:a", "C4:a"]
+claim_h: true
+stance: ["A2:q", "A3:a", "B3:q", "C1:a", "C2:a", "C4:a", "H:q"]
 finding: "Archaic magic mythical mental and integral structures; each stays present"
 standing: "Central to integral studies [TBV]"
 on_seed_list: "yes"

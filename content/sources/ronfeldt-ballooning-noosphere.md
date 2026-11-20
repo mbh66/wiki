@@ -8,6 +8,7 @@ publisher: "Unpublished"
 tags: ["source", "noosphere", "holonic", "geosphere", "coordination", "networks", "AI", "evolution"]
 subject: ["coordination", "consciousness", "civilization"]
 forthcoming: "Pan Tianqun (ed.), *The Rising of the Globe Mind: Refined Readings on the Noosphere*, Jiangsu Renmin Press, 2027"
+created: 2026-11-19
 updated: 2026-11-09
 source_project: "BioConomy"
 ---

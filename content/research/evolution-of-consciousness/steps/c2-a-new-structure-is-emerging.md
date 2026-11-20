@@ -12,8 +12,8 @@ evidence_main: "E4"
 depends_on_h: "read-differently"
 affirms_count: 10
 qualifies_count: 3
-dissents_count: 1
-silent_count: 33
+dissents_count: 3
+silent_count: 39
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,7 +37,7 @@ Run 2 reworded the step as a claim some sources make. No measured study shows a 
 
 ## Where the grid sources stand
 
-Of the 47 grid sources, 10 affirm this step, 3 qualify it and one dissents. The other 33 are silent on it.
+Of the 55 grid sources, 10 affirm this step, 3 qualify it and 3 dissent. The other 39 are silent on it.
 
 ### Affirms
 
@@ -60,6 +60,8 @@ Of the 47 grid sources, 10 affirm this step, 3 qualify it and one dissents. The 
 
 ### Dissents
 
+- [[sources/habermas-1985-philosophical-discourse-of-modernity|Jürgen Habermas, The Philosophical Discourse of Modernity: Twelve Lectures (1985)]]
+- [[sources/medawar-1961-review-phenomenon-of-man|Peter B. Medawar, Review of The Phenomenon of Man (1961)]]
 - [[sources/popper-poverty-of-historicism|Karl Popper, The Poverty of Historicism (1957)]]
 
 ## Related

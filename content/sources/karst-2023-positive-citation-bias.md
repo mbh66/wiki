@@ -1,6 +1,6 @@
 ---
 title: "Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests"
-description: "Library entry for Justine Karst's Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests (2023), a critic in ecology, with what it argues and how its field receives it."
+description: "Justine Karst, Melanie Jones and Jason Hoeksema argue that claims about forest fungal networks outrun the field evidence, and that unsupported claims have spread through positive citation bias."
 author: "Justine Karst, Melanie D. Jones, Jason D. Hoeksema"
 year: 2023
 type: "journal-article"
@@ -16,7 +16,7 @@ design: "E3"
 claims: ["C3"]
 claim_c3: true
 stance: ["C3:q"]
-finding: "Unsupported claims about network sharing have doubled in 25 years"
+finding: "Argues that claims about resource sharing and signalling through forest fungal networks outrun the field evidence, through positive citation bias."
 standing: "Author correction issued 15 March 2023 [IC]"
 on_seed_list: "no"
 grade: "[IC]"
@@ -33,9 +33,7 @@ grid_c3_grade: "[IC]"
 
 Justine Karst, Melanie D. Jones, Jason D. Hoeksema (2023). *Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests*. Nature Ecology & Evolution 7: 501-511. DOI: [10.1038/s41559-023-01986-1](https://doi.org/10.1038/s41559-023-01986-1).
 
-In brief: Unsupported claims about network sharing have doubled in 25 years [IC].
-
-How its field receives it: Author correction issued 15 March 2023 [IC].
+The authors review the field studies behind three common claims about [[glossary/a-e/common-mycorrhizal-network|common mycorrhizal networks]]: that they are widespread in forests, that they move resources between trees, and that mature trees use them to help seedlings [IC]. They find the evidence for each too varied or too thin to support the claim, and report that citations of unsupported statements have grown in the literature [IC]. An author correction was issued on 15 March 2023 [IC]. The wiki takes the paper as the reason it treats Mycelial Consciousness as metaphor and keeps fungal biology apart from it (step C3).
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in ecology, with evidence type E3 and claim codes C3.
 
@@ -47,3 +45,41 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/karst-2023-positive-citation-bias/",
+  "name": "Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Justine Karst"
+    },
+    {
+      "@type": "Person",
+      "name": "Melanie D. Jones"
+    },
+    {
+      "@type": "Person",
+      "name": "Jason D. Hoeksema"
+    }
+  ],
+  "datePublished": "2023",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Nature Ecology & Evolution 7: 501-511"
+  },
+  "identifier": "https://doi.org/10.1038/s41559-023-01986-1",
+  "url": "https://www.nature.com/articles/s41559-023-01986-1",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Justine Karst, Melanie Jones and Jason Hoeksema argue that claims about forest fungal networks outrun the field evidence, and that unsupported claims have spread through positive citation bias."
+  }
+}
+</script>

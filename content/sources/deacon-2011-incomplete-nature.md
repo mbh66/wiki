@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/deacon-2011-incomplete-nature/",
+  "name": "Incomplete Nature",
+  "author": {
+    "@type": "Person",
+    "name": "Terrence W. Deacon"
+  },
+  "datePublished": "2011",
+  "publisher": {
+    "@type": "Organization",
+    "name": "W. W. Norton"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Terrence W. Deacon's Incomplete Nature (2011), a context work in philosophy of biology, with what it argues and how its field receives it."
+  }
+}
+</script>

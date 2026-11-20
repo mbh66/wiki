@@ -38,3 +38,30 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a practi
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/bateson-2023-combining/",
+  "name": "Combining",
+  "author": {
+    "@type": "Person",
+    "name": "Nora Bateson"
+  },
+  "datePublished": "2023",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Triarchy Press"
+  },
+  "isbn": "9781913743857",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Nora Bateson's Combining (2023), a practice work in systems thinking, with what it argues and how its field receives it."
+  }
+}
+</script>

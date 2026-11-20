@@ -5,6 +5,7 @@ tags:
   - data
   - ecoregions
   - bioregions
+created: 2026-11-19
 ---
 
 The RESOLVE Ecoregions dataset identifies 847 terrestrial ecoregions across 8 biogeographic realms and 14 biomes. It is the spatial foundation for the [One Earth Bioregions Framework](https://www.oneearth.org/navigator/), which groups these ecoregions into 185 bioregions and assigns them the alphanumeric codes used in BioHub subdomain naming.

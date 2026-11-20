@@ -36,3 +36,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/kuhn-t-1962-structure-of-scientific-revolutions/",
+  "name": "The Structure of Scientific Revolutions",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas S. Kuhn"
+  },
+  "datePublished": "1962",
+  "publisher": {
+    "@type": "Organization",
+    "name": "University of Chicago Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Thomas S. Kuhn's The Structure of Scientific Revolutions (1962), a context work in history of science, with what it argues and how its field receives it."
+  }
+}
+</script>

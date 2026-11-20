@@ -38,3 +38,36 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a practi
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "@id": "https://wiki.bioconomy.earth/sources/rowson-2023-living-in-the-metacrisis/",
+  "name": "Living in the Metacrisis with Jonathan Rowson",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Katie Teague"
+    },
+    {
+      "@type": "Person",
+      "name": "Jonathan Rowson"
+    }
+  ],
+  "datePublished": "2023",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Perspectiva (YouTube film)"
+  },
+  "url": "https://www.youtube.com/watch?v=9rTHj1Im3q4",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Katie Teague's Living in the Metacrisis with Jonathan Rowson (2023), a practice work in metacrisis, with what it argues and how its field receives it."
+  }
+}
+</script>

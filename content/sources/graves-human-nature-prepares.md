@@ -7,6 +7,7 @@ type: "journal-article"
 publisher: "The Futurist"
 tags: ["source", "consciousness", "development", "futures"]
 subject: ["economics", "consciousness", "civilization"]
+created: 2026-11-19
 updated: 2026-11-09
 source_project: "BioConomy"
 ---

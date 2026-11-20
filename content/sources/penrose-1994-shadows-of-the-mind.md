@@ -34,3 +34,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/penrose-1994-shadows-of-the-mind/",
+  "name": "Shadows of the Mind",
+  "author": {
+    "@type": "Person",
+    "name": "Roger Penrose"
+  },
+  "datePublished": "1994",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Oxford University Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Roger Penrose's Shadows of the Mind (1994), a context work in physics, with what it argues and how its field receives it."
+  }
+}
+</script>

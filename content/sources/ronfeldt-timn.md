@@ -8,6 +8,7 @@ publisher: "RAND Corporation"
 url: "https://www.rand.org/pubs/papers/P7967.html"
 tags: ["source", "coordination", "civilizational-form", "networks", "political-science"]
 subject: ["coordination", "civilization"]
+created: 2026-11-19
 updated: 2026-11-09
 source_project: "BioConomy"
 ---

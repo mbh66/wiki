@@ -4,10 +4,10 @@ description: "Library entry for Sri Aurobindo's The Life Divine (1939), a canon 
 author: "Sri Aurobindo"
 year: 1939
 type: "book"
-publisher: "[TBV]"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+publisher: "Arya Publishing House, Calcutta, 1939 (vol. I) and 1940 (vol. II)"
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
 discipline: "contemplative tradition"
 design: "E5"
@@ -21,13 +21,13 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 grid_group: "8. Traditions and testimony"
 grid_steps: ["B3", "C2", "H"]
 grid_b3: "affirms"
 grid_b3_says: "Holds evolution to be the progressive emergence of Spirit in matter."
-grid_b3_cite: "The Life Divine (1939-40), Book Two"
+grid_b3_cite: "The Life Divine (1939-40), Book Two (Vol. II, 1940)"
 grid_b3_grade: "[TBV]"
 grid_c2: "affirms"
 grid_c2_says: "Foresees a supramental consciousness emerging in humanity."
@@ -35,11 +35,16 @@ grid_c2_cite: "The Life Divine, Book Two, closing chapters"
 grid_c2_grade: "[TBV]"
 grid_h: "affirms"
 grid_h_says: "Holds consciousness to be the fundamental reality that involves itself in matter."
-grid_h_cite: "The Life Divine, Book One"
+grid_h_cite: "The Life Divine (1939-40), Book One, 'The Omnipresent Reality and the Universe' (Vol. I, 1939)"
 grid_h_grade: "[TBV]"
+anabranch_steps: ["T1"]
+anabranch_t1: "affirms"
+anabranch_t1_says: "Argues that the soul survives death and returns through rebirth as part of its evolution."
+anabranch_t1_cite: "The Life Divine (1939), Book II, chapters on rebirth (not checked)"
+anabranch_t1_grade: "[TBV]"
 ---
 
-Sri Aurobindo (1939). *The Life Divine*. [TBV].
+Sri Aurobindo (1939). *The Life Divine*. Arya Publishing House, Calcutta, 1939 (vol. I) and 1940 (vol. II). First published serially in *Arya*, 1914 to 1919; first one-volume edition, Sri Aurobindo Library, New York, 1949.
 
 In brief: Consciousness evolves toward supermind [TBV].
 
@@ -47,9 +52,39 @@ How the work is received in its own field is still to be checked [TBV].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in contemplative tradition, with evidence type E5 and claim codes B3, C2, H.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3, C2 and H.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/aurobindo-1939-the-life-divine/",
+  "name": "The Life Divine",
+  "author": {
+    "@type": "Person",
+    "name": "Sri Aurobindo"
+  },
+  "datePublished": "1939",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Arya Publishing House"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Sri Aurobindo's The Life Divine (1939), a canon work in contemplative tradition, with what it argues and how its field receives it."
+  }
+}
+</script>

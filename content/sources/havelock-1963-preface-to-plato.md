@@ -35,3 +35,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/havelock-1963-preface-to-plato/",
+  "name": "Preface to Plato",
+  "author": {
+    "@type": "Person",
+    "name": "Eric A. Havelock"
+  },
+  "datePublished": "1963",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Harvard University Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Eric A. Havelock's Preface to Plato (1963), a canon work in classics, with what it argues and how its field receives it."
+  }
+}
+</script>

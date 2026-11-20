@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/bohm-1980-wholeness-and-the-implicate-order/",
+  "name": "Wholeness and the Implicate Order",
+  "author": {
+    "@type": "Person",
+    "name": "David Bohm"
+  },
+  "datePublished": "1980",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Routledge & Kegan Paul"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for David Bohm's Wholeness and the Implicate Order (1980), a context work in physics, with what it argues and how its field receives it."
+  }
+}
+</script>

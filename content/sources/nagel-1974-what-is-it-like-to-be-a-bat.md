@@ -35,3 +35,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/nagel-1974-what-is-it-like-to-be-a-bat/",
+  "name": "What Is It Like to Be a Bat?",
+  "author": {
+    "@type": "Person",
+    "name": "Thomas Nagel"
+  },
+  "datePublished": "1974",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Philosophical Review 83(4)"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Thomas Nagel's What Is It Like to Be a Bat? (1974), a context work in philosophy of mind, with what it argues and how its field receives it."
+  }
+}
+</script>

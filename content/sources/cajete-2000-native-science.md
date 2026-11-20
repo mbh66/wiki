@@ -35,3 +35,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/cajete-2000-native-science/",
+  "name": "Native Science",
+  "author": {
+    "@type": "Person",
+    "name": "Gregory Cajete"
+  },
+  "datePublished": "2000",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Clear Light Publishers"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Gregory Cajete's Native Science (2000), a context work in Indigenous knowledge, with what it argues and how its field receives it."
+  }
+}
+</script>

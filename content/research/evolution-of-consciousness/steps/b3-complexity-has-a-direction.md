@@ -13,8 +13,8 @@ evidence_main: "E4"
 depends_on_h: "read-differently"
 affirms_count: 11
 qualifies_count: 5
-dissents_count: 5
-silent_count: 26
+dissents_count: 6
+silent_count: 33
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Run 2 split the step into its two halves, which rest on different kinds of evide
 
 ## Where the grid sources stand
 
-Of the 47 grid sources, 11 affirm this step, 5 qualify it and 5 dissent. The other 26 are silent on it.
+Of the 55 grid sources, 11 affirm this step, 5 qualify it and 6 dissent. The other 33 are silent on it.
 
 ### Affirms
 
@@ -67,6 +67,7 @@ Of the 47 grid sources, 11 affirm this step, 5 qualify it and 5 dissent. The oth
 - [[sources/gould-1996-full-house|Stephen Jay Gould, Full House (1996)]]
 - [[sources/graeber-wengrow-2021-dawn-of-everything|David Graeber, David Wengrow, The Dawn of Everything (2021)]]
 - [[sources/medawar-1961-review-phenomenon-of-man|Peter B. Medawar, Review of The Phenomenon of Man (1961)]]
+- [[sources/meyerhoff-2010-bald-ambition|Jeff Meyerhoff, Bald Ambition: A Critique of Ken Wilber's Theory of Everything (2010)]]
 - [[sources/popper-poverty-of-historicism|Karl Popper, The Poverty of Historicism (1957)]]
 - [[sources/yunkaporta-2019-sand-talk|Tyson Yunkaporta, Sand Talk (2019)]]
 

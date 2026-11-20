@@ -35,3 +35,35 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/lewis-williams-dowson-1988-signs-of-all-times/",
+  "name": "The Signs of All Times",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "J. David Lewis-Williams"
+    },
+    {
+      "@type": "Person",
+      "name": "Thomas A. Dowson"
+    }
+  ],
+  "datePublished": "1988",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Current Anthropology 29(2)"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for J. David Lewis-Williams' The Signs of All Times (1988), an evidence work in cognitive archaeology, with what it argues and how its field receives it."
+  }
+}
+</script>

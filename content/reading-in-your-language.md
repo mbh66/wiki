@@ -3,6 +3,7 @@ title: Reading this wiki in your language
 description: How to read this wiki in another language, and how to change the language later.
 tags:
   - help
+created: 2026-11-19
 ---
 
 You can read this wiki in a language other than English, for example, French or Simplified Chinese.

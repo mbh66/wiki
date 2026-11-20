@@ -35,3 +35,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/solms-2021-the-hidden-spring/",
+  "name": "The Hidden Spring",
+  "author": {
+    "@type": "Person",
+    "name": "Mark Solms"
+  },
+  "datePublished": "2021",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Profile Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Mark Solms' The Hidden Spring (2021), an evidence work in neuroscience, with what it argues and how its field receives it."
+  }
+}
+</script>

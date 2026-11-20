@@ -7,6 +7,7 @@ term_type: "coined"
 first_defined_in: "V2_Mycelial_Thesis.md"
 related_terms: ["material-consciousness", "second-tier", "major-evolutionary-transitions", "momentous-leap"]
 source_project: "BioConomy"
+created: 2026-11-19
 updated: 2026-10-30
 ---
 

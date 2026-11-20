@@ -10,10 +10,10 @@ claim: "Adults can move through stages of meaning-making that validated instrume
 evidence_type: "E1 measured study for the Washington University Sentence Completion Test; thinner for other instruments"
 evidence_main: "E1"
 depends_on_h: "holds-either-way"
-affirms_count: 4
-qualifies_count: 2
+affirms_count: 5
+qualifies_count: 4
 dissents_count: 0
-silent_count: 41
+silent_count: 46
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,18 +37,21 @@ Run 2 recorded that the measured support is strong for one instrument and thin f
 
 ## Where the grid sources stand
 
-Of the 47 grid sources, 4 affirm this step, 2 qualify it and none dissent. The other 41 are silent on it.
+Of the 55 grid sources, 5 affirm this step, 4 qualify it and none dissent. The other 46 are silent on it.
 
 ### Affirms
 
 - [[sources/beck-cowan-spiral-dynamics|Don Edward Beck and Christopher C. Cowan, Spiral Dynamics (1996)]]
 - [[sources/kegan-1982-the-evolving-self|Robert Kegan, The Evolving Self (1982)]]
 - [[sources/loevinger-1976-ego-development|Jane Loevinger, Ego Development (1976)]]
+- [[sources/mcintosh-2007-integral-consciousness|Steve McIntosh, Integral Consciousness and the Future of Evolution (2007)]]
 - [[sources/wilber-2000-integral-psychology|Ken Wilber, Integral Psychology: Consciousness, Spirit, Psychology, Therapy (2000)]]
 
 ### Qualifies
 
+- [[sources/fischer-bidell-2006-dynamic-development|Kurt W. Fischer; Thomas R. Bidell, Dynamic Development of Action and Thought (2006)]]
 - [[sources/jung-1959-archetypes-and-the-collective-unconscious|C. G. Jung, The Archetypes and the Collective Unconscious (1959)]]
+- [[sources/siegler-1996-emerging-minds|Robert S. Siegler, Emerging Minds: The Process of Change in Children's Thinking (1996)]]
 - [[sources/tomasello-1999-cultural-origins|Michael Tomasello, The Cultural Origins of Human Cognition (1999)]]
 
 ## Related

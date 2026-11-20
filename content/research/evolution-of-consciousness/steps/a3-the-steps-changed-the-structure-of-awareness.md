@@ -13,8 +13,8 @@ evidence_main: "E3"
 depends_on_h: "read-differently"
 affirms_count: 9
 qualifies_count: 6
-dissents_count: 1
-silent_count: 31
+dissents_count: 2
+silent_count: 38
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Run 2 reworded the step as a claim some sources make, and set the cognitive-capa
 
 ## Where the grid sources stand
 
-Of the 47 grid sources, 9 affirm this step, 6 qualify it and one dissents. The other 31 are silent on it.
+Of the 55 grid sources, 9 affirm this step, 6 qualify it and 2 dissent. The other 38 are silent on it.
 
 ### Affirms
 
@@ -64,6 +64,7 @@ Of the 47 grid sources, 9 affirm this step, 6 qualify it and one dissents. The o
 ### Dissents
 
 - [[sources/block-1981-review-of-jaynes|Ned Block, Review of The Origin of Consciousness in the Breakdown of the Bicameral Mind (1981)]]
+- [[sources/street-1984-literacy-in-theory-and-practice|Brian V. Street, Literacy in Theory and Practice (1984)]]
 
 ## Related
 

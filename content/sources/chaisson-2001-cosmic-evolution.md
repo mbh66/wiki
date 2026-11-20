@@ -1,6 +1,6 @@
 ---
 title: "Cosmic Evolution"
-description: "Library entry for Eric J. Chaisson's Cosmic Evolution (2001), a canon work in astrophysics, with what it argues and how its field receives it."
+description: "Eric Chaisson measures energy rate density, the energy flowing through a system per unit of mass, and finds it rising from galaxies and stars to plants, animals and human societies."
 author: "Eric J. Chaisson"
 year: 2001
 type: "book"
@@ -14,7 +14,7 @@ design: "E3"
 claims: ["B3"]
 claim_b3: true
 stance: ["B3:a"]
-finding: "Energy rate density rises from galaxies to societies"
+finding: "Measures energy rate density and finds it rising across cosmic, biological and cultural systems."
 standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
@@ -31,9 +31,7 @@ grid_b3_grade: "[TBV]"
 
 Eric J. Chaisson (2001). *Cosmic Evolution*. Harvard University Press.
 
-In brief: Energy rate density rises from galaxies to societies [TBV].
-
-How the work is received in its own field is still to be checked [TBV].
+Eric Chaisson, an astrophysicist at Harvard, proposes a single measure of complexity across cosmic history: the rate at which energy flows through a system per unit of mass [IC]. His estimates rise from galaxies and stars to planets, plants, animals, brains and modern society, and he reads the rise as a feature of systems far from equilibrium in an expanding universe [IC]. Some physicists question whether one measure can capture complexity across such different systems [TBV]. The wiki takes it as the quantitative half of step B3: a measured trend, with no claim about consciousness.
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in astrophysics, with evidence type E3 and claim codes B3.
 
@@ -43,3 +41,29 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/chaisson-2001-cosmic-evolution/",
+  "name": "Cosmic Evolution",
+  "author": {
+    "@type": "Person",
+    "name": "Eric J. Chaisson"
+  },
+  "datePublished": "2001",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Harvard University Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Eric Chaisson measures energy rate density, the energy flowing through a system per unit of mass, and finds it rising from galaxies and stars to plants, animals and human societies."
+  }
+}
+</script>

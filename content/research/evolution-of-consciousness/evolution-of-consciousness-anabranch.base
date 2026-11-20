@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("anabranch-step")
+    - draft != true
+formulas:
+  step: file.asLink(title)
+properties:
+  connector:
+    displayName: Joined by
+  formula.step:
+    displayName: Step
+  evidence_type:
+    displayName: Evidence type
+  status:
+    displayName: Status
+  crosswalk:
+    displayName: Grid step
+views:
+  - type: table
+    name: "The Anabranch thesis"
+    order:
+      - connector
+      - formula.step
+      - evidence_type
+      - status
+      - crosswalk
+    sort:
+      - property: step_order
+        direction: ASC

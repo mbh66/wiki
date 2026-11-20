@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Anabranch: two streams of consciousness</title>
+    <meta
+      name="description"
+      content="Two streams of consciousness, the Bifurcation and the Confluence, set out step by step with the sources that affirm, qualify or dissent from each claim."
+    />
+    <link rel="canonical" href="https://anabranch.bioconomy.earth/" />
+    <link
+      rel="alternate"
+      type="application/json"
+      href="/data/anabranch.json"
+      title="Anabranch data"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Spectral:ital,wght@0,300;0,400;0,500;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <a class="skip" href="#steps">Skip to the argument</a>
+
+    <header class="hero">
+      <div class="measure">
+        <h1 class="title" id="title">Anabranch</h1>
+        <p class="subtitle" id="subtitle"></p>
+      </div>
+
+      <figure class="river" aria-labelledby="river-caption">
+        <svg viewBox="0 0 1200 290" role="img" aria-labelledby="river-title river-desc">
+          <title id="river-title">The Anabranch</title>
+          <desc id="river-desc">
+            A river diagram. The main channel, Indigenous Knowledge Systems, runs the full width. At
+            the Bifurcation, Material Consciousness branches off and climbs steeply toward the
+            Noosphere, then returns to the main channel at the Confluence. After the Confluence both
+            streams flow in one channel.
+          </desc>
+          <defs>
+            <linearGradient
+              id="mixed"
+              x1="0"
+              y1="183"
+              x2="0"
+              y2="197"
+              gradientUnits="userSpaceOnUse"
+            >
+              <stop offset="0" style="stop-color: var(--slate)" />
+              <stop offset="0.5" style="stop-color: var(--slate)" />
+              <stop offset="0.5" style="stop-color: var(--thread)" />
+              <stop offset="1" style="stop-color: var(--thread)" />
+            </linearGradient>
+          </defs>
+
+          <path
+            class="stream stream-thread"
+            d="M0 190 C 140 184, 260 196, 420 190 S 700 184, 860 190"
+          />
+          <path
+            class="stream stream-material"
+            pathLength="1"
+            d="M420 190 C 470 190, 500 70, 620 62 C 720 56, 790 70, 860 190"
+          />
+          <path class="stream stream-mixed" d="M860 190 C 960 194, 1080 186, 1200 190" />
+
+          <g class="river-labels" aria-hidden="true">
+            <text x="650" y="222" text-anchor="middle">Indigenous Knowledge Systems</text>
+            <text x="650" y="242" text-anchor="middle" class="soft">the Golden Thread</text>
+            <text x="478" y="129" text-anchor="end">Material Consciousness</text>
+            <text x="1035" y="222" text-anchor="middle" class="soft">
+              both streams, one channel
+            </text>
+          </g>
+
+          <a href="#T7" class="node">
+            <circle cx="420" cy="190" r="9" />
+            <text x="420" y="222" text-anchor="middle" class="node-label">Bifurcation</text>
+          </a>
+          <a href="#T8" class="node">
+            <circle cx="620" cy="62" r="9" />
+            <text x="620" y="38" text-anchor="middle" class="node-label">Noosphere</text>
+          </a>
+          <a href="#T9" class="node">
+            <circle cx="860" cy="190" r="9" />
+            <text x="860" y="222" text-anchor="middle" class="node-label">Confluence</text>
+          </a>
+        </svg>
+        <figcaption id="river-caption" class="measure river-caption">
+          <span class="key key-thread">Indigenous Knowledge Systems, the Golden Thread</span>
+          <span class="key key-material">Material Consciousness</span>
+          <span class="key-note">Select a point on the river to read that step.</span>
+        </figcaption>
+      </figure>
+
+      <div class="measure intro" id="intro"></div>
+    </header>
+
+    <main>
+      <p class="measure app-error" id="app-error" hidden>
+        The data file is missing. Run <code>npm run data</code> in the project folder, then reload
+        this page.
+      </p>
+
+      <div id="steps" class="steps"></div>
+
+      <section class="grid-section" id="grid" aria-labelledby="grid-h">
+        <div class="measure">
+          <h2 id="grid-h">Where the sources stand</h2>
+          <div id="grid-lede"></div>
+          <ul class="legend">
+            <li>
+              <span class="mark"><span class="glyph glyph-affirms" aria-hidden="true"></span></span>
+              Affirms
+            </li>
+            <li>
+              <span class="mark"
+                ><span class="glyph glyph-qualifies" aria-hidden="true"></span
+              ></span>
+              Qualifies
+            </li>
+            <li>
+              <span class="mark"
+                ><span class="glyph glyph-dissents" aria-hidden="true"></span
+              ></span>
+              Dissents
+            </li>
+            <li><span class="mark" aria-hidden="true"></span> Silent</li>
+            <li><span class="legend-pending" aria-hidden="true"></span> Not yet tested</li>
+            <li><span class="seed" aria-hidden="true">*</span> On Michael Haupt's reading list</li>
+          </ul>
+        </div>
+        <div class="grid-scroll" tabindex="0" role="region" aria-labelledby="grid-h">
+          <table class="grid" id="grid-table">
+            <caption class="visually-hidden">
+              Positions of 55 sources on each step of the Anabranch argument
+            </caption>
+          </table>
+        </div>
+      </section>
+
+      <section class="measure sources" id="sources" aria-labelledby="sources-h">
+        <h2 id="sources-h">Sources</h2>
+        <p>
+          Each title links to its page on the BioConomy wiki, which records the edition, the
+          evidence type and the grade.
+        </p>
+        <ul id="source-list" class="source-list"></ul>
+      </section>
+    </main>
+
+    <footer class="measure footer" id="footer"></footer>
+
+    <dialog class="panel" id="panel" aria-labelledby="panel-title">
+      <div id="panel-body"></div>
+      <form method="dialog"><button class="panel-close">Close</button></form>
+    </dialog>
+
+    <script src="data/anabranch.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

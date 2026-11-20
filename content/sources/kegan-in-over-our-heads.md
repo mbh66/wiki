@@ -7,6 +7,7 @@ type: "book"
 publisher: "Harvard University Press"
 tags: ["source", "consciousness", "development", "psychology"]
 subject: ["economics", "consciousness"]
+created: 2026-11-19
 updated: 2026-11-09
 source_project: "BioConomy"
 ---

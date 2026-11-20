@@ -36,3 +36,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/hancock-2005-supernatural/",
+  "name": "Supernatural: Meetings with the Ancient Teachers of Mankind",
+  "author": {
+    "@type": "Person",
+    "name": "Graham Hancock"
+  },
+  "datePublished": "2005",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Century"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Graham Hancock's Supernatural: Meetings with the Ancient Teachers of Mankind (2005), a canon work in popular archaeology, with what it argues and how its field receives it."
+  }
+}
+</script>

@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/thompson-wi-1996-coming-into-being/",
+  "name": "Coming Into Being",
+  "author": {
+    "@type": "Person",
+    "name": "William Irwin Thompson"
+  },
+  "datePublished": "1996",
+  "publisher": {
+    "@type": "Organization",
+    "name": "St. Martin's Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for William Irwin Thompson's Coming Into Being (1996), a canon work in cultural history, with what it argues and how its field receives it."
+  }
+}
+</script>

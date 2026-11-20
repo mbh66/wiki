@@ -36,3 +36,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/godfrey-smith-2016-other-minds/",
+  "name": "Other Minds",
+  "author": {
+    "@type": "Person",
+    "name": "Peter Godfrey-Smith"
+  },
+  "datePublished": "2016",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Farrar Straus and Giroux"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Peter Godfrey-Smith's Other Minds (2016), an evidence work in philosophy of biology, with what it argues and how its field receives it."
+  }
+}
+</script>

@@ -8,6 +8,7 @@ publisher: "Industrial and Commercial Training"
 doi: "10.1108/00197850410563902"
 tags: ["source", "consciousness", "development", "psychology", "empirical"]
 subject: ["economics", "consciousness"]
+created: 2026-11-19
 updated: 2026-11-09
 source_project: "BioConomy"
 ---

@@ -5,6 +5,7 @@ tags: ["glossary", "core-concept"]
 term_type: "coined"
 first_defined_in: "Crisis_Codes_Iran_Part_One_Draft.md"
 related_terms: ["momentous-leap", "mycelial-consciousness", "imaginal-cells", "framer"]
+created: 2026-11-19
 source_project: "BioConomy"
 ---
 

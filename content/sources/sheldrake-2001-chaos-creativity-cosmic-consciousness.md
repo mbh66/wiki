@@ -37,3 +37,39 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/sheldrake-2001-chaos-creativity-cosmic-consciousness/",
+  "name": "Chaos, Creativity, and Cosmic Consciousness",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Rupert Sheldrake"
+    },
+    {
+      "@type": "Person",
+      "name": "Terence McKenna"
+    },
+    {
+      "@type": "Person",
+      "name": "Ralph Abraham"
+    }
+  ],
+  "datePublished": "2001",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Park Street Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Rupert Sheldrake's Chaos, Creativity, and Cosmic Consciousness (2001), a context work in mixed, with what it argues and how its field receives it."
+  }
+}
+</script>

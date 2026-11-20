@@ -38,3 +38,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/young-1976-the-reflexive-universe/",
+  "name": "The Reflexive Universe",
+  "author": {
+    "@type": "Person",
+    "name": "Arthur M. Young"
+  },
+  "datePublished": "1976",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Delacorte Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Arthur M. Young's The Reflexive Universe (1976), a canon work in process philosophy, with what it argues and how its field receives it."
+  }
+}
+</script>

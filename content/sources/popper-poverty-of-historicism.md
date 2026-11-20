@@ -14,10 +14,10 @@ briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"
 tier: "critic"
 discipline: "philosophy"
 design: "E4"
-claims: ["B2", "C2"]
-claim_b2: true
+claims: ["B3", "C2"]
+claim_b3: true
 claim_c2: true
-stance: ["B2:d", "C2:d"]
+stance: ["B3:d", "C2:d"]
 finding: "History has no knowable laws of development"
 standing: "[TBV]"
 on_seed_list: "no"

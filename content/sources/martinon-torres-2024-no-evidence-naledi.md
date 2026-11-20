@@ -1,6 +1,6 @@
 ---
 title: "No scientific evidence that Homo naledi buried their dead and produced rock art"
-description: "Library entry for María Martinón-Torres' No scientific evidence that Homo naledi buried their dead and produced rock art (2024), a critic in palaeoanthropology, with what it argues and how its field receives it."
+description: "María Martinón-Torres and colleagues argue that the evidence offered does not establish that Homo naledi buried its dead or made rock art."
 author: "María Martinón-Torres, Diego Garate, Andy I. R. Herries, Michael D. Petraglia"
 year: 2024
 type: "journal-article"
@@ -11,11 +11,10 @@ briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"
 tier: "critic"
 discipline: "palaeoanthropology"
 design: "E3"
-claims: ["A2", "A3"]
+claims: ["A2"]
 claim_a2: true
-claim_a3: true
-stance: ["A2:d", "A3:d"]
-finding: "Burial and engraving claims lack taphonomic support"
+stance: ["A2:d"]
+finding: "Argues that the published evidence does not establish burial or engraving by Homo naledi."
 standing: "Cited by eLife reviewers [IC]"
 on_seed_list: "no"
 grade: "[IC]"
@@ -32,11 +31,9 @@ grid_a2_grade: "[IC]"
 
 María Martinón-Torres, Diego Garate, Andy I. R. Herries, Michael D. Petraglia (2024). *No scientific evidence that Homo naledi buried their dead and produced rock art*. Journal of Human Evolution 103464.
 
-In brief: Burial and engraving claims lack taphonomic support [IC].
+Writing in the *Journal of Human Evolution*, the authors examine the taphonomy (how remains came to lie where they are found), the sediments and the claimed engravings, and argue that natural processes have not been ruled out [IC]. They ask for the full data to be published before the claims are accepted [TBV]. Reviewers of the *eLife* papers drew on their critique [IC]. The wiki takes it as the main dissent on the *Homo naledi* claims under step A2, and reads the dispute as open.
 
-How its field receives it: Cited by eLife reviewers [IC].
-
-The [[research/evolution-of-consciousness/library|library]] codes it as a critic in palaeoanthropology, with evidence type E3 and claim codes A2, A3.
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic in palaeoanthropology, with evidence type E3 and claim codes A2.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from A2.
 
@@ -44,3 +41,43 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/martinon-torres-2024-no-evidence-naledi/",
+  "name": "No scientific evidence that Homo naledi buried their dead and produced rock art",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "María Martinón-Torres"
+    },
+    {
+      "@type": "Person",
+      "name": "Diego Garate"
+    },
+    {
+      "@type": "Person",
+      "name": "Andy I. R. Herries"
+    },
+    {
+      "@type": "Person",
+      "name": "Michael D. Petraglia"
+    }
+  ],
+  "datePublished": "2024",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Journal of Human Evolution 103464"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "María Martinón-Torres and colleagues argue that the evidence offered does not establish that Homo naledi buried its dead or made rock art."
+  }
+}
+</script>

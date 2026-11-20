@@ -1,6 +1,6 @@
 ---
 title: "Ego Development"
-description: "Library entry for Jane Loevinger's Ego Development (1976), an evidence work in developmental psychology, with what it argues and how its field receives it."
+description: "Jane Loevinger describes a sequence of stages of ego development, the frame through which a person makes sense of self and others, measured with her sentence-completion test."
 author: "Jane Loevinger"
 year: 1976
 type: "book"
@@ -14,7 +14,7 @@ design: "E1"
 claims: ["B1"]
 claim_b1: true
 stance: ["B1:a"]
-finding: "Measured stages of ego development"
+finding: "Describes a sequence of ego stages, measured with the Washington University Sentence Completion Test."
 standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
@@ -31,9 +31,7 @@ grid_b1_grade: "[IC]"
 
 Jane Loevinger (1976). *Ego Development*. Jossey-Bass.
 
-In brief: Measured stages of ego development [TBV].
-
-How the work is received in its own field is still to be checked [TBV].
+Jane Loevinger, a psychologist at Washington University in St. Louis, describes ego development as a sequence of stages in how people frame impulse, relationships, moral judgement and their sense of self [IC]. Her Washington University Sentence Completion Test scores responses to sentence stems against those stages [IC]. A meta-analysis by Cohn and Westenberg (2004) found that ego level adds predictive value beyond intelligence, and a 2026 systematic review found support for the test's reliability and validity, varying by sample [IC]. Susanne Cook-Greuter extended the test to later stages. The wiki takes the instrument as the strongest measured support for step B1.
 
 The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in developmental psychology, with evidence type E1 and claim codes B1.
 
@@ -43,3 +41,29 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/loevinger-1976-ego-development/",
+  "name": "Ego Development",
+  "author": {
+    "@type": "Person",
+    "name": "Jane Loevinger"
+  },
+  "datePublished": "1976",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jossey-Bass"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Jane Loevinger describes a sequence of stages of ego development, the frame through which a person makes sense of self and others, measured with her sentence-completion test."
+  }
+}
+</script>

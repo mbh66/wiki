@@ -5,7 +5,7 @@ author: "Ilya Prigogine"
 year: 1996
 edition_year: 1997
 type: "book"
-publisher: "Free Press (English 1997) [TBV]"
+publisher: "Éditions Odile Jacob, Paris, in collaboration with Isabelle Stengers (as La Fin des certitudes); English edition, Free Press, New York, 1997"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
 briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
@@ -30,7 +30,7 @@ grid_b3_cite: "The End of Certainty (1997 English edition), chs 1 to 3"
 grid_b3_grade: "[TBV]"
 ---
 
-Ilya Prigogine (1996; edition cited 1997). *The End of Certainty: Time, Chaos, and the New Laws of Nature*. Free Press (English 1997) [TBV].
+Ilya Prigogine (1996; edition cited 1997). *The End of Certainty: Time, Chaos, and the New Laws of Nature*. First published as *La Fin des certitudes: temps, chaos et les lois de la nature* by Éditions Odile Jacob, Paris, 1996, in collaboration with Isabelle Stengers; English edition, The Free Press, New York, 1997.
 
 In brief: Irreversibility and self-organisation are basic to nature [TBV].
 
@@ -46,3 +46,29 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/prigogine-1996-the-end-of-certainty/",
+  "name": "The End of Certainty: Time, Chaos, and the New Laws of Nature",
+  "author": {
+    "@type": "Person",
+    "name": "Ilya Prigogine"
+  },
+  "datePublished": "1996",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Éditions Odile Jacob; Free Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Ilya Prigogine's The End of Certainty: Time, Chaos, and the New Laws of Nature (1996), a context work in complexity science, with what it argues and how its field receives it."
+  }
+}
+</script>

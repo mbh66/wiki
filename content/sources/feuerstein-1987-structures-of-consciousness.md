@@ -39,3 +39,30 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/feuerstein-1987-structures-of-consciousness/",
+  "name": "Structures of Consciousness: The Genius of Jean Gebser",
+  "author": {
+    "@type": "Person",
+    "name": "Georg Feuerstein"
+  },
+  "datePublished": "1987",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Integral Publishing"
+  },
+  "isbn": "0941255204",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Georg Feuerstein's Structures of Consciousness: The Genius of Jean Gebser (1987), a context work in history of ideas, with what it argues and how its field receives it."
+  }
+}
+</script>

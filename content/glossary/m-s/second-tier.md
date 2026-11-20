@@ -7,6 +7,7 @@ term_type: "borrowed-technical"
 first_defined_in: "I The Three Futures"
 related_terms: ["first-tier", "momentous-leap", "mycelial-consciousness"]
 source_project: "BioConomy"
+created: 2026-11-19
 updated: 2026-10-30
 ---
 

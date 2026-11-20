@@ -1,22 +1,24 @@
 ---
 title: "The Origin and Goal of History"
-description: "Library entry for Karl Jaspers' The Origin and Goal of History (1949), a canon work in philosophy of history, with what it argues and how its field receives it."
+description: "Karl Jaspers proposes an Axial Age, about 800 to 200 BCE, in which reflective thought arose in China, India, Iran, Israel and Greece."
 author: "Karl Jaspers"
 year: 1949
 edition_year: 1953
 type: "book"
-publisher: "Piper [TBV]"
+publisher: "R. Piper & Co., Munich, and Artemis-Verlag, Zurich; English translation by Michael Bullock, Routledge & Kegan Paul, 1953"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
 briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
 tier: "canon"
 discipline: "philosophy of history"
 design: "E4"
-claims: ["A2", "A3"]
+claims: ["A2", "A3", "B3", "C2"]
 claim_a2: true
 claim_a3: true
-stance: ["A2:a", "A3:a"]
-finding: "An Axial Age around 800 to 200 BCE"
+claim_b3: true
+claim_c2: true
+stance: ["A2:a", "A3:a", "B3:q", "C2:q"]
+finding: "Proposes an Axial Age, about 800 to 200 BCE, when reflective thought arose in several regions at once."
 standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
@@ -31,25 +33,23 @@ grid_a2_cite: "The Origin and Goal of History (1949), Part One, ch. 1"
 grid_a2_grade: "[IC]"
 grid_a3: "affirms"
 grid_a3_says: "Holds that people then became conscious of being as a whole and of themselves."
-grid_a3_cite: "The Origin and Goal of History (1949), Part One, ch. 1"
-grid_a3_grade: "[TBV]"
+grid_a3_cite: "The Origin and Goal of History (1949), Part One 'World History', ch. 1 'The Axial Period'"
+grid_a3_grade: "[IC]"
 grid_b3: "qualifies"
 grid_b3_says: "Sees a common axis of history while rejecting a single law of development."
-grid_b3_cite: "The Origin and Goal of History (1949), Part One"
+grid_b3_cite: "The Origin and Goal of History (1949), Part One 'World History' and Part Three 'The Meaning of History'"
 grid_b3_grade: "[TBV]"
 grid_c2: "qualifies"
 grid_c2_says: "Raises the possibility of a second axis tied to science and technology."
-grid_c2_cite: "The Origin and Goal of History (1949), Part Two"
+grid_c2_cite: "The Origin and Goal of History (1949), Part Two 'Present and Future', ch. 9 'The Intrinsically New: Science and Technology'"
 grid_c2_grade: "[TBV]"
 ---
 
-Karl Jaspers (1949; edition cited 1953). *The Origin and Goal of History*. Piper [TBV].
+Karl Jaspers (1949; edition cited 1953). *The Origin and Goal of History*. First published as *Vom Ursprung und Ziel der Geschichte* by R. Piper & Co., Munich, and Artemis-Verlag, Zurich, 1949; English translation by Michael Bullock, Routledge & Kegan Paul, London, and Yale University Press, New Haven, 1953.
 
-In brief: An Axial Age around 800 to 200 BCE [TBV].
+Karl Jaspers, a German psychiatrist turned philosopher, wrote *Vom Ursprung und Ziel der Geschichte* after the Second World War, looking for an axis of world history that no single culture owned [IC]. He finds it in the [[glossary/a-e/axial-age|Axial Age]], when Confucius and Laozi, the Upanishads and the Buddha, Zarathustra, the Hebrew prophets and the Greek philosophers made people conscious of being as a whole and of themselves [IC]. Later scholars dispute how far these developments were simultaneous or connected [TBV]. The wiki takes it as one of the candidate dates for the structure it calls Material, and as an early test of a sequence against more than one region (steps A2 and A3).
 
-How the work is received in its own field is still to be checked [TBV].
-
-The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy of history, with evidence type E4 and claim codes A2, A3.
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy of history, with evidence type E4 and claim codes A2, A3, B3, C2.
 
 Glossary: [[glossary/a-e/axial-age|Axial Age]].
 
@@ -59,3 +59,29 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/jaspers-1949-origin-and-goal-of-history/",
+  "name": "The Origin and Goal of History",
+  "author": {
+    "@type": "Person",
+    "name": "Karl Jaspers"
+  },
+  "datePublished": "1949",
+  "publisher": {
+    "@type": "Organization",
+    "name": "R. Piper & Co.; Artemis-Verlag"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Karl Jaspers proposes an Axial Age, about 800 to 200 BCE, in which reflective thought arose in China, India, Iran, Israel and Greece."
+  }
+}
+</script>

@@ -34,3 +34,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/malafouris-2013-how-things-shape-the-mind/",
+  "name": "How Things Shape the Mind",
+  "author": {
+    "@type": "Person",
+    "name": "Lambros Malafouris"
+  },
+  "datePublished": "2013",
+  "publisher": {
+    "@type": "Organization",
+    "name": "MIT Press"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Lambros Malafouris' How Things Shape the Mind (2013), an evidence work in cognitive archaeology, with what it argues and how its field receives it."
+  }
+}
+</script>

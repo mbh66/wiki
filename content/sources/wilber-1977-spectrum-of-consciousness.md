@@ -37,3 +37,29 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://wiki.bioconomy.earth/sources/wilber-1977-spectrum-of-consciousness/",
+  "name": "The Spectrum of Consciousness",
+  "author": {
+    "@type": "Person",
+    "name": "Ken Wilber"
+  },
+  "datePublished": "1977",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Quest Books"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Library entry for Ken Wilber's The Spectrum of Consciousness (1977), a canon work in transpersonal psychology, with what it argues and how its field receives it."
+  }
+}
+</script>
