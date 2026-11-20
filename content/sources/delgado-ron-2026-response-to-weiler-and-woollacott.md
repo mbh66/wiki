@@ -1,0 +1,68 @@
+---
+title: "Response to Weiler and Woollacott, 2025"
+description: "A letter in Explore replying to Weiler and Woollacott's 2025 paper on The Telepathy Tapes."
+author: "Jorge Andrés Delgado-Ron"
+year: 2026
+type: "journal-article"
+publisher: "Explore 22(3): 103387 (Elsevier)"
+url: "https://pubmed.ncbi.nlm.nih.gov/41855616/"
+doi: "10.1016/j.explore.2026.103387"
+tags: ["source", "consciousness", "anabranch"]
+subject: ["consciousness"]
+briefs: ["anabranch"]
+design: "E4"
+finding: "Points out that facilitated communication studies cited by Weiler and Woollacott showed messages matching prompts seen only by the helper."
+standing: "Weiler and Woollacott published a Response to Delgado-Ron (2026) in Explore 22(3) [IC]"
+on_seed_list: "no"
+grade: "[TBV]"
+created: 2026-11-20
+updated: 2026-11-20
+source_project: "BioConomy"
+anabranch_group: "11. Critics of the anomalous experience research"
+anabranch_steps: ["T2"]
+anabranch_t2: "dissents"
+anabranch_t2_says: "Argues that the controlled studies the paper cites traced messages to prompts seen only by helpers."
+anabranch_t2_cite: "Explore 22(3): 103387 (2026), as summarised in a citing excerpt"
+anabranch_t2_grade: "[TBV]"
+---
+
+Jorge Andrés Delgado-Ron (2026). "Response to Weiler and Woollacott, 2025". *Explore* 22(3): 103387. DOI 10.1016/j.explore.2026.103387. PMID 41855616 [IC].
+
+The letter replies to [[sources/weiler-woollacott-2025-rethinking-communication-and-consciousness|Weiler and Woollacott (2025)]] [IC]. He gives his affiliation as the Faculty of Health Sciences, Simon Fraser University [IC]. An excerpt on a citing page reports his point about the studies the paper cites on autism and agency [TBV]. In those experiments the nonspeaker and the helper were given separate prompts [TBV]. Without helpers, nonspeakers did not recognise the prompts shown only to them, and the messages matched prompts shown only to the helpers [TBV]. He uses this to dispute the paper's reading of the evidence [TBV].
+
+Weiler and Woollacott answered with "Response to Delgado-Ron (2026)", *Explore* 22(3), May-June 2026 [IC]. PubMed lists two records under that title, and which is the article of record is unchecked [TBV]. The letter was coded from one excerpt [TBV].
+
+The wiki takes from it the published reply to the newest supporting paper on T2 [TBV].
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T2.
+
+## Cited by
+
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://wiki.bioconomy.earth/sources/delgado-ron-2026-response-to-weiler-and-woollacott/",
+  "name": "Response to Weiler and Woollacott, 2025",
+  "author": {
+    "@type": "Person",
+    "name": "Jorge Andrés Delgado-Ron"
+  },
+  "datePublished": "2026",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Explore 22(3): 103387 (Elsevier)"
+  },
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41855616/",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "A letter in Explore replying to Weiler and Woollacott's 2025 paper on The Telepathy Tapes."
+  }
+}
+</script>

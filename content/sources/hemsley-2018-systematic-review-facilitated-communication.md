@@ -30,7 +30,7 @@ Bronwyn Hemsley, Lucy Bryant, Ralf W. Schlosser, Howard C. Shane, Russell Lang, 
 
 The review was carried out to inform the American Speech-Language-Hearing Association's 2018 update of its 1995 position statement on facilitated communication (FC) [IC]. It found no new studies of authorship in the period, and concludes that there is still no evidence that FC is a valid form of communication for people with severe communication disabilities [IC]. The SAGE journal page gives online publication on 30 December 2018 [IC]. The Royal College of Speech and Language Therapists and the Association for Science in Autism Treatment cite it together with Schlosser and colleagues (2014) [IC].
 
-Advocates of assisted typing contest these reviews. The Autistic Self Advocacy Network wrote to ASHA's ad hoc committee on 2 July 2018 objecting that self-advocates had not been consulted on the draft statements [IC]. Other published responses by autistic and disability-rights writers were not read for this record [TBV]. The record names no participant.
+Advocates of assisted typing contest these reviews. [[sources/asan-2018-letter-to-asha|The Autistic Self Advocacy Network wrote]] to ASHA's ad hoc committee on 2 July 2018 objecting that self-advocates had not been consulted on the draft statements [IC]. Other published responses by autistic and disability-rights writers were not read for this record [TBV]. The record names no participant.
 
 The wiki takes from it the current state of the authorship evidence beneath the nonspeakers material [TBV].
 

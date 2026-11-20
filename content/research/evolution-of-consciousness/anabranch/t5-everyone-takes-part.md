@@ -13,9 +13,9 @@ evidence_type: "Argument"
 status: "partial"
 crosswalk: "B1"
 crosswalk_also: ["B2"]
-note: "Grid step B1, individuals develop through stages, is the nearest coded claim. Taking part in a cosmic process is a stronger claim than developing through stages."
+note: "Grid step B1, individuals develop through stages, is the nearest coded claim. Taking part in a cosmic process is a stronger claim than developing through stages. Berry (1988) and Swimme and Tucker (2011) affirm the step, both read from summaries, and Briggs and Sahtouris qualify it. Montessori's Cosmic Education (1948) and the Big History Project (2011) qualify the claim that we have never been taught this, since each teaches a cosmic story in schools; Conrad (2019) finds the Big History curriculum Eurocentric. Dundes (2005) and Segal (1991) dissent, against Campbell's claim of a hero story shared by every culture. Campbell's own book is not yet coded."
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 source_documents: ["Michael Haupt, Anabranch thesis (19 November 2026)"]
 epistemic_status: "working-hypothesis"
@@ -31,7 +31,7 @@ Evidence type: Argument
 
 Partly coded: a grid step covers part of the claim.
 
-Grid step B1, individuals develop through stages, is the nearest coded claim. Taking part in a cosmic process is a stronger claim than developing through stages.
+Grid step B1, individuals develop through stages, is the nearest coded claim. Taking part in a cosmic process is a stronger claim than developing through stages. Berry (1988) and Swimme and Tucker (2011) affirm the step, both read from summaries, and Briggs and Sahtouris qualify it. Montessori's Cosmic Education (1948) and the Big History Project (2011) qualify the claim that we have never been taught this, since each teaches a cosmic story in schools; Conrad (2019) finds the Big History curriculum Eurocentric. Dundes (2005) and Segal (1991) dissent, against Campbell's claim of a hero story shared by every culture. Campbell's own book is not yet coded.
 
 ## Where the sources stand
 
@@ -49,4 +49,4 @@ The current positions, source by source, are on the [Anabranch site](https://ana
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Runs 3d and 3d2; the wording is unchanged.

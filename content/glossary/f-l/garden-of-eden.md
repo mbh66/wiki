@@ -43,13 +43,13 @@ None of these scholars reads the garden as a split in consciousness or as a grow
 
 - *Genesis* 2 and 3.
 - Barr, J. (1992). *The Garden of Eden and the Hope of Immortality*. The Read-Tuckwell Lectures for 1990. Fortress Press, Minneapolis; SCM Press, London. xiii + 146 pages. [[sources/barr-1992-garden-of-eden-hope-of-immortality|Source page]]
-- Trible, P. (1978). *God and the Rhetoric of Sexuality*. Overtures to Biblical Theology. Fortress Press, Philadelphia. Part 4, "A Love Story Gone Awry".
-- Meyers, C. (1988). *Discovering Eve: Ancient Israelite Women in Context*. Oxford University Press, New York. Revised as *Rediscovering Eve* (2013). [Oxford Academic](https://academic.oup.com/book/49680)
+- Trible, P. (1978). *God and the Rhetoric of Sexuality*. Overtures to Biblical Theology. Fortress Press, Philadelphia. Part 4, "A Love Story Gone Awry". [[sources/trible-1978-god-and-the-rhetoric-of-sexuality|Source page]]
+- Meyers, C. (1988). *Discovering Eve: Ancient Israelite Women in Context*. Oxford University Press, New York. Revised as *Rediscovering Eve* (2013). [Oxford Academic](https://academic.oup.com/book/49680); [[sources/meyers-2013-rediscovering-eve|source page for the 2013 book]]
 - Fretheim, T. E. (1994). "Is Genesis 3 a Fall Story?" *Word & World* 14(2), pp. 144-153. [Luther Seminary](https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/14-2_Genesis/Is%20Genesis%203%20a%20Fall%20Story.pdf); [[sources/fretheim-1994-is-genesis-3-a-fall-story|source page]]
 
 ## Provenance
 
-Written on 20 November 2026, after Anabranch Run 3b found no source on file for the Garden of Eden as the thesis reads it. The thesis's reading follows the Convergences page and `ground.md`, and keeps Michael's account as his. The Barr, Trible and Meyers entries were checked for this page against catalogue records, publisher descriptions and reviews; the books themselves weren't read. Anabranch Run 3c added source pages for Barr and for Fretheim's article, which was read to p. 150; Trible and Meyers have none yet. The page status is `working-hypothesis` because its subject is the thesis's reading.
+Written on 20 November 2026, after Anabranch Run 3b found no source on file for the Garden of Eden as the thesis reads it. The thesis's reading follows the Convergences page and `ground.md`, and keeps Michael's account as his. The Barr, Trible and Meyers entries were checked for this page against catalogue records, publisher descriptions and reviews; the books themselves weren't read. Anabranch Run 3c added source pages for Barr and for Fretheim's article, which was read to p. 150; Anabranch Runs 3d and 3d2 added source pages for Trible (1978) and for Meyers's *Rediscovering Eve* (2013), both coded from catalogues, previews and reviews. The page status is `working-hypothesis` because its subject is the thesis's reading.
 
 <script type="application/ld+json">
 {

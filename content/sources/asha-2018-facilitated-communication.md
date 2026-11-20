@@ -29,7 +29,7 @@ American Speech-Language-Hearing Association (2018). *Facilitated Communication 
 
 The American Speech-Language-Hearing Association (ASHA) holds that facilitated communication is "a discredited technique that should not be used" [IC]. The statement finds no scientific evidence that it gives access to communication or leads to independent communication [IC]. It lists harms: delay of effective help such as augmentative and alternative communication, denial of the person's own right to communicate, and costs in time and money that cannot be recovered [IC]. It updates ASHA's 1995 statement, was written by an ad hoc committee on facilitated communication and the Rapid Prompting Method, and was open to peer review by all interested parties [IC]. A companion statement, PS2018-00351, holds that the Rapid Prompting Method is not recommended, because of prompt dependency and a lack of scientific validity [IC].
 
-Other professional bodies have taken similar positions [IC]. The Autistic Self Advocacy Network wrote to the committee in July 2018, objecting that the self-advocate community most affected had not been consulted on the drafts [IC].
+Other professional bodies have taken similar positions [IC]. [[sources/asan-2018-letter-to-asha|The Autistic Self Advocacy Network wrote]] to the committee in July 2018, objecting that the self-advocate community most affected had not been consulted on the drafts [IC].
 
 The statement says nothing about telepathy. The wiki codes it as qualifying step T2: it holds that facilitated messages come from a known channel, the facilitator, which bears on the evidence the step draws on, and it makes no claim either way about telepathy. Anomalous experience research is recorded on the Anabranch layer, never adopted.
 

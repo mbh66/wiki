@@ -13,9 +13,9 @@ evidence_type: "Argument and tradition"
 status: "mapped"
 crosswalk: "C2"
 crosswalk_also: ["B3"]
-note: "Drawn from grid step C2, a new structure is emerging, with B3 for the direction itself."
+note: "Drawn from grid step C2, a new structure is emerging, with B3 for the direction itself. Eleven positions are still copied from C2. Of the sources coded directly, the Ra Material affirms the step, Briggs and Schmachtenberger qualify it, and Donald, Habermas and Ong are silent on it. Daoist scholarship reads the movement of the way as return and transformation with no end named, so Lau's translation of the Daodejing (1963) and Ziporyn's Zhuangzi (2009) qualify the step. Ruse (1996) traces belief in evolutionary progress to cultural ideas of Progress. Gould's Wonderful Life (1989) and Butterfield (1931) dissent, against a built-in direction in the history of life and in the writing of history. None of these five works speaks to wholeness as a trend. Eleven positions are still copied from C2. Of the sources coded directly, the Ra Material affirms the step, Briggs and Schmachtenberger qualify it, and Donald, Habermas and Ong are silent on it. Daoist scholarship reads the movement of the way as return and transformation with no end named, so Lau's translation of the Daodejing (1963) and Ziporyn's Zhuangzi (2009) qualify the step. Ruse (1996) traces belief in evolutionary progress to cultural ideas of Progress. Gould's Wonderful Life (1989) and Butterfield (1931) dissent, against a built-in direction in the history of life and in the writing of history. None of these five works speaks to wholeness as a trend."
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 source_documents: ["Michael Haupt, Anabranch thesis (19 November 2026)"]
 epistemic_status: "working-hypothesis"
@@ -31,7 +31,7 @@ Evidence type: Argument and tradition
 
 Coded: a grid step covers the claim closely.
 
-Drawn from grid step C2, a new structure is emerging, with B3 for the direction itself.
+Drawn from grid step C2, a new structure is emerging, with B3 for the direction itself. Eleven positions are still copied from C2. Of the sources coded directly, the Ra Material affirms the step, Briggs and Schmachtenberger qualify it, and Donald, Habermas and Ong are silent on it. Daoist scholarship reads the movement of the way as return and transformation with no end named, so Lau's translation of the Daodejing (1963) and Ziporyn's Zhuangzi (2009) qualify the step. Ruse (1996) traces belief in evolutionary progress to cultural ideas of Progress. Gould's Wonderful Life (1989) and Butterfield (1931) dissent, against a built-in direction in the history of life and in the writing of history. None of these five works speaks to wholeness as a trend.
 
 ## Where the sources stand
 
@@ -49,4 +49,4 @@ The current positions, source by source, are on the [Anabranch site](https://ana
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the note was revised after Anabranch Runs 3d and 3d2; the wording is unchanged.

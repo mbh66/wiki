@@ -14,7 +14,7 @@ evidence_type: "Dated record and argument. The S-curve reading is Michael Haupt'
 status: "partial"
 crosswalk: "A3"
 crosswalk_also: ["C1"]
-note: "Drawn from grid step A3, the structure of awareness changed, with C1, earlier structures stay present, for the Golden Thread. Modis (2002) and Smil (2019) fit logistic curves to complexity and to empires. No source read in its text, Briggs's Emerging World (2021) included, ties the steep part of a civilisational S-curve to Material Consciousness; that link is Michael Haupt's synthesis [MS]."
+note: "Drawn from grid step A3, the structure of awareness changed, with C1, earlier structures stay present, for the Golden Thread. Twenty sources are coded directly, three of them silent, and thirteen positions are still copied from A3. On the split, part (a), Eisler (1987), Taylor (2005) and Quinn's The Story of B (1996) argue for a break some thousands of years ago, and Trible (1978) reads Eden as a love story gone awry. Eller (2000) disputes the lost partnership age behind such readings, and Barr (1992), Fretheim (1994) and Meyers (2013) read Genesis 2 and 3 without a split in consciousness. On part (b), Wilson (2008), Odora Hoppers (2002) and Deloria (1995) speak of the standing of Indigenous knowledge in their own terms, beside South Africa's Indigenous Knowledge Systems policy (2004). On part (c), Modis (2002) and Smil (2019) fit logistic curves to complexity and to empires. No source read in its text, Briggs's Emerging World (2021) included, ties the steep part of a civilisational S-curve to Material Consciousness; that link is Michael Haupt's synthesis [MS]."
 created: 2026-11-19
 updated: 2026-11-20
 source_project: "BioConomy"
@@ -32,7 +32,7 @@ Evidence type: Dated record and argument. The S-curve reading is Michael Haupt's
 
 Partly coded: a grid step covers part of the claim.
 
-Drawn from grid step A3, the structure of awareness changed, with C1, earlier structures stay present, for the Golden Thread. Modis (2002) and Smil (2019) fit logistic curves to complexity and to empires. No source read in its text, Briggs's Emerging World (2021) included, ties the steep part of a civilisational S-curve to Material Consciousness; that link is Michael Haupt's synthesis [MS].
+Drawn from grid step A3, the structure of awareness changed, with C1, earlier structures stay present, for the Golden Thread. Twenty sources are coded directly, three of them silent, and thirteen positions are still copied from A3. On the split, part (a), Eisler (1987), Taylor (2005) and Quinn's The Story of B (1996) argue for a break some thousands of years ago, and Trible (1978) reads Eden as a love story gone awry. Eller (2000) disputes the lost partnership age behind such readings, and Barr (1992), Fretheim (1994) and Meyers (2013) read Genesis 2 and 3 without a split in consciousness. On part (b), Wilson (2008), Odora Hoppers (2002) and Deloria (1995) speak of the standing of Indigenous knowledge in their own terms, beside South Africa's Indigenous Knowledge Systems policy (2004). On part (c), Modis (2002) and Smil (2019) fit logistic curves to complexity and to empires. No source read in its text, Briggs's Emerging World (2021) included, ties the steep part of a civilisational S-curve to Material Consciousness; that link is Michael Haupt's synthesis [MS].
 
 ## Where the sources stand
 
@@ -50,4 +50,4 @@ The current positions, source by source, are on the [Anabranch site](https://ana
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Runs 3d and 3d2; the wording is unchanged.

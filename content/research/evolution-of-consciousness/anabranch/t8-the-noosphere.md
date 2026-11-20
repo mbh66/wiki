@@ -13,7 +13,7 @@ evidence_type: "Argument and tradition"
 status: "partial"
 crosswalk: "C3"
 crosswalk_also: ["C4"]
-note: "Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic, and Smil warns against placing a system on its curve from past fits; no source places the Noosphere at a point on the curve."
+note: "Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic, and Smil warns against placing a system on its curve from past fits; no source places the Noosphere at a point on the curve. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it."
 created: 2026-11-19
 updated: 2026-11-20
 source_project: "BioConomy"
@@ -31,7 +31,7 @@ Evidence type: Argument and tradition
 
 Partly coded: a grid step covers part of the claim.
 
-Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic, and Smil warns against placing a system on its curve from past fits; no source places the Noosphere at a point on the curve.
+Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic, and Smil warns against placing a system on its curve from past fits; no source places the Noosphere at a point on the curve. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it.
 
 ## Where the sources stand
 
@@ -49,4 +49,4 @@ The current positions, source by source, are on the [Anabranch site](https://ana
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged.

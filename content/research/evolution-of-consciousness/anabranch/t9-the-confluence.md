@@ -12,7 +12,7 @@ connector: "pointing towards"
 claim: "Now the two streams are flowing back together, towards place-based wholeness. Bioregionalism is how that looks on the ground."
 evidence_type: "Theory on evidence (E3), with national policy (E2)"
 status: "partial"
-note: "No grid step tests this. Sources are coded on it directly: work on Two-Eyed Seeing and on bioregionalism, with their critics. It is also the position the BioConomy network writes from."
+note: "No grid step tests this. Sources are coded on it directly: work on Two-Eyed Seeing and on bioregionalism, with their critics. It is also the position the BioConomy network writes from. The count is 5 affirms, 5 qualifies and 4 dissents. Odora Hoppers (2002) is the newest affirm: the volume she edited argues for joining indigenous knowledge systems with the sciences through what it calls articulation. The count is 5 affirms, 5 qualifies and 4 dissents. Odora Hoppers (2002) is the newest affirm: the volume she edited argues for joining indigenous knowledge systems with the sciences through what it calls articulation."
 created: 2026-11-19
 updated: 2026-11-20
 source_project: "BioConomy"
@@ -30,7 +30,7 @@ Evidence type: Theory on evidence (E3), with national policy (E2)
 
 Partly coded: no grid step tests this claim, so sources are coded on it directly, each against the wording above.
 
-No grid step tests this. Sources are coded on it directly: work on Two-Eyed Seeing and on bioregionalism, with their critics. It is also the position the BioConomy network writes from.
+No grid step tests this. Sources are coded on it directly: work on Two-Eyed Seeing and on bioregionalism, with their critics. It is also the position the BioConomy network writes from. The count is 5 affirms, 5 qualifies and 4 dissents. Odora Hoppers (2002) is the newest affirm: the volume she edited argues for joining indigenous knowledge systems with the sciences through what it calls articulation.
 
 ## Where the sources stand
 
@@ -43,4 +43,4 @@ The positions, source by source, are on the [Anabranch site](https://anabranch.b
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the status, evidence type and note were revised after a research run coded sources on this step directly; the wording is unchanged.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the status, evidence type and note were revised after a research run coded sources on this step directly; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Runs 3d and 3d2; the wording is unchanged.

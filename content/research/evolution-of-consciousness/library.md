@@ -1,6 +1,6 @@
 ---
 title: The Graded Consciousness Library
-description: A graded library of 114 works on whether human consciousness has a history, each coded by tier, evidence type and the claims it speaks to, with coverage tests and the gaps that remain.
+description: A graded library of 116 works on whether human consciousness has a history, each coded by tier, evidence type and the claims it speaks to, with coverage tests and the gaps that remain.
 aliases:
   - evolution of consciousness library
   - consciousness evolution reading list
@@ -20,7 +20,7 @@ source_documents:
 epistemic_status: stub
 ---
 
-This library holds 114 books, papers, talks and declarations on whether human consciousness has a history; its firmest ground is the dated record and the science of animal minds, and every part of the argument now has critics on file.
+This library holds 116 books, papers, talks and declarations on whether human consciousness has a history; its firmest ground is the dated record and the science of animal minds, and every part of the argument now has critics on file.
 
 ## Overview
 
@@ -42,7 +42,7 @@ Each work has its own page in the [[sources/index|sources]] register, and the ta
 | -------- | ---------------------------------------------------------------------------------------- | ----- |
 | canon    | Sets out a sequence or a structure of consciousness that subsequent research builds upon | 37    |
 | evidence | Supplies data a claim rests on                                                           | 22    |
-| critic   | Disputes a sequence, a step or a source                                                  | 18    |
+| critic   | Disputes a sequence, a step or a source                                                  | 20    |
 | practice | Applies the ideas                                                                        | 6     |
 | context  | Frames the field                                                                         | 31    |
 
@@ -52,7 +52,7 @@ Each work has its own page in the [[sources/index|sources]] register, and the ta
 |---|---|---|
 | E1 | Measured study, with replication | 4 |
 | E2 | Dated record (fossil, archaeological or documentary) | 2 |
-| E3 | Theory built on reviewed evidence | 39 |
+| E3 | Theory built on reviewed evidence | 41 |
 | E4 | Synthesis, framework or speculation | 61 |
 | E5 | Tradition or testimony | 8 |
 
@@ -104,9 +104,9 @@ The library was checked against five tests.
 2. **Every discipline covered.** At least three works per discipline. Met, except African philosophy of personhood, which has two (Ramose and Menkiti).
 3. **Africa.** The dated record includes Blombos Cave, where Henshilwood and colleagues (2018) report a 73,000-year-old drawing on silcrete [IC], and the Rising Star cave system, where the claim that *Homo naledi* buried its dead (Berger and colleagues, 2025) remains disputed: one eLife reviewer found it convincingly shown, and another judged the evidence incomplete [IC]. Pinnacle Point and Wonderwerk Cave are still to be added.
 4. **Indigenous knowledge in its own voice.** Tyson Yunkaporta, Gregory Cajete, Robin Wall Kimmerer and the South African San Council's *San Code of Research Ethics* (2017). Vine Deloria Jr. and San scholars' own publications are still to be added.
-5. **Who wrote the works.** Counted from author lists, as an inference: 13 of the 114 works have at least one woman author (11%), and 10 have at least one author based outside Europe and North America (9%). The eight critics added for C1 and C4 include no woman author and one author outside Europe and North America (Corballis, in New Zealand). For the 49 works from Michael's reading, the figures are 4 (8%) and 1 (2%).
+5. **Who wrote the works.** Counted from author lists, as an inference: 13 of the 116 works have at least one woman author (11%), and 10 have at least one author based outside Europe and North America (9%). The eight critics added for C1 and C4 include no woman author and one author outside Europe and North America (Corballis, in New Zealand). For the 49 works from Michael's reading, the figures are 4 (8%) and 1 (2%).
 
-Also thin: critics of measured adult stages; a direct test of the strong form of C1; any peer-reviewed critique of the metacrisis framing; the validation studies for adult-development instruments; Thaddeus Metz on Ubuntu; and Piaget, Francis Heylighen and Patricia Churchland. The library holds 114 works against a target of 120 to 200.
+Also thin: critics of measured adult stages; a direct test of the strong form of C1; any peer-reviewed critique of the metacrisis framing; the validation studies for adult-development instruments; Thaddeus Metz on Ubuntu; and Piaget, Francis Heylighen and Patricia Churchland. The library holds 116 works against a target of 120 to 200.
 
 ## What comes next
 
@@ -124,7 +124,7 @@ A second research run tested the claims these works make, step by step, in the [
 
 ## Sources
 
-Each of the 114 works has a page in the [[sources/index|sources]] register, listed in the tables above and in the [spreadsheet](/research/evolution-of-consciousness/library.csv). The works cited in the text:
+Each of the 116 works has a page in the [[sources/index|sources]] register, listed in the tables above and in the [spreadsheet](/research/evolution-of-consciousness/library.csv). The works cited in the text:
 
 - [[sources/medawar-1961-review-phenomenon-of-man|Medawar, P. B. (1961). Review of *The Phenomenon of Man*. *Mind* 70(277), 99-105]]
 - [[sources/block-1981-review-of-jaynes|Block, N. (1981). Review of *The Origin of Consciousness in the Breakdown of the Bicameral Mind*. *Cognition and Brain Theory* 4(1), 81-83]]
@@ -154,3 +154,5 @@ Updated 19 November 2026: eight critics were added for C1 and C4 under the stand
 Updated 20 November 2026, from Run 3b on the Anabranch thesis: three works that also speak to grid claims were added to the library (Keith Augustine and Michael Martin, *The Myth of an Afterlife*, a critic on H; Thomas Nagel, *Mind and Cosmos*, canon on B3 and H; Andrey Korotayev on the twenty-first-century singularity, evidence on B3). None entered the grid. Their main coding is on the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] layer.
 
 Updated 20 November 2026, from Run 3c on the Anabranch thesis: two works that also speak to H were added to the library (William James, *Human Immortality*, and Bernardo Kastrup, *The Idea of the World*, both canon on H). Neither entered the grid. Their main coding is on the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] layer, on the filter claim of T3.
+
+Updated 20 November 2026, from Runs 3d and 3d2 on the Anabranch thesis: two works that also speak to B3 were added to the library (Stephen Jay Gould, *Wonderful Life*, a critic disputing B3; Michael Ruse, *Monad to Man*, a critic qualifying B3). Neither entered the grid. Their main coding is on the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] layer, as arguments against a direction on T6.

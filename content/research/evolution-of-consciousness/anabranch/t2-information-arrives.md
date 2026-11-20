@@ -11,7 +11,7 @@ connector: "and"
 claim: "Information arrives in ways that [[glossary/m-s/material-consciousness|Material Consciousness]] cannot explain."
 evidence_type: "Measured studies (E1), contested by failed replications and critiques, with testimony (E5)"
 status: "mapped"
-note: "No grid step tests this. Sources are coded on it directly: the experimental record, the cardiac arrest studies and testimony, with their critics."
+note: "No grid step tests this. Sources are coded on it directly: the experimental record, the cardiac arrest studies and testimony, with their critics. Critics outnumber supporters, fourteen to seven. Hyman (2010) and Rouder and colleagues (2013) answer the ganzfeld meta-analysis. Weiler and Woollacott (2025) call for controlled tests of the claims in The Telepathy Tapes, and Delgado-Ron (2026) replies. Beals, Boynton, Hupp and Vyse answer the podcast in Skeptical Inquirer 50(5), and the Association for Science in Autism Treatment rejects its claims. Danny Whitty, a nonspeaking writer, trusts peers who report telepathy and objects that the podcast harms access to spelling."
 created: 2026-11-19
 updated: 2026-11-20
 source_project: "BioConomy"
@@ -29,7 +29,7 @@ Evidence type: Measured studies (E1), contested by failed replications and criti
 
 Coded: no grid step tests this claim, so sources are coded on it directly, each against the wording above.
 
-No grid step tests this. Sources are coded on it directly: the experimental record, the cardiac arrest studies and testimony, with their critics.
+No grid step tests this. Sources are coded on it directly: the experimental record, the cardiac arrest studies and testimony, with their critics. Critics outnumber supporters, fourteen to seven. Hyman (2010) and Rouder and colleagues (2013) answer the ganzfeld meta-analysis. Weiler and Woollacott (2025) call for controlled tests of the claims in The Telepathy Tapes, and Delgado-Ron (2026) replies. Beals, Boynton, Hupp and Vyse answer the podcast in Skeptical Inquirer 50(5), and the Association for Science in Autism Treatment rejects its claims. Danny Whitty, a nonspeaking writer, trusts peers who report telepathy and objects that the podcast harms access to spelling.
 
 ## Where the sources stand
 
@@ -43,4 +43,4 @@ The positions, source by source, are on the [Anabranch site](https://anabranch.b
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the status, evidence type and note were revised after a research run coded sources on this step directly; the wording is unchanged.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the status, evidence type and note were revised after a research run coded sources on this step directly; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Runs 3d and 3d2; the wording is unchanged.

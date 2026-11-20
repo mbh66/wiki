@@ -12,7 +12,7 @@ claim: "The human brain filters consciousness from the field and does not produc
 evidence_type: "Theory. The three Es are Michael Haupt's synthesis [MS]."
 status: "partial"
 crosswalk: "H"
-note: "Grid step H covers the claim that brains do not produce consciousness. Filter theory itself has few direct codes: REBUS, McGilchrist (2021) and James's Varieties qualify it, read from summaries, and Augustine and Martin (2015) dissent. James's Human Immortality (1898), Bergson, Myers, Huxley and Kastrup are not yet coded."
+note: "Grid step H covers the claim that brains do not produce consciousness. James's Human Immortality (1898), Bergson's Matter and Memory (1896) and Myers's Human Personality (1903) are the primary filter texts, Huxley's reducing valve (1954) is its best-known modern statement, and Kelly and colleagues (2007) defend the filter model. Kastrup (2019), REBUS, McGilchrist (2021), James's Varieties and Webb (2023) qualify it; Webb questions how Huxley built the valve from Bergson and Broad. Augustine and Martin (2015), Churchland (2013), Lamont (1935), Paul Edwards's Immortality (1992), Lewis-Williams, Seth, Deacon and Chalmers hold that brains give rise to consciousness. No critic found so far presses the point that the founders of filter theory gave analogies and no mechanism. Ten positions are still copied from H."
 created: 2026-11-19
 updated: 2026-11-20
 source_project: "BioConomy"
@@ -30,7 +30,7 @@ Evidence type: Theory. The three Es are Michael Haupt's synthesis [MS].
 
 Partly coded: a grid step covers part of the claim.
 
-Grid step H covers the claim that brains do not produce consciousness. Filter theory itself has few direct codes: REBUS, McGilchrist (2021) and James's Varieties qualify it, read from summaries, and Augustine and Martin (2015) dissent. James's Human Immortality (1898), Bergson, Myers, Huxley and Kastrup are not yet coded.
+Grid step H covers the claim that brains do not produce consciousness. James's Human Immortality (1898), Bergson's Matter and Memory (1896) and Myers's Human Personality (1903) are the primary filter texts, Huxley's reducing valve (1954) is its best-known modern statement, and Kelly and colleagues (2007) defend the filter model. Kastrup (2019), REBUS, McGilchrist (2021), James's Varieties and Webb (2023) qualify it; Webb questions how Huxley built the valve from Bergson and Broad. Augustine and Martin (2015), Churchland (2013), Lamont (1935), Paul Edwards's Immortality (1992), Lewis-Williams, Seth, Deacon and Chalmers hold that brains give rise to consciousness. No critic found so far presses the point that the founders of filter theory gave analogies and no mechanism. Ten positions are still copied from H.
 
 ## Where the sources stand
 
@@ -46,4 +46,4 @@ The current positions, source by source, are on the [Anabranch site](https://ana
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Runs 3d and 3d2; the wording is unchanged.
