@@ -16,10 +16,15 @@ standing: "A standard critique of bioregionalism [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T9"]
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Weighs bioregionalism as science or sensibility, and does not take up anomalous information."
+anabranch_t2_cite: "Bioregionalism (1990), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t9: "dissents"
 anabranch_t9_says: "Argues that bioregional writing mystifies the region and leans toward a 'nature knows best' view."
 anabranch_t9_cite: "Environmental Ethics 12(2), abstract"
@@ -35,11 +40,12 @@ The paper is a standard critique in debates on bioregionalism [IC]. Alexander re
 
 The wiki records the paper as a dissent on step T9. It questions the claim that bioregionalism shows how a joining of knowledges looks on the ground, because it doubts that the bioregion itself is a natural given (inference).
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents from T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

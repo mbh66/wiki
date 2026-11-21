@@ -21,15 +21,15 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "3. Cognitive archaeology and the history of mind"
 grid_steps: ["A1", "A2", "B1"]
 grid_a1: "qualifies"
 grid_a1_says: "Argues that understanding others as intentional agents, a uniquely human adaptation, separates human cognition from that of other apes."
-grid_a1_cite: "The Cultural Origins of Human Cognition (1999), ch. 1 'A Puzzle and a Hypothesis' and ch. 2 'Biological and Cultural Inheritance'"
-grid_a1_grade: "[TBV]"
-grid_a1_basis: "summary"
+grid_a1_cite: "The Cultural Origins of Human Cognition (1999), ch. 1 'A Puzzle and a Hypothesis' (p. 6, as cited in Spinuzzi's reading notes) and ch. 2 'Biological and Cultural Inheritance'; chapter titles not confirmed"
+grid_a1_grade: "[IC]"
+grid_a1_basis: "review"
 grid_a2: "affirms"
 grid_a2_says: "Explains cumulative culture through a ratchet effect working over historical time."
 grid_a2_cite: "The Cultural Origins of Human Cognition (1999), ch. 2"
@@ -37,15 +37,15 @@ grid_a2_grade: "[IC]"
 grid_a2_basis: "review"
 grid_b1: "qualifies"
 grid_b1_says: "Traces how children acquire cultural cognition through joint attention in the early years."
-grid_b1_cite: "The Cultural Origins of Human Cognition (1999), ch. 3 'Joint Attention and Cultural Learning' and ch. 4 'Linguistic Communication and Symbolic Representation'"
-grid_b1_grade: "[TBV]"
-grid_b1_basis: "summary"
+grid_b1_cite: "The Cultural Origins of Human Cognition (1999), ch. 3 'Joint Attention and Cultural Learning' and ch. 4 'Linguistic Communication and Symbolic Representation'; p. 91 for the shift at about nine months, as cited in Spinuzzi's reading notes (chapter of p. 91 not confirmed)"
+grid_b1_grade: "[IC]"
+grid_b1_basis: "review"
 anabranch_steps: ["T5"]
 anabranch_t5: "silent"
 anabranch_t5_says: "Traces how children acquire cultural cognition through joint attention, and makes no claim about each person taking part in a cosmic evolution."
 anabranch_t5_cite: "The Cultural Origins of Human Cognition (1999), chapter not checked"
 anabranch_t5_grade: "[TBV]"
-anabranch_t5_basis: "summary"
+anabranch_t5_basis: "review"
 ---
 
 Michael Tomasello (1999). *The Cultural Origins of Human Cognition*. Harvard University Press.

@@ -15,10 +15,15 @@ standing: "Welcomed by H-Net Reviews and the publisher's cited reviewers, and ch
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Reconstructs the lives of ancient Israelite women, and does not take up anomalous information."
+anabranch_t2_cite: "Rediscovering Eve (2013), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "dissents"
 anabranch_t7_says: "Rejects, on part (a), reading Genesis 2-3 as a Fall; reads it as explaining the toil and childbearing of Iron Age farm life."
 anabranch_t7_cite: "Rediscovering Eve (2013), ch. 4 'Eve in Eden: Genesis 2-3' and ch. 5 'Eve out of Eden: Genesis 3:16', titles from the catalogue contents and Weiss (2013); not read"
@@ -34,12 +39,13 @@ The H-Net review praises her joint command of the Bible and archaeology [TBV]. A
 
 The wiki takes from it a feminist and archaeological reading of Eden, in Meyers's own terms [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T7.
 
 ## Cited by
 
 - [[glossary/f-l/garden-of-eden|Garden of Eden]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

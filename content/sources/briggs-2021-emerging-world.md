@@ -13,22 +13,23 @@ briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"
 tier: "canon"
 discipline: "history of ideas"
 design: "E4"
-claims: ["A2", "A3", "B3", "C2", "H"]
+claims: ["A2", "A3", "B3", "C2", "H", "H2"]
 claim_a2: true
 claim_a3: true
 claim_b3: true
 claim_c2: true
 claim_h: true
-stance: ["A2:a", "A3:a", "B3:a", "C2:a", "H:q"]
+claim_h2: true
+stance: ["A2:a", "A3:a", "B3:a", "C2:a", "H:q", "H2:a"]
 finding: "Traces a sequence of cultural mindsets from the start of civilisation and argues that a planetary consciousness is now emerging."
 standing: "Trade book; no academic reviews found [TBV]"
 on_seed_list: "yes"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "7. Metacrisis and the mycelial turn"
-grid_steps: ["A2", "A3", "B3", "C2", "H"]
+grid_steps: ["A2", "A3", "B3", "C2", "H", "H2"]
 grid_a2: "affirms"
 grid_a2_says: "Builds its stages on Gebser, Donald and Young, with the archaeological record of the Homo lineage over three million years."
 grid_a2_cite: "Emerging World (2021), ch. 5, pp. 159-160"
@@ -54,6 +55,11 @@ grid_h_says: "Treats consciousness as an embodied ensemble of brain, heart and b
 grid_h_cite: "Emerging World (2021), ch. 2, pp. 80-81, 86-87; ch. 6, pp. 198-199"
 grid_h_grade: "[TBV]"
 grid_h_basis: "text"
+grid_h2: "affirms"
+grid_h2_says: "Holds that intuition brings non-local knowledge past senses and memory, and that the heart registers future events, citing Bem's meta-analysis."
+grid_h2_cite: "Emerging World (2021), ch. 6, pp. 197, 220"
+grid_h2_grade: "[TBV]"
+grid_h2_basis: "text"
 anabranch_steps: ["T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8"]
 anabranch_t1: "qualifies"
 anabranch_t1_says: "Poses the after-death question and reports traditions that hold awareness survives the body, leaving it conditional; science, he says, cannot verify them."
@@ -103,13 +109,13 @@ Roger Briggs, a physicist turned deep-time historian, picks up where his *Journe
 
 The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in history of ideas, with evidence type E4 and claim codes A2, A3, B3, C2, H.
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in history of ideas, with evidence type E4 and claim codes A2, A3, B3, C2, H, H2.
 
 
 
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it affirms T2; it qualifies T3; it qualifies T4; it qualifies T5; it qualifies T6; it qualifies T7; it qualifies T8.
 
-The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2, A3, B3 and C2; it qualifies H.
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2, A3, B3, C2 and H2; it qualifies H.
 
 ## Cited by
 

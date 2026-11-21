@@ -14,7 +14,7 @@ depends_on_h: "read-differently"
 affirms_count: 9
 qualifies_count: 6
 dissents_count: 2
-silent_count: 38
+silent_count: 69
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Run 2 reworded the step as a claim some sources make, and set the cognitive-capa
 
 ## Where the grid sources stand
 
-Of the 55 grid sources, 9 affirm this step, 6 qualify it and 2 dissent. The other 38 are silent on it.
+Of the 86 grid sources, 9 affirm this step, 6 qualify it and 2 dissent. The other 69 are silent on it.
 
 ### Affirms
 

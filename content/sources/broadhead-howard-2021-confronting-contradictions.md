@@ -16,10 +16,15 @@ standing: "Reception not checked by this run [TBV]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T9"]
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Criticises tensions between Western and Indigenous science in Two-Eyed Seeing, and does not take up anomalous information."
+anabranch_t2_cite: "Confronting the Contradictions between Western and Indigenous Science (2021), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t9: "dissents"
 anabranch_t9_says: "Argues that some Indigenous and Eurocentric approaches contradict each other and cannot be combined."
 anabranch_t9_cite: "AlterNative 17(1), abstract"
@@ -35,11 +40,12 @@ This run did not check how the paper has been received [TBV]. The authors write 
 
 The wiki records the paper as a dissent on step T9: it questions whether the two ways of knowing can be joined where they contradict each other.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents from T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

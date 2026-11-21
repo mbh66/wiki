@@ -28,7 +28,7 @@ const RESEARCH = join(WIKI, "research", "evolution-of-consciousness")
 const THESIS = join(RESEARCH, "anabranch")
 const GRID_BRIEF = "evolution-of-consciousness-grid"
 const ANABRANCH_BRIEF = "anabranch"
-const CODES = ["A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3", "C4", "H"]
+const CODES = ["A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3", "C4", "H", "H2"]
 const POSITIONS = ["affirms", "qualifies", "dissents", "silent"]
 
 const warnings = []

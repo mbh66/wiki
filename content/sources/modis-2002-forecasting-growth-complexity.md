@@ -16,10 +16,15 @@ standing: "Updated by Modis in 2020; Korotayev and others read similar series as
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "12. Growth curves and limits"
-anabranch_steps: ["T7", "T8"]
+anabranch_steps: ["T2", "T7", "T8"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Forecasts complexity with logistic curves, and does not take up anomalous information."
+anabranch_t2_cite: "Forecasting the Growth of Complexity and Change (2002), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Fits a logistic curve to complexity across history and makes no link to a split in consciousness."
 anabranch_t7_cite: "Technological Forecasting and Social Change 69(4) (2002), 377-404, abstract"
@@ -40,12 +45,13 @@ Modis revisited the forecast in 2020, in *The 21st Century Singularity and Globa
 
 The wiki takes from it the closest published fit of a logistic curve to the long history of complexity, which the paper does not tie to any change in consciousness [IC].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7; it qualifies T8.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7; it qualifies T8.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

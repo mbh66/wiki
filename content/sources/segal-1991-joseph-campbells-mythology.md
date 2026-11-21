@@ -14,10 +14,15 @@ standing: "Cited by later critics of the monomyth, including a 2024 critical exa
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
-anabranch_steps: ["T5"]
+anabranch_steps: ["T2", "T5"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Criticises Campbell's theory of myth, and does not take up anomalous information."
+anabranch_t2_cite: "Joseph Campbell's Mythology (1991), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t5: "dissents"
 anabranch_t5_says: "Rejects Campbell's claim of one pattern shared by all hero myths, as disregarding differences and believers."
 anabranch_t5_cite: "Southern Humanities Review 25(3) (1991): 267-275"
@@ -33,11 +38,12 @@ Later critics of the monomyth cite Segal beside [[sources/dundes-2005-folklorist
 
 The wiki takes from it a second scholar of religion who disputes the universal pattern that T5 draws on through Campbell [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T5.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T5.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

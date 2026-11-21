@@ -14,7 +14,7 @@ depends_on_h: "read-differently"
 affirms_count: 10
 qualifies_count: 6
 dissents_count: 6
-silent_count: 33
+silent_count: 64
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Run 2 split the step into its two halves, which rest on different kinds of evide
 
 ## Where the grid sources stand
 
-Of the 55 grid sources, 10 affirm this step, 6 qualify it and 6 dissent. The other 33 are silent on it.
+Of the 86 grid sources, 10 affirm this step, 6 qualify it and 6 dissent. The other 64 are silent on it.
 
 ### Affirms
 

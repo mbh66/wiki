@@ -16,10 +16,15 @@ standing: "Reception not checked by this run [TBV]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T9"]
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Proposes Two-Eyed Seeing for fisheries research and management, and does not take up anomalous information."
+anabranch_t2_cite: "\"Two-Eyed Seeing\" (2021), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t9: "affirms"
 anabranch_t9_says: "Argues that Indigenous and Western knowledges should guide fisheries together, without assimilating one into the other."
 anabranch_t9_cite: "Fish and Fisheries 22(2), abstract"
@@ -35,11 +40,12 @@ This run did not check how the paper has been received [TBV]. Fisheries tie the 
 
 The wiki records the paper in its own terms on step T9, as an argument for joining two ways of knowing in the management of particular waters, each kept whole.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

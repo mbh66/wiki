@@ -6,18 +6,29 @@ year: 2024
 type: "website"
 publisher: "The Telepathy Tapes (audio podcast)"
 url: "https://thetelepathytapes.com"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "evidence"
+discipline: "podcast journalism"
 design: "E5"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:a"]
 finding: "Presents filmed demonstrations and testimony offered as evidence that some nonspeaking autistic people receive information by telepathy."
 standing: "Widely heard; rejected by professional bodies and sceptics because its methods depend on a facilitator [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "10. Anomalous experience research"
+grid_group: "10. Anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "affirms"
+grid_h2_says: "Presents demonstrations offered as evidence that some nonspeaking autistic people receive information telepathically."
+grid_h2_cite: "The Telepathy Tapes, season 1 (September to December 2024)"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "review"
 anabranch_steps: ["T2"]
 anabranch_t2: "affirms"
 anabranch_t2_says: "Presents demonstrations offered as evidence that some nonspeaking autistic people receive information telepathically."
@@ -34,10 +45,16 @@ The podcast reached a very wide audience [IC]. Professional bodies, among them t
 
 The wiki records the podcast as testimony on step T2, beside the published responses to it. Anomalous experience research is recorded on the Anabranch layer, never adopted.
 
+The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in podcast journalism, with evidence type E5 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

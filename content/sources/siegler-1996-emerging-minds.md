@@ -20,7 +20,7 @@ standing: "A leading account of cognitive change in developmental psychology, ex
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["B1", "C1"]
@@ -37,9 +37,9 @@ grid_c1_basis: "text"
 anabranch_steps: ["T5"]
 anabranch_t5: "silent"
 anabranch_t5_says: "Models change in children's thinking as overlapping waves of strategies, and makes no claim about each person taking part in a cosmic evolution."
-anabranch_t5_cite: "Emerging Minds (1996), chapter not checked"
+anabranch_t5_cite: "Emerging Minds (1996), ch. 4, overlapping waves model (Fig. 4.4, p. 89)"
 anabranch_t5_grade: "[TBV]"
-anabranch_t5_basis: "summary"
+anabranch_t5_basis: "review"
 ---
 
 Siegler, R. S. (1996). *Emerging Minds: The Process of Change in Children's Thinking*. Oxford University Press.

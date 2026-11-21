@@ -20,26 +20,26 @@ standing: "Disputed by Karst et al. 2023 [IC]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "7. Metacrisis and the mycelial turn"
 grid_steps: ["A1", "C3"]
 grid_a1: "qualifies"
 grid_a1_says: "Describes trees sensing and responding through fungal networks, in language of cooperation and kinship."
-grid_a1_cite: "Finding the Mother Tree (2021), later chapters"
-grid_a1_grade: "[TBV]"
-grid_a1_basis: "summary"
+grid_a1_cite: "Finding the Mother Tree (2021), pp. 224, 225 and 228 for the network similes, pages as cited by Som and Dobson; chapter and edition not confirmed"
+grid_a1_grade: "[IC]"
+grid_a1_basis: "review"
 grid_c3: "qualifies"
-grid_c3_says: "Offers the forest network as a model for human cooperation, mixing field results with metaphor."
+grid_c3_says: "Describes forest networks with field results and metaphors of kinship and mothering, drawing parallels to human families and society."
 grid_c3_cite: "Finding the Mother Tree (2021), Epilogue 'The Mother Tree Project'"
-grid_c3_grade: "[TBV]"
-grid_c3_basis: "summary"
+grid_c3_grade: "[IC]"
+grid_c3_basis: "review"
 anabranch_steps: ["T8"]
 anabranch_t8: "silent"
 anabranch_t8_says: "Offers the forest network as a model for human cooperation, and makes no claim about drawing on a Noosphere."
 anabranch_t8_cite: "Finding the Mother Tree (2021), chapter not checked"
 anabranch_t8_grade: "[TBV]"
-anabranch_t8_basis: "summary"
+anabranch_t8_basis: "review"
 ---
 
 Suzanne Simard (2021). *Finding the Mother Tree: Discovering the Wisdom of the Forest*. Alfred A. Knopf, New York. UK edition, Allen Lane.

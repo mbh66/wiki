@@ -14,20 +14,25 @@ standing: "Widely reviewed, in the Guardian, New Scientist and Physics World amo
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "12. Growth curves and limits"
-anabranch_steps: ["T7", "T8"]
+anabranch_steps: ["T2", "T7", "T8"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Surveys growth across nature and society, and does not take up anomalous information."
+anabranch_t2_cite: "Growth (2019), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Documents the rise and slowdown of empires and civilisations, and fits a logistic to Roman territory, without linking either to consciousness."
 anabranch_t7_cite: "Growth (2019), ch. 5, 'Populations, Societies, Economies', sections 'Empires' (p. 357) and 'Civilizations' (p. 436)"
 anabranch_t7_grade: "[TBV]"
-anabranch_t7_basis: "summary"
-anabranch_t8: "dissents"
-anabranch_t8_says: "Warns against forecasting a system's position on a logistic curve from how well past data fit it."
-anabranch_t8_cite: "Growth (2019), ch. 1, 'Trajectories: or common patterns of growth', section 'Confined Growth Patterns' (p. 31)"
-anabranch_t8_grade: "[TBV]"
-anabranch_t8_basis: "summary"
+anabranch_t7_basis: "review"
+anabranch_t8: "qualifies"
+anabranch_t8_says: "Holds that material growth must level off, and warns against forecasting from how well past data fit a logistic curve; says nothing of a Noosphere."
+anabranch_t8_cite: "Growth (2019), Preface, and ch. 1 'Trajectories: or common patterns of growth', section 'Confined Growth Patterns' (p. 31 not confirmed), with the final chapter on what follows growth (number and title not confirmed)"
+anabranch_t8_grade: "[IC]"
+anabranch_t8_basis: "review"
 ---
 
 Vaclav Smil (2019). *Growth: From Microorganisms to Megacities*. The MIT Press, Cambridge, MA. xxv + 634 pages. ISBN: 9780262042833.
@@ -38,12 +43,13 @@ Reviewers draw out his caution about models. Physics World reports his example o
 
 The wiki takes from it a careful user of logistic curves who doubts that a fit can show where a system now stands [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7; it dissents on T8.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7; it qualifies T8.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

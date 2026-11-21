@@ -15,10 +15,15 @@ standing: "Reviews divide: Kirkus Reviews and Publishers Weekly (both 1995) faul
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Defends oral traditions as records of the deep past against scientific chronology; the knowledge passes by tradition, so the claim is not taken up."
+anabranch_t2_cite: "Red Earth, White Lies (1995), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "review"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Holds, on part (b), that tribal oral traditions preserve accurate knowledge of the deep past, against scientific orthodoxy; silent on parts (a) and (c)."
 anabranch_t7_cite: "Red Earth, White Lies (1995), whole argument as summarised in the catalogue record and three reviews; chapters not read"
@@ -34,11 +39,12 @@ Reviewers divide [IC]. *Kirkus Reviews* found the case unconvincing, and judged 
 
 The wiki takes from it an Indigenous scholar's claim for the standing of his people's oral traditions, in his own terms [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

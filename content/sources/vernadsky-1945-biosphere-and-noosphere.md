@@ -14,10 +14,15 @@ standing: "The first English statement of Vernadsky's noosphere; historians stre
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
-anabranch_steps: ["T8"]
+anabranch_steps: ["T2", "T8"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Gives a biogeochemical account of the biosphere and the noosphere, and does not take up anomalous information."
+anabranch_t2_cite: "The Biosphere and the Noösphere (1945), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t8: "qualifies"
 anabranch_t8_says: "Holds that the biosphere is passing into a noosphere, a geological stage driven by scientific thought; names no growth curve or individual drawing on it."
 anabranch_t8_cite: "The Biosphere and the Noösphere, American Scientist 33(1) (January 1945): 1-12, p. 10, as cited in Oldfield and Shaw (2006)"
@@ -33,11 +38,12 @@ Historians of Russian environmental thought read his noosphere as the biosphere 
 
 The wiki takes from it the noosphere in its first, geochemical sense [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T8.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T8.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

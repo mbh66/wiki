@@ -13,10 +13,10 @@ evidence_main: "E3"
 depends_on_h: "n/a"
 affirms_count: 8
 qualifies_count: 4
-dissents_count: 8
-silent_count: 35
+dissents_count: 9
+silent_count: 65
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 source_documents: ["evolution-of-consciousness-2-grid-deep-research.md", "Deep research report: Evolution of Consciousness Grid, Run 2 (19 November 2026)"]
 epistemic_status: "working-hypothesis"
@@ -38,7 +38,7 @@ Unchanged. The grid maps the split and leaves it open.
 
 ## Where the grid sources stand
 
-Of the 55 grid sources, 8 affirm this step, 4 qualify it and 8 dissent. The other 35 are silent on it.
+Of the 86 grid sources, 8 affirm this step, 4 qualify it and 9 dissent. The other 65 are silent on it.
 
 ### Affirms
 
@@ -60,6 +60,7 @@ Of the 55 grid sources, 8 affirm this step, 4 qualify it and 8 dissent. The othe
 
 ### Dissents
 
+- [[sources/augustine-martin-2015-myth-of-an-afterlife|Keith Augustine; Michael Martin, The Myth of an Afterlife: The Case against Life After Death (2015)]]
 - [[sources/deacon-1997-the-symbolic-species|Terrence W. Deacon, The Symbolic Species (1997)]]
 - [[sources/dennett-1991-consciousness-explained|Daniel C. Dennett, Consciousness Explained (1991)]]
 - [[sources/feinberg-mallatt-2016-ancient-origins|Todd E. Feinberg, Jon M. Mallatt, The Ancient Origins of Consciousness (2016)]]
@@ -73,6 +74,7 @@ Of the 55 grid sources, 8 affirm this step, 4 qualify it and 8 dissent. The othe
 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - Previous step: [[research/evolution-of-consciousness/steps/c4-the-current-structure-resists-it|C4. The current leading structure resists it]]
+- Next step: [[research/evolution-of-consciousness/steps/h2-information-not-yet-explained|H2. Some information is not yet explained]]
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 
 ## Provenance

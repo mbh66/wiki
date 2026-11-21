@@ -22,7 +22,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "3. Cognitive archaeology and the history of mind"
 grid_steps: ["A2", "A3", "C1", "C2"]
@@ -38,9 +38,9 @@ grid_a3_grade: "[IC]"
 grid_a3_basis: "review"
 grid_c1: "affirms"
 grid_c1_says: "Describes residual orality persisting inside literate cultures."
-grid_c1_cite: "Orality and Literacy (1982), ch. 5"
+grid_c1_cite: "Orality and Literacy (1982), ch. 4, section 'Tenaciousness of orality', with ch. 5 'Print, space and closure'; page not confirmed"
 grid_c1_grade: "[TBV]"
-grid_c1_basis: "summary"
+grid_c1_basis: "abstract"
 grid_c2: "qualifies"
 grid_c2_says: "Names electronic media a secondary orality, a new mix of older and newer modes."
 grid_c2_cite: "Orality and Literacy (1982), ch. 5"
@@ -51,12 +51,12 @@ anabranch_t6: "silent"
 anabranch_t6_says: "Studies the shift from orality to literacy, with no claim about a direction of the universe."
 anabranch_t6_cite: "Orality and Literacy (1982), chapter not checked"
 anabranch_t6_grade: "[TBV]"
-anabranch_t6_basis: "summary"
+anabranch_t6_basis: "abstract"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Argues that writing restructures consciousness; speaks to part (a), the split, only."
-anabranch_t7_cite: "Orality and Literacy (1982), ch. 4"
-anabranch_t7_grade: "[TBV]"
-anabranch_t7_basis: "summary"
+anabranch_t7_cite: "Orality and Literacy (1982), ch. 4 'Writing restructures consciousness'"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "abstract"
 ---
 
 Walter J. Ong (1982). *Orality and Literacy*. Methuen.

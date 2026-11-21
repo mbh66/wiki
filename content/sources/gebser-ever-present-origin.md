@@ -10,25 +10,8 @@ subject: ["economics", "consciousness"]
 created: 2026-11-19
 updated: 2026-11-21
 source_project: "BioConomy"
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
-tier: "canon"
-discipline: "history of ideas"
-design: "E4"
-claims: ["A2", "A3", "B3", "C1", "C2", "C4", "H"]
-claim_a2: true
-claim_a3: true
-claim_b3: true
-claim_c1: true
-claim_c2: true
-claim_c4: true
-claim_h: true
-stance: ["A2:q", "A3:a", "B3:q", "C1:a", "C2:a", "C4:a", "H:q"]
-finding: "Archaic magic mythical mental and integral structures; each stays present"
-standing: "Central to integral studies [TBV]"
-on_seed_list: "yes"
-grade: "[IC]"
 grid_group: "6. Cultural and historical theorists"
-grid_steps: ["A2", "A3", "B3", "C1", "C2", "C4", "H"]
+grid_steps: ["A2", "A3", "B3", "C1", "C2", "C4", "H", "H2"]
 grid_a2: "qualifies"
 grid_a2_says: "Reads the structures from art, language and myth, with few archaeological dates."
 grid_a2_cite: "The Ever-Present Origin (1949 and 1953; English 1985), Part One"
@@ -64,12 +47,40 @@ grid_h_says: "Treats origin as an ever-present spiritual ground beyond all struc
 grid_h_cite: "The Ever-Present Origin, Part One"
 grid_h_grade: "[TBV]"
 grid_h_basis: "summary"
-anabranch_steps: ["T1", "T7"]
+grid_h2: "affirms"
+grid_h2_says: "Holds that telepathy and clairvoyance belong to a spaceless, timeless magic structure of consciousness, and treats telepathy as well documented."
+grid_h2_cite: "The Ever-Present Origin (1949), Part One, the magic structure, p. 55 (Ohio University Press, 1985), as cited by Mohrhoff (2008); chapter number not confirmed"
+grid_h2_grade: "[TBV]"
+grid_h2_basis: "review"
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "canon"
+discipline: "history of ideas"
+design: "E4"
+claims: ["A2", "A3", "B3", "C1", "C2", "C4", "H", "H2"]
+claim_a2: true
+claim_a3: true
+claim_b3: true
+claim_c1: true
+claim_c2: true
+claim_c4: true
+claim_h: true
+claim_h2: true
+stance: ["A2:q", "A3:a", "B3:q", "C1:a", "C2:a", "C4:a", "H:q", "H2:a"]
+finding: "Archaic magic mythical mental and integral structures; each stays present"
+standing: "Central to integral studies [TBV]"
+on_seed_list: "yes"
+grade: "[IC]"
+anabranch_steps: ["T1", "T2", "T7"]
 anabranch_t1: "silent"
 anabranch_t1_says: "Describes structures of consciousness and an ever-present spiritual origin, and does not address a person's consciousness beyond the body."
 anabranch_t1_cite: "The Ever-Present Origin, chapter not checked"
 anabranch_t1_grade: "[TBV]"
 anabranch_t1_basis: "summary"
+anabranch_t2: "affirms"
+anabranch_t2_says: "Holds that telepathy and clairvoyance belong to a spaceless, timeless magic structure of consciousness, and treats telepathy as well documented."
+anabranch_t2_cite: "The Ever-Present Origin (1949), Part One, the magic structure, p. 55 (Ohio University Press, 1985), as cited by Mohrhoff (2008); chapter number not confirmed"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "review"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Describes mutations in how awareness is organised in space and time, from archaic to integral; speaks to part (a), the split, only."
 anabranch_t7_cite: "The Ever-Present Origin, Part One"
@@ -83,23 +94,26 @@ Gebser identifies five structures of consciousness: archaic, magical, mythical, 
 
 In the BioConomy corpus, Gebser's mental-rational structure corresponds to [[material-consciousness|Material Consciousness]] and his integral structure corresponds to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]. The Ever-Present Origin provides the phenomenological foundation for the [[concepts/structures-of-consciousness|Structures of Consciousness]] analysis.
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in history of ideas, with evidence type E4 and claim codes A2, A3, B3, C1, C2, C4, H, H2.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it qualifies T7.
 
-The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, C1, C2 and C4; it qualifies A2, B3 and H.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it affirms T2; it qualifies T7.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, C1, C2, C4 and H2; it qualifies A2, B3 and H.
 
 ## Citing Pages
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]
 - [[concepts/structures-of-consciousness|Structures of Consciousness]]
 - [[concepts/consciousness-and-value-creation|Consciousness and Value Creation]]
 - [[concepts/the-momentous-leap|The Momentous Leap]]
 - [[material-consciousness|Material Consciousness]]
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
-- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

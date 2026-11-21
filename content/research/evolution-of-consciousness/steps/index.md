@@ -1,17 +1,17 @@
 ---
 title: "The Claim Chain, Step by Step"
-description: "The twelve steps of the evolution of consciousness claim chain, from A1 (minds evolved) to the hinge H, each with its evidence type, its connecting word and the count of grid sources on each side."
+description: "The thirteen steps of the evolution of consciousness claim chain, from A1 (minds evolved) to the hinge steps H and H2, each with its evidence type, its connecting word and the count of grid sources on each side."
 aliases: ["evolution of consciousness claim chain", "consciousness claim chain"]
 tags: ["research", "evolution-of-consciousness"]
 cssclasses: [hide-folder-listing]
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 source_documents: ["Deep research report: Evolution of Consciousness Grid, Run 2 (19 November 2026)"]
 epistemic_status: "working-hypothesis"
 ---
 
-The claim chain breaks the evolution of consciousness argument into twelve steps, so each can be tested against the sources on its own.
+The claim chain breaks the evolution of consciousness argument into thirteen steps, so each can be tested against the sources on its own.
 
 ## Overview
 
@@ -21,7 +21,7 @@ Each step has its own page. The page states the claim as the research run refine
 
 ![[evolution-of-consciousness-chain.base]]
 
-The table runs in chain order, with the connecting word that joins each step to the one before it and the count of the 55 grid sources on each side.
+The table runs in chain order, with the connecting word that joins each step to the one before it and the count of the 86 grid sources on each side.
 
 ## Related
 

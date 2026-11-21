@@ -16,15 +16,20 @@ standing: "Followed by National Institute on Aging funding calls [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "10. Anomalous experience research"
-anabranch_steps: ["T1"]
+anabranch_steps: ["T1", "T2"]
 anabranch_t1: "qualifies"
 anabranch_t1_says: "Reports unexpected lucidity in severe dementia and seeks neurobiological explanations, with no claim of survival."
 anabranch_t1_cite: "Alzheimer's & Dementia 15(8) (2019), Introduction"
 anabranch_t1_grade: "[IC]"
 anabranch_t1_basis: "text"
+anabranch_t2: "silent"
+anabranch_t2_says: "Reviews the neurobiology of lucidity in severe dementia and seeks network-level explanations, without offering lucidity as evidence of information beyond the brain."
+anabranch_t2_cite: "Paradoxical Lucidity (2019), sections 2 to 4 and 8"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "text"
 ---
 
 George A. Mashour, Lori Frank, Alexander Batthyany and colleagues (2019). "Paradoxical Lucidity: A Potential Paradigm Shift for the Neurobiology and Treatment of Severe Dementias". *Alzheimer's & Dementia* 15(8): 1107-1114. DOI: [10.1016/j.jalz.2019.04.002](https://doi.org/10.1016/j.jalz.2019.04.002).
@@ -35,11 +40,12 @@ A National Institute on Aging perspective in the same issue notes that the evide
 
 The wiki takes from it a documented clinical puzzle beside T1, framed by its authors as a question for neurobiology [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it is silent on T2.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

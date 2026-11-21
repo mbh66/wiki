@@ -7,27 +7,44 @@ type: "book"
 publisher: "Rowman & Littlefield, Lanham, MD"
 tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "critic"
 discipline: "philosophy of mind"
 design: "E4"
-claims: ["H"]
+claims: ["H", "H2"]
 claim_h: true
-stance: ["H:d"]
+claim_h2: true
+stance: ["H:d", "H2:d"]
 finding: "Argues that mental life depends on the brain, so no person survives the brain's death."
 standing: "Reviewed in Notre Dame Philosophical Reviews; survival researchers reject its reading of near-death and reincarnation cases [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "11. Critics of the anomalous experience research"
-anabranch_steps: ["T1", "T3"]
+grid_group: "11. Critics of the anomalous experience research"
+grid_steps: ["H", "H2"]
+grid_h: "dissents"
+grid_h_says: "Argues that consciousness depends on a functioning brain, so it has no existence apart from brains."
+grid_h_cite: "The Myth of an Afterlife (2015), Augustine and Fishman, 'The Dualist's Dilemma: The High Cost of Reconciling Neuroscience with a Soul', pp. 203-292, the last chapter of Part I; chapter number not confirmed"
+grid_h_grade: "[IC]"
+grid_h_basis: "abstract"
+grid_h2: "dissents"
+grid_h2_says: "Argues that out-of-body, near-death, mediumship and reincarnation evidence is poorly controlled or unreplicated, and that near-death experiences are internally generated hallucinations."
+grid_h2_cite: "The Myth of an Afterlife (2015), Part IV, 'Dubious Evidence for Survival', chs 23-30, pp. 503-650; Augustine, ch. 25, 'Near-Death Experiences Are Hallucinations', pp. 529-569"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "abstract"
+anabranch_steps: ["T1", "T2", "T3"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Argues that brain damage and brain death end mental life, so consciousness does not exist beyond the body."
 anabranch_t1_cite: "The Myth of an Afterlife (2015), Part I, 'Empirical Arguments for Annihilation'"
 anabranch_t1_grade: "[IC]"
 anabranch_t1_basis: "review"
+anabranch_t2: "dissents"
+anabranch_t2_says: "Argues that out-of-body, near-death, mediumship and reincarnation evidence is poorly controlled or unreplicated, and that near-death experiences are internally generated hallucinations."
+anabranch_t2_cite: "The Myth of an Afterlife (2015), Part IV, 'Dubious Evidence for Survival', chs 23-30, pp. 503-650; Augustine, ch. 25, 'Near-Death Experiences Are Hallucinations', pp. 529-569"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 anabranch_t3: "dissents"
 anabranch_t3_says: "Argues that neuroscience shows a functioning brain is necessary, and sufficient, for consciousness, which leaves a separate soul no work to do."
 anabranch_t3_cite: "The Myth of an Afterlife (2015), Augustine and Fishman, 'The Dualist's Dilemma: The High Cost of Reconciling Neuroscience with a Soul', pp. 203-292, the last chapter of Part I; chapter number not confirmed"
@@ -41,15 +58,19 @@ The book gathers thirty chapters in four parts: empirical arguments for annihila
 
 The wiki takes from it the main published case against T1, and a direct challenge to filter and transmission readings of the brain on T3 [TBV].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in philosophy of mind, with evidence type E4 and claim codes H.
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in philosophy of mind, with evidence type E4 and claim codes H, H2.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it dissents on T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it dissents on T2; it dissents on T3.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from H and H2.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

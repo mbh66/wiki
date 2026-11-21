@@ -20,21 +20,21 @@ standing: "[TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["B3"]
 grid_b3: "affirms"
-grid_b3_says: "Argues that irreversible processes far from equilibrium create order and give nature an arrow of time, with no claim about consciousness."
-grid_b3_cite: "The End of Certainty (1997 English edition), chs 1 to 3"
-grid_b3_grade: "[TBV]"
-grid_b3_basis: "summary"
+grid_b3_says: "Argues that the arrow of time must be rooted in physical dynamics, and that evolution at every level, from cosmology to society, involves instabilities."
+grid_b3_cite: "The End of Certainty (Free Press, 1997), ch. 1 'Epicurus' Dilemma' (from p. 9); the far-from-equilibrium chapter not confirmed"
+grid_b3_grade: "[IC]"
+grid_b3_basis: "text"
 anabranch_steps: ["T4"]
 anabranch_t4: "qualifies"
-anabranch_t4_says: "Models order arising from irreversible processes far from equilibrium, with no claim that the universe strives and none about consciousness."
-anabranch_t4_cite: "The End of Certainty (1997 English edition), chs 1 to 3"
+anabranch_t4_says: "Argues that probabilistic, irreversible laws leave room for novelty and creativity in nature, with no claim that the universe strives and no account of consciousness."
+anabranch_t4_cite: "The End of Certainty (Free Press, 1997), ch. 1 'Epicurus' Dilemma' (from p. 9); the far-from-equilibrium chapter not confirmed"
 anabranch_t4_grade: "[TBV]"
-anabranch_t4_basis: "summary"
+anabranch_t4_basis: "text"
 ---
 
 Ilya Prigogine (1996; edition cited 1997). *The End of Certainty: Time, Chaos, and the New Laws of Nature*. First published as *La Fin des certitudes: temps, chaos et les lois de la nature* by Éditions Odile Jacob, Paris, 1996, in collaboration with Isabelle Stengers; English edition, The Free Press, New York, 1997.

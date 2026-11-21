@@ -6,18 +6,29 @@ year: 2025
 type: "article"
 publisher: "Association for Science in Autism Treatment, Media Watch, 27 January 2025"
 url: "https://asatonline.org/media_watch/asat-responds-to-the-skeptical-inquirer-the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "critic"
+discipline: "autism treatment science"
 design: "E4"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:d"]
 finding: "States concern that the podcast spreads misinformation about facilitated communication and paranormal abilities in nonspeaking autistic people, and supports access to evidence-based interventions."
 standing: "Reported as a statement backing Vyse's critique by Discover Magazine and by the Society for Psychical Research's Psi Encyclopedia [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "11. Critics of the anomalous experience research"
+grid_group: "11. Critics of the anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "dissents"
+grid_h2_says: "Rejects the podcast's claims of paranormal abilities in nonspeaking autistic people and of authentic authorship through facilitated communication, urging listeners to question them."
+grid_h2_cite: "ASAT Responds to The Skeptical Inquirer (27 January 2025), statement text"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "text"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
 anabranch_t2_says: "Rejects the podcast's claims of paranormal abilities in nonspeaking autistic people and of authentic authorship through facilitated communication, urging listeners to question them."
@@ -34,10 +45,16 @@ The statement highlights [[sources/vyse-2025-telepathy-tapes|Stuart Vyse's revie
 
 The wiki takes from it the position of an autism treatment organisation on the T2 claim [TBV].
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in autism treatment science, with evidence type E4 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

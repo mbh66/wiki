@@ -7,18 +7,29 @@ type: "journal-article"
 publisher: "Explore 22(3): 103387 (Elsevier)"
 url: "https://pubmed.ncbi.nlm.nih.gov/41855616/"
 doi: "10.1016/j.explore.2026.103387"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "critic"
+discipline: "health sciences"
 design: "E4"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:d"]
 finding: "Points out that facilitated communication studies cited by Weiler and Woollacott showed messages matching prompts seen only by the helper."
 standing: "Weiler and Woollacott published a Response to Delgado-Ron (2026) in Explore 22(3) [IC]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "11. Critics of the anomalous experience research"
+grid_group: "11. Critics of the anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "dissents"
+grid_h2_says: "Argues that the controlled studies the paper cites traced messages to prompts seen only by helpers."
+grid_h2_cite: "Explore 22(3): 103387 (2026), a letter with no abstract; the passage is known from one quoted excerpt"
+grid_h2_grade: "[TBV]"
+grid_h2_basis: "review"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
 anabranch_t2_says: "Argues that the controlled studies the paper cites traced messages to prompts seen only by helpers."
@@ -35,10 +46,16 @@ Weiler and Woollacott answered with "Response to Delgado-Ron (2026)", *Explore* 
 
 The wiki takes from it the published reply to the newest supporting paper on T2 [TBV].
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in health sciences, with evidence type E4 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

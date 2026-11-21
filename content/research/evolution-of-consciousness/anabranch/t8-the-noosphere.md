@@ -13,9 +13,9 @@ evidence_type: "Argument and tradition"
 status: "partial"
 crosswalk: "C3"
 crosswalk_also: ["C4"]
-note: "Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic, and Smil warns against placing a system on its curve from past fits; no source places the Noosphere at a point on the curve. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it. Schmachtenberger calls for collective sensemaking with no Noosphere and no curve, and The Limits to Growth (1972) and Tainter (1988) treat limits and collapse with no claim about consciousness; all three qualify the step. Simard, Karst and Yunkaporta are silent on it. Four positions are still copied from C3."
+note: "Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic. Smil holds that growth must level off and warns against placing a system on its curve from past fits, which qualifies the step; no source places the Noosphere at a point on the curve. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it. Schmachtenberger calls for collective sensemaking with no Noosphere and no curve, and The Limits to Growth (1972) and Tainter (1988) treat limits and collapse with no claim about consciousness; all three qualify the step. Simard, Karst and Yunkaporta are silent on it. Four positions are still copied from C3."
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 source_documents: ["Michael Haupt, Anabranch thesis (19 November 2026)"]
 epistemic_status: "working-hypothesis"
@@ -31,7 +31,7 @@ Evidence type: Argument and tradition
 
 Partly coded: a grid step covers part of the claim.
 
-Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic, and Smil warns against placing a system on its curve from past fits; no source places the Noosphere at a point on the curve. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it. Schmachtenberger calls for collective sensemaking with no Noosphere and no curve, and The Limits to Growth (1972) and Tainter (1988) treat limits and collapse with no claim about consciousness; all three qualify the step. Simard, Karst and Yunkaporta are silent on it. Four positions are still copied from C3.
+Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic. Smil holds that growth must level off and warns against placing a system on its curve from past fits, which qualifies the step; no source places the Noosphere at a point on the curve. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it. Schmachtenberger calls for collective sensemaking with no Noosphere and no curve, and The Limits to Growth (1972) and Tainter (1988) treat limits and collapse with no claim about consciousness; all three qualify the step. Simard, Karst and Yunkaporta are silent on it. Four positions are still copied from C3.
 
 ## Where the sources stand
 

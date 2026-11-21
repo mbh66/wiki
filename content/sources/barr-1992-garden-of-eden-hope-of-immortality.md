@@ -15,10 +15,15 @@ standing: "Reviewed in the Scottish Journal of Theology and Themelios; Fretheim 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "8. Traditions and testimony"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Reads Eden and immortality in the Hebrew Bible, and does not take up anomalous information."
+anabranch_t2_cite: "The Garden of Eden and the Hope of Immortality (1992), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "dissents"
 anabranch_t7_says: "Rejects reading Genesis 2 and 3 as a fall and holds humans imperfect from the start; addresses the Eden reading of part (a)."
 anabranch_t7_cite: "The Garden of Eden and the Hope of Immortality (1992), p. ix, as quoted in Fretheim (1994)"
@@ -34,12 +39,13 @@ Richard Hess's review in *Themelios* summarises the book's case that death and s
 
 The wiki takes from it the strongest scholarly case that the story narrates no fall [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T7.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 - [[glossary/f-l/garden-of-eden|Garden of Eden]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

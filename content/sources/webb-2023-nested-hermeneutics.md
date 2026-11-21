@@ -16,10 +16,15 @@ standing: "No published reply found [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
-anabranch_steps: ["T3"]
+anabranch_steps: ["T2", "T3"]
+anabranch_t2: "qualifies"
+anabranch_t2_says: "Argues that Huxley's Mind at Large leans on an altered quotation of Broad and Bergson, so the trope is curated and needs reinterpretation."
+anabranch_t2_cite: "Nested hermeneutics (2023), Interdisciplinary Science Reviews 48 (2023), from p. 768; whole article"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "abstract"
 anabranch_t3: "qualifies"
 anabranch_t3_says: "Argues that Huxley manipulated his quotations of Broad and Bergson to give Mind at Large philosophical standing."
 anabranch_t3_cite: "Nested hermeneutics (2023), Interdisciplinary Science Reviews 48(5): 768-787, abstract"
@@ -35,11 +40,12 @@ No published reply was found [TBV]. The extracts come from the journal page, and
 
 The wiki takes from it a scholar's case that the best-known statement of the filter claim rests on reworked sources and a weak mechanism [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T2; it qualifies T3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

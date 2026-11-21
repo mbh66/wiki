@@ -24,7 +24,12 @@ created: 2026-11-20
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "12. Growth curves and limits"
-anabranch_steps: ["T4", "T8"]
+anabranch_steps: ["T2", "T4", "T8"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Re-analyses acceleration curves in big history, and does not take up anomalous information."
+anabranch_t2_cite: "The Twenty-First-Century Singularity in the Big History Perspective (2020), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t4: "qualifies"
 anabranch_t4_says: "Documents accelerating growth of complexity on Earth and stays silent on any striving behind it."
 anabranch_t4_cite: "The 21st Century Singularity and Global Futures (2020), ch. 2, pp. 19-75"
@@ -45,15 +50,16 @@ The same volume carries Modis's update of his logistic reading of similar series
 
 The wiki takes from it the main published reading of the long series as accelerating, set beside the logistic readings of Modis and Smil [TBV].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as a evidence work in big history, with evidence type E3 and claim codes B3.
+The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in big history, with evidence type E3 and claim codes B3.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T4; it qualifies T8.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T4; it qualifies T8.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

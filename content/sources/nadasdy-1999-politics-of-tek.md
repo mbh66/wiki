@@ -15,10 +15,15 @@ standing: "Widely cited in co-management research; the US National Park Service 
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T9"]
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Shows how integrating traditional knowledge can reproduce state power, and does not take up anomalous information."
+anabranch_t2_cite: "The Politics of TEK (1999), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t9: "dissents"
 anabranch_t9_says: "Argues that joining traditional knowledge to science forces it into bureaucratic forms and moves power away from its holders."
 anabranch_t9_cite: "Arctic Anthropology 36(1-2) (1999), 1-18, abstract"
@@ -34,11 +39,12 @@ The paper is widely cited in co-management research and appears on the US Nation
 
 The wiki takes from it the leading critique of joining knowledge systems through existing institutions. It is coded in its own terms, as a study of power in knowledge-sharing, with no step of the thesis read into the knowledge it describes [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

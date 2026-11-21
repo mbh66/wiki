@@ -19,10 +19,15 @@ standing: "Debated: a 2018 review in Science by Blount, Lenski and Losos finds b
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
-anabranch_steps: ["T6"]
+anabranch_steps: ["T2", "T6"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Argues that contingency shapes the history of life, and does not take up anomalous information."
+anabranch_t2_cite: "Wonderful Life (1989), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t6: "dissents"
 anabranch_t6_says: "Argues that life's history is contingent, so a replay would likely differ; rejects a built-in direction toward humans."
 anabranch_t6_cite: "Wonderful Life (1989), pp. 48-51 (as quoted in secondary sources)"
@@ -40,12 +45,13 @@ The wiki takes from it a palaeontologist's argument that the history of life has
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in palaeontology, with evidence type E3 and claim codes B3.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T6.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T6.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

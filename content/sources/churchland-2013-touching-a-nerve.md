@@ -14,15 +14,20 @@ standing: "Reviews in Religion Dispatches and Perspectives on Science and Christ
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
-anabranch_steps: ["T1", "T3"]
+anabranch_steps: ["T1", "T2", "T3"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Rejects a soul existing apart from the brain, and explains near-death experiences by brain states under low oxygen."
 anabranch_t1_cite: "Touching a Nerve (2013), ch. 3 'My Heavens', pp. 70-71; ch. 2 'Soul Searching' not confirmed"
 anabranch_t1_grade: "[IC]"
 anabranch_t1_basis: "review"
+anabranch_t2: "silent"
+anabranch_t2_says: "Explains near-death features such as the light as effects on the brain, and does not address claims that information was gained."
+anabranch_t2_cite: "Touching a Nerve (2013), ch. 3, 'My Heavens', as described in reviews"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "review"
 anabranch_t3: "dissents"
 anabranch_t3_says: "Holds that the self is the brain; does not name filter theory."
 anabranch_t3_cite: "Touching a Nerve (2013), ch. 1 and ch. 2, per reviews and contents"
@@ -38,12 +43,13 @@ The book was not read for this record; the contents were confirmed in three libr
 
 The wiki takes from it a philosopher's argument against a mind independent of the brain, which is the view the filter claim needs [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it dissents on T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it is silent on T2; it dissents on T3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

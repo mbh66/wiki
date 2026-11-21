@@ -23,7 +23,12 @@ created: 2026-11-19
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "1. Mind and brain science"
-anabranch_steps: ["T3"]
+anabranch_steps: ["T2", "T3"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Argues that consciousness is prior to matter and that the brain acts as a permissive filter, with no claim about routes for information."
+anabranch_t2_cite: "The Matter with Things (2021), ch. 25, as described in reviews"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "review"
 anabranch_t3: "qualifies"
 anabranch_t3_says: "Treats the brain as possibly permissive or transmissive of consciousness, while leaving production open."
 anabranch_t3_cite: "The Matter with Things (2021), chapter not checked"
@@ -41,12 +46,13 @@ The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy, with evidence type E4 and claim codes H, C4.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

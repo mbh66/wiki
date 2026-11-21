@@ -7,18 +7,29 @@ type: "journal-article"
 publisher: "Resuscitation 85(12): 1799-1805"
 url: "https://doi.org/10.1016/j.resuscitation.2014.09.004"
 doi: "10.1016/j.resuscitation.2014.09.004"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "evidence"
+discipline: "resuscitation medicine"
 design: "E1"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:q"]
 finding: "Reports near-death experiences in 9 per cent of the 101 survivors interviewed at stage 2, and one verifiable period of conscious awareness during cardiac arrest."
 standing: "Cited by both sides of the debate on awareness during cardiac arrest [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "10. Anomalous experience research"
+grid_group: "10. Anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "qualifies"
+grid_h2_says: "Reports one verifiable account of awareness, while no hidden visual target was identified."
+grid_h2_cite: "Resuscitation 85(12), abstract and Results"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "abstract"
 anabranch_steps: ["T1", "T2"]
 anabranch_t1: "qualifies"
 anabranch_t1_says: "Reports one verified period of awareness during cardiac arrest, without showing that mind exists apart from the brain."
@@ -40,10 +51,16 @@ No interviewed survivor identified a hidden image [TBV]. Supporters of the survi
 
 The wiki records the study on steps T1 and T2, where its findings fall on both sides. Anomalous experience research is recorded on the Anabranch layer, never adopted.
 
+The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in resuscitation medicine, with evidence type E1 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it qualifies T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 

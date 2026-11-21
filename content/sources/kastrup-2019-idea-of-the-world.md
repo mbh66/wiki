@@ -23,7 +23,12 @@ created: 2026-11-20
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
-anabranch_steps: ["T3"]
+anabranch_steps: ["T2", "T3"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Argues that reality is mental and that self-transcendence accompanies reduced brain function, with no claim that information reaches minds by unexplained routes."
+anabranch_t2_cite: "The Idea of the World (2019), Parts II and IV, as described by the author; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "abstract"
 anabranch_t3: "qualifies"
 anabranch_t3_says: "Treats brain activity as the outward image of a dissociated segment of universal mind, recasting filter language within idealism."
 anabranch_t3_cite: "The Idea of the World (2019), Part IV 'Neuroscientific evidence', ch. 11 'Self-transcendence correlates with brain function impairment', p. 178 (title and page from contents listings; passage not read)"
@@ -41,12 +46,13 @@ The wiki takes from it a current idealist account that recasts filter language a
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy of mind, with evidence type E4 and claim codes H.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

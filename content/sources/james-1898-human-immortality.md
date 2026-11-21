@@ -12,23 +12,29 @@ briefs: ["evolution-of-consciousness-library", "anabranch"]
 tier: "canon"
 discipline: "philosophy of mind"
 design: "E4"
-claims: ["H"]
+claims: ["H", "H2"]
 claim_h: true
-stance: ["H:a"]
+claim_h2: true
+stance: ["H:a", "H2:a"]
 finding: "Proposes that the brain may transmit a pre-existing wider consciousness, and argues only that survival is compatible with brain dependence."
 standing: "The founding statement of transmission or filter theory, cited by Kelly et al. (2007) and Marshall [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
-anabranch_steps: ["T1", "T3"]
+anabranch_steps: ["T1", "T2", "T3"]
 anabranch_t1: "qualifies"
 anabranch_t1_says: "Argues that survival is compatible with brain dependence and declines to claim that the evidence proves survival."
 anabranch_t1_cite: "Human Immortality (1898), lecture and Preface"
 anabranch_t1_grade: "[IC]"
 anabranch_t1_basis: "text"
+anabranch_t2: "affirms"
+anabranch_t2_says: "Holds that some reports of mediums' knowledge and distant apparitions are facts, and argues that a transmission theory of the brain accommodates them."
+anabranch_t2_cite: "Human Immortality (1898), lecture text, pp. 24-27, and note 7 (Houghton Mifflin, 1898)"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 anabranch_t3: "affirms"
 anabranch_t3_says: "Proposes that the brain may have a permissive or transmissive function, sifting a wider consciousness it does not produce."
 anabranch_t3_cite: "Human Immortality (1898), lecture"
@@ -44,15 +50,16 @@ Edward F. Kelly and colleagues revive the Myers and James filter model in *Irred
 
 The wiki takes from it the primary text for the filter claim on T3, and a qualified case on T1 [TBV].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy of mind, with evidence type E4 and claim codes H.
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy of mind, with evidence type E4 and claim codes H, H2.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it affirms T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it affirms T2; it affirms T3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

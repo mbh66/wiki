@@ -20,7 +20,7 @@ standing: "Founding text of the New Literacy Studies; standard in literacy resea
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["A3", "C1"]
@@ -31,15 +31,15 @@ grid_a3_grade: "[IC]"
 grid_a3_basis: "review"
 grid_c1: "qualifies"
 grid_c1_says: "Treats oral and literate modes as overlapping social practices and rejects the great divide on which talk of residual orality rests."
-grid_c1_cite: "Literacy in Theory and Practice (1984)"
+grid_c1_cite: "Literacy in Theory and Practice (1984), chapter not confirmed; candidates by title are ch. 3 'Literacy and linguistics' (from p. 66) and ch. 4 'The \"ideological\" model' (from p. 95) (inference)"
 grid_c1_grade: "[TBV]"
-grid_c1_basis: "summary"
+grid_c1_basis: "abstract"
 anabranch_steps: ["T7"]
 anabranch_t7: "dissents"
 anabranch_t7_says: "Rejects the claim that literacy changes how the mind works, disputing a split in mind tied to writing, part (a)."
 anabranch_t7_cite: "Literacy in Theory and Practice (1984), Part I, chs 1 and 2"
-anabranch_t7_grade: "[TBV]"
-anabranch_t7_basis: "summary"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "abstract"
 ---
 
 Street, B. V. (1984). *Literacy in Theory and Practice*. Cambridge University Press.

@@ -13,7 +13,7 @@ depends_on_h: "read-differently"
 affirms_count: 10
 qualifies_count: 3
 dissents_count: 3
-silent_count: 39
+silent_count: 70
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,7 +37,7 @@ Run 2 reworded the step as a claim some sources make. No measured study shows a 
 
 ## Where the grid sources stand
 
-Of the 55 grid sources, 10 affirm this step, 3 qualify it and 3 dissent. The other 39 are silent on it.
+Of the 86 grid sources, 10 affirm this step, 3 qualify it and 3 dissent. The other 70 are silent on it.
 
 ### Affirms
 

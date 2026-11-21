@@ -7,18 +7,29 @@ type: "journal-article"
 publisher: "Explore 21(6): 103271 (Elsevier)"
 url: "https://www.sciencedirect.com/science/article/abs/pii/S1550830725001624"
 doi: "10.1016/j.explore.2025.103271"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "context"
+discipline: "consciousness studies"
 design: "E4"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:q"]
 finding: "Holds that nonspeakers have been wrongly presumed to lack thought, and that reports of possibly telepathic communication warrant controlled study."
 standing: "Drew a published reply from Jorge Andrés Delgado-Ron in Explore (2026), which the authors answered [IC]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "10. Anomalous experience research"
+grid_group: "10. Anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "qualifies"
+grid_h2_says: "Holds that anecdotes of possibly telepathic communication warrant controlled experiments; does not claim telepathy is shown."
+grid_h2_cite: "Explore 21(6): 103271 (2025), abstract and 'Moving forward' section"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "text"
 anabranch_steps: ["T2"]
 anabranch_t2: "qualifies"
 anabranch_t2_says: "Holds that anecdotes of possibly telepathic communication warrant controlled experiments; does not claim telepathy is shown."
@@ -35,10 +46,16 @@ The authors argue that nonspeaking autistic people have long been wrongly classe
 
 The wiki takes from it the newest paper that keeps the telepathy question open [TBV].
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a context work in consciousness studies, with evidence type E4 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

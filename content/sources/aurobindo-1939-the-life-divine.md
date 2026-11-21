@@ -11,11 +11,12 @@ briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"
 tier: "canon"
 discipline: "contemplative tradition"
 design: "E5"
-claims: ["B3", "C2", "H"]
+claims: ["B3", "C2", "H", "H2"]
 claim_b3: true
 claim_c2: true
 claim_h: true
-stance: ["B3:a", "C2:a", "H:a"]
+claim_h2: true
+stance: ["B3:a", "C2:a", "H:a", "H2:a"]
 finding: "Consciousness evolves toward supermind"
 standing: "[TBV]"
 on_seed_list: "no"
@@ -24,7 +25,7 @@ created: 2026-11-19
 updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "8. Traditions and testimony"
-grid_steps: ["B3", "C2", "H"]
+grid_steps: ["B3", "C2", "H", "H2"]
 grid_b3: "affirms"
 grid_b3_says: "Holds evolution to be the progressive emergence of Spirit in matter."
 grid_b3_cite: "The Life Divine (1939-40), Book Two (Vol. II, 1940)"
@@ -40,12 +41,22 @@ grid_h_says: "Holds consciousness to be the fundamental reality that involves it
 grid_h_cite: "The Life Divine (1939-40), Book One, 'The Omnipresent Reality and the Universe' (Vol. I, 1939)"
 grid_h_grade: "[TBV]"
 grid_h_basis: "summary"
-anabranch_steps: ["T1", "T3"]
+grid_h2: "affirms"
+grid_h2_says: "Holds that the subliminal being possesses telepathy, clairvoyance and foreknowledge, glimpsed fragmentarily on the surface and liable to error."
+grid_h2_cite: "The Life Divine (1939), Book Two, Part One, ch. X, 'Knowledge by Identity and Separative Knowledge', CWSA vols 21-22, pp. 554-558"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "text"
+anabranch_steps: ["T1", "T2", "T3"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Argues that the soul survives death and returns through rebirth as part of its evolution."
 anabranch_t1_cite: "The Life Divine, Book Two, ch. XX 'The Philosophy of Rebirth' and ch. XXII 'Rebirth and Other Worlds; Karma, the Soul and Immortality' (pp. 771 and 823 in the Complete Works edition)"
 anabranch_t1_grade: "[TBV]"
 anabranch_t1_basis: "text"
+anabranch_t2: "affirms"
+anabranch_t2_says: "Holds that the subliminal being possesses telepathy, clairvoyance and foreknowledge, glimpsed fragmentarily on the surface and liable to error."
+anabranch_t2_cite: "The Life Divine (1939), Book Two, Part One, ch. X, 'Knowledge by Identity and Separative Knowledge', CWSA vols 21-22, pp. 554-558"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 anabranch_t3: "qualifies"
 anabranch_t3_says: "Holds consciousness to be the fundamental reality involved in matter, with no model of the brain as a filter."
 anabranch_t3_cite: "The Life Divine (1939), chapter not checked"
@@ -59,13 +70,14 @@ In brief: Consciousness evolves toward supermind [TBV].
 
 How the work is received in its own field is still to be checked [TBV].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in contemplative tradition, with evidence type E5 and claim codes B3, C2, H.
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in contemplative tradition, with evidence type E5 and claim codes B3, C2, H, H2.
 
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it qualifies T3.
 
-The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3, C2 and H.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it qualifies T3.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3, C2, H and H2.
 
 ## Cited by
 
@@ -73,6 +85,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

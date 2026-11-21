@@ -233,3 +233,22 @@ views:
     sort:
       - property: year
         direction: ASC
+  - type: table
+    name: "H2. Information not yet explained"
+    filters:
+      and:
+        - claim_h2 == true
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - design
+      - stance
+      - finding
+      - grade
+    sort:
+      - property: year
+        direction: ASC

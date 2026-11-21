@@ -7,18 +7,29 @@ type: "journal-article"
 publisher: "Autism & Developmental Language Impairments 3: 1-8"
 url: "https://doi.org/10.1177/2396941518821570"
 doi: "10.1177/2396941518821570"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "critic"
+discipline: "augmentative and alternative communication"
 design: "E1"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:q"]
 finding: "Finds no new studies between 2014 and 2018 showing that FC messages are authored by the person with disability."
 standing: "Informs ASHA PS2018-00352; cited by the RCSLT and ASAT [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "11. Critics of the anomalous experience research"
+grid_group: "11. Critics of the anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "qualifies"
+grid_h2_says: "Finds no evidence that FC users author their messages, leaving the facilitator as the likely source of content."
+grid_h2_cite: "Autism & Developmental Language Impairments 3 (2018), 1-8, abstract and conclusion"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "text"
 anabranch_steps: ["T2"]
 anabranch_t2: "qualifies"
 anabranch_t2_says: "Finds no evidence that FC users author their messages, leaving the facilitator as the likely source of content."
@@ -35,10 +46,16 @@ Advocates of assisted typing contest these reviews. [[sources/asan-2018-letter-t
 
 The wiki takes from it the current state of the authorship evidence beneath the nonspeakers material [TBV].
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in augmentative and alternative communication, with evidence type E1 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

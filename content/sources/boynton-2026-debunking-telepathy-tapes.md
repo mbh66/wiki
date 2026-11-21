@@ -6,18 +6,29 @@ year: 2026
 type: "article"
 publisher: "Skeptical Inquirer 50(5)"
 url: "https://skepticalinquirer.org/2026/08/debunking-the-telepathy-tapes-the-role-of-facilitator-behaviors/"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "critic"
+discipline: "disability communication"
 design: "E3"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:d"]
 finding: "Analyses images and scenes from the podcast to show facilitator touch, positioning and spoken cues during letter selection."
 standing: "Part of a Skeptical Inquirer cover feature on the podcast; the author took part in controlled authorship testing in 1993 [IC]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "11. Critics of the anomalous experience research"
+grid_group: "11. Critics of the anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "dissents"
+grid_h2_says: "Argues that the podcast's apparent telepathy is explained by facilitator cueing during letter selection."
+grid_h2_cite: "Skeptical Inquirer 50(5) (2026), opening sections"
+grid_h2_grade: "[TBV]"
+grid_h2_basis: "text"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
 anabranch_t2_says: "Argues that the podcast's apparent telepathy is explained by facilitator cueing during letter selection."
@@ -34,10 +45,16 @@ The article is part of the issue's feature on the podcast, beside pieces by Beal
 
 The wiki takes from it a former facilitator's account of how cueing can produce the podcast's results [TBV].
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in disability communication, with evidence type E3 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

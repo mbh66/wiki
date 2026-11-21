@@ -17,6 +17,7 @@ formulas:
   c3: 'if(grid_c3 == "affirms", "●", if(grid_c3 == "qualifies", "◐", if(grid_c3 == "dissents", "✕", "")))'
   c4: 'if(grid_c4 == "affirms", "●", if(grid_c4 == "qualifies", "◐", if(grid_c4 == "dissents", "✕", "")))'
   h: 'if(grid_h == "affirms", "●", if(grid_h == "qualifies", "◐", if(grid_h == "dissents", "✕", "")))'
+  h2: 'if(grid_h2 == "affirms", "●", if(grid_h2 == "qualifies", "◐", if(grid_h2 == "dissents", "✕", "")))'
 properties:
   formula.work:
     displayName: Source
@@ -138,6 +139,16 @@ properties:
     displayName: Where
   grid_h_grade:
     displayName: Grade
+  formula.h2:
+    displayName: H2
+  grid_h2:
+    displayName: H2 position
+  grid_h2_says:
+    displayName: What it says
+  grid_h2_cite:
+    displayName: Where
+  grid_h2_grade:
+    displayName: Grade
 views:
   - type: table
     name: "The grid"
@@ -158,6 +169,7 @@ views:
       - formula.c3
       - formula.c4
       - formula.h
+      - formula.h2
     sort:
       - property: year
         direction: ASC
@@ -180,6 +192,7 @@ views:
       - grid_c3
       - grid_c4
       - grid_h
+      - grid_h2
     sort:
       - property: year
         direction: ASC
@@ -382,6 +395,24 @@ views:
       - property: year
         direction: ASC
   - type: table
+    name: "H2. Information not yet explained"
+    filters:
+      and:
+        - contains(grid_steps, "H2")
+    groupBy:
+      property: grid_h2
+      direction: ASC
+    order:
+      - formula.work
+      - year
+      - grid_h2
+      - grid_h2_says
+      - grid_h2_cite
+      - grid_h2_grade
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
     name: "Critics"
     filters:
       and:
@@ -400,6 +431,7 @@ views:
       - formula.c3
       - formula.c4
       - formula.h
+      - formula.h2
     sort:
       - property: year
         direction: ASC
@@ -423,6 +455,7 @@ views:
       - formula.c3
       - formula.c4
       - formula.h
+      - formula.h2
     sort:
       - property: year
         direction: ASC

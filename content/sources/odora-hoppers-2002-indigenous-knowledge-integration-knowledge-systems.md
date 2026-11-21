@@ -18,7 +18,12 @@ created: 2026-11-20
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T7", "T9"]
+anabranch_steps: ["T2", "T7", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Discusses articulating Indigenous knowledge systems with other systems in policy, and does not state that knowledge arrives by unexplained routes."
+anabranch_t2_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Treats, on part (b), African indigenous knowledge systems as able to help heal colonial harms and transform institutions; silent on parts (a) and (c)."
 anabranch_t7_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), editor's chapter 'Indigenous Knowledge and the Integration of Knowledge Systems: Towards a Conceptual and Methodological Framework' (pp. 2-22, per Horsthemke), with the whole volume as described in the AfricaBib abstract"
@@ -39,12 +44,13 @@ Its reception was not checked, and no chapter was read; the coding rests on the 
 
 The wiki takes from it an African scholarly voice that speaks of its own knowledge systems in its own terms, and argues for joining them with the sciences through what it calls articulation [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7; it affirms T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7; it affirms T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

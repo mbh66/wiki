@@ -23,7 +23,12 @@ created: 2026-11-19
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T9"]
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Weaves Potawatomi teachings and botany on reciprocity with the living world, and does not frame that knowledge as an unexplained route."
+anabranch_t2_cite: "Braiding Sweetgrass (2013), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t9: "affirms"
 anabranch_t9_says: "Argues, as a Potawatomi botanist, for braiding Indigenous and scientific ways of knowing."
 anabranch_t9_cite: "Braiding Sweetgrass (2013), chapter not checked"
@@ -39,12 +44,13 @@ How the work is received in its own field is still to be checked [TBV].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a context work in botany, with evidence type E5 and claim codes A1, C3.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

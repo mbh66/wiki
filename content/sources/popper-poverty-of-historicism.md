@@ -8,7 +8,7 @@ publisher: "Routledge & Kegan Paul, London"
 tags: ["source", "civilizational-cycles", "evolution-of-consciousness"]
 subject: ["civilization"]
 created: 2026-11-07
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
 tier: "critic"
@@ -30,10 +30,10 @@ grid_b3_cite: "The Poverty of Historicism (1957), Part IV"
 grid_b3_grade: "[IC]"
 grid_b3_basis: "review"
 grid_c2: "dissents"
-grid_c2_says: "Holds that claims about the coming stage of history cannot be tested."
+grid_c2_says: "Argues that the future course of history cannot be predicted by rational or scientific means, since it depends on the unforeseeable growth of knowledge."
 grid_c2_cite: "The Poverty of Historicism (1957), Preface and Part IV"
-grid_c2_grade: "[TBV]"
-grid_c2_basis: "summary"
+grid_c2_grade: "[IC]"
+grid_c2_basis: "review"
 ---
 
 Popper, K. (1957). *The Poverty of Historicism*. London: Routledge & Kegan Paul.

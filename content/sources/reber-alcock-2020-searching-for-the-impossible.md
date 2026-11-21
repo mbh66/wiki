@@ -7,18 +7,29 @@ type: "journal-article"
 publisher: "American Psychologist 75(3): 391-399"
 url: "https://doi.org/10.1037/amp0000486"
 doi: "10.1037/amp0000486"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "critic"
+discipline: "psychology"
 design: "E4"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:d"]
 finding: "Argues that reported psi effects must come from weak methods, flawed analysis or false positives, because psi would break basic principles of science."
 standing: "Cited by critics of psi research; psi researchers reply that it sets the data aside [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "11. Critics of the anomalous experience research"
+grid_group: "11. Critics of the anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "dissents"
+grid_h2_says: "Argues that psi data reflect method, analysis or chance, because psi would break scientific principles."
+grid_h2_cite: "American Psychologist 75(3), abstract"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "abstract"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
 anabranch_t2_says: "Argues that psi data reflect method, analysis or chance, because psi would break scientific principles."
@@ -35,10 +46,16 @@ An earlier version of the argument appeared in *Skeptical Inquirer* in 2019 [IC]
 
 The wiki records the paper as the reply of record to Cardeña on step T2. Anomalous experience research is recorded on the Anabranch layer, never adopted.
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in psychology, with evidence type E4 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents from T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

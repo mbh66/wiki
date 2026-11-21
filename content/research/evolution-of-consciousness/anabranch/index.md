@@ -28,7 +28,7 @@ epistemic_status: working-hypothesis
 - At the [[glossary/a-e/bifurcation|Bifurcation]], a point in time that coincides with the Neolithic Revolution about 12,000 years ago, [[glossary/m-s/material-consciousness|Material Consciousness]] branched away from the main stream, rose slowly at first, and then drove our species rapidly up the steep part of an S-shaped [[glossary/m-s/s-curve|logistic growth curve]]. 
 - At the [[glossary/a-e/confluence|Confluence]], which is now beginning to occur, the two streams learn to work side by side in place.
 
-The thesis consists of nine steps. Each step names the kind of evidence it rests on. Seven steps draw on the grid, where 55 sources are coded, critics included; T2 and T9, which no grid step tests, are coded directly against their own wording, with their critics.
+The thesis consists of nine steps. Each step names the kind of evidence it rests on. Eight steps draw on the grid, where 86 sources are coded, critics included; T2 draws on step H2, added to the grid for it, and every source is also coded on T2 directly. T9, which no grid step tests, is coded directly against its own wording, with its critics.
 
 ## The steps
 

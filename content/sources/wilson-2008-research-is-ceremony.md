@@ -15,10 +15,15 @@ standing: "Reviewed in The Qualitative Report [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "8. Traditions and testimony"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Describes Indigenous research as ceremony held in relationships and accountability to them, and does not frame knowing as an unexplained route."
+anabranch_t2_cite: "Research Is Ceremony (2008), chapters 'Relationality' and 'Relational accountability'"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "abstract"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Speaks to part (b) only: sets out relational Indigenous ways of knowing as a living, shared paradigm."
 anabranch_t7_cite: "Research Is Ceremony (2008), ch. 4 'The Elements of an Indigenous Research Paradigm' and ch. 5 'Relationality'"
@@ -34,11 +39,12 @@ A review in *The Qualitative Report* presents it as a guide for qualitative rese
 
 The wiki takes from it an Indigenous scholar's own account of a continuing way of knowing, in his own terms [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

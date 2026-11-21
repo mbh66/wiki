@@ -14,10 +14,15 @@ standing: "Kirkus Reviews found the format far-fetched and the ideas important; 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Frames a cultural critique as a novel, and does not take up anomalous information."
+anabranch_t2_cite: "The Story of B (1996), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Argues, on part (a), that one culture broke from humanity's older ways through agriculture, and reads the Fall story as that change of mind."
 anabranch_t7_cite: "The Story of B (1996), 'Educating Jared', pp. 45-103, and B's lectures, as summarised by Do the Math (UC San Diego); page of the Fall passage not confirmed"
@@ -33,11 +38,12 @@ The novel follows a priest sent to investigate a travelling teacher, B, whose le
 
 The wiki takes from it a popular statement of a cultural split tied to agriculture and to the Genesis story [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

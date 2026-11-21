@@ -6,13 +6,7 @@ year: 2000
 type: "book"
 publisher: "iUniverse"
 url: https://www.amazon.com/dp/0595130674
-tags:
-  - source
-  - anabranch
-  - biology
-  - evolution
-  - cooperation
-  - systems
+tags: ["source", "anabranch", "biology", "evolution", "cooperation", "systems"]
 subject: ["consciousness"]
 briefs: ["anabranch"]
 design: "E4"
@@ -21,10 +15,15 @@ standing: "Read widely in systems and sustainability circles; no academic review
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
-anabranch_steps: ["T5", "T7", "T8", "T9"]
+anabranch_steps: ["T2", "T5", "T7", "T8", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Tells Earth's evolution as a living Gaian system, and no account located shows it taking up anomalous information."
+anabranch_t2_cite: "EarthDance (2000), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t5: "qualifies"
 anabranch_t5_says: "Holds that Indigenous peoples have always known the universe is participatory, which Western scientists only now acknowledge."
 anabranch_t5_cite: "EarthDance (2000), A Note from the Author; ch. 15 'Less Than Perfect, More Than Machine'"
@@ -56,7 +55,7 @@ In the BioConomy corpus, Sahtouris provides the biological grounding for the civ
 
 Sahtouris's framework converges with M.G. Taylor's systems architecture on the [[concepts/consciousness-and-value-creation|Substrate Hypothesis]]: coordination is a property of the substrate that holds the participants, not a property of the participants themselves.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T5; it qualifies T7; it qualifies T8; it affirms T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T5; it qualifies T7; it qualifies T8; it affirms T9.
 
 ## Citing Pages
 
@@ -70,6 +69,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

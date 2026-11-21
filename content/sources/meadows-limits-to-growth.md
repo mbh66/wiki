@@ -15,7 +15,12 @@ created: 2026-09-09
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "12. Growth curves and limits"
-anabranch_steps: ["T8"]
+anabranch_steps: ["T2", "T8"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Models limits to growth on a finite planet, and does not take up anomalous information."
+anabranch_t2_cite: "The Limits to Growth (1972), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t8: "qualifies"
 anabranch_t8_says: "Models overshoot and collapse of material growth on a finite planet, with no claim about consciousness or a Noosphere."
 anabranch_t8_cite: "The Limits to Growth (1972), ch. III 'Growth in the World System' (p. 88), with the standard run's collapse at p. 125, and ch. IV 'Technology and the Limits to Growth' (p. 129)"
@@ -31,7 +36,7 @@ The book's reception followed a pattern the [[frameworks/s-curve-thesis|S-curve 
 
 For the BioConomy corpus, *Limits to Growth* matters on three counts. First, it established the structural argument that material throughput has a ceiling, which is the condition under which [[retention-economics|retention economics]] becomes necessary rather than optional. Second, its scenarios are early descriptions of the [[s-curve|S-curve]] inflection: the point where an exponential growth trajectory bends toward either stabilization or collapse, depending on whether the system reorganizes. Third, and most consequential for the [[concepts/two-factories|two-factory frame]], the report describes the deceleration of the mechanical factory without naming the acceleration of the ecological factory. The degrowth tradition that followed (Georgescu-Roegen, Daly, Latouche, Hickel) inherited this single-factory perspective. The two-factory frame completes the picture: what Meadows modeled as the system's ceiling is, seen from the ecological factory's side, the moment when a different form of production must scale.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T8.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T8.
 
 ## Cited by
 
@@ -39,6 +44,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 - [[frameworks/s-curve-thesis|The S-Curve Thesis]]
 - [[frameworks/cycle-of-globalization|Cycle of Globalization]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

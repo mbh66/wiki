@@ -20,31 +20,31 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "8. Traditions and testimony"
 grid_steps: ["B3", "C3"]
 grid_b3: "dissents"
 grid_b3_says: "Rejects narratives of civilisational progress as patterns that cannot be sustained."
-grid_b3_cite: "Sand Talk (2019), opening chapter, 'The Porcupine, the Paleo-mind and the Grand Design'"
-grid_b3_grade: "[TBV]"
-grid_b3_basis: "summary"
+grid_b3_cite: "Sand Talk (2019), ch. 1 'The Porcupine, the Paleo-mind and the Grand Design'"
+grid_b3_grade: "[IC]"
+grid_b3_basis: "review"
 grid_c3: "qualifies"
 grid_c3_says: "Presents knowledge held in relations, kinship and pattern as long-standing Aboriginal practice, making no claim that it marks a new stage."
-grid_c3_cite: "Sand Talk (2019), middle chapters"
-grid_c3_grade: "[TBV]"
-grid_c3_basis: "summary"
+grid_c3_cite: "Sand Talk (2019), chapter not confirmed"
+grid_c3_grade: "[IC]"
+grid_c3_basis: "review"
 anabranch_steps: ["T8", "T9"]
 anabranch_t8: "silent"
 anabranch_t8_says: "Presents knowledge held in relations as long-standing Aboriginal practice, and makes no claim about a Noosphere or a growth curve."
 anabranch_t8_cite: "Sand Talk (2019), chapter not checked"
 anabranch_t8_grade: "[TBV]"
-anabranch_t8_basis: "summary"
+anabranch_t8_basis: "review"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "Sets Indigenous pattern thinking against industrial systems, with any joining on Indigenous terms."
-anabranch_t9_cite: "Sand Talk (2019), chapter not checked"
-anabranch_t9_grade: "[TBV]"
-anabranch_t9_basis: "summary"
+anabranch_t9_cite: "Sand Talk (2019), introductory chapter, pp. 15 and 19, as quoted by Brant (2021); probably ch. 1 'The Porcupine, the Paleo-mind and the Grand Design' (inference)"
+anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "review"
 ---
 
 Tyson Yunkaporta (2019). *Sand Talk*. Text Publishing.

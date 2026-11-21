@@ -14,10 +14,15 @@ standing: "Cited as a standard translation in later commentary [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "8. Traditions and testimony"
-anabranch_steps: ["T6"]
+anabranch_steps: ["T2", "T6"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Teaches the Way through stillness and non-action; its sayings on knowing without going out are read in their own terms."
+anabranch_t2_cite: "Tao Te Ching (1963), ch. 47 and whole work"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t6: "qualifies"
 anabranch_t6_says: "Renders the Dao's movement as turning back, and names no forward end-point in chapter 40."
 anabranch_t6_cite: "Tao Te Ching (1963), ch. 40 (p. 47 known from one secondary note; not checked against the Penguin text)"
@@ -33,11 +38,12 @@ Lau's version is cited as a standard English translation in later commentary [TB
 
 The wiki takes from it a Daoist text that describes the movement of the way as return, with no end-point named [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T6.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T6.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

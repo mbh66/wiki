@@ -15,10 +15,15 @@ standing: "Treated as a landmark of feminist exegesis by The Christian Century a
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Reads Genesis and other texts through literary and feminist criticism, and does not take up anomalous information."
+anabranch_t2_cite: "God and the Rhetoric of Sexuality (1978), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Speaks to part (a) only: reads the Eden story as a love story gone awry, a rupture between woman and man."
 anabranch_t7_cite: "God and the Rhetoric of Sexuality (1978), ch. 4 'A Love Story Gone Awry', pp. 73-143"
@@ -34,12 +39,13 @@ Trible reads Genesis 2-3, the Song of Songs and Ruth through rhetorical criticis
 
 The wiki takes from it a Hebrew Bible scholar's reading of Eden, in her own terms [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7.
 
 ## Cited by
 
 - [[glossary/f-l/garden-of-eden|Garden of Eden]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

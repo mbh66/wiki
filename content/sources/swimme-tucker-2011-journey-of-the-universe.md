@@ -15,10 +15,15 @@ standing: "Praised by Julianne Lutz Warren; a reviewer quoted by the publisher n
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
-anabranch_steps: ["T5"]
+anabranch_steps: ["T2", "T5"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Tells the universe story as an evolutionary narrative, and does not take up anomalous information."
+anabranch_t2_cite: "Journey of the Universe (2011), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t5: "affirms"
 anabranch_t5_says: "Presents humans as emerging within, and acting in, the universe's story."
 anabranch_t5_cite: "Journey of the Universe (2011), whole book, per publisher summary"
@@ -34,11 +39,12 @@ Julianne Lutz Warren's review praises its craft [TBV]. Josh Rothman, quoted by t
 
 The wiki takes from it a cosmic story that places humans inside the process, and a record of that story being taught [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T5.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T5.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

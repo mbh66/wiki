@@ -23,7 +23,12 @@ created: 2026-11-20
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
-anabranch_steps: ["T4"]
+anabranch_steps: ["T2", "T4"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Argues that materialist neo-Darwinism cannot account for mind, and makes no claim about anomalous information."
+anabranch_t2_cite: "Mind and Cosmos (2012), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t4: "affirms"
 anabranch_t4_says: "Proposes natural teleological principles that make the rise of life and consciousness likely, without a designer."
 anabranch_t4_cite: "Mind and Cosmos (2012), chapter not checked"
@@ -41,12 +46,13 @@ The wiki takes from it the strongest recent philosophical case for a direction b
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy of mind, with evidence type E4 and claim codes B3, H.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T4.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T4.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

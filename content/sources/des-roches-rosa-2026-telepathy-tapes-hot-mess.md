@@ -6,18 +6,29 @@ year: 2026
 type: "article"
 publisher: "Thinking Person's Guide to Autism"
 url: "https://thinkingautismguide.com/2026/02/the-telepathy-tapes-is-such-a-hot-mess.html"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "critic"
+discipline: "autism advocacy"
 design: "E4"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:d"]
 finding: "Holds that nonspeaking autistic people are underestimated, and that the podcast's telepathy claims are doubtful and its framing harmful."
 standing: "No published reply found [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "11. Critics of the anomalous experience research"
+grid_group: "11. Critics of the anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "dissents"
+grid_h2_says: "Treats the telepathy claims as doubtful at best and offers sensitivity to nonverbal cues as the likelier account."
+grid_h2_cite: "The Telepathy Tapes Is Such A Hot Mess (9 February 2026)"
+grid_h2_grade: "[TBV]"
+grid_h2_basis: "text"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
 anabranch_t2_says: "Treats the telepathy claims as doubtful at best and offers sensitivity to nonverbal cues as the likelier account."
@@ -34,10 +45,16 @@ No published reply was found [TBV].
 
 The wiki takes from it a disability-rights critique that keeps the telepathy claim apart from the right to communicate [TBV].
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in autism advocacy, with evidence type E4 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

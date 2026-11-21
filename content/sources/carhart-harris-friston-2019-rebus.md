@@ -16,10 +16,15 @@ standing: "Widely cited; commentators link it to Huxley's reducing valve [IC]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "1. Mind and brain science"
-anabranch_steps: ["T3"]
+anabranch_steps: ["T2", "T3"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Models psychedelics as relaxing high-level priors in the brain, and makes no claim about information gained."
+anabranch_t2_cite: "REBUS and the Anarchic Brain (2019), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t3: "qualifies"
 anabranch_t3_says: "Holds that the brain constrains experience through priors that psychedelics relax, within a naturalistic model of a brain that produces experience."
 anabranch_t3_cite: "Pharmacological Reviews 71(3) (2019), model sections"
@@ -35,11 +40,12 @@ The paper is widely cited in psychedelic science [IC]. A 2020 commentary places 
 
 The wiki takes from it the strongest naturalistic model that echoes the filter image. It qualifies the filter claim because it keeps a brain that produces experience (inference) [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

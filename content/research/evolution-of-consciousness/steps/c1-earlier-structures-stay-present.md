@@ -13,7 +13,7 @@ depends_on_h: "holds-either-way"
 affirms_count: 9
 qualifies_count: 6
 dissents_count: 1
-silent_count: 39
+silent_count: 70
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,7 +37,7 @@ Unchanged. It is the most widely shared step among the sequence theorists.
 
 ## Where the grid sources stand
 
-Of the 55 grid sources, 9 affirm this step, 6 qualify it and one dissents. The other 39 are silent on it.
+Of the 86 grid sources, 9 affirm this step, 6 qualify it and one dissents. The other 70 are silent on it.
 
 ### Affirms
 

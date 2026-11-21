@@ -7,18 +7,29 @@ type: "journal-article"
 publisher: "Frontiers in Psychology 3: 390"
 url: "https://doi.org/10.3389/fpsyg.2012.00390"
 doi: "10.3389/fpsyg.2012.00390"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "evidence"
+discipline: "psychophysiology"
 design: "E1"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:a"]
 finding: "Reports a small anticipatory effect in body measures before unpredictable stimuli (random-effects effect size 0.21)."
 standing: "Updated with similar results by Duggan and Tressoldi (2018) [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "10. Anomalous experience research"
+grid_group: "10. Anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "affirms"
+grid_h2_says: "Reports body measures shifting before unpredictable stimuli in the direction of the later response."
+grid_h2_cite: "Frontiers in Psychology 3: 390, Results"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "text"
 anabranch_steps: ["T2"]
 anabranch_t2: "affirms"
 anabranch_t2_says: "Reports body measures shifting before unpredictable stimuli in the direction of the later response."
@@ -35,10 +46,16 @@ Duggan and Tressoldi (2018) added 19 newer studies and reported similar results 
 
 The wiki records the meta-analysis as a supporting study on step T2. Anomalous experience research is recorded on the Anabranch layer, never adopted.
 
+The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in psychophysiology, with evidence type E1 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

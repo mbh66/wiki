@@ -15,10 +15,15 @@ standing: "Cited in later Genesis scholarship for its account of downward, upwar
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "8. Traditions and testimony"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Questions reading Genesis 3 as a fall story, and does not take up anomalous information."
+anabranch_t2_cite: "Is Genesis 3 a Fall Story? (1994), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Reads Genesis 3 as estrangement from God through sin and rejects an upward fall to higher self-consciousness; speaks to the Eden reading of part (a)."
 anabranch_t7_cite: "Is Genesis 3 a Fall Story? (1994), pp. 144-148"
@@ -34,12 +39,13 @@ Later Genesis scholarship cites the article for its account of downward, upward 
 
 The wiki takes from it a reading of Eden that keeps a break in the relationship with God and describes no split in consciousness (inference) [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 - [[glossary/f-l/garden-of-eden|Garden of Eden]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

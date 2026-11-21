@@ -4,7 +4,7 @@ description: "The landing page for the wiki's research briefs: evidence-based st
 aliases: ["research", "research folder", "research briefs"]
 tags: ["landing", "orientation", "research"]
 created: 2026-08-27
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 source_documents: []
 epistemic_status: "documented-framework"
@@ -37,7 +37,7 @@ Research briefs are the wiki's most detailed layer. A concept page tells you wha
 - [[research/mountain-water-commons|Mountain Water Commons: Community-Held Catchments Beyond Asset-Based Development]]. Communities that hold a mountain catchment's water function as a shared asset, coded across 46 cases in the [[bioconomy/cases/catchments/index|case register]], with nine graded predictions and a record of capture and failure.
 - [[research/protective-space-for-young-initiatives|Protective Space for Young Initiatives]]. What transitions research shows about shielding, nurturing and exposing young initiatives: the concepts, the evidence by design level, the critiques, the African studies, monitoring that doesn't harm, and nine graded predictions, with a sortable table of 42 works.
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]. 101 works on whether human consciousness has a history, from Gebser and Donald to their critics, coded by tier, evidence type and the claims each speaks to, in two sortable tables, with coverage tests and the gaps that remain.
-- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]. A claim grid setting 55 sources, critics included, against each step of the evolution of consciousness argument, with the kind of evidence each step rests on, a dating table set against the archaeological record, and the Southern African record.
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]. A claim grid setting 86 sources, critics included, against each step of the evolution of consciousness argument, with the kind of evidence each step rests on, a dating table set against the archaeological record, and the Southern African record.
 
 ## Related pages
 

@@ -21,31 +21,31 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "2. Philosophy of mind"
 grid_steps: ["A1", "A3", "H"]
 grid_a1: "affirms"
 grid_a1_says: "Places cognition in the enactive coupling of living organisms with their worlds."
 grid_a1_cite: "The Embodied Mind (1991), Part IV 'Steps to a Middle Way', ch. 8 'Enaction: Embodied Cognition' and ch. 9 'Evolutionary Path Making and Natural Drift'"
-grid_a1_grade: "[TBV]"
-grid_a1_basis: "summary"
+grid_a1_grade: "[IC]"
+grid_a1_basis: "abstract"
 grid_a3: "qualifies"
-grid_a3_says: "Shows through mindfulness practice that experience can be reorganised by training, a claim about states of mind."
+grid_a3_says: "Argues that mindfulness practice can reorganise lived experience, a claim about trained states of mind with no account of historical structures of awareness."
 grid_a3_cite: "The Embodied Mind (1991), Part I, ch. 2 'What Do We Mean \"Human Experience\"?', and Part II, ch. 4 'The I of the Storm'"
-grid_a3_grade: "[TBV]"
-grid_a3_basis: "summary"
+grid_a3_grade: "[IC]"
+grid_a3_basis: "abstract"
 grid_h: "qualifies"
 grid_h_says: "Takes a middle way that denies both a fixed objective world and a fixed self."
 grid_h_cite: "The Embodied Mind (1991), Part V 'Worlds without Ground', ch. 10 'The Middle Way'"
-grid_h_grade: "[TBV]"
-grid_h_basis: "summary"
+grid_h_grade: "[IC]"
+grid_h_basis: "abstract"
 anabranch_steps: ["T1"]
 anabranch_t1: "silent"
 anabranch_t1_says: "Joins cognitive science and Buddhist practice in an enactive account of embodied mind, and does not take up survival beyond the body."
 anabranch_t1_cite: "The Embodied Mind (1991), chapter not checked"
 anabranch_t1_grade: "[TBV]"
-anabranch_t1_basis: "summary"
+anabranch_t1_basis: "abstract"
 ---
 
 Francisco J. Varela, Evan Thompson, Eleanor Rosch (1991). *The Embodied Mind*. MIT Press.

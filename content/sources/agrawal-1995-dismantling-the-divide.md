@@ -16,10 +16,15 @@ standing: "A standard reference in critiques of indigenous knowledge in developm
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T9"]
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Argues that the line between Indigenous and scientific knowledge cannot hold, and does not take up anomalous information."
+anabranch_t2_cite: "Dismantling the Divide Between Indigenous and Scientific Knowledge (1995), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "Argues that no fixed line divides indigenous and scientific knowledge, which recasts the two streams T9 sees flowing together."
 anabranch_t9_cite: "Development and Change 26(3) (1995), 413-439, abstract and conclusion"
@@ -35,11 +40,12 @@ The article is widely cited in conservation and development studies, often besid
 
 The wiki takes from it a qualifier on the two-stream framing that T9 assumes, coded as Michael Haupt decided on 20 November 2026 [MS].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

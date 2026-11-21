@@ -16,10 +16,15 @@ standing: "Foundational for Two-Eyed Seeing; reviews find its later use uneven [
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T9"]
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Describes Two-Eyed Seeing in co-learning between Indigenous and mainstream knowledges, and does not frame it as an unexplained route."
+anabranch_t2_cite: "Two-Eyed Seeing and Other Lessons Learned within a Co-Learning Journey of Bringing Together Indigenous and Mainstream Knowledges and Ways of Knowing (2012), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t9: "affirms"
 anabranch_t9_says: "Argues that Indigenous and mainstream knowledges should be brought together through co-learning, each kept whole."
 anabranch_t9_cite: "J Environ Stud Sci 2(4), lessons learned"
@@ -35,11 +40,12 @@ Two-Eyed Seeing has since been taken up in health research, education and resour
 
 The wiki records the paper in its own terms on step T9, as an argument for joining two ways of knowing while keeping each whole.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

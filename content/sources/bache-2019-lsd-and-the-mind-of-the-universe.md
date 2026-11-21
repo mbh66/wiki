@@ -12,12 +12,13 @@ briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"
 tier: "context"
 discipline: "philosophy of religion"
 design: "E5"
-claims: ["B3", "C2", "C3", "H"]
+claims: ["B3", "C2", "C3", "H", "H2"]
 claim_b3: true
 claim_c2: true
 claim_c3: true
 claim_h: true
-stance: ["B3:a", "C2:a", "C3:a", "H:a"]
+claim_h2: true
+stance: ["B3:a", "C2:a", "C3:a", "H:a", "H2:a"]
 finding: "Reports first-person experience of a cosmic intelligence and of a collective transformation of the human species now under way."
 standing: "First-person testimony with a foreword by Ervin Laszlo, received within psychedelic, transpersonal and integral circles; no review in an academic journal located; not a controlled study [IC]"
 on_seed_list: "no"
@@ -26,7 +27,7 @@ created: 2026-11-19
 updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "8. Traditions and testimony"
-grid_steps: ["B3", "C2", "C3", "H"]
+grid_steps: ["B3", "C2", "C3", "H", "H2"]
 grid_b3: "affirms"
 grid_b3_says: "Reads the evolution of consciousness as purposeful, moving toward a deeper union of the human with a cosmic intelligence."
 grid_b3_cite: "LSD and the Mind of the Universe (2019), ch. 9 'The Birth of the Future Human' and ch. 11 'Final Vision' (inference)"
@@ -47,19 +48,29 @@ grid_h_says: "Reports direct experience of a living intelligence underlying the 
 grid_h_cite: "LSD and the Mind of the Universe (2019), ch. 6 'Initiation into the Universe' and ch. 10 'Diamond Luminosity' (inference)"
 grid_h_grade: "[TBV]"
 grid_h_basis: "review"
-anabranch_steps: ["T1"]
+grid_h2: "affirms"
+grid_h2_says: "Reports insights from 73 LSD sessions as communion with the creative intelligence of the universe, including visions of a future humanity."
+grid_h2_cite: "LSD and the Mind of the Universe (2019), ch. 6, 'Initiation into the Universe' (sessions 18-24), and ch. 9, 'The Birth of the Future Human'; numbering from a library catalogue"
+grid_h2_grade: "[TBV]"
+grid_h2_basis: "abstract"
+anabranch_steps: ["T1", "T2"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Holds that reincarnation gives individual consciousness open-ended time to develop."
 anabranch_t1_cite: "LSD and the Mind of the Universe (2019), p. 91, as quoted in a review"
 anabranch_t1_grade: "[TBV]"
 anabranch_t1_basis: "review"
+anabranch_t2: "affirms"
+anabranch_t2_says: "Reports insights from 73 LSD sessions as communion with the creative intelligence of the universe, including visions of a future humanity."
+anabranch_t2_cite: "LSD and the Mind of the Universe (2019), ch. 6, 'Initiation into the Universe' (sessions 18-24), and ch. 9, 'The Birth of the Future Human'; numbering from a library catalogue"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "abstract"
 ---
 
 Christopher M. Bache (2019). *LSD and the Mind of the Universe: Diamonds from Heaven*. Park Street Press, Rochester, Vermont; foreword by Ervin Laszlo.
 
 Christopher Bache, a philosopher of religion, records the insights of 73 high-dose LSD sessions over twenty years, conducted on protocols established by Stanislav Grof [IC]. He reports a deepening communion with what he calls the mind of the universe, and a coming transformation of the human species as a whole, gathered in a chapter on what he calls the birth of the Future Human [IC]. The book carries a foreword by Ervin Laszlo and endorsements from psychedelic researchers; its critical reception has come from within the integral movement, for example Brad Reynolds on *Integral World*, and the wiki found no review in an academic journal [IC]. The book is testimony: one person's systematic first-person record, with no controlled study behind it. Tom Morgan's *Anomaly Grid* draws on it for several steps. The wiki takes it as testimony (E5) for the claims that a new collective structure is emerging and that consciousness is fundamental.
 
-The [[research/evolution-of-consciousness/library|library]] codes it as a context work in philosophy of religion, with evidence type E5 and claim codes B3, C2, C3, H.
+The [[research/evolution-of-consciousness/library|library]] codes it as a context work in philosophy of religion, with evidence type E5 and claim codes B3, C2, C3, H, H2.
 
 
 ## References for this note
@@ -67,15 +78,17 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 - Institute of Noetic Sciences, event page for *LSD and the Mind of the Universe* (2022): https://noetic.org/event/lsd-mind-universe/
 - Reynolds, B. A Brief Review of Axial Age Teachings: A Response to Chris Bache. *Integral World*: https://integralworld.net/reynolds50.html
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1.
 
-The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3, C2, C3 and H.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3, C2, C3, H and H2.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

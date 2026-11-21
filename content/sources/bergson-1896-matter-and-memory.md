@@ -15,10 +15,15 @@ standing: "Early expositors Gunn and Slosson both read it as treating the brain 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
-anabranch_steps: ["T3"]
+anabranch_steps: ["T2", "T3"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Treats the brain as an organ of selection for action, and in the parts read does not take up telepathy or information from distant sources."
+anabranch_t2_cite: "Matter and Memory (1896), Introduction and ch. I read; chs II to IV not read"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "text"
 anabranch_t3: "affirms"
 anabranch_t3_says: "Holds that the brain selects what enters conscious perception for action and does not produce representation."
 anabranch_t3_cite: "Matter and Memory (1911 trans.), ch. I, 'Of the Selection of Images for Conscious Presentation. What Our Body Means and Does', esp. pp. 19-21 and 30-31"
@@ -34,11 +39,12 @@ Early expositors, Gunn and Slosson among them, read the book this way [IC]. Berg
 
 The wiki takes from it a second primary text, beside [[sources/james-1898-human-immortality|James (1898)]], for the claim that the brain selects and does not produce [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

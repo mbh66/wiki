@@ -11,10 +11,11 @@ briefs: ["evolution-of-consciousness-library", "anabranch"]
 tier: "evidence"
 discipline: "psychology of religion"
 design: "E5"
-claims: ["H", "B1"]
+claims: ["H", "B1", "H2"]
 claim_h: true
 claim_b1: true
-stance: ["H:q", "B1:q"]
+claim_h2: true
+stance: ["H:q", "B1:q", "H2:q"]
 finding: "Mystical states are a real variety of consciousness"
 standing: "[TBV]"
 on_seed_list: "yes"
@@ -23,7 +24,12 @@ created: 2026-11-19
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
-anabranch_steps: ["T3"]
+anabranch_steps: ["T2", "T3"]
+anabranch_t2: "qualifies"
+anabranch_t2_says: "Reports that mystical states carry a noetic sense of insight, authoritative for those who have them and binding on no one else."
+anabranch_t2_cite: "The Varieties of Religious Experience (1902), Lectures XVI and XVII, 'Mysticism': the noetic quality among the four marks, and the three closing conclusions"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 anabranch_t3: "qualifies"
 anabranch_t3_says: "Suggests that the subconscious self opens onto a wider consciousness; the filter thesis proper is in Human Immortality (1898)."
 anabranch_t3_cite: "The Varieties of Religious Experience (1902), Lecture XX 'Conclusions'; Postscript not checked"
@@ -39,14 +45,15 @@ How the work is received in its own field is still to be checked [TBV].
 
 The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
-The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in psychology of religion, with evidence type E5 and claim codes H, B1.
+The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in psychology of religion, with evidence type E5 and claim codes H, B1, H2.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T2; it qualifies T3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

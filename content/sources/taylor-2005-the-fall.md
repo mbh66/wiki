@@ -15,15 +15,20 @@ standing: "Praised in transpersonal circles; Capriles (2007) reads it as a degen
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Argues that an ego explosion in early history brought alienation, and no account located shows it taking up anomalous information."
+anabranch_t2_cite: "The Fall (2005), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Argues that an Ego Explosion some 6,000 years ago ended an earlier way of life free of war and patriarchy; speaks to part (a) only."
 anabranch_t7_cite: "The Fall (2005), Part One, chs. 2-5 (titles only checked)"
-anabranch_t7_grade: "[TBV]"
-anabranch_t7_basis: "summary"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "abstract"
 ---
 
 Steve Taylor (2005). *The Fall: The Insanity of the Ego in Human History and the Dawning of a New Era*. O Books, Ropley. ISBN 978-1-905047-20-8. New edition with an afterword, 2018 (ISBN 978-1-78535-804-3). [Author's page](https://www.stevenmtaylor.com/books/the-fall/).
@@ -34,11 +39,12 @@ Elías Capriles reviewed it in the *International Journal of Transpersonal Studi
 
 The wiki takes from it the fullest published case for a split in the human psyche some 6,000 years ago [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

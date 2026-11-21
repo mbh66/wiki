@@ -14,10 +14,15 @@ standing: "Treated as the founding text of Cosmic Education in Montessori writin
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T5"]
+anabranch_steps: ["T2", "T5"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Sets out cosmic education for children, and does not take up anomalous information."
+anabranch_t2_cite: "To Educate the Human Potential (1948), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t5: "qualifies"
 anabranch_t5_says: "Holds that children should be taught their part in a cosmic plan; shows the idea has been taught."
 anabranch_t5_cite: "To Educate the Human Potential (1948; 2nd impr. 1955), Introduction, p. 2, and ch. 1 'The Six-year-old Confronted with the Cosmic Plan', pp. 4-10; the p. 10 reference not confirmed"
@@ -33,11 +38,12 @@ Montessori writing treats the book as the founding text of Cosmic Education [TBV
 
 The wiki takes from it a curriculum that teaches each child a part in a cosmic story, which bears on the claim that this has never been taught [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T5.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T5.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

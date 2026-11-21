@@ -18,7 +18,12 @@ created: 2026-11-20
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Argues that the evidence does not support a matriarchal prehistory, and does not take up anomalous information."
+anabranch_t2_cite: "The Myth of Matriarchal Prehistory (2000), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "dissents"
 anabranch_t7_says: "Argues that the evidence does not show a peaceful, goddess-centred prehistory overturned by later invaders; addresses the lost-age reading of part (a)."
 anabranch_t7_cite: "The Myth of Matriarchal Prehistory (2000), ch. 5 'Finding Gender in Prehistory' (p. 81), ch. 6 'The Case Against Prehistoric Matriarchies I: Other Societies, Early Societies' (p. 93), ch. 7 'The Case Against Prehistoric Matriarchies II: Prehistoric Art and Architecture' (p. 116) and ch. 8 'Was There a Patriarchal Revolution?' (p. 157)"
@@ -34,11 +39,12 @@ Publishers Weekly gave the book a starred review [IC]. Natalie Angier's review p
 
 The wiki takes from it the main published critique of a lost partnership or goddess age [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T7.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

@@ -17,7 +17,12 @@ created: 2026-11-20
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
-anabranch_steps: ["T6"]
+anabranch_steps: ["T2", "T6"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Criticises reading history as progress towards the present, and does not take up anomalous information."
+anabranch_t2_cite: "The Whig Interpretation of History (1931), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t6: "dissents"
 anabranch_t6_says: "Rejects reading history as progress toward the present; speaks to the writing of history only."
 anabranch_t6_cite: "The Whig Interpretation of History (1931), Preface (dated September 1931) and the essay as a whole"
@@ -33,11 +38,12 @@ Jack Haughton, in *The Historical Journal* (2026), DOI 10.1017/S0018246X25101155
 
 The wiki takes from it the classic case against reading a direction into the past, with Haughton's rereading beside it [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T6.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T6.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

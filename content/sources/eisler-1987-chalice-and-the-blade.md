@@ -17,7 +17,12 @@ created: 2026-11-20
 updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T2", "T7"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Contrasts partnership and dominator models in history, and does not take up anomalous information."
+anabranch_t2_cite: "The Chalice and the Blade (1987), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Argues that dominator societies displaced earlier partnership societies and reads the Eden story as a trace of the shift; speaks to part (a) only."
 anabranch_t7_cite: "The Chalice and the Blade (1987), chapters not checked"
@@ -33,11 +38,12 @@ Kraemer's review (2004) finds that the archaeology Eisler relies on has been dis
 
 The wiki takes from it the main published source for a split from partnership to domination [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

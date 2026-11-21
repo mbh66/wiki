@@ -6,18 +6,29 @@ year: 1903
 type: "book"
 publisher: "Longmans, Green, London, 2 vols; abridged edition ed. L. H. Myers, Longmans, Green, 1906"
 url: "https://www.gutenberg.org/ebooks/38492"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "canon"
+discipline: "psychical research"
 design: "E3"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:a"]
 finding: "Argues that the conscious self is a selection from a larger subliminal self, which the organism restricts in life and which may survive bodily death."
 standing: "Field reception not checked in this run [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "10. Anomalous experience research"
+grid_group: "10. Anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "affirms"
+grid_h2_says: "Holds that converging experimental and spontaneous evidence supports telepathy, communication from mind to mind without the recognised organs of sense."
+grid_h2_cite: "Human Personality (abridged 1906 ed.), ch. I, pp. 8-9; Glossary, 'Telepathy', p. xvii"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "text"
 anabranch_steps: ["T1", "T2", "T3"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Argues that personality involves an element that survives bodily death, and that evidence from apparitions points to the action of departed spirits."
@@ -42,10 +53,16 @@ Myers presents the book as an exposition of evidence gathered by the Society for
 
 The wiki takes from it a founding statement of the view that the organism restricts a larger consciousness [TBV].
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in psychical research, with evidence type E3 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it affirms T3.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]

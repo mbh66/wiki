@@ -7,18 +7,29 @@ type: "journal-article"
 publisher: "Psychological Bulletin 136(4): 471-485"
 url: "https://doi.org/10.1037/a0019457"
 doi: "10.1037/a0019457"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "evidence"
+discipline: "parapsychology"
 design: "E1"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:a"]
 finding: "Reports a consistent above-chance effect across free-response ESP studies and reads it as support for the noise reduction model."
 standing: "Challenged by Hyman (2010) and by Rouder, Morey and Province (2013); the authors replied to both [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "10. Anomalous experience research"
+grid_group: "10. Anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "affirms"
+grid_h2_says: "Argues that pooled ganzfeld and other free-response studies show information transfer above chance."
+grid_h2_cite: "Psychological Bulletin 136(4) (2010), 471-485, abstract and conclusion"
+grid_h2_grade: "[IC]"
+grid_h2_basis: "abstract"
 anabranch_steps: ["T2"]
 anabranch_t2: "affirms"
 anabranch_t2_says: "Argues that pooled ganzfeld and other free-response studies show information transfer above chance."
@@ -35,10 +46,16 @@ Ray Hyman replied in the same issue (136(4): 486-490) that the authors "manufact
 
 The wiki takes from it the strongest meta-analytic claim on T2, read beside its replies [TBV]. Hyman (2010) and Rouder and colleagues (2013) are confirmed and could take records of their own.
 
+The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in parapsychology, with evidence type E1 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

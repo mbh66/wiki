@@ -16,10 +16,15 @@ standing: "Indexed by ERIC (EJ1202883) and extended in a 2026 study of imperiali
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
-anabranch_steps: ["T5"]
+anabranch_steps: ["T2", "T5"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Criticises the Big History curriculum's treatment of knowledges, and does not take up anomalous information."
+anabranch_t2_cite: "The Big History Project and colonizing knowledges in world history curriculum (2019), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t5: "qualifies"
 anabranch_t5_says: "Reports that the Big History Project curriculum promotes Eurocentrism through its content and sources, marginalising non-European peoples and Indigenous knowledges."
 anabranch_t5_cite: "Journal of Curriculum Studies 51(1) (2019): 1-20, abstract; full text not read"
@@ -35,11 +40,12 @@ The project presents itself as a modern, science-based origin story [IC]. The fu
 
 The wiki takes from it the first scholarly critique on the wiki of a cosmic story taught as a curriculum [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T5.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T5.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

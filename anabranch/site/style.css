@@ -425,6 +425,9 @@ p {
 .key-note {
   flex-basis: 100%;
 }
+.key-jumps .sep {
+  margin-inline: 0.6rem;
+}
 
 @media (max-width: 640px) {
   .river-labels,
@@ -505,6 +508,7 @@ p {
   margin-bottom: clamp(3rem, 8vw, 5rem);
 }
 .part-title {
+  scroll-margin-top: 1.5rem;
   max-width: var(--measure);
   margin: 0 auto 1.5rem;
   padding-inline: 1.25rem;

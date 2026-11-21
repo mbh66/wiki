@@ -15,10 +15,15 @@ standing: "Widely cited as a measured critical review of Nagel [TBV]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
-anabranch_steps: ["T4"]
+anabranch_steps: ["T2", "T4"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Criticises Nagel's Mind and Cosmos, and does not take up anomalous information."
+anabranch_t2_cite: "Remarkable Facts (2012), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t4: "dissents"
 anabranch_t4_says: "Rejects Nagel's argument that nature needs goal-directed principles to explain the rise of life and mind."
 anabranch_t4_cite: "Boston Review (2012), section 'Brute Facts'"
@@ -34,11 +39,12 @@ Later commentators treat the review as one of the most useful on the substance o
 
 The wiki takes from it the main reasoned rejection of a striving built into nature [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T4.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T4.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

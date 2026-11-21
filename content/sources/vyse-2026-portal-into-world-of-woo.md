@@ -6,18 +6,29 @@ year: 2026
 type: "article"
 publisher: "Skeptical Inquirer 50(5), September/October 2026"
 url: "https://stuartvyse.com/2026/08/18/my-first-cover-story-my-csicon-talk/"
-tags: ["source", "consciousness", "anabranch"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["anabranch"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
+tier: "critic"
+discipline: "psychology"
 design: "E3"
+claims: ["H2"]
+claim_h2: true
+stance: ["H2:d"]
 finding: "Reports on the podcast's second season and rejects the paranormal claims it endorses."
 standing: "The cover story of the Skeptical Inquirer 50(5) feature; supporters of the podcast read the same material as evidence [TBV]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
-anabranch_group: "11. Critics of the anomalous experience research"
+grid_group: "11. Critics of the anomalous experience research"
+grid_steps: ["H2"]
+grid_h2: "dissents"
+grid_h2_says: "Rejects the paranormal claims of the podcast's second season, which he reports as dropping its earlier guardrails."
+grid_h2_cite: "Skeptical Inquirer 50(5), September/October 2026, section 'Beyond Season One'; the author's description of the article"
+grid_h2_grade: "[TBV]"
+grid_h2_basis: "abstract"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
 anabranch_t2_says: "Rejects the paranormal claims of the podcast's second season, which he reports as dropping its earlier guardrails."
@@ -34,10 +45,16 @@ The piece follows his column on the first season, filed as [[sources/vyse-2025-t
 
 The wiki takes from it a critic's account of the second season, which carries the podcast's claims beyond telepathy [TBV].
 
+The [[research/evolution-of-consciousness/library|library]] codes it as a critic work in psychology, with evidence type E3 and claim codes H2.
+
 The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T2.
+
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from H2.
 
 ## Cited by
 
+- [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
+- [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">

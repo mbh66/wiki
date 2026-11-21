@@ -15,10 +15,15 @@ standing: "The first national policy of its kind [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T7", "T9"]
+anabranch_steps: ["T2", "T7", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Sets national policy for recognising and protecting Indigenous knowledge systems, and does not take up anomalous information."
+anabranch_t2_cite: "Indigenous Knowledge Systems Policy (2004), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Affirms indigenous knowledge as living systems held by practitioners, and is silent on any split."
 anabranch_t7_cite: "IKS Policy (2004), policy drivers"
@@ -39,12 +44,13 @@ The policy led to the Protection, Promotion, Development and Management of Indig
 
 The wiki records the policy in its own terms on steps T7 and T9. On T7 it speaks only to the continuity of indigenous knowledge, as living systems held by practitioners. On T9 it calls for interfacing between knowledge systems at national scale, and says nothing about place.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7; it qualifies T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

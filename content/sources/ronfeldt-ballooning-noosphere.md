@@ -4,13 +4,28 @@ description: "Extends Ronfeldt's earlier work on the Noosphere and noopolitik by
 author: "David Ronfeldt"
 year: 2026
 type: "paper"
-publisher: "Unpublished"
+publisher: "SSRN working paper 7191638, posted 6 August 2026"
+url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7191638"
+doi: "10.2139/ssrn.7191638"
 tags: ["source", "noosphere", "holonic", "geosphere", "coordination", "networks", "AI", "evolution"]
 subject: ["coordination", "consciousness", "civilization"]
+briefs: ["anabranch"]
 forthcoming: "Pan Tianqun (ed.), *The Rising of the Globe Mind: Refined Readings on the Noosphere*, Jiangsu Renmin Press, 2027"
 created: 2026-11-19
-updated: 2026-11-09
+updated: 2026-11-21
 source_project: "BioConomy"
+anabranch_group: "7. Metacrisis and the mycelial turn"
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Does not take up information arriving by routes that current science has not explained."
+anabranch_t2_cite: "Our Planet's Ballooning Noosphere (2026), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
+anabranch_t9: "qualifies"
+anabranch_t9_says: "Joins geosphere, biosphere and noosphere in one holonic frame at planetary scale, with no grounding in place or Indigenous knowledge."
+anabranch_t9_cite: "Our Planet's Ballooning Noosphere (2026), SSRN abstract"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "abstract"
 ---
 
 Ronfeldt, D. (2026). *Our Planet's Ballooning Noosphere: Toward A Multi-Sphere Holonic Framework For Improving Science And Strategy — With AEONs.* Unpublished paper, July 2026. First version presented at the International Conference on AI: Noosphere and Humanities, Nanjing University, May 29-31, 2026. Forthcoming in Pan Tianqun (ed.), *The Rising of the Globe Mind: Refined Readings on the Noosphere*, Jiangsu Renmin Press, 2027.
@@ -25,8 +40,12 @@ Ronfeldt frames decontrol (ceding, sharing, and distributing power and control) 
 
 The paper references the BioConomy project directly, citing Michael Haupt's Framer OS research briefs on S-curves and [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
 
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T9.
+
 ## Citing Pages
 
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 - [[essays/from-geosphere-to-noosphere|From Geosphere to Noosphere]]
 - [[noosphere|Noosphere]]
 - [[geosphere|Geosphere]]

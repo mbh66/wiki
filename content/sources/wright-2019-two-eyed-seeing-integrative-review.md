@@ -16,10 +16,15 @@ standing: "Cited with Roher and colleagues (2021) on the uneven use of the princ
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T9"]
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Reviews how Two-Eyed Seeing is used in research with Indigenous people, and does not take up anomalous information."
+anabranch_t2_cite: "Using Two-Eyed Seeing in Research With Indigenous People (2019), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "Reports that research applying Two-Eyed Seeing describes the joining of knowledges vaguely."
 anabranch_t9_cite: "IJQM 18, abstract"
@@ -35,11 +40,12 @@ A later integrative review, on the use of Two-Eyed Seeing during data analysis i
 
 The wiki records the review on step T9 as a qualifier: it supports the aim of bringing knowledges together, and finds that research rarely shows how the joining works in practice.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

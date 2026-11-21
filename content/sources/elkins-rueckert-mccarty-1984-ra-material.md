@@ -15,15 +15,20 @@ standing: "Read as a spiritual teaching in New Age communities; its reported sou
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "8. Traditions and testimony"
-anabranch_steps: ["T1", "T6"]
+anabranch_steps: ["T1", "T2", "T6"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Teaches that the self continues across incarnations and densities beyond any one body."
 anabranch_t1_cite: "The Ra Contact, Session 21 (10 February 1981), 21.9-21.10"
 anabranch_t1_grade: "[TBV]"
 anabranch_t1_basis: "text"
+anabranch_t2: "affirms"
+anabranch_t2_says: "Presents transcripts of trance sessions as communications from Ra, a collective intelligence teaching the Law of One; the source cannot be checked."
+anabranch_t2_cite: "The Ra Material (1984), Book I, Introduction and Sessions 1-26; pages not confirmed"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "abstract"
 anabranch_t6: "affirms"
 anabranch_t6_says: "Teaches that all beings progress through densities toward the eighth, or octave, where creation becomes one with the Creator again."
 anabranch_t6_cite: "The Ra Contact, Session 16 (31 January 1981), 16.21-16.22 and 16.38 (Book I)"
@@ -39,12 +44,13 @@ This is testimony (E5), and E5 carries no lower worth [MS]. The source the autho
 
 The wiki takes from it one of Tom Morgan's sources, described as its authors present it [TBV]. T5 is left uncoded because no passage on it was located.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T6.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it affirms T6.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

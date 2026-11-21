@@ -15,10 +15,15 @@ standing: "Reviewers in Philosophy East and West and China Review International 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "8. Traditions and testimony"
-anabranch_steps: ["T6"]
+anabranch_steps: ["T2", "T6"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Translates the Zhuangzi's play with perspective and transformation, and does not state that knowledge arrives by unexplained routes."
+anabranch_t2_cite: "Zhuangzi (2009), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t6: "qualifies"
 anabranch_t6_says: "Reads the Zhuangzi as ceaseless transformation of perspectives whose source cannot be known; states no direction or end."
 anabranch_t6_cite: "Ziporyn, 'Zhuangzi as Philosopher' (Hackett online essay keyed to the 2009 edition)"
@@ -34,11 +39,12 @@ Reviewers in *Philosophy East and West* and *China Review International* praise 
 
 The wiki takes from it a Daoist scholar's reading of the *Zhuangzi* as transformation with no known end [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T6.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T6.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

@@ -13,10 +13,15 @@ standing: "Reported in 2014 as reaching more than 15,000 students in some 1,200 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
-anabranch_steps: ["T5"]
+anabranch_steps: ["T2", "T5"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Teaches cosmic and human history as one curriculum, and does not take up anomalous information."
+anabranch_t2_cite: "Big History Project (2011), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
 anabranch_t5: "qualifies"
 anabranch_t5_says: "Teaches the universe's history as one story in middle and high schools; shows such a story has been widely taught."
 anabranch_t5_cite: "Big History Project course (launched 2011), as described by Education Week (8 September 2014)"
@@ -32,11 +37,12 @@ Sam Wineburg, a Stanford historian, has said in the press that the course does n
 
 The wiki takes from it a measure of how far a shared cosmic story has reached schools [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T5.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T5.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {
