@@ -23,6 +23,7 @@ anabranch_t2: "dissents"
 anabranch_t2_says: "Rejects the podcast's claims of paranormal abilities in nonspeaking autistic people and of authentic authorship through facilitated communication, urging listeners to question them."
 anabranch_t2_cite: "ASAT Responds to The Skeptical Inquirer (27 January 2025), statement text"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 ---
 
 Association for Science in Autism Treatment (2025). "ASAT Responds to The Skeptical Inquirer: 'The Telepathy Tapes: A Dangerous Cornucopia of Pseudoscience'". Media Watch, 27 January 2025 [IC]. [ASAT](https://asatonline.org/media_watch/asat-responds-to-the-skeptical-inquirer-the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

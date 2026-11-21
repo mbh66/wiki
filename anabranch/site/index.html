@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Anabranch: two streams of consciousness</title>
+    <title>The Anabranch of Consciousness</title>
     <meta
       name="description"
       content="Two streams of consciousness, the Bifurcation and the Confluence, set out step by step with the sources that affirm, qualify or dissent from each claim."
@@ -28,78 +28,148 @@
 
     <header class="hero">
       <div class="measure">
-        <h1 class="title" id="title">Anabranch</h1>
+        <p class="kicker"><a href="https://wiki.bioconomy.earth" title="An economy that serves Material Consciousness grows by moving value out to wherever capital earns the most. A BioConomy that serves Mycelial Consciousness grows by keeping value in the place that produced it, and measures its health by the health of its land and people.">BioConomy</a></p>
+        <h1 class="title" id="title">The Anabranch of Consciousness</h1>
+        <p class="byline"><a href="https://www.linkedin.com/in/michaelhaupt/">Michael Haupt</a></p>
+        <hr class="rule" />
         <p class="subtitle" id="subtitle"></p>
       </div>
 
       <figure class="river" aria-labelledby="river-caption">
-        <svg viewBox="0 0 1200 290" role="img" aria-labelledby="river-title river-desc">
+        <svg viewBox="0 0 1320 290" role="img" aria-labelledby="river-title river-desc">
           <title id="river-title">The Anabranch</title>
           <desc id="river-desc">
-            A river diagram. The main channel, Indigenous Knowledge Systems, runs the full width. At
-            the Bifurcation, Material Consciousness branches off and climbs steeply toward the
-            Noosphere, then returns to the main channel at the Confluence. After the Confluence both
-            streams flow in one channel.
+            A river diagram. The main channel, Indigenous Knowledge Systems, runs the full width.
+            Before the Bifurcation it passes three markers, the three early forms of consciousness:
+            Mimetic, 3 to 1.5 million years ago;
+            Magical, 1.8 to 1 million years ago; and Mythic, 164,000 to 73,000 years ago. At the
+            Bifurcation, about 12,000 years ago, Material Consciousness branches off and traces an
+            S-curve: it rises slowly, then fast, then slowly again as it levels off near the Noosphere.
+            It returns to the main channel at the Confluence, now. After the Confluence the two streams
+            form one braid, Mycelial Consciousness, each keeping its own color and course, and the braid begins a slow rise, the start of the next S-curve.
+            Four shaded columns overlay the river, one for each TIME coordination form: Tribes up to
+            the Bifurcation, Institutions over the slow early rise, Markets from the fast climb to the
+            Noosphere, and Emergent from the Noosphere on.
           </desc>
           <defs>
-            <linearGradient
-              id="mixed"
-              x1="0"
-              y1="183"
-              x2="0"
-              y2="197"
-              gradientUnits="userSpaceOnUse"
-            >
-              <stop offset="0" style="stop-color: var(--slate)" />
-              <stop offset="0.5" style="stop-color: var(--slate)" />
-              <stop offset="0.5" style="stop-color: var(--thread)" />
-              <stop offset="1" style="stop-color: var(--thread)" />
-            </linearGradient>
+            <clipPath id="cross1"><rect x="1056" y="158" width="48" height="60" /></clipPath>
+            <clipPath id="cross2"><rect x="1116" y="153" width="48" height="60" /></clipPath>
+            <clipPath id="cross3"><rect x="1176" y="142" width="48" height="60" /></clipPath>
+            <clipPath id="cross4"><rect x="1236" y="126" width="48" height="60" /></clipPath>
           </defs>
 
-          <path
-            class="stream stream-thread"
-            d="M0 190 C 140 184, 260 196, 420 190 S 700 184, 860 190 C 960 194, 1080 186, 1200 190"
-          />
-          <path
-            class="stream stream-material"
-            pathLength="1"
-            d="M420 190 C 470 190, 500 70, 620 62 C 720 56, 790 70, 860 190"
-          />
-          <path
-            class="stream stream-mixed"
-            pathLength="1"
-            d="M860 190 C 960 194, 1080 186, 1200 190"
-          />
-
-          <g class="river-labels" aria-hidden="true">
-            <text x="650" y="222" text-anchor="middle">Indigenous Knowledge Systems</text>
-            <text x="650" y="242" text-anchor="middle" class="soft">the Golden Thread</text>
-            <text x="478" y="129" text-anchor="end">Material Consciousness</text>
-            <text x="1035" y="222" text-anchor="middle" class="soft river-joined">
-              both streams, one channel
-            </text>
+          <!-- TIME: Tribes, Institutions, Markets, Emergent. Each column fades in as the river reaches it. -->
+          <g class="time-cols" aria-hidden="true">
+            <g class="time-col time-col-t" style="animation-delay: 0.3s">
+              <rect x="0" y="0" width="380" height="290" />
+              <text x="190" y="18" text-anchor="middle" class="time-head">TRIBES</text>
+            </g>
+            <g class="time-col time-col-i" style="animation-delay: 4.8s">
+              <rect x="380" y="0" width="245" height="290" />
+              <line class="time-edge" x1="380" y1="0" x2="380" y2="290" />
+              <text x="502.5" y="18" text-anchor="middle" class="time-head">INSTITUTIONS</text>
+            </g>
+            <g class="time-col time-col-m" style="animation-delay: 7.6s">
+              <rect x="625" y="0" width="275" height="290" />
+              <line class="time-edge" x1="625" y1="0" x2="625" y2="290" />
+              <text x="760" y="18" text-anchor="middle" class="time-head">MARKETS</text>
+            </g>
+            <g class="time-col time-col-e" style="animation-delay: 10.2s">
+              <rect x="900" y="0" width="420" height="290" />
+              <line class="time-edge" x1="900" y1="0" x2="900" y2="290" />
+              <text x="1110" y="18" text-anchor="middle" class="time-head">EMERGENT</text>
+            </g>
           </g>
 
-          <a href="#T7" class="node">
-            <circle cx="420" cy="190" r="9" />
-            <text x="420" y="222" text-anchor="middle" class="node-label">Bifurcation</text>
+          <path class="stream stream-thread stream-thread-early" pathLength="1" d="M0 190 C 130 184, 250 187, 380 190" />
+          <!-- From the Bifurcation the Golden Thread runs on in step with Material
+               Consciousness, so both reach the Confluence together. -->
+          <path class="stream stream-thread stream-thread-anabranch" pathLength="1" d="M380 190 C 560 197, 840 195, 1020 190" />
+          <!-- Material Consciousness: an S-curve, slow, fast, slow, then the return. -->
+          <path class="stream stream-material" pathLength="1" d="M380 190 C 445 184, 550 176, 625 160 C 680 143, 715 80, 770 66 C 810 56, 860 52, 900 54 C 960 56, 1000 120, 1020 190" />
+          <!-- After the Confluence the two streams braid: each keeps its own course,
+               crossing over and under the other in turn. Nothing here shows until
+               Material Consciousness reaches the Confluence. -->
+          <path class="stream stream-thread stream-braid" pathLength="1" d="M1020 190.0 L1022 190.8 L1024 191.7 L1026 192.5 L1028 193.2 L1030 194.0 L1032 194.7 L1034 195.3 L1036 195.9 L1038 196.4 L1040 196.8 L1042 197.1 L1044 197.4 L1046 197.6 L1048 197.7 L1050 197.7 L1052 197.6 L1054 197.4 L1056 197.1 L1058 196.7 L1060 196.3 L1062 195.7 L1064 195.1 L1066 194.5 L1068 193.7 L1070 192.9 L1072 192.1 L1074 191.2 L1076 190.3 L1078 189.4 L1080 188.4 L1082 187.4 L1084 186.5 L1086 185.6 L1088 184.6 L1090 183.8 L1092 182.9 L1094 182.1 L1096 181.4 L1098 180.7 L1100 180.1 L1102 179.5 L1104 179.0 L1106 178.7 L1108 178.3 L1110 178.1 L1112 178.0 L1114 177.9 L1116 177.9 L1118 178.0 L1120 178.2 L1122 178.4 L1124 178.7 L1126 179.1 L1128 179.5 L1130 179.9 L1132 180.5 L1134 181.0 L1136 181.5 L1138 182.1 L1140 182.7 L1142 183.2 L1144 183.8 L1146 184.3 L1148 184.8 L1150 185.3 L1152 185.7 L1154 186.0 L1156 186.3 L1158 186.5 L1160 186.6 L1162 186.7 L1164 186.7 L1166 186.5 L1168 186.3 L1170 186.0 L1172 185.6 L1174 185.1 L1176 184.6 L1178 183.9 L1180 183.1 L1182 182.3 L1184 181.4 L1186 180.4 L1188 179.3 L1190 178.2 L1192 177.1 L1194 175.9 L1196 174.6 L1198 173.4 L1200 172.1 L1202 170.8 L1204 169.6 L1206 168.3 L1208 167.1 L1210 165.9 L1212 164.7 L1214 163.6 L1216 162.5 L1218 161.5 L1220 160.5 L1222 159.7 L1224 158.8 L1226 158.1 L1228 157.5 L1230 156.9 L1232 156.4 L1234 156.0 L1236 155.7 L1238 155.4 L1240 155.3 L1242 155.2 L1244 155.1 L1246 155.2 L1248 155.2 L1250 155.3 L1252 155.5 L1254 155.7 L1256 155.9 L1258 156.1 L1260 156.3 L1262 156.6 L1264 156.8 L1266 156.9 L1268 157.1 L1270 157.2 L1272 157.2 L1274 157.2 L1276 157.1 L1278 157.0 L1280 156.8 L1282 156.5 L1284 156.1 L1286 155.6 L1288 155.0 L1290 154.4 L1292 153.6 L1294 152.8 L1296 151.8 L1298 150.8 L1300 149.7 L1302 148.5 L1304 147.2 L1306 145.8 L1308 144.4 L1310 143.0 L1312 141.4 L1314 139.9 L1316 138.3 L1318 136.6 L1320 135.0" />
+          <path class="stream stream-braid stream-braid-material" pathLength="1" d="M1020 190.0 L1022 189.2 L1024 188.3 L1026 187.5 L1028 186.7 L1030 186.0 L1032 185.3 L1034 184.6 L1036 184.0 L1038 183.4 L1040 182.9 L1042 182.5 L1044 182.2 L1046 181.9 L1048 181.7 L1050 181.7 L1052 181.6 L1054 181.7 L1056 181.9 L1058 182.1 L1060 182.4 L1062 182.8 L1064 183.2 L1066 183.8 L1068 184.3 L1070 184.9 L1072 185.6 L1074 186.3 L1076 187.0 L1078 187.7 L1080 188.4 L1082 189.1 L1084 189.8 L1086 190.5 L1088 191.2 L1090 191.8 L1092 192.3 L1094 192.8 L1096 193.3 L1098 193.6 L1100 193.9 L1102 194.1 L1104 194.3 L1106 194.3 L1108 194.3 L1110 194.1 L1112 193.9 L1114 193.5 L1116 193.1 L1118 192.6 L1120 192.0 L1122 191.3 L1124 190.6 L1126 189.8 L1128 188.9 L1130 187.9 L1132 187.0 L1134 185.9 L1136 184.9 L1138 183.8 L1140 182.7 L1142 181.6 L1144 180.5 L1146 179.4 L1148 178.3 L1150 177.3 L1152 176.3 L1154 175.3 L1156 174.4 L1158 173.6 L1160 172.8 L1162 172.1 L1164 171.4 L1166 170.9 L1168 170.4 L1170 170.0 L1172 169.7 L1174 169.5 L1176 169.3 L1178 169.3 L1180 169.3 L1182 169.3 L1184 169.5 L1186 169.7 L1188 169.9 L1190 170.2 L1192 170.6 L1194 170.9 L1196 171.3 L1198 171.7 L1200 172.1 L1202 172.5 L1204 172.9 L1206 173.3 L1208 173.6 L1210 173.9 L1212 174.1 L1214 174.3 L1216 174.4 L1218 174.4 L1220 174.4 L1222 174.3 L1224 174.1 L1226 173.8 L1228 173.4 L1230 172.9 L1232 172.3 L1234 171.7 L1236 170.9 L1238 170.1 L1240 169.1 L1242 168.1 L1244 167.0 L1246 165.9 L1248 164.6 L1250 163.3 L1252 162.0 L1254 160.6 L1256 159.2 L1258 157.8 L1260 156.3 L1262 154.9 L1264 153.4 L1266 152.0 L1268 150.6 L1270 149.2 L1272 147.8 L1274 146.5 L1276 145.3 L1278 144.1 L1280 142.9 L1282 141.9 L1284 140.9 L1286 140.0 L1288 139.1 L1290 138.4 L1292 137.7 L1294 137.1 L1296 136.6 L1298 136.2 L1300 135.8 L1302 135.5 L1304 135.3 L1306 135.1 L1308 135.0 L1310 135.0 L1312 134.9 L1314 134.9 L1316 134.9 L1318 135.0 L1320 135.0" />
+          <g clip-path="url(#cross1)" class="braid-over" style="animation-delay: 12.22s">
+            <path class="braid-gap" d="M1020 190.0 L1022 190.8 L1024 191.7 L1026 192.5 L1028 193.2 L1030 194.0 L1032 194.7 L1034 195.3 L1036 195.9 L1038 196.4 L1040 196.8 L1042 197.1 L1044 197.4 L1046 197.6 L1048 197.7 L1050 197.7 L1052 197.6 L1054 197.4 L1056 197.1 L1058 196.7 L1060 196.3 L1062 195.7 L1064 195.1 L1066 194.5 L1068 193.7 L1070 192.9 L1072 192.1 L1074 191.2 L1076 190.3 L1078 189.4 L1080 188.4 L1082 187.4 L1084 186.5 L1086 185.6 L1088 184.6 L1090 183.8 L1092 182.9 L1094 182.1 L1096 181.4 L1098 180.7 L1100 180.1 L1102 179.5 L1104 179.0 L1106 178.7 L1108 178.3 L1110 178.1 L1112 178.0 L1114 177.9 L1116 177.9 L1118 178.0 L1120 178.2 L1122 178.4 L1124 178.7 L1126 179.1 L1128 179.5 L1130 179.9 L1132 180.5 L1134 181.0 L1136 181.5 L1138 182.1 L1140 182.7 L1142 183.2 L1144 183.8 L1146 184.3 L1148 184.8 L1150 185.3 L1152 185.7 L1154 186.0 L1156 186.3 L1158 186.5 L1160 186.6 L1162 186.7 L1164 186.7 L1166 186.5 L1168 186.3 L1170 186.0 L1172 185.6 L1174 185.1 L1176 184.6 L1178 183.9 L1180 183.1 L1182 182.3 L1184 181.4 L1186 180.4 L1188 179.3 L1190 178.2 L1192 177.1 L1194 175.9 L1196 174.6 L1198 173.4 L1200 172.1 L1202 170.8 L1204 169.6 L1206 168.3 L1208 167.1 L1210 165.9 L1212 164.7 L1214 163.6 L1216 162.5 L1218 161.5 L1220 160.5 L1222 159.7 L1224 158.8 L1226 158.1 L1228 157.5 L1230 156.9 L1232 156.4 L1234 156.0 L1236 155.7 L1238 155.4 L1240 155.3 L1242 155.2 L1244 155.1 L1246 155.2 L1248 155.2 L1250 155.3 L1252 155.5 L1254 155.7 L1256 155.9 L1258 156.1 L1260 156.3 L1262 156.6 L1264 156.8 L1266 156.9 L1268 157.1 L1270 157.2 L1272 157.2 L1274 157.2 L1276 157.1 L1278 157.0 L1280 156.8 L1282 156.5 L1284 156.1 L1286 155.6 L1288 155.0 L1290 154.4 L1292 153.6 L1294 152.8 L1296 151.8 L1298 150.8 L1300 149.7 L1302 148.5 L1304 147.2 L1306 145.8 L1308 144.4 L1310 143.0 L1312 141.4 L1314 139.9 L1316 138.3 L1318 136.6 L1320 135.0" />
+            <path class="stream stream-thread" d="M1020 190.0 L1022 190.8 L1024 191.7 L1026 192.5 L1028 193.2 L1030 194.0 L1032 194.7 L1034 195.3 L1036 195.9 L1038 196.4 L1040 196.8 L1042 197.1 L1044 197.4 L1046 197.6 L1048 197.7 L1050 197.7 L1052 197.6 L1054 197.4 L1056 197.1 L1058 196.7 L1060 196.3 L1062 195.7 L1064 195.1 L1066 194.5 L1068 193.7 L1070 192.9 L1072 192.1 L1074 191.2 L1076 190.3 L1078 189.4 L1080 188.4 L1082 187.4 L1084 186.5 L1086 185.6 L1088 184.6 L1090 183.8 L1092 182.9 L1094 182.1 L1096 181.4 L1098 180.7 L1100 180.1 L1102 179.5 L1104 179.0 L1106 178.7 L1108 178.3 L1110 178.1 L1112 178.0 L1114 177.9 L1116 177.9 L1118 178.0 L1120 178.2 L1122 178.4 L1124 178.7 L1126 179.1 L1128 179.5 L1130 179.9 L1132 180.5 L1134 181.0 L1136 181.5 L1138 182.1 L1140 182.7 L1142 183.2 L1144 183.8 L1146 184.3 L1148 184.8 L1150 185.3 L1152 185.7 L1154 186.0 L1156 186.3 L1158 186.5 L1160 186.6 L1162 186.7 L1164 186.7 L1166 186.5 L1168 186.3 L1170 186.0 L1172 185.6 L1174 185.1 L1176 184.6 L1178 183.9 L1180 183.1 L1182 182.3 L1184 181.4 L1186 180.4 L1188 179.3 L1190 178.2 L1192 177.1 L1194 175.9 L1196 174.6 L1198 173.4 L1200 172.1 L1202 170.8 L1204 169.6 L1206 168.3 L1208 167.1 L1210 165.9 L1212 164.7 L1214 163.6 L1216 162.5 L1218 161.5 L1220 160.5 L1222 159.7 L1224 158.8 L1226 158.1 L1228 157.5 L1230 156.9 L1232 156.4 L1234 156.0 L1236 155.7 L1238 155.4 L1240 155.3 L1242 155.2 L1244 155.1 L1246 155.2 L1248 155.2 L1250 155.3 L1252 155.5 L1254 155.7 L1256 155.9 L1258 156.1 L1260 156.3 L1262 156.6 L1264 156.8 L1266 156.9 L1268 157.1 L1270 157.2 L1272 157.2 L1274 157.2 L1276 157.1 L1278 157.0 L1280 156.8 L1282 156.5 L1284 156.1 L1286 155.6 L1288 155.0 L1290 154.4 L1292 153.6 L1294 152.8 L1296 151.8 L1298 150.8 L1300 149.7 L1302 148.5 L1304 147.2 L1306 145.8 L1308 144.4 L1310 143.0 L1312 141.4 L1314 139.9 L1316 138.3 L1318 136.6 L1320 135.0" />
+          </g>
+          <g clip-path="url(#cross2)" class="braid-over" style="animation-delay: 12.66s">
+            <path class="braid-gap" d="M1020 190.0 L1022 189.2 L1024 188.3 L1026 187.5 L1028 186.7 L1030 186.0 L1032 185.3 L1034 184.6 L1036 184.0 L1038 183.4 L1040 182.9 L1042 182.5 L1044 182.2 L1046 181.9 L1048 181.7 L1050 181.7 L1052 181.6 L1054 181.7 L1056 181.9 L1058 182.1 L1060 182.4 L1062 182.8 L1064 183.2 L1066 183.8 L1068 184.3 L1070 184.9 L1072 185.6 L1074 186.3 L1076 187.0 L1078 187.7 L1080 188.4 L1082 189.1 L1084 189.8 L1086 190.5 L1088 191.2 L1090 191.8 L1092 192.3 L1094 192.8 L1096 193.3 L1098 193.6 L1100 193.9 L1102 194.1 L1104 194.3 L1106 194.3 L1108 194.3 L1110 194.1 L1112 193.9 L1114 193.5 L1116 193.1 L1118 192.6 L1120 192.0 L1122 191.3 L1124 190.6 L1126 189.8 L1128 188.9 L1130 187.9 L1132 187.0 L1134 185.9 L1136 184.9 L1138 183.8 L1140 182.7 L1142 181.6 L1144 180.5 L1146 179.4 L1148 178.3 L1150 177.3 L1152 176.3 L1154 175.3 L1156 174.4 L1158 173.6 L1160 172.8 L1162 172.1 L1164 171.4 L1166 170.9 L1168 170.4 L1170 170.0 L1172 169.7 L1174 169.5 L1176 169.3 L1178 169.3 L1180 169.3 L1182 169.3 L1184 169.5 L1186 169.7 L1188 169.9 L1190 170.2 L1192 170.6 L1194 170.9 L1196 171.3 L1198 171.7 L1200 172.1 L1202 172.5 L1204 172.9 L1206 173.3 L1208 173.6 L1210 173.9 L1212 174.1 L1214 174.3 L1216 174.4 L1218 174.4 L1220 174.4 L1222 174.3 L1224 174.1 L1226 173.8 L1228 173.4 L1230 172.9 L1232 172.3 L1234 171.7 L1236 170.9 L1238 170.1 L1240 169.1 L1242 168.1 L1244 167.0 L1246 165.9 L1248 164.6 L1250 163.3 L1252 162.0 L1254 160.6 L1256 159.2 L1258 157.8 L1260 156.3 L1262 154.9 L1264 153.4 L1266 152.0 L1268 150.6 L1270 149.2 L1272 147.8 L1274 146.5 L1276 145.3 L1278 144.1 L1280 142.9 L1282 141.9 L1284 140.9 L1286 140.0 L1288 139.1 L1290 138.4 L1292 137.7 L1294 137.1 L1296 136.6 L1298 136.2 L1300 135.8 L1302 135.5 L1304 135.3 L1306 135.1 L1308 135.0 L1310 135.0 L1312 134.9 L1314 134.9 L1316 134.9 L1318 135.0 L1320 135.0" />
+            <path class="stream stream-braid-over" d="M1020 190.0 L1022 189.2 L1024 188.3 L1026 187.5 L1028 186.7 L1030 186.0 L1032 185.3 L1034 184.6 L1036 184.0 L1038 183.4 L1040 182.9 L1042 182.5 L1044 182.2 L1046 181.9 L1048 181.7 L1050 181.7 L1052 181.6 L1054 181.7 L1056 181.9 L1058 182.1 L1060 182.4 L1062 182.8 L1064 183.2 L1066 183.8 L1068 184.3 L1070 184.9 L1072 185.6 L1074 186.3 L1076 187.0 L1078 187.7 L1080 188.4 L1082 189.1 L1084 189.8 L1086 190.5 L1088 191.2 L1090 191.8 L1092 192.3 L1094 192.8 L1096 193.3 L1098 193.6 L1100 193.9 L1102 194.1 L1104 194.3 L1106 194.3 L1108 194.3 L1110 194.1 L1112 193.9 L1114 193.5 L1116 193.1 L1118 192.6 L1120 192.0 L1122 191.3 L1124 190.6 L1126 189.8 L1128 188.9 L1130 187.9 L1132 187.0 L1134 185.9 L1136 184.9 L1138 183.8 L1140 182.7 L1142 181.6 L1144 180.5 L1146 179.4 L1148 178.3 L1150 177.3 L1152 176.3 L1154 175.3 L1156 174.4 L1158 173.6 L1160 172.8 L1162 172.1 L1164 171.4 L1166 170.9 L1168 170.4 L1170 170.0 L1172 169.7 L1174 169.5 L1176 169.3 L1178 169.3 L1180 169.3 L1182 169.3 L1184 169.5 L1186 169.7 L1188 169.9 L1190 170.2 L1192 170.6 L1194 170.9 L1196 171.3 L1198 171.7 L1200 172.1 L1202 172.5 L1204 172.9 L1206 173.3 L1208 173.6 L1210 173.9 L1212 174.1 L1214 174.3 L1216 174.4 L1218 174.4 L1220 174.4 L1222 174.3 L1224 174.1 L1226 173.8 L1228 173.4 L1230 172.9 L1232 172.3 L1234 171.7 L1236 170.9 L1238 170.1 L1240 169.1 L1242 168.1 L1244 167.0 L1246 165.9 L1248 164.6 L1250 163.3 L1252 162.0 L1254 160.6 L1256 159.2 L1258 157.8 L1260 156.3 L1262 154.9 L1264 153.4 L1266 152.0 L1268 150.6 L1270 149.2 L1272 147.8 L1274 146.5 L1276 145.3 L1278 144.1 L1280 142.9 L1282 141.9 L1284 140.9 L1286 140.0 L1288 139.1 L1290 138.4 L1292 137.7 L1294 137.1 L1296 136.6 L1298 136.2 L1300 135.8 L1302 135.5 L1304 135.3 L1306 135.1 L1308 135.0 L1310 135.0 L1312 134.9 L1314 134.9 L1316 134.9 L1318 135.0 L1320 135.0" />
+          </g>
+          <g clip-path="url(#cross3)" class="braid-over" style="animation-delay: 13.1s">
+            <path class="braid-gap" d="M1020 190.0 L1022 190.8 L1024 191.7 L1026 192.5 L1028 193.2 L1030 194.0 L1032 194.7 L1034 195.3 L1036 195.9 L1038 196.4 L1040 196.8 L1042 197.1 L1044 197.4 L1046 197.6 L1048 197.7 L1050 197.7 L1052 197.6 L1054 197.4 L1056 197.1 L1058 196.7 L1060 196.3 L1062 195.7 L1064 195.1 L1066 194.5 L1068 193.7 L1070 192.9 L1072 192.1 L1074 191.2 L1076 190.3 L1078 189.4 L1080 188.4 L1082 187.4 L1084 186.5 L1086 185.6 L1088 184.6 L1090 183.8 L1092 182.9 L1094 182.1 L1096 181.4 L1098 180.7 L1100 180.1 L1102 179.5 L1104 179.0 L1106 178.7 L1108 178.3 L1110 178.1 L1112 178.0 L1114 177.9 L1116 177.9 L1118 178.0 L1120 178.2 L1122 178.4 L1124 178.7 L1126 179.1 L1128 179.5 L1130 179.9 L1132 180.5 L1134 181.0 L1136 181.5 L1138 182.1 L1140 182.7 L1142 183.2 L1144 183.8 L1146 184.3 L1148 184.8 L1150 185.3 L1152 185.7 L1154 186.0 L1156 186.3 L1158 186.5 L1160 186.6 L1162 186.7 L1164 186.7 L1166 186.5 L1168 186.3 L1170 186.0 L1172 185.6 L1174 185.1 L1176 184.6 L1178 183.9 L1180 183.1 L1182 182.3 L1184 181.4 L1186 180.4 L1188 179.3 L1190 178.2 L1192 177.1 L1194 175.9 L1196 174.6 L1198 173.4 L1200 172.1 L1202 170.8 L1204 169.6 L1206 168.3 L1208 167.1 L1210 165.9 L1212 164.7 L1214 163.6 L1216 162.5 L1218 161.5 L1220 160.5 L1222 159.7 L1224 158.8 L1226 158.1 L1228 157.5 L1230 156.9 L1232 156.4 L1234 156.0 L1236 155.7 L1238 155.4 L1240 155.3 L1242 155.2 L1244 155.1 L1246 155.2 L1248 155.2 L1250 155.3 L1252 155.5 L1254 155.7 L1256 155.9 L1258 156.1 L1260 156.3 L1262 156.6 L1264 156.8 L1266 156.9 L1268 157.1 L1270 157.2 L1272 157.2 L1274 157.2 L1276 157.1 L1278 157.0 L1280 156.8 L1282 156.5 L1284 156.1 L1286 155.6 L1288 155.0 L1290 154.4 L1292 153.6 L1294 152.8 L1296 151.8 L1298 150.8 L1300 149.7 L1302 148.5 L1304 147.2 L1306 145.8 L1308 144.4 L1310 143.0 L1312 141.4 L1314 139.9 L1316 138.3 L1318 136.6 L1320 135.0" />
+            <path class="stream stream-thread" d="M1020 190.0 L1022 190.8 L1024 191.7 L1026 192.5 L1028 193.2 L1030 194.0 L1032 194.7 L1034 195.3 L1036 195.9 L1038 196.4 L1040 196.8 L1042 197.1 L1044 197.4 L1046 197.6 L1048 197.7 L1050 197.7 L1052 197.6 L1054 197.4 L1056 197.1 L1058 196.7 L1060 196.3 L1062 195.7 L1064 195.1 L1066 194.5 L1068 193.7 L1070 192.9 L1072 192.1 L1074 191.2 L1076 190.3 L1078 189.4 L1080 188.4 L1082 187.4 L1084 186.5 L1086 185.6 L1088 184.6 L1090 183.8 L1092 182.9 L1094 182.1 L1096 181.4 L1098 180.7 L1100 180.1 L1102 179.5 L1104 179.0 L1106 178.7 L1108 178.3 L1110 178.1 L1112 178.0 L1114 177.9 L1116 177.9 L1118 178.0 L1120 178.2 L1122 178.4 L1124 178.7 L1126 179.1 L1128 179.5 L1130 179.9 L1132 180.5 L1134 181.0 L1136 181.5 L1138 182.1 L1140 182.7 L1142 183.2 L1144 183.8 L1146 184.3 L1148 184.8 L1150 185.3 L1152 185.7 L1154 186.0 L1156 186.3 L1158 186.5 L1160 186.6 L1162 186.7 L1164 186.7 L1166 186.5 L1168 186.3 L1170 186.0 L1172 185.6 L1174 185.1 L1176 184.6 L1178 183.9 L1180 183.1 L1182 182.3 L1184 181.4 L1186 180.4 L1188 179.3 L1190 178.2 L1192 177.1 L1194 175.9 L1196 174.6 L1198 173.4 L1200 172.1 L1202 170.8 L1204 169.6 L1206 168.3 L1208 167.1 L1210 165.9 L1212 164.7 L1214 163.6 L1216 162.5 L1218 161.5 L1220 160.5 L1222 159.7 L1224 158.8 L1226 158.1 L1228 157.5 L1230 156.9 L1232 156.4 L1234 156.0 L1236 155.7 L1238 155.4 L1240 155.3 L1242 155.2 L1244 155.1 L1246 155.2 L1248 155.2 L1250 155.3 L1252 155.5 L1254 155.7 L1256 155.9 L1258 156.1 L1260 156.3 L1262 156.6 L1264 156.8 L1266 156.9 L1268 157.1 L1270 157.2 L1272 157.2 L1274 157.2 L1276 157.1 L1278 157.0 L1280 156.8 L1282 156.5 L1284 156.1 L1286 155.6 L1288 155.0 L1290 154.4 L1292 153.6 L1294 152.8 L1296 151.8 L1298 150.8 L1300 149.7 L1302 148.5 L1304 147.2 L1306 145.8 L1308 144.4 L1310 143.0 L1312 141.4 L1314 139.9 L1316 138.3 L1318 136.6 L1320 135.0" />
+          </g>
+          <g clip-path="url(#cross4)" class="braid-over" style="animation-delay: 13.54s">
+            <path class="braid-gap" d="M1020 190.0 L1022 189.2 L1024 188.3 L1026 187.5 L1028 186.7 L1030 186.0 L1032 185.3 L1034 184.6 L1036 184.0 L1038 183.4 L1040 182.9 L1042 182.5 L1044 182.2 L1046 181.9 L1048 181.7 L1050 181.7 L1052 181.6 L1054 181.7 L1056 181.9 L1058 182.1 L1060 182.4 L1062 182.8 L1064 183.2 L1066 183.8 L1068 184.3 L1070 184.9 L1072 185.6 L1074 186.3 L1076 187.0 L1078 187.7 L1080 188.4 L1082 189.1 L1084 189.8 L1086 190.5 L1088 191.2 L1090 191.8 L1092 192.3 L1094 192.8 L1096 193.3 L1098 193.6 L1100 193.9 L1102 194.1 L1104 194.3 L1106 194.3 L1108 194.3 L1110 194.1 L1112 193.9 L1114 193.5 L1116 193.1 L1118 192.6 L1120 192.0 L1122 191.3 L1124 190.6 L1126 189.8 L1128 188.9 L1130 187.9 L1132 187.0 L1134 185.9 L1136 184.9 L1138 183.8 L1140 182.7 L1142 181.6 L1144 180.5 L1146 179.4 L1148 178.3 L1150 177.3 L1152 176.3 L1154 175.3 L1156 174.4 L1158 173.6 L1160 172.8 L1162 172.1 L1164 171.4 L1166 170.9 L1168 170.4 L1170 170.0 L1172 169.7 L1174 169.5 L1176 169.3 L1178 169.3 L1180 169.3 L1182 169.3 L1184 169.5 L1186 169.7 L1188 169.9 L1190 170.2 L1192 170.6 L1194 170.9 L1196 171.3 L1198 171.7 L1200 172.1 L1202 172.5 L1204 172.9 L1206 173.3 L1208 173.6 L1210 173.9 L1212 174.1 L1214 174.3 L1216 174.4 L1218 174.4 L1220 174.4 L1222 174.3 L1224 174.1 L1226 173.8 L1228 173.4 L1230 172.9 L1232 172.3 L1234 171.7 L1236 170.9 L1238 170.1 L1240 169.1 L1242 168.1 L1244 167.0 L1246 165.9 L1248 164.6 L1250 163.3 L1252 162.0 L1254 160.6 L1256 159.2 L1258 157.8 L1260 156.3 L1262 154.9 L1264 153.4 L1266 152.0 L1268 150.6 L1270 149.2 L1272 147.8 L1274 146.5 L1276 145.3 L1278 144.1 L1280 142.9 L1282 141.9 L1284 140.9 L1286 140.0 L1288 139.1 L1290 138.4 L1292 137.7 L1294 137.1 L1296 136.6 L1298 136.2 L1300 135.8 L1302 135.5 L1304 135.3 L1306 135.1 L1308 135.0 L1310 135.0 L1312 134.9 L1314 134.9 L1316 134.9 L1318 135.0 L1320 135.0" />
+            <path class="stream stream-braid-over" d="M1020 190.0 L1022 189.2 L1024 188.3 L1026 187.5 L1028 186.7 L1030 186.0 L1032 185.3 L1034 184.6 L1036 184.0 L1038 183.4 L1040 182.9 L1042 182.5 L1044 182.2 L1046 181.9 L1048 181.7 L1050 181.7 L1052 181.6 L1054 181.7 L1056 181.9 L1058 182.1 L1060 182.4 L1062 182.8 L1064 183.2 L1066 183.8 L1068 184.3 L1070 184.9 L1072 185.6 L1074 186.3 L1076 187.0 L1078 187.7 L1080 188.4 L1082 189.1 L1084 189.8 L1086 190.5 L1088 191.2 L1090 191.8 L1092 192.3 L1094 192.8 L1096 193.3 L1098 193.6 L1100 193.9 L1102 194.1 L1104 194.3 L1106 194.3 L1108 194.3 L1110 194.1 L1112 193.9 L1114 193.5 L1116 193.1 L1118 192.6 L1120 192.0 L1122 191.3 L1124 190.6 L1126 189.8 L1128 188.9 L1130 187.9 L1132 187.0 L1134 185.9 L1136 184.9 L1138 183.8 L1140 182.7 L1142 181.6 L1144 180.5 L1146 179.4 L1148 178.3 L1150 177.3 L1152 176.3 L1154 175.3 L1156 174.4 L1158 173.6 L1160 172.8 L1162 172.1 L1164 171.4 L1166 170.9 L1168 170.4 L1170 170.0 L1172 169.7 L1174 169.5 L1176 169.3 L1178 169.3 L1180 169.3 L1182 169.3 L1184 169.5 L1186 169.7 L1188 169.9 L1190 170.2 L1192 170.6 L1194 170.9 L1196 171.3 L1198 171.7 L1200 172.1 L1202 172.5 L1204 172.9 L1206 173.3 L1208 173.6 L1210 173.9 L1212 174.1 L1214 174.3 L1216 174.4 L1218 174.4 L1220 174.4 L1222 174.3 L1224 174.1 L1226 173.8 L1228 173.4 L1230 172.9 L1232 172.3 L1234 171.7 L1236 170.9 L1238 170.1 L1240 169.1 L1242 168.1 L1244 167.0 L1246 165.9 L1248 164.6 L1250 163.3 L1252 162.0 L1254 160.6 L1256 159.2 L1258 157.8 L1260 156.3 L1262 154.9 L1264 153.4 L1266 152.0 L1268 150.6 L1270 149.2 L1272 147.8 L1274 146.5 L1276 145.3 L1278 144.1 L1280 142.9 L1282 141.9 L1284 140.9 L1286 140.0 L1288 139.1 L1290 138.4 L1292 137.7 L1294 137.1 L1296 136.6 L1298 136.2 L1300 135.8 L1302 135.5 L1304 135.3 L1306 135.1 L1308 135.0 L1310 135.0 L1312 134.9 L1314 134.9 L1316 134.9 L1318 135.0 L1320 135.0" />
+          </g>
+
+          <g class="stage appear" style="animation-delay: 1.13s" aria-hidden="true">
+            <circle class="stage-mark" cx="70" cy="187.6" r="4.5" />
+            <text x="70" y="222" text-anchor="middle" class="stage-name">Mimetic</text>
+            <text x="70" y="242" text-anchor="middle" class="stage-date">3–1.5 MYA</text>
+          </g>
+          <g class="stage appear" style="animation-delay: 2.37s" aria-hidden="true">
+            <circle class="stage-mark" cx="175" cy="186.6" r="4.5" />
+            <text x="175" y="222" text-anchor="middle" class="stage-name">Magical</text>
+            <text x="175" y="242" text-anchor="middle" class="stage-date">1.8–1 MYA</text>
+          </g>
+          <g class="stage appear" style="animation-delay: 3.62s" aria-hidden="true">
+            <circle class="stage-mark" cx="280" cy="187.8" r="4.5" />
+            <text x="280" y="222" text-anchor="middle" class="stage-name">Mythic</text>
+            <text x="280" y="242" text-anchor="middle" class="stage-date">164–73 KYA</text>
+          </g>
+          <g class="stage" aria-hidden="true">
+            <text x="380" y="242" text-anchor="middle" class="stage-date appear" style="animation-delay: 4.6s">12 KYA</text>
+            <text x="1020" y="242" text-anchor="middle" class="stage-date appear" style="animation-delay: 11.6s">now</text>
+          </g>
+
+          <g class="river-labels" aria-hidden="true">
+            <text x="700" y="222" text-anchor="middle" class="appear" style="animation-delay: 4.8s">Indigenous Knowledge Systems</text>
+            <text x="700" y="242" text-anchor="middle" class="soft appear" style="animation-delay: 4.8s">the Golden Thread</text>
+            <text x="175" y="160" text-anchor="middle" class="era-out" style="--in: 0.6s; --out: 4.2s">Three Early Forms of Consciousness</text>
+            <text x="615" y="112" text-anchor="end" class="appear" style="animation-delay: 4.8s">Material Consciousness</text>
+            <text x="1170" y="128" text-anchor="middle" class="appear" style="animation-delay: 11.6s">Mycelial Consciousness</text>
+            <text x="500" y="168" text-anchor="middle" class="phase" style="--in: 5.37s; --out: 8.2s">slow</text>
+            <text x="728" y="128" text-anchor="start" class="phase" style="--in: 8.1s; --out: 9.3s">fast</text>
+            <text x="835" y="94" text-anchor="middle" class="phase" style="--in: 9.0s; --out: 10.5s">slow</text>
+            <text x="1170" y="222" text-anchor="middle" class="river-joined appear" style="animation-delay: 13.5s">two streams, one braid</text>
+            <text x="1170" y="242" text-anchor="middle" class="soft river-joined appear" style="animation-delay: 13.7s">each keeping its own course</text>
+          </g>
+
+          <a href="#T7" class="node appear" style="animation-delay: 4.6s">
+            <title>Bifurcation, about 12,000 years ago. At the Mythic to Material transition, Material Consciousness branches away from Indigenous Knowledge Systems, the Golden Thread, and begins its climb up the S-curve. Step 7.</title>
+            <circle cx="380" cy="190" r="9" />
+            <text x="380" y="222" text-anchor="middle" class="node-label">Bifurcation</text>
           </a>
-          <a href="#T8" class="node">
-            <circle cx="620" cy="62" r="9" />
-            <text x="620" y="38" text-anchor="middle" class="node-label">Noosphere</text>
+          <a href="#T8" class="node appear" style="animation-delay: 10.2s">
+            <title>Noosphere. Where the S-curve levels off at the limits to growth, the individual learns to draw on the Noosphere, the wisdom of the universe, to grow towards wholeness. Step 8.</title>
+            <circle cx="900" cy="54" r="9" />
+            <text x="900" y="30" text-anchor="middle" class="node-label">Noosphere</text>
           </a>
-          <a href="#T9" class="node">
-            <circle cx="860" cy="190" r="9" />
-            <text x="860" y="222" text-anchor="middle" class="node-label">Confluence</text>
+          <a href="#T9" class="node appear" style="animation-delay: 11.6s">
+            <title>Confluence, now beginning. The two streams learn to work side by side towards place-based wholeness and braid into Mycelial Consciousness. Step 9.</title>
+            <circle cx="1020" cy="190" r="9" />
+            <text x="1020" y="222" text-anchor="middle" class="node-label">Confluence</text>
           </a>
         </svg>
         <figcaption id="river-caption" class="measure river-caption">
           <span class="key key-thread">Indigenous Knowledge Systems, the Golden Thread</span>
           <span class="key key-material">Material Consciousness</span>
-          <span class="key-note">Select a point on the river to read that step.</span>
+          <span class="key-note">Tap any of the three transitions (Bifurcation, Noosphere, Confluence) to explore, or scroll down.</span>
         </figcaption>
       </figure>
+
+      <a class="scroll-cue" href="#intro" aria-label="Scroll down to the introduction">
+        <svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true">
+          <path d="M5 9l7 7 7-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </a>
 
       <div class="measure intro" id="intro"></div>
     </header>
@@ -113,8 +183,9 @@
       <div id="steps" class="steps"></div>
 
       <section class="grid-section" id="grid" aria-labelledby="grid-h">
+        <details class="fold" data-fold="grid">
+        <summary class="measure"><h2 id="grid-h">Where the sources stand</h2></summary>
         <div class="measure">
-          <h2 id="grid-h">Where the sources stand</h2>
           <div id="grid-lede"></div>
           <ul class="legend">
             <li>
@@ -145,15 +216,18 @@
             </caption>
           </table>
         </div>
+        </details>
       </section>
 
       <section class="measure sources" id="sources" aria-labelledby="sources-h">
-        <h2 id="sources-h">Sources</h2>
+        <details class="fold" data-fold="sources">
+        <summary><h2 id="sources-h">Sources</h2></summary>
         <p>
           Each title links to its page on the BioConomy wiki, which records the edition, the
           evidence type and the grade.
         </p>
         <ul id="source-list" class="source-list"></ul>
+        </details>
       </section>
     </main>
 

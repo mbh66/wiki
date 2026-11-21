@@ -29,6 +29,7 @@ grid_c4: "qualifies"
 grid_c4_says: "Traces the first and second tiers to Graves's data and reports criticism of the tier hierarchy and the founders' disputes over it."
 grid_c4_cite: "A Brief History of Spiral Dynamics (2015), sections on Graves and on criticism"
 grid_c4_grade: "[IC]"
+grid_c4_basis: "text"
 ---
 
 Butters, A. M. (2015). A brief history of Spiral Dynamics. *Approaching Religion* 5(2): 67-78.

@@ -22,10 +22,12 @@ anabranch_t7: "qualifies"
 anabranch_t7_says: "Documents the rise and slowdown of empires and civilisations, and fits a logistic to Roman territory, without linking either to consciousness."
 anabranch_t7_cite: "Growth (2019), ch. 5, 'Populations, Societies, Economies', sections 'Empires' (p. 357) and 'Civilizations' (p. 436)"
 anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
 anabranch_t8: "dissents"
 anabranch_t8_says: "Warns against forecasting a system's position on a logistic curve from how well past data fit it."
 anabranch_t8_cite: "Growth (2019), ch. 1, 'Trajectories: or common patterns of growth', section 'Confined Growth Patterns' (p. 31)"
 anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
 ---
 
 Vaclav Smil (2019). *Growth: From Microorganisms to Megacities*. The MIT Press, Cambridge, MA. xxv + 634 pages. ISBN: 9780262042833.

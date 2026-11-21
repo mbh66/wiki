@@ -19,9 +19,10 @@ source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
 anabranch_steps: ["T8"]
 anabranch_t8: "qualifies"
-anabranch_t8_says: "Holds that the biosphere is becoming a noosphere through science and social labour, a material stage; names no growth curve or individual drawing on it."
-anabranch_t8_cite: "The Biosphere and the Noösphere (1945), p. 10 (as quoted in Oldfield and Shaw 2006)"
-anabranch_t8_grade: "[TBV]"
+anabranch_t8_says: "Holds that the biosphere is passing into a noosphere, a geological stage driven by scientific thought; names no growth curve or individual drawing on it."
+anabranch_t8_cite: "The Biosphere and the Noösphere, American Scientist 33(1) (January 1945): 1-12, p. 10, as cited in Oldfield and Shaw (2006)"
+anabranch_t8_grade: "[IC]"
+anabranch_t8_basis: "review"
 ---
 
 W. I. Vernadsky (1945). "The Biosphere and the Noösphere". *American Scientist* 33(1): 1-12. Translated by George Vernadsky.

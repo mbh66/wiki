@@ -15,14 +15,15 @@ standing: "Field reception not checked; listed in the critics' reading list on f
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "11. Critics of the anomalous experience research"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
-anabranch_t2_says: "Holds that The Telepathy Tapes popularises facilitated communication, a method debunked decades ago, which silences the voices of people with limited communication."
-anabranch_t2_cite: "Skeptical Inquirer 50(5) (2026), editorial; T2 dissent inferred from its rejection of the method that produced the podcast's messages (inference)"
+anabranch_t2_says: "Holds that The Telepathy Tapes popularizes facilitated communication, a method debunked decades ago, and that such methods silence people with limited communication."
+anabranch_t2_cite: "Skeptical Inquirer 50(5), September/October 2026, 'From the Editor'; T2 dissent inferred from its rejection of the method that produced the podcast's messages (inference)"
 anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "text"
 ---
 
 Stephen Hupp (2026). "How The Telepathy Tapes Silences Voices". *Skeptical Inquirer* 50(5), September/October 2026 [IC]. [Skeptical Inquirer](https://skepticalinquirer.org/2026/08/how-the-telepathy-tapes-silences-voices/).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

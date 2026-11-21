@@ -24,6 +24,7 @@ anabranch_t9: "affirms"
 anabranch_t9_says: "Argues that Indigenous and Western knowledges should guide fisheries together, without assimilating one into the other."
 anabranch_t9_cite: "Fish and Fisheries 22(2), abstract"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Andrea J. Reid, Lauren E. Eckert, John-Francis Lane, Nathan Young, Scott G. Hinch, Chris T. Darimont, Steven J. Cooke, Natalie C. Ban, Albert Marshall (2021). *"Two-Eyed Seeing": An Indigenous Framework to Transform Fisheries Research and Management*. Fish and Fisheries 22(2): 243-261. DOI: [10.1111/faf.12516](https://doi.org/10.1111/faf.12516).

@@ -22,8 +22,9 @@ anabranch_group: "11. Critics of the anomalous experience research"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
 anabranch_t2_says: "Argues that the controlled studies the paper cites traced messages to prompts seen only by helpers."
-anabranch_t2_cite: "Explore 22(3): 103387 (2026), as summarised in a citing excerpt"
+anabranch_t2_cite: "Explore 22(3): 103387 (2026), a letter with no abstract; the passage is known from one quoted excerpt"
 anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "review"
 ---
 
 Jorge Andrés Delgado-Ron (2026). "Response to Weiler and Woollacott, 2025". *Explore* 22(3): 103387. DOI 10.1016/j.explore.2026.103387. PMID 41855616 [IC].
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

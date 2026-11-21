@@ -20,8 +20,9 @@ anabranch_group: "8. Traditions and testimony"
 anabranch_steps: ["T6"]
 anabranch_t6: "qualifies"
 anabranch_t6_says: "Renders the Dao's movement as turning back, and names no forward end-point in chapter 40."
-anabranch_t6_cite: "Tao Te Ching (1963), ch. 40 (Lau's wording and the p. 47 reference known only as quoted in secondary notes; not checked against the text)"
+anabranch_t6_cite: "Tao Te Ching (1963), ch. 40 (p. 47 known from one secondary note; not checked against the Penguin text)"
 anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "review"
 ---
 
 Laozi, *Tao Te Ching*, translated by D. C. Lau. Penguin Classics, 1963 [TBV].

@@ -1,14 +1,14 @@
 ---
-title: "T2. Information arrives that Material Consciousness cannot explain"
-description: "Step T2 of the Anabranch thesis: the claim that information arrives in ways Material Consciousness cannot explain, and the evidence coded on it."
+title: "T2. Information arrives that Material Consciousness has not explained"
+description: "Step T2 of the Anabranch thesis: the claim that information arrives in ways Material Consciousness has not explained, and the evidence coded on it."
 aliases: ["step T2", "Anabranch T2"]
 tags: ["research", "evolution-of-consciousness", "anabranch", "anabranch-step"]
 anabranch_step: "T2"
 step_order: 2
 step_part: "Consciousness reaches beyond the body"
-short: "Information arrives"
+short: "How information arrives"
 connector: "and"
-claim: "Information arrives in ways that [[glossary/m-s/material-consciousness|Material Consciousness]] cannot explain."
+claim: "Information arrives in ways that [[glossary/m-s/material-consciousness|Material Consciousness]] has not explained."
 evidence_type: "Measured studies (E1), contested by failed replications and critiques, with testimony (E5)"
 status: "mapped"
 note: "No grid step tests this. Sources are coded on it directly: the experimental record, the cardiac arrest studies and testimony, with their critics. Critics outnumber supporters, fourteen to seven. Hyman (2010) and Rouder and colleagues (2013) answer the ganzfeld meta-analysis. Weiler and Woollacott (2025) call for controlled tests of the claims in The Telepathy Tapes, and Delgado-Ron (2026) replies. Beals, Boynton, Hupp and Vyse answer the podcast in Skeptical Inquirer 50(5), and the Association for Science in Autism Treatment rejects its claims. Danny Whitty, a nonspeaking writer, trusts peers who report telepathy and objects that the podcast harms access to spelling."
@@ -19,7 +19,7 @@ source_documents: ["Michael Haupt, Anabranch thesis (19 November 2026)"]
 epistemic_status: "working-hypothesis"
 ---
 
-Information arrives in ways that [[glossary/m-s/material-consciousness|Material Consciousness]] cannot explain.
+Information arrives in ways that [[glossary/m-s/material-consciousness|Material Consciousness]] has not explained.
 
 This is step T2 of the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]], Michael Haupt's position [MS], in the part headed "Consciousness reaches beyond the body". The connecting word from the step before is *and*.
 
@@ -43,4 +43,4 @@ The positions, source by source, are on the [Anabranch site](https://anabranch.b
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the status, evidence type and note were revised after a research run coded sources on this step directly; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Runs 3d and 3d2; the wording is unchanged.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the status, evidence type and note were revised after a research run coded sources on this step directly; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged. On 20 November 2026 the note was revised after Anabranch Runs 3d and 3d2; the wording is unchanged. On 20 November 2026 the wording changed at Michael Haupt's decision, after Anabranch Run 3; it read "Information arrives in ways that Material Consciousness cannot explain.".

@@ -21,12 +21,14 @@ anabranch_group: "11. Critics of the anomalous experience research"
 anabranch_steps: ["T1", "T3"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Argues that the evidence that brain states cause conscious states is as strong as for accepted physical causes, which tells against survival."
-anabranch_t1_cite: "Immortality (1992), Edwards, 'The Dependence of Consciousness on the Brain', pp. 292-307, esp. p. 294 (as quoted in Augustine)"
-anabranch_t1_grade: "[TBV]"
+anabranch_t1_cite: "Immortality (1992), selection 33, Edwards, 'The Dependence of Consciousness on the Brain', pp. 292-307, esp. p. 294 (as quoted in Augustine)"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "review"
 anabranch_t3: "dissents"
 anabranch_t3_says: "Holds that particular brain states bring about particular conscious states, a production claim at odds with the filter view."
-anabranch_t3_cite: "Immortality (1992), pp. 292-307, placed after James, 'Consciousness, the Brain and Immortality', p. 282 (inference: whether it answers James directly was not checked)"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_cite: "Immortality (1992), selection 33, pp. 292-307, esp. p. 296, placed directly after selection 32, James, 'Consciousness, the Brain and Immortality' (whether Edwards names James was not checked)"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "review"
 ---
 
 Paul Edwards (ed.) (1992). *Immortality*. Macmillan, New York [IC]. Reissued by Prometheus Books, 1997 [TBV].

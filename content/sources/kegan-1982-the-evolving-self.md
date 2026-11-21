@@ -5,9 +5,9 @@ author: "Robert Kegan"
 year: 1982
 type: "book"
 publisher: "Harvard University Press"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
 discipline: "developmental psychology"
 design: "E3"
@@ -20,7 +20,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "4. Developmental maps"
 grid_steps: ["B1", "C1"]
@@ -28,10 +28,18 @@ grid_b1: "affirms"
 grid_b1_says: "Proposes stages of meaning-making defined by what a person holds as subject and what as object."
 grid_b1_cite: "The Evolving Self (1982), chs 2 to 4"
 grid_b1_grade: "[IC]"
+grid_b1_basis: "review"
 grid_c1: "affirms"
 grid_c1_says: "Holds that each new order takes the previous one as object, so earlier orders remain within it."
-grid_c1_cite: "The Evolving Self (1982), Part One 'Evolutionary Truces', ch. 3 'The Constitutions of the Self'"
+grid_c1_cite: "The Evolving Self (1982), Part One 'Evolutionary Truces', ch. 3 'The Constitutions of the Self'; titles from a contents listing"
 grid_c1_grade: "[TBV]"
+grid_c1_basis: "review"
+anabranch_steps: ["T5"]
+anabranch_t5: "qualifies"
+anabranch_t5_says: "Describes stages of meaning-making across a life, and makes no claim about each person taking part in a cosmic evolution."
+anabranch_t5_cite: "The Evolving Self (1982), chs 2 to 4 (not confirmed against the contents)"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "review"
 ---
 
 Robert Kegan (1982). *The Evolving Self*. Harvard University Press.
@@ -40,12 +48,16 @@ Robert Kegan, a developmental psychologist at Harvard, builds on Piaget to descr
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in developmental psychology, with evidence type E3 and claim codes B1, C1.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T5.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B1 and C1.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 
 <script type="application/ld+json">
 {

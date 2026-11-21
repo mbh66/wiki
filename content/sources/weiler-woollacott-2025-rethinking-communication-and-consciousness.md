@@ -23,7 +23,8 @@ anabranch_steps: ["T2"]
 anabranch_t2: "qualifies"
 anabranch_t2_says: "Holds that anecdotes of possibly telepathic communication warrant controlled experiments; does not claim telepathy is shown."
 anabranch_t2_cite: "Explore 21(6): 103271 (2025), abstract and 'Moving forward' section"
-anabranch_t2_grade: "[TBV]"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 ---
 
 Marina Weiler and Marjorie Woollacott (2025). "Rethinking communication and consciousness: Lessons from the telepathy tapes podcast". *Explore* 21(6): 103271. DOI 10.1016/j.explore.2025.103271. PMID 41213232 [IC].
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

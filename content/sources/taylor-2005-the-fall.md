@@ -23,6 +23,7 @@ anabranch_t7: "qualifies"
 anabranch_t7_says: "Argues that an Ego Explosion some 6,000 years ago ended an earlier way of life free of war and patriarchy; speaks to part (a) only."
 anabranch_t7_cite: "The Fall (2005), Part One, chs. 2-5 (titles only checked)"
 anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
 ---
 
 Steve Taylor (2005). *The Fall: The Insanity of the Ego in Human History and the Dawning of a New Era*. O Books, Ropley. ISBN 978-1-905047-20-8. New edition with an afterword, 2018 (ISBN 978-1-78535-804-3). [Author's page](https://www.stevenmtaylor.com/books/the-fall/).

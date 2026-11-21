@@ -23,6 +23,7 @@ anabranch_t2: "qualifies"
 anabranch_t2_says: "Trusts peers who report telepathy while reporting none himself; objects that the podcast harms access to spelling."
 anabranch_t2_cite: "On Telepathy Tapes (27 January 2025), whole post"
 anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "text"
 ---
 
 Danny Whitty (2025). "On Telepathy Tapes". *Danny With Words*, 27 January 2025 [IC]. [Author's site](https://dannywithwords.com/2025/01/27/on-telepathy-tapes/).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

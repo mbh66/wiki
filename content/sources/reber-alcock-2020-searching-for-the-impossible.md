@@ -24,6 +24,7 @@ anabranch_t2: "dissents"
 anabranch_t2_says: "Argues that psi data reflect method, analysis or chance, because psi would break scientific principles."
 anabranch_t2_cite: "American Psychologist 75(3), abstract"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Arthur S. Reber, James E. Alcock (2020). *Searching for the Impossible: Parapsychology's Elusive Quest*. American Psychologist 75(3): 391-399. DOI: [10.1037/amp0000486](https://doi.org/10.1037/amp0000486).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

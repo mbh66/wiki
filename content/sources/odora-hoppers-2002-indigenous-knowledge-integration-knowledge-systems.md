@@ -15,18 +15,20 @@ standing: "Field reception not checked in this run [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
 anabranch_steps: ["T7", "T9"]
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Treats, on part (b), African indigenous knowledge systems as able to help heal colonial harms and transform institutions; silent on parts (a) and (c)."
-anabranch_t7_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole volume as described in catalogue and AfricaBib summaries; chapters not read"
-anabranch_t7_grade: "[TBV]"
+anabranch_t7_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), editor's chapter 'Indigenous Knowledge and the Integration of Knowledge Systems: Towards a Conceptual and Methodological Framework' (pp. 2-22, per Horsthemke), with the whole volume as described in the AfricaBib abstract"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "abstract"
 anabranch_t9: "affirms"
 anabranch_t9_says: "Argues for integrating indigenous knowledge systems with the sciences, through a philosophy of articulation that transforms research, higher education and policy."
-anabranch_t9_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), subtitle and contents, incl. 'The Place of Indigenous Knowledge Systems in the Post-Postmodern', p. 257; chapters not read"
-anabranch_t9_grade: "[TBV]"
+anabranch_t9_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), 'The Place of Indigenous Knowledge Systems in the Post-Postmodern' (p. 257), with the editor's chapter 'Indigenous Knowledge and the Integration of Knowledge Systems: Towards a Conceptual and Methodological Framework' (pp. 2-22, per Horsthemke)"
+anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Catherine A. Odora Hoppers (ed.) (2002). *Indigenous Knowledge and the Integration of Knowledge Systems: Towards a Philosophy of Articulation*. New Africa Books, Claremont, South Africa. xiv + 285 pages. ISBN 9781919876580 [IC].

@@ -23,6 +23,7 @@ anabranch_t2: "dissents"
 anabranch_t2_says: "Argues that controlled tests show facilitators authoring the messages the podcast treats as telepathic."
 anabranch_t2_cite: "Skeptical Inquirer, 6 January 2025"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "review"
 ---
 
 Stuart Vyse (2025). *The Telepathy Tapes: A Dangerous Cornucopia of Pseudoscience*. Skeptical Inquirer, 6 January 2025. [Link](https://skepticalinquirer.org/exclusive/the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

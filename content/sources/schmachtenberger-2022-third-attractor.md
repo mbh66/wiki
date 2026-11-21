@@ -29,19 +29,28 @@ grid_c2: "affirms"
 grid_c2_says: "Argues a path avoiding both catastrophe and dystopia requires new collective capacities."
 grid_c2_cite: "In Search of the Third Attractor, Rebel Wisdom, August 2022, Part 1, segment 'The Two Attractors' (00:06:09)"
 grid_c2_grade: "[TBV]"
+grid_c2_basis: "summary"
 grid_c3: "affirms"
 grid_c3_says: "Calls for collective sensemaking and choice-making at the scale of present risks."
 grid_c3_cite: "In Search of the Third Attractor, Part 1, segment 'Sensemaking' (00:02:10), with Part 2, segment 'Education' (01:30:40)"
 grid_c3_grade: "[TBV]"
+grid_c3_basis: "summary"
 grid_c4: "affirms"
 grid_c4_says: "Holds that rivalry dynamics and current incentives block that path."
 grid_c4_cite: "In Search of the Third Attractor, Part 2, segments 'Hyper Agents' (00:15:06) and 'Great Game of Power' (00:26:55), with Part 1, segment 'Catastrophic Risk' (00:25:08)"
 grid_c4_grade: "[TBV]"
-anabranch_steps: ["T6"]
+grid_c4_basis: "summary"
+anabranch_steps: ["T6", "T8"]
 anabranch_t6: "qualifies"
 anabranch_t6_says: "Presents a third attractor as a path humanity must choose, with no trend toward wholeness built into the universe."
 anabranch_t6_cite: "In Search of the Third Attractor (2022), parts 1 and 2, chapter not checked"
 anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
+anabranch_t8: "qualifies"
+anabranch_t8_says: "Calls for collective sensemaking and choice at the scale of present risks, with no Noosphere and no S-curve."
+anabranch_t8_cite: "In Search of the Third Attractor (2022), Part 1, segment 'Sensemaking', with Part 2, segment 'Education'"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
 ---
 
 Daniel Schmachtenberger (2022). *In Search of the Third Attractor (parts 1 and 2)*. Rebel Wisdom, hosted by David Fuller. Part 1, August 2022; part 2, 23 August 2022.
@@ -55,7 +64,8 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a practi
 Glossary: [[glossary/t-z/third-attractor|Third Attractor]].
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T6.
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T6; it qualifies T8.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms C2, C3 and C4.
 
@@ -64,6 +74,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 
 <script type="application/ld+json">
 {

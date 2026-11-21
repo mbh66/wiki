@@ -23,7 +23,8 @@ anabranch_steps: ["T2"]
 anabranch_t2: "affirms"
 anabranch_t2_says: "Argues that pooled ganzfeld and other free-response studies show information transfer above chance."
 anabranch_t2_cite: "Psychological Bulletin 136(4) (2010), 471-485, abstract and conclusion"
-anabranch_t2_grade: "[TBV]"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Lance Storm, Patrizio E. Tressoldi and Lorenzo Di Risio (2010). "Meta-analysis of free-response studies, 1992-2008: Assessing the noise reduction model in parapsychology". *Psychological Bulletin* 136(4): 471-485. DOI: [10.1037/a0019457](https://doi.org/10.1037/a0019457).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

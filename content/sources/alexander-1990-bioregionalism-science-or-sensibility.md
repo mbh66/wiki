@@ -24,6 +24,7 @@ anabranch_t9: "dissents"
 anabranch_t9_says: "Argues that bioregional writing mystifies the region and leans toward a 'nature knows best' view."
 anabranch_t9_cite: "Environmental Ethics 12(2), abstract"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Donald Alexander (1990). *Bioregionalism: Science or Sensibility?*. Environmental Ethics 12(2): 161-173. DOI: [10.5840/enviroethics199012217](https://doi.org/10.5840/enviroethics199012217).

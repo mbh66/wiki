@@ -24,6 +24,7 @@ anabranch_t2: "affirms"
 anabranch_t2_says: "Reports experiments in which later stimuli appear to influence earlier responses."
 anabranch_t2_cite: "JPSP 100(3), Experiments 1-9"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Daryl J. Bem (2011). *Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect*. Journal of Personality and Social Psychology 100(3): 407-425. DOI: [10.1037/a0021524](https://doi.org/10.1037/a0021524).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

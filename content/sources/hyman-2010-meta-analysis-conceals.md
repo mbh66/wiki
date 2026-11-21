@@ -21,9 +21,10 @@ source_project: "BioConomy"
 anabranch_group: "11. Critics of the anomalous experience research"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
-anabranch_t2_says: "Argues that the meta-analysis manufactures consistency and that ganzfeld results lack independent replication."
+anabranch_t2_says: "Argues that the meta-analysis does not show psi evidence to be consistent or reliable, and that ganzfeld results lack independent replication."
 anabranch_t2_cite: "Psychological Bulletin 136(4) (2010), abstract, p. 486"
-anabranch_t2_grade: "[TBV]"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Ray Hyman (2010). "Meta-Analysis That Conceals More Than It Reveals: Comment on Storm et al. (2010)". *Psychological Bulletin* 136(4): 486-490. DOI 10.1037/a0019676.
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

@@ -24,6 +24,7 @@ anabranch_t9: "dissents"
 anabranch_t9_says: "Argues that some Indigenous and Eurocentric approaches contradict each other and cannot be combined."
 anabranch_t9_cite: "AlterNative 17(1), abstract"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Lee-Anne Broadhead, Sean Howard (2021). *Confronting the Contradictions between Western and Indigenous Science: A Critical Perspective on Two-Eyed Seeing*. AlterNative: An International Journal of Indigenous Peoples 17(1): 111-119. DOI: [10.1177/1177180121996326](https://doi.org/10.1177/1177180121996326).

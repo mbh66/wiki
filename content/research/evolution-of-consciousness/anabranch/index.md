@@ -1,19 +1,27 @@
 ---
 title: "The Anabranch: Two Streams of Consciousness"
-description: "Michael Haupt's thesis that human consciousness runs like a river with an anabranch, splitting at the Bifurcation and rejoining at the Confluence, set out in nine steps with the evidence for each."
-aliases: ["Anabranch", "Anabranch thesis", "two streams of consciousness"]
-tags: ["research", "evolution-of-consciousness", "anabranch"]
-cssclasses: [hide-folder-listing]
-site_title: "Anabranch"
-site_subtitle: "Two streams of consciousness, and the evidence for each step of the argument"
+description: Michael Haupt's thesis that human consciousness runs like a river with an anabranch, splitting at the Bifurcation and rejoining at the Confluence, set out in nine steps with the evidence for each.
+aliases:
+  - Anabranch
+  - Anabranch thesis
+  - two streams of consciousness
+tags:
+  - research
+  - evolution-of-consciousness
+  - anabranch
+cssclasses:
+  - hide-folder-listing
+site_title: The Anabranch of Consciousness
+site_subtitle: Over three million years, human consciousness has progressed through a sequence of transitions. The Anabranch interprets the most recent 12,000 years as two separate streams. If the evolutionary impulse strives toward wholeness, the evidence tested here (critics included) offers a basis for navigating the current transition, from Material Consciousness to Mycelial Consciousness.
 created: 2026-11-19
-updated: 2026-11-20
-source_project: "BioConomy"
-source_documents: ["Michael Haupt, Anabranch thesis (19 November 2026)"]
-epistemic_status: "working-hypothesis"
+updated: 2026-11-21
+source_project: BioConomy
+source_documents:
+  - Michael Haupt, Anabranch thesis (19 November 2026)
+epistemic_status: working-hypothesis
 ---
 
-An [[glossary/a-e/anabranch|anabranch]] is a stretch of river that leaves the main channel and rejoins it downstream, and this thesis reads the history of human consciousness the same way. The main channel is [[glossary/f-l/indigenous-knowledge|Indigenous Knowledge Systems]], the [[glossary/f-l/golden-thread|Golden Thread]] that has carried Gaia wisdom through all of human history. At the [[glossary/a-e/bifurcation|Bifurcation]], [[glossary/m-s/material-consciousness|Material Consciousness]] branched away from it and drove our species up the steep part of the [[glossary/m-s/s-curve|growth curve]]. At the [[glossary/a-e/confluence|Confluence]], now beginning, the two streams flow back together in place.
+An [[glossary/a-e/anabranch|anabranch]] is a stretch of river that leaves the main channel and rejoins it downstream, and this thesis reads the history of human consciousness the same way. The main channel is [[glossary/f-l/indigenous-knowledge|Indigenous Knowledge Systems]], the [[glossary/f-l/golden-thread|Golden Thread]] that has carried Gaia wisdom through all of human history. At the [[glossary/a-e/bifurcation|Bifurcation]], about 12,000 years ago, [[glossary/m-s/material-consciousness|Material Consciousness]] branched away from it, rose slowly at first, and then drove our species up the steep part of the [[glossary/m-s/s-curve|growth curve]]. At the [[glossary/a-e/confluence|Confluence]], now beginning, the two streams learn to work side by side in place.
 
 The argument runs in nine steps. Each step names the kind of evidence it rests on. Seven steps draw on the grid, where 55 sources are coded, critics included; T2 and T9, which no grid step tests, are coded directly against their own wording, with their critics.
 
@@ -47,4 +55,4 @@ The steps, with a grid of the sources on each, are presented at [anabranch.bioco
 
 ## Provenance
 
-Created on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The names Anabranch, Bifurcation, Confluence and two streams were chosen the same day, in place of Tom Morgan's "Anomaly". The evidence types, statuses and grid crosswalks on the step pages are working codes; a third research run will check every position against the thesis wording and add the evidence the grid lacks.
+Created on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The names Anabranch, Bifurcation, Confluence and two streams were chosen the same day, in place of Tom Morgan's "Anomaly". The evidence types, statuses and grid crosswalks on the step pages are working codes; a third research run will check every position against the thesis wording and add the evidence the grid lacks. On 20 November 2026 the introduction's last sentence changed to match the new wording of T9; it read "the two streams flow back together in place". Later the same day the introduction gained the date of the Bifurcation and the slow start of the climb. On 21 November 2026 the site title changed from "Anabranch" to "The Anabranch of Consciousness", and the site subtitle, which read "Two streams of consciousness, and the evidence for each step of the argument", was rewritten to date the split and to name the Momentous Leap.

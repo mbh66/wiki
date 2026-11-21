@@ -23,6 +23,7 @@ anabranch_t2: "dissents"
 anabranch_t2_says: "Treats the telepathy claims as doubtful at best and offers sensitivity to nonverbal cues as the likelier account."
 anabranch_t2_cite: "The Telepathy Tapes Is Such A Hot Mess (9 February 2026)"
 anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "text"
 ---
 
 Shannon Des Roches Rosa (2026). "The Telepathy Tapes Is Such A Hot Mess". *Thinking Person's Guide to Autism*, 9 February 2026 [IC]. [Thinking Person's Guide to Autism](https://thinkingautismguide.com/2026/02/the-telepathy-tapes-is-such-a-hot-mess.html).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

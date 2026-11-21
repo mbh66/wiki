@@ -20,7 +20,7 @@ standing: "[TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "1. Mind and brain science"
 anabranch_steps: ["T3"]
@@ -28,6 +28,7 @@ anabranch_t3: "qualifies"
 anabranch_t3_says: "Treats the brain as possibly permissive or transmissive of consciousness, while leaving production open."
 anabranch_t3_cite: "The Matter with Things (2021), chapter not checked"
 anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "review"
 ---
 
 Iain McGilchrist (2021). *The Matter with Things*. Perspectiva Press.

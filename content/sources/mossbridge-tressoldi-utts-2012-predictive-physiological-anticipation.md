@@ -24,6 +24,7 @@ anabranch_t2: "affirms"
 anabranch_t2_says: "Reports body measures shifting before unpredictable stimuli in the direction of the later response."
 anabranch_t2_cite: "Frontiers in Psychology 3: 390, Results"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 ---
 
 Julia Mossbridge, Patrizio Tressoldi, Jessica Utts (2012). *Predictive Physiological Anticipation Preceding Seemingly Unpredictable Stimuli: A Meta-Analysis*. Frontiers in Psychology 3: 390. DOI: [10.3389/fpsyg.2012.00390](https://doi.org/10.3389/fpsyg.2012.00390).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

@@ -29,6 +29,7 @@ grid_c4: "dissents"
 grid_c4_says: "Holds that McGilchrist's reading of Western culture through the hemispheres reaches well past what the neurological evidence shows."
 grid_c4_cite: "Left Brain, Right Brain: Facts and Fantasies (2014)"
 grid_c4_grade: "[IC]"
+grid_c4_basis: "text"
 ---
 
 Corballis, M. C. (2014). Left brain, right brain: facts and fantasies. *PLoS Biology* 12(1): e1001767.

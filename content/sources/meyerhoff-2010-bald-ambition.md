@@ -29,10 +29,12 @@ grid_b3: "dissents"
 grid_b3_says: "Disputes Wilber's holarchy as a neutral ranking of nature, arguing that its terms carry hidden value judgements."
 grid_b3_cite: "Bald Ambition (2010), ch. 1, section B"
 grid_b3_grade: "[IC]"
+grid_b3_basis: "text"
 grid_c1: "dissents"
 grid_c1_says: "Argues that earlier wholes are often destroyed, as tribal and village life declines, so transcend and include fails as a law."
 grid_c1_cite: "Bald Ambition (2010), ch. 1, section B"
 grid_c1_grade: "[IC]"
+grid_c1_basis: "text"
 ---
 
 Meyerhoff, J. (2010). *Bald Ambition: A Critique of Ken Wilber's Theory of Everything*. Inside the Curtain Press.

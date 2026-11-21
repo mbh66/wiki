@@ -21,8 +21,9 @@ anabranch_group: "5. Complexity and cosmic evolution"
 anabranch_steps: ["T5"]
 anabranch_t5: "affirms"
 anabranch_t5_says: "Argues that education should enable each student to understand the universe story and their own role in creating its next phase."
-anabranch_t5_cite: "The Dream of the Earth (1988), ch. 8 'The American College in the Ecological Age', pp. 98-100, and ch. 10 'The New Story', pp. 123-137 (as quoted by the Thomas Berry Foundation)"
-anabranch_t5_grade: "[TBV]"
+anabranch_t5_cite: "The Dream of the Earth (1988), ch. 8 'The American College in the Ecological Age', p. 98, and ch. 10 'The New Story', pp. 123-137, esp. p. 136 (as quoted by the Thomas Berry Foundation)"
+anabranch_t5_grade: "[IC]"
+anabranch_t5_basis: "review"
 ---
 
 Thomas Berry (1988). *The Dream of the Earth*. Sierra Club Books, San Francisco [IC]. Reissued by Counterpoint, Berkeley, 2015 [IC]. Its chapter The New Story first appeared in *Teilhard Studies* no. 1 (1978) [IC].

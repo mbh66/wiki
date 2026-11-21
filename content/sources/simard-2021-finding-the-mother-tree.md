@@ -5,9 +5,9 @@ author: "Suzanne Simard"
 year: 2021
 type: "book"
 publisher: "Alfred A. Knopf, New York; UK edition, Allen Lane"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "evidence"
 discipline: "forest ecology"
 design: "E3"
@@ -20,7 +20,7 @@ standing: "Disputed by Karst et al. 2023 [IC]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 grid_group: "7. Metacrisis and the mycelial turn"
 grid_steps: ["A1", "C3"]
@@ -28,10 +28,18 @@ grid_a1: "qualifies"
 grid_a1_says: "Describes trees sensing and responding through fungal networks, in language of cooperation and kinship."
 grid_a1_cite: "Finding the Mother Tree (2021), later chapters"
 grid_a1_grade: "[TBV]"
+grid_a1_basis: "summary"
 grid_c3: "qualifies"
 grid_c3_says: "Offers the forest network as a model for human cooperation, mixing field results with metaphor."
 grid_c3_cite: "Finding the Mother Tree (2021), Epilogue 'The Mother Tree Project'"
 grid_c3_grade: "[TBV]"
+grid_c3_basis: "summary"
+anabranch_steps: ["T8"]
+anabranch_t8: "silent"
+anabranch_t8_says: "Offers the forest network as a model for human cooperation, and makes no claim about drawing on a Noosphere."
+anabranch_t8_cite: "Finding the Mother Tree (2021), chapter not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
 ---
 
 Suzanne Simard (2021). *Finding the Mother Tree: Discovering the Wisdom of the Forest*. Alfred A. Knopf, New York. UK edition, Allen Lane.
@@ -44,12 +52,16 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 
 Glossary: [[glossary/a-e/common-mycorrhizal-network|Common Mycorrhizal Network]].
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T8.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies A1 and C3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 
 <script type="application/ld+json">
 {

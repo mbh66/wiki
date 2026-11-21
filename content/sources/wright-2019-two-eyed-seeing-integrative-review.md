@@ -24,6 +24,7 @@ anabranch_t9: "qualifies"
 anabranch_t9_says: "Reports that research applying Two-Eyed Seeing describes the joining of knowledges vaguely."
 anabranch_t9_cite: "IJQM 18, abstract"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Amy L. Wright, Chelsea Gabel, Marilyn Ballantyne, Susan M. Jack, Olive Wahoush (2019). *Using Two-Eyed Seeing in Research With Indigenous People: An Integrative Review*. International Journal of Qualitative Methods 18: 1-19. DOI: [10.1177/1609406919869695](https://doi.org/10.1177/1609406919869695).

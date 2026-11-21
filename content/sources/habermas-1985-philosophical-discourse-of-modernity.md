@@ -20,7 +20,7 @@ standing: "Sets the terms of much of the debate over modernity and its critics; 
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["C2", "C4"]
@@ -28,15 +28,18 @@ grid_c2: "dissents"
 grid_c2_says: "Rejects the call for a structure beyond reason, holding that the ills of modernity need a fuller use of reason."
 grid_c2_cite: "The Philosophical Discourse of Modernity (1985), lectures IV to X, with lecture XI 'An Alternative Way out of the Philosophy of the Subject: Communicative versus Subject-Centered Reason' and lecture XII 'The Normative Content of Modernity'"
 grid_c2_grade: "[IC]"
+grid_c2_basis: "review"
 grid_c4: "dissents"
 grid_c4_says: "Disputes that rational modernity is a deficient mode to be left behind, while granting that subject-centred reason has pathologies."
-grid_c4_cite: "The Philosophical Discourse of Modernity (1985), lectures XI and XII"
+grid_c4_cite: "The Philosophical Discourse of Modernity (1985), Lecture XI 'An Alternative Way out of the Philosophy of the Subject: Communicative versus Subject-Centered Reason' (p. 294) and Lecture XII 'The Normative Content of Modernity' (p. 336), MIT Press and Polity pagination"
 grid_c4_grade: "[TBV]"
+grid_c4_basis: "abstract"
 anabranch_steps: ["T6"]
 anabranch_t6: "silent"
 anabranch_t6_says: "Argues for completing modernity through reason, with no claim that the universe trends toward wholeness."
 anabranch_t6_cite: "The Philosophical Discourse of Modernity (1985), chapter not checked"
 anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "abstract"
 ---
 
 Habermas, J. (1987). *The Philosophical Discourse of Modernity: Twelve Lectures*. Trans. F. G. Lawrence. MIT Press. German original 1985.

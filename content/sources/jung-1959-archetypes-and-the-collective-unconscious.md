@@ -22,18 +22,20 @@ standing: "Foundational for analytical psychology, where the claim that archetyp
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "4. Developmental maps"
 grid_steps: ["B1", "C1"]
 grid_b1: "qualifies"
 grid_b1_says: "Describes individuation as a lifelong process of becoming whole, without measured stages."
-grid_b1_cite: "The Archetypes and the Collective Unconscious, final section (essays of 1933 to 1950)"
-grid_b1_grade: "[TBV]"
+grid_b1_cite: "The Archetypes and the Collective Unconscious (CW 9i), Part VI: 'Conscious, Unconscious, and Individuation' (p. 275), 'A Study in the Process of Individuation' (p. 290) and 'Concerning Mandala Symbolism' (p. 355)"
+grid_b1_grade: "[IC]"
+grid_b1_basis: "text"
 grid_c1: "qualifies"
 grid_c1_says: "Holds that an inherited archetypal layer of the psyche stays active in every person, a claim about a universal layer more than about historical structures."
-grid_c1_cite: "The Archetypes and the Collective Unconscious, 'The Concept of the Collective Unconscious' (1936)"
-grid_c1_grade: "[TBV]"
+grid_c1_cite: "The Archetypes and the Collective Unconscious (CW 9i), Part I: 'Archetypes of the Collective Unconscious' (1934, p. 3) and 'The Concept of the Collective Unconscious' (1936, pp. 42-53)"
+grid_c1_grade: "[IC]"
+grid_c1_basis: "text"
 ---
 
 C. G. Jung (1959). *The Archetypes and the Collective Unconscious*. Princeton University Press, Bollingen Series XX, Collected Works volume 9, part 1; translated by R. F. C. Hull; second edition 1969.

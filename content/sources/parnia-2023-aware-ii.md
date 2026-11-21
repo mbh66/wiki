@@ -23,11 +23,13 @@ anabranch_steps: ["T1", "T2"]
 anabranch_t1: "qualifies"
 anabranch_t1_says: "Reports lucid recalled experiences of death during CPR, without showing that mind exists apart from the brain."
 anabranch_t1_cite: "Resuscitation 191: 109903, Results"
-anabranch_t1_grade: "[TBV]"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "abstract"
 anabranch_t2: "dissents"
 anabranch_t2_says: "Reports that no interviewed survivor identified the visual image and 1 of 28 identified the auditory stimulus."
 anabranch_t2_cite: "Resuscitation 191: 109903, abstract"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Sam Parnia, Tara Keshavarz Shirazi, Jignesh Patel and colleagues (2023). *AWAreness during REsuscitation - II: A Multi-Center Study of Consciousness and Awareness in Cardiac Arrest*. Resuscitation 191: 109903. DOI: [10.1016/j.resuscitation.2023.109903](https://doi.org/10.1016/j.resuscitation.2023.109903).
@@ -43,7 +45,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

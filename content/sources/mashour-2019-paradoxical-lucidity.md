@@ -24,6 +24,7 @@ anabranch_t1: "qualifies"
 anabranch_t1_says: "Reports unexpected lucidity in severe dementia and seeks neurobiological explanations, with no claim of survival."
 anabranch_t1_cite: "Alzheimer's & Dementia 15(8) (2019), Introduction"
 anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "text"
 ---
 
 George A. Mashour, Lori Frank, Alexander Batthyany and colleagues (2019). "Paradoxical Lucidity: A Potential Paradigm Shift for the Neurobiology and Treatment of Severe Dementias". *Alzheimer's & Dementia* 15(8): 1107-1114. DOI: [10.1016/j.jalz.2019.04.002](https://doi.org/10.1016/j.jalz.2019.04.002).

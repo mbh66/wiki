@@ -15,14 +15,15 @@ standing: "Starred review in Publishers Weekly; answered by goddess-movement wri
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
 anabranch_steps: ["T7"]
 anabranch_t7: "dissents"
 anabranch_t7_says: "Argues that the evidence does not show a peaceful, goddess-centred prehistory overturned by later invaders; addresses the lost-age reading of part (a)."
-anabranch_t7_cite: "The Myth of Matriarchal Prehistory (2000), chapters not checked"
-anabranch_t7_grade: "[TBV]"
+anabranch_t7_cite: "The Myth of Matriarchal Prehistory (2000), ch. 5 'Finding Gender in Prehistory' (p. 81), ch. 6 'The Case Against Prehistoric Matriarchies I: Other Societies, Early Societies' (p. 93), ch. 7 'The Case Against Prehistoric Matriarchies II: Prehistoric Art and Architecture' (p. 116) and ch. 8 'Was There a Patriarchal Revolution?' (p. 157)"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "review"
 ---
 
 Cynthia Eller (2000). *The Myth of Matriarchal Prehistory: Why an Invented Past Will Not Give Women a Future*. Beacon Press. ISBN 978-0-8070-6792-5. [Beacon Press](https://www.beacon.org/The-Myth-of-Matriarchal-Prehistory-P363.aspx).

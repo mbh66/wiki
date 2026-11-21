@@ -20,27 +20,31 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "1. Mind and brain science"
 grid_steps: ["A1", "H"]
 grid_a1: "affirms"
 grid_a1_says: "Ties consciousness to being a living, self-regulating body, which implies it is widespread among animals."
-grid_a1_cite: "Being You (2021), Part III 'Self'"
+grid_a1_cite: "Being You (2021), Part III 'Self' (ch. 9 'Being a Beast Machine') and Part IV 'Other' (ch. 12 'Beyond Human'); chapter titles from contents listings"
 grid_a1_grade: "[TBV]"
+grid_a1_basis: "review"
 grid_h: "dissents"
 grid_h_says: "Sets the hard problem aside for a real problem and explains experience through predictive brain processes."
-grid_h_cite: "Being You (2021), Prologue and Part I 'Level'"
-grid_h_grade: "[TBV]"
+grid_h_cite: "Being You (2021), Prologue and Part I 'Level', ch. 1 'The Real Problem'"
+grid_h_grade: "[IC]"
+grid_h_basis: "review"
 anabranch_steps: ["T1", "T3"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Holds that when life ends, consciousness ends too."
 anabranch_t1_cite: "Being You (2021), Prologue"
-anabranch_t1_grade: "[TBV]"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "review"
 anabranch_t3: "dissents"
 anabranch_t3_says: "Treats experience as the brain's controlled hallucination within a physicalist frame."
 anabranch_t3_cite: "Being You (2021), pp. 18, 22"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "review"
 ---
 
 Anil Seth (2021). *Being You*. Faber & Faber.

@@ -23,7 +23,8 @@ anabranch_steps: ["T2"]
 anabranch_t2: "qualifies"
 anabranch_t2_says: "Grants that the free-response data favour an effect as presented, and argues that corrections to the data set shrink that support sharply."
 anabranch_t2_cite: "Psychological Bulletin 139(1) (2013), abstract, p. 241"
-anabranch_t2_grade: "[TBV]"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Jeffrey N. Rouder, Richard D. Morey and Jordan M. Province (2013). "A Bayes Factor Meta-Analysis of Recent Extrasensory Perception Experiments: Comment on Storm, Tressoldi, and Di Risio (2010)". *Psychological Bulletin* 139(1): 241-247. DOI 10.1037/a0029008.
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

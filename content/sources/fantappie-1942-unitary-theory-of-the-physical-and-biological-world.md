@@ -13,20 +13,21 @@ discipline: "mathematical physics"
 design: "E4"
 claims: ["B3"]
 claim_b3: true
-stance: ["B3:a"]
+stance: ["B3:q"]
 finding: "Proposes syntropy, a converging tendency symmetrical to entropy, as the law of living systems."
 standing: "Outside mainstream physics; developed since by Ulisse Di Corpo and Antonella Vannini [IC]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["B3"]
-grid_b3: "affirms"
-grid_b3_says: "Proposes that living systems follow syntropy, a converging tendency toward future attractors symmetrical to entropy."
-grid_b3_cite: "Principi di una teoria unitaria del mondo fisico e biologico (1942)"
+grid_b3: "qualifies"
+grid_b3_says: "Proposes syntropy, a converging, future-caused tendency toward order and differentiation in living systems, symmetrical to entropy, without a stated claim that complexity has risen historically."
+grid_b3_cite: "Principi di una teoria unitaria del mondo fisico e biologico (Rome, 1944); section not confirmed"
 grid_b3_grade: "[TBV]"
+grid_b3_basis: "review"
 ---
 
 Luigi Fantappiè (1942). *Principi di una teoria unitaria del mondo fisico e biologico*. Rome: Società Editrice Humanitas Nova, 1944 (134 pp.); reprinted by Di Renzo Editore, Rome, 1993. Theory presented to the Accademia d'Italia, 30 October 1942.
@@ -42,7 +43,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 - ISTAT digital library catalogue record (Roma: Humanitas nova, 1944, 134 pp.)
 - Documentazione interdisciplinare di Scienza e Fede, entry for Luigi Fantappiè (Humanitas Nova 1944; Di Renzo reprint 1993): https://disf.org/autori/luigi-fantappie
 
-The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3.
+The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B3.
 
 ## Cited by
 

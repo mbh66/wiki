@@ -21,7 +21,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["A2", "B2", "B3"]
@@ -29,19 +29,28 @@ grid_a2: "qualifies"
 grid_a2_says: "Accepts long-standing human cognitive capacities while rejecting stage sequences of social forms."
 grid_a2_cite: "The Dawn of Everything (2021), ch. 1"
 grid_a2_grade: "[IC]"
+grid_a2_basis: "review"
 grid_b2: "dissents"
 grid_b2_says: "Rejects evolutionary stages of society running from bands to states."
 grid_b2_cite: "The Dawn of Everything (2021), chs 1 and 2"
 grid_b2_grade: "[IC]"
+grid_b2_basis: "review"
 grid_b3: "dissents"
 grid_b3_says: "Argues people experimented with social forms in many directions, including seasonal switching."
 grid_b3_cite: "The Dawn of Everything (2021), chs 3 and 8"
 grid_b3_grade: "[IC]"
-anabranch_steps: ["T4"]
+grid_b3_basis: "review"
+anabranch_steps: ["T4", "T7"]
 anabranch_t4: "silent"
 anabranch_t4_says: "Studies the forms of human social life and makes no claim about the universe."
 anabranch_t4_cite: "The Dawn of Everything (2021), chapter not checked"
 anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "review"
+anabranch_t7: "dissents"
+anabranch_t7_says: "Rejects the Garden of Eden story and any single transition while tracing gradual, uneven losses of three social freedoms, disputing part (a)."
+anabranch_t7_cite: "The Dawn of Everything (Allen Lane, 2021), ch. 1 'Farewell to Humanity's Childhood', pp. 8-9 and 25; ch. 10 'Why the State Has No Origin', p. 426 (per Morris); ch. 12 'Conclusion', from p. 493"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "text"
 ---
 
 David Graeber, David Wengrow (2021). *The Dawn of Everything*. Allen Lane.
@@ -51,7 +60,8 @@ David Graeber, an anthropologist who died in 2020 before the book appeared, and 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in archaeology, with evidence type E3 and claim codes A2, B2, B3.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T4.
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T4; it dissents on T7.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies A2; it dissents from B2 and B3.
 
@@ -60,6 +70,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 
 <script type="application/ld+json">
 {

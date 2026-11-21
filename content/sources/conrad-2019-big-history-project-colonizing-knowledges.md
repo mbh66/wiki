@@ -21,9 +21,10 @@ source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
 anabranch_steps: ["T5"]
 anabranch_t5: "qualifies"
-anabranch_t5_says: "Argues that a science-based origin story taught as world history can still marginalise non-European peoples and Indigenous knowledges in what it represents."
+anabranch_t5_says: "Reports that the Big History Project curriculum promotes Eurocentrism through its content and sources, marginalising non-European peoples and Indigenous knowledges."
 anabranch_t5_cite: "Journal of Curriculum Studies 51(1) (2019): 1-20, abstract; full text not read"
-anabranch_t5_grade: "[TBV]"
+anabranch_t5_grade: "[IC]"
+anabranch_t5_basis: "abstract"
 ---
 
 Jenni Conrad (2019). "The Big History Project and colonizing knowledges in world history curriculum". *Journal of Curriculum Studies* 51(1): 1-20. Published online 28 August 2018. DOI 10.1080/00220272.2018.1493143 [IC].

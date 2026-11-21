@@ -24,6 +24,7 @@ anabranch_t9: "qualifies"
 anabranch_t9_says: "Reports that Two-Eyed Seeing keeps knowledge systems distinct and that later authors misdescribe it as blending."
 anabranch_t9_cite: "PLOS ONE 16(7), Discussion"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "text"
 ---
 
 Sophie I. G. Roher, Ziwa Yu, Debbie H. Martin, Anita C. Benoit (2021). *How is Etuaptmumk/Two-Eyed Seeing Characterized in Indigenous Health Research? A Scoping Review*. PLOS ONE 16(7): e0254612. DOI: [10.1371/journal.pone.0254612](https://doi.org/10.1371/journal.pone.0254612).

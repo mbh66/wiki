@@ -27,6 +27,7 @@ grid_a2: "dissents"
 grid_a2_says: "Argues the evidence does not establish burial or rock art by Homo naledi."
 grid_a2_cite: "Journal of Human Evolution (online 2023; print 2024)"
 grid_a2_grade: "[IC]"
+grid_a2_basis: "abstract"
 ---
 
 María Martinón-Torres, Diego Garate, Andy I. R. Herries, Michael D. Petraglia (2024). *No scientific evidence that Homo naledi buried their dead and produced rock art*. Journal of Human Evolution 103464.

@@ -21,23 +21,26 @@ standing: "Outside mainstream physics; library catalogues class it under Akashic
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["B3", "H"]
 grid_b3: "affirms"
 grid_b3_says: "Argues that evolution in nature and in mind moves toward greater coherence and integration."
-grid_b3_cite: "Science and the Akashic Field (2004), Part Two"
+grid_b3_cite: "Science and the Akashic Field (2004), Part Two (not checked)"
 grid_b3_grade: "[TBV]"
+grid_b3_basis: "review"
 grid_h: "qualifies"
-grid_h_says: "Holds an information field in the quantum vacuum to be basic, with consciousness among the things it connects and conserves."
-grid_h_cite: "Science and the Akashic Field (2004), Parts One and Two"
+grid_h_says: "Holds the quantum-vacuum A-field to be the common ground of matter and psyche, with consciousness one aspect of that ground."
+grid_h_cite: "Science and the Akashic Field (2004), Parts One and Two (not checked)"
 grid_h_grade: "[TBV]"
+grid_h_basis: "review"
 anabranch_steps: ["T3"]
 anabranch_t3: "qualifies"
-anabranch_t3_says: "Holds that an information field links minds; a receiver or filter model of the brain is not confirmed."
+anabranch_t3_says: "Holds that a quantum-vacuum information field conserves all experience, which minds access by resonance; does not cast the brain explicitly as a filter."
 anabranch_t3_cite: "Science and the Akashic Field (2004), chapter not checked"
 anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "review"
 ---
 
 Ervin Laszlo (2004). *Science and the Akashic Field: An Integral Theory of Everything*. Inner Traditions, Rochester, Vermont; updated second edition 2007.

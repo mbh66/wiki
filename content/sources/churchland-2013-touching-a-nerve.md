@@ -20,12 +20,14 @@ anabranch_group: "2. Philosophy of mind"
 anabranch_steps: ["T1", "T3"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Rejects a soul existing apart from the brain, and explains near-death experiences by brain states under low oxygen."
-anabranch_t1_cite: "Touching a Nerve (2013), ch. 2 'Soul Searching' and ch. 3 'My Heavens'"
-anabranch_t1_grade: "[TBV]"
+anabranch_t1_cite: "Touching a Nerve (2013), ch. 3 'My Heavens', pp. 70-71; ch. 2 'Soul Searching' not confirmed"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "review"
 anabranch_t3: "dissents"
 anabranch_t3_says: "Holds that the self is the brain; does not name filter theory."
 anabranch_t3_cite: "Touching a Nerve (2013), ch. 1 and ch. 2, per reviews and contents"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "review"
 ---
 
 Patricia S. Churchland (2013). *Touching a Nerve: The Self as Brain*. W. W. Norton, New York [IC].

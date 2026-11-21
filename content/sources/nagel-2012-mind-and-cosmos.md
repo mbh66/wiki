@@ -20,14 +20,15 @@ standing: "Sharply criticised by Sober, Dupre and others; welcomed by some for i
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
 anabranch_steps: ["T4"]
 anabranch_t4: "affirms"
 anabranch_t4_says: "Proposes natural teleological principles that make the rise of life and consciousness likely, without a designer."
 anabranch_t4_cite: "Mind and Cosmos (2012), chapter not checked"
-anabranch_t4_grade: "[TBV]"
+anabranch_t4_grade: "[IC]"
+anabranch_t4_basis: "review"
 ---
 
 Thomas Nagel (2012). *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*. Oxford University Press, New York. x + 130 pages. ISBN: 9780199919758.

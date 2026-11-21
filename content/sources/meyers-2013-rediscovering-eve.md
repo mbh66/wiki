@@ -21,8 +21,9 @@ anabranch_group: "6. Cultural and historical theorists"
 anabranch_steps: ["T7"]
 anabranch_t7: "dissents"
 anabranch_t7_says: "Rejects, on part (a), reading Genesis 2-3 as a Fall; reads it as explaining the toil and childbearing of Iron Age farm life."
-anabranch_t7_cite: "Rediscovering Eve (2013), ch. 4 'Eve in Eden: Genesis 2-3' and ch. 5 'Eve out of Eden: Genesis 3:16', as described in reviews; not read"
-anabranch_t7_grade: "[TBV]"
+anabranch_t7_cite: "Rediscovering Eve (2013), ch. 4 'Eve in Eden: Genesis 2-3' and ch. 5 'Eve out of Eden: Genesis 3:16', titles from the catalogue contents and Weiss (2013); not read"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "review"
 ---
 
 Carol Meyers (2013). *Rediscovering Eve: Ancient Israelite Women in Context*. Oxford University Press, New York. ISBN 9780199734627 [IC]. [Oxford University Press](https://global.oup.com/academic/product/rediscovering-eve-9780199734627).

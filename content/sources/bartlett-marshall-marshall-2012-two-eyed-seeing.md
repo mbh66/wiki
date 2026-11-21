@@ -24,6 +24,7 @@ anabranch_t9: "affirms"
 anabranch_t9_says: "Argues that Indigenous and mainstream knowledges should be brought together through co-learning, each kept whole."
 anabranch_t9_cite: "J Environ Stud Sci 2(4), lessons learned"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Cheryl Bartlett, Murdena Marshall, Albert Marshall (2012). *Two-Eyed Seeing and Other Lessons Learned within a Co-Learning Journey of Bringing Together Indigenous and Mainstream Knowledges and Ways of Knowing*. Journal of Environmental Studies and Sciences 2(4): 331-340. DOI: [10.1007/s13412-012-0086-8](https://doi.org/10.1007/s13412-012-0086-8).

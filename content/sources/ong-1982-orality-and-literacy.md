@@ -30,23 +30,33 @@ grid_a2: "affirms"
 grid_a2_says: "Distinguishes primary oral cultures from cultures shaped by writing and print."
 grid_a2_cite: "Orality and Literacy (1982), chs 3 and 4"
 grid_a2_grade: "[IC]"
+grid_a2_basis: "review"
 grid_a3: "affirms"
 grid_a3_says: "Argues that writing restructures consciousness."
 grid_a3_cite: "Orality and Literacy (1982), ch. 4"
 grid_a3_grade: "[IC]"
+grid_a3_basis: "review"
 grid_c1: "affirms"
 grid_c1_says: "Describes residual orality persisting inside literate cultures."
 grid_c1_cite: "Orality and Literacy (1982), ch. 5"
 grid_c1_grade: "[TBV]"
+grid_c1_basis: "summary"
 grid_c2: "qualifies"
 grid_c2_says: "Names electronic media a secondary orality, a new mix of older and newer modes."
 grid_c2_cite: "Orality and Literacy (1982), ch. 5"
 grid_c2_grade: "[IC]"
-anabranch_steps: ["T6"]
+grid_c2_basis: "review"
+anabranch_steps: ["T6", "T7"]
 anabranch_t6: "silent"
 anabranch_t6_says: "Studies the shift from orality to literacy, with no claim about a direction of the universe."
 anabranch_t6_cite: "Orality and Literacy (1982), chapter not checked"
 anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
+anabranch_t7: "qualifies"
+anabranch_t7_says: "Argues that writing restructures consciousness; speaks to part (a), the split, only."
+anabranch_t7_cite: "Orality and Literacy (1982), ch. 4"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
 ---
 
 Walter J. Ong (1982). *Orality and Literacy*. Methuen.
@@ -56,7 +66,8 @@ Walter J. Ong, a Jesuit scholar of language and literature, draws on Milman Parr
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in history of ideas, with evidence type E3 and claim codes A2, A3, C1, C2.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T6.
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T6; it qualifies T7.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2, A3 and C1; it qualifies C2.
 
@@ -65,6 +76,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 
 <script type="application/ld+json">
 {

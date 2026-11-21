@@ -24,6 +24,7 @@ anabranch_t2: "qualifies"
 anabranch_t2_says: "Finds no evidence that FC users author their messages, leaving the facilitator as the likely source of content."
 anabranch_t2_cite: "Autism & Developmental Language Impairments 3 (2018), 1-8, abstract and conclusion"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 ---
 
 Bronwyn Hemsley, Lucy Bryant, Ralf W. Schlosser, Howard C. Shane, Russell Lang, Diane Paul, Meher Banajee and Marie Ireland (2018). "Systematic review of facilitated communication 2014-2018 finds no new evidence that messages delivered using facilitated communication are authored by the person with disability". *Autism & Developmental Language Impairments* 3: 1-8. DOI: [10.1177/2396941518821570](https://doi.org/10.1177/2396941518821570).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

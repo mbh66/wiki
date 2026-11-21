@@ -15,7 +15,7 @@ record_check: "Controlled fire about 1 million years ago at Wonderwerk (Berna et
 fit: "later"
 grade: "[MS]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 source_documents: ["Deep research report: Evolution of Consciousness Grid, Run 2 (19 November 2026)"]
 epistemic_status: "working-hypothesis"
@@ -27,6 +27,8 @@ The nearest dated evidence: Controlled fire about 1 million years ago at Wonderw
 
 The source's date is later than the dated record shows.
 
+This entry records the page as it read on 19 November 2026. On 20 November 2026 the page was revised: it now gives the record's dates for the first appearance of each structure, and uses the growth curve only for which structure leads coordination at civilizational scale.
+
 The grid sets this threshold nearest to the network's Magical structure. The match is the grid's reading; the source keeps its own terms.
 
 ## Related
@@ -36,4 +38,4 @@ The grid sets this threshold nearest to the network's Magical structure. The mat
 
 ## Provenance
 
-Built on 19 November 2026 from the dating table in the Run 2 deep research report. `years_ago` is an approximate count of years before 2026 at which the source places the start of the threshold, added so the table sorts in time; it is the grid's conversion of the source's own wording.
+Built on 19 November 2026 from the dating table in the Run 2 deep research report. `years_ago` is an approximate count of years before 2026 at which the source places the start of the threshold, added so the table sorts in time; it is the grid's conversion of the source's own wording. Updated on 20 November 2026 to note the revision of the page it records.

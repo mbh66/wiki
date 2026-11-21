@@ -202,6 +202,17 @@ for (const page of pages(join(RESEARCH, "steps"))) {
 for (const code of CODES)
   if (!gridSteps[code]) warn(`No wiki step page found for grid code ${code}`)
 
+// What a square's reading was made from (standing instructions v1.6, section 5)
+const READ_FROM = ["text", "abstract", "review", "summary"]
+function readFrom(value, where, key) {
+  if (value == null || value === "") return ""
+  if (!READ_FROM.includes(value)) {
+    warn(`${where}: ${key} has unknown value "${value}"`)
+    return ""
+  }
+  return value
+}
+
 // Grid sources
 function gridEntry(fm, code, where) {
   const k = code.toLowerCase()
@@ -210,6 +221,7 @@ function gridEntry(fm, code, where) {
     says: fm[`grid_${k}_says`] || "",
     cite: fm[`grid_${k}_cite`] || "",
     grade: fm[`grid_${k}_grade`] || "",
+    readFrom: readFrom(fm[`grid_${k}_basis`], where, `grid_${k}_basis`),
   }
 }
 
@@ -225,6 +237,7 @@ function thesisCell(fm, step, where) {
       says: fm[`anabranch_${k}_says`] || "",
       cite: fm[`anabranch_${k}_cite`] || "",
       grade: fm[`anabranch_${k}_grade`] || "",
+      readFrom: readFrom(fm[`anabranch_${k}_basis`], where, `anabranch_${k}_basis`),
       basis: "checked",
       secondary,
     }

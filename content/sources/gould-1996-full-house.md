@@ -5,9 +5,9 @@ author: "Stephen Jay Gould"
 year: 1996
 type: "book"
 publisher: "Harmony Books"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "critic"
 discipline: "palaeontology"
 design: "E3"
@@ -19,7 +19,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["B3"]
@@ -27,6 +27,13 @@ grid_b3: "dissents"
 grid_b3_says: "Argues apparent progress is spread away from a wall of minimal complexity, with bacteria still the modal life form."
 grid_b3_cite: "Full House (1996), Part Four"
 grid_b3_grade: "[IC]"
+grid_b3_basis: "review"
+anabranch_steps: ["T6"]
+anabranch_t6: "dissents"
+anabranch_t6_says: "Argues apparent progress in evolution is variation spreading from a wall of minimal complexity, with no drive or direction."
+anabranch_t6_cite: "Full House (1996), Part Four 'The Modal Bacter: Why Progress Does not Rule the History of Life'"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "review"
 ---
 
 Stephen Jay Gould (1996). *Full House*. Harmony Books.
@@ -35,12 +42,16 @@ Stephen Jay Gould, a palaeontologist and historian of science, uses the disappea
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in palaeontology, with evidence type E3 and claim codes B3.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T6.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from B3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 
 <script type="application/ld+json">
 {

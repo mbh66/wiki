@@ -21,12 +21,14 @@ anabranch_group: "11. Critics of the anomalous experience research"
 anabranch_steps: ["T1", "T2"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Argues that reincarnation needs a surviving carrier of memory and that no such carrier is credible."
-anabranch_t1_cite: "Reincarnation (1996), chapters on the astral body and the modus operandi problem"
-anabranch_t1_grade: "[TBV]"
+anabranch_t1_cite: "Reincarnation (1996), chapters 'The Astral Body' and 'Telephone Calls from the Dead, Birth Marks, and the Modus Operandi Problem' (the modus operandi argument at pp. 139-40, per Matlock)"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "review"
 anabranch_t2: "dissents"
-anabranch_t2_says: "Argues that details in Stevenson's cases have ordinary sources, such as leading questions and late interviews."
-anabranch_t2_cite: "Reincarnation (1996), chapters on Dr. Ian Stevenson"
-anabranch_t2_grade: "[TBV]"
+anabranch_t2_says: "Argues that Stevenson's reincarnation cases rest on flawed investigation and have ordinary explanations, drawing on Champe Ransom's critique of his methods."
+anabranch_t2_cite: "Reincarnation (1996), the chapter on Dr. Ian Stevenson, the 'Galileo of Reincarnation', and those following, esp. pp. 255, 271 and 275-77"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "review"
 ---
 
 Paul Edwards (1996). *Reincarnation: A Critical Examination*. Prometheus Books, Amherst, NY. 313 pages.
@@ -42,7 +44,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

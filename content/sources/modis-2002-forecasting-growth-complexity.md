@@ -24,10 +24,12 @@ anabranch_t7: "qualifies"
 anabranch_t7_says: "Fits a logistic curve to complexity across history and makes no link to a split in consciousness."
 anabranch_t7_cite: "Technological Forecasting and Social Change 69(4) (2002), 377-404, abstract"
 anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "abstract"
 anabranch_t8: "qualifies"
 anabranch_t8_says: "Forecasts that the growth of complexity and change is about to slow, with no Noosphere claim."
 anabranch_t8_cite: "Technological Forecasting and Social Change 69(4) (2002), 377-404, abstract"
 anabranch_t8_grade: "[IC]"
+anabranch_t8_basis: "abstract"
 ---
 
 Theodore Modis (2002). "Forecasting the Growth of Complexity and Change". *Technological Forecasting and Social Change* 69(4): 377-404. DOI: [10.1016/S0040-1625(01)00172-X](https://doi.org/10.1016/S0040-1625(01)00172-X).

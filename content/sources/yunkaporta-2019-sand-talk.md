@@ -28,15 +28,23 @@ grid_b3: "dissents"
 grid_b3_says: "Rejects narratives of civilisational progress as patterns that cannot be sustained."
 grid_b3_cite: "Sand Talk (2019), opening chapter, 'The Porcupine, the Paleo-mind and the Grand Design'"
 grid_b3_grade: "[TBV]"
+grid_b3_basis: "summary"
 grid_c3: "qualifies"
 grid_c3_says: "Presents knowledge held in relations, kinship and pattern as long-standing Aboriginal practice, making no claim that it marks a new stage."
 grid_c3_cite: "Sand Talk (2019), middle chapters"
 grid_c3_grade: "[TBV]"
-anabranch_steps: ["T9"]
+grid_c3_basis: "summary"
+anabranch_steps: ["T8", "T9"]
+anabranch_t8: "silent"
+anabranch_t8_says: "Presents knowledge held in relations as long-standing Aboriginal practice, and makes no claim about a Noosphere or a growth curve."
+anabranch_t8_cite: "Sand Talk (2019), chapter not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "Sets Indigenous pattern thinking against industrial systems, with any joining on Indigenous terms."
 anabranch_t9_cite: "Sand Talk (2019), chapter not checked"
 anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "summary"
 ---
 
 Tyson Yunkaporta (2019). *Sand Talk*. Text Publishing.
@@ -46,7 +54,8 @@ Tyson Yunkaporta, a member of the Apalech Clan in far north Queensland and an ac
 The [[research/evolution-of-consciousness/library|library]] codes it as a context work in Indigenous knowledge, with evidence type E5 and claim codes B3, C3.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T9.
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T8; it qualifies T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies C3; it dissents from B3.
 
@@ -54,6 +63,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">

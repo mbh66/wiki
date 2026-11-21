@@ -4,7 +4,7 @@ description: "A Skeptical Inquirer cover story on the second season of The Telep
 author: "Stuart Vyse"
 year: 2026
 type: "article"
-publisher: "Skeptical Inquirer 50(5)"
+publisher: "Skeptical Inquirer 50(5), September/October 2026"
 url: "https://stuartvyse.com/2026/08/18/my-first-cover-story-my-csicon-talk/"
 tags: ["source", "consciousness", "anabranch"]
 subject: ["consciousness"]
@@ -21,8 +21,9 @@ anabranch_group: "11. Critics of the anomalous experience research"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
 anabranch_t2_says: "Rejects the paranormal claims of the podcast's second season, which he reports as dropping its earlier guardrails."
-anabranch_t2_cite: "Skeptical Inquirer 50(5) (2026); the author's description of the article"
+anabranch_t2_cite: "Skeptical Inquirer 50(5), September/October 2026, section 'Beyond Season One'; the author's description of the article"
 anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "abstract"
 ---
 
 Stuart Vyse (2026). "The Telepathy Tapes: A Portal into a World of Woo". *Skeptical Inquirer* 50(5), September/October 2026. Cover story. [Author's note](https://stuartvyse.com/2026/08/18/my-first-cover-story-my-csicon-talk/).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {
@@ -52,7 +53,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
   "datePublished": "2026",
   "publisher": {
     "@type": "Organization",
-    "name": "Skeptical Inquirer 50(5)"
+    "name": "Skeptical Inquirer 50(5), September/October 2026"
   },
   "url": "https://stuartvyse.com/2026/08/18/my-first-cover-story-my-csicon-talk/",
   "review": {

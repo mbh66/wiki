@@ -21,8 +21,9 @@ anabranch_group: "8. Traditions and testimony"
 anabranch_steps: ["T7"]
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Speaks to part (b) only: sets out relational Indigenous ways of knowing as a living, shared paradigm."
-anabranch_t7_cite: "Research Is Ceremony (2008), ch. 4 and ch. 5 'Relationality'"
-anabranch_t7_grade: "[TBV]"
+anabranch_t7_cite: "Research Is Ceremony (2008), ch. 4 'The Elements of an Indigenous Research Paradigm' and ch. 5 'Relationality'"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "review"
 ---
 
 Shawn Wilson (2008). *Research Is Ceremony: Indigenous Research Methods*. Fernwood Publishing, Black Point, Nova Scotia [IC]. [Library of Congress contents](https://catdir.loc.gov/catdir/toc/fy1002/2008431436.html).

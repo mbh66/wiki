@@ -24,6 +24,7 @@ anabranch_t9: "qualifies"
 anabranch_t9_says: "Argues that no fixed line divides indigenous and scientific knowledge, which recasts the two streams T9 sees flowing together."
 anabranch_t9_cite: "Development and Change 26(3) (1995), 413-439, abstract and conclusion"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Arun Agrawal (1995). "Dismantling the Divide Between Indigenous and Scientific Knowledge". *Development and Change* 26(3): 413-439. DOI: [10.1111/j.1467-7660.1995.tb00560.x](https://doi.org/10.1111/j.1467-7660.1995.tb00560.x).

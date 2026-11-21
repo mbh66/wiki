@@ -22,7 +22,8 @@ anabranch_steps: ["T5"]
 anabranch_t5: "affirms"
 anabranch_t5_says: "Presents humans as emerging within, and acting in, the universe's story."
 anabranch_t5_cite: "Journey of the Universe (2011), whole book, per publisher summary"
-anabranch_t5_grade: "[TBV]"
+anabranch_t5_grade: "[IC]"
+anabranch_t5_basis: "abstract"
 ---
 
 Brian Thomas Swimme and Mary Evelyn Tucker (2011). *Journey of the Universe*. Yale University Press, New Haven [IC]. [Yale University Press](https://yalebooks.yale.edu/book/9780300209433/journey-of-the-universe/).

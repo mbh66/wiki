@@ -24,6 +24,7 @@ anabranch_t2: "dissents"
 anabranch_t2_says: "Argues that Bem's statistics overstate the evidence for precognition."
 anabranch_t2_cite: "JPSP 100(3): 426-432"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Eric-Jan Wagenmakers, Ruud Wetzels, Denny Borsboom, Han L. J. van der Maas (2011). *Why Psychologists Must Change the Way They Analyze Their Data: The Case of Psi: Comment on Bem (2011)*. Journal of Personality and Social Psychology 100(3): 426-432. DOI: [10.1037/a0022790](https://doi.org/10.1037/a0022790).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

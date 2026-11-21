@@ -28,10 +28,12 @@ grid_a2: "affirms"
 grid_a2_says: "Lists human societies with language as the latest major transition."
 grid_a2_cite: "The Major Transitions in Evolution (1995), final chapter"
 grid_a2_grade: "[IC]"
+grid_a2_basis: "review"
 grid_b3: "qualifies"
 grid_b3_says: "Defines transitions as changes in how information is stored and passed on, with no necessary direction."
 grid_b3_cite: "The Major Transitions in Evolution (1995), ch. 1"
 grid_b3_grade: "[IC]"
+grid_b3_basis: "review"
 ---
 
 John Maynard Smith, Eörs Szathmáry (1995). *The Major Transitions in Evolution*. W. H. Freeman.

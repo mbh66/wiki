@@ -28,10 +28,12 @@ anabranch_t1: "qualifies"
 anabranch_t1_says: "Argues that survival is compatible with brain dependence and declines to claim that the evidence proves survival."
 anabranch_t1_cite: "Human Immortality (1898), lecture and Preface"
 anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "text"
 anabranch_t3: "affirms"
 anabranch_t3_says: "Proposes that the brain may have a permissive or transmissive function, sifting a wider consciousness it does not produce."
 anabranch_t3_cite: "Human Immortality (1898), lecture"
 anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "text"
 ---
 
 William James (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. The Ingersoll Lecture. Houghton, Mifflin and Company. Public domain. [Religion Online](https://www.religion-online.org/book/human-immortality/).

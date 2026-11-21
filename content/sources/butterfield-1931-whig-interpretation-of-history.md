@@ -14,14 +14,15 @@ standing: "Jack Haughton (The Historical Journal, 2026) reports it is universall
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "9. Critics of the sequence"
 anabranch_steps: ["T6"]
 anabranch_t6: "dissents"
 anabranch_t6_says: "Rejects reading history as progress toward the present; speaks to the writing of history only."
-anabranch_t6_cite: "The Whig Interpretation of History (1931), whole essay, per summaries"
+anabranch_t6_cite: "The Whig Interpretation of History (1931), Preface (dated September 1931) and the essay as a whole"
 anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "text"
 ---
 
 Herbert Butterfield (1931). *The Whig Interpretation of History*. G. Bell and Sons, London.

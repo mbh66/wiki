@@ -20,6 +20,7 @@ anabranch_t7: "qualifies"
 anabranch_t7_says: "Describes surges of technology and finance within the industrial era, bearing loosely on part (c), the growth curve."
 anabranch_t7_cite: "Technological Revolutions and Financial Capital (2002), chapter not checked"
 anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
 ---
 
 Perez, C. (2002). *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Cheltenham: Edward Elgar.

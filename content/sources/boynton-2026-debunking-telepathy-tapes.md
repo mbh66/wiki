@@ -23,6 +23,7 @@ anabranch_t2: "dissents"
 anabranch_t2_says: "Argues that the podcast's apparent telepathy is explained by facilitator cueing during letter selection."
 anabranch_t2_cite: "Skeptical Inquirer 50(5) (2026), opening sections"
 anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "text"
 ---
 
 Janyce L. Boynton (2026). "Debunking The Telepathy Tapes: The Role of Facilitator Behaviors". *Skeptical Inquirer* 50(5), September/October 2026. [Skeptical Inquirer](https://skepticalinquirer.org/2026/08/debunking-the-telepathy-tapes-the-role-of-facilitator-behaviors/).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

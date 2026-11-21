@@ -19,6 +19,13 @@
     silent: "Silent",
   }
   const STATUS = { mapped: "Coded", partial: "Partly coded", pending: "Not yet tested" }
+  // How the reading of a square was made, shown beside its grade
+  const READ_FROM = {
+    text: "Read in the work itself.",
+    abstract: "Read from the work's own abstract or its publisher's description.",
+    review: "Read from a review or reference entry about the work.",
+    summary: "Read from summaries of the work. The passage has not been checked.",
+  }
   const GRADES = {
     "[IC]": "an official record or two independent sources",
     "[TBV]": "plausible and unconfirmed",
@@ -63,7 +70,7 @@
   const riverSvg = document.querySelector(".river svg")
   const narrow = window.matchMedia("(max-width: 640px)")
   const fitRiver = () =>
-    riverSvg.setAttribute("viewBox", narrow.matches ? "370 20 540 225" : "0 0 1200 290")
+    riverSvg.setAttribute("viewBox", narrow.matches ? "330 15 740 245" : "0 0 1320 290")
   fitRiver()
   narrow.addEventListener("change", fitRiver)
 
@@ -133,7 +140,7 @@
   let table = `<thead><tr><th scope="col" class="col-source">Source</th>`
   for (const s of D.steps) {
     table += `<th scope="col" class="col-step${s.counts ? "" : " is-pending"}">
-      <a href="#${s.id}"><span class="col-num">${num(s.id)}</span><span class="col-label">${esc(s.short)}</span></a></th>`
+      <a href="#${s.id}" title="Step ${num(s.id)}, ${esc(plain(s.short))}: ${esc(plain(s.claim))}"><span class="col-num">${num(s.id)}</span><span class="col-label">${esc(plain(s.short))}</span></a></th>`
   }
   table += `</tr></thead>`
 
@@ -142,8 +149,7 @@
     D.sources.forEach((src, i) => {
       if (src.group !== group) return
       table += `<tr><th scope="row">
-        <a href="${esc(src.wikiUrl)}">${esc(src.title)}</a>${src.seedList ? `<span class="seed" title="On Michael Haupt's reading list">*</span>` : ""}
-        <span class="src-meta">${esc(shortAuthor(src.author))}${src.year ? `, ${esc(src.year)}` : ""}</span>
+        <a href="${esc(src.wikiUrl)}" title="${esc(src.title)}">${esc(shortAuthor(src.author) || src.title)}${src.year ? `, ${esc(src.year)}` : ""}<span class="visually-hidden">: ${esc(src.title)}</span></a>${src.seedList ? `<span class="seed" title="On Michael Haupt's reading list">*</span>` : ""}
       </th>`
       for (const s of D.steps) {
         const c = src.cells[s.id]
@@ -180,6 +186,7 @@
     if (c.cite) html += `<p class="panel-cite">Where: ${esc(c.cite)}</p>`
     if (c.grade)
       html += `<p class="panel-grade">Grade ${esc(c.grade)}${GRADES[c.grade] ? `: ${GRADES[c.grade]}` : ""}</p>`
+    if (READ_FROM[c.readFrom]) html += `<p class="panel-read">${READ_FROM[c.readFrom]}</p>`
     if (c.basis === "inherited") {
       html += `<p class="panel-basis">Taken from grid step ${esc(c.from)} on the wiki. Not yet checked against the wording of this step.</p>`
     } else if (c.basis === "checked") {
@@ -236,4 +243,32 @@
     <a href="${esc(D.wiki)}">evolution of consciousness research</a> on the BioConomy wiki, which holds the full
     <a href="${esc(D.grid)}">claim grid</a>, the graded library and the dating table. Data built ${esc(built)}.</p>
     <p><a href="data/anabranch.json">Download the data as JSON</a></p>`
+  // Folded sections: "Where the sources stand" and "Sources" start closed.
+  // A reader's choice is remembered in this browser; storage can be missing,
+  // so every read and write is guarded.
+  for (const d of document.querySelectorAll("details.fold")) {
+    const key = "anabranch-fold-" + d.dataset.fold
+    try {
+      if (localStorage.getItem(key) === "open") d.open = true
+    } catch (e) {}
+    d.addEventListener("toggle", () => {
+      try {
+        localStorage.setItem(key, d.open ? "open" : "closed")
+      } catch (e) {}
+    })
+  }
+  // A link or address pointing into a folded section opens it first,
+  // so "Sources on this step" still lands on the grid.
+  const openFold = (hash) => {
+    const target = hash && hash.length > 1 && document.getElementById(hash.slice(1))
+    if (!target) return
+    const d = target.closest("details.fold") || target.querySelector("details.fold")
+    if (d) d.open = true
+  }
+  document.addEventListener("click", (e) => {
+    const link = e.target.closest('a[href^="#"]')
+    if (link) openFold(link.getAttribute("href"))
+  })
+  window.addEventListener("hashchange", () => openFold(location.hash))
+  openFold(location.hash)
 })()

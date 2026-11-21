@@ -7,9 +7,9 @@ type: "book"
 publisher: "In R. M. Lerner (ed.), Theoretical Models of Human Development, Handbook of Child Psychology, 6th edition, volume 1 (eds-in-chief W. Damon and R. M. Lerner), Wiley, ch. 7, pp. 313-399"
 url: "https://doi.org/10.1002/9780470147658.chpsy0107"
 doi: "10.1002/9780470147658.chpsy0107"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "critic"
 discipline: "developmental psychology"
 design: "E3"
@@ -22,7 +22,7 @@ standing: "A standard neo-Piagetian framework, widely cited in developmental and
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["B1", "C1"]
@@ -30,10 +30,18 @@ grid_b1: "qualifies"
 grid_b1_says: "Accepts that skills build through levels and rejects a fixed ladder, since a person's level shifts with context and support."
 grid_b1_cite: "Dynamic Development of Action and Thought (2006), Handbook of Child Psychology, 6th edition, volume 1, ch. 7, pp. 313 to 399"
 grid_b1_grade: "[IC]"
+grid_b1_basis: "text"
 grid_c1: "qualifies"
 grid_c1_says: "Holds that lower skill levels stay available within a range set by context, a claim weaker than whole structures staying active."
 grid_c1_cite: "Dynamic Development of Action and Thought (2006), Handbook of Child Psychology, 6th edition, volume 1, ch. 7, pp. 313 to 399"
 grid_c1_grade: "[TBV]"
+grid_c1_basis: "abstract"
+anabranch_steps: ["T5"]
+anabranch_t5: "silent"
+anabranch_t5_says: "Describes development as a web of skills varying with context, and makes no claim about each person taking part in a cosmic evolution."
+anabranch_t5_cite: "Dynamic Development of Action and Thought (2006), chapter not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "abstract"
 ---
 
 Fischer, K. W. and Bidell, T. R. (2006). Dynamic development of action and thought. In R. M. Lerner (ed.), *Theoretical Models of Human Development*, volume 1 of *Handbook of Child Psychology*, 6th edition (W. Damon and R. M. Lerner, eds-in-chief), chapter 7, pp. 313-399. John Wiley & Sons, Hoboken, NJ.
@@ -42,12 +50,16 @@ Kurt Fischer and Thomas Bidell set out dynamic skill theory: skills are built fr
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in developmental psychology, with evidence type E3 and claim codes B1, C1.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T5.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B1 and C1.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 
 <script type="application/ld+json">
 {

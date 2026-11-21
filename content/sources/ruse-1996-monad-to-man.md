@@ -27,7 +27,8 @@ anabranch_steps: ["T6"]
 anabranch_t6: "qualifies"
 anabranch_t6_says: "Holds that ideas of evolutionary progress drew on cultural ideas of Progress, and separates the two."
 anabranch_t6_cite: "Monad to Man (1996), whole book, per reviews"
-anabranch_t6_grade: "[TBV]"
+anabranch_t6_grade: "[IC]"
+anabranch_t6_basis: "review"
 ---
 
 Michael Ruse (1996). *Monad to Man: The Concept of Progress in Evolutionary Biology*. Harvard University Press, Cambridge, Mass. 628 pages [IC]. [Harvard University Press](https://www.hup.harvard.edu/books/9780674032484).

@@ -21,18 +21,20 @@ standing: "Debated within big history; Modis reads similar series as logistic [I
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "12. Growth curves and limits"
 anabranch_steps: ["T4", "T8"]
 anabranch_t4: "qualifies"
 anabranch_t4_says: "Documents accelerating growth of complexity on Earth and stays silent on any striving behind it."
-anabranch_t4_cite: "The 21st Century Singularity and Global Futures (2020), ch. 2"
+anabranch_t4_cite: "The 21st Century Singularity and Global Futures (2020), ch. 2, pp. 19-75"
 anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "abstract"
 anabranch_t8: "qualifies"
-anabranch_t8_says: "Reads the long series as hyperbolic acceleration toward a singularity, then slowdown, with no Noosphere."
-anabranch_t8_cite: "The 21st Century Singularity and Global Futures (2020), ch. 2"
+anabranch_t8_says: "Fits the long macroevolutionary series to a singularity near 2027 to 2029, read as an inflection point before long-term slowdown; no Noosphere."
+anabranch_t8_cite: "The 21st Century Singularity and Global Futures (2020), ch. 2, pp. 19-75"
 anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "abstract"
 ---
 
 Andrey V. Korotayev (2020). "The Twenty-First-Century Singularity in the Big History Perspective: A Re-analysis". In Andrey Korotayev and David LePoire (eds), *The 21st Century Singularity and Global Futures*, Springer, Cham, pp. 19-75. DOI: [10.1007/978-3-030-33730-8_2](https://doi.org/10.1007/978-3-030-33730-8_2).

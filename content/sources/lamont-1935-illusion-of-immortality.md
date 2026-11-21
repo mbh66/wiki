@@ -15,18 +15,20 @@ standing: "Reviewed by James H. Leuba in The Journal of Religion 15(3), 1935, pp
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "11. Critics of the anomalous experience research"
 anabranch_steps: ["T1", "T3"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Argues that personality depends on the body and brain, so that survival of bodily death is very improbable."
-anabranch_t1_cite: "The Illusion of Immortality (1935), ch. 'The Verdict of Science' (inference from the contents list); text not read"
-anabranch_t1_grade: "[TBV]"
+anabranch_t1_cite: "The Illusion of Immortality (1935), ch. 'The Verdict of Science' (p. 58 in the 1935 Putnam printing, per Google Books contents); memory's dependence on the brain argued at p. 76 of the 1990 Ungar/Continuum edition, as quoted by Augustine"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "review"
 anabranch_t3: "dissents"
 anabranch_t3_says: "Rejects William James's transmission analogy, holding that the evidence shows the mind depends on the brain."
-anabranch_t3_cite: "The Illusion of Immortality (1935), chapter not identified; the reply to James known only as quoted by other writers (Run 3d)"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_cite: "The Illusion of Immortality, 1990 Ungar/Continuum edition, pp. 98-104 (the brain as instrument or transmitter of the soul, with the colored-glass reply at p. 104), as quoted by Augustine; chapter not confirmed"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "review"
 ---
 
 Corliss Lamont (1935). *The Illusion of Immortality*. Introduction by John Dewey. G. P. Putnam's Sons, New York. 292 pages [IC]. Google Books lists the 1935 printing as a second edition [TBV].

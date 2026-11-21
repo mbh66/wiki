@@ -23,7 +23,7 @@ standing: "Widely cited [TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "3. Cognitive archaeology and the history of mind"
 grid_steps: ["A1", "A2", "A3", "C1", "C2"]
@@ -31,27 +31,33 @@ grid_a1: "qualifies"
 grid_a1_says: "Starts from episodic primate cognition, which the human transitions build on."
 grid_a1_cite: "Origins of the Modern Mind (1991), ch. 5"
 grid_a1_grade: "[IC]"
+grid_a1_basis: "review"
 grid_a2: "affirms"
 grid_a2_says: "Identifies three transitions: mimetic skill with Homo erectus, mythic culture with speech, and theoretic culture with external symbols."
 grid_a2_cite: "Origins of the Modern Mind (1991), chs 6 to 8"
 grid_a2_grade: "[IC]"
+grid_a2_basis: "review"
 grid_a3: "qualifies"
 grid_a3_says: "Describes the transitions as changes in representation and memory, framed as cognitive and cultural."
 grid_a3_cite: "Origins of the Modern Mind (1991), ch. 9 'Consciousness and Indeterminacy'"
 grid_a3_grade: "[IC]"
+grid_a3_basis: "review"
 grid_c1: "affirms"
 grid_c1_says: "Holds that each earlier mode of representation is retained in the modern mind."
 grid_c1_cite: "Origins of the Modern Mind (1991), ch. 9; Précis, Behavioral and Brain Sciences 16 (1993)"
 grid_c1_grade: "[IC]"
+grid_c1_basis: "review"
 grid_c2: "qualifies"
 grid_c2_says: "Treats external symbolic storage as the latest transition and leaves later ones open."
 grid_c2_cite: "Origins of the Modern Mind (1991), ch. 8 'Third Transition: External Symbolic Storage and Theoretic Culture'"
 grid_c2_grade: "[IC]"
+grid_c2_basis: "review"
 anabranch_steps: ["T6"]
 anabranch_t6: "silent"
 anabranch_t6_says: "Traces stages of memory and culture in human evolution, with no claim about a direction of the universe."
 anabranch_t6_cite: "Origins of the Modern Mind (1991), chapter not checked"
 anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "abstract"
 ---
 
 Merlin Donald (1991). *Origins of the Modern Mind*. Harvard University Press.

@@ -21,16 +21,19 @@ anabranch_group: "10. Anomalous experience research"
 anabranch_steps: ["T1", "T2", "T3"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Argues that personality involves an element that survives bodily death, and that evidence from apparitions points to the action of departed spirits."
-anabranch_t1_cite: "Human Personality (abridged 1906 ed.), ch. I 'Introduction', pp. 1, 9 and 13"
-anabranch_t1_grade: "[TBV]"
+anabranch_t1_cite: "Human Personality (abridged ed., Longmans, Green, 1906; Gutenberg text of the 1918 impression), ch. I 'Introduction', pp. 1, 9 and 13"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "text"
 anabranch_t2: "affirms"
 anabranch_t2_says: "Holds that converging experimental and spontaneous evidence supports telepathy, communication from mind to mind without the recognised organs of sense."
-anabranch_t2_cite: "Human Personality (abridged 1906 ed.), ch. I, pp. 8-9; Glossary, p. xvii"
-anabranch_t2_grade: "[TBV]"
+anabranch_t2_cite: "Human Personality (abridged 1906 ed.), ch. I, pp. 8-9; Glossary, 'Telepathy', p. xvii"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 anabranch_t3: "affirms"
 anabranch_t3_says: "Argues that waking consciousness is a selection from a larger self, shown only partly through an organism not framed for its full expression."
 anabranch_t3_cite: "Human Personality (abridged 1906 ed.), ch. I, pp. 13, 15 and 18; ch. III 'Genius', p. 59"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "text"
 ---
 
 F. W. H. Myers (1903). *Human Personality and Its Survival of Bodily Death*. 2 vols. Longmans, Green, London [IC]. Read in the abridged edition, edited by L. H. Myers (Longmans, Green, 1906; 1918 impression), on [Project Gutenberg](https://www.gutenberg.org/ebooks/38492), no. 38492 [IC].
@@ -44,7 +47,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 
 <script type="application/ld+json">

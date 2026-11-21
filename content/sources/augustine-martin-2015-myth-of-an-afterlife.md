@@ -27,10 +27,12 @@ anabranch_t1: "dissents"
 anabranch_t1_says: "Argues that brain damage and brain death end mental life, so consciousness does not exist beyond the body."
 anabranch_t1_cite: "The Myth of an Afterlife (2015), Part I, 'Empirical Arguments for Annihilation'"
 anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "review"
 anabranch_t3: "dissents"
-anabranch_t3_says: "Argues that dualist and transmission readings of the brain carry costs the neuroscience of mind does not support."
-anabranch_t3_cite: "The Myth of an Afterlife (2015), ch. 10, 'The Dualist's Dilemma' (Augustine and Fishman)"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_says: "Argues that neuroscience shows a functioning brain is necessary, and sufficient, for consciousness, which leaves a separate soul no work to do."
+anabranch_t3_cite: "The Myth of an Afterlife (2015), Augustine and Fishman, 'The Dualist's Dilemma: The High Cost of Reconciling Neuroscience with a Soul', pp. 203-292, the last chapter of Part I; chapter number not confirmed"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "abstract"
 ---
 
 Keith Augustine and Michael Martin (eds) (2015). *The Myth of an Afterlife: The Case against Life After Death*. Rowman & Littlefield, Lanham, MD. xxxi + 675 pages. ISBN: 9780810886773.

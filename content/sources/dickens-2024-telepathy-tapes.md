@@ -21,8 +21,9 @@ anabranch_group: "10. Anomalous experience research"
 anabranch_steps: ["T2"]
 anabranch_t2: "affirms"
 anabranch_t2_says: "Presents demonstrations offered as evidence that some nonspeaking autistic people receive information telepathically."
-anabranch_t2_cite: "The Telepathy Tapes, season 1"
-anabranch_t2_grade: "[TBV]"
+anabranch_t2_cite: "The Telepathy Tapes, season 1 (September to December 2024)"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "review"
 ---
 
 Ky Dickens (2024). *The Telepathy Tapes*. The Telepathy Tapes (audio podcast). [Link](https://thetelepathytapes.com).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

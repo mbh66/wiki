@@ -22,7 +22,8 @@ anabranch_steps: ["T7"]
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Holds, on part (b), that tribal oral traditions preserve accurate knowledge of the deep past, against scientific orthodoxy; silent on parts (a) and (c)."
 anabranch_t7_cite: "Red Earth, White Lies (1995), whole argument as summarised in the catalogue record and three reviews; chapters not read"
-anabranch_t7_grade: "[TBV]"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "review"
 ---
 
 Vine Deloria Jr. (1995). *Red Earth, White Lies: Native Americans and the Myth of Scientific Fact*. Scribner, New York. 286 pages. ISBN 0-684-80700-9 [IC]. Reissued by Fulcrum, Golden, Colorado, 1997 [IC].

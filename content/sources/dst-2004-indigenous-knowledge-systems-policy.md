@@ -23,10 +23,12 @@ anabranch_t7: "qualifies"
 anabranch_t7_says: "Affirms indigenous knowledge as living systems held by practitioners, and is silent on any split."
 anabranch_t7_cite: "IKS Policy (2004), policy drivers"
 anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "text"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "Holds that indigenous knowledge should interface with other knowledge systems, at national scale."
 anabranch_t9_cite: "IKS Policy (2004), driver 4"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "text"
 ---
 
 Department of Science and Technology, Republic of South Africa (2004). *Indigenous Knowledge Systems Policy*. Department of Science and Technology, Pretoria. [Link](https://pmg.org.za/committee-meeting/23085/).

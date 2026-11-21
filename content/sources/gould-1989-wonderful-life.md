@@ -26,7 +26,8 @@ anabranch_steps: ["T6"]
 anabranch_t6: "dissents"
 anabranch_t6_says: "Argues that life's history is contingent, so a replay would likely differ; rejects a built-in direction toward humans."
 anabranch_t6_cite: "Wonderful Life (1989), pp. 48-51 (as quoted in secondary sources)"
-anabranch_t6_grade: "[TBV]"
+anabranch_t6_grade: "[IC]"
+anabranch_t6_basis: "review"
 ---
 
 Stephen Jay Gould (1989). *Wonderful Life: The Burgess Shale and the Nature of History*. W. W. Norton, New York.

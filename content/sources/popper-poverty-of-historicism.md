@@ -28,10 +28,12 @@ grid_b3: "dissents"
 grid_b3_says: "Argues history has no laws of development that permit prediction."
 grid_b3_cite: "The Poverty of Historicism (1957), Part IV"
 grid_b3_grade: "[IC]"
+grid_b3_basis: "review"
 grid_c2: "dissents"
 grid_c2_says: "Holds that claims about the coming stage of history cannot be tested."
 grid_c2_cite: "The Poverty of Historicism (1957), Preface and Part IV"
 grid_c2_grade: "[TBV]"
+grid_c2_basis: "summary"
 ---
 
 Popper, K. (1957). *The Poverty of Historicism*. London: Routledge & Kegan Paul.

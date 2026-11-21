@@ -24,6 +24,7 @@ anabranch_t9: "dissents"
 anabranch_t9_says: "Rejects the assumption that local arrangements are inherently more just or sustainable."
 anabranch_t9_cite: "Progress in Development Studies 5(4), abstract"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Mark Purcell, J. Christopher Brown (2005). *Against the Local Trap: Scale and the Study of Environment and Development*. Progress in Development Studies 5(4): 279-297. DOI: [10.1191/1464993405ps122oa](https://doi.org/10.1191/1464993405ps122oa).

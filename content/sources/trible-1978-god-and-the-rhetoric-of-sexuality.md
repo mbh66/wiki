@@ -21,8 +21,9 @@ anabranch_group: "6. Cultural and historical theorists"
 anabranch_steps: ["T7"]
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Speaks to part (a) only: reads the Eden story as a love story gone awry, a rupture between woman and man."
-anabranch_t7_cite: "God and the Rhetoric of Sexuality (1978), ch. 4, 'A Love Story Gone Awry', pp. 73-143 per a BAS Library article"
-anabranch_t7_grade: "[TBV]"
+anabranch_t7_cite: "God and the Rhetoric of Sexuality (1978), ch. 4 'A Love Story Gone Awry', pp. 73-143"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "review"
 ---
 
 Phyllis Trible (1978). *God and the Rhetoric of Sexuality*. Overtures to Biblical Theology. Fortress Press, Philadelphia [IC]. [Fortress Press](https://www.fortresspress.com/store/product/9780800604646/God-and-the-Rhetoric-of-Sexuality).

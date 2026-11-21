@@ -23,7 +23,7 @@ standing: "First-person testimony with a foreword by Ervin Laszlo, received with
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "8. Traditions and testimony"
 grid_steps: ["B3", "C2", "C3", "H"]
@@ -31,23 +31,28 @@ grid_b3: "affirms"
 grid_b3_says: "Reads the evolution of consciousness as purposeful, moving toward a deeper union of the human with a cosmic intelligence."
 grid_b3_cite: "LSD and the Mind of the Universe (2019), ch. 9 'The Birth of the Future Human' and ch. 11 'Final Vision' (inference)"
 grid_b3_grade: "[TBV]"
+grid_b3_basis: "review"
 grid_c2: "affirms"
 grid_c2_says: "Reports visions of a coming transformation of the human species, which he calls the birth of the Future Human."
 grid_c2_cite: "LSD and the Mind of the Universe (2019), chapter on the birth of the Future Human"
 grid_c2_grade: "[IC]"
+grid_c2_basis: "abstract"
 grid_c3: "affirms"
 grid_c3_says: "Describes humanity as a single species mind, in which personal healing feeds a collective change."
 grid_c3_cite: "LSD and the Mind of the Universe (2019), middle chapters"
 grid_c3_grade: "[TBV]"
+grid_c3_basis: "review"
 grid_h: "affirms"
 grid_h_says: "Reports direct experience of a living intelligence underlying the universe, from which individual minds arise."
 grid_h_cite: "LSD and the Mind of the Universe (2019), ch. 6 'Initiation into the Universe' and ch. 10 'Diamond Luminosity' (inference)"
 grid_h_grade: "[TBV]"
+grid_h_basis: "review"
 anabranch_steps: ["T1"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Holds that reincarnation gives individual consciousness open-ended time to develop."
 anabranch_t1_cite: "LSD and the Mind of the Universe (2019), p. 91, as quoted in a review"
 anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "review"
 ---
 
 Christopher M. Bache (2019). *LSD and the Mind of the Universe: Diamonds from Heaven*. Park Street Press, Rochester, Vermont; foreword by Ervin Laszlo.

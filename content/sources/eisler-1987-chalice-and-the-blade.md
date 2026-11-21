@@ -14,7 +14,7 @@ standing: "Reviewers reject its reliance on the archaeology of Gimbutas and Mell
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
 anabranch_steps: ["T7"]
@@ -22,6 +22,7 @@ anabranch_t7: "qualifies"
 anabranch_t7_says: "Argues that dominator societies displaced earlier partnership societies and reads the Eden story as a trace of the shift; speaks to part (a) only."
 anabranch_t7_cite: "The Chalice and the Blade (1987), chapters not checked"
 anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "review"
 ---
 
 Riane Eisler (1987). *The Chalice and the Blade: Our History, Our Future*. Harper & Row, San Francisco.

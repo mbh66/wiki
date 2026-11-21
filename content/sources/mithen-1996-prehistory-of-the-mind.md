@@ -21,27 +21,31 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "3. Cognitive archaeology and the history of mind"
 grid_steps: ["A2", "A3", "B2"]
 grid_a2: "affirms"
-grid_a2_says: "Places cognitive fluidity between specialised intelligences with modern humans, between about 60,000 and 30,000 years ago."
-grid_a2_cite: "The Prehistory of the Mind (1996), ch. 9 'The big bang of human culture: the origins of art and religion' and ch. 10 'So how did it happen?'"
-grid_a2_grade: "[TBV]"
+grid_a2_says: "Places cognitive fluidity between specialised intelligences at about 60,000 to 30,000 years ago, after anatomically modern humans first appeared."
+grid_a2_cite: "The Prehistory of the Mind (1996), ch. 9 'The big bang of human culture: the origins of art and religion' (p. 151) and ch. 10 'So how did it happen?' (p. 185); pages from a bookseller's contents listing"
+grid_a2_grade: "[IC]"
+grid_a2_basis: "review"
 grid_a3: "qualifies"
 grid_a3_says: "Argues a change in mental architecture, described in cognitive terms."
-grid_a3_cite: "The Prehistory of the Mind (1996), ch. 9 and ch. 11 'The evolution of the mind'"
-grid_a3_grade: "[TBV]"
+grid_a3_cite: "The Prehistory of the Mind (1996), ch. 9 (p. 151) and ch. 11 'The evolution of the mind' (p. 195); pages from a bookseller's contents listing"
+grid_a3_grade: "[IC]"
+grid_a3_basis: "review"
 grid_b2: "qualifies"
 grid_b2_says: "Uses child development as an analogy for the evolution of mind and warns against strict recapitulation."
-grid_b2_cite: "The Prehistory of the Mind (1996), ch. 3"
+grid_b2_cite: "The Prehistory of the Mind (1996), ch. 4 'A new proposal for the mind's evolution', p. 63, as quoted by Evison; ch. 4 begins at p. 61 in a bookseller's contents listing"
 grid_b2_grade: "[TBV]"
+grid_b2_basis: "review"
 anabranch_steps: ["T7"]
 anabranch_t7: "silent"
 anabranch_t7_says: "Dates cognitive fluidity to 60,000 to 30,000 years ago, earlier than any of the network's dates for Material."
-anabranch_t7_cite: "The Prehistory of the Mind (1996), chapter not checked"
+anabranch_t7_cite: "The Prehistory of the Mind (1996), ch. 9 'The big bang of human culture: the origins of art and religion' (p. 151); pages from a bookseller's contents listing"
 anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "review"
 ---
 
 Steven Mithen (1996). *The Prehistory of the Mind*. Thames & Hudson.

@@ -23,7 +23,8 @@ anabranch_steps: ["T5"]
 anabranch_t5: "dissents"
 anabranch_t5_says: "Rejects Campbell's universal hero pattern as built from selected and miscategorised tales; addresses the monomyth as a story every culture shares."
 anabranch_t5_cite: "Folkloristics in the Twenty-First Century (2005), pp. 394-399 (pages as given in the 2024 critique 'One myth to rule them all')"
-anabranch_t5_grade: "[TBV]"
+anabranch_t5_grade: "[IC]"
+anabranch_t5_basis: "review"
 ---
 
 Alan Dundes (2005). "Folkloristics in the Twenty-First Century (AFS Invited Presidential Plenary Address, 2004)". *Journal of American Folklore* 118(470): 385-408. DOI 10.2307/4137664. [Project MUSE](https://muse.jhu.edu/article/188764/summary).

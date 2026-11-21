@@ -23,6 +23,7 @@ anabranch_t7: "qualifies"
 anabranch_t7_says: "Reads Genesis 3 as estrangement from God through sin and rejects an upward fall to higher self-consciousness; speaks to the Eden reading of part (a)."
 anabranch_t7_cite: "Is Genesis 3 a Fall Story? (1994), pp. 144-148"
 anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "text"
 ---
 
 Terence E. Fretheim (1994). "Is Genesis 3 a Fall Story?". *Word & World* 14(2): 144-153. [Luther Seminary](https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/14-2_Genesis/Is%20Genesis%203%20a%20Fall%20Story.pdf).

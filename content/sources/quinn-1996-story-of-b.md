@@ -20,8 +20,9 @@ anabranch_group: "6. Cultural and historical theorists"
 anabranch_steps: ["T7"]
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Argues, on part (a), that one culture broke from humanity's older ways through agriculture, and reads the Fall story as that change of mind."
-anabranch_t7_cite: "The Story of B (1996), 'Educating Jared', pp. 45-103, and B's lectures, as summarised by Films for Action; not read"
+anabranch_t7_cite: "The Story of B (1996), 'Educating Jared', pp. 45-103, and B's lectures, as summarised by Do the Math (UC San Diego); page of the Fall passage not confirmed"
 anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "review"
 ---
 
 Daniel Quinn (1996). *The Story of B*. Bantam Books, New York. 325 pages [IC].

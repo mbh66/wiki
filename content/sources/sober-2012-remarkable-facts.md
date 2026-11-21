@@ -23,6 +23,7 @@ anabranch_t4: "dissents"
 anabranch_t4_says: "Rejects Nagel's argument that nature needs goal-directed principles to explain the rise of life and mind."
 anabranch_t4_cite: "Boston Review (2012), section 'Brute Facts'"
 anabranch_t4_grade: "[IC]"
+anabranch_t4_basis: "text"
 ---
 
 Elliott Sober (2012). "Remarkable Facts: Ending Science as We Know It". *Boston Review*, November/December 2012, pp. 50-55. [Boston Review](https://www.bostonreview.net/articles/remarkable-facts/).

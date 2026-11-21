@@ -109,19 +109,59 @@ p {
   padding-top: clamp(2.5rem, 8vw, 5.5rem);
 }
 
+.kicker,
+.byline {
+  font-family: var(--sans);
+  font-size: var(--s-1);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  margin: 0;
+}
+.kicker {
+  margin-bottom: 0.9rem;
+}
+.byline {
+  margin-top: 1rem;
+}
+.kicker a,
+.byline a {
+  color: var(--muted);
+  text-decoration: none;
+}
+.kicker a:hover,
+.byline a:hover {
+  color: var(--ink);
+  text-decoration: underline;
+}
+
+/* The title runs past the text measure on wide screens so it stays on one
+   line; on narrow screens it wraps. */
 .title {
-  font-size: clamp(var(--s5), 11vw, var(--s6));
+  font-size: clamp(2.3rem, 8vw, 3.4rem);
   font-weight: 300;
   letter-spacing: -0.02em;
-  line-height: 1;
+  line-height: 1.05;
+}
+@media (min-width: 960px) {
+  .title {
+    font-size: min(3.4rem, 5.6vw);
+    white-space: nowrap;
+  }
+}
+
+.rule {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 1.4rem 0 0;
 }
 
 .subtitle {
-  margin-top: 0.9rem;
-  font-size: var(--s1);
+  margin-top: 1.2rem;
+  font-size: 1.08rem;
+  line-height: 1.5;
   font-style: italic;
   color: var(--muted);
-  max-width: 30rem;
+  max-width: var(--measure);
 }
 
 .river {
@@ -147,29 +187,102 @@ p {
 .stream-material {
   stroke: var(--slate);
   stroke-width: 7;
-  stroke-dasharray: 1;
+  stroke-dasharray: 1 2;
   stroke-dashoffset: 0;
 }
-.stream-mixed {
-  stroke: url(#mixed);
-  stroke-width: 14;
-  stroke-dasharray: 1;
+.stream-thread-early,
+.stream-thread-anabranch {
+  stroke-dasharray: 1 2;
   stroke-dashoffset: 0;
+}
+/* After the Confluence the streams braid. Each crossing redraws the strand on
+   top over a sand-colored gap, so the other strand passes underneath. */
+.stream-braid-material,
+.stream-braid-over {
+  stroke: var(--slate);
+  stroke-width: 7;
+}
+.stream-braid {
+  stroke-dasharray: 1 2;
+  stroke-dashoffset: 0;
+}
+.braid-gap {
+  fill: none;
+  stroke: var(--sand);
+  stroke-width: 15;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .stream-material {
-    animation: branch 2.6s cubic-bezier(0.45, 0, 0.2, 1) 0.4s both;
+  /* The whole river draws in sequence; times are set by
+     private/evolution-of-consciousness/tools/anabranch-river.py.
+     The Golden Thread runs slowly in from the left, past the Mimetic, Magical
+     and Mythic markers, and reaches the Bifurcation at 4.8s. */
+  .stream-thread-early {
+    animation: branch 4.5s linear 0.3s both;
   }
-  /* The joined channel builds only once Material Consciousness reaches the
-     Confluence: it starts as the branch ends (0.4s delay + 2.6s). Until then
-     the Golden Thread runs on alone to the edge. */
-  .stream-mixed {
-    animation: branch 1.6s cubic-bezier(0.45, 0, 0.2, 1) 3s both;
+  /* From the Bifurcation, Material Consciousness traces its S-curve and the
+     Golden Thread runs beside it, in step: both reach the Confluence at 11.6s. */
+  .stream-material,
+  .stream-thread-anabranch {
+    animation: s-curve 6.8s linear 4.8s both;
   }
-  /* Its label fades in as the joined channel finishes (3s + 1.6s). */
-  .river-joined {
-    animation: joined 0.9s ease-out 4s both;
+  /* The pace follows the curve: slow on the long early rise, fast on the
+     climb, slow again as it levels off, then the return. */
+  @keyframes s-curve {
+    0.0% {
+      stroke-dashoffset: 1.0000;
+    }
+    41.2% {
+      stroke-dashoffset: 0.6688;
+    }
+    54.4% {
+      stroke-dashoffset: 0.4351;
+    }
+    79.4% {
+      stroke-dashoffset: 0.2594;
+    }
+    100.0% {
+      stroke-dashoffset: 0.0000;
+    }
+  }
+  /* Both strands of the braid draw in together once the two streams reach
+     the Confluence, so nothing downstream shows before Material
+     Consciousness rejoins. */
+  .stream-braid {
+    animation: branch 2.2s linear 11.6s both;
+  }
+  /* Each crossing settles over or under as the strands pass through it;
+     each carries its own delay in index.html. */
+  .braid-over {
+    animation: joined 0.15s linear both;
+  }
+  /* The TIME columns fade in slowly as the river reaches each form;
+     each carries its own delay in index.html. */
+  .time-col {
+    animation: joined 1.2s ease-out both;
+  }
+  /* Markers, labels and step points fade in as the streams reach them;
+     each carries its own delay in index.html. */
+  .appear {
+    animation: joined 0.7s ease-out both;
+  }
+  /* Slow, fast, slow: each word shows while Material Consciousness is in
+     that part of the curve, then fades. Three Early Forms of Consciousness
+     does the same over the early markers, fading as the Bifurcation starts.
+     Times are set in index.html. */
+  .phase,
+  .era-out {
+    animation:
+      joined 0.6s ease-out var(--in) both,
+      word-out 0.8s ease-in var(--out) forwards;
+  }
+  @keyframes word-out {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
   }
   @keyframes joined {
     from {
@@ -198,6 +311,67 @@ p {
 .river-labels .soft {
   fill: var(--muted);
   font-style: italic;
+}
+/* The Mimetic, Magical and Mythic markers before the Bifurcation: smaller
+   than the step points, and not links. */
+/* Slow, fast, slow: the pace of the S-curve. With reduced motion the three
+   words stay on the finished picture. */
+.phase {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 19px;
+  fill: var(--slate);
+}
+/* TIME columns start: written by anabranch-river.py */
+/* Four shaded columns, one per TIME coordination form. The braid's
+   under-crossing gaps take the Emergent tint so they stay invisible. */
+.time-col-t rect {
+  fill: #e3e0d9;
+}
+.time-col-i rect {
+  fill: #dee1dc;
+}
+.time-col-m rect {
+  fill: #dde3df;
+}
+.time-col-e rect {
+  fill: #dde3d8;
+}
+.braid-gap {
+  stroke: #dde3d8;
+}
+/* A faint rule on each column's left edge; it fades in with its column. */
+.time-edge {
+  stroke: var(--muted);
+  stroke-width: 1;
+  stroke-opacity: 0.18;
+}
+.time-head {
+  font-family: var(--sans);
+  font-size: 13px;
+  letter-spacing: 0.16em;
+  fill: var(--muted);
+}
+@media (max-width: 640px) {
+  .time-cols {
+    display: none;
+  }
+}
+/* TIME columns end */
+.stage-mark {
+  fill: var(--thread);
+  stroke: var(--ink);
+  stroke-width: 1.5;
+}
+.stage-name {
+  font-family: var(--serif);
+  font-size: 16px;
+  fill: var(--ink);
+}
+.stage-date {
+  font-family: var(--sans);
+  font-size: 13px;
+  fill: var(--muted);
 }
 .node circle {
   fill: var(--paper);
@@ -248,7 +422,8 @@ p {
 }
 
 @media (max-width: 640px) {
-  .river-labels {
+  .river-labels,
+  .stage {
     display: none;
   }
   .node-label {
@@ -265,7 +440,40 @@ p {
   }
 }
 
+/* A chevron under the river that leads to the introduction. */
+.scroll-cue {
+  width: 2.75rem;
+  height: 2.75rem;
+  margin: 1.5rem auto 0;
+  border-radius: 50%;
+  border: 1px solid var(--rule);
+  color: var(--muted);
+  display: grid;
+  place-items: center;
+}
+.scroll-cue:hover {
+  color: var(--ink);
+  border-color: var(--ink);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .scroll-cue svg {
+    animation: nudge 2.4s ease-in-out 14s infinite;
+  }
+  @keyframes nudge {
+    0%, 60%, 100% {
+      transform: translateY(0);
+    }
+    30% {
+      transform: translateY(4px);
+    }
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
 .intro {
+  scroll-margin-top: 1.5rem;
   margin-top: clamp(2rem, 6vw, 3.5rem);
   font-size: var(--s1);
   line-height: 1.65;
@@ -414,6 +622,52 @@ p {
   margin-bottom: 1rem;
 }
 
+/* Folded sections: the heading is the control, with a chevron that turns
+   when the section opens. */
+.fold > summary {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  list-style: none;
+  cursor: pointer;
+}
+.fold > summary::-webkit-details-marker {
+  display: none;
+}
+.fold > summary::before {
+  content: "";
+  flex: none;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-right: 2.5px solid var(--muted);
+  border-bottom: 2.5px solid var(--muted);
+  transform: translateY(-0.2rem) rotate(-45deg);
+  transition: transform 0.2s ease;
+}
+.fold[open] > summary::before {
+  transform: translateY(-0.35rem) rotate(45deg);
+}
+.fold > summary h2 {
+  margin: 0;
+}
+.fold[open] > summary {
+  margin-bottom: 1rem;
+}
+.fold > summary:hover h2 {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+@media (prefers-reduced-motion: reduce) {
+  .fold > summary::before {
+    transition: none;
+  }
+}
+/* Closed, the two headings sit close together. */
+.grid-section:has(> .fold:not([open])) {
+  margin-bottom: 1.5rem;
+}
+
 .legend {
   list-style: none;
   padding: 0;
@@ -444,8 +698,11 @@ p {
   border: 1px solid var(--rule);
 }
 
+/* The grid sits in its own window: rows scroll inside it, with the step
+   numbers and the source column pinned. */
 .grid-scroll {
-  overflow-x: auto;
+  overflow: auto;
+  max-height: 75vh;
   max-width: 76rem;
   margin-inline: auto;
   border-top: 1px solid var(--rule);
@@ -459,7 +716,7 @@ p {
   font-size: var(--s-1);
   font-variant-numeric: lining-nums;
   width: 100%;
-  min-width: 58rem;
+  min-width: 46rem;
   background: var(--paper);
 }
 
@@ -473,14 +730,14 @@ p {
   top: 0;
   z-index: 2;
   background: var(--paper);
-  vertical-align: bottom;
+  vertical-align: top;
   text-align: left;
   font-weight: 400;
-  padding: 0.7rem 0.4rem;
+  padding: 0.45rem 0.2rem;
   border-bottom: 2px solid var(--ink);
 }
 .grid .col-step {
-  width: 5.4rem;
+  width: 4.4rem;
   text-align: center;
 }
 .grid .col-step a {
@@ -498,7 +755,10 @@ p {
 .col-label {
   display: block;
   color: var(--muted);
-  line-height: 1.25;
+  font-size: 0.68rem;
+  line-height: 1.15;
+  margin-top: 0.15rem;
+  hyphens: manual;
 }
 
 .grid .col-source,
@@ -509,9 +769,12 @@ p {
   background: var(--paper);
   text-align: left;
   font-weight: 400;
-  min-width: 15rem;
-  max-width: 18rem;
-  padding: 0.5rem 0.9rem 0.5rem 1rem;
+  min-width: 10rem;
+  max-width: 13rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0.2rem 0.7rem 0.2rem 0.9rem;
   border-right: 1px solid var(--rule);
 }
 .grid thead .col-source {
@@ -521,8 +784,8 @@ p {
 .grid tbody th a {
   color: var(--ink);
   text-decoration: none;
-  font-family: var(--serif);
-  font-size: var(--s0);
+  font-family: var(--sans);
+  font-size: var(--s-1);
   line-height: 1.3;
 }
 .grid tbody th a:hover {
@@ -543,13 +806,14 @@ p {
   font-family: var(--serif);
   font-style: italic;
   font-size: var(--s0);
-  padding: 1rem 1rem 0.4rem;
+  padding: 0.6rem 0.9rem 0.2rem;
   border-right: 0;
+  white-space: normal;
 }
 
 .grid td {
   text-align: center;
-  padding: 0.15rem;
+  padding: 0.05rem;
 }
 .grid td.pending,
 .legend-pending {
@@ -591,8 +855,8 @@ button.mark {
   appearance: none;
   border: 1px solid transparent;
   background: none;
-  width: 2.4rem;
-  height: 2.4rem;
+  width: 1.6rem;
+  height: 1.6rem;
   border-radius: 4px;
   cursor: pointer;
   font-family: var(--sans);
@@ -651,6 +915,7 @@ button.mark:hover {
 .panel-by,
 .panel-cite,
 .panel-grade,
+.panel-read,
 .panel-basis,
 .panel-links,
 .panel-also {

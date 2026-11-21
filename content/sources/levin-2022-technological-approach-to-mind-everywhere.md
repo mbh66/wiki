@@ -30,10 +30,12 @@ grid_a1: "affirms"
 grid_a1_says: "Treats cognition as continuous across cells, tissues, organisms and engineered systems, with capacities that increase during evolution."
 grid_a1_cite: "Frontiers in Systems Neuroscience 16: 768201 (2022), abstract and introduction"
 grid_a1_grade: "[IC]"
+grid_a1_basis: "text"
 grid_c3: "qualifies"
 grid_c3_says: "Holds that every known mind is a collective intelligence of agentic parts, at all scales of life, with no claim of a new human stage."
 grid_c3_cite: "Frontiers in Systems Neuroscience 16: 768201 (2022), introduction"
 grid_c3_grade: "[IC]"
+grid_c3_basis: "text"
 ---
 
 Michael Levin (2022). *Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds*. Frontiers in Systems Neuroscience 16: 768201. https://doi.org/10.3389/fnsys.2022.768201

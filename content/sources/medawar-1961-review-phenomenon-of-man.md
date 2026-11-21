@@ -4,7 +4,7 @@ description: "Peter Medawar's review of The Phenomenon of Man argues that Teilha
 author: "Peter B. Medawar"
 year: 1961
 type: "journal-article"
-publisher: "Mind 70(277): 99-105"
+publisher: "Mind 70(277): 99-106"
 tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
 briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
@@ -28,32 +28,38 @@ grid_group: "9. Critics of the sequence"
 grid_steps: ["B3", "C2", "C3", "H"]
 grid_b3: "dissents"
 grid_b3_says: "Rejects Teilhard's directed evolution as lacking biological support."
-grid_b3_cite: "Review of The Phenomenon of Man, Mind 70 (1961)"
+grid_b3_cite: "Review of The Phenomenon of Man, Mind 70(277): 99-106 (1961), p. 103"
 grid_b3_grade: "[TBV]"
+grid_b3_basis: "text"
 grid_c3: "dissents"
-grid_c3_says: "Treats the noosphere argument as lacking scientific content."
-grid_c3_cite: "Review of The Phenomenon of Man, Mind 70 (1961)"
+grid_c3_says: "Dismisses Teilhard's account of noogenesis and the noosphere as a fatuous argument that needs only exposition to expose it."
+grid_c3_cite: "Review of The Phenomenon of Man, Mind 70(277): 99-106 (1961), pp. 102-103"
 grid_c3_grade: "[TBV]"
+grid_c3_basis: "text"
 grid_h: "dissents"
-grid_h_says: "Rejects the within of things as an unsupported extension of the word consciousness."
-grid_h_cite: "Review of The Phenomenon of Man, Mind 70 (1961)"
+grid_h_says: "Rejects Teilhard's equation of radial energy, or of rising complexity, with consciousness, treating it as a metaphysical conceit and a misuse of words."
+grid_h_cite: "Review of The Phenomenon of Man, Mind 70(277): 99-106 (1961), pp. 103-104"
 grid_h_grade: "[TBV]"
+grid_h_basis: "text"
 grid_c2: "dissents"
-grid_c2_says: "Rejects Teilhard's claim that humanity is converging toward a higher unity of thought as lacking scientific content."
-grid_c2_cite: "Review of The Phenomenon of Man, Mind 70 (1961)"
+grid_c2_says: "Rejects Teilhard's claim that consciousness must culminate in a supreme consciousness at Omega, treating it as metaphysics expounded with mounting confusion."
+grid_c2_cite: "Review of The Phenomenon of Man, Mind 70(277): 99-106 (1961), pp. 104-105"
 grid_c2_grade: "[TBV]"
+grid_c2_basis: "text"
 anabranch_steps: ["T1", "T3"]
 anabranch_t1: "silent"
 anabranch_t1_says: "Criticises Teilhard's book without discussing survival of bodily death."
-anabranch_t1_cite: "Review of The Phenomenon of Man, Mind (1961)"
+anabranch_t1_cite: "Review of The Phenomenon of Man, Mind 70(277): 99-106 (1961)"
 anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "text"
 anabranch_t3: "silent"
 anabranch_t3_says: "Does not discuss whether the brain filters consciousness."
-anabranch_t3_cite: "Review of The Phenomenon of Man, Mind (1961)"
+anabranch_t3_cite: "Review of The Phenomenon of Man, Mind 70(277): 99-106 (1961)"
 anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "text"
 ---
 
-Peter B. Medawar (1961). *Review of The Phenomenon of Man*. Mind 70(277): 99-105.
+Peter B. Medawar (1961). *Review of The Phenomenon of Man*. Mind 70(277): 99-106.
 
 Peter Medawar, who shared the 1960 Nobel Prize in Physiology or Medicine, reviewed the English translation of Teilhard's book in *Mind* in 1961 [IC]. He argues that Teilhard uses words such as energy and consciousness in shifting senses, and that the book's claims of directed evolution and convergence cannot be tested [IC]. The review was reprinted in Medawar's *The Art of the Soluble* (1967) and remains the best-known scientific rejection of Teilhard [IC]. The wiki takes it as the main critic's voice on steps B3, C2 and C3, and on Teilhard's answer to the hinge question.
 
@@ -83,7 +89,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
   "datePublished": "1961",
   "publisher": {
     "@type": "Organization",
-    "name": "Mind 70(277): 99-105"
+    "name": "Mind 70(277): 99-106"
   },
   "review": {
     "@type": "Review",

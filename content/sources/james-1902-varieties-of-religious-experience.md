@@ -20,14 +20,15 @@ standing: "[TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
 anabranch_steps: ["T3"]
 anabranch_t3: "qualifies"
 anabranch_t3_says: "Suggests that the subconscious self opens onto a wider consciousness; the filter thesis proper is in Human Immortality (1898)."
-anabranch_t3_cite: "The Varieties of Religious Experience (1902), Lecture XX and Postscript (not checked)"
+anabranch_t3_cite: "The Varieties of Religious Experience (1902), Lecture XX 'Conclusions'; Postscript not checked"
 anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "text"
 ---
 
 William James (1902). *The Varieties of Religious Experience*. Longmans Green.

@@ -24,6 +24,7 @@ anabranch_t3: "qualifies"
 anabranch_t3_says: "Holds that the brain constrains experience through priors that psychedelics relax, within a naturalistic model of a brain that produces experience."
 anabranch_t3_cite: "Pharmacological Reviews 71(3) (2019), model sections"
 anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "text"
 ---
 
 R. L. Carhart-Harris and K. J. Friston (2019). "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics". *Pharmacological Reviews* 71(3): 316-344. DOI: [10.1124/pr.118.017160](https://doi.org/10.1124/pr.118.017160).

@@ -20,14 +20,15 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
 anabranch_steps: ["T9"]
 anabranch_t9: "affirms"
 anabranch_t9_says: "Argues, as a Potawatomi botanist, for braiding Indigenous and scientific ways of knowing."
 anabranch_t9_cite: "Braiding Sweetgrass (2013), chapter not checked"
-anabranch_t9_grade: "[TBV]"
+anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Robin Wall Kimmerer (2013). *Braiding Sweetgrass*. Milkweed Editions.

@@ -24,6 +24,7 @@ anabranch_t2: "dissents"
 anabranch_t2_says: "Reports three failed replications of Bem's retroactive recall effect."
 anabranch_t2_cite: "PLoS ONE 7(3): e33423, Results"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 ---
 
 Stuart J. Ritchie, Richard Wiseman, Christopher C. French (2012). *Failing the Future: Three Unsuccessful Attempts to Replicate Bem's 'Retroactive Facilitation of Recall' Effect*. PLoS ONE 7(3): e33423. DOI: [10.1371/journal.pone.0033423](https://doi.org/10.1371/journal.pone.0033423).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

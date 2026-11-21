@@ -21,8 +21,9 @@ anabranch_group: "2. Philosophy of mind"
 anabranch_steps: ["T3"]
 anabranch_t3: "affirms"
 anabranch_t3_says: "Holds that the brain selects what enters conscious perception for action and does not produce representation."
-anabranch_t3_cite: "Matter and Memory (1911 trans.), ch. 1"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_cite: "Matter and Memory (1911 trans.), ch. I, 'Of the Selection of Images for Conscious Presentation. What Our Body Means and Does', esp. pp. 19-21 and 30-31"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "text"
 ---
 
 Henri Bergson (1896). *Matter and Memory*. Translated by Nancy Margaret Paul and W. Scott Palmer. George Allen and Unwin, London, 1911. Public domain [IC]. [Mead Project, Brock University](https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_01.html).

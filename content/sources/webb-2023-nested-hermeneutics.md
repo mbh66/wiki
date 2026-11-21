@@ -4,7 +4,7 @@ description: "Webb traces how Huxley's phrases Mind at Large and the reducing va
 author: "Adrian Webb"
 year: 2023
 type: "journal-article"
-publisher: "Interdisciplinary Science Reviews [TBV]"
+publisher: "Interdisciplinary Science Reviews 48(5): 768-787"
 url: "https://journals.sagepub.com/doi/full/10.1080/03080188.2023.2249208"
 doi: "10.1080/03080188.2023.2249208"
 tags: ["source", "consciousness", "anabranch"]
@@ -21,12 +21,13 @@ source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
 anabranch_steps: ["T3"]
 anabranch_t3: "qualifies"
-anabranch_t3_says: "Questions how Huxley built the filter claim from Bergson and Broad, and treats his reducing valve as a doubtful mechanism."
-anabranch_t3_cite: "Nested hermeneutics (2023), section 'Bergson presented by Broad; Broad presented by Huxley'"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_says: "Argues that Huxley manipulated his quotations of Broad and Bergson to give Mind at Large philosophical standing."
+anabranch_t3_cite: "Nested hermeneutics (2023), Interdisciplinary Science Reviews 48(5): 768-787, abstract"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "abstract"
 ---
 
-Adrian Webb (2023). "Nested hermeneutics: Mind at Large as a curated trope of psychedelic experience". *Interdisciplinary Science Reviews* [TBV]. DOI 10.1080/03080188.2023.2249208 [IC].
+Adrian Webb (2023). "Nested hermeneutics: Mind at Large as a curated trope of psychedelic experience". *Interdisciplinary Science Reviews* 48(5): 768-787. DOI 10.1080/03080188.2023.2249208 [IC].
 
 Webb examines two phrases from Aldous Huxley's [[sources/huxley-1954-doors-of-perception|The Doors of Perception]] (1954): Mind at Large and the reducing valve [IC]. He notes that Huxley proposed a valve that opens when the brain lacks glucose [IC]. In his words, this pins regulation onto brain biology, "somewhat like Descartes pineal gland" [IC]. A section traces how Bergson's ideas reached Huxley through C. D. Broad [IC]. Webb finds that Huxley's quotation of Broad has omissions and an alteration, and he judges the glucose valve dismissible as biology [TBV].
 
@@ -53,7 +54,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
   "datePublished": "2023",
   "publisher": {
     "@type": "Organization",
-    "name": "Interdisciplinary Science Reviews [TBV]"
+    "name": "Interdisciplinary Science Reviews 48(5): 768-787"
   },
   "url": "https://journals.sagepub.com/doi/full/10.1080/03080188.2023.2249208",
   "review": {

@@ -21,9 +21,10 @@ source_project: "BioConomy"
 anabranch_group: "10. Anomalous experience research"
 anabranch_steps: ["T1"]
 anabranch_t1: "qualifies"
-anabranch_t1_says: "Finds near-death experiences that the measured medical factors do not explain, and leaves open whether consciousness continues without brain function."
-anabranch_t1_cite: "The Lancet 358 (2001), abstract, Findings and Interpretation"
-anabranch_t1_grade: "[TBV]"
+anabranch_t1_says: "Reports near-death experiences in 18% of 344 resuscitated cardiac arrest patients, unexplained by the measured medical factors; leaves open whether consciousness continues."
+anabranch_t1_cite: "The Lancet 358(9298): 2039-2045 (2001), abstract, Findings and Interpretation; pp. 2039 and 2043 as quoted in Braithwaite (2008)"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "abstract"
 ---
 
 Pim van Lommel, Ruud van Wees, Vincent Meyers and Ingrid Elfferich (2001). "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands". *The Lancet* 358(9298): 2039-2045. DOI: [10.1016/S0140-6736(01)07100-8](https://doi.org/10.1016/S0140-6736(01)07100-8).

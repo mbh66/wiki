@@ -5,9 +5,9 @@ author: "Robert S. Siegler"
 year: 1996
 type: "book"
 publisher: "Oxford University Press"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "critic"
 discipline: "developmental psychology"
 design: "E1"
@@ -20,7 +20,7 @@ standing: "A leading account of cognitive change in developmental psychology, ex
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["B1", "C1"]
@@ -28,10 +28,18 @@ grid_b1: "qualifies"
 grid_b1_says: "Treats cognitive change as gradual shifts in the mix of strategies a child uses, with no stage-like jumps."
 grid_b1_cite: "Emerging Minds (1996), ch. 4, overlapping waves model (Fig. 4.4)"
 grid_b1_grade: "[IC]"
+grid_b1_basis: "text"
 grid_c1: "qualifies"
 grid_c1_says: "Accepts that older and newer strategies coexist for long periods, and holds that older ones decline and some are abandoned."
 grid_c1_cite: "Emerging Minds (1996), ch. 4, overlapping waves model (Fig. 4.4)"
 grid_c1_grade: "[IC]"
+grid_c1_basis: "text"
+anabranch_steps: ["T5"]
+anabranch_t5: "silent"
+anabranch_t5_says: "Models change in children's thinking as overlapping waves of strategies, and makes no claim about each person taking part in a cosmic evolution."
+anabranch_t5_cite: "Emerging Minds (1996), chapter not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
 ---
 
 Siegler, R. S. (1996). *Emerging Minds: The Process of Change in Children's Thinking*. Oxford University Press.
@@ -40,12 +48,16 @@ The developmental psychologist Robert Siegler argues from repeated microgenetic 
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in developmental psychology, with evidence type E1 and claim codes B1, C1.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T5.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B1 and C1.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 
 <script type="application/ld+json">
 {

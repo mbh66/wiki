@@ -28,6 +28,7 @@ grid_a1: "affirms"
 grid_a1_says: "Finds strong support for consciousness in mammals and birds and a realistic possibility in all vertebrates and many invertebrates."
 grid_a1_cite: "New York Declaration on Animal Consciousness (2024), full text"
 grid_a1_grade: "[IC]"
+grid_a1_basis: "text"
 ---
 
 Kristin Andrews, Jonathan Birch, Jeff Sebo et al. (2024). *The New York Declaration on Animal Consciousness*. New York University (19 April 2024).

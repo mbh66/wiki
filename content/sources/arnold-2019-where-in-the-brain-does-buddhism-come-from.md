@@ -21,14 +21,15 @@ standing: "Part of a peer-reviewed special issue on McGilchrist's work, edited b
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["C4"]
 grid_c4: "qualifies"
-grid_c4_says: "Accepts McGilchrist's hemispheric account as cogent and argues that brain science cannot support his verdict on modern culture."
-grid_c4_cite: "Where in the Brain Does Buddhism Come From? (2019)"
-grid_c4_grade: "[TBV]"
+grid_c4_says: "Accepts McGilchrist's lateralization hypothesis as cogent but argues brain science cannot ground his verdicts on whole cultures and historical eras."
+grid_c4_cite: "Religion, Brain & Behavior 9(4): 345-362 (2019), sections 'Oriental culture and Indian Buddhism' and 'Whence McGilchrist's normative assessments?'"
+grid_c4_grade: "[IC]"
+grid_c4_basis: "text"
 ---
 
 Arnold, D. (2019). Where in the brain does Buddhism come from? Critical thoughts regarding Iain McGilchrist's reflections on religion. *Religion, Brain and Behavior* 9(4): 345-362.

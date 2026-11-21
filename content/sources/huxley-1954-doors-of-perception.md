@@ -18,9 +18,10 @@ source_project: "BioConomy"
 anabranch_group: "10. Anomalous experience research"
 anabranch_steps: ["T3"]
 anabranch_t3: "affirms"
-anabranch_t3_says: "Proposes that the brain and nervous system form a reducing valve, admitting from a wider Mind at Large only what survival needs."
-anabranch_t3_cite: "The Doors of Perception (1954), the Mind at Large passage after Huxley's quotation of Broad, as read in Webb (2023) and Sjöstedt-Hughes; pages not read"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_says: "Proposes that the brain and nervous system form a reducing valve, admitting from a wider Mind at Large only what biological survival needs."
+anabranch_t3_cite: "The Doors of Perception (1954), the Mind at Large passage after Huxley's quotation of Broad, p. 12 of the 1994 edition cited in Webb (2023); pages not read"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "review"
 ---
 
 Aldous Huxley (1954). *The Doors of Perception*. Two rare-book dealer listings give the first editions as Chatto and Windus, London, and Harper and Brothers, New York, published at the same time [TBV].

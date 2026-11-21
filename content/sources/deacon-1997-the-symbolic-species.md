@@ -22,35 +22,41 @@ standing: "[TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "1. Mind and brain science"
 grid_steps: ["A1", "A2", "A3", "H"]
 grid_a1: "qualifies"
 grid_a1_says: "Grants rich animal minds while holding symbolic reference to be a distinctly human threshold."
-grid_a1_cite: "The Symbolic Species (1997), Part One 'Language', chs 1 to 4"
-grid_a1_grade: "[TBV]"
+grid_a1_cite: "The Symbolic Species (1997), Part One; 'symbolic threshold' introduced at p. 79 of the Penguin edition (per Hudson); part title and chapter range not confirmed"
+grid_a1_grade: "[IC]"
+grid_a1_basis: "review"
 grid_a2: "affirms"
-grid_a2_says: "Argues language and brain coevolved over a long period after symbolic reference began in early Homo."
-grid_a2_cite: "The Symbolic Species (1997), Part Three 'Co-evolution', from ch. 11 'Symbolic Origins'"
-grid_a2_grade: "[TBV]"
+grid_a2_says: "Argues language and brain coevolved over a long period after symbolic reference arose near the australopithecine-to-Homo transition."
+grid_a2_cite: "The Symbolic Species (1997), Part Three; ch. 11 'Symbolic Origins' not confirmed"
+grid_a2_grade: "[IC]"
+grid_a2_basis: "review"
 grid_a3: "qualifies"
-grid_a3_says: "Argues symbols reorganised human cognition, a claim about capacity with no stage sequence of awareness."
+grid_a3_says: "Argues symbols reorganized human cognition, a claim about capacity with no stage sequence of awareness."
 grid_a3_cite: "The Symbolic Species (1997), final chapters"
 grid_a3_grade: "[TBV]"
+grid_a3_basis: "review"
 grid_h: "dissents"
 grid_h_says: "Explains the symbolic mind through natural evolutionary processes."
-grid_h_cite: "The Symbolic Species (1997), final chapter"
+grid_h_cite: "The Symbolic Species (1997), final chapters (per Calvin)"
 grid_h_grade: "[TBV]"
+grid_h_basis: "review"
 anabranch_steps: ["T1", "T3"]
 anabranch_t1: "silent"
-anabranch_t1_says: "Does not discuss survival of bodily death."
-anabranch_t1_cite: "The Symbolic Species (1997), contents"
+anabranch_t1_says: "Explains the symbolic mind through the co-evolution of brain and language, and does not discuss consciousness beyond the body."
+anabranch_t1_cite: "The Symbolic Species (1997), as described in reviews; no chapter checked"
 anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "review"
 anabranch_t3: "dissents"
 anabranch_t3_says: "Treats symbolic consciousness as arising from the co-evolution of language and brain."
-anabranch_t3_cite: "The Symbolic Species (1997), ch. 14"
+anabranch_t3_cite: "The Symbolic Species (1997), final chapters, which end with Darwinian views of consciousness (per Calvin); chapter number not confirmed"
 anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "review"
 ---
 
 Terrence W. Deacon (1997). *The Symbolic Species*. W. W. Norton.
@@ -63,7 +69,8 @@ The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in biological anthropology, with evidence type E3 and claim codes A1, A2, A3, H.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it dissents on T3.
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it dissents on T3.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2; it qualifies A1 and A3; it dissents from H.
 

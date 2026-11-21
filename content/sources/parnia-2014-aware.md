@@ -24,10 +24,12 @@ anabranch_t1: "qualifies"
 anabranch_t1_says: "Reports one verified period of awareness during cardiac arrest, without showing that mind exists apart from the brain."
 anabranch_t1_cite: "Resuscitation 85(12), abstract"
 anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "abstract"
 anabranch_t2: "qualifies"
 anabranch_t2_says: "Reports one verifiable account of awareness, while no hidden visual target was identified."
 anabranch_t2_cite: "Resuscitation 85(12), abstract and Results"
-anabranch_t2_grade: "[TBV]"
+anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Sam Parnia, Ken Spearpoint, Gabriele de Vos, Peter Fenwick and colleagues (2014). *AWARE—AWAreness during REsuscitation—A prospective study*. Resuscitation 85(12): 1799-1805. DOI: [10.1016/j.resuscitation.2014.09.004](https://doi.org/10.1016/j.resuscitation.2014.09.004).
@@ -43,7 +45,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

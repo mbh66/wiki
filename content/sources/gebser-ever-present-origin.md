@@ -5,12 +5,12 @@ author: "Jean Gebser"
 year: 1949
 type: "book"
 publisher: "Ohio University Press (English translation, 1985)"
-tags: ["source", "consciousness", "development", "phenomenology", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "development", "phenomenology", "evolution-of-consciousness", "anabranch"]
 subject: ["economics", "consciousness"]
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
 discipline: "history of ideas"
 design: "E4"
@@ -33,30 +33,48 @@ grid_a2: "qualifies"
 grid_a2_says: "Reads the structures from art, language and myth, with few archaeological dates."
 grid_a2_cite: "The Ever-Present Origin (1949 and 1953; English 1985), Part One"
 grid_a2_grade: "[TBV]"
+grid_a2_basis: "summary"
 grid_a3: "affirms"
 grid_a3_says: "Holds that mutations changed how awareness is organised in space and time: archaic, magic, mythical, mental and integral."
 grid_a3_cite: "The Ever-Present Origin, Part One"
 grid_a3_grade: "[IC]"
+grid_a3_basis: "review"
 grid_b3: "qualifies"
 grid_b3_says: "Calls the changes mutations and declines to read them as progress."
-grid_b3_cite: "The Ever-Present Origin, Part One"
+grid_b3_cite: "The Ever-Present Origin, Part One, p. 41 (Ohio University Press, 1985), as quoted by Maxwell"
 grid_b3_grade: "[TBV]"
+grid_b3_basis: "review"
 grid_c1: "affirms"
 grid_c1_says: "Holds that earlier structures remain active in every person."
 grid_c1_cite: "The Ever-Present Origin, Part One"
 grid_c1_grade: "[IC]"
+grid_c1_basis: "review"
 grid_c2: "affirms"
 grid_c2_says: "Sees an integral, aperspectival structure emerging in the twentieth century."
 grid_c2_cite: "The Ever-Present Origin, Part Two"
 grid_c2_grade: "[IC]"
+grid_c2_basis: "review"
 grid_c4: "affirms"
 grid_c4_says: "Describes the mental-rational structure in its deficient phase."
 grid_c4_cite: "The Ever-Present Origin, Part One"
 grid_c4_grade: "[IC]"
+grid_c4_basis: "review"
 grid_h: "qualifies"
 grid_h_says: "Treats origin as an ever-present spiritual ground beyond all structures."
 grid_h_cite: "The Ever-Present Origin, Part One"
 grid_h_grade: "[TBV]"
+grid_h_basis: "summary"
+anabranch_steps: ["T1", "T7"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Describes structures of consciousness and an ever-present spiritual origin, and does not address a person's consciousness beyond the body."
+anabranch_t1_cite: "The Ever-Present Origin, chapter not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
+anabranch_t7: "qualifies"
+anabranch_t7_says: "Describes mutations in how awareness is organised in space and time, from archaic to integral; speaks to part (a), the split, only."
+anabranch_t7_cite: "The Ever-Present Origin, Part One"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "review"
 ---
 
 Gebser, J. (1949/1985). *The Ever-Present Origin.* Ohio University Press. ISBN: 978-0-8214-0776-1.
@@ -64,6 +82,9 @@ Gebser, J. (1949/1985). *The Ever-Present Origin.* Ohio University Press. ISBN: 
 Gebser identifies five structures of consciousness: archaic, magical, mythical, mental-rational, and integral. Each structure is characterized by qualitatively different relationships to space, time, and causality. The work's central argument is that the mental-rational structure, which has governed Western civilization since the Renaissance, is entering its "deficient" phase, and that a new structure (integral) is emerging. The integral structure is not a rejection of the mental-rational but an integration that includes and transcends it, achieving what Gebser calls "aperspectival" awareness: the capacity to hold multiple perspectives without being captured by any single one.
 
 In the BioConomy corpus, Gebser's mental-rational structure corresponds to [[material-consciousness|Material Consciousness]] and his integral structure corresponds to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]. The Ever-Present Origin provides the phenomenological foundation for the [[concepts/structures-of-consciousness|Structures of Consciousness]] analysis.
+
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it qualifies T7.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, C1, C2 and C4; it qualifies A2, B3 and H.
 
@@ -77,6 +98,8 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[material-consciousness|Material Consciousness]]
 - [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 
 <script type="application/ld+json">
 {

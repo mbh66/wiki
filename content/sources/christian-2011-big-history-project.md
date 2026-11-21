@@ -18,9 +18,10 @@ source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
 anabranch_steps: ["T5"]
 anabranch_t5: "qualifies"
-anabranch_t5_says: "Teaches the universe's history as one story in high schools; shows such a story has been widely taught."
-anabranch_t5_cite: "Big History Project course, as described by Education Week (2014)"
-anabranch_t5_grade: "[TBV]"
+anabranch_t5_says: "Teaches the universe's history as one story in middle and high schools; shows such a story has been widely taught."
+anabranch_t5_cite: "Big History Project course (launched 2011), as described by Education Week (8 September 2014)"
+anabranch_t5_grade: "[IC]"
+anabranch_t5_basis: "review"
 ---
 
 David Christian (2011). *Big History Project*. Online high-school course.

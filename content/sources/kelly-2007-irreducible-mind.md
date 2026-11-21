@@ -25,17 +25,20 @@ grid_group: "2. Philosophy of mind"
 grid_steps: ["H"]
 grid_h: "affirms"
 grid_h_says: "Argues for a filter or transmission model in which the brain constrains a mind it does not produce."
-grid_h_cite: "Irreducible Mind (2007), ch. 9"
-grid_h_grade: "[TBV]"
+grid_h_cite: "Irreducible Mind (2007), final chapter (ch. 9), 'Toward a Psychology for the 21st Century'"
+grid_h_grade: "[IC]"
+grid_h_basis: "abstract"
 anabranch_steps: ["T1", "T3"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Judges that the evidence tilts toward survival over super-psi explanations."
-anabranch_t1_cite: "Irreducible Mind (2007), ch. 9"
+anabranch_t1_cite: "Irreducible Mind (2007), ch. 9 'Toward a Psychology for the 21st Century', section 'Post-Mortem Survival', p. 601 ff.; see also ch. 4 'Memory' (Alan Gauld), p. 297"
 anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "review"
 anabranch_t3: "affirms"
 anabranch_t3_says: "Defends the Myers and James filter or transmission theory of the brain."
-anabranch_t3_cite: "Irreducible Mind (2007), ch. 2 and ch. 9"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_cite: "Irreducible Mind (2007), ch. 2 (Emily Williams Kelly, on Myers) and the final chapter (ch. 9), 'Toward a Psychology for the 21st Century'"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "review"
 ---
 
 Edward F. Kelly, Emily Williams Kelly et al. (2007). *Irreducible Mind*. Rowman & Littlefield.

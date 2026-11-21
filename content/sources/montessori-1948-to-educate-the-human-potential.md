@@ -20,8 +20,9 @@ anabranch_group: "6. Cultural and historical theorists"
 anabranch_steps: ["T5"]
 anabranch_t5: "qualifies"
 anabranch_t5_says: "Holds that children should be taught their part in a cosmic plan; shows the idea has been taught."
-anabranch_t5_cite: "To Educate the Human Potential (1948), p. 10 (as quoted in an ERIC article)"
-anabranch_t5_grade: "[TBV]"
+anabranch_t5_cite: "To Educate the Human Potential (1948; 2nd impr. 1955), Introduction, p. 2, and ch. 1 'The Six-year-old Confronted with the Cosmic Plan', pp. 4-10; the p. 10 reference not confirmed"
+anabranch_t5_grade: "[IC]"
+anabranch_t5_basis: "text"
 ---
 
 Maria Montessori (1948). *To Educate the Human Potential*. Kalakshetra Publications, Adyar, Madras [IC].

@@ -23,10 +23,12 @@ anabranch_t1: "affirms"
 anabranch_t1_says: "Teaches that the self continues across incarnations and densities beyond any one body."
 anabranch_t1_cite: "The Ra Contact, Session 21 (10 February 1981), 21.9-21.10"
 anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "text"
 anabranch_t6: "affirms"
-anabranch_t6_says: "Teaches that all beings move through densities toward reunion with one infinite Creator."
-anabranch_t6_cite: "The Law of One, Book I (1984), sessions; passage not located"
+anabranch_t6_says: "Teaches that all beings progress through densities toward the eighth, or octave, where creation becomes one with the Creator again."
+anabranch_t6_cite: "The Ra Contact, Session 16 (31 January 1981), 16.21-16.22 and 16.38 (Book I)"
 anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "text"
 ---
 
 Don Elkins, Carla Rueckert and James Allen McCarty (1984). *The Ra Material: The Law of One, Book I*. Whitford Press; reissued by L/L Research, Louisville, KY. ISBN: 089865260X.

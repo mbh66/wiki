@@ -20,27 +20,31 @@ standing: "Framed the hard problem [TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "2. Philosophy of mind"
 grid_steps: ["A1", "H"]
 grid_a1: "qualifies"
 grid_a1_says: "Allows that experience may be far more widespread than in humans and animals."
-grid_a1_cite: "The Conscious Mind (1996), ch. 8"
-grid_a1_grade: "[TBV]"
+grid_a1_cite: "The Conscious Mind (1996), ch. 8 'Consciousness and Information: Some Speculation'"
+grid_a1_grade: "[IC]"
+grid_a1_basis: "abstract"
 grid_h: "affirms"
 grid_h_says: "Argues consciousness does not logically supervene on the physical and may be a fundamental feature of the world."
 grid_h_cite: "The Conscious Mind (1996), Part II"
 grid_h_grade: "[IC]"
+grid_h_basis: "review"
 anabranch_steps: ["T1", "T3"]
 anabranch_t1: "silent"
 anabranch_t1_says: "Does not discuss survival of bodily death."
-anabranch_t1_cite: "The Conscious Mind (1996), contents"
+anabranch_t1_cite: "The Conscious Mind (1996), chapter summaries for chs 1 to 10 in the author's précis"
 anabranch_t1_grade: "[TBV]"
-anabranch_t3: "dissents"
-anabranch_t3_says: "Holds that consciousness arises from physical systems under psychophysical laws; offers no filter model."
-anabranch_t3_cite: "The Conscious Mind (1996), Introduction and ch. 4"
-anabranch_t3_grade: "[TBV]"
+anabranch_t1_basis: "abstract"
+anabranch_t3: "qualifies"
+anabranch_t3_says: "Rejects materialism while holding that consciousness depends lawfully on physical organization; offers no filter model."
+anabranch_t3_cite: "The Conscious Mind (1996), ch. 4 'Naturalistic Dualism' and ch. 7 'Absent Qualia, Fading Qualia, Dancing Qualia'"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "abstract"
 ---
 
 David J. Chalmers (1996). *The Conscious Mind*. Oxford University Press.

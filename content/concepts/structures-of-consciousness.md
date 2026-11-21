@@ -4,19 +4,19 @@ description: "The distinct modes of awareness through which people organize thei
 aliases: ["consciousness evolution", "developmental stages", "consciousness development", "developmental frameworks"]
 tags: ["concept", "bioconomy", "consciousness", "core-framework"]
 created: 2026-03-14
-updated: 2026-10-30
+updated: 2026-11-20
 source_project: "BioConomy"
 source_documents: ["V2_Mycelial_Thesis.md", "I The Three Futures", "The_Last_Empire_and_the_First_Planetary_Organism.md", "Belief_Building_The_Late_Work_v1.md"]
 epistemic_status: "documented-framework"
 ---
 
-Structures of consciousness are the qualitatively distinct modes of awareness through which human beings perceive and organize their relationship to each other, to living systems, and to the conditions of their own existence. The BioConomy corpus draws on four independent developmental traditions that converge on the same structural claim: consciousness evolves through identifiable stages, and each stage produces fundamentally different economic logics.
+Structures of consciousness are the qualitatively distinct modes of awareness through which human beings perceive and organize their relationship to each other, to living systems, and to the conditions of their own existence. The BioConomy corpus draws on four developmental traditions, partly drawing on each other, that converge on a structural claim: consciousness evolves through identifiable stages, and each stage produces fundamentally different economic logics.
 
 ## Overview
 
-The BioConomy thesis depends on a specific claim about consciousness: that different stages of development produce not merely different opinions or values, but different relationships to production, value, and exchange. If this claim holds, then economic transformation cannot be achieved by policy reform alone. The binding constraint is the development of a form of consciousness adequate to the emerging conditions.
+The BioConomy thesis depends on a specific claim about consciousness: that different stages of development produce different relationships to production, value, and exchange, along with different opinions and values. If this claim holds, then economic transformation cannot be achieved by policy reform alone. The binding constraint is the development of a form of consciousness adequate to the emerging conditions.
 
-Four developmental traditions, working from different methodologies and different evidence bases, arrive at structurally parallel conclusions. Their convergence is one of the central evidentiary pillars of the corpus.
+Four developmental traditions, working from different methodologies and different evidence bases, arrive at structurally parallel conclusions. Their convergence is one of the central pillars of the corpus [MS]. The measured evidence supports individual stages, strongest for Loevinger's sentence-completion test, which Cook-Greuter extends; it is weak for parallels between individual stages and cultural history (see the [[research/evolution-of-consciousness/grid|evolution of consciousness grid]], steps B1 and B2). Gebser and Graves worked independently; Kegan and Cook-Greuter share Loevinger's lineage, and the Graves material here comes partly through Beck and Cowan's Spiral Dynamics.
 
 ## The Four Traditions
 
@@ -32,7 +32,7 @@ Gebser identifies five structures of consciousness, each characterized by qualit
 
 **Mental-Rational.** Consciousness achieves perspective. The capacity to stand outside, to analyze, to abstract. Space becomes "measurable" (Cartesian geometry), time becomes "linear" (progress, history). This is the structure that produces science, individual rights, market economics, and the progressive commodification of the world. Gebser names this the "perspectival" structure, and identifies its late phase as "deficient rational," the condition in which the mental structure's own achievements turn against it.
 
-**Integral.** Consciousness achieves "aperspectival" awareness: the capacity to hold multiple perspectives simultaneously without being captured by any single one. Space and time become "diaphanous" (transparent, co-present). This is not a rejection of the mental-rational but an integration that includes and transcends it.
+**Integral.** Consciousness achieves "aperspectival" awareness: the capacity to hold multiple perspectives simultaneously without being captured by any single one. Space and time become "diaphanous" (transparent, co-present). It integrates the mental-rational, including and transcending it.
 
 Gebser's mental-rational structure corresponds to what the BioConomy corpus calls [[material-consciousness|Material Consciousness]]. His integral structure corresponds to [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]].
 
@@ -62,7 +62,7 @@ Kegan's research demonstrates that the demands of modern institutional life alre
 
 Cook-Greuter's sentence completion studies provide the empirical ground for the developmental claims. Her data documents the distribution of adult developmental stages in professional populations:
 
-Later stages, corresponding to what the BioConomy thesis calls Mycelial Consciousness, represent a small but measurable portion of the population. These later stages are characterized by increased comfort with ambiguity, paradox, and systems-level thinking. Boiral, Baron, and Gunnlaugson's 2014 study in the *Journal of Business Ethics* provides empirical evidence that later developmental stages correlate with more effective environmental leadership, suggesting that the capacity for ecological stewardship is developmentally dependent.
+Later stages, which the BioConomy thesis reads as the individual counterpart of Mycelial Consciousness [MS], represent a small but measurable portion of the populations studied. These later stages are characterized by increased comfort with ambiguity, paradox, and systems-level thinking. Boiral, Baron, and Gunnlaugson's 2014 study in the *Journal of Business Ethics* provides empirical evidence that later developmental stages correlate with more effective environmental leadership, suggesting that the capacity for ecological stewardship is developmentally dependent.
 
 ## The Convergence
 
@@ -104,13 +104,15 @@ The individual developmental frameworks are documented through peer-reviewed res
 
 Extracted from the BioConomy project. Primary treatment in V2_Mycelial_Thesis.md (Part 4: Consciousness Evolution and the Transformation of Value), which presents all four developmental traditions and their convergence on the claim that V2 is consciousness-dependent. Movement I (The Three Futures, synced Google Doc) provides the Graves framework in its civilizational context. The Last Empire document provides the convergence table mapping all frameworks across historical phases. Belief Building provides the worldview literature foundation.
 
+Edited 20 November 2026 from the grid hand-back (Run 2, section 6): the four traditions are described as partly drawing on each other; the convergence is marked as the corpus's reading, with what the measured evidence supports; the mapping of later individual stages onto Mycelial Consciousness is marked as the thesis's reading; two contrast constructions were reworded.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "@id": "https://wiki.bioconomy.earth/concepts/structures-of-consciousness/",
   "name": "Structures of Consciousness",
-  "description": "Structures of consciousness are the qualitatively distinct modes of awareness through which human beings perceive and organize their relationship to each other, to living systems, and to the conditions of their own existence. The BioConomy corpus draws on four independent developmental traditions that converge on the same structural claim: consciousness evolves through identifiable stages, and each stage produces fundamentally different economic logics.",
+  "description": "Structures of consciousness are the qualitatively distinct modes of awareness through which human beings perceive and organize their relationship to each other, to living systems, and to the conditions of their own existence. The BioConomy corpus draws on four developmental traditions, partly drawing on each other, that converge on a structural claim: consciousness evolves through identifiable stages, and each stage produces fundamentally different economic logics.",
   "termCode": "structures-of-consciousness",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",

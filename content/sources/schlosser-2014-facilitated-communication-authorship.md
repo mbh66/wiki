@@ -24,6 +24,7 @@ anabranch_t2: "qualifies"
 anabranch_t2_says: "Holds that facilitators author FC messages, an ordinary source for information the step attributes to other channels."
 anabranch_t2_cite: "Augmentative and Alternative Communication 30(4) (2014), abstract and results"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Ralf W. Schlosser, Susan Balandin, Bronwyn Hemsley, Teresa Iacono, Paul Probst and Stephen von Tetzchner (2014). "Facilitated Communication and Authorship: A Systematic Review". *Augmentative and Alternative Communication* 30(4): 359-368. DOI: [10.3109/07434618.2014.971490](https://doi.org/10.3109/07434618.2014.971490).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

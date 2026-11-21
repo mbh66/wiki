@@ -4,7 +4,7 @@ description: "Robert Segal's review essay on Joseph Campbell's theory of myth."
 author: "Robert A. Segal"
 year: 1991
 type: "journal-article"
-publisher: "Southern Humanities Review 25 [TBV issue and pages]"
+publisher: "Southern Humanities Review 25(3): 267-275"
 tags: ["source", "consciousness", "anabranch"]
 subject: ["consciousness"]
 briefs: ["anabranch"]
@@ -20,11 +20,12 @@ anabranch_group: "9. Critics of the sequence"
 anabranch_steps: ["T5"]
 anabranch_t5: "dissents"
 anabranch_t5_says: "Rejects Campbell's claim of one pattern shared by all hero myths, as disregarding differences and believers."
-anabranch_t5_cite: "Southern Humanities Review 25 (1991), as reprinted on eNotes"
+anabranch_t5_cite: "Southern Humanities Review 25(3) (1991): 267-275"
 anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "text"
 ---
 
-Robert A. Segal (1991). "Joseph Campbell's Mythology: A Review Essay". *Southern Humanities Review* 25 [TBV].
+Robert A. Segal (1991). "Joseph Campbell's Mythology: A Review Essay". *Southern Humanities Review* 25(3): 267-275 [TBV].
 
 Segal, a scholar of religion, reviews Joseph Campbell's theory of myth [TBV]. He notes that Campbell urged people to live by myth, and that Campbell became famous after his 1988 television interviews with Bill Moyers [TBV]. He writes that "Campbell goes beyond other theorists in his disregard for differences" among myths [TBV]. He adds that Campbell ignores the people who believe in the myths [TBV]. In earlier work (1978) Segal judged that Campbell's view of myth had stayed much the same since 1943 [TBV].
 
@@ -51,7 +52,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
   "datePublished": "1991",
   "publisher": {
     "@type": "Organization",
-    "name": "Southern Humanities Review 25 [TBV issue and pages]"
+    "name": "Southern Humanities Review 25(3): 267-275"
   },
   "review": {
     "@type": "Review",

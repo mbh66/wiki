@@ -5,9 +5,9 @@ author: "Jane Loevinger"
 year: 1976
 type: "book"
 publisher: "Jossey-Bass"
-tags: ["source", "consciousness", "evolution-of-consciousness"]
+tags: ["source", "consciousness", "evolution-of-consciousness", "anabranch"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "evidence"
 discipline: "developmental psychology"
 design: "E1"
@@ -19,7 +19,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 source_project: "BioConomy"
 grid_group: "4. Developmental maps"
 grid_steps: ["B1"]
@@ -27,6 +27,13 @@ grid_b1: "affirms"
 grid_b1_says: "Describes a sequence of ego stages measured with the Washington University Sentence Completion Test."
 grid_b1_cite: "Ego Development (1976), chs 1 and 2"
 grid_b1_grade: "[IC]"
+grid_b1_basis: "review"
+anabranch_steps: ["T5"]
+anabranch_t5: "qualifies"
+anabranch_t5_says: "Describes a sequence of ego stages in individuals, and makes no claim about each person taking part in a cosmic evolution."
+anabranch_t5_cite: "Ego Development (1976), chs 1 and 2 (not confirmed against the contents)"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "review"
 ---
 
 Jane Loevinger (1976). *Ego Development*. Jossey-Bass.
@@ -35,12 +42,16 @@ Jane Loevinger, a psychologist at Washington University in St. Louis, describes 
 
 The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in developmental psychology, with evidence type E1 and claim codes B1.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T5.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B1.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 
 <script type="application/ld+json">
 {

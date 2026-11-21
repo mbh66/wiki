@@ -4,7 +4,8 @@ description: "A Skeptical Inquirer feature article arguing that telepathy report
 author: "Katharine Beals"
 year: 2026
 type: "article"
-publisher: "Skeptical Inquirer 50(5)"
+publisher: "Skeptical Inquirer 50(5), September/October 2026"
+url: "https://skepticalinquirer.org/2026/08/telepathy-via-facilitated-communication-in-profound-autism-a-21st-century-delusion/"
 tags: ["source", "consciousness", "anabranch"]
 subject: ["consciousness"]
 briefs: ["anabranch"]
@@ -14,14 +15,15 @@ standing: "Part of the Skeptical Inquirer 50(5) feature on The Telepathy Tapes; 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "11. Critics of the anomalous experience research"
 anabranch_steps: ["T2"]
 anabranch_t2: "dissents"
-anabranch_t2_says: "Holds that telepathy reported through facilitated communication in profound autism is a delusion of the present century."
-anabranch_t2_cite: "Skeptical Inquirer 50(5) (2026), title and the author's published record"
+anabranch_t2_says: "Argues that reported autism telepathy arrives through facilitated communication, a pseudoscientific technique whose users respond to subtle facilitator cues."
+anabranch_t2_cite: "Skeptical Inquirer 50(5), September/October 2026, sections 'The Inevitable Belief in Facilitated Communication' and 'Why Widespread Belief in Autism Telepathy Is Inevitable'"
 anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "text"
 ---
 
 Katharine Beals (2026). "Telepathy via Facilitated Communication in Profound Autism: A 21st Century Delusion". *Skeptical Inquirer* 50(5), September/October 2026.
@@ -36,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {
@@ -51,7 +53,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
   "datePublished": "2026",
   "publisher": {
     "@type": "Organization",
-    "name": "Skeptical Inquirer 50(5)"
+    "name": "Skeptical Inquirer 50(5), September/October 2026"
   },
   "review": {
     "@type": "Review",

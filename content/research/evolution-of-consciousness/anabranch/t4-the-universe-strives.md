@@ -6,12 +6,12 @@ tags: ["research", "evolution-of-consciousness", "anabranch", "anabranch-step"]
 anabranch_step: "T4"
 step_order: 4
 step_part: "The universe has a direction"
-short: "Striving"
+short: "Directional striving"
 claim: "The universe and everything within it strives towards higher expressions of itself. Some call this building complexity. Others call the guiding force God, and others the Evolutionary Impulse."
 evidence_type: "Measured for the rise in complexity; argued for the striving"
-status: "mapped"
+status: "partial"
 crosswalk: "B3"
-note: "Drawn from grid step B3. The rise in complexity is measured (Chaisson). The claim that it has a direction is argued (Teilhard, Aurobindo, Wilber). Nagel (2012) proposes a teleology in nature, and Sober (2012) rejects his argument."
+note: "Drawn from grid step B3. The rise in complexity is measured (Chaisson) and modelled (Prigogine); both qualify the step, since neither claims that the universe strives. The claim that it has a direction is argued (Teilhard, Aurobindo, Wilber). Nagel (2012) proposes a teleology in nature, and Sober (2012) rejects his argument. Seventeen positions are still copied from B3."
 created: 2026-11-19
 updated: 2026-11-20
 source_project: "BioConomy"
@@ -27,9 +27,9 @@ This is step T4 of the [[research/evolution-of-consciousness/anabranch/index|Ana
 
 Evidence type: Measured for the rise in complexity; argued for the striving
 
-Coded: a grid step covers the claim closely.
+Partly coded: a grid step covers part of the claim.
 
-Drawn from grid step B3. The rise in complexity is measured (Chaisson). The claim that it has a direction is argued (Teilhard, Aurobindo, Wilber). Nagel (2012) proposes a teleology in nature, and Sober (2012) rejects his argument.
+Drawn from grid step B3. The rise in complexity is measured (Chaisson) and modelled (Prigogine); both qualify the step, since neither claims that the universe strives. The claim that it has a direction is argued (Teilhard, Aurobindo, Wilber). Nagel (2012) proposes a teleology in nature, and Sober (2012) rejects his argument. Seventeen positions are still copied from B3.
 
 ## Where the sources stand
 
@@ -45,4 +45,4 @@ The current positions, source by source, are on the [Anabranch site](https://ana
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them.
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the note was revised after the Run 3 recodes agreed in its hand-back were filed; the wording is unchanged. On 20 November 2026 the status moved from mapped to partial: most of its positions are still copied from the grid.

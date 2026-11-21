@@ -20,14 +20,15 @@ standing: "Read within the idealism debate; one reviewer disputes how dissociati
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-21
 source_project: "BioConomy"
 anabranch_group: "2. Philosophy of mind"
 anabranch_steps: ["T3"]
 anabranch_t3: "qualifies"
 anabranch_t3_says: "Treats brain activity as the outward image of a dissociated segment of universal mind, recasting filter language within idealism."
-anabranch_t3_cite: "The Idea of the World (2019), Part IV, ch. 11, from p. 178 (title only checked)"
-anabranch_t3_grade: "[TBV]"
+anabranch_t3_cite: "The Idea of the World (2019), Part IV 'Neuroscientific evidence', ch. 11 'Self-transcendence correlates with brain function impairment', p. 178 (title and page from contents listings; passage not read)"
+anabranch_t3_grade: "[IC]"
+anabranch_t3_basis: "abstract"
 ---
 
 Bernardo Kastrup (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books. ISBN 978-1-78535-739-8. [PhilPapers](https://philpapers.org/rec/KASTIO-6).

@@ -24,6 +24,7 @@ anabranch_t2: "affirms"
 anabranch_t2_says: "Argues that experimental psi evidence is comparable to that for established phenomena."
 anabranch_t2_cite: "American Psychologist 73(5), abstract, p. 663"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "abstract"
 ---
 
 Etzel Cardeña (2018). *The Experimental Evidence for Parapsychological Phenomena: A Review*. American Psychologist 73(5): 663-677. DOI: [10.1037/amp0000236](https://doi.org/10.1037/amp0000236).
@@ -38,7 +39,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

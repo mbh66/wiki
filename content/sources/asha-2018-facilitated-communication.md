@@ -23,6 +23,7 @@ anabranch_t2: "qualifies"
 anabranch_t2_says: "Holds that facilitated messages come from the facilitator, a known channel, and says nothing on telepathy."
 anabranch_t2_cite: "ASHA PS2018-00352"
 anabranch_t2_grade: "[IC]"
+anabranch_t2_basis: "text"
 ---
 
 American Speech-Language-Hearing Association (2018). *Facilitated Communication [Position Statement]*. ASHA, PS2018-00352. [Link](https://www.asha.org/policy/ps2018-00352/).
@@ -37,7 +38,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness cannot explain]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 
 <script type="application/ld+json">
 {

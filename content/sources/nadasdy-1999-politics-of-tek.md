@@ -23,6 +23,7 @@ anabranch_t9: "dissents"
 anabranch_t9_says: "Argues that joining traditional knowledge to science forces it into bureaucratic forms and moves power away from its holders."
 anabranch_t9_cite: "Arctic Anthropology 36(1-2) (1999), 1-18, abstract"
 anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "abstract"
 ---
 
 Paul Nadasdy (1999). "The Politics of TEK: Power and the 'Integration' of Knowledge". *Arctic Anthropology* 36(1-2): 1-18. [JSTOR 40316502](https://www.jstor.org/stable/40316502).

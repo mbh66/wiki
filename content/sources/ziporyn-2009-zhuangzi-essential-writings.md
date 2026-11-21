@@ -22,7 +22,8 @@ anabranch_steps: ["T6"]
 anabranch_t6: "qualifies"
 anabranch_t6_says: "Reads the Zhuangzi as ceaseless transformation of perspectives whose source cannot be known; states no direction or end."
 anabranch_t6_cite: "Ziporyn, 'Zhuangzi as Philosopher' (Hackett online essay keyed to the 2009 edition)"
-anabranch_t6_grade: "[TBV]"
+anabranch_t6_grade: "[IC]"
+anabranch_t6_basis: "abstract"
 ---
 
 Zhuangzi, *Zhuangzi: The Essential Writings, with Selections from Traditional Commentaries*, translated by Brook Ziporyn. Hackett Publishing Company, Indianapolis, 2009 [IC]. [Hackett](https://hackettpublishing.com/zhuangzi-the-essential-writings).
