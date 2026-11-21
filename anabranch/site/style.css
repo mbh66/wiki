@@ -213,6 +213,11 @@ p {
 }
 
 @media (prefers-reduced-motion: no-preference) {
+  /* Every animation in the river holds at its first frame until app.js
+     adds .go, one second after the page has loaded. */
+  .river:not(.go) * {
+    animation-play-state: paused !important;
+  }
   /* The whole river draws in sequence; times are set by
      private/evolution-of-consciousness/tools/anabranch-river.py.
      The Golden Thread runs slowly in from the left, past the Mimetic, Magical
@@ -472,6 +477,18 @@ p {
   }
 }
 
+.intro-heading {
+  font-size: var(--s3);
+  margin-bottom: 1rem;
+  scroll-margin-top: 1.5rem;
+}
+.intro ul {
+  margin: 0 0 1em;
+  padding-left: 1.2rem;
+}
+.intro li {
+  margin-bottom: 0.6em;
+}
 .intro {
   scroll-margin-top: 1.5rem;
   margin-top: clamp(2rem, 6vw, 3.5rem);

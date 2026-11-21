@@ -6,7 +6,7 @@ Everything the site shows lives in the wiki's `content/` folder, which stays the
 
 | What                                         | Where in `content/`                                                                                                                                                   |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The thesis: title, subtitle, introduction    | `research/evolution-of-consciousness/anabranch/index.md` (frontmatter `site_title`, `site_subtitle`; the introduction is the body text before the first `##` heading) |
+| The thesis: title, subtitle, introduction    | `research/evolution-of-consciousness/anabranch/index.md` (frontmatter `site_title`, `site_subtitle`; the introduction is the body text before the first `##` heading, or after a `##` heading at the very top, which becomes its heading) |
 | The nine steps                               | `research/evolution-of-consciousness/anabranch/t1-...md` to `t9-...md` (tag `anabranch-step`)                                                                         |
 | The grid steps each thesis step borrows from | `research/evolution-of-consciousness/steps/`                                                                                                                          |
 | Source positions                             | `sources/`: `grid_*` fields, and `anabranch_*` fields once a research run checks a source against the thesis wording                                                  |

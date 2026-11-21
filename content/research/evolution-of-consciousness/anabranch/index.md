@@ -21,9 +21,14 @@ source_documents:
 epistemic_status: working-hypothesis
 ---
 
-An [[glossary/a-e/anabranch|anabranch]] is a stretch of river that leaves the main channel and rejoins it downstream, and this thesis reads the history of human consciousness the same way. The main channel is [[glossary/f-l/indigenous-knowledge|Indigenous Knowledge Systems]], the [[glossary/f-l/golden-thread|Golden Thread]] that has carried Gaia wisdom through all of human history. At the [[glossary/a-e/bifurcation|Bifurcation]], about 12,000 years ago, [[glossary/m-s/material-consciousness|Material Consciousness]] branched away from it, rose slowly at first, and then drove our species up the steep part of the [[glossary/m-s/s-curve|growth curve]]. At the [[glossary/a-e/confluence|Confluence]], now beginning, the two streams learn to work side by side in place.
+## What is an anabranch?
 
-The argument runs in nine steps. Each step names the kind of evidence it rests on. Seven steps draw on the grid, where 55 sources are coded, critics included; T2 and T9, which no grid step tests, are coded directly against their own wording, with their critics.
+- In hydrology, an [[glossary/a-e/anabranch|anabranch]] is a stretch of river that leaves the main channel and rejoins it downstream. The Anabranch of Consciousness thesis interprets the history of human consciousness the same way. 
+- The main stream is [[glossary/f-l/indigenous-knowledge|Indigenous Knowledge Systems]], the [[glossary/f-l/golden-thread|Golden Thread]] that has carried Gaia wisdom through all of human history. 
+- At the [[glossary/a-e/bifurcation|Bifurcation]], a point in time that coincides with the Neolithic Revolution about 12,000 years ago, [[glossary/m-s/material-consciousness|Material Consciousness]] branched away from the main stream, rose slowly at first, and then drove our species rapidly up the steep part of an S-shaped [[glossary/m-s/s-curve|logistic growth curve]]. 
+- At the [[glossary/a-e/confluence|Confluence]], which is now beginning to occur, the two streams learn to work side by side in place.
+
+The thesis consists of nine steps. Each step names the kind of evidence it rests on. Seven steps draw on the grid, where 55 sources are coded, critics included; T2 and T9, which no grid step tests, are coded directly against their own wording, with their critics.
 
 ## The steps
 

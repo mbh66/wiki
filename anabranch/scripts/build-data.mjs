@@ -129,12 +129,27 @@ if (!existsSync(thesisIndex)) {
   process.exit(1)
 }
 const thesisFm = readFrontmatter(thesisIndex) || {}
-const intro = body(thesisIndex)
+// The introduction runs from the top of the body to the first "## " heading
+// after it. A "## " heading at the very top is the introduction's own heading.
+// Each block is a paragraph (a string) or a bullet list ({ list: [items] }).
+let introText = body(thesisIndex).replace(/^\s+/, "")
+let introHeading = null
+const introHead = introText.match(/^## +(.+)\r?\n/)
+if (introHead) {
+  introHeading = introHead[1].trim()
+  introText = introText.slice(introHead[0].length)
+}
+const oneLine = (s) => convertLinks(s.replace(/\s*\n\s*/g, " ").trim(), "anabranch/index")
+const intro = introText
   .split(/\n## /)[0]
   .split(/\n\s*\n/)
-  .map((p) => p.replace(/\s*\n\s*/g, " ").trim())
+  .map((b) => b.trim())
   .filter(Boolean)
-  .map((p) => convertLinks(p, "anabranch/index"))
+  .map((b) =>
+    /^[-*] /.test(b)
+      ? { list: b.split(/\n(?=[-*] )/).map((item) => oneLine(item.replace(/^[-*] +/, ""))) }
+      : oneLine(b),
+  )
 
 const thesisSteps = pages(THESIS)
   .filter((p) => asList(p.fm.tags).includes("anabranch-step") && !isDraft(p.fm))
@@ -359,6 +374,7 @@ const data = {
   thesisPage: `${WIKI_URL}/research/evolution-of-consciousness/anabranch/`,
   title: thesisFm.site_title || thesisFm.title,
   subtitle: thesisFm.site_subtitle || thesisFm.description || "",
+  introHeading,
   intro,
   parts,
   steps,

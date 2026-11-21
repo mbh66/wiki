@@ -1,6 +1,13 @@
 ;(function () {
   "use strict"
 
+  // The river waits a second after the page has loaded before it starts
+  // drawing, so the first frames are not lost while the page settles.
+  const startRiver = () =>
+    setTimeout(() => document.querySelector(".river")?.classList.add("go"), 1000)
+  if (document.readyState === "complete") startRiver()
+  else window.addEventListener("load", startRiver)
+
   const D = window.ANABRANCH
   const WIKI = "https://wiki.bioconomy.earth"
 
@@ -64,7 +71,17 @@
   // Header
   document.getElementById("title").textContent = D.title
   document.getElementById("subtitle").textContent = D.subtitle
-  document.getElementById("intro").innerHTML = D.intro.map((p) => `<p>${rich(p)}</p>`).join("")
+  document.getElementById("intro").innerHTML =
+    (D.introHeading ? `<h2 class="intro-heading" id="intro-heading">${esc(D.introHeading)}</h2>` : "") +
+    D.intro
+      .map((b) =>
+        typeof b === "string"
+          ? `<p>${rich(b)}</p>`
+          : `<ul>${b.list.map((i) => `<li>${rich(i)}</li>`).join("")}</ul>`,
+      )
+      .join("")
+  // The scroll cue lands on the introduction's heading when it has one
+  if (D.introHeading) document.querySelector(".scroll-cue").setAttribute("href", "#intro-heading")
 
   // On narrow screens, crop the river to the Anabranch itself
   const riverSvg = document.querySelector(".river svg")
