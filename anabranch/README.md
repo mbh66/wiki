@@ -35,7 +35,7 @@ npm install        # first time only
 npm run data       # reads ../content, writes site/data/
 ```
 
-The script prints the sources found, the tally for each step, and any warnings: an unknown grid code, a link that does not resolve, frontmatter that does not parse. It also writes `content/private/evolution-of-consciousness/anabranch-inherited-squares.md`, the list of squares still to check, for the next research brief.
+The script prints the sources found, the tally for each step, and any warnings: an unknown grid code, a link that does not resolve, frontmatter that does not parse. It also writes `content/private/evolution-of-consciousness/anabranch-inherited-squares.md`, the list of squares still to check, for the next research brief, and `content/research/evolution-of-consciousness/anabranch/source-count.md`, the source counts by group and by step that the thesis page embeds under "The sources in numbers". The count page is rewritten only when a number changes; commit it with the source pages that changed it.
 
 Then open `site/index.html` in a browser. No server is needed.
 

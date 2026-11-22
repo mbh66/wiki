@@ -11,7 +11,7 @@ evidence_type: "E3 theory on evidence to E4 synthesis"
 evidence_main: "E3"
 depends_on_h: "holds-either-way"
 affirms_count: 9
-qualifies_count: 6
+qualifies_count: 7
 dissents_count: 1
 silent_count: 70
 created: 2026-11-19
@@ -37,7 +37,7 @@ Unchanged. It is the most widely shared step among the sequence theorists.
 
 ## Where the grid sources stand
 
-Of the 86 grid sources, 9 affirm this step, 6 qualify it and one dissents. The other 70 are silent on it.
+Of the 87 grid sources, 9 affirm this step, 7 qualify it and one dissents. The other 70 are silent on it.
 
 ### Affirms
 
@@ -57,6 +57,7 @@ Of the 86 grid sources, 9 affirm this step, 6 qualify it and one dissents. The o
 - [[sources/fischer-bidell-2006-dynamic-development|Kurt W. Fischer; Thomas R. Bidell, Dynamic Development of Action and Thought (2006)]]
 - [[sources/jaynes-1976-origin-of-consciousness|Julian Jaynes, The Origin of Consciousness in the Breakdown of the Bicameral Mind (1976)]]
 - [[sources/jung-1959-archetypes-and-the-collective-unconscious|C. G. Jung, The Archetypes and the Collective Unconscious (1959)]]
+- [[sources/ronfeldt-timn|David Ronfeldt, Tribes, Institutions, Markets, Networks (1996)]]
 - [[sources/siegler-1996-emerging-minds|Robert S. Siegler, Emerging Minds: The Process of Change in Children's Thinking (1996)]]
 - [[sources/street-1984-literacy-in-theory-and-practice|Brian V. Street, Literacy in Theory and Practice (1984)]]
 

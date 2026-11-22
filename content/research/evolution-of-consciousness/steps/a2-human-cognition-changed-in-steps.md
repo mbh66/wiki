@@ -14,7 +14,7 @@ depends_on_h: "holds-either-way"
 affirms_count: 12
 qualifies_count: 2
 dissents_count: 1
-silent_count: 71
+silent_count: 72
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Run 2 separated out language, which leaves no direct trace and so carries no dat
 
 ## Where the grid sources stand
 
-Of the 86 grid sources, 12 affirm this step, 2 qualify it and one dissents. The other 71 are silent on it.
+Of the 87 grid sources, 12 affirm this step, 2 qualify it and one dissents. The other 72 are silent on it.
 
 ### Affirms
 

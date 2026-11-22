@@ -5,7 +5,7 @@ aliases: ["evolution of consciousness claim chain", "consciousness claim chain"]
 tags: ["research", "evolution-of-consciousness"]
 cssclasses: [hide-folder-listing]
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 source_documents: ["Deep research report: Evolution of Consciousness Grid, Run 2 (19 November 2026)"]
 epistemic_status: "working-hypothesis"
@@ -21,7 +21,7 @@ Each step has its own page. The page states the claim as the research run refine
 
 ![[evolution-of-consciousness-chain.base]]
 
-The table runs in chain order, with the connecting word that joins each step to the one before it and the count of the 86 grid sources on each side.
+The table runs in chain order, with the connecting word that joins each step to the one before it and the count of the 87 grid sources on each side.
 
 ## Related
 

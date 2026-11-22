@@ -12,7 +12,7 @@ evidence_type: "E4 synthesis, with contested E1 work on group intelligence"
 evidence_main: "E4"
 depends_on_h: "holds-either-way"
 affirms_count: 3
-qualifies_count: 4
+qualifies_count: 5
 dissents_count: 1
 silent_count: 78
 created: 2026-11-19
@@ -38,7 +38,7 @@ Run 2 reworded the step as a proposed sign and marked the mycelial metaphor as m
 
 ## Where the grid sources stand
 
-Of the 86 grid sources, 3 affirm this step, 4 qualify it and one dissents. The other 78 are silent on it.
+Of the 87 grid sources, 3 affirm this step, 5 qualify it and one dissents. The other 78 are silent on it.
 
 ### Affirms
 
@@ -50,6 +50,7 @@ Of the 86 grid sources, 3 affirm this step, 4 qualify it and one dissents. The o
 
 - [[sources/karst-2023-positive-citation-bias|Justine Karst, Melanie D. Jones, Jason D. Hoeksema, Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests (2023)]]
 - [[sources/levin-2022-technological-approach-to-mind-everywhere|Michael Levin, Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds (2022)]]
+- [[sources/ronfeldt-timn|David Ronfeldt, Tribes, Institutions, Markets, Networks (1996)]]
 - [[sources/simard-2021-finding-the-mother-tree|Suzanne Simard, Finding the Mother Tree (2021)]]
 - [[sources/yunkaporta-2019-sand-talk|Tyson Yunkaporta, Sand Talk (2019)]]
 

@@ -13,7 +13,7 @@ depends_on_h: "holds-either-way"
 affirms_count: 5
 qualifies_count: 4
 dissents_count: 0
-silent_count: 77
+silent_count: 78
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,7 +37,7 @@ Run 2 recorded that the measured support is strong for one instrument and thin f
 
 ## Where the grid sources stand
 
-Of the 86 grid sources, 5 affirm this step, 4 qualify it and none dissent. The other 77 are silent on it.
+Of the 87 grid sources, 5 affirm this step, 4 qualify it and none dissent. The other 78 are silent on it.
 
 ### Affirms
 

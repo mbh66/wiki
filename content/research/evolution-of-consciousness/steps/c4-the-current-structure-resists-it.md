@@ -12,7 +12,7 @@ evidence_type: "E4 synthesis"
 evidence_main: "E4"
 depends_on_h: "holds-either-way"
 affirms_count: 6
-qualifies_count: 2
+qualifies_count: 3
 dissents_count: 2
 silent_count: 76
 created: 2026-11-19
@@ -38,7 +38,7 @@ Unchanged.
 
 ## Where the grid sources stand
 
-Of the 86 grid sources, 6 affirm this step, 2 qualify it and 2 dissent. The other 76 are silent on it.
+Of the 87 grid sources, 6 affirm this step, 3 qualify it and 2 dissent. The other 76 are silent on it.
 
 ### Affirms
 
@@ -53,6 +53,7 @@ Of the 86 grid sources, 6 affirm this step, 2 qualify it and 2 dissent. The othe
 
 - [[sources/arnold-2019-where-in-the-brain-does-buddhism-come-from|Dan Arnold, Where in the Brain Does Buddhism Come From? Critical Thoughts Regarding Iain McGilchrist's Reflections on Religion (2019)]]
 - [[sources/butters-2015-brief-history-of-spiral-dynamics|Albion M. Butters, A Brief History of Spiral Dynamics (2015)]]
+- [[sources/ronfeldt-timn|David Ronfeldt, Tribes, Institutions, Markets, Networks (1996)]]
 
 ### Dissents
 

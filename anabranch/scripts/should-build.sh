@@ -6,7 +6,7 @@
 # something it displays:
 #   - this folder (the code), apart from the README
 #   - the thesis pages in content/research/evolution-of-consciousness/anabranch/,
-#     apart from the evidence brief
+#     apart from the evidence brief and the generated source-count page
 #   - on a source page in the grid or the Anabranch layer, a line of frontmatter
 #     the site reads (positions, group, title, author, year, briefs, seed flag)
 # Edits to other pages, to the body text of source pages, to the grid's step
@@ -55,6 +55,7 @@ while IFS= read -r file; do
       exit 1
       ;;
     content/research/evolution-of-consciousness/anabranch/evidence.md) ;;
+    content/research/evolution-of-consciousness/anabranch/source-count.md) ;;
     content/research/evolution-of-consciousness/anabranch/*.md)
       echo "Anabranch: thesis page changed ($file), building."
       exit 1

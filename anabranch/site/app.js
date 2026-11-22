@@ -83,6 +83,27 @@
   // The scroll cue lands on the introduction's heading when it has one
   if (D.introHeading) document.querySelector(".scroll-cue").setAttribute("href", "#intro-heading")
 
+  // The sources in numbers, counted from the data so they change as sources are added
+  {
+    const criticGroups = D.groups.filter((g) => /^\d+\.\s*critics\b/i.test(g))
+    const critics = D.sources.filter((s) => criticGroups.includes(s.group)).length
+    const seed = D.sources.filter((s) => s.seedList).length
+    const inGroup = (g) => D.sources.filter((s) => s.group === g).length
+    let html = `<p>${D.sources.length} sources are coded on the thesis, in ${D.groups.length} groups.`
+    if (criticGroups.length)
+      html += ` ${criticGroups.length === 1 ? "Group" : "Groups"} ${listWords(criticGroups.map((g) => g.match(/^\d+/)[0]))}, the critics, ${criticGroups.length === 1 ? "holds" : "hold"} ${critics} of them, and ${seed} are on Michael Haupt's recommended reading list.</p>`
+    else html += ` ${seed} are on Michael Haupt's recommended reading list.</p>`
+    html += `<table class="count-table">
+      <caption class="visually-hidden">Sources in each group</caption>
+      <thead><tr><th scope="col">Group</th><th scope="col" class="num">Sources</th></tr></thead>
+      <tbody>${D.groups
+        .map((g) => `<tr><th scope="row">${esc(g)}</th><td class="num">${inGroup(g)}</td></tr>`)
+        .join("")}</tbody>
+      <tfoot><tr><th scope="row">Total</th><td class="num">${D.sources.length}</td></tr></tfoot>
+    </table>`
+    document.getElementById("counts-body").innerHTML = html
+  }
+
   // On narrow screens, crop the river to the Anabranch itself
   const riverSvg = document.querySelector(".river svg")
   const narrow = window.matchMedia("(max-width: 640px)")
@@ -184,6 +205,8 @@
     table += `</tbody>`
   }
   const tableEl = document.getElementById("grid-table")
+  tableEl.querySelector("caption").textContent =
+    `Positions of ${D.sources.length} sources on each step of the Anabranch argument`
   tableEl.insertAdjacentHTML("beforeend", table)
 
   // Detail panel
