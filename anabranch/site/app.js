@@ -125,12 +125,12 @@
 
   function stepLinks(s) {
     const links = []
-    if (s.url) links.push(`<a href="${esc(s.url)}">This step on the wiki</a>`)
+    if (s.url) links.push(`<a href="${esc(s.url)}">This sub-claim on the wiki</a>`)
     if (s.gridStep)
       links.push(`<a href="${esc(s.gridStep.url)}">Grid step ${esc(s.gridStep.code)}</a>`)
     for (const g of s.secondarySteps || [])
       links.push(`<a href="${esc(g.url)}">Grid step ${esc(g.code)}</a>`)
-    if (s.counts) links.push(`<a href="#grid">Sources on this step</a>`)
+    if (s.counts) links.push(`<a href="#grid">Sources on this sub-claim</a>`)
     return links.length ? `<p class="step-links">${links.join("")}</p>` : ""
   }
 
@@ -145,7 +145,7 @@
       chain += `<li class="step" id="${s.id}" data-status="${s.status}">
         ${s.connector ? `<p class="connector">${esc(s.connector)}</p>` : ""}
         <article class="step-card" aria-labelledby="${s.id}-claim">
-          <p class="step-num">Step ${num(s.id)}${s.name ? `: <span class="step-name">${esc(s.name)}</span>` : ""}</p>
+          <p class="step-num">Sub-claim ${num(s.id)}${s.name ? `: <span class="step-name">${esc(s.name)}</span>` : ""}</p>
           <h3 class="claim" id="${s.id}-claim">${rich(s.claim)}</h3>
           <dl class="step-meta">
             <div><dt>Evidence</dt><dd>${rich(s.evidence)}</dd></div>
@@ -166,19 +166,19 @@
   const inherited = D.steps.some(
     (s) => s.counts && s.checked < D.sources.filter((src) => src.cells[s.id].position).length,
   )
-  let lede = `<p>Each row is a source and each column is a step of the argument. Select a mark to read what the source says and where it says it.</p>`
+  let lede = `<p>Each row is a source and each column is a sub-claim of the thesis. Select a mark to read what the source says and where it says it.</p>`
   if (pending.length) {
-    lede += `<p>${pending.length === 1 ? "Step" : "Steps"} ${listWords(pending)} ${pending.length === 1 ? "has" : "have"} no coded positions yet.</p>`
+    lede += `<p>${pending.length === 1 ? "Sub-claim" : "Sub-claims"} ${listWords(pending)} ${pending.length === 1 ? "has" : "have"} no coded positions yet.</p>`
   }
   if (inherited) {
-    lede += `<p>The other columns carry positions from the wiki's evolution of consciousness grid. They have not yet been checked against the wording of these steps.</p>`
+    lede += `<p>The other columns carry positions from the wiki's evolution of consciousness grid. They have not yet been checked against the wording of these sub-claims.</p>`
   }
   document.getElementById("grid-lede").innerHTML = lede
 
   let table = `<thead><tr><th scope="col" class="col-source">Source</th>`
   for (const s of D.steps) {
     table += `<th scope="col" class="col-step${s.counts ? "" : " is-pending"}">
-      <a href="#${s.id}" title="Step ${num(s.id)}, ${esc(plain(s.short))}: ${esc(plain(s.claim))}"><span class="col-num">${num(s.id)}</span><span class="col-label">${esc(plain(s.short))}</span></a></th>`
+      <a href="#${s.id}" title="Sub-claim ${num(s.id)}, ${esc(plain(s.short))}: ${esc(plain(s.claim))}"><span class="col-num">${num(s.id)}</span><span class="col-label">${esc(plain(s.short))}</span></a></th>`
   }
   table += `</tr></thead>`
 
@@ -196,7 +196,7 @@
         } else if (c.position === "silent") {
           table += `<td></td>`
         } else {
-          const label = `${src.title}, step ${num(s.id)}: ${WORD[c.position]}`
+          const label = `${src.title}, sub-claim ${num(s.id)}: ${WORD[c.position]}`
           table += `<td><button type="button" class="mark mark-${c.position}" data-src="${i}" data-step="${s.id}" aria-label="${esc(label)}">${glyph(c.position)}</button></td>`
         }
       }
@@ -206,7 +206,7 @@
   }
   const tableEl = document.getElementById("grid-table")
   tableEl.querySelector("caption").textContent =
-    `Positions of ${D.sources.length} sources on each step of the Anabranch argument`
+    `Positions of ${D.sources.length} sources on each sub-claim of the Anabranch thesis`
   tableEl.insertAdjacentHTML("beforeend", table)
 
   // Detail panel
@@ -218,7 +218,7 @@
     const src = D.sources[srcIndex]
     const s = stepById[stepId]
     const c = src.cells[stepId]
-    let html = `<p class="panel-step">Step ${num(s.id)}: ${esc(plain(s.short))}</p>
+    let html = `<p class="panel-step">Sub-claim ${num(s.id)}: ${esc(plain(s.short))}</p>
       <h3 id="panel-title">${esc(src.title)}</h3>
       <p class="panel-by">${esc(src.author)}${src.year ? `, ${esc(src.year)}` : ""}</p>
       <p class="panel-pos">${glyph(c.position)}${WORD[c.position]}</p>`
@@ -228,9 +228,9 @@
       html += `<p class="panel-grade">Grade ${esc(c.grade)}${GRADES[c.grade] ? `: ${GRADES[c.grade]}` : ""}</p>`
     if (READ_FROM[c.readFrom]) html += `<p class="panel-read">${READ_FROM[c.readFrom]}</p>`
     if (c.basis === "inherited") {
-      html += `<p class="panel-basis">Taken from grid step ${esc(c.from)} on the wiki. Not yet checked against the wording of this step.</p>`
+      html += `<p class="panel-basis">Taken from grid step ${esc(c.from)} on the wiki. Not yet checked against the wording of this sub-claim.</p>`
     } else if (c.basis === "checked") {
-      html += `<p class="panel-basis">Checked against the wording of this step.</p>`
+      html += `<p class="panel-basis">Checked against the wording of this sub-claim.</p>`
     }
     if (c.secondary && c.secondary.length) {
       html += `<ul class="panel-also">${c.secondary
@@ -278,7 +278,7 @@
     year: "numeric",
   })
   document.getElementById("footer").innerHTML =
-    `<p>The thesis is Michael Haupt's, set out step by step on the
+    `<p>The thesis is Michael Haupt's, set out sub-claim by sub-claim on the
     <a href="${esc(D.thesisPage)}">BioConomy wiki</a>. The evidence on this page comes from the
     <a href="${esc(D.wiki)}">evolution of consciousness research</a> on the BioConomy wiki, which holds the full
     <a href="${esc(D.grid)}">claim grid</a>, the graded library and the dating table. Data built ${esc(built)}.</p>
@@ -298,7 +298,7 @@
     })
   }
   // A link or address pointing into a folded section opens it first,
-  // so "Sources on this step" still lands on the grid.
+  // so "Sources on this sub-claim" still lands on the grid.
   const openFold = (hash) => {
     const target = hash && hash.length > 1 && document.getElementById(hash.slice(1))
     if (!target) return
