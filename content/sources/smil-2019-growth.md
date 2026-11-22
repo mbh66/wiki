@@ -14,7 +14,7 @@ standing: "Widely reviewed, in the Guardian, New Scientist and Physics World amo
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "12. Growth curves and limits"
 anabranch_steps: ["T2", "T7", "T8"]
@@ -24,13 +24,13 @@ anabranch_t2_cite: "Growth (2019), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t7: "qualifies"
-anabranch_t7_says: "Documents the rise and slowdown of empires and civilisations, and fits a logistic to Roman territory, without linking either to consciousness."
-anabranch_t7_cite: "Growth (2019), ch. 5, 'Populations, Societies, Economies', sections 'Empires' (p. 357) and 'Civilizations' (p. 436)"
-anabranch_t7_grade: "[TBV]"
+anabranch_t7_says: "(c) Fits logistic curves to growth across systems; ties none of them to abstract thinking."
+anabranch_t7_cite: "Growth (2019), opening chapters on growth patterns"
+anabranch_t7_grade: "[IC]"
 anabranch_t7_basis: "review"
 anabranch_t8: "qualifies"
-anabranch_t8_says: "Holds that material growth must level off, and warns against forecasting from how well past data fit a logistic curve; says nothing of a Noosphere."
-anabranch_t8_cite: "Growth (2019), Preface, and ch. 1 'Trajectories: or common patterns of growth', section 'Confined Growth Patterns' (p. 31 not confirmed), with the final chapter on what follows growth (number and title not confirmed)"
+anabranch_t8_says: "(a) Holds that all growth follows S-curves and must end; the book itself makes no explicit charge of growth at any cost."
+anabranch_t8_cite: "Growth (2019), chapters on growth patterns and the conclusion"
 anabranch_t8_grade: "[IC]"
 anabranch_t8_basis: "review"
 ---

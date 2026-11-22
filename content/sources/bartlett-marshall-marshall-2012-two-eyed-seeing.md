@@ -16,7 +16,7 @@ standing: "Foundational for Two-Eyed Seeing; reviews find its later use uneven [
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
 anabranch_steps: ["T2", "T9"]
@@ -25,11 +25,11 @@ anabranch_t2_says: "Describes Two-Eyed Seeing in co-learning between Indigenous 
 anabranch_t2_cite: "Two-Eyed Seeing and Other Lessons Learned within a Co-Learning Journey of Bringing Together Indigenous and Mainstream Knowledges and Ways of Knowing (2012), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
-anabranch_t9: "affirms"
-anabranch_t9_says: "Argues that Indigenous and mainstream knowledges should be brought together through co-learning, each kept whole."
-anabranch_t9_cite: "J Environ Stud Sci 2(4), lessons learned"
-anabranch_t9_grade: "[IC]"
-anabranch_t9_basis: "abstract"
+anabranch_t9: "qualifies"
+anabranch_t9_says: "(a) Joins Indigenous and mainstream knowledges through Two-Eyed Seeing co-learning; (b) reports its own programme lost students and drifted back to mainstream science."
+anabranch_t9_cite: "Bartlett, Marshall and Marshall 2012, J Environ Stud Sci 2(4): 331-340; lessons 1-8 (authors' accepted draft)"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "text"
 ---
 
 Cheryl Bartlett, Murdena Marshall, Albert Marshall (2012). *Two-Eyed Seeing and Other Lessons Learned within a Co-Learning Journey of Bringing Together Indigenous and Mainstream Knowledges and Ways of Knowing*. Journal of Environmental Studies and Sciences 2(4): 331-340. DOI: [10.1007/s13412-012-0086-8](https://doi.org/10.1007/s13412-012-0086-8).
@@ -40,7 +40,7 @@ Two-Eyed Seeing has since been taken up in health research, education and resour
 
 The wiki records the paper in its own terms on step T9, as an argument for joining two ways of knowing while keeping each whole.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T9.
 
 ## Cited by
 

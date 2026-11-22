@@ -24,7 +24,7 @@ standing: "First-person testimony with a foreword by Ervin Laszlo, received with
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "8. Traditions and testimony"
 grid_steps: ["B3", "C2", "C3", "H", "H2"]
@@ -53,7 +53,7 @@ grid_h2_says: "Reports insights from 73 LSD sessions as communion with the creat
 grid_h2_cite: "LSD and the Mind of the Universe (2019), ch. 6, 'Initiation into the Universe' (sessions 18-24), and ch. 9, 'The Birth of the Future Human'; numbering from a library catalogue"
 grid_h2_grade: "[TBV]"
 grid_h2_basis: "abstract"
-anabranch_steps: ["T1", "T2"]
+anabranch_steps: ["T1", "T2", "T8"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Holds that reincarnation gives individual consciousness open-ended time to develop."
 anabranch_t1_cite: "LSD and the Mind of the Universe (2019), p. 91, as quoted in a review"
@@ -64,6 +64,11 @@ anabranch_t2_says: "Reports insights from 73 LSD sessions as communion with the 
 anabranch_t2_cite: "LSD and the Mind of the Universe (2019), ch. 6, 'Initiation into the Universe' (sessions 18-24), and ch. 9, 'The Birth of the Future Human'; numbering from a library catalogue"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "abstract"
+anabranch_t8: "affirms"
+anabranch_t8_says: "(b) Describes direct individual contact with a mind of the universe; the link to the Noosphere comes from podcast host Carter Phipps."
+anabranch_t8_cite: "LSD and the Mind of the Universe (2019), chapter not confirmed"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "abstract"
 ---
 
 Christopher M. Bache (2019). *LSD and the Mind of the Universe: Diamonds from Heaven*. Park Street Press, Rochester, Vermont; foreword by Ervin Laszlo.
@@ -79,7 +84,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 - Reynolds, B. A Brief Review of Axial Age Teachings: A Response to Chris Bache. *Integral World*: https://integralworld.net/reynolds50.html
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it affirms T8.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3, C2, C3, H and H2.
 
@@ -89,6 +94,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 
 <script type="application/ld+json">
 {

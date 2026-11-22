@@ -15,7 +15,7 @@ standing: "Read widely in systems and sustainability circles; no academic review
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
 anabranch_steps: ["T2", "T5", "T7", "T8", "T9"]
@@ -30,18 +30,18 @@ anabranch_t5_cite: "EarthDance (2000), A Note from the Author; ch. 15 'Less Than
 anabranch_t5_grade: "[IC]"
 anabranch_t5_basis: "text"
 anabranch_t7: "qualifies"
-anabranch_t7_says: "Describes a self-imposed separation from nature through a mechanical worldview over the past few millennia; speaks to part (a) only."
-anabranch_t7_cite: "EarthDance (2000), A Note from the Author"
+anabranch_t7_says: "(a) Dates separation from nature to agriculture and later conquest, mechanism to Plato; reads Genesis as rewritten, without abstraction."
+anabranch_t7_cite: "EarthDance, ch. 13 'Worldviews from the Pleistocene to Plato' (PDF pp. 129-131); ch. 14 (p. 137); ch. 17 opening (p. 168); LifeWeb web edition"
 anabranch_t7_grade: "[IC]"
 anabranch_t7_basis: "text"
 anabranch_t8: "qualifies"
-anabranch_t8_says: "Holds that humanity can mature like other species from competition to cooperation, and names no Noosphere and no S-curve."
-anabranch_t8_cite: "EarthDance (2000), A Note from the Author; ch. 17, 'A Matter of Maturation' (opening read)"
+anabranch_t8_says: "(a) Holds that ecosystem-destroying growth cannot continue and exponential curves must turn; (b) names no Noosphere and no S-curve."
+anabranch_t8_cite: "EarthDance, ch. 20 'Sustainable Society' (PDF pp. 202, 205-206); ch. 17 (p. 168); ch. 21 (p. 220); LifeWeb web edition"
 anabranch_t8_grade: "[IC]"
 anabranch_t8_basis: "text"
 anabranch_t9: "affirms"
-anabranch_t9_says: "Argues that cooperation between the ways of indigenous and industrial peoples is needed to build a sustainable world."
-anabranch_t9_cite: "EarthDance (2000), A Note from the Author; ch. 19 'The Indigenous Way' (opening read)"
+anabranch_t9_says: "(a, c) Envisions local bioregions linked by communications as humanity's nervous system; (a) urges indigenous and industrial cooperation; (b) expects a healthy world to emerge."
+anabranch_t9_cite: "EarthDance, A Note from the Author (1999); ch. 16 'The Body of Humanity'; ch. 19 'The Indigenous Way' (closing); ch. 20 'Sustainable Society' (bioregionalism); LifeWeb web edition"
 anabranch_t9_grade: "[IC]"
 anabranch_t9_basis: "text"
 ---

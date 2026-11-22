@@ -8,7 +8,7 @@ first_defined_in: "Berg and Dasmann, \"Reinhabiting California\" (1977)"
 related_terms: ["bioregion", "bioregional-economics", "confluence", "indigenous-knowledge"]
 source_project: "BioConomy"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-22
 epistemic_status: "documented-framework"
 ---
 
@@ -20,7 +20,7 @@ Peter Berg and Raymond Dasmann gave the movement its founding statement in "Rein
 
 Kirkpatrick Sale's *Dwellers in the Land: The Bioregional Vision* (1985) carried the idea into economics, government and settlement. Its main thesis is that people should produce and consume in harmony with the natural features of their bioregions [IC].
 
-On this wiki, the [[glossary/a-e/bioregion|BioRegion]] is the corpus's own unit of economic coordination, with its own definition [MS]. Bioregionalism is the wider tradition that unit comes from. In the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]], bioregionalism is how the [[glossary/a-e/confluence|Confluence]] looks on the ground [MS].
+On this wiki, the [[glossary/a-e/bioregion|BioRegion]] is the corpus's own unit of economic coordination, with its own definition [MS]. Bioregionalism is the wider tradition that unit comes from. In the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]], bioregional commons are one of two forms the [[glossary/a-e/confluence|Confluence]] takes on the ground, beside [[glossary/a-e/cosmo-local-production|cosmo-local]] commons [MS].
 
 ## Contrast and critique
 
@@ -47,7 +47,7 @@ On this wiki, the [[glossary/a-e/bioregion|BioRegion]] is the corpus's own unit 
 
 ## Provenance
 
-Written on 20 November 2026, after Anabranch Run 3b named bioregionalism as a term the thesis uses without a glossary entry. It links the existing BioRegion entry and doesn't repeat it. The Berg and Dasmann citation was checked against Planet Drum's republication and reference listings, and Sale against library catalogue records and a 1986 review. The critics follow the wiki's source pages. The early use of "bioregion" by Allen Van Newkirk is reported in reference sources and was not confirmed, so this entry leaves it out.
+Written on 20 November 2026, after Anabranch Run 3b named bioregionalism as a term the thesis uses without a glossary entry. It links the existing BioRegion entry and doesn't repeat it. The Berg and Dasmann citation was checked against Planet Drum's republication and reference listings, and Sale against library catalogue records and a 1986 review. The critics follow the wiki's source pages. The early use of "bioregion" by Allen Van Newkirk is reported in reference sources and was not confirmed, so this entry leaves it out. On 22 November 2026 the sentence on the Anabranch thesis changed to match the new wording of step T9.
 
 <script type="application/ld+json">
 {

@@ -9,7 +9,7 @@ url: "https://doi.org/10.3389/fnsys.2022.768201"
 doi: "10.3389/fnsys.2022.768201"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "evidence"
 discipline: "developmental biology"
 design: "E3"
@@ -22,7 +22,7 @@ standing: "Peer-reviewed Hypothesis and Theory article (editor Eva Jablonka; rev
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "1. Mind and brain science"
 grid_steps: ["A1", "C3"]
@@ -36,6 +36,12 @@ grid_c3_says: "Holds that every known mind is a collective intelligence of agent
 grid_c3_cite: "Frontiers in Systems Neuroscience 16: 768201 (2022), introduction"
 grid_c3_grade: "[IC]"
 grid_c3_basis: "text"
+anabranch_steps: ["T8"]
+anabranch_t8: "silent"
+anabranch_t8_says: "Treats cognition across scales of living organisation; takes up neither the Noosphere nor growth limits (inference)."
+anabranch_t8_cite: "Technological Approach to Mind Everywhere (2022), whole work; chapter not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
 ---
 
 Michael Levin (2022). *Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds*. Frontiers in Systems Neuroscience 16: 768201. https://doi.org/10.3389/fnsys.2022.768201
@@ -50,12 +56,16 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a eviden
 - Frontiers in Systems Neuroscience, article page (consulted 19 November 2026): https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full
 - Fábregas-Tejeda, A. and Sims, M. (2025). Basal cognition and the evolutionary perspective. *History and Philosophy of the Life Sciences*. https://doi.org/10.1007/s40656-025-00660-y
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T8.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A1; it qualifies C3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 
 <script type="application/ld+json">
 {

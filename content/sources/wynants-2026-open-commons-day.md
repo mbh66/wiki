@@ -15,7 +15,7 @@ standing: "Hosted and introduced by Michel Bauwens; only a pre-event newsletter 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "7. Metacrisis and the mycelial turn"
 anabranch_steps: ["T2", "T9"]
@@ -25,8 +25,8 @@ anabranch_t2_cite: "A milestone in the evolution of the modern commons (2026), w
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t9: "qualifies"
-anabranch_t9_says: "Joins 52 local commons into one public network in Flanders and Brussels; names no bioregion and no Indigenous knowledge."
-anabranch_t9_cite: "Wynants 2026, sections 'From ten initiatives to fifty-two' and 'Could this experiment travel?'"
+anabranch_t9_says: "(c) Reports 52 Flemish commons opening on one day and proposes networked local Open Commons Days; (b) notes 6.4/10 satisfaction and visibility's limits."
+anabranch_t9_cite: "Wynants 2026, sections 'What did the experiment achieve?' and 'A movement cannot be built through visibility alone'"
 anabranch_t9_grade: "[TBV]"
 anabranch_t9_basis: "text"
 ---

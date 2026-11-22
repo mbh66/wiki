@@ -23,7 +23,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "6. Cultural and historical theorists"
 grid_steps: ["A2", "A3", "B3", "C2"]
@@ -49,8 +49,8 @@ grid_c2_grade: "[IC]"
 grid_c2_basis: "review"
 anabranch_steps: ["T7"]
 anabranch_t7: "qualifies"
-anabranch_t7_says: "Proposes an Axial Age when people became conscious of being as a whole and of themselves; speaks to part (a), the split, only."
-anabranch_t7_cite: "The Origin and Goal of History (1949), Part One, ch. 1 'The Axial Period'"
+anabranch_t7_says: "(a) Dates the turn to reflective, universal thought to the Axial Age, the spiritual process between 800 and 200 BC."
+anabranch_t7_cite: "The Origin and Goal of History (1949), Part One, p. 1 (Bullock trans.)"
 anabranch_t7_grade: "[TBV]"
 anabranch_t7_basis: "summary"
 ---

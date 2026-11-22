@@ -6,21 +6,38 @@ year: 1995
 type: "essay"
 publisher: "In M. Featherstone, S. Lash and R. Robertson (eds.), Global Modernities, SAGE, pp. 25–44"
 tags: ["source", "glocalization", "globalization"]
+briefs: ["anabranch"]
 subject: ["economics"]
 created: 2026-11-07
-updated: 2026-11-09
+updated: 2026-11-22
 source_project: "BioConomy"
+anabranch_group: "14. Knowledge, abstraction and place"
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Does not take up information arriving by routes that current science has not explained."
+anabranch_t2_cite: "Glocalization (1995), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
+anabranch_t9: "qualifies"
+anabranch_t9_says: "(a) Holds that globalisation produces homogeneity and heterogeneity together, the local made within the global; describes a process with no claim about thriving."
+anabranch_t9_cite: "Robertson 1995, in Global Modernities, pp. 25-44"
+anabranch_t9_grade: "[IC]"
+anabranch_t9_basis: "review"
 ---
 
 Robertson, R. (1995). "Glocalization: Time-Space and Homogeneity-Heterogeneity." In M. Featherstone, S. Lash & R. Robertson (eds.), *Global Modernities* (pp. 25–44). London: SAGE.
 
 The chapter that brought "glocalization" into social theory. Robertson argues that treating globalization as a force for uniformity is a misreading: the global is produced through local particulars, and the local is itself shaped by global ideas of what a locality is. The wiki takes from Robertson the mutual shaping of global and local, and departs from the business sense of the word that grew up alongside his. On this site glocalization names an economic form in which governance sits in the place and the global layer serves it. Robertson's chapter (p. 28) quotes the *[[sources/tulloch-oxford-dictionary-of-new-words|Oxford Dictionary of New Words]]* entry that traces the word to the Japanese *dochakuka*.
 
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T9.
+
 ## Cited by
 
 - [[concepts/glocalization|Glocalization]]
 - [[glossary/f-l/glocalization|Glocalization (glossary)]]
 - [[research/glocalization-and-the-evolution-of-production|Glocalization and the Evolution of Production]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

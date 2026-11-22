@@ -8,7 +8,7 @@ first_defined_in: "V2_Mycelial_Thesis.md"
 related_terms: ["mycelial-consciousness", "first-tier", "major-evolutionary-transitions"]
 source_project: "BioConomy"
 created: 2026-11-19
-updated: 2026-10-30
+updated: 2026-11-22
 ---
 
 The form of consciousness that privileges analytical, perspectival, individual intelligence applied to commodified labor, corresponding to Gebser's mental-rational structure, Graves's First Tier value systems, and Kegan's self-authoring mind.
@@ -16,6 +16,8 @@ The form of consciousness that privileges analytical, perspectival, individual i
 ## Extended Definition
 
 Material Consciousness is the BioConomy corpus's term for the form of awareness that has governed the last several centuries of civilization and produced its characteristic achievements: science, individual rights, market economics, industrial technology. It is the fourth stage in the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]] sequence.
+
+In the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]], Material Consciousness is abstract thinking, which makes knowledge general and measurable so that it can travel. It branched away from grounded, place-based thinking, [[glossary/m-s/municipal-consciousness|Municipal Consciousness]], at the [[glossary/a-e/bifurcation|Bifurcation]]. During the steep climb of the growth curve it became globalized thinking that pursued growth at any cost [MS].
 
 The defining capacity of Material Consciousness is perspective: the ability to stand outside nature, outside tradition, and outside the group, to analyze, abstract, and measure. This capacity makes possible the commodification of land, labor, and money that Karl Polanyi identified as the structural foundation of the market economy.
 

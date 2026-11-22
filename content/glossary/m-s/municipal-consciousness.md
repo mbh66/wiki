@@ -8,13 +8,13 @@ first_defined_in: "Michael Haupt, Anabranch thesis (21 November 2026)"
 related_terms: ["material-consciousness", "mycelial-consciousness", "anabranch", "bifurcation", "confluence", "municipality", "indigenous-knowledge"]
 source_project: "BioConomy"
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-22
 epistemic_status: "working-hypothesis"
 ---
 
 In the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]], Municipal Consciousness is grounded, place-based thinking: knowledge held in relationship with a particular place and tested against what that place can bear [MS].
 
-It is the main channel of the [[glossary/a-e/anabranch|Anabranch]]. At the [[glossary/a-e/bifurcation|Bifurcation]], about 12,000 years ago, [[glossary/m-s/material-consciousness|Material Consciousness]] branched away from it. Municipal Consciousness carried on beside it. At the [[glossary/a-e/confluence|Confluence]] the two learn to work side by side, and their braid is [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] [MS].
+It is the main channel of the [[glossary/a-e/anabranch|Anabranch]]. At the [[glossary/a-e/bifurcation|Bifurcation]], from the Neolithic about 12,000 years ago through writing, the early state and the scientific revolution, [[glossary/m-s/material-consciousness|Material Consciousness]] branched away from it. Municipal Consciousness carried on beside it. At the [[glossary/a-e/confluence|Confluence]] the two learn to work side by side, and their braid is [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] [MS].
 
 ## Where the name comes from
 
@@ -62,7 +62,7 @@ The word has an urban, Roman history. The thesis uses it for a way of thinking f
 
 ## Provenance
 
-Written on 21 November 2026, when Michael Haupt renamed the main channel of the Anabranch thesis. The research runs of 19 to 21 November had found that the evidence fits a split between place-based and abstract, portable knowledge better than one between Indigenous Knowledge Systems and Material Consciousness. Michael named the place-based channel Municipal Consciousness and asked for an entry giving the word's history [MS]. The etymology rests on the Online Etymology Dictionary, Lewis and Short, and Pinsent (1954). Esposito (2009) is cited for the reading of community as *cum munus*. The volume number of Pinsent's article was not confirmed.
+Written on 21 November 2026, when Michael Haupt renamed the main channel of the Anabranch thesis. The research runs of 19 to 21 November had found that the evidence fits a split between place-based and abstract, portable knowledge better than one between Indigenous Knowledge Systems and Material Consciousness. Michael named the place-based channel Municipal Consciousness and asked for an entry giving the word's history [MS]. The etymology rests on the Online Etymology Dictionary, Lewis and Short, and Pinsent (1954). Esposito (2009) is cited for the reading of community as *cum munus*. The volume number of Pinsent's article was not confirmed. On 22 November 2026 the dating of the Bifurcation changed to match the new wording of step T7, and the name Golden Thread, which the thesis used for the main channel before this entry, was retired.
 
 <script type="application/ld+json">
 {

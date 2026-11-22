@@ -7,10 +7,23 @@ type: "essay"
 publisher: "P2P Foundation"
 url: "https://blog.p2pfoundation.net/"
 tags: ["source", "p4p", "regenerative-economics", "bioregional-economics"]
+briefs: ["anabranch"]
 subject: ["economics", "coordination"]
 created: 2026-08-25
-updated: 2026-11-09
+updated: 2026-11-22
 source_project: "BioConomy"
+anabranch_group: "15. Commons, peer production and cosmo-localism"
+anabranch_steps: ["T2", "T9"]
+anabranch_t2: "silent"
+anabranch_t2_says: "Does not take up information arriving by routes that current science has not explained."
+anabranch_t2_cite: "Peer FOR Peer (2026), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
+anabranch_t9: "affirms"
+anabranch_t9_says: "(a, c) Describes knowledge shared globally and production regenerative in place, coordinated through bioregions and P4P federation; (b) expects regeneration, calling seed forms still marginal."
+anabranch_t9_cite: "Bauwens 2026, 'Understanding the importance of the P4P moment in the long evolution of the commons', sections on cosmo-localism, the bioregion and federation"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "text"
 ---
 
 Bauwens, M. (2026). "Peer FOR Peer: The Emerging Third Attractor." P2P Foundation, August 2026.
@@ -22,11 +35,15 @@ Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a
 - [Bauwens — PDF 1](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2F6QTd0Z2ieg.pdf?alt=media&token=8733019f-5dac-49e0-bdd8-33b2905c7050)
 - [Bauwens — PDF 2](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2FxvIilCnEyz.pdf?alt=media&token=a028b3e3-f4d2-4a3c-8044-7bb81f909c12)
 
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T9.
+
 ## Cited by
 
 - [[concepts/bioregional-economics|Bioregional Economics]]
 - [[bauwens-michel|Michel Bauwens]]
 - [[p4p-peer-for-peer|P4P (Peer FOR Peer) (glossary)]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

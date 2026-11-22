@@ -16,7 +16,7 @@ standing: "Cited with Roher and colleagues (2021) on the uneven use of the princ
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
 anabranch_steps: ["T2", "T9"]
@@ -26,8 +26,8 @@ anabranch_t2_cite: "Using Two-Eyed Seeing in Research With Indigenous People (20
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t9: "qualifies"
-anabranch_t9_says: "Reports that research applying Two-Eyed Seeing describes the joining of knowledges vaguely."
-anabranch_t9_cite: "IJQM 18, abstract"
+anabranch_t9_says: "(a) Reviews 37 articles using Two-Eyed Seeing to join Indigenous and Western ways of knowing; finds application vague and inconsistent."
+anabranch_t9_cite: "Wright et al. 2019, Int J Qual Methods 18; abstract"
 anabranch_t9_grade: "[IC]"
 anabranch_t9_basis: "abstract"
 ---

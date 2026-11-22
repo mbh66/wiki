@@ -15,7 +15,7 @@ standing: "Widely cited in co-management research; the US National Park Service 
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
 anabranch_steps: ["T2", "T9"]
@@ -25,8 +25,8 @@ anabranch_t2_cite: "The Politics of TEK (1999), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t9: "dissents"
-anabranch_t9_says: "Argues that joining traditional knowledge to science forces it into bureaucratic forms and moves power away from its holders."
-anabranch_t9_cite: "Arctic Anthropology 36(1-2) (1999), 1-18, abstract"
+anabranch_t9_says: "(a, b) Argues that integrating traditional knowledge into state management treats it as data and concentrates power in administrative centres."
+anabranch_t9_cite: "Nadasdy 1999, Arctic Anthropology 36(1/2): 1-18; abstract"
 anabranch_t9_grade: "[IC]"
 anabranch_t9_basis: "abstract"
 ---

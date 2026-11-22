@@ -1,6 +1,6 @@
 ---
 title: "T8. The Noosphere near the top of the curve"
-description: "Step T8 of the Anabranch thesis: the claim that as growth reaches its limits individuals draw on the Noosphere, and the evidence it rests on."
+description: "Step T8 of the Anabranch thesis: the claim that, as growth pursued at any cost meets its limits, the individual can learn to draw on the wisdom of the universe, and the evidence it rests on."
 aliases: ["step T8", "Anabranch T8"]
 tags: ["research", "evolution-of-consciousness", "anabranch", "anabranch-step"]
 anabranch_step: "T8"
@@ -8,20 +8,20 @@ step_order: 8
 step_part: "The Anabranch"
 short: "Where growth slows"
 connector: "so"
-claim: "As we reach the [[sources/meadows-limits-to-growth|limits to growth]], where the [[glossary/m-s/s-curve|S-curve]] levels off, the individual learns to draw on the [[glossary/m-s/noosphere|Noosphere]], the wisdom of the universe, to grow towards wholeness."
+claim: "As growth pursued at any cost meets its [[sources/meadows-limits-to-growth|limits]], where the [[glossary/m-s/s-curve|S-curve]] levels off, the thesis holds, in its own reading of Teilhard's [[glossary/m-s/noosphere|Noosphere]], that the individual can learn to draw on the wisdom of the universe to grow towards wholeness."
 evidence_type: "Argument and tradition"
 status: "partial"
 crosswalk: "C3"
 crosswalk_also: ["C4"]
-note: "Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic. Smil holds that growth must level off and warns against placing a system on its curve from past fits, which qualifies the step; no source places the Noosphere at a point on the curve. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it. Schmachtenberger calls for collective sensemaking with no Noosphere and no curve, and The Limits to Growth (1972) and Tainter (1988) treat limits and collapse with no claim about consciousness; all three qualify the step. Simard, Karst and Yunkaporta are silent on it. Four positions are still copied from C3."
+note: "All 16 sources on this step are now coded directly against the wording of 22 November 2026: 1 affirms, 10 qualify, 1 dissents and 4 are silent. On part (a), three works make the charge of growth pursued regardless of its costs in their own terms: Sahtouris (EarthDance, ch. 20), The Limits to Growth and Schmachtenberger (2022). Smil (2019), Tainter (1988), Modis (2002) and Korotayev (2020) hold that growth levels off, or meets declining returns, without that charge. The Limits to Growth allows overshoot and collapse as well as a smooth levelling. On part (b), no source places the Noosphere at a point on the curve. Teilhard (1955) and Vernadsky (1945) describe a collective sphere of thought, and neither has an individual drawing on it. Bache (2019) affirms: he describes individual contact with a mind of the universe, read here only from the publisher's description. Medawar's review of Teilhard (1961) dissents. The wording now states the reading of the Noosphere as the thesis's own. Levin (2022), Simard, Karst and Yunkaporta are silent on the step. The strongest qualifying work is The Limits to Growth; the strongest dissent is Medawar (1961)."
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 source_documents: ["Michael Haupt, Anabranch thesis (19 November 2026)"]
 epistemic_status: "working-hypothesis"
 ---
 
-As we reach the [[sources/meadows-limits-to-growth|limits to growth]], where the [[glossary/m-s/s-curve|S-curve]] levels off, the individual learns to draw on the [[glossary/m-s/noosphere|Noosphere]], the wisdom of the universe, to grow towards wholeness.
+As growth pursued at any cost meets its [[sources/meadows-limits-to-growth|limits]], where the [[glossary/m-s/s-curve|S-curve]] levels off, the thesis holds, in its own reading of Teilhard's [[glossary/m-s/noosphere|Noosphere]], that the individual can learn to draw on the wisdom of the universe to grow towards wholeness.
 
 This is step T8 of the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]], Michael Haupt's position [MS], in the part headed "The Anabranch". The connecting word from the step before is *so*.
 
@@ -31,11 +31,11 @@ Evidence type: Argument and tradition
 
 Partly coded: a grid step covers part of the claim.
 
-Drawn from grid step C3, networked collective intelligence, which carries Teilhard's noosphere and Medawar's critique of it. C4 records how the current structure resists. Modis reads the long series of complexity as logistic and Korotayev as hyperbolic. Smil holds that growth must level off and warns against placing a system on its curve from past fits, which qualifies the step; no source places the Noosphere at a point on the curve. Vernadsky's essay of 1945, the first English statement of the noosphere, describes a geochemical stage brought about by science and labour, with no curve and no individual drawing on it. Schmachtenberger calls for collective sensemaking with no Noosphere and no curve, and The Limits to Growth (1972) and Tainter (1988) treat limits and collapse with no claim about consciousness; all three qualify the step. Simard, Karst and Yunkaporta are silent on it. Four positions are still copied from C3.
+All 16 sources on this step are now coded directly against the wording of 22 November 2026: 1 affirms, 10 qualify, 1 dissents and 4 are silent. On part (a), three works make the charge of growth pursued regardless of its costs in their own terms: Sahtouris (EarthDance, ch. 20), The Limits to Growth and Schmachtenberger (2022). Smil (2019), Tainter (1988), Modis (2002) and Korotayev (2020) hold that growth levels off, or meets declining returns, without that charge. The Limits to Growth allows overshoot and collapse as well as a smooth levelling. On part (b), no source places the Noosphere at a point on the curve. Teilhard (1955) and Vernadsky (1945) describe a collective sphere of thought, and neither has an individual drawing on it. Bache (2019) affirms: he describes individual contact with a mind of the universe, read here only from the publisher's description. Medawar's review of Teilhard (1961) dissents. The wording now states the reading of the Noosphere as the thesis's own. Levin (2022), Simard, Karst and Yunkaporta are silent on the step. The strongest qualifying work is The Limits to Growth; the strongest dissent is Medawar (1961).
 
 ## Where the sources stand
 
-Until a research run checks each source against this wording, the positions on this step are taken from [[research/evolution-of-consciousness/steps/c3-networked-collective-intelligence|grid step C3]] of the [[research/evolution-of-consciousness/grid|evolution of consciousness grid]].
+Every source on this step is now coded directly against its wording. A source added to the [[research/evolution-of-consciousness/grid|evolution of consciousness grid]] later shows its position on [[research/evolution-of-consciousness/steps/c3-networked-collective-intelligence|grid step C3]] here until it is checked.
 
 Also relevant: [[research/evolution-of-consciousness/steps/c4-the-current-structure-resists-it|grid step C4]].
 
@@ -49,4 +49,4 @@ The current positions, source by source, are on the [Anabranch site](https://ana
 
 ## Provenance
 
-Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged. On 20 November 2026 the note was revised after the Run 3 recodes agreed in its hand-back were filed; the wording is unchanged. On 20 November 2026 the wording changed at Michael Haupt's decision, after Anabranch Run 3; it read "As we near the top of the S-curve".
+Written on 19 November 2026 from Michael Haupt's statement of the Anabranch thesis [MS]. The wording is his. The evidence type, status and grid crosswalk are working codes set when the thesis was mapped onto the grid, and a research run will revise them. On 20 November 2026 the note was revised after Anabranch Run 3c; the wording is unchanged. On 20 November 2026 the note was revised after the Run 3 recodes agreed in its hand-back were filed; the wording is unchanged. On 20 November 2026 the wording changed at Michael Haupt's decision, after Anabranch Run 3; it read "As we near the top of the S-curve". On 22 November 2026 the wording changed again at Michael Haupt's decision, after Anabranch run 6b; it read "As we reach the limits to growth, where the S-curve levels off, the individual learns to draw on the Noosphere, the wisdom of the universe, to grow towards wholeness." The new wording is the one run 6b proposed, because no source in print places the Noosphere on a growth curve. The note was revised after run 6b.

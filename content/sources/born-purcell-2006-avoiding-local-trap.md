@@ -16,7 +16,7 @@ standing: "Carries the local trap critique of Purcell and Brown (2005) into food
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
 anabranch_steps: ["T2", "T9"]
@@ -26,8 +26,8 @@ anabranch_t2_cite: "Avoiding the Local Trap (2006), whole work; chapter not chec
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t9: "dissents"
-anabranch_t9_says: "Argues against the local trap: no scale is inherently more sustainable or just; scale is a strategy of actors."
-anabranch_t9_cite: "Journal of Planning Education and Research 26(2), p. 195"
+anabranch_t9_says: "(b) Argues no scale is inherently better; local food systems are as likely to be just or unjust as larger ones."
+anabranch_t9_cite: "Born and Purcell 2006, JPER 26(2): 195-207; pp. 195-196"
 anabranch_t9_grade: "[IC]"
 anabranch_t9_basis: "text"
 ---

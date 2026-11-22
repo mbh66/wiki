@@ -1,5 +1,5 @@
 /* Anabranch. Palette from a Western Cape tannin river: quartz sand,
-   fynbos shadow, tea-dark water, and the Golden Thread. */
+   fynbos shadow, tea-dark water, and the main channel. */
 :root {
   --sand: #edefea;
   --paper: #f7f8f5;
@@ -220,13 +220,13 @@ p {
   }
   /* The whole river draws in sequence; times are set by
      private/evolution-of-consciousness/tools/anabranch-river.py.
-     The Golden Thread runs slowly in from the left, past the Mimetic, Magical
+     The main channel runs slowly in from the left, past the Mimetic, Magical
      and Mythic markers, and reaches the Bifurcation at 4.8s. */
   .stream-thread-early {
     animation: branch 4.5s linear 0.3s both;
   }
   /* From the Bifurcation, Material Consciousness traces its S-curve and the
-     Golden Thread runs beside it, in step: both reach the Confluence at 11.6s. */
+     main channel runs beside it, in step: both reach the Confluence at 11.6s. */
   .stream-material,
   .stream-thread-anabranch {
     animation: s-curve 6.8s linear 4.8s both;

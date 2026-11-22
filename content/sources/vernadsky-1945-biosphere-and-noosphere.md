@@ -14,7 +14,7 @@ standing: "The first English statement of Vernadsky's noosphere; historians stre
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
 anabranch_steps: ["T2", "T8"]
@@ -24,8 +24,8 @@ anabranch_t2_cite: "The Biosphere and the Noösphere (1945), whole work; chapter
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t8: "qualifies"
-anabranch_t8_says: "Holds that the biosphere is passing into a noosphere, a geological stage driven by scientific thought; names no growth curve or individual drawing on it."
-anabranch_t8_cite: "The Biosphere and the Noösphere, American Scientist 33(1) (January 1945): 1-12, p. 10, as cited in Oldfield and Shaw (2006)"
+anabranch_t8_says: "(b) Describes the Noosphere as a new state of the biosphere shaped by scientific reason; collective, with no growth curve."
+anabranch_t8_cite: "American Scientist 33(1) (1945): 1-12"
 anabranch_t8_grade: "[IC]"
 anabranch_t8_basis: "review"
 ---

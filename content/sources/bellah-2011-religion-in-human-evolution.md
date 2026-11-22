@@ -8,7 +8,7 @@ publisher: "Belknap Press of Harvard University Press"
 doi: "10.4159/harvard.9780674063099"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
 discipline: "sociology of religion"
 design: "E3"
@@ -22,7 +22,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "3. Cognitive archaeology and the history of mind"
 grid_steps: ["A2", "A3", "C1"]
@@ -41,6 +41,12 @@ grid_c1_says: "Holds that earlier capacities such as ritual and narrative persis
 grid_c1_cite: "Religion in Human Evolution (2011), the recurring claim that nothing is ever lost; the concession that much of the past is lost as quoted by Xiao, location not confirmed"
 grid_c1_grade: "[IC]"
 grid_c1_basis: "review"
+anabranch_steps: ["T7"]
+anabranch_t7: "qualifies"
+anabranch_t7_says: "(a) Dates theoretic culture to the Axial Age, first millennium BCE; (b) earlier mimetic and mythic culture remain."
+anabranch_t7_cite: "Religion in Human Evolution (2011), p. 13; p. 272"
+anabranch_t7_grade: "[IC]"
+anabranch_t7_basis: "review"
 ---
 
 Robert N. Bellah (2011). *Religion in Human Evolution: From the Paleolithic to the Axial Age*. Belknap Press of Harvard University Press. DOI: [10.4159/harvard.9780674063099](https://doi.org/10.4159/harvard.9780674063099).
@@ -51,12 +57,16 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 
 Glossary: [[glossary/a-e/axial-age|Axial Age]].
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2; it qualifies A3 and C1.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 
 <script type="application/ld+json">
 {

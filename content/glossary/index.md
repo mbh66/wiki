@@ -470,6 +470,9 @@ Written 27 August 2026 as the landing page for the glossary folder. The full lis
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/monoform/"
     },
     {
+      "@id": "https://wiki.bioconomy.earth/glossary/m-s/municipal-consciousness/"
+    },
+    {
       "@id": "https://wiki.bioconomy.earth/glossary/m-s/municipality/"
     },
     {
