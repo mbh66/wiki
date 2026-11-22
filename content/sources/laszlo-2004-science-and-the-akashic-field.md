@@ -22,7 +22,7 @@ standing: "Outside mainstream physics; library catalogues class it under Akashic
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["B3", "H", "H2"]
@@ -41,7 +41,12 @@ grid_h2_says: "Proposes an Akashic in-formation field that conserves and conveys
 grid_h2_cite: "Science and the Akashic Field (2004), chapter not confirmed; the publisher's excerpt is labelled as from ch. 4, 'The Crucial Science Fable: In-formation in Nature'"
 grid_h2_grade: "[IC]"
 grid_h2_basis: "abstract"
-anabranch_steps: ["T2", "T3"]
+anabranch_steps: ["T1", "T2", "T3", "T4"]
+anabranch_t1: "qualifies"
+anabranch_t1_says: "Holds that cosmic consciousness fills the A-field and experience is conserved there; holds that individuals themselves are not immortal."
+anabranch_t1_cite: "Science and the Akashic Field (2004), ch. 8, 'Consciousness: Human and Cosmic', section 'Immortality and reincarnation', p. 161"
+anabranch_t1_grade: "[IC]"
+anabranch_t1_basis: "review"
 anabranch_t2: "affirms"
 anabranch_t2_says: "Proposes an Akashic in-formation field that conserves and conveys information, linking one person's consciousness with another's mind and body."
 anabranch_t2_cite: "Science and the Akashic Field (2004), chapter not confirmed; the publisher's excerpt is labelled as from ch. 4, 'The Crucial Science Fable: In-formation in Nature'"
@@ -52,6 +57,11 @@ anabranch_t3_says: "Holds that a quantum-vacuum information field conserves all 
 anabranch_t3_cite: "Science and the Akashic Field (2004), chapter not checked"
 anabranch_t3_grade: "[TBV]"
 anabranch_t3_basis: "review"
+anabranch_t4: "affirms"
+anabranch_t4_says: "Describes the quantum-vacuum A-field evolving towards coherence and a self-realised cosmic mind; names it the self-realised Mind of God."
+anabranch_t4_cite: "Science and the Akashic Field (2004), chapter not confirmed"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "review"
 ---
 
 Ervin Laszlo (2004). *Science and the Akashic Field: An Integral Theory of Everything*. Inner Traditions, Rochester, Vermont; updated second edition 2007.
@@ -62,7 +72,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T2; it qualifies T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it affirms T2; it qualifies T3; it affirms T4.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3 and H2; it qualifies H.
 
@@ -72,6 +82,8 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 
 <script type="application/ld+json">
 {

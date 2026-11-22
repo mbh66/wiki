@@ -19,7 +19,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["B3"]
@@ -28,7 +28,12 @@ grid_b3_says: "Argues apparent progress is spread away from a wall of minimal co
 grid_b3_cite: "Full House (1996), Part Four"
 grid_b3_grade: "[IC]"
 grid_b3_basis: "review"
-anabranch_steps: ["T6"]
+anabranch_steps: ["T4", "T6"]
+anabranch_t4: "qualifies"
+anabranch_t4_says: "Reads the rise of complexity in life as passive drift from a left wall; allows cultural evolution an active, progressive trend."
+anabranch_t4_cite: "Full House (1996), the left-wall argument (p. 200) and the closing discussion of cultural evolution"
+anabranch_t4_grade: "[IC]"
+anabranch_t4_basis: "review"
 anabranch_t6: "dissents"
 anabranch_t6_says: "Argues apparent progress in evolution is variation spreading from a wall of minimal complexity, with no drive or direction."
 anabranch_t6_cite: "Full House (1996), Part Four 'The Modal Bacter: Why Progress Does not Rule the History of Life'"
@@ -43,7 +48,7 @@ Stephen Jay Gould, a palaeontologist and historian of science, uses the disappea
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in palaeontology, with evidence type E3 and claim codes B3.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T6.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T4; it dissents on T6.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from B3.
 
@@ -52,6 +57,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 
 <script type="application/ld+json">
 {

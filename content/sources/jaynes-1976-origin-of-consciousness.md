@@ -22,7 +22,7 @@ standing: "Block (1981) objected; Jaynes Society replies; specialist rejection o
 on_seed_list: "yes"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "3. Cognitive archaeology and the history of mind"
 grid_steps: ["A2", "A3", "C1", "H"]
@@ -46,12 +46,17 @@ grid_h_says: "Treats consciousness as learned through language and metaphor."
 grid_h_cite: "The Origin of Consciousness (1976), Book I"
 grid_h_grade: "[IC]"
 grid_h_basis: "review"
-anabranch_steps: ["T1", "T7"]
+anabranch_steps: ["T1", "T3", "T7"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Treats introspective consciousness as learned through language and run by the brain, a production account that leaves nothing beyond the body."
 anabranch_t1_cite: "The Origin of Consciousness (1976), Book I 'The Mind of Man' (inference)"
 anabranch_t1_grade: "[TBV]"
 anabranch_t1_basis: "abstract"
+anabranch_t3: "dissents"
+anabranch_t3_says: "Treats consciousness as a learned, language-based operation of the brain, with no filter (inference)."
+anabranch_t3_cite: "The Origin of Consciousness (1976), Book I"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Describes a change from a bicameral mentality to introspective consciousness about 3,000 years ago; speaks to part (a), the split, only."
 anabranch_t7_cite: "The Origin of Consciousness (1976), Book I 'The Mind of Man' and Book II 'The Witness of History'"
@@ -71,7 +76,7 @@ Glossary: [[glossary/a-e/bicameral-mind|Bicameral Mind]].
 
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it dissents on T3; it qualifies T7.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2 and A3; it qualifies C1; it dissents from H.
 
@@ -81,6 +86,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 
 <script type="application/ld+json">
 {

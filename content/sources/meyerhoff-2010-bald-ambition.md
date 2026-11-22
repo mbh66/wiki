@@ -8,7 +8,7 @@ publisher: "Inside the Curtain Press; foreword by Frank Visser"
 url: "https://www.integralworld.net/meyerhoff-ba-1b.html"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "critic"
 discipline: "philosophy"
 design: "E4"
@@ -21,7 +21,7 @@ standing: "Read in integral circles as a thorough critique of Wilber; small pres
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "9. Critics of the sequence"
 grid_steps: ["B3", "C1"]
@@ -35,6 +35,12 @@ grid_c1_says: "Argues that earlier wholes are often destroyed, as tribal and vil
 grid_c1_cite: "Bald Ambition (2010), ch. 1, section B"
 grid_c1_grade: "[IC]"
 grid_c1_basis: "text"
+anabranch_steps: ["T4"]
+anabranch_t4: "dissents"
+anabranch_t4_says: "Argues that Wilber's Eros is an unsupported skyhook and that evolution needs no spiritual drive."
+anabranch_t4_cite: "Bald Ambition (2010), ch. 1B, 'The Twenty Tenets'"
+anabranch_t4_grade: "[IC]"
+anabranch_t4_basis: "text"
 ---
 
 Meyerhoff, J. (2010). *Bald Ambition: A Critique of Ken Wilber's Theory of Everything*. Inside the Curtain Press.
@@ -43,12 +49,16 @@ Jeff Meyerhoff tests Ken Wilber's twenty tenets against the sources Wilber cites
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a critic in philosophy, with evidence type E4 and claim codes B3, C1.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T4.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it dissents from B3 and C1.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 
 <script type="application/ld+json">
 {

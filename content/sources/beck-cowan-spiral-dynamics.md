@@ -8,7 +8,7 @@ publisher: "Blackwell Publishers"
 tags: ["source", "consciousness", "development", "psychology", "values", "evolution-of-consciousness", "anabranch"]
 subject: ["economics", "consciousness"]
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
@@ -58,7 +58,7 @@ grid_c4_says: "Holds that first-tier value systems resist second-tier thinking."
 grid_c4_cite: "Spiral Dynamics (1996), Section 2 'The Dynamics of the Spiral's vMEMEs', ch. 4 'Change and the Spiral' (p. 71) (inference)"
 grid_c4_grade: "[TBV]"
 grid_c4_basis: "summary"
-anabranch_steps: ["T4", "T5"]
+anabranch_steps: ["T4", "T5", "T6"]
 anabranch_t4: "qualifies"
 anabranch_t4_says: "Describes stages of human value systems, with no claim that the universe itself strives."
 anabranch_t4_cite: "Spiral Dynamics (1996), chapter not checked"
@@ -69,6 +69,11 @@ anabranch_t5_says: "Presents value systems that people move through, and makes n
 anabranch_t5_cite: "Spiral Dynamics (1996), Section 1 'Overview of Spiral Dynamics', chs 1 to 3"
 anabranch_t5_grade: "[TBV]"
 anabranch_t5_basis: "summary"
+anabranch_t6: "affirms"
+anabranch_t6_says: "(a) Holds that value systems emerge in an open-ended spiral; (b) describes second-tier systems as integrative and holistic."
+anabranch_t6_cite: "Spiral Dynamics (1996), Section 1, ch. 1 'Different Times Produce Different Minds'"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
 ---
 
 Beck, D.E. & Cowan, C.C. (1996). *Spiral Dynamics: Mastering Values, Leadership, and Change.* Blackwell Publishers. ISBN: 978-1-55786-940-6.
@@ -81,7 +86,7 @@ The corpus draws on Spiral Dynamics mainly through Graves's original research, a
 
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T4; it qualifies T5.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T4; it qualifies T5; it affirms T6.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B1, B2, B3, C1, C2 and C4.
 
@@ -95,6 +100,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 
 <script type="application/ld+json">
 {

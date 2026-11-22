@@ -1,49 +1,33 @@
 ---
 title: "Peer FOR Peer: The Emerging Third Attractor"
-description: "Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of regenerative projects."
+description: "A planned work by Michel Bauwens, with no published text as of November 2026: his articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of regenerative projects."
 author: "Michel Bauwens"
 year: 2026
 type: "essay"
 publisher: "P2P Foundation"
 url: "https://blog.p2pfoundation.net/"
 tags: ["source", "p4p", "regenerative-economics", "bioregional-economics"]
-briefs: ["anabranch"]
 subject: ["economics", "coordination"]
 created: 2026-08-25
 updated: 2026-11-22
 source_project: "BioConomy"
-anabranch_group: "15. Commons, peer production and cosmo-localism"
-anabranch_steps: ["T2", "T9"]
-anabranch_t2: "silent"
-anabranch_t2_says: "Does not take up information arriving by routes that current science has not explained."
-anabranch_t2_cite: "Peer FOR Peer (2026), whole work; chapter not checked"
-anabranch_t2_grade: "[TBV]"
-anabranch_t2_basis: "summary"
-anabranch_t9: "affirms"
-anabranch_t9_says: "(a, c) Describes knowledge shared globally and production regenerative in place, coordinated through bioregions and P4P federation; (b) expects regeneration, calling seed forms still marginal."
-anabranch_t9_cite: "Bauwens 2026, 'Understanding the importance of the P4P moment in the long evolution of the commons', sections on cosmo-localism, the bioregion and federation"
-anabranch_t9_grade: "[TBV]"
-anabranch_t9_basis: "text"
 ---
 
-Bauwens, M. (2026). "Peer FOR Peer: The Emerging Third Attractor." P2P Foundation, August 2026.
+Bauwens, M. (forthcoming). "Peer FOR Peer: The Emerging Third Attractor." P2P Foundation.
 
-Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of [[regenerative|regenerative]] projects. The essay names the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] framing and reads the wider bioregional and regenerative movement as a converging third attractor alongside states and markets.
+As planned, the work sets out a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of [[regenerative|regenerative]] projects. The work is to name the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] framing and to read the wider bioregional and regenerative movement as a converging third attractor alongside states and markets.
 
-## Digital library
+## Status of the text
 
-- [Bauwens — PDF 1](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2F6QTd0Z2ieg.pdf?alt=media&token=8733019f-5dac-49e0-bdd8-33b2905c7050)
-- [Bauwens — PDF 2](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMichaelHaupt%2FxvIilCnEyz.pdf?alt=media&token=a028b3e3-f4d2-4a3c-8044-7bb81f909c12)
+No text of this work had been published as of 22 November 2026, at Michael Haupt's confirmation. The page records the work as planned, so it carries no positions in the evolution of consciousness research. Bauwens's published statement of the P4P moment is [[sources/bauwens-2026-p4p-moment|"Understanding the importance of the P4P moment in the long evolution of the commons" (2026)]], which the Anabranch research codes.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T9.
+The two PDFs once listed here are other works by Bauwens: [[sources/bauwens-2005-p2p-and-human-evolution|*P2P and Human Evolution* (2005)]] and [[sources/bauwens-pazaitis-p2p-accounting|*P2P Accounting for Planetary Survival* (2019, with Pazaitis)]].
 
 ## Cited by
 
-- [[concepts/bioregional-economics|Bioregional Economics]]
 - [[bauwens-michel|Michel Bauwens]]
 - [[p4p-peer-for-peer|P4P (Peer FOR Peer) (glossary)]]
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
-- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[sources/bauwens-2026-p4p-moment|Bauwens, Understanding the importance of the P4P moment (2026)]]
 
 <script type="application/ld+json">
 {
@@ -55,7 +39,6 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
     "@type": "Person",
     "name": "Michel Bauwens"
   },
-  "datePublished": "2026",
   "publisher": {
     "@type": "Organization",
     "name": "P2P Foundation"
@@ -67,7 +50,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
       "@type": "Person",
       "name": "Michael Haupt"
     },
-    "reviewBody": "Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of regenerative projects. The essay names the Archipelago of Regenerative Projects framing and reads the wider bioregional and regenerative movement as a converging third attractor alongside states and markets."
+    "reviewBody": "Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of regenerative projects. The work is to name the Archipelago of Regenerative Projects framing and to read the wider bioregional and regenerative movement as a converging third attractor alongside states and markets."
   }
 }
 </script>

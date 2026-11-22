@@ -74,7 +74,7 @@ The Mycelial Coordination framework is a working hypothesis. It is grounded in t
 
 - Ronfeldt, D. (1996). *[[sources/ronfeldt-timn|Tribes, Institutions, Markets, Networks]]*
 - Ronfeldt, D. (2025). *Rethinking What 'Tribes' and 'Networks' Are Good For* (Substack series).
-- Bauwens, M. (2026). *[[sources/bauwens-peer-for-peer|Understanding the Importance of the P4P Moment]]*
+- Bauwens, M. (2026). *[[sources/bauwens-2026-p4p-moment|Understanding the Importance of the P4P Moment]]*
 - Gladek, E. et al. (2026). *[[sources/gladek-metabolic-biohubs|BioHubs: A Pathway to Regional Resilience]]*
 
 ## Provenance

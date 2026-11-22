@@ -40,12 +40,17 @@ grid_h_says: "Takes a middle way that denies both a fixed objective world and a 
 grid_h_cite: "The Embodied Mind (1991), Part V 'Worlds without Ground', ch. 10 'The Middle Way'"
 grid_h_grade: "[IC]"
 grid_h_basis: "abstract"
-anabranch_steps: ["T1", "T7"]
+anabranch_steps: ["T1", "T3", "T7"]
 anabranch_t1: "silent"
 anabranch_t1_says: "Joins cognitive science and Buddhist practice in an enactive account of embodied mind, and does not take up survival beyond the body."
 anabranch_t1_cite: "The Embodied Mind (1991), chapter not checked"
 anabranch_t1_grade: "[TBV]"
 anabranch_t1_basis: "abstract"
+anabranch_t3: "qualifies"
+anabranch_t3_says: "Holds that cognition is enacted through embodied action, outside both the filter model and the production model."
+anabranch_t3_cite: "The Embodied Mind (1991), Part V 'Worlds without Ground', ch. 10 'The Middle Way'"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t7: "silent"
 anabranch_t7_says: "Dates no historical turn; critiques modern cognitivism as a mischaracterisation of always-embodied cognition."
 anabranch_t7_cite: "The Embodied Mind (1991), whole work; chapter not checked"
@@ -62,7 +67,7 @@ How the work is received in its own field is still to be checked [TBV].
 The [[research/evolution-of-consciousness/library|library]] codes it as a context work in cognitive science, with evidence type E3 and claim codes A1, A3, H.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it qualifies T3; it is silent on T7.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A1; it qualifies A3 and H.
 
@@ -72,6 +77,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 
 <script type="application/ld+json">
 {

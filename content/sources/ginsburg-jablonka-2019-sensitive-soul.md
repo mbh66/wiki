@@ -22,7 +22,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "1. Mind and brain science"
 grid_steps: ["A1", "A2", "B3", "H"]
@@ -46,7 +46,7 @@ grid_h_says: "Holds consciousness to be an evolved biological mode of being."
 grid_h_cite: "The Evolution of the Sensitive Soul (2019), Part I, ch. 1 'Goal-Directed Systems: An Evolutionary Approach to Life and Consciousness' and ch. 3 'The Emergentist Consensus: Neurobiological Perspectives'"
 grid_h_grade: "[TBV]"
 grid_h_basis: "review"
-anabranch_steps: ["T1", "T3"]
+anabranch_steps: ["T1", "T3", "T4"]
 anabranch_t1: "dissents"
 anabranch_t1_says: "Holds consciousness to be an evolved biological mode of being, a production account that leaves nothing beyond the body."
 anabranch_t1_cite: "The Evolution of the Sensitive Soul (2019), Part I, ch. 1 'Goal-Directed Systems: An Evolutionary Approach to Life and Consciousness' (p. 5) and ch. 3 'The Emergentist Consensus: Neurobiological Perspectives' (p. 95) (inference)"
@@ -57,6 +57,11 @@ anabranch_t3_says: "Holds consciousness to be an evolved biological mode of bein
 anabranch_t3_cite: "The Evolution of the Sensitive Soul (2019), Part I, ch. 1 'Goal-Directed Systems: An Evolutionary Approach to Life and Consciousness' (p. 5) and ch. 3 'The Emergentist Consensus: Neurobiological Perspectives' (p. 95)"
 anabranch_t3_grade: "[TBV]"
 anabranch_t3_basis: "review"
+anabranch_t4: "qualifies"
+anabranch_t4_says: "Models minimal consciousness arising with unlimited associative learning, as an evolutionary transition; claims no universal striving."
+anabranch_t4_cite: "The Evolution of the Sensitive Soul (2019), 'Introduction to Part II: Major Transitions in the Evolution of the Mind' (p. 241)"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
 ---
 
 Simona Ginsburg, Eva Jablonka (2019). *The Evolution of the Sensitive Soul*. MIT Press.
@@ -69,7 +74,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as an evide
 
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it dissents on T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it dissents on T1; it dissents on T3; it qualifies T4.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A1 and A2; it qualifies B3; it dissents from H.
 
@@ -79,6 +84,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 
 <script type="application/ld+json">
 {

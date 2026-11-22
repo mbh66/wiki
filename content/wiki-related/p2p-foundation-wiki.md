@@ -43,7 +43,7 @@ BioConomy pages that should probably grow explicit links to the P2P Foundation W
 - [[glossary/a-e/cosmo-local-production|Cosmo-local Production]]
 - [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]]
 - [[concepts/mycelial-coordination|Mycelial Coordination]]
-- Bauwens, M. (2026). *[[sources/bauwens-peer-for-peer|Understanding the Importance of the P4P Moment]]*
+- Bauwens, M. (2026). *[[sources/bauwens-2026-p4p-moment|Understanding the Importance of the P4P Moment]]*
 
 ## Provenance
 

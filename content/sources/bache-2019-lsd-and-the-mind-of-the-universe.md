@@ -53,7 +53,7 @@ grid_h2_says: "Reports insights from 73 LSD sessions as communion with the creat
 grid_h2_cite: "LSD and the Mind of the Universe (2019), ch. 6, 'Initiation into the Universe' (sessions 18-24), and ch. 9, 'The Birth of the Future Human'; numbering from a library catalogue"
 grid_h2_grade: "[TBV]"
 grid_h2_basis: "abstract"
-anabranch_steps: ["T1", "T2", "T8"]
+anabranch_steps: ["T1", "T2", "T3", "T4", "T6", "T8"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Holds that reincarnation gives individual consciousness open-ended time to develop."
 anabranch_t1_cite: "LSD and the Mind of the Universe (2019), p. 91, as quoted in a review"
@@ -64,11 +64,26 @@ anabranch_t2_says: "Reports insights from 73 LSD sessions as communion with the 
 anabranch_t2_cite: "LSD and the Mind of the Universe (2019), ch. 6, 'Initiation into the Universe' (sessions 18-24), and ch. 9, 'The Birth of the Future Human'; numbering from a library catalogue"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "abstract"
-anabranch_t8: "affirms"
-anabranch_t8_says: "(b) Describes direct individual contact with a mind of the universe; the link to the Noosphere comes from podcast host Carter Phipps."
-anabranch_t8_cite: "LSD and the Mind of the Universe (2019), chapter not confirmed"
+anabranch_t3: "affirms"
+anabranch_t3_says: "Presents high-dose sessions as access to consciousness beyond the brain's everyday filters; testimony whose source cannot be checked."
+anabranch_t3_cite: "LSD and the Mind of the Universe (2019), chapter not confirmed"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "review"
+anabranch_t4: "affirms"
+anabranch_t4_says: "Reports sessions revealing a Creative Consciousness whose work has universal purpose; names it the mind of the universe; testimony that cannot be checked."
+anabranch_t4_cite: "LSD and the Mind of the Universe (2019), p. 91, as quoted in review"
+anabranch_t4_grade: "[IC]"
+anabranch_t4_basis: "review"
+anabranch_t6: "affirms"
+anabranch_t6_says: "(a) Foresees ecological crisis forcing a collective death and rebirth; (b) foresees an awakening of common ground within us; testimony that cannot be checked."
+anabranch_t6_cite: "LSD and the Mind of the Universe (2019), chapter not confirmed"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "review"
+anabranch_t8: "qualifies"
+anabranch_t8_says: "(b) Describes his sessions moving from personal to collective transformation, the individual dissolving into wider fields of consciousness; testimony that cannot be checked."
+anabranch_t8_cite: "LSD and the Mind of the Universe (2019), ch. 9, 'The Birth of the Future Human'; publisher's excerpt on collective transformation"
 anabranch_t8_grade: "[TBV]"
-anabranch_t8_basis: "abstract"
+anabranch_t8_basis: "text"
 ---
 
 Christopher M. Bache (2019). *LSD and the Mind of the Universe: Diamonds from Heaven*. Park Street Press, Rochester, Vermont; foreword by Ervin Laszlo.
@@ -84,7 +99,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 - Reynolds, B. A Brief Review of Axial Age Teachings: A Response to Chris Bache. *Integral World*: https://integralworld.net/reynolds50.html
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it affirms T8.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it affirms T3; it affirms T4; it affirms T6; it qualifies T8.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3, C2, C3, H and H2.
 
@@ -95,6 +110,9 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 
 <script type="application/ld+json">
 {

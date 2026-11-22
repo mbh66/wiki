@@ -18,12 +18,17 @@ created: 2026-11-22
 updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "15. Commons, peer production and cosmo-localism"
-anabranch_steps: ["T2", "T9"]
+anabranch_steps: ["T2", "T7", "T9"]
 anabranch_t2: "silent"
 anabranch_t2_says: "Does not take up information arriving by routes that current science has not explained."
 anabranch_t2_cite: "P2P and Human Evolution (2005), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
+anabranch_t7: "qualifies"
+anabranch_t7_says: "(a) Ties the subject-object split to modernity and industrial capitalism, grouping the tribal and agrarian eras as premodern; dates the turn late."
+anabranch_t7_cite: "Bauwens 2005, Draft 1.1, section 2.3.A, p. 9; section and page not confirmed in run 7b"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "text"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "(a) Describes peer production as a third mode of production building a global information commons; (b) weighs a hopeful scenario against information feudalism."
 anabranch_t9_cite: "Bauwens 2005, Draft 1.1: section 1.A p. 2; 3.1.A p. 13; 6.1.D p. 48; 7.1.C pp. 53-54"
@@ -37,12 +42,13 @@ Michel Bauwens describes peer to peer as a form of network organisation: free pa
 
 Michel Bauwens supplied the essay's full text for this research, and he is close to the BioConomy network. The essay frames history through a premodern, modern and postmodern triad; the wiki repeats none of its placements.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7; it qualifies T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 
 <script type="application/ld+json">
 {

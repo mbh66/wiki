@@ -12,7 +12,7 @@ subject: ["coordination", "consciousness", "civilization"]
 briefs: ["anabranch"]
 forthcoming: "Pan Tianqun (ed.), *The Rising of the Globe Mind: Refined Readings on the Noosphere*, Jiangsu Renmin Press, 2027"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "7. Metacrisis and the mycelial turn"
 anabranch_steps: ["T2", "T9"]
@@ -22,10 +22,10 @@ anabranch_t2_cite: "Our Planet's Ballooning Noosphere (2026), whole work; chapte
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t9: "qualifies"
-anabranch_t9_says: "Joins geosphere, biosphere and noosphere in one holonic frame at planetary scale, with no grounding in place or Indigenous knowledge."
-anabranch_t9_cite: "Our Planet's Ballooning Noosphere (2026), SSRN abstract"
+anabranch_t9_says: "(a) Joins noosphere, biosphere and geosphere in a planetary tri-sphere frame; cites bioregionalism, doubting that AI entities would adopt it."
+anabranch_t9_cite: "Our Planet's Ballooning Noosphere (2026), SSRN 7191638, abstract; draft of 14 July 2026, section on AEONs as stackworks"
 anabranch_t9_grade: "[TBV]"
-anabranch_t9_basis: "abstract"
+anabranch_t9_basis: "text"
 ---
 
 Ronfeldt, D. (2026). *Our Planet's Ballooning Noosphere: Toward A Multi-Sphere Holonic Framework For Improving Science And Strategy — With AEONs.* Unpublished paper, July 2026. First version presented at the International Conference on AI: Noosphere and Humanities, Nanjing University, May 29-31, 2026. Forthcoming in Pan Tianqun (ed.), *The Rising of the Globe Mind: Refined Readings on the Noosphere*, Jiangsu Renmin Press, 2027.

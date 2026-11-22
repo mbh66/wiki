@@ -25,7 +25,7 @@ standing: "[TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "4. Developmental maps"
 grid_steps: ["A3", "B1", "B2", "B3", "C1", "C2", "H"]
@@ -64,12 +64,32 @@ grid_h_says: "Holds consciousness to be ultimately nondual Spirit."
 grid_h_cite: "Integral Psychology (2000), Part Three, ch. 8 'The Archeology of Spirit' (from p. 89) and ch. 15 'The Integral Embrace' (from p. 188)"
 grid_h_grade: "[TBV]"
 grid_h_basis: "abstract"
-anabranch_steps: ["T1", "T7"]
+anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T7"]
 anabranch_t1: "qualifies"
 anabranch_t1_says: "Holds consciousness to be ultimately nondual Spirit, which bears on the step, with no argument that an individual mind persists beyond the body."
 anabranch_t1_cite: "Integral Psychology (2000), chapter not checked"
 anabranch_t1_grade: "[TBV]"
 anabranch_t1_basis: "abstract"
+anabranch_t3: "qualifies"
+anabranch_t3_says: "Treats brain states as exterior correlates of interior states of consciousness; offers no filter or reducing-valve model."
+anabranch_t3_cite: "Integral Psychology (2000), ch. 12, 'Sociocultural Evolution', as excerpted"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
+anabranch_t4: "affirms"
+anabranch_t4_says: "Holds that higher stages emerge through Eros, or Spirit-in-action, a self-transcending drive in the Kosmos; names the force Eros."
+anabranch_t4_cite: "Integral Psychology (2000), ch. 12, as excerpted"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t5: "qualifies"
+anabranch_t5_says: "(a) Holds that individual development unfolds within Spirit's evolution; silent on (b)."
+anabranch_t5_cite: "Integral Psychology (2000), chapter not confirmed"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "review"
+anabranch_t6: "affirms"
+anabranch_t6_says: "(a) Holds that evolution has a direction; (b) holds that it proceeds by differentiation and integration towards Spirit."
+anabranch_t6_cite: "Integral Psychology (2000), ch. 12, as excerpted"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Uses Gebser's archaic, magic, mythic, mental and integral structures as stages of consciousness; speaks to part (a), the split, only."
 anabranch_t7_cite: "Integral Psychology (2000), Part One, pp. 26 to 27, and Part Three, ch. 13 'From Modernity to Postmodernity', pp. 167 to 168 (pages as cited by Molz and Gidley), with ch. 12 'Sociocultural Evolution' (from p. 143) (inference)"
@@ -88,7 +108,7 @@ The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in integral theory, with evidence type E4 and claim codes A3, B1, B2, B3, C1, C2, H.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it qualifies T3; it affirms T4; it qualifies T5; it affirms T6; it qualifies T7.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, B1, B2, B3, C1, C2 and H.
 
@@ -98,6 +118,10 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 
 <script type="application/ld+json">
 {

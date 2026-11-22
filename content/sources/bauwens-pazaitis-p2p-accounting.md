@@ -13,12 +13,17 @@ created: 2026-08-25
 updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "15. Commons, peer production and cosmo-localism"
-anabranch_steps: ["T2", "T9"]
+anabranch_steps: ["T2", "T8", "T9"]
 anabranch_t2: "silent"
 anabranch_t2_says: "Does not take up information arriving by routes that current science has not explained."
 anabranch_t2_cite: "P2P Accounting for Planetary Survival (2019), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
+anabranch_t8: "qualifies"
+anabranch_t8_says: "(a) Faults accounting that assumes infinite material growth on a finite planet; proposes perma-circularity, material and energy growth under one percent a year."
+anabranch_t8_cite: "Bauwens and Pazaitis 2019, pp. 9, 13"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "text"
 anabranch_t9: "affirms"
 anabranch_t9_says: "(a, c) Proposes cosmo-local production, design shared globally and making relocalised, with planetary boundaries localised down to bioregions; (b) aims at social and ecological health."
 anabranch_t9_cite: "Bauwens and Pazaitis 2019, Executive Summary pp. 8-10; ch. 1 pp. 18-22, 26; ch. 3 pp. 88-89; 'Production for social needs within planetary boundaries,' pp. 102-106"
@@ -30,7 +35,7 @@ Bauwens, M., & Pazaitis, A. (2019). *P2P Accounting for Planetary Survival: Towa
 
 The P2P Foundation's proposal for an accounting infrastructure adequate to a circular society: contributive accounting that credits work done for the [[commons|commons]], thermodynamic accounting that tracks material and energy flows, and open supply chain protocols that make provenance and impact visible. The report is a direct antecedent of Regen Network and other commons-oriented verification infrastructure.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T8; it affirms T9.
 
 ## Cited by
 
@@ -38,6 +43,7 @@ The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] cod
 - [[bauwens-michel|Michel Bauwens]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 
 <script type="application/ld+json">
 {

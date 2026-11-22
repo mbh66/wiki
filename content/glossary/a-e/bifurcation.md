@@ -1,6 +1,6 @@
 ---
 title: "Bifurcation"
-description: "In the Anabranch thesis, the turn, beginning with the Neolithic about 12,000 years ago, when abstract thinking branched away from grounded, place-based thinking; the first of the Anabranch's two moments."
+description: "In the Anabranch thesis, the turn over the last 12,000 years, from the Neolithic through writing, the early state and the scientific revolution, when abstract thinking branched away from grounded, place-based thinking; the first of the Anabranch's two moments."
 aliases: ["the Bifurcation", "bifurcation"]
 tags: ["glossary", "consciousness", "anabranch"]
 term_type: "reframed"
@@ -25,4 +25,4 @@ The word comes from the study of systems far from equilibrium, where Ilya Prigog
 
 ## Provenance
 
-Written on 19 November 2026, when Michael Haupt named the arc of his consciousness thesis the Anabranch, with the Bifurcation and the Confluence as its two moments [MS]. On 20 November 2026 the date of the Bifurcation (the Neolithic Revolution, about 12,000 years ago) and the distinction between branching and leading were added. On 22 November 2026 the entry was rewritten to match the new wording of step T7, after Michael Haupt renamed the two streams.
+Written on 19 November 2026, when Michael Haupt named the arc of his consciousness thesis the Anabranch, with the Bifurcation and the Confluence as its two moments [MS]. On 20 November 2026 the date of the Bifurcation (the Neolithic Revolution, about 12,000 years ago) and the distinction between branching and leading were added. On 22 November 2026 the entry was rewritten to match the new wording of step T7, after Michael Haupt renamed the two streams. Later the same day the description was brought into line with T7.

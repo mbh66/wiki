@@ -14,7 +14,7 @@ standing: "Treated as the founding text of Cosmic Education in Montessori writin
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
 anabranch_steps: ["T2", "T5"]
@@ -24,8 +24,8 @@ anabranch_t2_cite: "To Educate the Human Potential (1948), whole work; chapter n
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t5: "qualifies"
-anabranch_t5_says: "Holds that children should be taught their part in a cosmic plan; shows the idea has been taught."
-anabranch_t5_cite: "To Educate the Human Potential (1948; 2nd impr. 1955), Introduction, p. 2, and ch. 1 'The Six-year-old Confronted with the Cosmic Plan', pp. 4-10; the p. 10 reference not confirmed"
+anabranch_t5_says: "(a) Holds that children should learn their cosmic task; (b) the idea is taught in a movement of 15,763 schools (Debs et al. 2022)."
+anabranch_t5_cite: "To Educate the Human Potential (1948; 2nd impr. 1955), Introduction, p. 2, and ch. 1 'The Six-year-old Confronted with the Cosmic Plan', pp. 4-10; the p. 10 reference not confirmed; reach: Debs et al., Journal of Montessori Research 8(2) (2022)"
 anabranch_t5_grade: "[IC]"
 anabranch_t5_basis: "text"
 ---

@@ -22,7 +22,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "8. Traditions and testimony"
 grid_steps: ["B3", "C2", "H", "H2"]
@@ -46,7 +46,7 @@ grid_h2_says: "Holds that the subliminal being possesses telepathy, clairvoyance
 grid_h2_cite: "The Life Divine (1939), Book Two, Part One, ch. X, 'Knowledge by Identity and Separative Knowledge', CWSA vols 21-22, pp. 554-558"
 grid_h2_grade: "[IC]"
 grid_h2_basis: "text"
-anabranch_steps: ["T1", "T2", "T3"]
+anabranch_steps: ["T1", "T2", "T3", "T4", "T6"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Argues that the soul survives death and returns through rebirth as part of its evolution."
 anabranch_t1_cite: "The Life Divine, Book Two, ch. XX 'The Philosophy of Rebirth' and ch. XXII 'Rebirth and Other Worlds; Karma, the Soul and Immortality' (pp. 771 and 823 in the Complete Works edition)"
@@ -62,6 +62,16 @@ anabranch_t3_says: "Holds consciousness to be the fundamental reality involved i
 anabranch_t3_cite: "The Life Divine (1939), chapter not checked"
 anabranch_t3_grade: "[TBV]"
 anabranch_t3_basis: "summary"
+anabranch_t4: "affirms"
+anabranch_t4_says: "Holds that an evolution of consciousness is under way in matter towards the supramental; names the force the Divine, or Supermind."
+anabranch_t4_cite: "The Life Divine (1939-40), Book Two (Vol. II, 1940)"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t6: "affirms"
+anabranch_t6_says: "(a) Holds that evolution has a goal; (b) names it a divine life of realised oneness on earth."
+anabranch_t6_cite: "The Life Divine, Book Two, closing chapters, including ch. XXVI 'The Ascent towards Supermind' and the final chapter 'The Divine Life'"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
 ---
 
 Sri Aurobindo (1939). *The Life Divine*. Arya Publishing House, Calcutta, 1939 (vol. I) and 1940 (vol. II). First published serially in *Arya*, 1914 to 1919; first one-volume edition, Sri Aurobindo Library, New York, 1949.
@@ -75,7 +85,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it qualifies T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it qualifies T3; it affirms T4; it affirms T6.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B3, C2, H and H2.
 
@@ -86,6 +96,8 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 
 <script type="application/ld+json">
 {

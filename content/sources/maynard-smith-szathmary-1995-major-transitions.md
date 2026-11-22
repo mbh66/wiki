@@ -7,7 +7,7 @@ type: "book"
 publisher: "W. H. Freeman"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "evidence"
 discipline: "evolutionary biology"
 design: "E3"
@@ -20,7 +20,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["A2", "B3"]
@@ -34,6 +34,12 @@ grid_b3_says: "Defines transitions as changes in how information is stored and p
 grid_b3_cite: "The Major Transitions in Evolution (1995), ch. 1"
 grid_b3_grade: "[IC]"
 grid_b3_basis: "review"
+anabranch_steps: ["T4"]
+anabranch_t4: "qualifies"
+anabranch_t4_says: "Explains how complexity increased through a few major transitions in evolution; claims no drive behind it; names it complexity."
+anabranch_t4_cite: "The Major Transitions in Evolution (1995), ch. 1, pp. 3-14"
+anabranch_t4_grade: "[IC]"
+anabranch_t4_basis: "review"
 ---
 
 John Maynard Smith, Eörs Szathmáry (1995). *The Major Transitions in Evolution*. W. H. Freeman.
@@ -44,12 +50,16 @@ How the work is received in its own field is still to be checked [TBV].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in evolutionary biology, with evidence type E3 and claim codes A2, B3.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T4.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2; it qualifies B3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 
 <script type="application/ld+json">
 {

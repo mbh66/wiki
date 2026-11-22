@@ -20,7 +20,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "8. Traditions and testimony"
 grid_steps: ["B3", "C3"]
@@ -34,7 +34,12 @@ grid_c3_says: "Presents knowledge held in relations, kinship and pattern as long
 grid_c3_cite: "Sand Talk (2019), chapter not confirmed"
 grid_c3_grade: "[IC]"
 grid_c3_basis: "review"
-anabranch_steps: ["T8", "T9"]
+anabranch_steps: ["T4", "T8", "T9"]
+anabranch_t4: "silent"
+anabranch_t4_says: "Critiques narratives of civilisational progress in human history; takes up no striving in the universe as a whole."
+anabranch_t4_cite: "Sand Talk (2019), whole work; chapter not checked"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "review"
 anabranch_t8: "silent"
 anabranch_t8_says: "Presents knowledge held in relations as long-standing Aboriginal practice, and makes no claim about a Noosphere or a growth curve."
 anabranch_t8_cite: "Sand Talk (2019), chapter not checked"
@@ -55,7 +60,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T8; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T4; it is silent on T8; it qualifies T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies C3; it dissents from B3.
 
@@ -65,6 +70,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 
 <script type="application/ld+json">
 {

@@ -15,7 +15,7 @@ standing: "The author's own series accompanying his 2026 paper; no independent a
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "7. Metacrisis and the mycelial turn"
 anabranch_steps: ["T2", "T9"]
@@ -25,8 +25,8 @@ anabranch_t2_cite: "Our World's Ballooning Noosphere (3 of 3) (2026), whole work
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t9: "qualifies"
-anabranch_t9_says: "AEONs would hold knowledge from all civilisations and steward a planetary commons realm; the joining is planetary, with no grounding in place."
-anabranch_t9_cite: "Ronfeldt, Substack, 18 May 2026, section 'AEON design and construction details'"
+anabranch_t9_says: "(a) Treats geosphere, biosphere and noosphere as one holospheric system needing holonic planetary governance, with no grounding in place."
+anabranch_t9_cite: "Ronfeldt, Substack, 18 May 2026, opening section"
 anabranch_t9_grade: "[TBV]"
 anabranch_t9_basis: "text"
 ---

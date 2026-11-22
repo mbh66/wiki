@@ -164,7 +164,7 @@ Life's BDO serves a whole bioregion, while a BioRegion in this wiki may hold sev
 - Raworth, K. (2017). *[[sources/raworth-doughnut-economics|Doughnut Economics]]*
 - Landua, G. & Roland, E. (2013). *[[sources/landua-roland-regenerative-enterprise|Regenerative Enterprise]]*
 - Power, S., Seefeld, L. et al. (2024). *[[sources/power-seefeld-biofi|Bioregional Financing Facilities]]*
-- [[sources/bauwens-peer-for-peer|Bauwens, M. (2026). "Peer FOR Peer: The Emerging Third Attractor"]]
+- [[sources/bauwens-2026-p4p-moment|Bauwens, M. (2026). "Understanding the importance of the P4P moment in the long evolution of the commons"]]
 - Schumacher, E.F. (1973). *[[sources/schumacher-small-is-beautiful|Small Is Beautiful]]*
 - Ostrom, E. (1990). *[[sources/ostrom-governing-commons|Governing the Commons]]*
 

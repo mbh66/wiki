@@ -47,7 +47,17 @@ grid_c2_says: "Denies that modern European science and technology form a second 
 grid_c2_cite: "The Origin and Goal of History (1949), Part One, ch. 2 'Schema of World History' (p. 25 of the 1953 translation, per Wirtz) and Part Two 'Present and Future', ch. 9 'The Intrinsically New: Science and Technology'"
 grid_c2_grade: "[IC]"
 grid_c2_basis: "review"
-anabranch_steps: ["T7"]
+anabranch_steps: ["T4", "T6", "T7"]
+anabranch_t4: "qualifies"
+anabranch_t4_says: "Finds a meaningful structure in human history, held as faith; makes no claim about a striving universe."
+anabranch_t4_cite: "The Origin and Goal of History (1949), Introduction, as quoted in secondary accounts"
+anabranch_t4_grade: "[IC]"
+anabranch_t4_basis: "review"
+anabranch_t6: "qualifies"
+anabranch_t6_says: "(a) Postulates one origin and one goal of mankind as an article of faith; (b) names the goal the unity of mankind."
+anabranch_t6_cite: "The Origin and Goal of History (1949), Introduction; Part Three, 'The Meaning of History'"
+anabranch_t6_grade: "[IC]"
+anabranch_t6_basis: "review"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "(a) Dates the turn to reflective, universal thought to the Axial Age, the spiritual process between 800 and 200 BC."
 anabranch_t7_cite: "The Origin and Goal of History (1949), Part One, p. 1 (Bullock trans.)"
@@ -64,7 +74,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a canon 
 Glossary: [[glossary/a-e/axial-age|Axial Age]].
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T4; it qualifies T6; it qualifies T7.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A2 and A3; it qualifies B3 and C2.
 
@@ -73,6 +83,8 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 
 <script type="application/ld+json">
 {

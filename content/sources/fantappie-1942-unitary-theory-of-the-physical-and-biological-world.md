@@ -7,7 +7,7 @@ type: "book"
 publisher: "Rome: Società Editrice Humanitas Nova, 1944 (134 pp.); reprinted by Di Renzo Editore, Rome, 1993. Theory presented to the Accademia d'Italia, 30 October 1942"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "context"
 discipline: "mathematical physics"
 design: "E4"
@@ -19,7 +19,7 @@ standing: "Outside mainstream physics; developed since by Ulisse Di Corpo and An
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["B3"]
@@ -28,6 +28,12 @@ grid_b3_says: "Proposes syntropy, a converging, future-caused tendency toward or
 grid_b3_cite: "Principi di una teoria unitaria del mondo fisico e biologico (Rome, 1944); section not confirmed"
 grid_b3_grade: "[TBV]"
 grid_b3_basis: "review"
+anabranch_steps: ["T4"]
+anabranch_t4: "qualifies"
+anabranch_t4_says: "Proposes syntropy, a law of finality that builds order in living systems beside entropy; names the force syntropy."
+anabranch_t4_cite: "Principi di una teoria unitaria del mondo fisico e biologico (1942); chapter not confirmed"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
 ---
 
 Luigi Fantappiè (1942). *Principi di una teoria unitaria del mondo fisico e biologico*. Rome: Società Editrice Humanitas Nova, 1944 (134 pp.); reprinted by Di Renzo Editore, Rome, 1993. Theory presented to the Accademia d'Italia, 30 October 1942.
@@ -43,12 +49,16 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 - ISTAT digital library catalogue record (Roma: Humanitas nova, 1944, 134 pp.)
 - Documentazione interdisciplinare di Scienza e Fede, entry for Luigi Fantappiè (Humanitas Nova 1944; Di Renzo reprint 1993): https://disf.org/autori/luigi-fantappie
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T4.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B3.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 
 <script type="application/ld+json">
 {

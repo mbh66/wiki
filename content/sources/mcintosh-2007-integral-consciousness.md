@@ -7,7 +7,7 @@ type: "book"
 publisher: "Paragon House, St. Paul, Minnesota"
 tags: ["source", "consciousness", "evolution-of-consciousness"]
 subject: ["consciousness"]
-briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid"]
+briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
 discipline: "integral theory"
 design: "E4"
@@ -24,7 +24,7 @@ standing: "[TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "7. Metacrisis and the mycelial turn"
 grid_steps: ["B1", "B2", "B3", "C1", "C2", "C4"]
@@ -58,6 +58,22 @@ grid_b1_says: "Holds that individuals, like cultures, move through a sequence of
 grid_b1_cite: "Integral Consciousness and the Future of Evolution (2007), Part I, ch. 3 'Stages of Consciousness and Culture' (p. 29); the part title 'The Main Narrative' not confirmed"
 grid_b1_grade: "[TBV]"
 grid_b1_basis: "review"
+anabranch_steps: ["T4", "T5", "T6"]
+anabranch_t4: "affirms"
+anabranch_t4_says: "Holds that evolution, cosmic and cultural alike, has a spiritual direction driving it."
+anabranch_t4_cite: "Integral Consciousness and the Future of Evolution (2007), Part II 'A Deeper Discussion', ch. 10 'The Directions of Evolution' (not confirmed)"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t5: "qualifies"
+anabranch_t5_says: "(a) Ties each person's development to the evolution of consciousness; silent on (b)."
+anabranch_t5_cite: "Integral Consciousness and the Future of Evolution (2007), Part I, ch. 3 'Stages of Consciousness and Culture' (p. 29); the part title 'The Main Narrative' not confirmed"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
+anabranch_t6: "affirms"
+anabranch_t6_says: "(a) Holds that evolution has a direction; (b) holds that integral consciousness integrates earlier worldviews; needs a check against the text."
+anabranch_t6_cite: "Integral Consciousness and the Future of Evolution (2007), Part I, ch. 4 'The Integral Stage of Consciousness' (chapter title not confirmed)"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
 ---
 
 Steve McIntosh (2007). *Integral Consciousness and the Future of Evolution*. Paragon House, St. Paul, Minnesota.
@@ -70,12 +86,18 @@ The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in integral theory, with evidence type E4 and claim codes B1, B2, B3, C1, C2, C4.
 
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T4; it qualifies T5; it affirms T6.
+
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B1, B2, B3, C1, C2 and C4.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 
 <script type="application/ld+json">
 {

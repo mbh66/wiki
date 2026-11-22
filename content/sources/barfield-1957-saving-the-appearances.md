@@ -22,7 +22,7 @@ standing: "[TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 grid_group: "6. Cultural and historical theorists"
 grid_steps: ["A3", "C2", "C4", "H"]
@@ -46,12 +46,22 @@ grid_h_says: "Holds that the phenomenal world arises together with consciousness
 grid_h_cite: "Saving the Appearances (1957), chs 1 to 4, 'The Rainbow' to 'Participation'"
 grid_h_grade: "[TBV]"
 grid_h_basis: "review"
-anabranch_steps: ["T1", "T7"]
+anabranch_steps: ["T1", "T3", "T6", "T7"]
 anabranch_t1: "silent"
 anabranch_t1_says: "Traces how participation in the phenomenal world has changed through history, and does not address consciousness apart from the body."
 anabranch_t1_cite: "Saving the Appearances (1957), chapter not checked"
 anabranch_t1_grade: "[TBV]"
 anabranch_t1_basis: "review"
+anabranch_t3: "qualifies"
+anabranch_t3_says: "Treats phenomena as collective representations co-produced by perception; proposes no filtering brain."
+anabranch_t3_cite: "Saving the Appearances (1957), chs 1 to 4, 'The Rainbow' to 'Participation'"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
+anabranch_t6: "qualifies"
+anabranch_t6_says: "(a) Traces human consciousness from original towards final participation; (b) forecasts it with no claim of a universal trend to wholeness."
+anabranch_t6_cite: "Saving the Appearances (1957), ch. 20 'Final Participation', with chs 21 to 25"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Argues original participation gave way to the onlooker consciousness of modern science; speaks to part (a), the split, only."
 anabranch_t7_cite: "Saving the Appearances (1957), chs 6 to 14, 'Original Participation' to 'Before and After the Scientific Revolution'"
@@ -66,7 +76,7 @@ Owen Barfield, a philologist and one of the Inklings with C. S. Lewis and J. R. 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in history of ideas, with evidence type E4 and claim codes A3, C2, C4, H.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it qualifies T3; it qualifies T6; it qualifies T7.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, C2, C4 and H.
 
@@ -76,6 +86,8 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 
 <script type="application/ld+json">
 {

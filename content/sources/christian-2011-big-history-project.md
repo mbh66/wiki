@@ -13,7 +13,7 @@ standing: "Reported in 2014 as reaching more than 15,000 students in some 1,200 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-22
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
 anabranch_steps: ["T2", "T5"]
@@ -23,8 +23,8 @@ anabranch_t2_cite: "Big History Project (2011), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t5: "qualifies"
-anabranch_t5_says: "Teaches the universe's history as one story in middle and high schools; shows such a story has been widely taught."
-anabranch_t5_cite: "Big History Project course (launched 2011), as described by Education Week (8 September 2014)"
+anabranch_t5_says: "(a) Teaches humanity's place in one cosmic story; (b) the project reached between 1,200 and over 3,000 schools, a minority."
+anabranch_t5_cite: "Big History Project course (launched 2011), as described by Education Week (8 September 2014); reach: Education Week (September 2014); IB news release (c. 2017); University of Michigan event page"
 anabranch_t5_grade: "[IC]"
 anabranch_t5_basis: "review"
 ---
