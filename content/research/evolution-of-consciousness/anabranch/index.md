@@ -21,7 +21,7 @@ source_documents:
 epistemic_status: working-hypothesis
 ---
 
-## What is an anabranch?
+## First, what is an anabranch?
 
 - In hydrology, an [[glossary/a-e/anabranch|anabranch]] is a stretch of river that leaves the main channel and rejoins it downstream. The Anabranch of Consciousness thesis interprets the last 12,000 years of human consciousness in the same way: as a river with two channels. Human consciousness exists beyond the human brain, and every individual has access to all earlier forms throughout three million years of development.
 - The main channel in the Anabranch of Consciousness is [[glossary/m-s/municipal-consciousness|Municipal Consciousness]]: grounded, place-based thinking, knowledge held in relationship with a particular place, and tested against the physical constraints of the place.
@@ -29,15 +29,15 @@ epistemic_status: working-hypothesis
 - As growth meets its physical limits, the thesis interprets the present disruptive period as the [[glossary/a-e/confluence|Confluence]]: the two channels learning to work side by side, rooted in place and connected across the planet, and braiding into [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]. Together, the thesis claims, they can create the conditions for thriving.
 - [[glossary/f-l/indigenous-knowledge|Indigenous Knowledge Systems]] belong to the peoples who hold them. They stay in the evidence, coded in their own terms, and the thesis gives them none of its own names.
 
-The thesis consists of nine sub-claims, each with an extensive library of evidence, for and against. Eight steps draw on the grid, where every source is coded, critics included; T2 draws on step H2, added to the grid for it, and every source is also coded on T2 directly. T9, which no grid step tests, is coded directly against its own wording, with its critics. Since Anabranch runs 7a and 7b (22 November 2026), every position on every step is coded directly against the step's own wording, and none is still copied from the grid.
+The thesis consists of nine sub-claims, each with an extensive library of evidence, both for and against. A grid ranks all of the sources referenced according to the nine sub-claims. Links are provided to all of the source material.
 
-## The steps
+## The nine sub-claims
 
 ![[evolution-of-consciousness-anabranch.base]]
 
-The table runs in the order of the argument. *Status* says how much of each claim the evolution of consciousness grid already covers; *Grid step* names the step whose source positions it borrows until a research run checks them.
+The table runs in the order of the argument. *Status* says how much of each claim the evolution of consciousness grid already covers; *Grid step* names the steps that make up the progression of human consciousness.
 
-## The sources in numbers
+## A count of the sources referenced
 
 ![[research/evolution-of-consciousness/anabranch/source-count]]
 
