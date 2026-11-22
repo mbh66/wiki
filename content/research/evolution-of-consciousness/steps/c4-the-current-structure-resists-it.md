@@ -12,9 +12,9 @@ evidence_type: "E4 synthesis"
 evidence_main: "E4"
 depends_on_h: "holds-either-way"
 affirms_count: 6
-qualifies_count: 3
+qualifies_count: 6
 dissents_count: 2
-silent_count: 76
+silent_count: 79
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Unchanged.
 
 ## Where the grid sources stand
 
-Of the 87 grid sources, 6 affirm this step, 3 qualify it and 2 dissent. The other 76 are silent on it.
+Of the 93 grid sources, 6 affirm this step, 6 qualify it and 2 dissent. The other 79 are silent on it.
 
 ### Affirms
 
@@ -53,6 +53,9 @@ Of the 87 grid sources, 6 affirm this step, 3 qualify it and 2 dissent. The othe
 
 - [[sources/arnold-2019-where-in-the-brain-does-buddhism-come-from|Dan Arnold, Where in the Brain Does Buddhism Come From? Critical Thoughts Regarding Iain McGilchrist's Reflections on Religion (2019)]]
 - [[sources/butters-2015-brief-history-of-spiral-dynamics|Albion M. Butters, A Brief History of Spiral Dynamics (2015)]]
+- [[sources/ronfeldt-2007-tribes-first-and-forever-form|David Ronfeldt, In Search of How Societies Work: Tribes, the First and Forever Form (2007)]]
+- [[sources/ronfeldt-2025-rethinking-tribes-and-networks|David Ronfeldt, Rethinking What 'Tribes' and 'Networks' Are Good For (2025)]]
+- [[sources/ronfeldt-2026-ballooning-noosphere-3-of-3|David Ronfeldt, Our World's Ballooning Noosphere (3 of 3): Prospective Rise Of 'Axial Entities Of The Noosphere' (AEONs) (2026)]]
 - [[sources/ronfeldt-timn|David Ronfeldt, Tribes, Institutions, Markets, Networks (1996)]]
 
 ### Dissents

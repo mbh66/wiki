@@ -11,9 +11,9 @@ evidence_type: "E3 theory on evidence to E4 synthesis"
 evidence_main: "E3"
 depends_on_h: "holds-either-way"
 affirms_count: 9
-qualifies_count: 7
+qualifies_count: 10
 dissents_count: 1
-silent_count: 70
+silent_count: 73
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,7 +37,7 @@ Unchanged. It is the most widely shared step among the sequence theorists.
 
 ## Where the grid sources stand
 
-Of the 87 grid sources, 9 affirm this step, 7 qualify it and one dissents. The other 70 are silent on it.
+Of the 93 grid sources, 9 affirm this step, 10 qualify it and one dissents. The other 73 are silent on it.
 
 ### Affirms
 
@@ -57,6 +57,9 @@ Of the 87 grid sources, 9 affirm this step, 7 qualify it and one dissents. The o
 - [[sources/fischer-bidell-2006-dynamic-development|Kurt W. Fischer; Thomas R. Bidell, Dynamic Development of Action and Thought (2006)]]
 - [[sources/jaynes-1976-origin-of-consciousness|Julian Jaynes, The Origin of Consciousness in the Breakdown of the Bicameral Mind (1976)]]
 - [[sources/jung-1959-archetypes-and-the-collective-unconscious|C. G. Jung, The Archetypes and the Collective Unconscious (1959)]]
+- [[sources/ronfeldt-2007-tribes-first-and-forever-form|David Ronfeldt, In Search of How Societies Work: Tribes, the First and Forever Form (2007)]]
+- [[sources/ronfeldt-2018-comparison-quadriform-theories|David Ronfeldt, Comparison of TIMN to Three Parallel Theories: Striking Similarities, Key Disparities (2018)]]
+- [[sources/ronfeldt-2025-rethinking-tribes-and-networks|David Ronfeldt, Rethinking What 'Tribes' and 'Networks' Are Good For (2025)]]
 - [[sources/ronfeldt-timn|David Ronfeldt, Tribes, Institutions, Markets, Networks (1996)]]
 - [[sources/siegler-1996-emerging-minds|Robert S. Siegler, Emerging Minds: The Process of Change in Children's Thinking (1996)]]
 - [[sources/street-1984-literacy-in-theory-and-practice|Brian V. Street, Literacy in Theory and Practice (1984)]]

@@ -12,9 +12,9 @@ evidence_type: "E4 synthesis, with contested E1 work on group intelligence"
 evidence_main: "E4"
 depends_on_h: "holds-either-way"
 affirms_count: 3
-qualifies_count: 5
+qualifies_count: 10
 dissents_count: 1
-silent_count: 78
+silent_count: 79
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Run 2 reworded the step as a proposed sign and marked the mycelial metaphor as m
 
 ## Where the grid sources stand
 
-Of the 87 grid sources, 3 affirm this step, 5 qualify it and one dissents. The other 78 are silent on it.
+Of the 93 grid sources, 3 affirm this step, 10 qualify it and one dissents. The other 79 are silent on it.
 
 ### Affirms
 
@@ -50,6 +50,11 @@ Of the 87 grid sources, 3 affirm this step, 5 qualify it and one dissents. The o
 
 - [[sources/karst-2023-positive-citation-bias|Justine Karst, Melanie D. Jones, Jason D. Hoeksema, Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests (2023)]]
 - [[sources/levin-2022-technological-approach-to-mind-everywhere|Michael Levin, Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds (2022)]]
+- [[sources/ronfeldt-2007-tribes-first-and-forever-form|David Ronfeldt, In Search of How Societies Work: Tribes, the First and Forever Form (2007)]]
+- [[sources/ronfeldt-2025-rethinking-tribes-and-networks|David Ronfeldt, Rethinking What 'Tribes' and 'Networks' Are Good For (2025)]]
+- [[sources/ronfeldt-2026-ballooning-noosphere-3-of-3|David Ronfeldt, Our World's Ballooning Noosphere (3 of 3): Prospective Rise Of 'Axial Entities Of The Noosphere' (AEONs) (2026)]]
+- [[sources/ronfeldt-arquilla-2020-whose-story-wins|David Ronfeldt; John Arquilla, Whose Story Wins: Rise of the Noosphere, Noopolitik, and Information-Age Statecraft (2020)]]
+- [[sources/ronfeldt-ballooning-noosphere|David Ronfeldt, Our Planet's Ballooning Noosphere (2026)]]
 - [[sources/ronfeldt-timn|David Ronfeldt, Tribes, Institutions, Markets, Networks (1996)]]
 - [[sources/simard-2021-finding-the-mother-tree|Suzanne Simard, Finding the Mother Tree (2021)]]
 - [[sources/yunkaporta-2019-sand-talk|Tyson Yunkaporta, Sand Talk (2019)]]

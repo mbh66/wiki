@@ -12,7 +12,7 @@ evidence_type: "E1 to E3 for the rise in complexity (Chaisson); E4 to E5 for the
 evidence_main: "E4"
 depends_on_h: "read-differently"
 affirms_count: 10
-qualifies_count: 7
+qualifies_count: 13
 dissents_count: 6
 silent_count: 64
 created: 2026-11-19
@@ -38,7 +38,7 @@ Run 2 split the step into its two halves, which rest on different kinds of evide
 
 ## Where the grid sources stand
 
-Of the 87 grid sources, 10 affirm this step, 7 qualify it and 6 dissent. The other 64 are silent on it.
+Of the 93 grid sources, 10 affirm this step, 13 qualify it and 6 dissent. The other 64 are silent on it.
 
 ### Affirms
 
@@ -61,6 +61,12 @@ Of the 87 grid sources, 10 affirm this step, 7 qualify it and 6 dissent. The oth
 - [[sources/ginsburg-jablonka-2019-sensitive-soul|Simona Ginsburg, Eva Jablonka, The Evolution of the Sensitive Soul (2019)]]
 - [[sources/jaspers-1949-origin-and-goal-of-history|Karl Jaspers, The Origin and Goal of History (1949)]]
 - [[sources/maynard-smith-szathmary-1995-major-transitions|John Maynard Smith, Eörs Szathmáry, The Major Transitions in Evolution (1995)]]
+- [[sources/ronfeldt-2007-tribes-first-and-forever-form|David Ronfeldt, In Search of How Societies Work: Tribes, the First and Forever Form (2007)]]
+- [[sources/ronfeldt-2018-comparison-quadriform-theories|David Ronfeldt, Comparison of TIMN to Three Parallel Theories: Striking Similarities, Key Disparities (2018)]]
+- [[sources/ronfeldt-2025-rethinking-tribes-and-networks|David Ronfeldt, Rethinking What 'Tribes' and 'Networks' Are Good For (2025)]]
+- [[sources/ronfeldt-2026-ballooning-noosphere-3-of-3|David Ronfeldt, Our World's Ballooning Noosphere (3 of 3): Prospective Rise Of 'Axial Entities Of The Noosphere' (AEONs) (2026)]]
+- [[sources/ronfeldt-arquilla-2020-whose-story-wins|David Ronfeldt; John Arquilla, Whose Story Wins: Rise of the Noosphere, Noopolitik, and Information-Age Statecraft (2020)]]
+- [[sources/ronfeldt-ballooning-noosphere|David Ronfeldt, Our Planet's Ballooning Noosphere (2026)]]
 - [[sources/ronfeldt-timn|David Ronfeldt, Tribes, Institutions, Markets, Networks (1996)]]
 
 ### Dissents

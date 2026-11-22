@@ -12,9 +12,9 @@ evidence_type: "E4 synthesis"
 evidence_main: "E4"
 depends_on_h: "holds-either-way"
 affirms_count: 3
-qualifies_count: 1
+qualifies_count: 2
 dissents_count: 1
-silent_count: 82
+silent_count: 87
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -38,7 +38,7 @@ Run 2 marked the step contested: Graeber and Wengrow and the critics of recapitu
 
 ## Where the grid sources stand
 
-Of the 87 grid sources, 3 affirm this step, one qualifies it and one dissents. The other 82 are silent on it.
+Of the 93 grid sources, 3 affirm this step, 2 qualify it and one dissents. The other 87 are silent on it.
 
 ### Affirms
 
@@ -49,6 +49,7 @@ Of the 87 grid sources, 3 affirm this step, one qualifies it and one dissents. T
 ### Qualifies
 
 - [[sources/mithen-1996-prehistory-of-the-mind|Steven Mithen, The Prehistory of the Mind (1996)]]
+- [[sources/ronfeldt-2007-tribes-first-and-forever-form|David Ronfeldt, In Search of How Societies Work: Tribes, the First and Forever Form (2007)]]
 
 ### Dissents
 

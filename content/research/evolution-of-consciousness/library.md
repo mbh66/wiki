@@ -1,6 +1,6 @@
 ---
 title: The Graded Consciousness Library
-description: A graded library of 147 works on whether human consciousness has a history, each coded by tier, evidence type and the claims it speaks to, with coverage tests and the gaps that remain.
+description: A graded library of 158 works on whether human consciousness has a history, each coded by tier, evidence type and the claims it speaks to, with coverage tests and the gaps that remain.
 aliases:
   - evolution of consciousness library
   - consciousness evolution reading list
@@ -20,7 +20,7 @@ source_documents:
 epistemic_status: stub
 ---
 
-This library holds 147 books, papers, talks and declarations on whether human consciousness has a history; its firmest ground is the dated record and the science of animal minds, and every part of the argument now has critics on file.
+This library holds 158 books, papers, talks and declarations on whether human consciousness has a history; its firmest ground is the dated record and the science of animal minds, and every part of the argument now has critics on file.
 
 ## Overview
 
@@ -28,7 +28,7 @@ For two centuries, writers in fields that seldom meet have argued that the way p
 
 This page gathers their work in one place, so a reader can check the sequence the network writes from: the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]], five [[concepts/structures-of-consciousness|structures of consciousness]] (Mimetic, Magical, Mythic, Material, and Mycelial) joined by four transitions. A [[glossary/m-s/structure-of-consciousness|structure of consciousness]] is a shared way of experiencing self, time and world; the term is Jean Gebser's. The five names and the synthesis across them are Michael Haupt's, built on Roger Briggs, whose own stages are survival, magical, mythical, mental/material and integral/emerging [MS]. Every author in the library keeps their own terms.
 
-The library grades the works. The [[research/evolution-of-consciousness/grid|companion grid]] grades the claims: it sets 87 of these sources against each step of the argument, and includes the critics.
+The library grades the works. The [[research/evolution-of-consciousness/grid|companion grid]] grades the claims: it sets 93 of these sources against each step of the argument, and includes the critics.
 
 ## How the library was built
 
@@ -40,11 +40,11 @@ Each work has its own page in the [[sources/index|sources]] register, and the ta
 
 | Tier     | Meaning                                                                                  | Works |
 | -------- | ---------------------------------------------------------------------------------------- | ----- |
-| canon    | Sets out a sequence or a structure of consciousness that subsequent research builds upon | 40    |
+| canon    | Sets out a sequence or a structure of consciousness that subsequent research builds upon | 43    |
 | evidence | Supplies data a claim rests on                                                           | 30    |
-| critic   | Disputes a sequence, a step or a source                                                  | 39    |
+| critic   | Disputes a sequence, a step or a source                                                  | 41    |
 | practice | Applies the ideas                                                                        | 6     |
-| context  | Frames the field                                                                         | 32    |
+| context  | Frames the field                                                                         | 38    |
 
 **Evidence type.** The design behind the work.
 
@@ -52,8 +52,8 @@ Each work has its own page in the [[sources/index|sources]] register, and the ta
 |---|---|---|
 | E1 | Measured study, with replication | 14 |
 | E2 | Dated record (fossil, archaeological or documentary) | 3 |
-| E3 | Theory built on reviewed evidence | 50 |
-| E4 | Synthesis, framework or speculation | 71 |
+| E3 | Theory built on reviewed evidence | 52 |
+| E4 | Synthesis, framework or speculation | 80 |
 | E5 | Tradition or testimony | 9 |
 
 E5 is a separate kind of knowledge and should not be rated as lower worth than any of the others merely because it isn't deemed to be 'scientific' by academics. The table records which evidence type each work emerges from, so readers can see it.
@@ -75,7 +75,7 @@ E5 is a separate kind of knowledge and should not be rated as lower worth than a
 | H    | Consciousness is fundamental and isn't produced by human brains                  |
 | H2   | Some information reaches minds by routes current science has not explained       |
 
-**Stance.** For each claim, a provisional lean: `a` affirms, `q` qualifies, `d` disputes. On the 87 works in the companion grid, the stance codes follow the grid's reading of each step; on the other works they remain the first run's provisional leans.
+**Stance.** For each claim, a provisional lean: `a` affirms, `q` qualifies, `d` disputes. On the 93 works in the companion grid, the stance codes follow the grid's reading of each step; on the other works they remain the first run's provisional leans.
 
 ## The library
 
@@ -101,13 +101,13 @@ The network uses fungal networks as a metaphor for a form of coordination. Simar
 
 The library was checked against five tests.
 
-1. **Supporters and critics for every claim.** Each claim needs at least three works in support and two critics or qualifiers. Met for every claim. C4 was the last to pass, with five critics or qualifiers after the critics added on 19 November 2026; C1 now has six, two of them dissents. H2, added on 21 November 2026, has thirteen works in support and twenty-seven critics or qualifiers.
+1. **Supporters and critics for every claim.** Each claim needs at least three works in support and two critics or qualifiers. Met for every claim. C4 was the last to pass, with five critics or qualifiers after the critics added on 19 November 2026; C1 now has six, two of them dissents. H2, added on 21 November 2026, has thirteen works in support and twenty-seven critics or qualifiers. B3 has twenty-six critics or qualifiers since 22 November 2026, when two critics of the tribe as a stage of social evolution (Fried, 1975; Yoffee, 2005) joined the library.
 2. **Every discipline covered.** At least three works per discipline. Met, except African philosophy of personhood, which has two (Ramose and Menkiti).
 3. **Africa.** The dated record includes Blombos Cave, where Henshilwood and colleagues (2018) report a 73,000-year-old drawing on silcrete [IC], and the Rising Star cave system, where the claim that *Homo naledi* buried its dead (Berger and colleagues, 2025) remains disputed: one eLife reviewer found it convincingly shown, and another judged the evidence incomplete [IC]. Pinnacle Point and Wonderwerk Cave are still to be added.
 4. **Indigenous knowledge in its own voice.** Tyson Yunkaporta, Gregory Cajete, Robin Wall Kimmerer and the South African San Council's *San Code of Research Ethics* (2017). Vine Deloria Jr. and San scholars' own publications are still to be added.
-5. **Who wrote the works.** Counted from author lists, as an inference: 13 of the 116 works have at least one woman author (11%), and 10 have at least one author based outside Europe and North America (9%). The eight critics added for C1 and C4 include no woman author and one author outside Europe and North America (Corballis, in New Zealand). For the 49 works from Michael's reading, the figures are 4 (8%) and 1 (2%). These counts cover the 116 works in the library before 21 November 2026; the 30 works added that day were not recounted.
+5. **Who wrote the works.** Counted from author lists, as an inference: 13 of the 116 works have at least one woman author (11%), and 10 have at least one author based outside Europe and North America (9%). The eight critics added for C1 and C4 include no woman author and one author outside Europe and North America (Corballis, in New Zealand). For the 49 works from Michael's reading, the figures are 4 (8%) and 1 (2%). These counts cover the 116 works in the library before 21 November 2026; the works added since were not recounted. All eleven works added on 22 November 2026 after the TIMN research run are by men based in North America (inference from author lists).
 
-Also thin: critics of measured adult stages; a direct test of the strong form of C1; any peer-reviewed critique of the metacrisis framing; the validation studies for adult-development instruments; Thaddeus Metz on Ubuntu; and Piaget, Francis Heylighen and Patricia Churchland. The library holds 147 works against a target of 120 to 200.
+Also thin: critics of measured adult stages; a direct test of the strong form of C1; any peer-reviewed critique of the metacrisis framing; the validation studies for adult-development instruments; Thaddeus Metz on Ubuntu; and Piaget, Francis Heylighen and Patricia Churchland. The library holds 158 works against a target of 120 to 200.
 
 ## What comes next
 
@@ -125,7 +125,7 @@ A second research run tested the claims these works make, step by step, in the [
 
 ## Sources
 
-Each of the 147 works has a page in the [[sources/index|sources]] register, listed in the tables above and in the [spreadsheet](/research/evolution-of-consciousness/library.csv). The works cited in the text:
+Each of the 158 works has a page in the [[sources/index|sources]] register, listed in the tables above and in the [spreadsheet](/research/evolution-of-consciousness/library.csv). The works cited in the text:
 
 - [[sources/medawar-1961-review-phenomenon-of-man|Medawar, P. B. (1961). Review of *The Phenomenon of Man*. *Mind* 70(277), 99-105]]
 - [[sources/block-1981-review-of-jaynes|Block, N. (1981). Review of *The Origin of Consciousness in the Breakdown of the Bicameral Mind*. *Cognition and Brain Theory* 4(1), 81-83]]
@@ -161,3 +161,5 @@ Updated 20 November 2026, from Runs 3d and 3d2 on the Anabranch thesis: two work
 Updated 21 November 2026, from the research run coding every source on T2 and Michael Haupt's decision the same day to add grid step H2: thirty works from the anomalous experience research and its critics entered the library and the grid, with claim code H2 (eleven evidence, canon or context works in row group 10 and nineteen critics in row group 11). Keith Augustine and Michael Martin's *The Myth of an Afterlife*, already in the library, entered the grid too. Seven works already in the grid took H2 codes, and William James's *Human Immortality* and *The Varieties of Religious Experience*, in the library outside the grid, took H2 stance codes from a reading of the text. The new works' tiers and disciplines were set at filing from each work's design and field; their stance codes follow the grid.
 
 Updated 22 November 2026: David Ronfeldt's *Tribes, Institutions, Markets, Networks* (RAND, 1996), the source of the network's [[frameworks/timn-framework|TIMN Framework]], entered the library and the grid in row group 6 at Michael Haupt's request, coded from the paper itself. It is a canon work in political science with evidence type E4. It speaks of forms of organisation where the claim chain speaks of structures of awareness, so it qualifies each step it holds: B3, C1, C2, C3 and C4. The paper assigns named countries and groups to its types of society; the library repeats none of the placements.
+
+Updated 22 November 2026, from research run 8 on Ronfeldt's later TIMN writing: eleven works joined the library. Eight are new pages: Ronfeldt's *Tribes, the First and Forever Form* (2007), his *Rethinking What 'Tribes' and 'Networks' Are Good For* series (2025), his comparison of TIMN with Raworth, Bauwens and Karatani (2018), and a 2009 post from his TIMN blog; Arquilla and Ronfeldt's *The Emergence of Noopolitik* (1999); and three works on the sequence of social forms, Sanderson's *Social Evolutionism* (1990), Fried's *The Notion of Tribe* (1975) and Yoffee's *Myths of the Archaic State* (2005). Three Ronfeldt pages already coded on the Anabranch layer took library fields: *Whose Story Wins* (2020), *Our Planet's Ballooning Noosphere* (2026) and the third post in its Substack series. Six of the Ronfeldt works entered the grid in row group 6; every square they hold qualifies, by the same rule as the 1996 paper. Fried and Yoffee are critics; Sanderson is filed as context, because he defends an evolutionary reading of history while criticising some of its modes. Tim Morgan's essay in the *Journal of Futures Studies* (2020), an account of the 1996 paper independent of Ronfeldt, confirms two of its grid squares, C1 and C2, which are now graded [IC].

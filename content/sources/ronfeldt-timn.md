@@ -20,7 +20,7 @@ claim_c3: true
 claim_c4: true
 stance: ["B3:q", "C1:q", "C2:q", "C3:q", "C4:q"]
 finding: "Argues that societies grow more complex by adding four forms of organisation in turn, tribes, institutions, markets and networks, and must keep them in balance."
-standing: "Published in RAND's paper series outside formal peer review [IC]; taken up mainly in practitioner and peer-to-peer writing, with no academic critique found in a first search [TBV]"
+standing: "Published in RAND's paper series outside formal peer review [IC]; one independent peer-reviewed account, Morgan (2020) in the Journal of Futures Studies, and no account in sociology, anthropology or political science found [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
@@ -35,13 +35,13 @@ grid_b3_grade: "[TBV]"
 grid_b3_basis: "text"
 grid_c1: "qualifies"
 grid_c1_says: "Holds that each earlier form of organisation persists and is modified as a new one is added; it does not discuss structures of awareness."
-grid_c1_cite: "Tribes, Institutions, Markets, Networks (1996), p. 20, 'Assembling the Forms in an Evolutionary Framework', and pp. 26 to 28, 'Dynamics Embedded in the TIMN Framework'"
-grid_c1_grade: "[TBV]"
+grid_c1_cite: "Tribes, Institutions, Markets, Networks (1996), p. 20, 'Assembling the Forms in an Evolutionary Framework', and pp. 26 to 28, 'Dynamics Embedded in the TIMN Framework'; independently reported by Morgan (2020), Journal of Futures Studies 24(4): 83 to 94"
+grid_c1_grade: "[IC]"
 grid_c1_basis: "text"
 grid_c2: "qualifies"
 grid_c2_says: "Holds that a fourth form, the multiorganisational network, is now maturing as the earlier forms did, each bringing its own values and norms."
-grid_c2_cite: "Tribes, Institutions, Markets, Networks (1996), pp. 2 to 3, 'Forms Underlying the Organization of Societies'; pp. 11 to 17, 'Next: The Rise of Collaborative Networks'; p. 21, 'Four Types of Societies'"
-grid_c2_grade: "[TBV]"
+grid_c2_cite: "Tribes, Institutions, Markets, Networks (1996), pp. 2 to 3, 'Forms Underlying the Organization of Societies'; pp. 11 to 17, 'Next: The Rise of Collaborative Networks'; p. 21, 'Four Types of Societies'; independently reported by Morgan (2020), Journal of Futures Studies 24(4), p. 86"
+grid_c2_grade: "[IC]"
 grid_c2_basis: "text"
 grid_c3: "qualifies"
 grid_c3_says: "Describes the rising form as heterarchic, all-channel collaboration among small, dispersed groups, enabled by digital media; it does not speak of collective intelligence."
@@ -83,7 +83,7 @@ anabranch_t9_basis: "text"
 
 Ronfeldt, D. (1996). *Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution.* RAND Corporation, P-7967.
 
-David Ronfeldt, then a senior social scientist at RAND, argues that four forms of organisation, and evidently only four, underlie the governance of every society: the kinship-based tribe, the hierarchical institution, the competitive market and the collaborative network [IC]. Each form, he holds, carries its own beliefs, norms and sense of time, and each matured in a different epoch, helped by its own information revolution [IC]. Societies grow more complex by adding the forms in turn and keeping them in balance; no form replaces another, and the network is the next to mature [IC]. He calls the work a framework because it does not yet say what causes the progression, and asks that any slide into teleology or a presumption of progress be corrected [IC]. The paper assigns named countries and groups to its four types of society; the wiki records that it does so and repeats none of the placements. It appeared in RAND's paper series, outside formal peer review [IC]. The wiki's [[frameworks/time-framework|TIME Framework]] descends from it.
+David Ronfeldt, then a senior social scientist at RAND, argues that four forms of organisation, and evidently only four, underlie the governance of every society: the kinship-based tribe, the hierarchical institution, the competitive market and the collaborative network [IC]. Each form, he holds, carries its own beliefs, norms and sense of time, and each matured in a different epoch, helped by its own information revolution [IC]. Societies grow more complex by adding the forms in turn and keeping them in balance; no form replaces another, and the network is the next to mature [IC]. He calls the work a framework because it does not yet say what causes the progression, and asks that any slide into teleology or a presumption of progress be corrected [IC]. The paper assigns named countries and groups to its four types of society; the wiki records that it does so and repeats none of the placements. It appeared in RAND's paper series, outside formal peer review [IC]. The one independent peer-reviewed account found, Tim Morgan's essay in the *Journal of Futures Studies* (2020), reports both that new forms do not supersede older ones and that Ronfeldt holds the network form still in its infancy; Morgan thinks Ronfeldt may be mistaken on that point, citing open-source software, Wikipedia and hashtag movements [IC]. No account in sociology, anthropology or political science has been found [TBV]. The wiki's [[frameworks/time-framework|TIME Framework]] descends from it. Ronfeldt's later TIMN writing is filed beside it: [[sources/ronfeldt-2007-tribes-first-and-forever-form|Tribes, the First and Forever Form]] (2007), [[sources/ronfeldt-2018-comparison-quadriform-theories|Comparison of TIMN to Three Parallel Theories]] (2018) and [[sources/ronfeldt-2025-rethinking-tribes-and-networks|Rethinking What 'Tribes' and 'Networks' Are Good For]] (2025).
 
 The BioConomy corpus uses TIMN as one of several convergent frameworks mapping the [[concepts/major-evolutionary-transitions|Major Evolutionary Transitions]]. Ronfeldt's Networks correspond to what the corpus calls [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] applied to coordination: the capacity to organize without centralized control. His observation that each new form requires but does not replace the previous forms parallels the corpus's claim that Mycelial coordination keeps markets, institutions and tribal bonds and integrates them within a more complex substrate.
 

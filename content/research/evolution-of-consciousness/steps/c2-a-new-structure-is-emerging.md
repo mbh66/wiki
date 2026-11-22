@@ -11,7 +11,7 @@ evidence_type: "E4 synthesis to E5 testimony"
 evidence_main: "E4"
 depends_on_h: "read-differently"
 affirms_count: 10
-qualifies_count: 4
+qualifies_count: 10
 dissents_count: 3
 silent_count: 70
 created: 2026-11-19
@@ -37,7 +37,7 @@ Run 2 reworded the step as a claim some sources make. No measured study shows a 
 
 ## Where the grid sources stand
 
-Of the 87 grid sources, 10 affirm this step, 4 qualify it and 3 dissent. The other 70 are silent on it.
+Of the 93 grid sources, 10 affirm this step, 10 qualify it and 3 dissent. The other 70 are silent on it.
 
 ### Affirms
 
@@ -57,6 +57,12 @@ Of the 87 grid sources, 10 affirm this step, 4 qualify it and 3 dissent. The oth
 - [[sources/donald-1991-origins-of-the-modern-mind|Merlin Donald, Origins of the Modern Mind (1991)]]
 - [[sources/jaspers-1949-origin-and-goal-of-history|Karl Jaspers, The Origin and Goal of History (1949)]]
 - [[sources/ong-1982-orality-and-literacy|Walter J. Ong, Orality and Literacy (1982)]]
+- [[sources/ronfeldt-2007-tribes-first-and-forever-form|David Ronfeldt, In Search of How Societies Work: Tribes, the First and Forever Form (2007)]]
+- [[sources/ronfeldt-2018-comparison-quadriform-theories|David Ronfeldt, Comparison of TIMN to Three Parallel Theories: Striking Similarities, Key Disparities (2018)]]
+- [[sources/ronfeldt-2025-rethinking-tribes-and-networks|David Ronfeldt, Rethinking What 'Tribes' and 'Networks' Are Good For (2025)]]
+- [[sources/ronfeldt-2026-ballooning-noosphere-3-of-3|David Ronfeldt, Our World's Ballooning Noosphere (3 of 3): Prospective Rise Of 'Axial Entities Of The Noosphere' (AEONs) (2026)]]
+- [[sources/ronfeldt-arquilla-2020-whose-story-wins|David Ronfeldt; John Arquilla, Whose Story Wins: Rise of the Noosphere, Noopolitik, and Information-Age Statecraft (2020)]]
+- [[sources/ronfeldt-ballooning-noosphere|David Ronfeldt, Our Planet's Ballooning Noosphere (2026)]]
 - [[sources/ronfeldt-timn|David Ronfeldt, Tribes, Institutions, Markets, Networks (1996)]]
 
 ### Dissents
