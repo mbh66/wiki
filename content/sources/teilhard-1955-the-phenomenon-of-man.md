@@ -24,7 +24,7 @@ standing: "Medawar (Mind 1961) rejected it as science [IC]"
 on_seed_list: "yes"
 grade: "[IC]"
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "5. Complexity and cosmic evolution"
 grid_steps: ["A1", "B3", "C2", "C3", "H"]
@@ -53,7 +53,7 @@ grid_h_says: "Treats consciousness as present in some degree in all matter."
 grid_h_cite: "The Phenomenon of Man (1955), Book One"
 grid_h_grade: "[IC]"
 grid_h_basis: "review"
-anabranch_steps: ["T1", "T3", "T4", "T6", "T8"]
+anabranch_steps: ["T1", "T3", "T4", "T6", "T7", "T8"]
 anabranch_t1: "qualifies"
 anabranch_t1_says: "Holds that the universe conserves persons through their convergence on Omega."
 anabranch_t1_cite: "The Phenomenon of Man (1955; Eng. 1959), Book Four 'Survival', ch. II 'Beyond the Collective: the Hyper-Personal'"
@@ -74,6 +74,11 @@ anabranch_t6_says: "(a) Holds that evolution converges on Omega; (b) holds that 
 anabranch_t6_cite: "The Phenomenon of Man (1955), closing chapters on Omega, as paraphrased in Medawar, Mind 70(277) (1961), pp. 104-105"
 anabranch_t6_grade: "[IC]"
 anabranch_t6_basis: "review"
+anabranch_t7: "silent"
+anabranch_t7_says: "Does not take up a turn from place-based towards abstract thinking, or place-based thinking carrying on beside it."
+anabranch_t7_cite: "The Phenomenon of Man (1955), whole work; section not checked"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
 anabranch_t8: "qualifies"
 anabranch_t8_says: "(b) Describes the Noosphere as a collective envelope of thought converging on Omega; silent on growth meeting limits."
 anabranch_t8_cite: "The Phenomenon of Man (1955), Book Four"
@@ -89,7 +94,7 @@ The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in theology, with evidence type E4 and claim codes A1, B3, C2, C3, H.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it qualifies T3; it affirms T4; it affirms T6; it qualifies T8.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it qualifies T3; it affirms T4; it affirms T6; it is silent on T7; it qualifies T8.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A1, B3, C2, C3 and H.
 
@@ -99,9 +104,10 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
-- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 
 <script type="application/ld+json">
 {

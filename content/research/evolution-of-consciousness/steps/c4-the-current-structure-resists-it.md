@@ -11,7 +11,7 @@ claim: "The structure that leads now holds the new one back: Gebser's deficient 
 evidence_type: "E4 synthesis"
 evidence_main: "E4"
 depends_on_h: "holds-either-way"
-affirms_count: 6
+affirms_count: 7
 qualifies_count: 6
 dissents_count: 2
 silent_count: 79
@@ -38,7 +38,7 @@ Unchanged.
 
 ## Where the grid sources stand
 
-Of the 93 grid sources, 6 affirm this step, 6 qualify it and 2 dissent. The other 79 are silent on it.
+Of the 94 grid sources, 7 affirm this step, 6 qualify it and 2 dissent. The other 79 are silent on it.
 
 ### Affirms
 
@@ -47,6 +47,7 @@ Of the 93 grid sources, 6 affirm this step, 6 qualify it and 2 dissent. The othe
 - [[sources/gebser-ever-present-origin|Jean Gebser, The Ever-Present Origin (1949)]]
 - [[sources/mcgilchrist-2009-master-and-his-emissary|Iain McGilchrist, The Master and His Emissary (2009)]]
 - [[sources/mcintosh-2007-integral-consciousness|Steve McIntosh, Integral Consciousness and the Future of Evolution (2007)]]
+- [[sources/morgan-2020-solving-the-wickedest-problem|Tim Morgan, Solving the Wickedest Problem: Reconciling Differing Worldviews (2020)]]
 - [[sources/schmachtenberger-2022-third-attractor|Daniel Schmachtenberger, In Search of the Third Attractor (parts 1 and 2) (2022)]]
 
 ### Qualifies

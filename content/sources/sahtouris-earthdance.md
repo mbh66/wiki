@@ -15,7 +15,7 @@ standing: "Read widely in systems and sustainability circles; no academic review
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
 anabranch_steps: ["T2", "T5", "T7", "T8", "T9"]
@@ -25,12 +25,12 @@ anabranch_t2_cite: "EarthDance (2000), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
 anabranch_t5: "qualifies"
-anabranch_t5_says: "Holds that Indigenous peoples have always known the universe is participatory, which Western scientists only now acknowledge."
+anabranch_t5_says: "Holds that Indigenous peoples have long known the universe is participatory; states no claim that every person takes part."
 anabranch_t5_cite: "EarthDance (2000), A Note from the Author; ch. 15 'Less Than Perfect, More Than Machine'"
 anabranch_t5_grade: "[IC]"
 anabranch_t5_basis: "text"
 anabranch_t7: "qualifies"
-anabranch_t7_says: "(a) Dates separation from nature to agriculture and later conquest, mechanism to Plato; reads Genesis as rewritten, without abstraction."
+anabranch_t7_says: "(a, gradual turn) Dates a turn away from Earth-centred ways of living to the coming of farming and later conquest."
 anabranch_t7_cite: "EarthDance, ch. 13 'Worldviews from the Pleistocene to Plato' (PDF pp. 129-131); ch. 14 (p. 137); ch. 17 opening (p. 168); LifeWeb web edition"
 anabranch_t7_grade: "[IC]"
 anabranch_t7_basis: "text"

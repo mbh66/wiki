@@ -10,7 +10,7 @@ claim: "A transition comparable to the earlier ones is under way."
 evidence_type: "E4 synthesis to E5 testimony"
 evidence_main: "E4"
 depends_on_h: "read-differently"
-affirms_count: 10
+affirms_count: 11
 qualifies_count: 10
 dissents_count: 3
 silent_count: 70
@@ -37,7 +37,7 @@ Run 2 reworded the step as a claim some sources make. No measured study shows a 
 
 ## Where the grid sources stand
 
-Of the 93 grid sources, 10 affirm this step, 10 qualify it and 3 dissent. The other 70 are silent on it.
+Of the 94 grid sources, 11 affirm this step, 10 qualify it and 3 dissent. The other 70 are silent on it.
 
 ### Affirms
 
@@ -48,6 +48,7 @@ Of the 93 grid sources, 10 affirm this step, 10 qualify it and 3 dissent. The ot
 - [[sources/briggs-2021-emerging-world|Roger P. Briggs, Emerging World: The Evolution of Consciousness and the Future of Humanity (2021)]]
 - [[sources/gebser-ever-present-origin|Jean Gebser, The Ever-Present Origin (1949)]]
 - [[sources/mcintosh-2007-integral-consciousness|Steve McIntosh, Integral Consciousness and the Future of Evolution (2007)]]
+- [[sources/morgan-2020-solving-the-wickedest-problem|Tim Morgan, Solving the Wickedest Problem: Reconciling Differing Worldviews (2020)]]
 - [[sources/schmachtenberger-2022-third-attractor|Daniel Schmachtenberger, In Search of the Third Attractor (parts 1 and 2) (2022)]]
 - [[sources/teilhard-1955-the-phenomenon-of-man|Pierre Teilhard de Chardin, The Phenomenon of Man (1955)]]
 - [[sources/wilber-2000-integral-psychology|Ken Wilber, Integral Psychology: Consciousness, Spirit, Psychology, Therapy (2000)]]

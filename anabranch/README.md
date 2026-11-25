@@ -52,7 +52,7 @@ anabranch_t2_cite: "Where it says it"
 anabranch_t2_grade: "[IC]"
 ```
 
-Checked positions override inherited ones. A source outside the grid also carries `anabranch_group`. The Run 3 brief in `content/private/evolution-of-consciousness/instructions/` sets out the full rules.
+Checked positions override inherited ones. A source with no position on the crosswalk grid step was never read against the thesis step, so the site shows it as not yet tested (since 25 November 2026). A step page can set `crosswalk_silence: true` where its grid step states the same claim, so that a silence there counts as a silence on the thesis step; only T2 (grid step H2) does. A source outside the grid also carries `anabranch_group`. The Run 3 brief in `content/private/evolution-of-consciousness/instructions/` sets out the full rules.
 
 ## Deploy on Netlify
 
@@ -65,3 +65,7 @@ One time:
 After that there is nothing to do by hand. Every push to `v5` reaches Netlify, and `scripts/should-build.sh` decides whether to build. It lets a build run only when a push changes the code here, a thesis page, or a frontmatter line the site reads on a source page in the grid or the Anabranch layer. Every other push is cancelled before anything deploys. Netlify's Free plan allows about 20 production deploys a month and pauses the account's sites when its credits run out, so this keeps deploys to the pushes that matter. Changes to the grid's step pages and the dated thresholds wait for the next build that does run. To deploy by hand, use Trigger deploy in the Netlify dashboard; the check always lets that through.
 
 The wiki itself still deploys to GitHub Pages as before; this adds a second site and changes nothing in the Quartz workflows.
+
+## robots.txt and llms.txt
+
+`site/robots.txt` lets every agent fetch the whole site. `site/llms.txt`, a plain-text map of the site for AI agents, is written by `npm run data` from the same data as the page, so its counts match the Evidence Matrix; like `site/data/`, it is built on Netlify and not committed.

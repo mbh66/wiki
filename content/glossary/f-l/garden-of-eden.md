@@ -8,7 +8,7 @@ first_defined_in: "Michael Haupt, Anabranch thesis (19 November 2026), step T7"
 related_terms: ["bifurcation", "s-curve", "mythic-consciousness", "material-consciousness", "anabranch"]
 source_project: "BioConomy"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-25
 epistemic_status: "working-hypothesis"
 ---
 
@@ -16,7 +16,7 @@ The Garden of Eden is the garden of Genesis 2 and 3, where the first humans live
 
 ## The thesis's reading
 
-Step T7 of the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] places a split in consciousness at the move from [[glossary/m-s/mythic-consciousness|Mythic]] to [[glossary/m-s/material-consciousness|Material Consciousness]], "as one possible interpretation of the Garden of Eden story tells it" [MS]. In Michael's telling, the garden is the time before the curve, when people lived on what a place provided. Eating the fruit starts the climb, slowly at first, with farming about 12,000 years ago. The serpent is the curve itself: from inside the steep part you can't see where it levels off, and it tells you that you won't die [MS].
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] offers this reading as its own image of the Bifurcation, outside the claim of [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|step T7]], which names no story [MS]. In Michael's telling, the garden is the time before the curve, when people lived on what a place provided. Eating the fruit starts the climb, slowly at first, with farming about 12,000 years ago. The serpent is the curve itself: from inside the steep part you can't see where it levels off, and it tells you that you won't die [MS].
 
 The network holds that the Mythic structure tells this story as a garden, a fruit and a serpent, and the Material structure tells it as a growth curve [MS]. It reads the two side by side. The reading is published under Michael's name as one telling among others [MS]. The [[concepts/convergences|Convergences]] page gathers the rest, unranked, among them Hugh Brody's reading of Genesis as a farmers' story.
 
@@ -49,7 +49,7 @@ None of these scholars reads the garden as a split in consciousness or as a grow
 
 ## Provenance
 
-Written on 20 November 2026, after Anabranch Run 3b found no source on file for the Garden of Eden as the thesis reads it. The thesis's reading follows the Convergences page and `ground.md`, and keeps Michael's account as his. The Barr, Trible and Meyers entries were checked for this page against catalogue records, publisher descriptions and reviews; the books themselves weren't read. Anabranch Run 3c added source pages for Barr and for Fretheim's article, which was read to p. 150; Anabranch Runs 3d and 3d2 added source pages for Trible (1978) and for Meyers's *Rediscovering Eve* (2013), both coded from catalogues, previews and reviews. The page status is `working-hypothesis` because its subject is the thesis's reading. On 20 November 2026 the quotation was updated to the new wording of step T7. Later the same day the telling was revised at Michael Haupt's decision to place the Bifurcation at the Neolithic: eating the fruit starts a climb that is slow at first.
+Written on 20 November 2026, after Anabranch Run 3b found no source on file for the Garden of Eden as the thesis reads it. The thesis's reading follows the Convergences page and `ground.md`, and keeps Michael's account as his. The Barr, Trible and Meyers entries were checked for this page against catalogue records, publisher descriptions and reviews; the books themselves weren't read. Anabranch Run 3c added source pages for Barr and for Fretheim's article, which was read to p. 150; Anabranch Runs 3d and 3d2 added source pages for Trible (1978) and for Meyers's *Rediscovering Eve* (2013), both coded from catalogues, previews and reviews. The page status is `working-hypothesis` because its subject is the thesis's reading. On 20 November 2026 the quotation was updated to the new wording of step T7. Later the same day the telling was revised at Michael Haupt's decision to place the Bifurcation at the Neolithic: eating the fruit starts a climb that is slow at first. On 25 November 2026 the quotation of the T7 wording was replaced, at Michael Haupt's decision, with a sentence placing the reading outside the claim of step T7, after the step's wording was shortened on 24 November.
 
 <script type="application/ld+json">
 {

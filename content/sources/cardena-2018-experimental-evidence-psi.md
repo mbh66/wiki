@@ -21,7 +21,7 @@ standing: "Contested; answered by Reber and Alcock (2019, 2020) [IC]"
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "10. Anomalous experience research"
 grid_steps: ["H2"]
@@ -30,12 +30,47 @@ grid_h2_says: "Argues that experimental psi evidence is comparable to that for e
 grid_h2_cite: "American Psychologist 73(5), abstract, p. 663"
 grid_h2_grade: "[IC]"
 grid_h2_basis: "abstract"
-anabranch_steps: ["T2"]
+anabranch_steps: ["T1", "T2", "T4", "T5", "T6", "T7", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "The Experimental Evidence for Parapsychological Phenomena (2018), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
 anabranch_t2: "affirms"
 anabranch_t2_says: "Argues that experimental psi evidence is comparable to that for established phenomena."
 anabranch_t2_cite: "American Psychologist 73(5), abstract, p. 663"
 anabranch_t2_grade: "[IC]"
 anabranch_t2_basis: "abstract"
+anabranch_t4: "silent"
+anabranch_t4_says: "Does not take up whether the universe strives towards higher expressions of itself."
+anabranch_t4_cite: "The Experimental Evidence for Parapsychological Phenomena (2018), whole work; section not checked"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "The Experimental Evidence for Parapsychological Phenomena (2018), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
+anabranch_t6: "silent"
+anabranch_t6_says: "Does not take up whether the universe has a direction towards wholeness."
+anabranch_t6_cite: "The Experimental Evidence for Parapsychological Phenomena (2018), whole work; section not checked"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
+anabranch_t7: "silent"
+anabranch_t7_says: "Does not take up a turn from place-based towards abstract thinking, or place-based thinking carrying on beside it."
+anabranch_t7_cite: "The Experimental Evidence for Parapsychological Phenomena (2018), whole work; section not checked"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
+anabranch_t8: "silent"
+anabranch_t8_says: "Does not take up growth meeting its limits, or drawing on the wisdom of the universe as the curve levels off."
+anabranch_t8_cite: "The Experimental Evidence for Parapsychological Phenomena (2018), whole work; section not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
+anabranch_t9: "silent"
+anabranch_t9_says: "Does not take up place-based and globally shared knowledge working side by side, or the commons that join them."
+anabranch_t9_cite: "The Experimental Evidence for Parapsychological Phenomena (2018), whole work; section not checked"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "summary"
 ---
 
 Etzel Cardeña (2018). *The Experimental Evidence for Parapsychological Phenomena: A Review*. American Psychologist 73(5): 663-677. DOI: [10.1037/amp0000236](https://doi.org/10.1037/amp0000236).
@@ -48,7 +83,7 @@ The wiki records the review as the main current statement of the case for step T
 
 The [[research/evolution-of-consciousness/library|library]] codes it as an evidence work in psychology, with evidence type E3 and claim codes H2.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T2.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it affirms T2; it is silent on T4; it is silent on T5; it is silent on T6; it is silent on T7; it is silent on T8; it is silent on T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms H2.
 
@@ -56,7 +91,14 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

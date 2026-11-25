@@ -83,7 +83,7 @@
   // The scroll cue lands on the introduction's heading when it has one
   if (D.introHeading) document.querySelector(".scroll-cue").setAttribute("href", "#intro-heading")
 
-  // The sources in numbers, counted from the data so they change as sources are added
+  // Evidence Summary, counted from the data so they change as sources are added
   {
     const criticGroups = D.groups.filter((g) => /^\d+\.\s*critics\b/i.test(g))
     const critics = D.sources.filter((s) => criticGroups.includes(s.group)).length
@@ -139,20 +139,24 @@
     const steps = D.steps.filter((s) => s.part === part.id)
     if (!steps.length) continue
     chain += `<section class="part" aria-labelledby="${part.id}-h">
-      <h2 class="part-title" id="${part.id}-h">${esc(part.title)}</h2>
+      <h3 class="part-title" id="${part.id}-h">${esc(part.title)}</h3>
       <ol class="chain" start="${num(steps[0].id)}">`
     for (const s of steps) {
       chain += `<li class="step" id="${s.id}" data-status="${s.status}">
         ${s.connector ? `<p class="connector">${esc(s.connector)}</p>` : ""}
         <article class="step-card" aria-labelledby="${s.id}-claim">
           <p class="step-num">Sub-claim ${num(s.id)}${s.name ? `: <span class="step-name">${esc(s.name)}</span>` : ""}</p>
-          <h3 class="claim" id="${s.id}-claim">${rich(s.claim)}</h3>
-          <dl class="step-meta">
-            <div><dt>Evidence</dt><dd>${rich(s.evidence)}</dd></div>
-            <div><dt>Status</dt><dd><span class="status status-${s.status}">${STATUS[s.status] || esc(s.status)}</span></dd></div>
-          </dl>
+          <h4 class="claim" id="${s.id}-claim">${rich(s.claim)}</h4>
+          ${s.summary ? `<p class="summary">${rich(s.summary)}</p>` : ""}
           ${s.counts ? tally(s.counts) : ""}
-          <p class="note">${rich(s.note)}</p>
+          <details class="evidence-panel"${s.summary ? "" : " open"}>
+            <summary>Full evidence</summary>
+            <dl class="step-meta">
+              <div><dt>Evidence</dt><dd>${rich(s.evidence)}</dd></div>
+              <div><dt>Status</dt><dd><span class="status status-${s.status}">${STATUS[s.status] || esc(s.status)}</span></dd></div>
+            </dl>
+            <p class="note">${rich(s.note)}</p>
+          </details>
           ${stepLinks(s)}
         </article>
       </li>`
@@ -283,13 +287,15 @@
     <a href="${esc(D.wiki)}">evolution of consciousness research</a> on the BioConomy wiki, which holds the full
     <a href="${esc(D.grid)}">claim grid</a>, the graded library and the dating table. Data built ${esc(built)}.</p>
     <p><a href="data/anabranch.json">Download the data as JSON</a></p>`
-  // Folded sections: "Where the sources stand" and "Sources" start closed.
-  // A reader's choice is remembered in this browser; storage can be missing,
-  // so every read and write is guarded.
+  // Folded sections: "The Nine Sub-Claims" starts open; "Evidence Summary",
+  // "Evidence Matrix" and "Sources" start closed. A reader's choice is remembered in this browser;
+  // storage can be missing, so every read and write is guarded.
   for (const d of document.querySelectorAll("details.fold")) {
     const key = "anabranch-fold-" + d.dataset.fold
     try {
-      if (localStorage.getItem(key) === "open") d.open = true
+      const saved = localStorage.getItem(key)
+      if (saved === "open") d.open = true
+      else if (saved === "closed") d.open = false
     } catch (e) {}
     d.addEventListener("toggle", () => {
       try {

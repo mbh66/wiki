@@ -15,10 +15,10 @@ standing: "Read as a spiritual teaching in New Age communities; its reported sou
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-25
 source_project: "BioConomy"
 anabranch_group: "8. Traditions and testimony"
-anabranch_steps: ["T1", "T2", "T6"]
+anabranch_steps: ["T1", "T2", "T6", "T7", "T9"]
 anabranch_t1: "affirms"
 anabranch_t1_says: "Teaches that the self continues across incarnations and densities beyond any one body."
 anabranch_t1_cite: "The Ra Contact, Session 21 (10 February 1981), 21.9-21.10"
@@ -34,6 +34,16 @@ anabranch_t6_says: "Teaches that all beings progress through densities toward th
 anabranch_t6_cite: "The Ra Contact, Session 16 (31 January 1981), 16.21-16.22 and 16.38 (Book I)"
 anabranch_t6_grade: "[TBV]"
 anabranch_t6_basis: "text"
+anabranch_t7: "silent"
+anabranch_t7_says: "Does not take up a turn from place-based towards abstract thinking, or place-based thinking carrying on beside it."
+anabranch_t7_cite: "The Ra Material (1984), whole work; section not checked"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
+anabranch_t9: "silent"
+anabranch_t9_says: "Does not take up place-based and globally shared knowledge working side by side, or the commons that join them."
+anabranch_t9_cite: "The Ra Material (1984), whole work; section not checked"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "summary"
 ---
 
 Don Elkins, Carla Rueckert and James Allen McCarty (1984). *The Ra Material: The Law of One, Book I*. Whitford Press; reissued by L/L Research, Louisville, KY. ISBN: 089865260X.
@@ -44,13 +54,15 @@ This is testimony (E5), and E5 carries no lower worth [MS]. The source the autho
 
 The wiki takes from it one of Tom Morgan's sources, described as its authors present it [TBV]. T5 is left uncoded because no passage on it was located.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it affirms T6.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it affirms T1; it affirms T2; it affirms T6; it is silent on T7; it is silent on T9.
 
 ## Cited by
 
 - [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
-- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

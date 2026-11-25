@@ -25,7 +25,7 @@ standing: "[TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "4. Developmental maps"
 grid_steps: ["A3", "B1", "B2", "B3", "C1", "C2", "H"]
@@ -64,7 +64,7 @@ grid_h_says: "Holds consciousness to be ultimately nondual Spirit."
 grid_h_cite: "Integral Psychology (2000), Part Three, ch. 8 'The Archeology of Spirit' (from p. 89) and ch. 15 'The Integral Embrace' (from p. 188)"
 grid_h_grade: "[TBV]"
 grid_h_basis: "abstract"
-anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T7"]
+anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T7", "T9"]
 anabranch_t1: "qualifies"
 anabranch_t1_says: "Holds consciousness to be ultimately nondual Spirit, which bears on the step, with no argument that an individual mind persists beyond the body."
 anabranch_t1_cite: "Integral Psychology (2000), chapter not checked"
@@ -80,8 +80,8 @@ anabranch_t4_says: "Holds that higher stages emerge through Eros, or Spirit-in-a
 anabranch_t4_cite: "Integral Psychology (2000), ch. 12, as excerpted"
 anabranch_t4_grade: "[TBV]"
 anabranch_t4_basis: "summary"
-anabranch_t5: "qualifies"
-anabranch_t5_says: "(a) Holds that individual development unfolds within Spirit's evolution; silent on (b)."
+anabranch_t5: "affirms"
+anabranch_t5_says: "Holds that each person's development unfolds as part of Spirit's evolution through the levels of the Great Nest."
 anabranch_t5_cite: "Integral Psychology (2000), chapter not confirmed"
 anabranch_t5_grade: "[TBV]"
 anabranch_t5_basis: "review"
@@ -91,10 +91,15 @@ anabranch_t6_cite: "Integral Psychology (2000), ch. 12, as excerpted"
 anabranch_t6_grade: "[TBV]"
 anabranch_t6_basis: "summary"
 anabranch_t7: "qualifies"
-anabranch_t7_says: "Uses Gebser's archaic, magic, mythic, mental and integral structures as stages of consciousness; speaks to part (a), the split, only."
+anabranch_t7_says: "(a, restructuring) Uses Gebser's archaic, magic, mythic, mental and integral structures as stages of consciousness."
 anabranch_t7_cite: "Integral Psychology (2000), Part One, pp. 26 to 27, and Part Three, ch. 13 'From Modernity to Postmodernity', pp. 167 to 168 (pages as cited by Molz and Gidley), with ch. 12 'Sociocultural Evolution' (from p. 143) (inference)"
 anabranch_t7_grade: "[TBV]"
 anabranch_t7_basis: "review"
+anabranch_t9: "silent"
+anabranch_t9_says: "Does not take up place-based and globally shared knowledge working side by side, or the commons that join them."
+anabranch_t9_cite: "Integral Psychology (2000), whole work; section not checked"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "summary"
 ---
 
 Ken Wilber (2000). *Integral Psychology: Consciousness, Spirit, Psychology, Therapy*. Shambhala.
@@ -108,7 +113,7 @@ The work is on Michael Haupt's reading for the evolution of consciousness [MS].
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in integral theory, with evidence type E4 and claim codes A3, B1, B2, B3, C1, C2, H.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it qualifies T3; it affirms T4; it qualifies T5; it affirms T6; it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T1; it qualifies T3; it affirms T4; it affirms T5; it affirms T6; it qualifies T7; it is silent on T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, B1, B2, B3, C1, C2 and H.
 
@@ -122,6 +127,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

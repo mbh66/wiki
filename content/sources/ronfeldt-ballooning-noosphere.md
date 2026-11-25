@@ -24,9 +24,9 @@ standing: "An SSRN working paper outside peer review [IC]; the author reports a 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
-grid_group: "6. Cultural and historical theorists"
+grid_group: "7. Metacrisis and the mycelial turn"
 grid_steps: ["B3", "C2", "C3"]
 grid_b3: "qualifies"
 grid_b3_says: "Holds that formations arising in the evolution of the geosphere and biosphere are bound to recur in the noosphere, and forecasts by structural-functional equivalence."
@@ -43,12 +43,27 @@ grid_c3_says: "Calls the noosphere a web of consciousness and expects autonomous
 grid_c3_cite: "Our Planet's Ballooning Noosphere (2026), SSRN 7191638, abstract and conclusion"
 grid_c3_grade: "[TBV]"
 grid_c3_basis: "text"
-anabranch_steps: ["T4", "T6", "T8", "T9"]
+anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Our Planet's Ballooning Noosphere (2026), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Our Planet's Ballooning Noosphere (2026), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t4: "silent"
 anabranch_t4_says: "Offers an ethical maxim of care across the three spheres and makes no claim that the universe strives."
 anabranch_t4_cite: "Our Planet's Ballooning Noosphere (2026), SSRN 7191638, conclusion"
 anabranch_t4_grade: "[TBV]"
 anabranch_t4_basis: "text"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Our Planet's Ballooning Noosphere (2026), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
 anabranch_t6: "silent"
 anabranch_t6_says: "Names Teilhard's Omega Point only as a vision AEONs might help reach, and claims no direction for the universe."
 anabranch_t6_cite: "Our Planet's Ballooning Noosphere (2026), SSRN 7191638, conclusion"
@@ -56,12 +71,12 @@ anabranch_t6_grade: "[TBV]"
 anabranch_t6_basis: "text"
 anabranch_t8: "qualifies"
 anabranch_t8_says: "(a) Holds that S-shaped curves govern growth in every sphere; (b) places mind in a collective, AI-led noosphere, no individual drawing on it."
-anabranch_t8_cite: "Our Planet's Ballooning Noosphere (2026), draft of 14 July 2026, S-curve passage; SSRN 7191638, conclusion"
+anabranch_t8_cite: "Our Planet's Ballooning Noosphere (SSRN 7191638, 2026), section 'Finding structural-functional equivalents across spheres', p. 27; section 'In conclusion'"
 anabranch_t8_grade: "[TBV]"
 anabranch_t8_basis: "text"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "(a) Joins noosphere, biosphere and geosphere in a planetary tri-sphere frame; cites bioregionalism, doubting that AI entities would adopt it."
-anabranch_t9_cite: "Our Planet's Ballooning Noosphere (2026), SSRN 7191638, abstract; draft of 14 July 2026, section on AEONs as stackworks"
+anabranch_t9_cite: "Our Planet's Ballooning Noosphere (SSRN 7191638, 2026), abstract; section on AEONs as stackworks, pp. 45-48"
 anabranch_t9_grade: "[TBV]"
 anabranch_t9_basis: "text"
 ---
@@ -76,11 +91,11 @@ The paper also introduces a speculative forecast: that noosphere evolution will 
 
 Ronfeldt frames decontrol (ceding, sharing, and distributing power and control) as a complement to control that healthy societies require. He connects this to his [[sources/ronfeldt-timn|TIMN framework]], arguing that each successive societal form (Tribes, Institutions, Markets, Networks) requires increased decontrol to function. The corpus's renaming of TIMN as TIME (Tribal, Institutional, Market, Emergent) maps the same trajectory, with the Emergent form requiring the most radical decontrol of all.
 
-The paper references the BioConomy project directly, citing Michael Haupt's Framer OS research briefs on S-curves and [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]]. A copy of the draft of 14 July 2026 cites four of the briefs, uses one for its S-curve claim and thanks him in its acknowledgements [IC]; the SSRN PDF was not checked for the same citations [TBV]. The paper is therefore a source close to the network, and gets the same independent reading as any other.
+The paper cites four of Michael Haupt's Framer OS research briefs of 26 April 2026. It cites one, with Ronfeldt's own work, for the claim that S-curves govern growth in every sphere (p. 27), another for [[glossary/m-s/mycelial-consciousness|Mycelial Consciousness]] (p. 36), and three on bioregionalism and ecological civilisation (p. 48), and it thanks him in its acknowledgements [IC]. It does not name the BioConomy project. The paper is therefore a source close to the network, and gets the same independent reading as any other.
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a context work in political science, with evidence type E4 and claim codes B3, C2, C3. It calls the noosphere a web of consciousness and gives its lead to AI entities, claiming no new structure of awareness in individuals, so every grid square it holds qualifies.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T4; it is silent on T6; it qualifies T8; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it qualifies T8; it qualifies T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B3, C2 and C3.
 
@@ -88,11 +103,14 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
 - [[essays/from-geosphere-to-noosphere|From Geosphere to Noosphere]]
 - [[noosphere|Noosphere]]
 - [[geosphere|Geosphere]]

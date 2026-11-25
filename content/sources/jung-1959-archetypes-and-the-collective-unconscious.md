@@ -23,7 +23,7 @@ standing: "Foundational for analytical psychology, where the claim that archetyp
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "4. Developmental maps"
 grid_steps: ["B1", "C1", "H2"]
@@ -42,17 +42,32 @@ grid_h2_says: "Offers a patient's vision matching an ancient liturgy he could no
 grid_h2_cite: "The Archetypes and the Collective Unconscious (1959), 'The Concept of the Collective Unconscious' (1936), closing example; paragraph numbers not confirmed"
 grid_h2_grade: "[TBV]"
 grid_h2_basis: "summary"
-anabranch_steps: ["T2", "T5"]
+anabranch_steps: ["T2", "T4", "T5", "T7", "T9"]
 anabranch_t2: "qualifies"
 anabranch_t2_says: "Offers a patient's vision matching an ancient liturgy he could not have read as evidence for an inherited collective unconscious."
 anabranch_t2_cite: "The Archetypes and the Collective Unconscious (1959), 'The Concept of the Collective Unconscious' (1936), closing example; paragraph numbers not confirmed"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
+anabranch_t4: "silent"
+anabranch_t4_says: "Does not take up whether the universe strives towards higher expressions of itself."
+anabranch_t4_cite: "The Archetypes and the Collective Unconscious (1959), whole work; section not checked"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
 anabranch_t5: "qualifies"
 anabranch_t5_says: "(a) Describes individuation as becoming an indivisible whole, tied to an inherited collective psyche; no cosmic process found."
 anabranch_t5_cite: "The Archetypes and the Collective Unconscious, CW 9i, 'Conscious, Unconscious, and Individuation', p. 275 (2nd ed., 1969)"
 anabranch_t5_grade: "[TBV]"
 anabranch_t5_basis: "review"
+anabranch_t7: "silent"
+anabranch_t7_says: "Does not take up a turn from place-based towards abstract thinking, or place-based thinking carrying on beside it."
+anabranch_t7_cite: "The Archetypes and the Collective Unconscious (1959), whole work; section not checked"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
+anabranch_t9: "silent"
+anabranch_t9_says: "Does not take up place-based and globally shared knowledge working side by side, or the commons that join them."
+anabranch_t9_cite: "The Archetypes and the Collective Unconscious (1959), whole work; section not checked"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "summary"
 ---
 
 C. G. Jung (1959). *The Archetypes and the Collective Unconscious*. Princeton University Press, Bollingen Series XX, Collected Works volume 9, part 1; translated by R. F. C. Hull; second edition 1969.
@@ -69,7 +84,7 @@ The [[research/evolution-of-consciousness/library|library]] codes it as a contex
 - Roesler, C. (2025). *The Process of Transformation: The Core of Analytical Psychology and How It Can Be Investigated* [TBV].
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T2; it qualifies T5.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T2; it is silent on T4; it qualifies T5; it is silent on T7; it is silent on T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B1, C1 and H2.
 
@@ -78,7 +93,10 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

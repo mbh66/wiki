@@ -10,7 +10,7 @@ tags:
   - societal-evolution
   - core-framework
 created: 2026-08-25
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: BioConomy
 source_documents:
   - TIMN_Framework_Notion_Export
@@ -111,7 +111,7 @@ Two critics of the tribe as a stage of social evolution are in the library: Mort
 - Ronfeldt, D. (2018). "[[sources/ronfeldt-2018-comparison-quadriform-theories|Comparison of TIMN to Three Parallel Theories]]" (draft chapter, P2P Foundation wiki)
 - Ronfeldt, D. and Arquilla, J. (2020). *[[sources/ronfeldt-arquilla-2020-whose-story-wins|Whose Story Wins]]* (RAND PE-A237-1)
 - Ronfeldt, D. (2026). *[[sources/ronfeldt-ballooning-noosphere|Our Planet's Ballooning Noosphere]]* (SSRN 7191638)
-- Morgan, T. (2020). "Solving the Wickedest Problem: Reconciling Differing Worldviews." *Journal of Futures Studies* 24(4): 83 to 94
+- Morgan, T. (2020). "[[sources/morgan-2020-solving-the-wickedest-problem|Solving the Wickedest Problem: Reconciling Differing Worldviews]]." *Journal of Futures Studies* 24(4): 83 to 94
 - Ronfeldt, D. (2025). *[[sources/ronfeldt-2025-rethinking-tribes-and-networks|Rethinking What 'Tribes' and 'Networks' Are Good For]]* (Substack series, four parts and three appendices):
 	- **Part 1**: [https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks](https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks)
 	- **Part 2**: [https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks-9ec](https://davidronfeldt.substack.com/p/rethinking-what-tribes-and-networks-9ec)

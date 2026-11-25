@@ -24,7 +24,7 @@ standing: "[TBV]"
 on_seed_list: "yes"
 grade: "[TBV]"
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "7. Metacrisis and the mycelial turn"
 grid_steps: ["B1", "B2", "B3", "C1", "C2", "C4"]
@@ -65,10 +65,10 @@ anabranch_t4_cite: "Integral Consciousness and the Future of Evolution (2007), P
 anabranch_t4_grade: "[TBV]"
 anabranch_t4_basis: "summary"
 anabranch_t5: "qualifies"
-anabranch_t5_says: "(a) Ties each person's development to the evolution of consciousness; silent on (b)."
-anabranch_t5_cite: "Integral Consciousness and the Future of Evolution (2007), Part I, ch. 3 'Stages of Consciousness and Culture' (p. 29); the part title 'The Main Narrative' not confirmed"
-anabranch_t5_grade: "[TBV]"
-anabranch_t5_basis: "summary"
+anabranch_t5_says: "Ties personal growth of consciousness to cultural and cosmic evolution, yet holds most adults move little and invites direct participation."
+anabranch_t5_cite: "Integral Consciousness and the Future of Evolution (2007), ch. 1 'Introduction' and ch. 2 'The Internal Universe'"
+anabranch_t5_grade: "[IC]"
+anabranch_t5_basis: "text"
 anabranch_t6: "affirms"
 anabranch_t6_says: "(a) Holds that evolution has a direction; (b) holds that integral consciousness integrates earlier worldviews; needs a check against the text."
 anabranch_t6_cite: "Integral Consciousness and the Future of Evolution (2007), Part I, ch. 4 'The Integral Stage of Consciousness' (chapter title not confirmed)"

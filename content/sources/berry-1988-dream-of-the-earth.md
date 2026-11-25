@@ -15,15 +15,25 @@ standing: "Reviewed favourably by Frederic and Mary Ann Brussat at Spirituality 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-25
 source_project: "BioConomy"
 anabranch_group: "5. Complexity and cosmic evolution"
-anabranch_steps: ["T2", "T5"]
+anabranch_steps: ["T1", "T2", "T3", "T5"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "The Dream of the Earth (1988), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
 anabranch_t2: "silent"
 anabranch_t2_says: "Sets out the universe story and ecological renewal, and does not take up anomalous information."
 anabranch_t2_cite: "The Dream of the Earth (1988), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "The Dream of the Earth (1988), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t5: "affirms"
 anabranch_t5_says: "Argues that education should enable each student to understand the universe story and their own role in creating its next phase."
 anabranch_t5_cite: "The Dream of the Earth (1988), ch. 8 'The American College in the Ecological Age', p. 98, and ch. 10 'The New Story', pp. 123-137, esp. p. 136 (as quoted by the Thomas Berry Foundation)"
@@ -39,12 +49,14 @@ Frederic and Mary Ann Brussat review the book favourably at Spirituality and Pra
 
 The wiki takes from it a direct statement that each person has a part in the universe story, with a call for education to teach it [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it affirms T5.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T2; it is silent on T3; it affirms T5.
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 
 <script type="application/ld+json">
 {

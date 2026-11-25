@@ -8,7 +8,7 @@ publisher: "Ohio University Press (English translation, 1985)"
 tags: ["source", "consciousness", "development", "phenomenology", "evolution-of-consciousness", "anabranch"]
 subject: ["economics", "consciousness"]
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "6. Cultural and historical theorists"
 grid_steps: ["A2", "A3", "B3", "C1", "C2", "C4", "H", "H2"]
@@ -70,7 +70,7 @@ finding: "Archaic magic mythical mental and integral structures; each stays pres
 standing: "Central to integral studies [TBV]"
 on_seed_list: "yes"
 grade: "[IC]"
-anabranch_steps: ["T1", "T2", "T3", "T4", "T6", "T7"]
+anabranch_steps: ["T1", "T2", "T3", "T4", "T6", "T7", "T9"]
 anabranch_t1: "silent"
 anabranch_t1_says: "Describes structures of consciousness and an ever-present spiritual origin, and does not address a person's consciousness beyond the body."
 anabranch_t1_cite: "The Ever-Present Origin, chapter not checked"
@@ -97,10 +97,15 @@ anabranch_t6_cite: "The Ever-Present Origin, Part Two"
 anabranch_t6_grade: "[TBV]"
 anabranch_t6_basis: "summary"
 anabranch_t7: "qualifies"
-anabranch_t7_says: "Describes mutations in how awareness is organised in space and time, from archaic to integral; speaks to part (a), the split, only."
+anabranch_t7_says: "(a, mutation) Describes mutations in how awareness is organised in space and time, from archaic to integral."
 anabranch_t7_cite: "The Ever-Present Origin, Part One"
 anabranch_t7_grade: "[TBV]"
 anabranch_t7_basis: "review"
+anabranch_t9: "silent"
+anabranch_t9_says: "Does not take up place-based and globally shared knowledge working side by side, or the commons that join them."
+anabranch_t9_cite: "The Ever-Present Origin (1949), whole work; section not checked"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "summary"
 ---
 
 Gebser, J. (1949/1985). *The Ever-Present Origin.* Ohio University Press. ISBN: 978-0-8214-0776-1.
@@ -112,7 +117,7 @@ In the BioConomy corpus, Gebser's mental-rational structure corresponds to [[mat
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in history of ideas, with evidence type E4 and claim codes A2, A3, B3, C1, C2, C4, H, H2.
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it affirms T2; it is silent on T3; it qualifies T4; it qualifies T6; it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it affirms T2; it is silent on T3; it qualifies T4; it qualifies T6; it qualifies T7; it is silent on T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms A3, C1, C2, C4 and H2; it qualifies A2, B3 and H.
 
@@ -132,6 +137,7 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

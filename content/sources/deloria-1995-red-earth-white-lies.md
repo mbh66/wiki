@@ -15,20 +15,50 @@ standing: "Reviews divide: Kirkus Reviews and Publishers Weekly (both 1995) faul
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-25
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T2", "T7"]
+anabranch_steps: ["T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Red Earth, White Lies (1995), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
 anabranch_t2: "silent"
 anabranch_t2_says: "Defends oral traditions as records of the deep past against scientific chronology; the knowledge passes by tradition, so the claim is not taken up."
 anabranch_t2_cite: "Red Earth, White Lies (1995), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "review"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Red Earth, White Lies (1995), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
+anabranch_t4: "silent"
+anabranch_t4_says: "Does not take up whether the universe strives towards higher expressions of itself."
+anabranch_t4_cite: "Red Earth, White Lies (1995), whole work; section not checked"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Red Earth, White Lies (1995), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
+anabranch_t6: "silent"
+anabranch_t6_says: "Does not take up whether the universe has a direction towards wholeness."
+anabranch_t6_cite: "Red Earth, White Lies (1995), whole work; section not checked"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Holds, on part (b), that tribal oral traditions preserve accurate knowledge of the deep past, against scientific orthodoxy; silent on parts (a) and (c)."
 anabranch_t7_cite: "Red Earth, White Lies (1995), whole argument as summarised in the catalogue record and three reviews; chapters not read"
 anabranch_t7_grade: "[IC]"
 anabranch_t7_basis: "review"
+anabranch_t8: "silent"
+anabranch_t8_says: "Does not take up growth meeting its limits, or drawing on the wisdom of the universe as the curve levels off."
+anabranch_t8_cite: "Red Earth, White Lies (1995), whole work; section not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
 ---
 
 Vine Deloria Jr. (1995). *Red Earth, White Lies: Native Americans and the Myth of Scientific Fact*. Scribner, New York. 286 pages. ISBN 0-684-80700-9 [IC]. Reissued by Fulcrum, Golden, Colorado, 1997 [IC].
@@ -39,12 +69,18 @@ Reviewers divide [IC]. *Kirkus Reviews* found the case unconvincing, and judged 
 
 The wiki takes from it an Indigenous scholar's claim for the standing of his people's oral traditions, in his own terms [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T2; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it qualifies T7; it is silent on T8.
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 
 <script type="application/ld+json">
 {

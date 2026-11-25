@@ -1,27 +1,23 @@
 ---
 title: "Peer FOR Peer: The Emerging Third Attractor"
-description: "A planned work by Michel Bauwens, with no published text as of November 2026: his articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of regenerative projects."
+description: "The working title the network gave Michel Bauwens's account of P4P, Peer FOR Peer infrastructure. He published it as the essay \"Understanding the importance of the P4P moment in the long evolution of the commons\" on his Substack, 16 August 2026."
 author: "Michel Bauwens"
 year: 2026
 type: "essay"
-publisher: "P2P Foundation"
-url: "https://blog.p2pfoundation.net/"
+publisher: "Fourth Generation Civilization (Michel Bauwens's Substack), 16 August 2026"
+url: "https://4thgenerationcivilization.substack.com/p/understanding-the-importance-of-the"
 tags: ["source", "p4p", "regenerative-economics", "bioregional-economics"]
 subject: ["economics", "coordination"]
 created: 2026-08-25
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 ---
 
-Bauwens, M. (forthcoming). "Peer FOR Peer: The Emerging Third Attractor." P2P Foundation.
+Bauwens, M. (2026). "Understanding the importance of the P4P moment in the long evolution of the commons." *Fourth Generation Civilization* (Substack), 16 August 2026. [Open copy](https://4thgenerationcivilization.substack.com/p/understanding-the-importance-of-the).
 
-As planned, the work sets out a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of [[regenerative|regenerative]] projects. The work is to name the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] framing and to read the wider bioregional and regenerative movement as a converging third attractor alongside states and markets.
+"Peer FOR Peer: The Emerging Third Attractor" is the working title under which the network recorded Michel Bauwens's account of P4P. No work under that title was found. Bauwens published the account as the essay above, which the wiki records and codes at [[sources/bauwens-2026-p4p-moment|Bauwens (2026), "Understanding the importance of the P4P moment"]]. Read that page for what the essay argues and how the research codes it.
 
-## Status of the text
-
-No text of this work had been published as of 22 November 2026, at Michael Haupt's confirmation. The page records the work as planned, so it carries no positions in the evolution of consciousness research. Bauwens's published statement of the P4P moment is [[sources/bauwens-2026-p4p-moment|"Understanding the importance of the P4P moment in the long evolution of the commons" (2026)]], which the Anabranch research codes.
-
-The two PDFs once listed here are other works by Bauwens: [[sources/bauwens-2005-p2p-and-human-evolution|*P2P and Human Evolution* (2005)]] and [[sources/bauwens-pazaitis-p2p-accounting|*P2P Accounting for Planetary Survival* (2019, with Pazaitis)]].
+In the essay, P4P means Peer FOR Peer (collective) infrastructure, a term Bauwens credits to Jeff Emmett, and the third attractor is the [[archipelago-of-regenerative-projects|Archipelago of Regenerative Projects]] [TBV]. The two PDFs once listed here are other works by Bauwens: [[sources/bauwens-2005-p2p-and-human-evolution|*P2P and Human Evolution* (2005)]] and [[sources/bauwens-pazaitis-p2p-accounting|*P2P Accounting for Planetary Survival* (2019, with Pazaitis)]].
 
 ## Cited by
 
@@ -39,18 +35,19 @@ The two PDFs once listed here are other works by Bauwens: [[sources/bauwens-2005
     "@type": "Person",
     "name": "Michel Bauwens"
   },
+  "datePublished": "2026-08-16",
   "publisher": {
     "@type": "Organization",
-    "name": "P2P Foundation"
+    "name": "Fourth Generation Civilization"
   },
-  "url": "https://blog.p2pfoundation.net/",
+  "url": "https://4thgenerationcivilization.substack.com/p/understanding-the-importance-of-the",
   "review": {
     "@type": "Review",
     "author": {
       "@type": "Person",
       "name": "Michael Haupt"
     },
-    "reviewBody": "Bauwens's articulation of a coordination form that goes beyond peer-to-peer as a transaction pattern to peer-for-peer as a mutual-service commitment across networks of regenerative projects. The work is to name the Archipelago of Regenerative Projects framing and to read the wider bioregional and regenerative movement as a converging third attractor alongside states and markets."
+    "reviewBody": "The working title the network gave Michel Bauwens's account of P4P, Peer FOR Peer infrastructure, which he published as an essay on his Substack on 16 August 2026."
   }
 }
 </script>

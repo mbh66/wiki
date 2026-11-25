@@ -18,7 +18,7 @@ standing: "Scholars trace its valve image to Bergson through C. D. Broad; Webb (
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "10. Anomalous experience research"
 grid_steps: ["H2"]
@@ -27,7 +27,7 @@ grid_h2_says: "Holds that the brain filters a wider Mind at Large and that by-pa
 grid_h2_cite: "The Doors of Perception (1954), the Mind at Large passage after the quotation of C. D. Broad on Bergson, p. 12 of the 1994 edition as cited in Webb (2023); page not read"
 grid_h2_grade: "[TBV]"
 grid_h2_basis: "review"
-anabranch_steps: ["T2", "T3"]
+anabranch_steps: ["T2", "T3", "T4", "T5", "T6", "T7", "T8", "T9"]
 anabranch_t2: "qualifies"
 anabranch_t2_says: "Holds that the brain filters a wider Mind at Large and that by-passes admit more than useful perception, though never everything happening everywhere."
 anabranch_t2_cite: "The Doors of Perception (1954), the Mind at Large passage after the quotation of C. D. Broad on Bergson, p. 12 of the 1994 edition as cited in Webb (2023); page not read"
@@ -38,6 +38,36 @@ anabranch_t3_says: "Proposes that the brain and nervous system form a reducing v
 anabranch_t3_cite: "The Doors of Perception (1954), the Mind at Large passage after Huxley's quotation of Broad, p. 12 of the 1994 edition cited in Webb (2023); pages not read"
 anabranch_t3_grade: "[IC]"
 anabranch_t3_basis: "review"
+anabranch_t4: "silent"
+anabranch_t4_says: "Does not take up whether the universe strives towards higher expressions of itself."
+anabranch_t4_cite: "The Doors of Perception (1954), whole work; section not checked"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "The Doors of Perception (1954), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
+anabranch_t6: "silent"
+anabranch_t6_says: "Does not take up whether the universe has a direction towards wholeness."
+anabranch_t6_cite: "The Doors of Perception (1954), whole work; section not checked"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
+anabranch_t7: "silent"
+anabranch_t7_says: "Does not take up a turn from place-based towards abstract thinking, or place-based thinking carrying on beside it."
+anabranch_t7_cite: "The Doors of Perception (1954), whole work; section not checked"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
+anabranch_t8: "silent"
+anabranch_t8_says: "Does not take up growth meeting its limits, or drawing on the wisdom of the universe as the curve levels off."
+anabranch_t8_cite: "The Doors of Perception (1954), whole work; section not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
+anabranch_t9: "silent"
+anabranch_t9_says: "Does not take up place-based and globally shared knowledge working side by side, or the commons that join them."
+anabranch_t9_cite: "The Doors of Perception (1954), whole work; section not checked"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "summary"
 ---
 
 Aldous Huxley (1954). *The Doors of Perception*. Two rare-book dealer listings give the first editions as Chatto and Windus, London, and Harper and Brothers, New York, published at the same time [TBV].
@@ -50,7 +80,7 @@ The wiki takes from it the best-known modern statement of the filter image [TBV]
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in philosophy of mind, with evidence type E4 and claim codes H2.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T2; it affirms T3.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T2; it affirms T3; it is silent on T4; it is silent on T5; it is silent on T6; it is silent on T7; it is silent on T8; it is silent on T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies H2.
 
@@ -58,8 +88,14 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
-- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

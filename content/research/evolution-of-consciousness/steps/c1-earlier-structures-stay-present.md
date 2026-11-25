@@ -10,7 +10,7 @@ claim: "No structure replaces the ones before it; all are active in everyone now
 evidence_type: "E3 theory on evidence to E4 synthesis"
 evidence_main: "E3"
 depends_on_h: "holds-either-way"
-affirms_count: 9
+affirms_count: 10
 qualifies_count: 10
 dissents_count: 1
 silent_count: 73
@@ -37,7 +37,7 @@ Unchanged. It is the most widely shared step among the sequence theorists.
 
 ## Where the grid sources stand
 
-Of the 93 grid sources, 9 affirm this step, 10 qualify it and one dissents. The other 73 are silent on it.
+Of the 94 grid sources, 10 affirm this step, 10 qualify it and one dissents. The other 73 are silent on it.
 
 ### Affirms
 
@@ -48,6 +48,7 @@ Of the 93 grid sources, 9 affirm this step, 10 qualify it and one dissents. The 
 - [[sources/lewis-williams-2002-mind-in-the-cave|David Lewis-Williams, The Mind in the Cave (2002)]]
 - [[sources/mcgilchrist-2009-master-and-his-emissary|Iain McGilchrist, The Master and His Emissary (2009)]]
 - [[sources/mcintosh-2007-integral-consciousness|Steve McIntosh, Integral Consciousness and the Future of Evolution (2007)]]
+- [[sources/morgan-2020-solving-the-wickedest-problem|Tim Morgan, Solving the Wickedest Problem: Reconciling Differing Worldviews (2020)]]
 - [[sources/ong-1982-orality-and-literacy|Walter J. Ong, Orality and Literacy (1982)]]
 - [[sources/wilber-2000-integral-psychology|Ken Wilber, Integral Psychology: Consciousness, Spirit, Psychology, Therapy (2000)]]
 

@@ -23,9 +23,9 @@ standing: "Published in full by RAND [IC]; noticed by the Small Wars Journal on 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
-grid_group: "6. Cultural and historical theorists"
+grid_group: "7. Metacrisis and the mycelial turn"
 grid_steps: ["B3", "C2", "C3"]
 grid_b3: "qualifies"
 grid_b3_says: "Places the noosphere as the third sphere to develop on Earth, after the geosphere and the biosphere."
@@ -39,15 +39,30 @@ grid_c2_grade: "[TBV]"
 grid_c2_basis: "abstract"
 grid_c3: "qualifies"
 grid_c3_says: "Describes the noosphere as a global thinking circuit and realm of the mind, a collective intelligence enabled by the digital revolution."
-grid_c3_cite: "Whose Story Wins (2020), RAND PE-A237-1, abstract; independently reported by the Small Wars Journal, 29 July 2020"
-grid_c3_grade: "[IC]"
+grid_c3_cite: "Whose Story Wins (2020), RAND PE-A237-1, abstract; noticed by the Small Wars Journal, 29 July 2020, in a notice that restates the abstract"
+grid_c3_grade: "[TBV]"
 grid_c3_basis: "abstract"
-anabranch_steps: ["T4", "T6", "T8", "T9"]
+anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Whose Story Wins (2020), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Whose Story Wins (2020), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t4: "silent"
 anabranch_t4_says: "Sets out a sequence of Earth's spheres in terms of statecraft and makes no claim that the universe strives."
 anabranch_t4_cite: "Whose Story Wins (2020), RAND PE-A237-1, abstract"
 anabranch_t4_grade: "[TBV]"
 anabranch_t4_basis: "abstract"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Whose Story Wins (2020), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
 anabranch_t6: "silent"
 anabranch_t6_says: "Describes the noosphere as expanding and assigns the universe no direction or goal."
 anabranch_t6_cite: "Whose Story Wins (2020), RAND PE-A237-1, abstract"
@@ -73,7 +88,7 @@ David Ronfeldt's 2026 paper, [[sources/ronfeldt-ballooning-noosphere|Our Planet'
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a context work in strategic studies, with evidence type E4 and claim codes B3, C2, C3. It speaks of a collective realm of mind and of statecraft, and claims no new structure of awareness in individuals, so every grid square it holds qualifies.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T4; it is silent on T6; it qualifies T8; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it qualifies T8; it qualifies T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B3, C2 and C3.
 
@@ -81,8 +96,11 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]

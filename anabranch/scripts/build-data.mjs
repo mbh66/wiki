@@ -174,10 +174,14 @@ const thesis = {
       name: fm.name || null,
       connector: fm.connector || null,
       claim: convertLinks(fm.claim, where),
+      summary: fm.summary ? convertLinks(fm.summary, where) : null,
       evidence: convertLinks(fm.evidence_type, where),
       status: fm.status,
       primary: fm.crosswalk || null,
       secondary: asList(fm.crosswalk_also),
+      // true where the crosswalk grid step is the step's own claim in grid wording (T2 and H2),
+      // so a silence on the grid step is a silence on the thesis step
+      silenceCarries: fm.crosswalk_silence === true,
       note: convertLinks(fm.note, where),
       url: p.url,
     }
@@ -260,8 +264,14 @@ function thesisCell(fm, step, where) {
     }
   }
   if (!step.primary) return { position: null, basis: "pending", secondary }
+  const inherited = gridEntry(fm, step.primary, where)
+  // A work with no position on the crosswalk grid step was never read against this step,
+  // so it shows as not yet tested (25 November 2026), unless the grid step is this step's
+  // own claim (crosswalk_silence on the step page).
+  if (inherited.position === "silent" && !step.silenceCarries)
+    return { position: null, basis: "pending", secondary }
   return {
-    ...gridEntry(fm, step.primary, where),
+    ...inherited,
     basis: "inherited",
     from: step.primary,
     secondary,
@@ -390,6 +400,64 @@ mkdirSync(out, { recursive: true })
 const json = JSON.stringify(data, null, 2)
 writeFileSync(join(out, "anabranch.json"), json + "\n")
 writeFileSync(join(out, "anabranch.js"), `window.ANABRANCH = ${json};\n`)
+
+// llms.txt: a plain-text map of the site for AI agents, regenerated at each build
+{
+  const plain = (s) =>
+    String(s ?? "")
+      .replace(/\[([^\]]+)\]\(wiki:([^)]+)\)/g, (m, label, path) => `${label} (${WIKI_URL}/${path})`)
+      .replace(/<[^>]+>/g, "")
+      .replace(/\s+/g, " ")
+      .trim()
+  const STATUS_WORD = { mapped: "Coded", partial: "Partly coded", pending: "Not yet tested" }
+  const n = sources.length
+  const lines = [
+    `# ${data.title}`,
+    "",
+    `> ${plain(data.subtitle)}`,
+    "",
+    "This site sets out Michael Haupt's Anabranch thesis in nine sub-claims, and shows how each source in the BioConomy wiki's evolution of consciousness research stands on each one. The thesis is his position [MS]. The positions, citations and grades come from the source pages on the BioConomy wiki, which hold the full record; this site is a view of them.",
+    "",
+    "## How to read a position",
+    "",
+    "- affirms: the source argues the sub-claim holds, in its own terms.",
+    "- qualifies: the source accepts part of the sub-claim, holds it with stated limits, or reads it in a way that changes what it says.",
+    "- dissents: the source argues against the sub-claim.",
+    "- silent: the source does not take up the sub-claim.",
+    "- not yet tested: no one has read the source against the sub-claim.",
+    "- Grades: [IC] two independent accounts confirm the position; [TBV] plausible and unconfirmed; [MS] Michael Haupt's own documents.",
+    "- Basis, what each reading was made from: text (the work itself), abstract (its abstract, publisher's description or table of contents), review (a review or reference entry), summary (secondary summaries or general knowledge).",
+    "- Status says how closely the grid step behind a sub-claim covers it: Coded where it covers the claim closely, Partly coded where it covers part, or where no grid step tests it and sources are coded on it directly.",
+    "",
+    `## The sub-claims (${n} sources)`,
+  ]
+  for (const part of parts) {
+    lines.push("", `### ${part.title}`, "")
+    for (const s of steps.filter((x) => x.part === part.id)) {
+      const c = s.counts || { affirms: 0, qualifies: 0, dissents: 0, silent: 0 }
+      const coded = c.affirms + c.qualifies + c.dissents + c.silent
+      lines.push(
+        `- [${s.id}. ${plain(s.name || s.short)}](${s.url}): ${plain(s.claim)} ` +
+          `Positions: ${c.affirms} affirm, ${c.qualifies} qualify, ${c.dissents} dissent, ${c.silent} silent, ${n - coded} not yet tested. ` +
+          `Status: ${STATUS_WORD[s.status] || s.status}.`,
+      )
+    }
+  }
+  lines.push(
+    "",
+    "## Data and related pages",
+    "",
+    `- [Site data (JSON)](https://anabranch.bioconomy.earth/data/anabranch.json): every sub-claim and source, with each position, what the source says, where it says it, its grade and its basis.`,
+    `- [The thesis on the BioConomy wiki](${data.thesisPage}): the step pages, with each sub-claim's evidence type, notes and provenance.`,
+    `- [The evolution of consciousness grid](${data.grid}): the wiki's claim chain, whose positions the sub-claims draw on.`,
+    `- [The evolution of consciousness research](${data.wiki}): the library, the grid and the dated thresholds.`,
+    `- [BioConomy wiki map for AI agents](${WIKI_URL}/llms.txt)`,
+    "",
+    `Generated ${data.generated.slice(0, 10)} from the BioConomy wiki.`,
+    "",
+  )
+  writeFileSync(join(ROOT, "site", "llms.txt"), lines.join("\n"))
+}
 
 // Squares still inherited from a grid step, for the next research brief
 const inheritedLines = [

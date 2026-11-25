@@ -23,9 +23,9 @@ standing: "The author's own series accompanying his 2026 paper; no independent a
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-21
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
-grid_group: "6. Cultural and historical theorists"
+grid_group: "7. Metacrisis and the mycelial turn"
 grid_steps: ["B3", "C2", "C3", "C4"]
 grid_b3: "qualifies"
 grid_b3_says: "Holds that three earlier double transitions, each enabled by an information revolution, advanced both societies and the noosphere."
@@ -47,12 +47,27 @@ grid_c4_says: "Expects state and business actors to resist a commons realm, and 
 grid_c4_cite: "Our World's Ballooning Noosphere (3 of 3) (2026), closing section"
 grid_c4_grade: "[TBV]"
 grid_c4_basis: "text"
-anabranch_steps: ["T4", "T6", "T7", "T8", "T9"]
+anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T7", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Our World's Ballooning Noosphere (3 of 3) (2026), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Our World's Ballooning Noosphere (3 of 3) (2026), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t4: "silent"
 anabranch_t4_says: "Treats the advance of societies from simpler to more complex designs as a social process, and makes no claim that the universe strives."
 anabranch_t4_cite: "Our World's Ballooning Noosphere (3 of 3) (2026), whole post as read for run 8"
 anabranch_t4_grade: "[TBV]"
 anabranch_t4_basis: "text"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Our World's Ballooning Noosphere (3 of 3) (2026), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
 anabranch_t6: "silent"
 anabranch_t6_says: "Names Teilhard's Omega Point and Graves's Turquoise level only as visions AEONs might help achieve, and claims no direction for the universe."
 anabranch_t6_cite: "Our World's Ballooning Noosphere (3 of 3) (2026), sections on AEONs"
@@ -83,7 +98,7 @@ The post is the author's own account on his own Substack, and no independent dis
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a context work in political science, with evidence type E4 and claim codes B3, C2, C3, C4. It gives the noosphere's lead to AI entities and claims no new structure of awareness in individuals, so every grid square it holds qualifies.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T4; it is silent on T6; it qualifies T7; it qualifies T8; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it qualifies T7; it qualifies T8; it qualifies T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B3, C2, C3 and C4.
 
@@ -91,13 +106,16 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
-- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 - [[frameworks/timn-framework|The TIMN Framework]]
-- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

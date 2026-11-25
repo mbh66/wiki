@@ -1,0 +1,122 @@
+---
+title: "Participatory development and empowerment: The dangers of localism"
+description: "Argues that development's turn to local participation is promising but hides local power and wider forces, and calls for a global sense of place."
+author: "Giles Mohan; Kristian Stokke"
+year: 2000
+type: "journal-article"
+publisher: "Third World Quarterly 21(2): 247-268"
+url: "https://doi.org/10.1080/01436590050004346"
+doi: "10.1080/01436590050004346"
+tags: ["source", "consciousness", "anabranch"]
+subject: ["political-ecology"]
+briefs: ["anabranch"]
+design: "E3"
+finding: "Argues that the shared turn of the new Left and new Right to local participation underplays local inequalities and national and transnational forces, and calls for a politics of the local across scales."
+standing: "Reception not checked in this run [TBV]"
+on_seed_list: "no"
+grade: "[TBV]"
+created: 2026-11-25
+updated: 2026-11-25
+source_project: "BioConomy"
+anabranch_group: "13. Place and bioregionalism"
+anabranch_steps: ["T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Participatory development and empowerment (2000), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
+anabranch_t2: "silent"
+anabranch_t2_says: "Does not take up information arriving by routes that current science has not explained."
+anabranch_t2_cite: "Participatory development and empowerment (2000), whole work; chapter not checked"
+anabranch_t2_grade: "[TBV]"
+anabranch_t2_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Participatory development and empowerment (2000), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
+anabranch_t4: "silent"
+anabranch_t4_says: "Does not take up whether the universe strives towards higher expressions of itself."
+anabranch_t4_cite: "Participatory development and empowerment (2000), whole work; section not checked"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Participatory development and empowerment (2000), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
+anabranch_t6: "silent"
+anabranch_t6_says: "Does not take up whether the universe has a direction towards wholeness."
+anabranch_t6_cite: "Participatory development and empowerment (2000), whole work; section not checked"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
+anabranch_t7: "silent"
+anabranch_t7_says: "Does not take up a turn from place-based towards abstract thinking, or place-based thinking carrying on beside it."
+anabranch_t7_cite: "Participatory development and empowerment (2000), whole work; section not checked"
+anabranch_t7_grade: "[TBV]"
+anabranch_t7_basis: "summary"
+anabranch_t8: "silent"
+anabranch_t8_says: "Does not take up growth meeting its limits, or drawing on the wisdom of the universe as the curve levels off."
+anabranch_t8_cite: "Participatory development and empowerment (2000), whole work; section not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
+anabranch_t9: "qualifies"
+anabranch_t9_says: "(a, b) Holds the turn to local participation promising but warns it hides local power and transnational forces; calls for a global sense of place."
+anabranch_t9_cite: "Mohan and Stokke 2000, Third World Quarterly 21(2): 247-268; pp. 248-249, 263-264"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "text"
+---
+
+Mohan, G. and Stokke, K. (2000). *Participatory development and empowerment: The dangers of localism*. Third World Quarterly 21(2): 247-268. DOI: [10.1080/01436590050004346](https://doi.org/10.1080/01436590050004346).
+
+Giles Mohan and Kristian Stokke trace a turn in development theory and practice towards local participation and empowerment, shared by the new Left and the new Right [TBV]. They follow it through decentralised service delivery, participatory development, social capital and social movements [TBV]. They call the turn promising and name two dangers: treating the local as romantic, which hides local inequality and power, and treating it in isolation, which hides national and transnational forces [TBV]. They ask for attention to the politics of the local and to scale, and close on Doreen Massey's global sense of place, keeping the local as a basis for empowerment [TBV].
+
+The wiki records the article as a qualification on step T9, parts (a) and (b), as Michael Haupt decided on 25 November 2026 after Anabranch run 9 [MS]. It reads beside [[sources/massey-1991-global-sense-of-place|Massey (1991)]] and [[sources/purcell-brown-2005-against-the-local-trap|Purcell and Brown (2005)]].
+
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T2; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it is silent on T7; it is silent on T8; it qualifies T9.
+
+## Cited by
+
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://wiki.bioconomy.earth/sources/mohan-stokke-2000-dangers-of-localism/",
+  "name": "Participatory development and empowerment: The dangers of localism",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Giles Mohan"
+    },
+    {
+      "@type": "Person",
+      "name": "Kristian Stokke"
+    }
+  ],
+  "datePublished": "2000",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Third World Quarterly 21(2): 247-268"
+  },
+  "url": "https://doi.org/10.1080/01436590050004346",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Michael Haupt"
+    },
+    "reviewBody": "Argues that development's turn to local participation is promising but hides local power and wider forces, and calls for a global sense of place."
+  },
+  "identifier": "https://doi.org/10.1080/01436590050004346"
+}
+</script>

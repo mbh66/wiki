@@ -13,7 +13,7 @@ depends_on_h: "holds-either-way"
 affirms_count: 7
 qualifies_count: 7
 dissents_count: 0
-silent_count: 79
+silent_count: 80
 created: 2026-11-19
 updated: 2026-11-19
 source_project: "BioConomy"
@@ -37,7 +37,7 @@ Run 2 added the split between strong support and realistic possibility, followin
 
 ## Where the grid sources stand
 
-Of the 93 grid sources, 7 affirm this step, 7 qualify it and none dissent. The other 79 are silent on it.
+Of the 94 grid sources, 7 affirm this step, 7 qualify it and none dissent. The other 80 are silent on it.
 
 ### Affirms
 

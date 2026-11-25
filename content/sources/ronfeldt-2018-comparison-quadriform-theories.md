@@ -22,7 +22,7 @@ standing: "A draft chapter by the author, posted on the P2P Foundation wiki and 
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "6. Cultural and historical theorists"
 grid_steps: ["B3", "C1", "C2"]
@@ -41,12 +41,27 @@ grid_c2_says: "Holds that advanced societies are on the cusp of the fourth form,
 grid_c2_cite: "Comparison of TIMN to Three Parallel Theories (2018), Bauwens section and 'Advantages' section"
 grid_c2_grade: "[TBV]"
 grid_c2_basis: "text"
-anabranch_steps: ["T4", "T6", "T7", "T9"]
+anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T7", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Comparison of TIMN to Three Parallel Theories (2018), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Comparison of TIMN to Three Parallel Theories (2018), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t4: "silent"
 anabranch_t4_says: "Compares theories of social change and makes no claim that the universe strives."
 anabranch_t4_cite: "Comparison of TIMN to Three Parallel Theories (2018), whole text"
 anabranch_t4_grade: "[TBV]"
 anabranch_t4_basis: "text"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Comparison of TIMN to Three Parallel Theories (2018), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
 anabranch_t6: "silent"
 anabranch_t6_says: "Prefers that no single form dominate a society and claims no direction for the universe."
 anabranch_t6_cite: "Comparison of TIMN to Three Parallel Theories (2018), 'Advantages' section"
@@ -57,6 +72,11 @@ anabranch_t7_says: "(a) Ties institutions to writing and printing and markets to
 anabranch_t7_cite: "Comparison of TIMN to Three Parallel Theories (2018), Karatani section"
 anabranch_t7_grade: "[TBV]"
 anabranch_t7_basis: "text"
+anabranch_t8: "silent"
+anabranch_t8_says: "Does not take up growth meeting its limits, or drawing on the wisdom of the universe as the curve levels off."
+anabranch_t8_cite: "Comparison of TIMN to Three Parallel Theories (2018), whole work; section not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "(b) Expects a commons sector for the network form serving health, education, welfare and the environment; (a) holds that forms scale towards global systems."
 anabranch_t9_cite: "Comparison of TIMN to Three Parallel Theories (2018), Bauwens and Karatani sections"
@@ -70,7 +90,7 @@ David Ronfeldt sets his TIMN framework beside three other theories that divide s
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in political science, with evidence type E4 and claim codes B3, C1, C2. It speaks of forms of organisation where the claim chain speaks of structures of awareness, so every grid square it holds qualifies.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T4; it is silent on T6; it qualifies T7; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it qualifies T7; it is silent on T8; it qualifies T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B3, C1 and C2.
 
@@ -78,9 +98,13 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 - [[frameworks/timn-framework|The TIMN Framework]]
 

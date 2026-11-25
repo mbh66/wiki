@@ -16,23 +16,53 @@ standing: "A standard reference in critiques of indigenous knowledge in developm
 on_seed_list: "no"
 grade: "[IC]"
 created: 2026-11-20
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 anabranch_group: "13. Place and bioregionalism"
-anabranch_steps: ["T2", "T7", "T9"]
+anabranch_steps: ["T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Dismantling the Divide Between Indigenous and Scientific Knowledge (1995), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
 anabranch_t2: "silent"
 anabranch_t2_says: "Argues that the line between Indigenous and scientific knowledge cannot hold, and does not take up anomalous information."
 anabranch_t2_cite: "Dismantling the Divide Between Indigenous and Scientific Knowledge (1995), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Dismantling the Divide Between Indigenous and Scientific Knowledge (1995), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
+anabranch_t4: "silent"
+anabranch_t4_says: "Does not take up whether the universe strives towards higher expressions of itself."
+anabranch_t4_cite: "Dismantling the Divide Between Indigenous and Scientific Knowledge (1995), whole work; section not checked"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Dismantling the Divide Between Indigenous and Scientific Knowledge (1995), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
+anabranch_t6: "silent"
+anabranch_t6_says: "Does not take up whether the universe has a direction towards wholeness."
+anabranch_t6_cite: "Dismantling the Divide Between Indigenous and Scientific Knowledge (1995), whole work; section not checked"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
 anabranch_t7: "dissents"
 anabranch_t7_says: "(a) Argues the indigenous/scientific divide fails on substantive, methodological and contextual grounds, disputing a split (inference)."
 anabranch_t7_cite: "Development and Change 26(3) (1995): 413-439"
 anabranch_t7_grade: "[TBV]"
 anabranch_t7_basis: "abstract"
+anabranch_t8: "silent"
+anabranch_t8_says: "Does not take up growth meeting its limits, or drawing on the wisdom of the universe as the curve levels off."
+anabranch_t8_cite: "Dismantling the Divide Between Indigenous and Scientific Knowledge (1995), whole work; section not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
 anabranch_t9: "qualifies"
 anabranch_t9_says: "(a) Questions whether indigenous and scientific knowledge can be separated; attacks a local-versus-international definition; urges moving past the dichotomy towards indigenous autonomy."
-anabranch_t9_cite: "Agrawal 1995, Development and Change 26(3): 413-439; abstract and opening sections (1994 working-paper version)"
+anabranch_t9_cite: "Agrawal 1995, Development and Change 26(3): 413-439; 'New Directions?' and Conclusion, pp. 431-433"
 anabranch_t9_grade: "[IC]"
 anabranch_t9_basis: "text"
 ---
@@ -45,13 +75,19 @@ The article is widely cited in conservation and development studies, often besid
 
 The wiki takes from it a qualifier on the two-stream framing that T9 assumes, coded as Michael Haupt decided on 20 November 2026 [MS].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it dissents on T7; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T2; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it dissents on T7; it is silent on T8; it qualifies T9.
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 - [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

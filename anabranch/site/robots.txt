@@ -1,0 +1,7 @@
+# anabranch.bioconomy.earth
+# Every page and data file on this site is public, and readers, search engines
+# and AI agents are welcome to fetch it. A plain-text map of the site for AI
+# agents is at https://anabranch.bioconomy.earth/llms.txt
+
+User-agent: *
+Allow: /

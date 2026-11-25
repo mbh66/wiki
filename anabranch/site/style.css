@@ -449,8 +449,8 @@ p {
   .intro {
     font-size: var(--s0);
   }
-  .claim {
-    font-size: var(--s1);
+  .step-card .claim {
+    font-size: 1.125rem;
   }
 }
 
@@ -513,6 +513,10 @@ p {
   font-size: var(--s3);
   margin-bottom: 1rem;
 }
+/* Closed, Evidence Summary sits as close to the next heading as the other folds do */
+.counts:has(> .fold:not([open])) + .steps {
+  margin-top: 1.5rem;
+}
 .count-table {
   border-collapse: collapse;
   width: 100%;
@@ -543,6 +547,7 @@ p {
 /* The chain */
 .steps {
   margin-top: clamp(3rem, 8vw, 5rem);
+  margin-bottom: 1.5rem;
 }
 
 .part {
@@ -553,7 +558,7 @@ p {
   max-width: var(--measure);
   margin: 0 auto 1.5rem;
   padding-inline: 1.25rem;
-  font-size: var(--s3);
+  font-size: var(--s2);
 }
 
 .chain {
@@ -563,11 +568,16 @@ p {
   max-width: var(--measure);
 }
 
+/* The word that joins one sub-claim to the next, set at the title's size */
 .connector {
-  margin: 0.4rem 0 0.4rem 1.4rem;
+  margin: 2rem 0 1.6rem;
+  text-align: center;
   font-style: italic;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
   color: var(--muted);
-  font-size: var(--s1);
+  font-size: clamp(2.3rem, 8vw, 3.4rem);
 }
 
 .step-card {
@@ -598,8 +608,8 @@ p {
   font-weight: 700;
 }
 .claim {
-  font-size: var(--s2);
-  line-height: 1.3;
+  font-size: var(--s1);
+  line-height: 1.35;
   margin-bottom: 1rem;
 }
 
@@ -662,6 +672,52 @@ p {
   color: var(--muted);
 }
 
+.summary {
+  margin: 0 0 0.9rem;
+}
+
+/* The full evidence note on each card, folded away under the summary */
+.evidence-panel {
+  margin: 0 0 0.9rem;
+}
+.evidence-panel > summary {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  list-style: none;
+  cursor: pointer;
+  font-family: var(--sans);
+  font-size: var(--s-1);
+  color: var(--slate);
+}
+.evidence-panel > summary::-webkit-details-marker {
+  display: none;
+}
+.evidence-panel > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.45em;
+  height: 0.45em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: translateY(-0.15em) rotate(-45deg);
+  transition: transform 0.15s;
+}
+.evidence-panel[open] > summary::before {
+  transform: translateY(-0.25em) rotate(45deg);
+}
+.evidence-panel > summary:hover {
+  text-decoration: underline;
+}
+.evidence-panel[open] > summary {
+  margin-bottom: 0.7rem;
+}
+@media (prefers-reduced-motion: reduce) {
+  .evidence-panel > summary::before {
+    transition: none;
+  }
+}
+
 .note {
   color: var(--muted);
   font-size: var(--s0);
@@ -678,6 +734,7 @@ p {
 .grid-section {
   margin-bottom: clamp(3rem, 8vw, 5rem);
 }
+.steps h2,
 .grid-section h2,
 .sources h2 {
   font-size: var(--s3);

@@ -186,15 +186,22 @@
       </p>
 
       <section class="measure counts" id="counts" aria-labelledby="counts-h">
-        <h2 id="counts-h">The sources in numbers</h2>
+        <details class="fold" data-fold="counts">
+        <summary><h2 id="counts-h">Evidence Summary</h2></summary>
         <div id="counts-body"></div>
+        </details>
       </section>
 
-      <div id="steps" class="steps"></div>
+      <section class="steps" id="sub-claims" aria-labelledby="steps-h">
+        <details class="fold" data-fold="steps" open>
+        <summary class="measure"><h2 id="steps-h">The Nine Sub-Claims</h2></summary>
+        <div id="steps"></div>
+        </details>
+      </section>
 
       <section class="grid-section" id="grid" aria-labelledby="grid-h">
         <details class="fold" data-fold="grid">
-        <summary class="measure"><h2 id="grid-h">Where the sources stand</h2></summary>
+        <summary class="measure"><h2 id="grid-h">Evidence Matrix</h2></summary>
         <div class="measure">
           <div id="grid-lede"></div>
           <ul class="legend">

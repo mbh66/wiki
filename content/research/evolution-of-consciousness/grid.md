@@ -1,6 +1,6 @@
 ---
 title: What the Sources Share and Dispute
-description: A step-by-step grid of where 93 sources stand on the evolution of consciousness argument, critics included, with the kind of evidence behind each step, a dating table set against the archaeological record, the Southern African record and grades for ten propositions.
+description: A step-by-step grid of where 94 sources stand on the evolution of consciousness argument, critics included, with the kind of evidence behind each step, a dating table set against the archaeological record, the Southern African record and grades for ten propositions.
 aliases:
   - evolution of consciousness grid
   - consciousness grid
@@ -11,7 +11,7 @@ tags:
   - evolution-of-consciousness
   - bioconomy
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: BioConomy
 source_documents:
   - "Deep research report: Evolution of Consciousness Grid, Run 2 (19 November 2026)"

@@ -15,24 +15,54 @@ standing: "Field reception not checked in this run [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-20
-updated: 2026-11-21
+updated: 2026-11-25
 source_project: "BioConomy"
 anabranch_group: "6. Cultural and historical theorists"
-anabranch_steps: ["T2", "T7", "T9"]
+anabranch_steps: ["T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
 anabranch_t2: "silent"
 anabranch_t2_says: "Discusses articulating Indigenous knowledge systems with other systems in policy, and does not state that knowledge arrives by unexplained routes."
 anabranch_t2_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole work; chapter not checked"
 anabranch_t2_grade: "[TBV]"
 anabranch_t2_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
+anabranch_t4: "silent"
+anabranch_t4_says: "Does not take up whether the universe strives towards higher expressions of itself."
+anabranch_t4_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole work; section not checked"
+anabranch_t4_grade: "[TBV]"
+anabranch_t4_basis: "summary"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
+anabranch_t6: "silent"
+anabranch_t6_says: "Does not take up whether the universe has a direction towards wholeness."
+anabranch_t6_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole work; section not checked"
+anabranch_t6_grade: "[TBV]"
+anabranch_t6_basis: "summary"
 anabranch_t7: "qualifies"
 anabranch_t7_says: "Treats, on part (b), African indigenous knowledge systems as able to help heal colonial harms and transform institutions; silent on parts (a) and (c)."
 anabranch_t7_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), editor's chapter 'Indigenous Knowledge and the Integration of Knowledge Systems: Towards a Conceptual and Methodological Framework' (pp. 2-22, per Horsthemke), with the whole volume as described in the AfricaBib abstract"
 anabranch_t7_grade: "[IC]"
 anabranch_t7_basis: "abstract"
-anabranch_t9: "affirms"
-anabranch_t9_says: "Argues for integrating indigenous knowledge systems with the sciences, through a philosophy of articulation that transforms research, higher education and policy."
+anabranch_t8: "silent"
+anabranch_t8_says: "Does not take up growth meeting its limits, or drawing on the wisdom of the universe as the curve levels off."
+anabranch_t8_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), whole work; section not checked"
+anabranch_t8_grade: "[TBV]"
+anabranch_t8_basis: "summary"
+anabranch_t9: "qualifies"
+anabranch_t9_says: "(a) Argues for articulating Indigenous knowledge systems with science and policy, conditional on protection and on transforming knowledge institutions."
 anabranch_t9_cite: "Indigenous Knowledge and the Integration of Knowledge Systems (2002), 'The Place of Indigenous Knowledge Systems in the Post-Postmodern' (p. 257), with the editor's chapter 'Indigenous Knowledge and the Integration of Knowledge Systems: Towards a Conceptual and Methodological Framework' (pp. 2-22, per Horsthemke)"
-anabranch_t9_grade: "[IC]"
+anabranch_t9_grade: "[TBV]"
 anabranch_t9_basis: "abstract"
 ---
 
@@ -42,15 +72,21 @@ The volume gathers essays on indigenous knowledge systems, with a focus on Afric
 
 Its reception was not checked, and no chapter was read; the coding rests on the catalogue summary, the abstract and the contents in WorldCat, Stanford SearchWorks and Google Books [TBV].
 
-The wiki takes from it an African scholarly voice that speaks of its own knowledge systems in its own terms, and argues for joining them with the sciences through what it calls articulation [TBV].
+The wiki takes from it an African scholarly voice that speaks of its own knowledge systems in its own terms, and argues for joining them with the sciences through what it calls articulation [TBV]. Read against the wording of 22 November 2026, its descriptions present articulation as a programme that depends on protecting the systems and on changing the institutions that produce knowledge, so Anabranch run 9 moved it from affirming T9 to qualifying [TBV].
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T2; it qualifies T7; it affirms T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T2; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it qualifies T7; it is silent on T8; it qualifies T9.
 
 ## Cited by
 
-- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
-- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
 - [[research/evolution-of-consciousness/anabranch/t2-information-arrives|T2. Information arrives that Material Consciousness has not explained]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
+- [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
+- [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t7-the-bifurcation|T7. The Bifurcation]]
+- [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {

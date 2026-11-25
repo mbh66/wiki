@@ -1,6 +1,6 @@
 ---
 title: The Graded Consciousness Library
-description: A graded library of 158 works on whether human consciousness has a history, each coded by tier, evidence type and the claims it speaks to, with coverage tests and the gaps that remain.
+description: A graded library of 159 works on whether human consciousness has a history, each coded by tier, evidence type and the claims it speaks to, with coverage tests and the gaps that remain.
 aliases:
   - evolution of consciousness library
   - consciousness evolution reading list
@@ -12,7 +12,7 @@ tags:
   - library
   - bioconomy
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: BioConomy
 source_documents:
   - "Deep research report: The Evolution of Consciousness: A Graded Library of 95 Works (19 November 2026)"

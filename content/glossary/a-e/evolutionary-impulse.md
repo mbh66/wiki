@@ -8,11 +8,11 @@ first_defined_in: "Michael Haupt, Anabranch thesis (19 November 2026), step T4"
 related_terms: ["noosphere", "structure-of-consciousness", "mythic-consciousness"]
 source_project: "BioConomy"
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-25
 epistemic_status: "documented-framework"
 ---
 
-The Evolutionary Impulse is a name, used in evolutionary spirituality, for a creative drive that some hold moves the universe toward greater complexity and awareness. Step T4 of the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] gives it as one of three names for the force behind a striving it attributes to the universe. The other two are building complexity and God [MS].
+The Evolutionary Impulse is a name, used in evolutionary spirituality, for a creative drive that some hold moves the universe toward greater complexity and awareness. Step T4 of the [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] gives it as one of two names for the force behind a striving it attributes to the universe. The other is God [MS].
 
 ## Extended definition
 
@@ -48,7 +48,7 @@ The thesis uses the term as these writers do, as one name among several. It does
 
 ## Provenance
 
-Written on 20 November 2026, after Anabranch Run 3b named the Evolutionary Impulse as a term the thesis uses without a glossary entry. The research run found no source in the library that uses the term itself. The lineage was checked for this entry: Bergson through standard reference accounts of *Creative Evolution*, and Cohen through his own published teaching and Visser's review. The contrasts follow the wiki's source pages; their grades are carried over. Roger Briggs's "supra-evolution", one pervasive tendency of the universe (*Emerging World*, ch. 5, p. 159), is close in meaning, but he doesn't use the term, so this entry doesn't cite him for it.
+Written on 20 November 2026, after Anabranch Run 3b named the Evolutionary Impulse as a term the thesis uses without a glossary entry. The research run found no source in the library that uses the term itself. The lineage was checked for this entry: Bergson through standard reference accounts of *Creative Evolution*, and Cohen through his own published teaching and Visser's review. The contrasts follow the wiki's source pages; their grades are carried over. Roger Briggs's "supra-evolution", one pervasive tendency of the universe (*Emerging World*, ch. 5, p. 159), is close in meaning, but he doesn't use the term, so this entry doesn't cite him for it. On 25 November 2026 the entry was brought into line with the shorter wording of step T4, which no longer names building complexity.
 
 <script type="application/ld+json">
 {

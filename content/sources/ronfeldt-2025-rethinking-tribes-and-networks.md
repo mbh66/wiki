@@ -24,7 +24,7 @@ standing: "The author's own Substack series; no independent account found [TBV]"
 on_seed_list: "no"
 grade: "[TBV]"
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 grid_group: "6. Cultural and historical theorists"
 grid_steps: ["B3", "C1", "C2", "C3", "C4"]
@@ -53,12 +53,27 @@ grid_c4_says: "Holds that the network form's rise subverts existing realms befor
 grid_c4_cite: "Rethinking What 'Tribes' and 'Networks' Are Good For, Part II (30 October 2025); Part IV, 'Toward TIMN 2.0: Preamble' (9 January 2026)"
 grid_c4_grade: "[TBV]"
 grid_c4_basis: "text"
-anabranch_steps: ["T4", "T6", "T8", "T9"]
+anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T8", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Rethinking What 'Tribes' and 'Networks' Are Good For (2025), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Rethinking What 'Tribes' and 'Networks' Are Good For (2025), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t4: "silent"
 anabranch_t4_says: "Takes the design of societies as its subject and makes no claim that the universe strives."
 anabranch_t4_cite: "Rethinking What 'Tribes' and 'Networks' Are Good For, Parts I, II and IV as read for run 8"
 anabranch_t4_grade: "[TBV]"
 anabranch_t4_basis: "text"
+anabranch_t5: "silent"
+anabranch_t5_says: "Does not take up whether every individual takes part in a cosmic process."
+anabranch_t5_cite: "Rethinking What 'Tribes' and 'Networks' Are Good For (2025), whole work; section not checked"
+anabranch_t5_grade: "[TBV]"
+anabranch_t5_basis: "summary"
 anabranch_t6: "silent"
 anabranch_t6_says: "Seeks harmony between two axes within society and claims no direction for the universe."
 anabranch_t6_cite: "Rethinking What 'Tribes' and 'Networks' Are Good For, Part IV, 'Toward TIMN 2.0: Preamble' (9 January 2026)"
@@ -82,7 +97,7 @@ David Ronfeldt revisits the two "sideways" forms of his TIMN framework [IC]. He 
 
 The [[research/evolution-of-consciousness/library|library]] codes it as a canon work in political science, with evidence type E4 and claim codes B3, C1, C2, C3, C4. It speaks of forms of organisation where the claim chain speaks of structures of awareness, so every grid square it holds qualifies.
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T4; it is silent on T6; it is silent on T8; it qualifies T9.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T3; it is silent on T4; it is silent on T5; it is silent on T6; it is silent on T8; it qualifies T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it qualifies B3, C1, C2, C3 and C4.
 
@@ -90,7 +105,10 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 
 - [[research/evolution-of-consciousness/library|The Evolution of Consciousness: A Graded Library]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
+- [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
 - [[research/evolution-of-consciousness/anabranch/t8-the-noosphere|T8. The Noosphere near the top of the curve]]
 - [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]

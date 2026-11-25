@@ -8,7 +8,7 @@ publisher: "Blackwell Publishers"
 tags: ["source", "consciousness", "development", "psychology", "values", "evolution-of-consciousness", "anabranch"]
 subject: ["economics", "consciousness"]
 created: 2026-11-19
-updated: 2026-11-22
+updated: 2026-11-25
 source_project: "BioConomy"
 briefs: ["evolution-of-consciousness-library", "evolution-of-consciousness-grid", "anabranch"]
 tier: "canon"
@@ -58,7 +58,17 @@ grid_c4_says: "Holds that first-tier value systems resist second-tier thinking."
 grid_c4_cite: "Spiral Dynamics (1996), Section 2 'The Dynamics of the Spiral's vMEMEs', ch. 4 'Change and the Spiral' (p. 71) (inference)"
 grid_c4_grade: "[TBV]"
 grid_c4_basis: "summary"
-anabranch_steps: ["T4", "T5", "T6"]
+anabranch_steps: ["T1", "T3", "T4", "T5", "T6", "T9"]
+anabranch_t1: "silent"
+anabranch_t1_says: "Does not take up whether consciousness exists beyond the body."
+anabranch_t1_cite: "Spiral Dynamics (1996), whole work; section not checked"
+anabranch_t1_grade: "[TBV]"
+anabranch_t1_basis: "summary"
+anabranch_t3: "silent"
+anabranch_t3_says: "Does not take up whether the brain filters consciousness or produces it."
+anabranch_t3_cite: "Spiral Dynamics (1996), whole work; section not checked"
+anabranch_t3_grade: "[TBV]"
+anabranch_t3_basis: "summary"
 anabranch_t4: "qualifies"
 anabranch_t4_says: "Describes stages of human value systems, with no claim that the universe itself strives."
 anabranch_t4_cite: "Spiral Dynamics (1996), chapter not checked"
@@ -74,6 +84,11 @@ anabranch_t6_says: "(a) Holds that value systems emerge in an open-ended spiral;
 anabranch_t6_cite: "Spiral Dynamics (1996), Section 1, ch. 1 'Different Times Produce Different Minds'"
 anabranch_t6_grade: "[TBV]"
 anabranch_t6_basis: "summary"
+anabranch_t9: "silent"
+anabranch_t9_says: "Does not take up place-based and globally shared knowledge working side by side, or the commons that join them."
+anabranch_t9_cite: "Spiral Dynamics (1996), whole work; section not checked"
+anabranch_t9_grade: "[TBV]"
+anabranch_t9_basis: "summary"
 ---
 
 Beck, D.E. & Cowan, C.C. (1996). *Spiral Dynamics: Mastering Values, Leadership, and Change.* Blackwell Publishers. ISBN: 978-1-55786-940-6.
@@ -86,7 +101,7 @@ The corpus draws on Spiral Dynamics mainly through Graves's original research, a
 
 
 
-The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it qualifies T4; it qualifies T5; it affirms T6.
+The [[research/evolution-of-consciousness/anabranch/index|Anabranch thesis]] codes its positions: it is silent on T1; it is silent on T3; it qualifies T4; it qualifies T5; it affirms T6; it is silent on T9.
 
 The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions on the claim chain: it affirms B1, B2, B3, C1, C2 and C4.
 
@@ -98,9 +113,12 @@ The [[research/evolution-of-consciousness/grid|claim grid]] codes its positions 
 - [[first-tier|First Tier]]
 - [[second-tier|Second Tier]]
 - [[research/evolution-of-consciousness/grid|The Evolution of Consciousness: What the Sources Share and Dispute]]
+- [[research/evolution-of-consciousness/anabranch/t1-consciousness-exists-beyond-the-body|T1. Consciousness exists beyond the body]]
+- [[research/evolution-of-consciousness/anabranch/t3-the-brain-filters-consciousness|T3. The brain filters consciousness]]
 - [[research/evolution-of-consciousness/anabranch/t4-the-universe-strives|T4. The universe strives towards higher expressions]]
 - [[research/evolution-of-consciousness/anabranch/t5-everyone-takes-part|T5. Everyone takes part]]
 - [[research/evolution-of-consciousness/anabranch/t6-the-trend-is-towards-wholeness|T6. The trend is towards wholeness]]
+- [[research/evolution-of-consciousness/anabranch/t9-the-confluence|T9. The Confluence]]
 
 <script type="application/ld+json">
 {
